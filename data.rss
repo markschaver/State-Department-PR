@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Mon, 28 Jun 2021 15:56:57 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Jun 2021 18:55:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -101,12 +101,14 @@ Tunisia</td>
 <td width="153"><strong><u>Americas<br />
 </u></strong>Canada<br />
 Panama<br />
-United States<strong><u>Institutions<br />
+United States</p>
+<p><strong><u>Institutions<br />
 </u></strong>Arab League<br />
 CEN-SAD<br />
 EU<br />
 INTERPOL<br />
-NATO<strong><u>Asia Pacific<br />
+NATO</p>
+<p><strong><u>Asia Pacific<br />
 </u></strong>Afghanistan<br />
 Australia<br />
 Fiji<br />
@@ -116,8 +118,7 @@ New Zealand<br />
 Philippines<br />
 Singapore<br />
 South Korea<br />
-Taiwan</p>
-<p><strong><u> </u></strong></td>
+Taiwan</td>
 <td width="153"><strong><u>Europe<br />
 </u></strong>Albania<br />
 Austria<br />
@@ -156,7 +157,7 @@ Spain<br />
 Sweden<br />
 Turkey<br />
 Ukraine<br />
-United Kingdom<strong><u> </u></strong></td>
+United Kingdom</td>
 <td width="153"><strong><u>Middle East<br />
 </u></strong>Bahrain<br />
 Iraq<br />
@@ -167,7 +168,7 @@ Oman<br />
 Qatar<br />
 Saudi Arabia<br />
 United Arab Emirates<br />
-Yemen<strong><u> </u></strong></td>
+Yemen</td>
 </tr>
 </tbody>
 </table>
@@ -209,12 +210,14 @@ Tunisia</td>
 <td width="153"><strong><u>Americas<br />
 </u></strong>Canada<br />
 Panama<br />
-United States<strong><u>Institutions<br />
+United States</p>
+<p><strong><u>Institutions<br />
 </u></strong>Arab League<br />
 CEN-SAD<br />
 EU<br />
 INTERPOL<br />
-NATO<strong><u>Asia Pacific<br />
+NATO</p>
+<p><strong><u>Asia Pacific<br />
 </u></strong>Afghanistan<br />
 Australia<br />
 Fiji<br />
@@ -224,8 +227,7 @@ New Zealand<br />
 Philippines<br />
 Singapore<br />
 South Korea<br />
-Taiwan</p>
-<p><strong><u> </u></strong></td>
+Taiwan</td>
 <td width="153"><strong><u>Europe<br />
 </u></strong>Albania<br />
 Austria<br />
@@ -264,7 +266,7 @@ Spain<br />
 Sweden<br />
 Turkey<br />
 Ukraine<br />
-United Kingdom<strong><u> </u></strong></td>
+United Kingdom</td>
 <td width="153"><strong><u>Middle East<br />
 </u></strong>Bahrain<br />
 Iraq<br />
@@ -275,7 +277,7 @@ Oman<br />
 Qatar<br />
 Saudi Arabia<br />
 United Arab Emirates<br />
-Yemen<strong><u> </u></strong></td>
+Yemen</td>
 </tr>
 </tbody>
 </table>
