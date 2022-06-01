@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Wed, 01 Jun 2022 00:34:57 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Jun 2022 13:52:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,161 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Special Envoy for the Horn of Africa</title>
+		<link>https://www.state.gov/special-envoy-for-the-horn-of-africa-2/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Wed, 01 Jun 2022 13:47:39 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=348622</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p><span>As Ambassador David Satterfield prepares to step down from the role, I am announcing that Ambassador Mike Hammer will succeed him as U.S. Special Envoy for the Horn of Africa.  I am grateful to Ambassador Satterfield for the experience and determination he brought to the role, and I look forward to the energy and vision that Ambassador Hammer will now lend to our efforts in the Horn of Africa.  His appointment underscores our abiding commitment to diplomatic efforts in the region, most urgently in support of an inclusive political process towards peace, common security, and prosperity for all people in Ethiopia.  This Administration remains firmly focused on a cessation of hostilities, unhindered humanitarian access, transparent investigations into violations and human rights abuses by all actors, and a negotiated resolution to the conflict.</span></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p><span>As Ambassador David Satterfield prepares to step down from the role, I am announcing that Ambassador Mike Hammer will succeed him as U.S. Special Envoy for the Horn of Africa.  I am grateful to Ambassador Satterfield for the experience and determination he brought to the role, and I look forward to the energy and vision that Ambassador Hammer will now lend to our efforts in the Horn of Africa.  His appointment underscores our abiding commitment to diplomatic efforts in the region, most urgently in support of an inclusive political process towards peace, common security, and prosperity for all people in Ethiopia.  This Administration remains firmly focused on a cessation of hostilities, unhindered humanitarian access, transparent investigations into violations and human rights abuses by all actors, and a negotiated resolution to the conflict.</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Blinken’s Call with Palestinian Authority President Abbas</title>
 		<link>https://www.state.gov/secretary-blinkens-call-with-palestinian-authority-president-abbas-3/</link>
 		
@@ -1944,179 +2099,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>The below is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken spoke today with the Foreign Minister of the Kingdom of Saudi Arabia, Prince Faisal bin Farhan Al Saud.  The Secretary thanked the Foreign Minister for Saudi Arabia’s efforts to strengthen and extend the truce in Yemen, and they discussed efforts to avert the economic, environmental, and humanitarian threats posed by the Safer oil tanker in the Red Sea region.  The Secretary underscored the importance of international support for Ukraine as it defends its sovereignty and territorial integrity and emphasized the need for a global response to the food security crisis resulting from President Putin’s brutal war.  The Secretary and the Foreign Minister also discussed the challenge posed by Iran’s nuclear program and its destabilizing behavior in the region, and opportunities for greater cooperation on regional issues.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>G7 Foreign Ministers’ Statement on the Launch of an Intercontinental Ballistic Missile by the DPRK</title>
-		<link>https://www.state.gov/g7-foreign-ministers-statement-on-the-launch-of-an-intercontinental-ballistic-missile-by-the-dprk/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Mon, 30 May 2022 22:13:18 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=348242</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The text of the following statement was released by the G7 foreign ministers of Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States of America, and the High Representative of the European Union.</p>
-<p>We, the G7 Foreign Ministers of Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States of America, and the High Representative of the European Union, condemn in the strongest terms the test of yet another Intercontinental Ballistic Missile (ICBM) conducted on May 25, 2022, by the Democratic People’s Republic of Korea (DPRK).  Like a number of ballistic missile launches the DPRK has conducted since the beginning of 2022, this act constitutes a further blatant violation of relevant UN Security Council resolutions and undermines international peace and security as well as the global non-proliferation regime.</p>
-<p>We are very concerned by the unprecedented series of ballistic missile tests with increasingly versatile systems across all ranges, building on ballistic missile tests conducted in 2021.  Together with the evidence of ongoing nuclear activities, these acts underscore the DPRK’s determination to advance and diversify its nuclear capabilities.  These reckless actions flagrantly breach the DPRK’s obligations under relevant UN Security Council resolutions, which the Security Council most recently reaffirmed in resolution 2397 (2017).  They also pose a danger and unpredictable risk to international civil aviation and maritime navigation in the region.</p>
-<p>We, the G7 Foreign Ministers and the High Representative of the European Union, reiterate our urgent call on the DPRK to abandon its weapons of mass destruction and ballistic missile programs in a complete, verifiable and irreversible manner and to fully comply with all legal obligations arising from the relevant Security Council resolutions.</p>
-<p>We deeply regret that the Security Council has failed to adopt the draft resolution aimed at condemning the series of recent ballistic missile launches by the DPRK and strengthening measures against it despite support from 13 members.  We urge all UN Member States, especially Security Council members, to join us in condemning the DPRK´s behavior and reaffirm its obligation to abandon its weapons of mass destruction and ballistic missile programs.  These acts demand a united response by the international community, including a united stance and further significant measures by the UN Security Council.</p>
-<p>We reiterate our call on the DPRK to engage in diplomacy toward denuclearization and accept the repeated offers of dialogue put forward by the United States, the Republic of Korea and Japan.  By diverting its resources into weapons of mass destruction and ballistic missile programs the DPRK further aggravates the already dire humanitarian situation in the DPRK.  We urge the DPRK to facilitate access for international humanitarian organizations and for independent assessment of humanitarian needs such as food and medicines as soon as possible.</p>
-<p>We also call on all States to fully and effectively implement all relevant Security Council resolutions, and to address the risk of weapons of mass destruction proliferation from the DPRK as an urgent priority.</p>
-<p>The G7 remain committed to working with all relevant partners towards the goal of peace and stability on the Korean Peninsula and to upholding the rules-based international order.</p>
-<p><i>End Text</i></p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The text of the following statement was released by the G7 foreign ministers of Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States of America, and the High Representative of the European Union.</p>
-<p>We, the G7 Foreign Ministers of Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States of America, and the High Representative of the European Union, condemn in the strongest terms the test of yet another Intercontinental Ballistic Missile (ICBM) conducted on May 25, 2022, by the Democratic People’s Republic of Korea (DPRK).  Like a number of ballistic missile launches the DPRK has conducted since the beginning of 2022, this act constitutes a further blatant violation of relevant UN Security Council resolutions and undermines international peace and security as well as the global non-proliferation regime.</p>
-<p>We are very concerned by the unprecedented series of ballistic missile tests with increasingly versatile systems across all ranges, building on ballistic missile tests conducted in 2021.  Together with the evidence of ongoing nuclear activities, these acts underscore the DPRK’s determination to advance and diversify its nuclear capabilities.  These reckless actions flagrantly breach the DPRK’s obligations under relevant UN Security Council resolutions, which the Security Council most recently reaffirmed in resolution 2397 (2017).  They also pose a danger and unpredictable risk to international civil aviation and maritime navigation in the region.</p>
-<p>We, the G7 Foreign Ministers and the High Representative of the European Union, reiterate our urgent call on the DPRK to abandon its weapons of mass destruction and ballistic missile programs in a complete, verifiable and irreversible manner and to fully comply with all legal obligations arising from the relevant Security Council resolutions.</p>
-<p>We deeply regret that the Security Council has failed to adopt the draft resolution aimed at condemning the series of recent ballistic missile launches by the DPRK and strengthening measures against it despite support from 13 members.  We urge all UN Member States, especially Security Council members, to join us in condemning the DPRK´s behavior and reaffirm its obligation to abandon its weapons of mass destruction and ballistic missile programs.  These acts demand a united response by the international community, including a united stance and further significant measures by the UN Security Council.</p>
-<p>We reiterate our call on the DPRK to engage in diplomacy toward denuclearization and accept the repeated offers of dialogue put forward by the United States, the Republic of Korea and Japan.  By diverting its resources into weapons of mass destruction and ballistic missile programs the DPRK further aggravates the already dire humanitarian situation in the DPRK.  We urge the DPRK to facilitate access for international humanitarian organizations and for independent assessment of humanitarian needs such as food and medicines as soon as possible.</p>
-<p>We also call on all States to fully and effectively implement all relevant Security Council resolutions, and to address the risk of weapons of mass destruction proliferation from the DPRK as an urgent priority.</p>
-<p>The G7 remain committed to working with all relevant partners towards the goal of peace and stability on the Korean Peninsula and to upholding the rules-based international order.</p>
-<p><i>End Text</i></p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
