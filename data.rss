@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Wed, 01 Jun 2022 13:52:56 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Jun 2022 14:13:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Commemorating Pride Month</title>
+		<link>https://www.state.gov/commemorating-pride-month/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Wed, 01 Jun 2022 14:13:53 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=348632</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p align="left">For over 50 years, people around the world have come together to celebrate Pride Month, when we recognize the beautiful diversity of LGBTQI+ communities while acknowledging that the movement to advance the human rights of LGBTQI+ persons has been one of both struggle and progress.  Pride Month commemorates the Stonewall Uprising, a fateful day in 1969 when LGBTQI+ people fought back against police mistreatment and discrimination.  Their act of protest led to the birth of a human rights movement.  That movement ultimately helped secure greater recognition of the human rights of LGBTQI+ persons and strengthened American democracy itself.  Countries are stronger when all people – regardless of sexual orientation, gender identity or expression, or sex characteristics – are fully recognized as free and equal members of their society.</p>
+<p align="left">One of the leading human rights issues of our time is the treatment of LGBTQI+ persons around the world.  LGBTQI+ communities continue to live with unacceptable violence and discrimination. Those who seek to promote and protect the rights of LGBTQI+ persons are especially vulnerable to attack.  In too many countries today, access to LGBTQI+-related information is restricted and representation of LGBTQI+ issues is censored.  Too often, Pride events themselves are banned by governments or violently disrupted by those motivated by hatred.</p>
+<p align="left">The Department is working to advance the human rights of LGBTQI+ persons in line with President Biden’s Memorandum on Advancing the Human Rights of LGBTQI+ Persons Around the World.  The State Department updated U.S. passport application policies to allow for gender self-certification and offered an &#8220;X&#8221; gender marker option.  We issued the annual Human Rights Reports that included robust coverage of the human rights abuses against LGBTQI+ persons.  We monitored court proceedings when LGBTQI+ persons were unjustly arrested.  We re-affirmed that LGBTQI+ persons and their families deserve full equality, and we stood with local advocates for marriage equality.  We spoke out when LGBTQI+ persons were the victims of hate crimes.  We also celebrated a milestone:  the Global Equality Fund passed the threshold of disbursing over $100 million dollars in over 100 countries to support the movement for the human rights of LGBTQI+ persons on the frontlines.  We conduct all of this work  recognizing that Americans have much work to do to ensure equality and dignity for LGBTQI+ persons at home.</p>
+<p align="left">In celebration of Pride Month, the U.S. Department of State recommits to protecting and promoting the human rights of LGBTQI+ persons around the world.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p align="left">For over 50 years, people around the world have come together to celebrate Pride Month, when we recognize the beautiful diversity of LGBTQI+ communities while acknowledging that the movement to advance the human rights of LGBTQI+ persons has been one of both struggle and progress.  Pride Month commemorates the Stonewall Uprising, a fateful day in 1969 when LGBTQI+ people fought back against police mistreatment and discrimination.  Their act of protest led to the birth of a human rights movement.  That movement ultimately helped secure greater recognition of the human rights of LGBTQI+ persons and strengthened American democracy itself.  Countries are stronger when all people – regardless of sexual orientation, gender identity or expression, or sex characteristics – are fully recognized as free and equal members of their society.</p>
+<p align="left">One of the leading human rights issues of our time is the treatment of LGBTQI+ persons around the world.  LGBTQI+ communities continue to live with unacceptable violence and discrimination. Those who seek to promote and protect the rights of LGBTQI+ persons are especially vulnerable to attack.  In too many countries today, access to LGBTQI+-related information is restricted and representation of LGBTQI+ issues is censored.  Too often, Pride events themselves are banned by governments or violently disrupted by those motivated by hatred.</p>
+<p align="left">The Department is working to advance the human rights of LGBTQI+ persons in line with President Biden’s Memorandum on Advancing the Human Rights of LGBTQI+ Persons Around the World.  The State Department updated U.S. passport application policies to allow for gender self-certification and offered an &#8220;X&#8221; gender marker option.  We issued the annual Human Rights Reports that included robust coverage of the human rights abuses against LGBTQI+ persons.  We monitored court proceedings when LGBTQI+ persons were unjustly arrested.  We re-affirmed that LGBTQI+ persons and their families deserve full equality, and we stood with local advocates for marriage equality.  We spoke out when LGBTQI+ persons were the victims of hate crimes.  We also celebrated a milestone:  the Global Equality Fund passed the threshold of disbursing over $100 million dollars in over 100 countries to support the movement for the human rights of LGBTQI+ persons on the frontlines.  We conduct all of this work  recognizing that Americans have much work to do to ensure equality and dignity for LGBTQI+ persons at home.</p>
+<p align="left">In celebration of Pride Month, the U.S. Department of State recommits to protecting and promoting the human rights of LGBTQI+ persons around the world.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Special Envoy for the Horn of Africa</title>
 		<link>https://www.state.gov/special-envoy-for-the-horn-of-africa-2/</link>
 		
@@ -1940,165 +2103,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Stockholm+50 will commemorate the 1972 United Nations Conference on the Human Environment and celebrate 50 years of global environmental action under the theme “Stockholm+50: a healthy planet for the prosperity of all – our responsibility, our opportunity.” At the conference, Secretary Kerry and Assistant Secretary Medina will engage with government counterparts, private sector actors, and civil society partners to advance efforts related to sustainable development, environmental protection, and nature conservation.</p>
 <p>Secretary Kerry will also participate in the LeadIT Industry Transition Dialogue on June 1 to discuss low-carbon pathways on the road to net-zero in heavy industry.</p>
 <p>For press inquiries, contact <a href="mailto:ClimateComms@state.gov" target="_blank" rel="noopener">ClimateComms@state.gov</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Blinken’s Call with Saudi Foreign Minister Prince Faisal bin Farhan Al Saud</title>
-		<link>https://www.state.gov/secretary-blinkens-call-with-saudi-foreign-minister-prince-faisal-bin-farhan-al-saud-6/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Tue, 31 May 2022 02:22:55 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=348265</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The below is attributable to Spokesperson Ned Price:</p>
-<p>Secretary of State Antony J. Blinken spoke today with the Foreign Minister of the Kingdom of Saudi Arabia, Prince Faisal bin Farhan Al Saud.  The Secretary thanked the Foreign Minister for Saudi Arabia’s efforts to strengthen and extend the truce in Yemen, and they discussed efforts to avert the economic, environmental, and humanitarian threats posed by the Safer oil tanker in the Red Sea region.  The Secretary underscored the importance of international support for Ukraine as it defends its sovereignty and territorial integrity and emphasized the need for a global response to the food security crisis resulting from President Putin’s brutal war.  The Secretary and the Foreign Minister also discussed the challenge posed by Iran’s nuclear program and its destabilizing behavior in the region, and opportunities for greater cooperation on regional issues.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The below is attributable to Spokesperson Ned Price:</p>
-<p>Secretary of State Antony J. Blinken spoke today with the Foreign Minister of the Kingdom of Saudi Arabia, Prince Faisal bin Farhan Al Saud.  The Secretary thanked the Foreign Minister for Saudi Arabia’s efforts to strengthen and extend the truce in Yemen, and they discussed efforts to avert the economic, environmental, and humanitarian threats posed by the Safer oil tanker in the Red Sea region.  The Secretary underscored the importance of international support for Ukraine as it defends its sovereignty and territorial integrity and emphasized the need for a global response to the food security crisis resulting from President Putin’s brutal war.  The Secretary and the Foreign Minister also discussed the challenge posed by Iran’s nuclear program and its destabilizing behavior in the region, and opportunities for greater cooperation on regional issues.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
