@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Thu, 02 Jun 2022 21:40:39 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Jun 2022 21:52:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,163 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Blinken’s Meeting with DRC Vice Prime Minister and Foreign Minister Lutundula</title>
+		<link>https://www.state.gov/secretary-blinkens-meeting-with-drc-vice-prime-minister-and-foreign-minister-lutundula/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2022 21:49:11 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=349277</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The following is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken met yesterday with Democratic Republic of the Congo Vice Prime Minister and Foreign Minister Christophe Lutundula in Washington, D.C.  Secretary Blinken and Foreign Minister Lutundula discussed efforts to promote peace and stability in eastern DRC amid rising regional tensions.  The Secretary noted recent attacks by M23 and other armed groups, urged de-escalation, and stressed the importance of continued regional dialogue to address the ongoing conflict to further the work of the Nairobi initiative.  Secretary Blinken and Foreign Minister Lutundula also discussed the importance of transparent and effective planning for the DRC’s 2023 elections.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The following is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken met yesterday with Democratic Republic of the Congo Vice Prime Minister and Foreign Minister Christophe Lutundula in Washington, D.C.  Secretary Blinken and Foreign Minister Lutundula discussed efforts to promote peace and stability in eastern DRC amid rising regional tensions.  The Secretary noted recent attacks by M23 and other armed groups, urged de-escalation, and stressed the importance of continued regional dialogue to address the ongoing conflict to further the work of the Nairobi initiative.  Secretary Blinken and Foreign Minister Lutundula also discussed the importance of transparent and effective planning for the DRC’s 2023 elections.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Joint Statement on the U.S. &#8211; North Macedonia Strategic Dialogue</title>
 		<link>https://www.state.gov/joint-statement-on-the-u-s-north-macedonia-strategic-dialogue/</link>
 		
@@ -496,7 +653,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Ambassador at Large for International Religious Freedom Rashad Hussain</p>
 <p>Washington, D.C.</p>
 <p>Benjamin Franklin Room</p>
-<p><center></center></p>
 <p><strong>SECRETARY BLINKEN:</strong> Good morning, everyone. Today, the State Department is releasing the 2021 International Religious Freedom Report. This report offers a thorough, fact-based review of the state of religious freedom in nearly 200 countries and territories around the world. We produce this document every year since 1998, starting under the leadership of then Secretary Albright, whose life and legacy we continue to celebrate.</p>
 <p>Back then, the Office of International Religious Freedom, which leads this annual process of drafting the report, was the only government entity in the world charged with monitoring and defending international religious freedom. Now, more than two decades later, we have more than 35 governments and multilateral organizations that have created offices that are dedicated to this goal.</p>
 <p>And I’d like to thank the office for its efforts again this year under the leadership of Ambassador Rashad Hussain. This team has done remarkable work, and I very much appreciate the efforts.</p>
@@ -616,7 +772,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Ambassador at Large for International Religious Freedom Rashad Hussain</p>
 <p>Washington, D.C.</p>
 <p>Benjamin Franklin Room</p>
-<p><center></center></p>
 <p><strong>SECRETARY BLINKEN:</strong> Good morning, everyone. Today, the State Department is releasing the 2021 International Religious Freedom Report. This report offers a thorough, fact-based review of the state of religious freedom in nearly 200 countries and territories around the world. We produce this document every year since 1998, starting under the leadership of then Secretary Albright, whose life and legacy we continue to celebrate.</p>
 <p>Back then, the Office of International Religious Freedom, which leads this annual process of drafting the report, was the only government entity in the world charged with monitoring and defending international religious freedom. Now, more than two decades later, we have more than 35 governments and multilateral organizations that have created offices that are dedicated to this goal.</p>
 <p>And I’d like to thank the office for its efforts again this year under the leadership of Ambassador Rashad Hussain. This team has done remarkable work, and I very much appreciate the efforts.</p>
@@ -1788,167 +1943,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Vice President Harris launched the <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA2MDIuNTg3OTE3NDEiLCJ1cmwiOiJodHRwczovL2djYzAyLnNhZmVsaW5rcy5wcm90ZWN0aW9uLm91dGxvb2suY29tLz91cmw9aHR0cHMlM0ElMkYlMkZ3d3cud2hpdGVob3VzZS5nb3YlMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRjIwMjIlMkYwNiUyRndhdGVyLWFjdGlvbi1wbGFuX2ZpbmFsX2Zvcm1hdHRlZC5wZGYmZGF0YT0wNSU3QzAxJTdDUGVhYm9keVZXJTQwc3RhdGUuZ292JTdDNTAxOWI1MWI0MGZlNDA4MGEwMGEwOGRhNDQzNGUxYjIlN0M2NmNmNTA3NDVhZmU0OGQxYTY5MWExMmIyMTIxZjQ0YiU3QzAlN0MwJTdDNjM3ODk3MjkxMTY3MzkzMTg0JTdDVW5rbm93biU3Q1RXRnBiR1pzYjNkOGV5SldJam9pTUM0d0xqQXdNREFpTENKUUlqb2lWMmx1TXpJaUxDSkJUaUk2SWsxaGFXd2lMQ0pYVkNJNk1uMCUzRCU3QzMwMDAlN0MlN0MlN0Mmc2RhdGE9ZE5SaEtmOHl5Tmh5NndVVEl5VG1JaE51TzEwJTJCR0s3dVBET1hCZVN2NUZrJTNEJnJlc2VydmVkPTAifQ.9IzUUZvrnw57g-WRMEObLKQ8npj0t25D-NDq5vFt13E/s/1436012980/br/132284022753-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA2MDIuNTg3OTE3NDEiLCJ1cmwiOiJodHRwczovL2djYzAyLnNhZmVsaW5rcy5wcm90ZWN0aW9uLm91dGxvb2suY29tLz91cmw9aHR0cHMlM0ElMkYlMkZ3d3cud2hpdGVob3VzZS5nb3YlMkZ3cC1jb250ZW50JTJGdXBsb2FkcyUyRjIwMjIlMkYwNiUyRndhdGVyLWFjdGlvbi1wbGFuX2ZpbmFsX2Zvcm1hdHRlZC5wZGYmZGF0YT0wNSU3QzAxJTdDUGVhYm9keVZXJTQwc3RhdGUuZ292JTdDNTAxOWI1MWI0MGZlNDA4MGEwMGEwOGRhNDQzNGUxYjIlN0M2NmNmNTA3NDVhZmU0OGQxYTY5MWExMmIyMTIxZjQ0YiU3QzAlN0MwJTdDNjM3ODk3MjkxMTY3MzkzMTg0JTdDVW5rbm93biU3Q1RXRnBiR1pzYjNkOGV5SldJam9pTUM0d0xqQXdNREFpTENKUUlqb2lWMmx1TXpJaUxDSkJUaUk2SWsxaGFXd2lMQ0pYVkNJNk1uMCUzRCU3QzMwMDAlN0MlN0MlN0Mmc2RhdGE9ZE5SaEtmOHl5Tmh5NndVVEl5VG1JaE51TzEwJTJCR0s3dVBET1hCZVN2NUZrJTNEJnJlc2VydmVkPTAifQ.9IzUUZvrnw57g-WRMEObLKQ8npj0t25D-NDq5vFt13E%2Fs%2F1436012980%2Fbr%2F132284022753-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C6cc48c70d7bd4d0de9bf08da4498fd42%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C1%7C637897721122137965%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=Oc1hUGuZpb25K6%2B%2BLzDHIecUx7MLbNognP27fXhQbOk%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">White House Action Plan on Global Water Security</a>, a landmark whole-of-government effort to achieve a water-secure world.  The plan covers the full spectrum of global water issues and advances United States leadership on water security.</p>
 <p>Secure and sustainable access to safe water is an essential element of national security, and the Department of State is working together with our partners and allies to facilitate water cooperation and engagement on water management across our development programming and diplomatic efforts.  Through the Bureau of Oceans and International Environmental and Scientific Affairs’ Office of Conservation and Water, we are coordinating with the U.S. Agency for International Development to update the U.S. Global Water Strategy, which outlines a whole-of-government approach to create a more water-secure world, where people and nations have the water they need to be healthy, prosperous, and resilient.</p>
 <p>As the Vice President said, water scarcity is a global problem, and the State Department, together with our partners, will work to help achieve a global solution.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>On the Occasion of Her Majesty Queen Elizabeth II&#8217;s Platinum Jubilee and Official Birthday</title>
-		<link>https://www.state.gov/on-the-occasion-of-her-majesty-queen-elizabeth-iis-platinum-jubilee-and-official-birthday/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Thu, 02 Jun 2022 04:01:54 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=348917</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>On behalf of the United States of America, I congratulate Her Majesty Queen Elizabeth II and the people of the United Kingdom on the occasion of Her Majesty’s Platinum Jubilee and official birthday.</p>
-<p>Her Majesty’s unprecedented 70 years of service to the United Kingdom are an inspiration to Americans, who deeply admire the Queen and are grateful for her decades of friendship with the United States.  Through our special relationship, common history, and shared values, we work together to uphold democracy, human rights, and the rule of law worldwide.  Our countries collaborate closely on virtually every significant challenge and opportunity the world over precisely because we have no closer partner.</p>
-<p>The United States joins the British people in celebrating this historic and joyous occasion.  I send my heartfelt wishes for peace, prosperity, and good health to Her Majesty and all the people across the United Kingdom.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>On behalf of the United States of America, I congratulate Her Majesty Queen Elizabeth II and the people of the United Kingdom on the occasion of Her Majesty’s Platinum Jubilee and official birthday.</p>
-<p>Her Majesty’s unprecedented 70 years of service to the United Kingdom are an inspiration to Americans, who deeply admire the Queen and are grateful for her decades of friendship with the United States.  Through our special relationship, common history, and shared values, we work together to uphold democracy, human rights, and the rule of law worldwide.  Our countries collaborate closely on virtually every significant challenge and opportunity the world over precisely because we have no closer partner.</p>
-<p>The United States joins the British people in celebrating this historic and joyous occasion.  I send my heartfelt wishes for peace, prosperity, and good health to Her Majesty and all the people across the United Kingdom.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
