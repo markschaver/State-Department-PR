@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Fri, 03 Jun 2022 19:42:08 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jun 2022 19:44:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,7 +31,7 @@
 		<title>Secretary Blinken’s Call with Omani Foreign Minister Al Busaidi</title>
 		<link>https://www.state.gov/secretary-blinkens-call-with-omani-foreign-minister-al-busaidi-5/</link>
 		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
 		<pubDate>Fri, 03 Jun 2022 19:29:41 +0000</pubDate>
 				<category><![CDATA[]]></category>
 		<guid isPermaLink="false">https://www.state.gov/?page_id=349592</guid>
@@ -104,9 +104,10 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		});
 		});
 		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p><span style="font-family: times new roman,times; font-size: medium;">The below is attributable to Spokesperson Ned Price:</span></p>
-<p><span style="font-family: times new roman,times; font-size: medium;">Secretary of State Antony J. Blinken spoke yesterday with the Foreign Minister of Oman, Sayyid Badr al Busaidi. The Secretary thanked the Foreign Minister for Oman’s efforts to strengthen and extend the truce in Yemen. The Secretary and the Foreign Minister also discussed Iran and opportunities for greater cooperation on regional issues. Finally, the Secretary noted he looked forward to hosting the Foreign Minister in Washington soon.</span></p>
+		<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke yesterday with the Foreign Minister of Oman, Sayyid Badr al Busaidi. The Secretary thanked the Foreign Minister for Oman’s efforts to strengthen and extend the truce in Yemen. The Secretary and the Foreign Minister also discussed Iran and opportunities for greater cooperation on regional issues. Finally, the Secretary noted he looked forward to hosting the Foreign Minister in Washington soon.</p>
+<p><input type="hidden" data-filter="111001000111" /></p>
 ]]></description>
 					<script type="text/javascript">
 document.addEventListener("DOMContentLoaded", function(event) {
@@ -176,9 +177,10 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		});
 		});
 		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p><span style="font-family: times new roman,times; font-size: medium;">The below is attributable to Spokesperson Ned Price:</span></p>
-<p><span style="font-family: times new roman,times; font-size: medium;">Secretary of State Antony J. Blinken spoke yesterday with the Foreign Minister of Oman, Sayyid Badr al Busaidi. The Secretary thanked the Foreign Minister for Oman’s efforts to strengthen and extend the truce in Yemen. The Secretary and the Foreign Minister also discussed Iran and opportunities for greater cooperation on regional issues. Finally, the Secretary noted he looked forward to hosting the Foreign Minister in Washington soon.</span></p>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke yesterday with the Foreign Minister of Oman, Sayyid Badr al Busaidi. The Secretary thanked the Foreign Minister for Oman’s efforts to strengthen and extend the truce in Yemen. The Secretary and the Foreign Minister also discussed Iran and opportunities for greater cooperation on regional issues. Finally, the Secretary noted he looked forward to hosting the Foreign Minister in Washington soon.</p>
+<p><input type="hidden" data-filter="111001000111" /></p>
 ]]></content:encoded>
 					
 		
