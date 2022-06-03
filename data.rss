@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Fri, 03 Jun 2022 16:54:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jun 2022 16:57:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>One Hundred Days of the Kremlin&#8217;s War Against Ukraine</title>
+		<link>https://www.state.gov/one-hundred-days-of-the-kremlins-war-against-ukraine/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 03 Jun 2022 16:56:33 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=349499</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>In the one hundred days since Russian President Putin ordered his forces to further invade Ukraine, the world has seen the courage and determination of the people of Ukraine as they fight for their country. Since February 24, the United States has provided more than 6.3 billion dollars of security, humanitarian and economic assistance to help Ukraine prevail. As President Biden has said, our goal is straightforward: The United States wants to see a democratic, independent, sovereign and prosperous Ukraine with the means to deter and defend itself against further aggression.</p>
+<p>We again call on President Putin to immediately end this conflict and all the suffering and global upheaval his war of choice has caused. Neither the United States nor our allies and partners seek to prolong the war to inflict pain on Russia. We greatly respect the citizens of Russia, who are not our enemy and who deserve a better future than what continued war and increasing repression will bring.</p>
+<p>To the families of Ukraine who have lost loved ones, who have been separated by violence, whose villages, apartments, schools, and hospitals have been hit by bombs, shells and missiles, who have been sent to and survived Russia’s so-called “filtration” camps: The United States stands with you; we will help you defend your sovereignty and territorial integrity, and we will help you rebuild when this war is over.</p>
+<p>Ukraine will prevail.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>In the one hundred days since Russian President Putin ordered his forces to further invade Ukraine, the world has seen the courage and determination of the people of Ukraine as they fight for their country. Since February 24, the United States has provided more than 6.3 billion dollars of security, humanitarian and economic assistance to help Ukraine prevail. As President Biden has said, our goal is straightforward: The United States wants to see a democratic, independent, sovereign and prosperous Ukraine with the means to deter and defend itself against further aggression.</p>
+<p>We again call on President Putin to immediately end this conflict and all the suffering and global upheaval his war of choice has caused. Neither the United States nor our allies and partners seek to prolong the war to inflict pain on Russia. We greatly respect the citizens of Russia, who are not our enemy and who deserve a better future than what continued war and increasing repression will bring.</p>
+<p>To the families of Ukraine who have lost loved ones, who have been separated by violence, whose villages, apartments, schools, and hospitals have been hit by bombs, shells and missiles, who have been sent to and survived Russia’s so-called “filtration” camps: The United States stands with you; we will help you defend your sovereignty and territorial integrity, and we will help you rebuild when this war is over.</p>
+<p>Ukraine will prevail.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Invocation of the OSCE Moscow Mechanism to Investigate Mounting Reports of Human Rights Abuses and International Humanitarian Law Violations by Russia in Ukraine</title>
 		<link>https://www.state.gov/invocation-of-the-osce-moscow-mechanism-to-investigate-mounting-reports-of-human-rights-abuses-and-international-humanitarian-law-violations-by-russia-in-ukraine/</link>
 		
@@ -2061,209 +2224,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p><strong>Trade and Investment </strong></p>
 <p>The two countries reaffirmed their shared commitment to broaden and deepen bilateral economic and commercial cooperation.  The United States recognized North Macedonia as a strategically important emerging market with high growth potential.  North Macedonia and the United States expressed readiness to seize commercial opportunities, advance business climate reforms, and to continue identifying and reducing barriers to trade and investment.</p>
 <p><em>End Text.</em></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>U.S.- Bangladesh High-Level Economic Consultation</title>
-		<link>https://www.state.gov/u-s-bangladesh-high-level-economic-consultation/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Thu, 02 Jun 2022 20:39:39 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=349240</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The following is the text of a joint statement by the Governments of the United States of America and Bangladesh.</p>
-<p><em>Begin Text:</em></p>
-<p>On June 2, 2022, U.S. Under Secretary of State for Economic Growth, Energy, and the Environment, Jose W. Fernandez, and Adviser for Private Industry and Investment to the Honorable Prime Minister of Bangladesh, Salman F. Rahman, MP, convened and co-chaired the Second U.S.-Bangladesh High-Level Economic Consultation in Washington, DC.</p>
-<ol>
-<li><em>Strengthening Business/Commercial Engagement</em></li>
-</ol>
-<p>The meeting participants celebrated the strong and growing economic partnership between the United States and Bangladesh, a highlight of our 50 years of bilateral relations.  The United States highlighted Bangladesh’s evident potential to be a regional leader in digital trade and noted with appreciation steps taken by Bangladesh to adopt a transparent regulatory environment to secure broad-based foreign investment in its bourgeoning digital economy sector.</p>
-<p>Bangladesh welcomed investment from U.S. firms in Bangladesh, including in the renewable energy, telecommunications, and agricultural and food processing sectors and to its economic zones.  Bangladesh warmly welcomed a U.S. concept of a U.S.-Bangladesh Women’s Council, which would enhance women’s employment, entrepreneurship, and access to educational opportunities in support of a more equitable future. Both sides decided to coordinate more on implementing existing transparent commercial policies and consistent enforcement of intellectual property rights in Bangladesh.</p>
-<ol start="2">
-<li><em>Labor</em></li>
-</ol>
-<p>The United States acknowledged the Government of Bangladesh’s progress with respect to workers’ rights in Bangladesh in, for example, instituting safety reforms in the garment export sector, simplifying trade-union registration, developing a publicly accessible trade-union database, establishing helplines to receive complaints, digitalizing labor inspection and strengthening labor courts.  The United States urged Bangladesh to take further steps to adhere to internationally recognized labor rights standards, including those developed by Bangladesh for its International Labor Organization (ILO) road map.  Bangladesh expressed its commitment to swiftly pass necessary reforms and fully implement the four priority areas of the ILO road map.  Bangladesh also expressed a commitment to address other areas of labor reform including improving workers’ rights to freedom of association and collective bargaining in export processing zones (EPZs) and gradually in other sectors across Bangladesh’s economy.  Both sides decided that the effective implementation and enforcement of international labor standards can help the economies of both countries recover from the pandemic, broaden economic gains, and unlock further economic potential with other trade partners by creating an attractive business environment.</p>
-<p>Bangladesh expressed interest in receiving U.S. development finance from the International Development Finance Corporation (DFC) for a wide range of infrastructure opportunities.  The United States affirmed it would consider Bangladesh’s request while emphasizing the need for Bangladesh to implement the ILO road map.</p>
-<ol start="3">
-<li><em>Climate/Energy/Health</em></li>
-</ol>
-<p>The United States commended Bangladesh on its admirable response to the COVID-19 pandemic.  Bangladesh has fully vaccinated over 76 percent of its population and partially vaccinated over 99 percent of the eligible population.  Bangladesh expressed gratitude for the over 64 million vaccine doses the United States donated, in partnership with COVAX, to support Bangladesh’s COVID-19 response efforts.  The United States welcomed Bangladesh’s interest in the United States-developed COVID-19 Prioritized Global Action Plan for Enhanced Engagement so that Bangladesh could share best practices with the world on its effective vaccination of its population and Forcibly Displaced Myanmar Nationals (FDMN).</p>
-<p>The United States also highlighted Bangladesh’s role as a global climate leader.  Both sides emphasized the importance of delivering on and strengthening existing commitments in the lead-up to COP 27.  The United States encouraged Bangladesh to consider joining the Global Methane Pledge, urge major emitting countries to do more on climate initiatives, and continue outlining adaptation priorities.  Bangladesh welcomed USAID’s climate support, including a review of embankments to assess the feasibility of nature-based solutions to protect critical biodiverse areas from degradation.  Bangladesh encouraged U.S. companies to invest in clean energy to help Bangladesh advance on its COP nationally determined contribution targets for climate.</p>
-<ol start="4">
-<li><em>Infrastructure/Trade</em><em> </em></li>
-</ol>
-<p>Both countries share a common vision of a free, open, inclusive, peaceful, and secure Indo-Pacific region with shared prosperity for all.  The United States briefed Bangladesh on the Indo-Pacific Economic Framework (IPEF), and Bangladesh welcomed additional information on the supply chain resilience and decarbonization pillars of the IPEF.  Bangladesh also sought U.S. technical assistance to sustainably explore its ocean resources and further develop its blue economy in pursuit of environmental protection and economic prosperity.</p>
-<p>Bangladesh highlighted that re-starting non-stop flights between New York City and Dhaka is a high priority.   Both sides are committed to taking the next steps to move this forward at the earliest.</p>
-<p><em>End text.</em></p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The following is the text of a joint statement by the Governments of the United States of America and Bangladesh.</p>
-<p><em>Begin Text:</em></p>
-<p>On June 2, 2022, U.S. Under Secretary of State for Economic Growth, Energy, and the Environment, Jose W. Fernandez, and Adviser for Private Industry and Investment to the Honorable Prime Minister of Bangladesh, Salman F. Rahman, MP, convened and co-chaired the Second U.S.-Bangladesh High-Level Economic Consultation in Washington, DC.</p>
-<ol>
-<li><em>Strengthening Business/Commercial Engagement</em></li>
-</ol>
-<p>The meeting participants celebrated the strong and growing economic partnership between the United States and Bangladesh, a highlight of our 50 years of bilateral relations.  The United States highlighted Bangladesh’s evident potential to be a regional leader in digital trade and noted with appreciation steps taken by Bangladesh to adopt a transparent regulatory environment to secure broad-based foreign investment in its bourgeoning digital economy sector.</p>
-<p>Bangladesh welcomed investment from U.S. firms in Bangladesh, including in the renewable energy, telecommunications, and agricultural and food processing sectors and to its economic zones.  Bangladesh warmly welcomed a U.S. concept of a U.S.-Bangladesh Women’s Council, which would enhance women’s employment, entrepreneurship, and access to educational opportunities in support of a more equitable future. Both sides decided to coordinate more on implementing existing transparent commercial policies and consistent enforcement of intellectual property rights in Bangladesh.</p>
-<ol start="2">
-<li><em>Labor</em></li>
-</ol>
-<p>The United States acknowledged the Government of Bangladesh’s progress with respect to workers’ rights in Bangladesh in, for example, instituting safety reforms in the garment export sector, simplifying trade-union registration, developing a publicly accessible trade-union database, establishing helplines to receive complaints, digitalizing labor inspection and strengthening labor courts.  The United States urged Bangladesh to take further steps to adhere to internationally recognized labor rights standards, including those developed by Bangladesh for its International Labor Organization (ILO) road map.  Bangladesh expressed its commitment to swiftly pass necessary reforms and fully implement the four priority areas of the ILO road map.  Bangladesh also expressed a commitment to address other areas of labor reform including improving workers’ rights to freedom of association and collective bargaining in export processing zones (EPZs) and gradually in other sectors across Bangladesh’s economy.  Both sides decided that the effective implementation and enforcement of international labor standards can help the economies of both countries recover from the pandemic, broaden economic gains, and unlock further economic potential with other trade partners by creating an attractive business environment.</p>
-<p>Bangladesh expressed interest in receiving U.S. development finance from the International Development Finance Corporation (DFC) for a wide range of infrastructure opportunities.  The United States affirmed it would consider Bangladesh’s request while emphasizing the need for Bangladesh to implement the ILO road map.</p>
-<ol start="3">
-<li><em>Climate/Energy/Health</em></li>
-</ol>
-<p>The United States commended Bangladesh on its admirable response to the COVID-19 pandemic.  Bangladesh has fully vaccinated over 76 percent of its population and partially vaccinated over 99 percent of the eligible population.  Bangladesh expressed gratitude for the over 64 million vaccine doses the United States donated, in partnership with COVAX, to support Bangladesh’s COVID-19 response efforts.  The United States welcomed Bangladesh’s interest in the United States-developed COVID-19 Prioritized Global Action Plan for Enhanced Engagement so that Bangladesh could share best practices with the world on its effective vaccination of its population and Forcibly Displaced Myanmar Nationals (FDMN).</p>
-<p>The United States also highlighted Bangladesh’s role as a global climate leader.  Both sides emphasized the importance of delivering on and strengthening existing commitments in the lead-up to COP 27.  The United States encouraged Bangladesh to consider joining the Global Methane Pledge, urge major emitting countries to do more on climate initiatives, and continue outlining adaptation priorities.  Bangladesh welcomed USAID’s climate support, including a review of embankments to assess the feasibility of nature-based solutions to protect critical biodiverse areas from degradation.  Bangladesh encouraged U.S. companies to invest in clean energy to help Bangladesh advance on its COP nationally determined contribution targets for climate.</p>
-<ol start="4">
-<li><em>Infrastructure/Trade</em><em> </em></li>
-</ol>
-<p>Both countries share a common vision of a free, open, inclusive, peaceful, and secure Indo-Pacific region with shared prosperity for all.  The United States briefed Bangladesh on the Indo-Pacific Economic Framework (IPEF), and Bangladesh welcomed additional information on the supply chain resilience and decarbonization pillars of the IPEF.  Bangladesh also sought U.S. technical assistance to sustainably explore its ocean resources and further develop its blue economy in pursuit of environmental protection and economic prosperity.</p>
-<p>Bangladesh highlighted that re-starting non-stop flights between New York City and Dhaka is a high priority.   Both sides are committed to taking the next steps to move this forward at the earliest.</p>
-<p><em>End text.</em></p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
