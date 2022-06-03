@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Fri, 03 Jun 2022 00:55:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jun 2022 12:56:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Appointment of Ambassador Joan Polaschik to serve as 22nd Director of the Foreign Service Institute</title>
+		<link>https://www.state.gov/appointment-of-ambassador-joan-polaschik-to-serve-as-22nd-director-of-the-foreign-service-institute/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Fri, 03 Jun 2022 12:53:28 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=349391</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>On May 20, Secretary Blinken designated Ambassador Joan Polaschik to serve as the 22nd Director of the Foreign Service Institute (FSI).  A career member of the Senior Foreign Service, Ambassador Polaschik has served as acting Director of FSI since January 2022. She has been a member of the FSI leadership team since February 2020, serving as the Dean of the School of Professional Area Studies and as the Institute’s Deputy Director.  Before joining FSI, Ambassador Polaschik was a Senior State Department Fellow at Georgetown University’s Institute for the Study of Diplomacy. Ambassador Polaschik previously served as Acting Principal Deputy Assistant Secretary for Near Eastern Affairs, U.S. Ambassador to Algeria, and Deputy Chief of Mission in Tripoli, among other overseas and domestic assignments.</p>
+<p>Ambassador Polaschik’s appointment underscores the State Department’s strong commitment to modernizing American diplomacy to advance the interests of the American people.  She will lead the Department’s efforts to develop the skills and training America’s foreign affairs professionals need to meet the rapidly evolving challenges of the 21st century.</p>
+<p>For further information, please contact <a href="mailto:FSIPublicAffairs@state.gov" target="_blank" rel="noopener">FSIPublicAffairs@state.gov</a>.</p>
+<p><input type="hidden" data-filter="111001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>On May 20, Secretary Blinken designated Ambassador Joan Polaschik to serve as the 22nd Director of the Foreign Service Institute (FSI).  A career member of the Senior Foreign Service, Ambassador Polaschik has served as acting Director of FSI since January 2022. She has been a member of the FSI leadership team since February 2020, serving as the Dean of the School of Professional Area Studies and as the Institute’s Deputy Director.  Before joining FSI, Ambassador Polaschik was a Senior State Department Fellow at Georgetown University’s Institute for the Study of Diplomacy. Ambassador Polaschik previously served as Acting Principal Deputy Assistant Secretary for Near Eastern Affairs, U.S. Ambassador to Algeria, and Deputy Chief of Mission in Tripoli, among other overseas and domestic assignments.</p>
+<p>Ambassador Polaschik’s appointment underscores the State Department’s strong commitment to modernizing American diplomacy to advance the interests of the American people.  She will lead the Department’s efforts to develop the skills and training America’s foreign affairs professionals need to meet the rapidly evolving challenges of the 21st century.</p>
+<p>For further information, please contact <a href="mailto:FSIPublicAffairs@state.gov" target="_blank" rel="noopener">FSIPublicAffairs@state.gov</a>.</p>
+<p><input type="hidden" data-filter="111001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Department Press Briefing –  June 2, 2022</title>
 		<link>https://www.state.gov/briefings/department-press-briefing-june-2-2022/</link>
 		
@@ -2315,239 +2476,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p><b>Mr. Gonzalez:<span class="Apple-converted-space">  </span></b>Thank you.<span class="Apple-converted-space">  </span>So the United States does continue to recognize interim President Juan Guaido as the legitimately elected president of the – of the national assembly, which was the last democratically elected institution in that country.<span class="Apple-converted-space">  </span>And we engage actively with him, with his ambassador and his government as well as the representatives of the unity platform and we’re actually supporting a dialogue that produces outcomes that lead to free and fair elections in the country.</p>
 <p>I’m not going to talk about the considerations with regard to invitations except to just underscore that there are – governments have different views on some of these topics, and we engage and consult with them.<span class="Apple-converted-space">  </span>And ultimately the host prerogative is important, but we also are wanting to facilitate a broad hemispheric discussion and want to make sure that we’re integrating all of the views of the members of the Organization of American States.<span class="Apple-converted-space">  </span>So again, we’re – for us, it’s most important that we’re gathering together and that the focus is on our collective responsibility to forge a more inclusive and prosperous future for the hemisphere, and that includes one for the people of Venezuela.</p>
 <p><b>Moderator:<span class="Apple-converted-space">  </span></b>That concludes today’s call.<span class="Apple-converted-space">  </span>I want to thank Senior Director Gonzalez and Assistant Secretary Nichols for joining us and thank all of our callers for participating.<span class="Apple-converted-space">  </span>If you have any questions about today’s call, you may contact the Miami Media Hub at MiamiHub@state.gov.<span class="Apple-converted-space">  </span>Thank you and have a good day.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Promoting Accountability and Imposing Costs on the Russian Federation and Its Enablers for Putin’s Aggression Against Ukraine</title>
-		<link>https://www.state.gov/promoting-accountability-and-imposing-costs-on-the-russian-federation-and-its-enablers-for-putins-aggression-against-ukraine/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Thu, 02 Jun 2022 14:51:51 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=349052</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The Department of State is taking additional steps to target Russia’s oligarchs and elites, in close coordination with partners and allies, with the goal of imposing severe costs on the Government of the Russian Federation and limiting the Kremlin’s ability to fund Putin’s war of aggression against Ukraine.</p>
-<p><b><u>INDIVIDUALS AND ENTITIES DESIGNATED BY THE STATE DEPARTMENT</u></b></p>
-<ul>
-<li>God Nisanov, an oligarch with close ties to numerous Russian officials, is being designated pursuant to E.O. 14024 section 1(a)(vii). Nisanov is a real estate investor and one of the richest people in Europe.</li>
-<li>Evgeny Novitskiy, a Russian elite with close ties to the Government of Russia, is being designated pursuant to E.O. 14024 section 1(a)(vii).</li>
-<li>Maria Zakharova is being designated pursuant to E.O. 14024 section 1(a)(iii)(A) for her role as an official of the Government of the Russian Federation as the spokesperson for the Foreign Ministry. The EU, UK, Japan, Australia, and New Zealand have previously designated Maria Zakharova.</li>
-<li>Sergey Gorkov, the head of RosGeo and a former executive of sanctioned banks, is being designated pursuant to E.O. 14024 section 1(a)(iii)(A) for his involvement in the Government of the Russian Federation via RosGeo.</li>
-<li>Severgroup is a multi-billion-dollar Russia’s investment company with holdings and subsidiaries in metallurgy, engineering, mining, tourism, banking, technology, media, and finance, among other sectors. Severgroup is being designated pursuant to E.O. 14024 Section 1(a)(i) because it operates or has operated in the financial services sector of the Russian Federation economy.</li>
-<li>Alexey Mordashov, the leader of Severgroup Limited Liability Company and one of Russia’s wealthiest billionaires, is being designated, pursuant to section 1(a)(iii)(C) of E.O. 14024, for being a leader, official, senior executive officer, or member of the board of directors of Severgroup, an entity whose property or interests in property are blocked pursuant to E.O. 14024 section 1(a)(i). The EU, Australia, New Zealand, and the UK previously designated Alexey Mordashov.</li>
-</ul>
-<ul>
-<li>Family members of Alexey Mordashov who are being designated pursuant to section 1(a)(v) of E.O. 14024 for being the spouse or adult child of a person whose property and interests in property are blocked pursuant to section 1(a)(ii) or 1(a)(iii) of E.O. 14024 are:
-<ul>
-<li>Marina Mordashova</li>
-<li>Nikita Mordashov</li>
-<li>Kirill Mordashov</li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>Entities designated for relation to Alexey Mordashov include:
-<ul>
-<li>Severstal is among Russia’s leading domestic steel producers. Severstal is being designated pursuant to E.O. 14024 Section 1(a)(vii) because it is owned or controlled by Alexey Mordashov, a person whose property and interests in property are blocked pursuant to section 1(a)(iii)(C) of E.O. 14024.</li>
-<li>Algoritm is a holding company that controls dozens of Russian technology, media, and advertising companies. Algoritm is being designated pursuant to E.O. 14024 section 1(a)(vii) because it is owned or controlled by Alexey Mordashov, a person whose property and interests in property are blocked pursuant to section 1(a)(iii)(C) of E.O. 14024.</li>
-<li>Nord Gold is a gold mining company with assets and operations around the world, including in the Russian Federation, Burkina Faso, French Guiana, Guinea, Kazakhstan, and Canada. Nord Gold is being designated pursuant to E.O. 14024 section 1(a)(vii) because it is owned or controlled by Alexey Mordashov, a person whose property and interests in property are blocked pursuant to section 1(a)(iii)(C) of E.O. 14024.</li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>In addition, the Department of the Treasury issued two new general licenses (“GL”) and amended one GL in connection with the Department’s designations of Severstal, Nord Gold, and Alogritm. Specifically:
-<ul>
-<li>Under GL 36, all transactions prohibited by E.O. 14024 that are ordinarily incident and necessary to the wind down of transactions involving Public Joint Stock Company Severstal or any entity in which Public Joint Stock Company Severstal owns, directly or indirectly, a 50 percent or greater interest, are authorized through 12:01 a.m. eastern daylight time, August 31, 2022, provided that any payment to Public Joint Stock Company Severstal or any other blocked person must be made into a blocked account in accordance with the Russian Harmful Foreign Activities Sanctions Regulations, 31 CFR part 587 (RuHSR)</li>
-<li>Under GL 37, all transactions prohibited by E.O. 14024 that are ordinarily incident and necessary to the wind down of transactions involving Nord Gold PLC, or any entity in which Nord Gold PLC owns, directly or indirectly, a 50 percent or greater interest, are authorized through 12:01 a.m. eastern daylight time, July 1, 2022, provided that any payment to Nord Gold PLC or any other blocked person must be made into a blocked account in accordance with the RuHSR.</li>
-<li>GL 25 was amended to exclude Algorithm, an entity that will be designated pursuant to E.O. 14024, from the scope of the authorization. GL 25 authorizes all transactions ordinarily incident and necessary to the receipt or transmission of telecommunications involving the Russian Federation that are prohibited by the RuHSR.  Additionally, GL 25 authorizes the exportation or re-exportation, sale, or supply, directly or indirectly, from the United States or by U.S. persons, wherever located, to the Russian Federation of services, software, hardware, or technology incident to the exchange of communications over the internet, such as instant messaging, videoconferencing, chat and email, social networking, sharing of photos, movies, and documents, web browsing, blogging, web hosting, and domain name registration services, that is prohibited by the RuHSR.</li>
-</ul>
-</li>
-</ul>
-<p><b><u>SANCTIONS IMPLICATIONS</u></b></p>
-<p>The Department of the Treasury’s Office of Foreign Assets Control (OFAC) will add the entities and vessels above to the list of Specially Designated Nationals and Blocked Persons.  As a result of today’s action, all property and interests in property of the entities above that are in the United States or in the possession or control of U.S. persons are blocked and must be reported to OFAC.  In addition, any entities that are owned, directly or indirectly, 50 percent or more by one or more blocked persons are also blocked.  All transactions by U.S. persons or within (or transiting) the United States that involve any property or interests in property of designated or otherwise blocked persons are prohibited unless authorized by a general or specific license issued by OFAC or exempt.  These prohibitions include the making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any blocked person and the receipt of any contribution or provision of funds, goods, or services from any such person.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The Department of State is taking additional steps to target Russia’s oligarchs and elites, in close coordination with partners and allies, with the goal of imposing severe costs on the Government of the Russian Federation and limiting the Kremlin’s ability to fund Putin’s war of aggression against Ukraine.</p>
-<p><b><u>INDIVIDUALS AND ENTITIES DESIGNATED BY THE STATE DEPARTMENT</u></b></p>
-<ul>
-<li>God Nisanov, an oligarch with close ties to numerous Russian officials, is being designated pursuant to E.O. 14024 section 1(a)(vii). Nisanov is a real estate investor and one of the richest people in Europe.</li>
-<li>Evgeny Novitskiy, a Russian elite with close ties to the Government of Russia, is being designated pursuant to E.O. 14024 section 1(a)(vii).</li>
-<li>Maria Zakharova is being designated pursuant to E.O. 14024 section 1(a)(iii)(A) for her role as an official of the Government of the Russian Federation as the spokesperson for the Foreign Ministry. The EU, UK, Japan, Australia, and New Zealand have previously designated Maria Zakharova.</li>
-<li>Sergey Gorkov, the head of RosGeo and a former executive of sanctioned banks, is being designated pursuant to E.O. 14024 section 1(a)(iii)(A) for his involvement in the Government of the Russian Federation via RosGeo.</li>
-<li>Severgroup is a multi-billion-dollar Russia’s investment company with holdings and subsidiaries in metallurgy, engineering, mining, tourism, banking, technology, media, and finance, among other sectors. Severgroup is being designated pursuant to E.O. 14024 Section 1(a)(i) because it operates or has operated in the financial services sector of the Russian Federation economy.</li>
-<li>Alexey Mordashov, the leader of Severgroup Limited Liability Company and one of Russia’s wealthiest billionaires, is being designated, pursuant to section 1(a)(iii)(C) of E.O. 14024, for being a leader, official, senior executive officer, or member of the board of directors of Severgroup, an entity whose property or interests in property are blocked pursuant to E.O. 14024 section 1(a)(i). The EU, Australia, New Zealand, and the UK previously designated Alexey Mordashov.</li>
-</ul>
-<ul>
-<li>Family members of Alexey Mordashov who are being designated pursuant to section 1(a)(v) of E.O. 14024 for being the spouse or adult child of a person whose property and interests in property are blocked pursuant to section 1(a)(ii) or 1(a)(iii) of E.O. 14024 are:
-<ul>
-<li>Marina Mordashova</li>
-<li>Nikita Mordashov</li>
-<li>Kirill Mordashov</li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>Entities designated for relation to Alexey Mordashov include:
-<ul>
-<li>Severstal is among Russia’s leading domestic steel producers. Severstal is being designated pursuant to E.O. 14024 Section 1(a)(vii) because it is owned or controlled by Alexey Mordashov, a person whose property and interests in property are blocked pursuant to section 1(a)(iii)(C) of E.O. 14024.</li>
-<li>Algoritm is a holding company that controls dozens of Russian technology, media, and advertising companies. Algoritm is being designated pursuant to E.O. 14024 section 1(a)(vii) because it is owned or controlled by Alexey Mordashov, a person whose property and interests in property are blocked pursuant to section 1(a)(iii)(C) of E.O. 14024.</li>
-<li>Nord Gold is a gold mining company with assets and operations around the world, including in the Russian Federation, Burkina Faso, French Guiana, Guinea, Kazakhstan, and Canada. Nord Gold is being designated pursuant to E.O. 14024 section 1(a)(vii) because it is owned or controlled by Alexey Mordashov, a person whose property and interests in property are blocked pursuant to section 1(a)(iii)(C) of E.O. 14024.</li>
-</ul>
-</li>
-</ul>
-<ul>
-<li>In addition, the Department of the Treasury issued two new general licenses (“GL”) and amended one GL in connection with the Department’s designations of Severstal, Nord Gold, and Alogritm. Specifically:
-<ul>
-<li>Under GL 36, all transactions prohibited by E.O. 14024 that are ordinarily incident and necessary to the wind down of transactions involving Public Joint Stock Company Severstal or any entity in which Public Joint Stock Company Severstal owns, directly or indirectly, a 50 percent or greater interest, are authorized through 12:01 a.m. eastern daylight time, August 31, 2022, provided that any payment to Public Joint Stock Company Severstal or any other blocked person must be made into a blocked account in accordance with the Russian Harmful Foreign Activities Sanctions Regulations, 31 CFR part 587 (RuHSR)</li>
-<li>Under GL 37, all transactions prohibited by E.O. 14024 that are ordinarily incident and necessary to the wind down of transactions involving Nord Gold PLC, or any entity in which Nord Gold PLC owns, directly or indirectly, a 50 percent or greater interest, are authorized through 12:01 a.m. eastern daylight time, July 1, 2022, provided that any payment to Nord Gold PLC or any other blocked person must be made into a blocked account in accordance with the RuHSR.</li>
-<li>GL 25 was amended to exclude Algorithm, an entity that will be designated pursuant to E.O. 14024, from the scope of the authorization. GL 25 authorizes all transactions ordinarily incident and necessary to the receipt or transmission of telecommunications involving the Russian Federation that are prohibited by the RuHSR.  Additionally, GL 25 authorizes the exportation or re-exportation, sale, or supply, directly or indirectly, from the United States or by U.S. persons, wherever located, to the Russian Federation of services, software, hardware, or technology incident to the exchange of communications over the internet, such as instant messaging, videoconferencing, chat and email, social networking, sharing of photos, movies, and documents, web browsing, blogging, web hosting, and domain name registration services, that is prohibited by the RuHSR.</li>
-</ul>
-</li>
-</ul>
-<p><b><u>SANCTIONS IMPLICATIONS</u></b></p>
-<p>The Department of the Treasury’s Office of Foreign Assets Control (OFAC) will add the entities and vessels above to the list of Specially Designated Nationals and Blocked Persons.  As a result of today’s action, all property and interests in property of the entities above that are in the United States or in the possession or control of U.S. persons are blocked and must be reported to OFAC.  In addition, any entities that are owned, directly or indirectly, 50 percent or more by one or more blocked persons are also blocked.  All transactions by U.S. persons or within (or transiting) the United States that involve any property or interests in property of designated or otherwise blocked persons are prohibited unless authorized by a general or specific license issued by OFAC or exempt.  These prohibitions include the making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any blocked person and the receipt of any contribution or provision of funds, goods, or services from any such person.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
