@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Fri, 03 Jun 2022 13:34:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jun 2022 14:56:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Special Representative for the DPRK Kim’s Meeting with Republic of Korea Special Representative Kim and Japanese Director General Funakoshi</title>
+		<link>https://www.state.gov/special-representative-for-the-dprk-kims-meeting-with-republic-of-korea-special-representative-kim-and-japanese-director-general-funakoshi/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Fri, 03 Jun 2022 14:56:35 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=349470</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Today in Seoul, U.S. Special Representative for the DPRK Ambassador Sung Kim and Japanese Ministry of Foreign Affairs Director General for Asian and Oceanian Affairs Funakoshi Takehiro participated in a trilateral meeting hosted by Republic of Korea (ROK) Special Representative for Korean Peninsula Peace and Security Affairs Kim Gunn to discuss U.S.-Japan-ROK cooperation on the DPRK. They reaffirmed the importance of a robust trilateral relationship as the three countries work to achieve the complete denuclearization of the Korean Peninsula. U.S. Special Representative Kim, ROK Special Representative Kim, and Director General Funakoshi strongly condemned the DPRK’s continued ballistic missile launches, including the May 24 launch of an intercontinental ballistic missile, as destabilizing to the region and as violations of multiple UN Security Council resolutions. They called upon Pyongyang to immediately cease its unlawful and dangerous behavior and return to dialogue.</p>
+<p>U.S. Special Representative Kim expressed concern about the impact of the ongoing outbreak of COVID-19 on the North Korean people and hope that the DPRK will respond positively to international offers of assistance. He also affirmed U.S. commitment to the immediate resolution of the abductions issue.</p>
+<p><input type="hidden" data-filter="111001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Today in Seoul, U.S. Special Representative for the DPRK Ambassador Sung Kim and Japanese Ministry of Foreign Affairs Director General for Asian and Oceanian Affairs Funakoshi Takehiro participated in a trilateral meeting hosted by Republic of Korea (ROK) Special Representative for Korean Peninsula Peace and Security Affairs Kim Gunn to discuss U.S.-Japan-ROK cooperation on the DPRK. They reaffirmed the importance of a robust trilateral relationship as the three countries work to achieve the complete denuclearization of the Korean Peninsula. U.S. Special Representative Kim, ROK Special Representative Kim, and Director General Funakoshi strongly condemned the DPRK’s continued ballistic missile launches, including the May 24 launch of an intercontinental ballistic missile, as destabilizing to the region and as violations of multiple UN Security Council resolutions. They called upon Pyongyang to immediately cease its unlawful and dangerous behavior and return to dialogue.</p>
+<p>U.S. Special Representative Kim expressed concern about the impact of the ongoing outbreak of COVID-19 on the North Korean people and hope that the DPRK will respond positively to international offers of assistance. He also affirmed U.S. commitment to the immediate resolution of the abductions issue.</p>
+<p><input type="hidden" data-filter="111001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Blinken’s Meeting with North Macedonia’s Foreign Minister Osmani</title>
 		<link>https://www.state.gov/secretary-blinkens-meeting-with-north-macedonias-foreign-minister-osmani/</link>
 		
@@ -2195,167 +2356,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p><span>The following is attributable to Spokesperson Ned Price:</span></p>
 <p><span>Secretary of State Antony J. Blinken spoke today with UK Foreign Secretary Elizabeth Truss.  Secretary Blinken and Foreign Secretary Truss discussed the urgency of continued support to Ukraine, including vital humanitarian and security assistance.  The Secretary reconfirmed the importance of transatlantic unity in holding those who support the Kremlin’s war of choice to account, as well as ensuring vital agricultural commodities can leave Ukraine to provide the world critical food supplies.</span></p>
 <p><span>The two discussed the importance of peace and prosperity in Northern Ireland, and the Secretary encouraged continued dialogue between the UK and the EU.  Secretary Blinken and Foreign Secretary Truss also discussed pandemic preparedness, and the Secretary stressed the importance of increased funding to the Global Fund, emphasizing the critical role it plays in strengthening health systems and fighting HIV/AIDS, tuberculosis, and malaria around the world. </span></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The United States Welcomes the Truce Extension in Yemen</title>
-		<link>https://www.state.gov/the-united-states-welcomes-the-truce-extension-in-yemen/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Thu, 02 Jun 2022 16:39:18 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=349100</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States welcomes today’s announcement by the UN on the extension of the truce in Yemen. This 60-day extension is another important step toward peace and will bring further relief to millions of Yemenis. We are grateful for the efforts of UN Special Envoy Hans Grundberg as well as those of our own Special Envoy, Tim Lenderking, who has worked closely across our government and with the UN and our international partners to achieve this extension. We also appreciate the support of the Governments of Saudi Arabia, Jordan, Egypt, and Oman in helping secure the truce.</p>
-<p>The United States urges the parties to cooperate fully with Special Envoy Grundberg as he builds on the truce toward a comprehensive and inclusive peace process. The parties must continue to uphold their responsibilities under the truce and work together to improve the lives of Yemenis, to include immediately opening roads to the city of Taiz, where hundreds of thousands of Yemenis have suffered for far too long. The first two months of the truce witnessed a dramatic reduction in civilian casualties, improved freedom of movement and humanitarian access, and increased access to fuel and basic goods.  These benefits should continue and expand.</p>
-<p>The United States remains committed to an inclusive, durable resolution to the conflict that alleviates the suffering of Yemenis, that empowers them to determine the future of their country without foreign interference, and that addresses Yemenis’ calls for justice and accountability.  The Yemeni parties have an opportunity to listen to the demands of the people and choose peace over continued suffering, destruction, and war. We urge them to seize this pivotal moment to begin a comprehensive peace process.</p>
-<p><input type="hidden" data-filter="111001000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States welcomes today’s announcement by the UN on the extension of the truce in Yemen. This 60-day extension is another important step toward peace and will bring further relief to millions of Yemenis. We are grateful for the efforts of UN Special Envoy Hans Grundberg as well as those of our own Special Envoy, Tim Lenderking, who has worked closely across our government and with the UN and our international partners to achieve this extension. We also appreciate the support of the Governments of Saudi Arabia, Jordan, Egypt, and Oman in helping secure the truce.</p>
-<p>The United States urges the parties to cooperate fully with Special Envoy Grundberg as he builds on the truce toward a comprehensive and inclusive peace process. The parties must continue to uphold their responsibilities under the truce and work together to improve the lives of Yemenis, to include immediately opening roads to the city of Taiz, where hundreds of thousands of Yemenis have suffered for far too long. The first two months of the truce witnessed a dramatic reduction in civilian casualties, improved freedom of movement and humanitarian access, and increased access to fuel and basic goods.  These benefits should continue and expand.</p>
-<p>The United States remains committed to an inclusive, durable resolution to the conflict that alleviates the suffering of Yemenis, that empowers them to determine the future of their country without foreign interference, and that addresses Yemenis’ calls for justice and accountability.  The Yemeni parties have an opportunity to listen to the demands of the people and choose peace over continued suffering, destruction, and war. We urge them to seize this pivotal moment to begin a comprehensive peace process.</p>
-<p><input type="hidden" data-filter="111001000111" /></p>
 ]]></content:encoded>
 					
 		
