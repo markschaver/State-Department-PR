@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Fri, 03 Jun 2022 23:02:37 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Jun 2022 00:33:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The 33rd Anniversary of Tiananmen Square</title>
+		<link>https://www.state.gov/the-33rd-anniversary-of-tiananmen-square/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Sat, 04 Jun 2022 00:33:44 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=349681</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>Tomorrow, we commemorate the 33rd anniversary of the Tiananmen Square massacre in Beijing, where tens of thousands of pro-democracy protestors peacefully joined together to call for democracy, accountability, freedom, and rule of law.  The 50-day protest ended abruptly on June 4, 1989, with a brutal assault by the People’s Republic of China’s (PRC) military.  Countless were imprisoned and the number of deaths is still unknown today.</p>
+<p>The efforts of these brave individuals will not be forgotten.  Each year, we honor and remember those who stood up for human rights and fundamental freedoms.  While many are no longer able to speak up themselves, we and many around the world continue to stand up on their behalf and support their peaceful efforts to promote democracy and the rights of individuals.</p>
+<p>Today, the struggle for democracy and freedom continues to echo in Hong Kong, where the annual vigil to commemorate the massacre in Tiananmen Square was banned by the PRC and Hong Kong authorities in an attempt to suppress the memories of that day.  We will continue to speak out and promote accountability for PRC atrocities and human rights abuses, including those in Hong Kong, Xinjiang, and Tibet.  To the people of China and to those who continue to stand against injustice and seek freedom, we will not forget June 4.</p>
+<p><input type="hidden" data-filter="111001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>Tomorrow, we commemorate the 33rd anniversary of the Tiananmen Square massacre in Beijing, where tens of thousands of pro-democracy protestors peacefully joined together to call for democracy, accountability, freedom, and rule of law.  The 50-day protest ended abruptly on June 4, 1989, with a brutal assault by the People’s Republic of China’s (PRC) military.  Countless were imprisoned and the number of deaths is still unknown today.</p>
+<p>The efforts of these brave individuals will not be forgotten.  Each year, we honor and remember those who stood up for human rights and fundamental freedoms.  While many are no longer able to speak up themselves, we and many around the world continue to stand up on their behalf and support their peaceful efforts to promote democracy and the rights of individuals.</p>
+<p>Today, the struggle for democracy and freedom continues to echo in Hong Kong, where the annual vigil to commemorate the massacre in Tiananmen Square was banned by the PRC and Hong Kong authorities in an attempt to suppress the memories of that day.  We will continue to speak out and promote accountability for PRC atrocities and human rights abuses, including those in Hong Kong, Xinjiang, and Tibet.  To the people of China and to those who continue to stand against injustice and seek freedom, we will not forget June 4.</p>
+<p><input type="hidden" data-filter="111001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Acting Coordinator for the Global Engagement Center Bray’s Trip to Belgium and the United Kingdom</title>
 		<link>https://www.state.gov/acting-coordinator-for-the-global-engagement-center-brays-trip-to-belgium-and-the-united-kingdom/</link>
 		
@@ -1461,165 +1622,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>With Ukraine’s assent, the United States and 44 other countries have invoked the OSCE Moscow Mechanism a second time since the start of Russia’s further invasion of Ukraine to investigate reports of human rights abuses and violations of international humanitarian law by Russian forces in Ukraine. This action will establish an expert mission to build upon the first Moscow Mechanism report, released April 13. That report focused on grave concerns regarding the humanitarian and human rights situation in Ukraine caused by Russia’s brutal and unprovoked war, with the support of Belarus. That report found “clear patterns of international humanitarian law violations by Russian forces” and evidence of direct targeting of civilians, attacks on medical facilities, rape, executions, looting, and forced deportation of civilians to Russia.</p>
 <p>The second expert mission will continue and update the first mission’s impartial work to establish facts and circumstances surrounding possible contraventions of OSCE commitments and abuses and violations of human rights and international humanitarian law in Ukraine. The expert mission will prepare a new report that will be shared with all OSCE participating States and relevant accountability mechanisms, including national, regional, and international courts and tribunals, as appropriate. The United States and our partners will continue our efforts to hold Russia’s forces accountable for all human rights abuses and violations of international humanitarian law, including war crimes, they commit in Ukraine.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Ambassador Gonzales Sworn in as Director of the Office of Foreign Missions </title>
-		<link>https://www.state.gov/ambassador-gonzales-sworn-in-as-director-of-the-office-of-foreign-missions/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 03 Jun 2022 15:11:12 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=349471</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Ambassador Rebecca Gonzales was sworn in on Tuesday, May 31 as the Director of the Office of Foreign Missions. A career member of the Foreign Service, class of Minister-Counselor, Ambassador Gonzales was the U.S. Ambassador to the Kingdom of Lesotho from 2018 until February 2022.</p>
-<p>Ambassador Gonzales also served as Deputy Executive Director of the Bureau of Near Eastern Affairs; Deputy Management Counselor at the U.S.  Embassy in Pretoria, South Africa; Management Officer at the U.S. Embassy in Gaborone, Botswana; and Special Assistant in the Office of the Under Secretary for Management. Other assignments include service at U.S. embassies in Riyadh, Saudi Arabia; New Delhi, India; Bogota, Colombia; and Athens, Greece.</p>
-<p>Ambassador Gonzales earned both a B.A. and an M.B.A. from The George Washington University, as well as an M.S. from the Eisenhower School for National Security and Resource Strategy.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Ambassador Rebecca Gonzales was sworn in on Tuesday, May 31 as the Director of the Office of Foreign Missions. A career member of the Foreign Service, class of Minister-Counselor, Ambassador Gonzales was the U.S. Ambassador to the Kingdom of Lesotho from 2018 until February 2022.</p>
-<p>Ambassador Gonzales also served as Deputy Executive Director of the Bureau of Near Eastern Affairs; Deputy Management Counselor at the U.S.  Embassy in Pretoria, South Africa; Management Officer at the U.S. Embassy in Gaborone, Botswana; and Special Assistant in the Office of the Under Secretary for Management. Other assignments include service at U.S. embassies in Riyadh, Saudi Arabia; New Delhi, India; Bogota, Colombia; and Athens, Greece.</p>
-<p>Ambassador Gonzales earned both a B.A. and an M.B.A. from The George Washington University, as well as an M.S. from the Eisenhower School for National Security and Resource Strategy.</p>
 ]]></content:encoded>
 					
 		
