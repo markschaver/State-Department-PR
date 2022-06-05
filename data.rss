@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Sat, 04 Jun 2022 01:06:30 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Jun 2022 12:52:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Denmark’s Constitution Day</title>
+		<link>https://www.state.gov/denmarks-constitution-day-2/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Sun, 05 Jun 2022 12:52:53 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=349759</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I congratulate the people of Denmark as you celebrate Constitution Day.</p>
+<p>Denmark is a close friend and Ally of the United States, and our countries’ relationship spans over two centuries of close cooperation rooted in shared democratic values.  Committed to freedom, collective security, and human rights, we are working together to defend against threats to democracy, address the climate crisis and other global challenges, and respond to the actions of regimes that seek to repress fundamental freedoms and undermine the international rules-based order.  As NATO Allies, we are strengthening transatlantic security and coordinating closely to hold Russia accountable for its unprovoked and unjustified war against Ukraine.  The United States looks forward to growing our strong partnership with the Kingdom of Denmark, including Greenland and the Faroe Islands, and to strengthening our vibrant people-to-people ties in the years to come.</p>
+<p>I join you in celebrating this anniversary of the signing of the Danish Constitution and send best wishes for health and prosperity to all people in Denmark.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I congratulate the people of Denmark as you celebrate Constitution Day.</p>
+<p>Denmark is a close friend and Ally of the United States, and our countries’ relationship spans over two centuries of close cooperation rooted in shared democratic values.  Committed to freedom, collective security, and human rights, we are working together to defend against threats to democracy, address the climate crisis and other global challenges, and respond to the actions of regimes that seek to repress fundamental freedoms and undermine the international rules-based order.  As NATO Allies, we are strengthening transatlantic security and coordinating closely to hold Russia accountable for its unprovoked and unjustified war against Ukraine.  The United States looks forward to growing our strong partnership with the Kingdom of Denmark, including Greenland and the Faroe Islands, and to strengthening our vibrant people-to-people ties in the years to come.</p>
+<p>I join you in celebrating this anniversary of the signing of the Danish Constitution and send best wishes for health and prosperity to all people in Denmark.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>U.S. Delegation to the World Telecommunication Development Conference</title>
 		<link>https://www.state.gov/u-s-delegation-to-the-world-telecommunication-development-conference/</link>
 		
@@ -1494,135 +1655,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
 <p>The below is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken spoke today with UN Special Envoy Hans Grundberg to congratulate him on his leadership on peace efforts in Yemen. The Secretary reiterated the United States’ commitment to supporting a durable resolution to the Yemen conflict. Secretary Blinken stressed the need for the parties to the conflict to seize this opportunity to bring further relief to Yemenis – including by immediately opening roads to Taiz city – and to begin a comprehensive and inclusive Yemeni-led and owned peace process, that includes civil society, under UN auspices.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>One Hundred Days of the Kremlin&#8217;s War Against Ukraine</title>
-		<link>https://www.state.gov/one-hundred-days-of-the-kremlins-war-against-ukraine/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 03 Jun 2022 16:56:33 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=349499</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>In the one hundred days since Russian President Putin ordered his forces to further invade Ukraine, the world has seen the courage and determination of the people of Ukraine as they fight for their country. Since February 24, the United States has provided more than 6.3 billion dollars of security, humanitarian and economic assistance to help Ukraine prevail. As President Biden has said, our goal is straightforward: The United States wants to see a democratic, independent, sovereign and prosperous Ukraine with the means to deter and defend itself against further aggression.</p>
-<p>We again call on President Putin to immediately end this conflict and all the suffering and global upheaval his war of choice has caused. Neither the United States nor our allies and partners seek to prolong the war to inflict pain on Russia. We greatly respect the citizens of Russia, who are not our enemy and who deserve a better future than what continued war and increasing repression will bring.</p>
-<p>To the families of Ukraine who have lost loved ones, who have been separated by violence, whose villages, apartments, schools, and hospitals have been hit by bombs, shells and missiles, who have been sent to and survived Russia’s so-called “filtration” camps: The United States stands with you; we will help you defend your sovereignty and territorial integrity, and we will help you rebuild when this war is over.</p>
-<p>Ukraine will prevail.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>In the one hundred days since Russian President Putin ordered his forces to further invade Ukraine, the world has seen the courage and determination of the people of Ukraine as they fight for their country. Since February 24, the United States has provided more than 6.3 billion dollars of security, humanitarian and economic assistance to help Ukraine prevail. As President Biden has said, our goal is straightforward: The United States wants to see a democratic, independent, sovereign and prosperous Ukraine with the means to deter and defend itself against further aggression.</p>
-<p>We again call on President Putin to immediately end this conflict and all the suffering and global upheaval his war of choice has caused. Neither the United States nor our allies and partners seek to prolong the war to inflict pain on Russia. We greatly respect the citizens of Russia, who are not our enemy and who deserve a better future than what continued war and increasing repression will bring.</p>
-<p>To the families of Ukraine who have lost loved ones, who have been separated by violence, whose villages, apartments, schools, and hospitals have been hit by bombs, shells and missiles, who have been sent to and survived Russia’s so-called “filtration” camps: The United States stands with you; we will help you defend your sovereignty and territorial integrity, and we will help you rebuild when this war is over.</p>
-<p>Ukraine will prevail.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
