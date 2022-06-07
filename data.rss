@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Tue, 07 Jun 2022 19:38:12 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Jun 2022 21:48:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,263 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Antony J. Blinken With Maria Ressa on Digital Diplomacy and Human Rights Online</title>
+		<link>https://www.state.gov/secretary-antony-j-blinken-with-maria-ressa-on-digital-diplomacy-and-human-rights-online/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Tue, 07 Jun 2022 21:48:02 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=350330</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>Washington, D.C.</p>
+<p><b>QUESTION:</b>  Hello, everybody.  Thank you so much for joining us.  I’m Maria Ressa from the Philippines.  What an honor to have U.S. Secretary of State Antony Blinken with us today at a crucial moment for all of us working for a better digital rights world.  Secretary Blinken, thank you for joining us.</p>
+<p><b>SECRETARY BLINKEN:</b>  Maria, great to be with you and great to be with everyone.  This is really a pleasure for me.  I’m thrilled to be hosted by RightsCon to be talking to you.  I want to say greetings to everyone from the 360/Open Summit and from around the world who is in one way or another logged on, tuned in, and joining this conversation.</p>
+<p>It’s so important from our perspective that the United States, likeminded governments, but especially with civil society, with NGOs, with think tanks, with the private sector, work to protect human rights online, work to demonstrate that our democracies can deliver for people as we navigate this extraordinary digital transformation that is having an impact on the lives of virtually everyone on this planet.</p>
+<p>One thing I wanted to say at the outset before we get into a conversation is I am very pleased to announce that for the first time the United States will become chair of the Freedom Online Coalition in 2023.  We want to strengthen the coalition.  We want to bring more members onboard.  We want to make it a center of action for ensuring a free and open digital future.</p>
+<p>And this, in part, is going to be building on Canada’s terrific work as the current chair and really trying to carry it forward.  So I’m really pleased to do that, to be able to announce that.  And Maria, it’s great to be with you.  You have been – you are – an extraordinarily courageous champion of freedom of speech, freedom of press and media, and freedom for a digital future that we all want and we hope to build together.  So thank you for being willing to have this conversation today.</p>
+<p><b>QUESTION:</b>  Well, that’s really great to hear from you, Mr. Secretary, exactly at this moment in time when it seems at times hopeless, and you never want to be hopeless, right?  So let me ask you.  You’ve been very outspoken about the way digital authoritarians have used tech to abuse human rights, a growing trend that people like us on the front lines increasingly defenseless.  I mean, what have you seen globally, and what can you do about it?</p>
+<p><b>SECRETARY BLINKEN:</b>  So you’re right.  Unfortunately, that’s exactly what we’re seeing.  Look, I think as in so many ways when we saw the emergence of a lot of this technology, starting mostly in the 1990s, the early 2000s, I think there was great hope that it would be inexorably a force for openness, transparency, freedom.  And of course, in many ways it is.</p>
+<p>But we’re also seeing, of course, the abuse of this technology in various ways, including by repressive governments trying to control populations, to stifle dissent, to surveil and censor.  We see that, of course, in the PRC with technology being used, for example, for mass surveillance, including of the Uyghurs and other minorities.</p>
+<p>So the question is what is to be done.  What do we do about it?  And there are a number of things that we need to do and in fact that we are doing.  One is to start by calling things out.  That’s the – often the basis for everything.  We have to call out the abusive technology, including digital authoritarianism.</p>
+<p>Second, as I mentioned, we’re going to be taking on the chairmanship of the Freedom Online Coalition.  We’re working to strengthen it.  And this is an important vehicle to try to protect and advance internet freedom and to push back against digital authoritianism.</p>
+<p>Very practically speaking, there are a number of things that we – countries, NGOs, and others – are doing to, for example, get anti-censorship technology into the hands of people who need it so that they have the tools to push back against the misuse of technology in an authoritarian way.  We set up a multinational fund to do that at the Summit for Democracy that we hosted last year.</p>
+<p>And then, for example, putting export controls on surveillance technology to make sure that technology that we and other countries are producing that could have a dual use and be misused for the surveillance of populations, that doesn’t get into the wrong hands.  That takes working together.  One country alone can’t do it.  And in fact, governments alone can’t effectively do it.  We need to build these coalitions to make sure that we identify where technology should not go because it’s being misused, and then work together to make sure that it doesn’t get there.</p>
+<p><b>QUESTION:</b>  No, I agree with working together.  Mr. Secretary, you know that early on I said that the tech platforms that took control of – became the gatekeepers from journalists abdicated responsibility for protecting the public sphere, and in some ways it’s taken so long to get government regulations that in a way governments have also abdicated responsibility.  We’re just starting to see the beginning of these roll out in the spring from the EU, right?</p>
+<p>And yet we know the impact of disinformation.  In the Philippines, we have seen disinformation repeatedly change our history.  It’s that Milan Kundera quote, the struggle of man against power.  Well, we’ve forgotten really quickly, and disinformation is being used to manipulate our biology.</p>
+<p>Where do you see, what can you do about this?  And how do we fight back, given that there are more than 30 elections this year and you can’t have integrity of elections if you don’t have integrity of facts?</p>
+<p><b>SECRETARY BLINKEN:</b>  Couldn’t agree with you more.  And this has been one of the other changes that we thought was going to be totally for the good, but of course, that hasn’t been the case.</p>
+<p>In the United States a few decades ago, information that most people used on a – in their daily lives, there was a common foundation, because there were actually a fairly limited number of sources of the information that people got.  We had three television networks back then, we didn’t have cable, we didn’t have an internet, we didn’t have talk radio, et cetera, et cetera.</p>
+<p>And the hope, of course, was that the democratization of information would be a good thing overall.  And fundamentally, I believe that’s still the case.  But as a result of this, as a result of this disaggregation, you’ve lost exactly what you said, which are sort of the trusted mediators who can make sure that information, to the greatest extent possible, is actually backed up by the facts.  And at the same time, that technology itself has allowed the abuse and the spreading of misinformation and disinformation in ways that we probably didn’t fully anticipate or imagine.</p>
+<p>So we see authoritarian governments using this.  We see it, for example, right now in the Russian aggression against Ukraine.  We saw it in 2014 when Russia initially went at Ukraine and was using information as a weapon of war.  So in that particular instance and in this instance, we’ve actually reversed this on them precisely by using information, real information, to call out what we saw them preparing and working to do.  And being able to do that and to bring to the world everything that we were seeing about the planned Russian aggression and to lay out exactly the steps they were likely to take, and which unfortunately they did, I think has done a profound service to making sure that credible information is what carries the day and disinformation is undermined.</p>
+<p>But there are a number of things that we can – here again – and we are doing to combat the misuse of information.  Again, we start by exposing it and we start by sharing the information that we have; working with others, again, in a coordinated way.  We have at the State Department something called the Global Engagement Center, which is focused intensely on finding, exposing disinformation, the techniques that are used by those who are propagating it, and, in a coordinated way, working with other countries, pushing back on it and giving people the tools to do it.</p>
+<p>It&#8217;s critical for us that we also build the capacity of partners around the world, both governments but also journalists, NGOs, civil society.  There are a number of things that we’re doing.  We have initiatives to help give people fact-checking tools to make sure that the information that they’re getting actually is backed up by the facts and to show when it’s not.  Digital literacy training, which is so critical to understanding what people are consuming and being able to separate the wheat from the chaff, the true from the misinformation and disinformation.  Bolstering independent media – this is so critical.  The single best check and balance against misinformation and disinformation is an effective, independent media, and we have initiatives to do that, including as appropriate financing and other things.</p>
+<p>We see that there’s a deliberate attack to take down independent media, to take down NGOs that are operating in this space, so we’re putting in place protections.  For example, countries actually try to use legal means – or I should say “legal” in quotation marks – “legal” means through lawsuits, as you know very well, and through regulatory challenge.  Well, we’re putting in place programs, funding to enable people, institutions, media organizations to actually push back on that.</p>
+<p>All of these things together are part of what we need to do.  And finally, it’s so critical that we and you, this entire community, work with the platforms to find ways to more effectively ensure that they’re not being abused and used as a means of propagating misinformation, disinformation.  Of course, it’s primarily on the platforms themselves to take the steps necessary to push back against that.  I hope very much that we can continue to do that in a collaborative fashion.  And sharing the information – what we’re seeing, for example – with the platforms, we’ve found that when we’ve been able to point them to malicious actors using the platforms in abusive ways, they’ve been responsive in making sure those actors can’t do it.</p>
+<p>But of course, it’s a moving target, and for every bad actor that you take off, maybe it comes back under another guise or something else pops up.  So we have to be vigilant; we have to be relentlessly focused on this.  And I hope that we can do this in a cooperative, collaborative way.</p>
+<p><b>QUESTION:</b>  Well, that’s certainly what we’re trying to do.  But what we’ve seen in the last – and you mentioned 2014 until now, right?  The disinformation that splintered reality, that allowed Russia to invade, to annex Crimea, and then eight years later to invade Ukraine &#8212; those metanarratives were seeded, the platforms were told about it, not much was done.  And the question, of course, is would we be at this place if more was done, right?</p>
+<p>But I guess this is – this goes to the last – the crucial question, which is:  We have had impunity in the virtual world, and that impunity – you have a thousand-page document from the Senate that outlines what Russian misinformation did in 2016 in the United States.  That impunity has filtered into the real world and really severed the checks and balances that are there.  I guess the – and here, to quote Shoshana Zuboff, where she just says we live in one world, and if you don’t have rule of law in the virtual world, how can you have rule of law in the real world.</p>
+<p>And this goes back to what is your democratic vision.  I think that’s what’s been missing is that we don’t have a democratic vision for the 21st century with this technology that we have.  What is it that you have?</p>
+<p><b>SECRETARY BLINKEN:</b>  Yeah, Maria, you’re – I think you’re exactly right.  And first let me say, look, we’ve been awoken to this challenge over the last years, and I think for me it certainly started particularly in 2014 with the initial Russian aggression against Ukraine and the use of misinformation and disinformation as a weapon of war as critical to their campaign.  And then, of course, we saw the interference in our elections.  And all of that has created a – I think an increasingly greater consciousness of the challenge and the need to do something about it.</p>
+<p>But doing something about it starts with exactly what you said, which is advancing a positive vision, an affirmative vision of what this future should look like – a vision of an open, free, global, interoperable, secure, reliable internet.  One of the ways we’ve done that is with this Declaration for the Future of the Internet that now some 60 countries have joined onto that actually lays out what this positive vision is.  We’re working in concrete ways, though, not just to put out the vision but to realize it.</p>
+<p><b>QUESTION:</b>  So what are the concrete steps that you’re taking?</p>
+<p><b>SECRETARY BLINKEN:</b>  So much of the work that we’re doing is to make sure that we and other likeminded countries are at the table when so many of the rules and norms that are going to shape the future of the internet are being decided.  And we’re doing that in a variety of ways.  We’ve come together with the European Union, through something we’ve stood up called the Trade and Technology Council, to make sure that we’re working together to advance these different norms and standards.  There’s growing convergence between the United States and the European Union on this vision for the future.  Now we put that in practice by bringing our combined weight together everywhere these rules and norms are being shaped.</p>
+<p>We’re making sure that we’re investing in our own capacity to do that.  Here at the State Department, over just six months, we stood up a new Bureau for Cyberspace and Digital Policy.  We will soon have a senior envoy to deal with emerging technologies to make sure that, to the extent values are infused in technology, they’ll be liberal values, not illiberal ones, and making sure that technology is used for the good and to advance democracy, not to undermine it.</p>
+<p>We’ve been working to make sure that after last year’s Summit for Democracy, we make this year a year for action in terms of implementing many of the concrete initiatives that were announced at the summit, including some that I mentioned a short while ago, in terms of supporting independent media, giving people the tools they need to combat censorship, making sure that journalists and other organizations under siege can fight back and have the tools and the means to do so.</p>
+<p>We, as I mentioned, have initiated a Declaration for the Future of the Internet with 60 countries so far, making sure that we’re all aligned in a shared vision and trying to advance it.</p>
+<p>And finally, the institutions that are actually doing this work, that are deciding how all of the technology that we share is being used – it’s usually important that people who share this vision, share these values, are running these institutions.  There’s a hugely important election for the head of the International Telecommunications Union coming up, and the candidate we support, Doreen Bogdan-Martin, is someone of vision and of value who can help advance this shared perspective that we have.</p>
+<p>So it’s one of those things where probably 99.999 percent of people have no idea what the ITU is or how important this election is, but we’re very focused on it and making sure that someone with a shared vision can drive this forward.</p>
+<p>The last thing I’ll say, Maria, is this:  I think everyone present today is at the heart of this effort – civil society, NGOs, the private sector, independent media working together, holding governments to account, and then ideally, all of us joining forces.  When you put all that together, it’s a very powerful force, and it’s one that I am convinced can carry the day in making sure that the future of technology and the future of the internet is one that actually advances freedom, that advances democratic principles, and that makes sure that together, we can build a future that reflects the values that we share.</p>
+<p>So the work that every single one of you is doing in ways big and small, that’s what really counts, and I’m just pleased for the opportunity to spend a few minutes talking about how we see it, how we think about it, especially, Maria, with you.  So thank you.</p>
+<p><b>QUESTION:</b>  No, thank you so much, Secretary Blinken.  Can I quick – get to one quick question?</p>
+<p><b>SECRETARY BLINKEN:</b>  Of course.</p>
+<p><b>QUESTION:</b>  Because you – so you mentioned leading in.  Sheryl Sandberg just said that she would be leaving Meta this – at the end of this year.  These are American companies that did have values that were infused into their design – and again, probably not by their design, but encouraged the death of democracies in many parts of the world.  In Norway just last week, I kind of thought the next two years will be critical for the survival of democracy, and there were people from Kyiv, from Ukraine, who really said that they’d received the most help from ordinary people.  You’ve just asked us all to work together.  I guess is there a timetable even though – long-term, yes.  Education, medium-term – yes, lost in the short term.  How can we stop what Anne Applebaum called Autocracy Inc. from taking over in this period of chaos?</p>
+<p><b>SECRETARY BLINKEN:</b>  Maria, I think we all have to be seized with the fierce urgency of now.  And yes, many of the things that we’re talking about will play out over time.  Much of this is not flipping a light switch or turning on or off a computer.  It does take time.  But if we bring to it together a sense of urgency and a sense of determination, that’s usually important, and if this entire community is galvanized, I think we can make a real difference.  But that requires day-in, day-out vigilance; it requires day-in, day-out action.</p>
+<p>And I think what we’ll see if we do it right and do it in a sustained way is you take a step and you look, and it doesn’t look like you’ve traveled very far; but my hope and expectation is that over the next few years, we will take many steps together and we’ll actually recognize that we’ve traveled a great distance.</p>
+<p>The hard reality that we face – and it’s a cliche, but it’s profoundly true – technology itself isn’t inherently good or bad.  How it’s used determines whether it’s for the good or for the bad.  And if we marshal all of our forces together, I think we carry a great weight into this fight to make sure, to the best of our ability, that technology is used for the good, that it’s used to advance a more open, more free, more democratic world, and that it’s not misused and abused to undermine those basic principles.</p>
+<p>But I think we have to have exactly what you said: a real sense of urgency about that, a real sense of vigilance, a determination to call out misuse and abuse, the determination on the part of NGOs and civil society to hold governments and hold the private sector to account.  And I’m – I remain optimistic that marshaling all of these forces together with that sense of urgency, we can make a difference and we can shape a future that is more open, more tolerant, and actually supports and defends freedom and democracy and doesn’t undermine it.  That’s the objective.</p>
+<p>But look, we have to show, all of us in different ways, that we can actually deliver on this.  So I recognize declarations are good, calling things out are good, but what really counts is action that makes a change, action that deals with the problem.  None of that is easy, but we’re determined to do it, and we’re determined to do it together.</p>
+<p><b>QUESTION:  </b>Fantastic.  Thank you so much for your time, Secretary Blinken.  Good luck.</p>
+<p><b>SECRETARY BLINKEN:  </b>Thanks, Maria.  Great to see you.</p>
+<p><b>QUESTION:  </b>Bye-bye.</p>
+<p><b>SECRETARY BLINKEN:  </b>Thanks.  Bye-bye.</p>
+<p><input type="hidden" data-filter="111001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>Washington, D.C.</p>
+<p><b>QUESTION:</b>  Hello, everybody.  Thank you so much for joining us.  I’m Maria Ressa from the Philippines.  What an honor to have U.S. Secretary of State Antony Blinken with us today at a crucial moment for all of us working for a better digital rights world.  Secretary Blinken, thank you for joining us.</p>
+<p><b>SECRETARY BLINKEN:</b>  Maria, great to be with you and great to be with everyone.  This is really a pleasure for me.  I’m thrilled to be hosted by RightsCon to be talking to you.  I want to say greetings to everyone from the 360/Open Summit and from around the world who is in one way or another logged on, tuned in, and joining this conversation.</p>
+<p>It’s so important from our perspective that the United States, likeminded governments, but especially with civil society, with NGOs, with think tanks, with the private sector, work to protect human rights online, work to demonstrate that our democracies can deliver for people as we navigate this extraordinary digital transformation that is having an impact on the lives of virtually everyone on this planet.</p>
+<p>One thing I wanted to say at the outset before we get into a conversation is I am very pleased to announce that for the first time the United States will become chair of the Freedom Online Coalition in 2023.  We want to strengthen the coalition.  We want to bring more members onboard.  We want to make it a center of action for ensuring a free and open digital future.</p>
+<p>And this, in part, is going to be building on Canada’s terrific work as the current chair and really trying to carry it forward.  So I’m really pleased to do that, to be able to announce that.  And Maria, it’s great to be with you.  You have been – you are – an extraordinarily courageous champion of freedom of speech, freedom of press and media, and freedom for a digital future that we all want and we hope to build together.  So thank you for being willing to have this conversation today.</p>
+<p><b>QUESTION:</b>  Well, that’s really great to hear from you, Mr. Secretary, exactly at this moment in time when it seems at times hopeless, and you never want to be hopeless, right?  So let me ask you.  You’ve been very outspoken about the way digital authoritarians have used tech to abuse human rights, a growing trend that people like us on the front lines increasingly defenseless.  I mean, what have you seen globally, and what can you do about it?</p>
+<p><b>SECRETARY BLINKEN:</b>  So you’re right.  Unfortunately, that’s exactly what we’re seeing.  Look, I think as in so many ways when we saw the emergence of a lot of this technology, starting mostly in the 1990s, the early 2000s, I think there was great hope that it would be inexorably a force for openness, transparency, freedom.  And of course, in many ways it is.</p>
+<p>But we’re also seeing, of course, the abuse of this technology in various ways, including by repressive governments trying to control populations, to stifle dissent, to surveil and censor.  We see that, of course, in the PRC with technology being used, for example, for mass surveillance, including of the Uyghurs and other minorities.</p>
+<p>So the question is what is to be done.  What do we do about it?  And there are a number of things that we need to do and in fact that we are doing.  One is to start by calling things out.  That’s the – often the basis for everything.  We have to call out the abusive technology, including digital authoritarianism.</p>
+<p>Second, as I mentioned, we’re going to be taking on the chairmanship of the Freedom Online Coalition.  We’re working to strengthen it.  And this is an important vehicle to try to protect and advance internet freedom and to push back against digital authoritianism.</p>
+<p>Very practically speaking, there are a number of things that we – countries, NGOs, and others – are doing to, for example, get anti-censorship technology into the hands of people who need it so that they have the tools to push back against the misuse of technology in an authoritarian way.  We set up a multinational fund to do that at the Summit for Democracy that we hosted last year.</p>
+<p>And then, for example, putting export controls on surveillance technology to make sure that technology that we and other countries are producing that could have a dual use and be misused for the surveillance of populations, that doesn’t get into the wrong hands.  That takes working together.  One country alone can’t do it.  And in fact, governments alone can’t effectively do it.  We need to build these coalitions to make sure that we identify where technology should not go because it’s being misused, and then work together to make sure that it doesn’t get there.</p>
+<p><b>QUESTION:</b>  No, I agree with working together.  Mr. Secretary, you know that early on I said that the tech platforms that took control of – became the gatekeepers from journalists abdicated responsibility for protecting the public sphere, and in some ways it’s taken so long to get government regulations that in a way governments have also abdicated responsibility.  We’re just starting to see the beginning of these roll out in the spring from the EU, right?</p>
+<p>And yet we know the impact of disinformation.  In the Philippines, we have seen disinformation repeatedly change our history.  It’s that Milan Kundera quote, the struggle of man against power.  Well, we’ve forgotten really quickly, and disinformation is being used to manipulate our biology.</p>
+<p>Where do you see, what can you do about this?  And how do we fight back, given that there are more than 30 elections this year and you can’t have integrity of elections if you don’t have integrity of facts?</p>
+<p><b>SECRETARY BLINKEN:</b>  Couldn’t agree with you more.  And this has been one of the other changes that we thought was going to be totally for the good, but of course, that hasn’t been the case.</p>
+<p>In the United States a few decades ago, information that most people used on a – in their daily lives, there was a common foundation, because there were actually a fairly limited number of sources of the information that people got.  We had three television networks back then, we didn’t have cable, we didn’t have an internet, we didn’t have talk radio, et cetera, et cetera.</p>
+<p>And the hope, of course, was that the democratization of information would be a good thing overall.  And fundamentally, I believe that’s still the case.  But as a result of this, as a result of this disaggregation, you’ve lost exactly what you said, which are sort of the trusted mediators who can make sure that information, to the greatest extent possible, is actually backed up by the facts.  And at the same time, that technology itself has allowed the abuse and the spreading of misinformation and disinformation in ways that we probably didn’t fully anticipate or imagine.</p>
+<p>So we see authoritarian governments using this.  We see it, for example, right now in the Russian aggression against Ukraine.  We saw it in 2014 when Russia initially went at Ukraine and was using information as a weapon of war.  So in that particular instance and in this instance, we’ve actually reversed this on them precisely by using information, real information, to call out what we saw them preparing and working to do.  And being able to do that and to bring to the world everything that we were seeing about the planned Russian aggression and to lay out exactly the steps they were likely to take, and which unfortunately they did, I think has done a profound service to making sure that credible information is what carries the day and disinformation is undermined.</p>
+<p>But there are a number of things that we can – here again – and we are doing to combat the misuse of information.  Again, we start by exposing it and we start by sharing the information that we have; working with others, again, in a coordinated way.  We have at the State Department something called the Global Engagement Center, which is focused intensely on finding, exposing disinformation, the techniques that are used by those who are propagating it, and, in a coordinated way, working with other countries, pushing back on it and giving people the tools to do it.</p>
+<p>It&#8217;s critical for us that we also build the capacity of partners around the world, both governments but also journalists, NGOs, civil society.  There are a number of things that we’re doing.  We have initiatives to help give people fact-checking tools to make sure that the information that they’re getting actually is backed up by the facts and to show when it’s not.  Digital literacy training, which is so critical to understanding what people are consuming and being able to separate the wheat from the chaff, the true from the misinformation and disinformation.  Bolstering independent media – this is so critical.  The single best check and balance against misinformation and disinformation is an effective, independent media, and we have initiatives to do that, including as appropriate financing and other things.</p>
+<p>We see that there’s a deliberate attack to take down independent media, to take down NGOs that are operating in this space, so we’re putting in place protections.  For example, countries actually try to use legal means – or I should say “legal” in quotation marks – “legal” means through lawsuits, as you know very well, and through regulatory challenge.  Well, we’re putting in place programs, funding to enable people, institutions, media organizations to actually push back on that.</p>
+<p>All of these things together are part of what we need to do.  And finally, it’s so critical that we and you, this entire community, work with the platforms to find ways to more effectively ensure that they’re not being abused and used as a means of propagating misinformation, disinformation.  Of course, it’s primarily on the platforms themselves to take the steps necessary to push back against that.  I hope very much that we can continue to do that in a collaborative fashion.  And sharing the information – what we’re seeing, for example – with the platforms, we’ve found that when we’ve been able to point them to malicious actors using the platforms in abusive ways, they’ve been responsive in making sure those actors can’t do it.</p>
+<p>But of course, it’s a moving target, and for every bad actor that you take off, maybe it comes back under another guise or something else pops up.  So we have to be vigilant; we have to be relentlessly focused on this.  And I hope that we can do this in a cooperative, collaborative way.</p>
+<p><b>QUESTION:</b>  Well, that’s certainly what we’re trying to do.  But what we’ve seen in the last – and you mentioned 2014 until now, right?  The disinformation that splintered reality, that allowed Russia to invade, to annex Crimea, and then eight years later to invade Ukraine &#8212; those metanarratives were seeded, the platforms were told about it, not much was done.  And the question, of course, is would we be at this place if more was done, right?</p>
+<p>But I guess this is – this goes to the last – the crucial question, which is:  We have had impunity in the virtual world, and that impunity – you have a thousand-page document from the Senate that outlines what Russian misinformation did in 2016 in the United States.  That impunity has filtered into the real world and really severed the checks and balances that are there.  I guess the – and here, to quote Shoshana Zuboff, where she just says we live in one world, and if you don’t have rule of law in the virtual world, how can you have rule of law in the real world.</p>
+<p>And this goes back to what is your democratic vision.  I think that’s what’s been missing is that we don’t have a democratic vision for the 21st century with this technology that we have.  What is it that you have?</p>
+<p><b>SECRETARY BLINKEN:</b>  Yeah, Maria, you’re – I think you’re exactly right.  And first let me say, look, we’ve been awoken to this challenge over the last years, and I think for me it certainly started particularly in 2014 with the initial Russian aggression against Ukraine and the use of misinformation and disinformation as a weapon of war as critical to their campaign.  And then, of course, we saw the interference in our elections.  And all of that has created a – I think an increasingly greater consciousness of the challenge and the need to do something about it.</p>
+<p>But doing something about it starts with exactly what you said, which is advancing a positive vision, an affirmative vision of what this future should look like – a vision of an open, free, global, interoperable, secure, reliable internet.  One of the ways we’ve done that is with this Declaration for the Future of the Internet that now some 60 countries have joined onto that actually lays out what this positive vision is.  We’re working in concrete ways, though, not just to put out the vision but to realize it.</p>
+<p><b>QUESTION:</b>  So what are the concrete steps that you’re taking?</p>
+<p><b>SECRETARY BLINKEN:</b>  So much of the work that we’re doing is to make sure that we and other likeminded countries are at the table when so many of the rules and norms that are going to shape the future of the internet are being decided.  And we’re doing that in a variety of ways.  We’ve come together with the European Union, through something we’ve stood up called the Trade and Technology Council, to make sure that we’re working together to advance these different norms and standards.  There’s growing convergence between the United States and the European Union on this vision for the future.  Now we put that in practice by bringing our combined weight together everywhere these rules and norms are being shaped.</p>
+<p>We’re making sure that we’re investing in our own capacity to do that.  Here at the State Department, over just six months, we stood up a new Bureau for Cyberspace and Digital Policy.  We will soon have a senior envoy to deal with emerging technologies to make sure that, to the extent values are infused in technology, they’ll be liberal values, not illiberal ones, and making sure that technology is used for the good and to advance democracy, not to undermine it.</p>
+<p>We’ve been working to make sure that after last year’s Summit for Democracy, we make this year a year for action in terms of implementing many of the concrete initiatives that were announced at the summit, including some that I mentioned a short while ago, in terms of supporting independent media, giving people the tools they need to combat censorship, making sure that journalists and other organizations under siege can fight back and have the tools and the means to do so.</p>
+<p>We, as I mentioned, have initiated a Declaration for the Future of the Internet with 60 countries so far, making sure that we’re all aligned in a shared vision and trying to advance it.</p>
+<p>And finally, the institutions that are actually doing this work, that are deciding how all of the technology that we share is being used – it’s usually important that people who share this vision, share these values, are running these institutions.  There’s a hugely important election for the head of the International Telecommunications Union coming up, and the candidate we support, Doreen Bogdan-Martin, is someone of vision and of value who can help advance this shared perspective that we have.</p>
+<p>So it’s one of those things where probably 99.999 percent of people have no idea what the ITU is or how important this election is, but we’re very focused on it and making sure that someone with a shared vision can drive this forward.</p>
+<p>The last thing I’ll say, Maria, is this:  I think everyone present today is at the heart of this effort – civil society, NGOs, the private sector, independent media working together, holding governments to account, and then ideally, all of us joining forces.  When you put all that together, it’s a very powerful force, and it’s one that I am convinced can carry the day in making sure that the future of technology and the future of the internet is one that actually advances freedom, that advances democratic principles, and that makes sure that together, we can build a future that reflects the values that we share.</p>
+<p>So the work that every single one of you is doing in ways big and small, that’s what really counts, and I’m just pleased for the opportunity to spend a few minutes talking about how we see it, how we think about it, especially, Maria, with you.  So thank you.</p>
+<p><b>QUESTION:</b>  No, thank you so much, Secretary Blinken.  Can I quick – get to one quick question?</p>
+<p><b>SECRETARY BLINKEN:</b>  Of course.</p>
+<p><b>QUESTION:</b>  Because you – so you mentioned leading in.  Sheryl Sandberg just said that she would be leaving Meta this – at the end of this year.  These are American companies that did have values that were infused into their design – and again, probably not by their design, but encouraged the death of democracies in many parts of the world.  In Norway just last week, I kind of thought the next two years will be critical for the survival of democracy, and there were people from Kyiv, from Ukraine, who really said that they’d received the most help from ordinary people.  You’ve just asked us all to work together.  I guess is there a timetable even though – long-term, yes.  Education, medium-term – yes, lost in the short term.  How can we stop what Anne Applebaum called Autocracy Inc. from taking over in this period of chaos?</p>
+<p><b>SECRETARY BLINKEN:</b>  Maria, I think we all have to be seized with the fierce urgency of now.  And yes, many of the things that we’re talking about will play out over time.  Much of this is not flipping a light switch or turning on or off a computer.  It does take time.  But if we bring to it together a sense of urgency and a sense of determination, that’s usually important, and if this entire community is galvanized, I think we can make a real difference.  But that requires day-in, day-out vigilance; it requires day-in, day-out action.</p>
+<p>And I think what we’ll see if we do it right and do it in a sustained way is you take a step and you look, and it doesn’t look like you’ve traveled very far; but my hope and expectation is that over the next few years, we will take many steps together and we’ll actually recognize that we’ve traveled a great distance.</p>
+<p>The hard reality that we face – and it’s a cliche, but it’s profoundly true – technology itself isn’t inherently good or bad.  How it’s used determines whether it’s for the good or for the bad.  And if we marshal all of our forces together, I think we carry a great weight into this fight to make sure, to the best of our ability, that technology is used for the good, that it’s used to advance a more open, more free, more democratic world, and that it’s not misused and abused to undermine those basic principles.</p>
+<p>But I think we have to have exactly what you said: a real sense of urgency about that, a real sense of vigilance, a determination to call out misuse and abuse, the determination on the part of NGOs and civil society to hold governments and hold the private sector to account.  And I’m – I remain optimistic that marshaling all of these forces together with that sense of urgency, we can make a difference and we can shape a future that is more open, more tolerant, and actually supports and defends freedom and democracy and doesn’t undermine it.  That’s the objective.</p>
+<p>But look, we have to show, all of us in different ways, that we can actually deliver on this.  So I recognize declarations are good, calling things out are good, but what really counts is action that makes a change, action that deals with the problem.  None of that is easy, but we’re determined to do it, and we’re determined to do it together.</p>
+<p><b>QUESTION:  </b>Fantastic.  Thank you so much for your time, Secretary Blinken.  Good luck.</p>
+<p><b>SECRETARY BLINKEN:  </b>Thanks, Maria.  Great to see you.</p>
+<p><b>QUESTION:  </b>Bye-bye.</p>
+<p><b>SECRETARY BLINKEN:  </b>Thanks.  Bye-bye.</p>
+<p><input type="hidden" data-filter="111001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>The UN Human Rights Council’s Commission of Inquiry on the Situation in Israel, the West Bank, and Gaza</title>
 		<link>https://www.state.gov/the-un-human-rights-councils-commission-of-inquiry-on-the-situation-in-israel-the-west-bank-and-gaza/</link>
 		
@@ -2173,167 +2430,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The below is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken spoke today with the Holy See Secretary of State, Cardinal Pietro Parolin.  The two discussed Venezuela and the importance of the negotiations between the regime and the Unitary Platform as the best path toward resolving the crisis.  They also discussed the continued global consequences of Russia’s brutal invasion of Ukraine, including ways to address the global food security crisis, and affirmed their commitment to supporting those suffering from its terrible effects.  They further raised bilateral cooperation on other global issues of mutual concern.</p>
 <p><input type="hidden" data-filter="111001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Counselor Chollet’s Travel to Thailand, Singapore, and Brunei</title>
-		<link>https://www.state.gov/counselor-chollets-travel-to-thailand-singapore-and-brunei/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Mon, 06 Jun 2022 16:01:56 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=349934</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>U.S. Department of State Counselor Derek Chollet will travel to Thailand, Singapore, and Brunei June 7-14. At each stop, he will follow up on the outcomes of last month’s U.S.-ASEAN Special Summit in Washington, DC and reaffirm the commitment of the United States to work with allies and partners to restore Burma’s path to democracy.</p>
-<p>In Thailand, Counselor Chollet will meet with senior officials to discuss a range of bilateral and multilateral issues, as well as meet with international humanitarian organizations, civil society, and other stakeholders to discuss U.S. efforts to support the people of Burma.  In Singapore, Counselor Chollet will attend the Shangri-La Dialogue and participate in a panel discussion on the conflict in Burma with senior officials.  And in Brunei, Counselor Chollet will meet with Foreign Minister II Erywan Yusof and other senior officials, as well as civil society leaders.</p>
-<p>Along with Deputy Secretary Sherman’s travel this week to the Philippines, Vietnam, and Laos, Counselor Chollet’s visit highlights the deep U.S. commitment to the important ASEAN and bilateral partnerships in Southeast Asia.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>U.S. Department of State Counselor Derek Chollet will travel to Thailand, Singapore, and Brunei June 7-14. At each stop, he will follow up on the outcomes of last month’s U.S.-ASEAN Special Summit in Washington, DC and reaffirm the commitment of the United States to work with allies and partners to restore Burma’s path to democracy.</p>
-<p>In Thailand, Counselor Chollet will meet with senior officials to discuss a range of bilateral and multilateral issues, as well as meet with international humanitarian organizations, civil society, and other stakeholders to discuss U.S. efforts to support the people of Burma.  In Singapore, Counselor Chollet will attend the Shangri-La Dialogue and participate in a panel discussion on the conflict in Burma with senior officials.  And in Brunei, Counselor Chollet will meet with Foreign Minister II Erywan Yusof and other senior officials, as well as civil society leaders.</p>
-<p>Along with Deputy Secretary Sherman’s travel this week to the Philippines, Vietnam, and Laos, Counselor Chollet’s visit highlights the deep U.S. commitment to the important ASEAN and bilateral partnerships in Southeast Asia.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
 ]]></content:encoded>
 					
 		
