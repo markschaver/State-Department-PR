@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Tue, 07 Jun 2022 19:17:56 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Jun 2022 19:38:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The UN Human Rights Council’s Commission of Inquiry on the Situation in Israel, the West Bank, and Gaza</title>
+		<link>https://www.state.gov/the-un-human-rights-councils-commission-of-inquiry-on-the-situation-in-israel-the-west-bank-and-gaza/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Tue, 07 Jun 2022 19:35:18 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=350297</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>The United States is committed to advancing human rights in Israel, the West Bank, and Gaza.  Israelis and Palestinians deserve equal measures of freedom, security, prosperity, and, importantly, dignity.  Promoting human rights and fundamental freedoms is important in its own right and as a means of preserving and advancing the prospects of a negotiated two-state solution.</p>
+<p>As we have stated repeatedly, we firmly oppose the open-ended and vaguely defined nature of the UN Human Rights Council’s (HRC) Commission of Inquiry (COI) on the situation in Israel, the West Bank, and Gaza, which represents a one-sided, biased approach that does nothing to advance the prospects for peace.  The report of the Commission, released today, does nothing to alleviate our concerns.  While the United States believes the HRC plays a crucial role in promoting respect for human rights and fundamental freedoms globally, this COI and report do not advance this goal.</p>
+<p>Israel is the only country subject to a standing agenda item at the HRC and has received disproportionate focus at the HRC compared to human rights situations elsewhere in the world.  While no country is above scrutiny, the existence of this COI in its current form is a continuation of a longstanding pattern of unfairly singling out Israel. We reengaged with and later re-joined the HRC in part to be in a better position to address its flaws, including this one, and we will continue to seek reforms.</p>
+<p>The United States remains deeply committed to helping achieve peace for both Israelis and Palestinians and will support actions in the UN that bring the parties together to advance prospects for peace.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>The United States is committed to advancing human rights in Israel, the West Bank, and Gaza.  Israelis and Palestinians deserve equal measures of freedom, security, prosperity, and, importantly, dignity.  Promoting human rights and fundamental freedoms is important in its own right and as a means of preserving and advancing the prospects of a negotiated two-state solution.</p>
+<p>As we have stated repeatedly, we firmly oppose the open-ended and vaguely defined nature of the UN Human Rights Council’s (HRC) Commission of Inquiry (COI) on the situation in Israel, the West Bank, and Gaza, which represents a one-sided, biased approach that does nothing to advance the prospects for peace.  The report of the Commission, released today, does nothing to alleviate our concerns.  While the United States believes the HRC plays a crucial role in promoting respect for human rights and fundamental freedoms globally, this COI and report do not advance this goal.</p>
+<p>Israel is the only country subject to a standing agenda item at the HRC and has received disproportionate focus at the HRC compared to human rights situations elsewhere in the world.  While no country is above scrutiny, the existence of this COI in its current form is a continuation of a longstanding pattern of unfairly singling out Israel. We reengaged with and later re-joined the HRC in part to be in a better position to address its flaws, including this one, and we will continue to seek reforms.</p>
+<p>The United States remains deeply committed to helping achieve peace for both Israelis and Palestinians and will support actions in the UN that bring the parties together to advance prospects for peace.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Blinken’s Call with Australian Foreign Minister Wong</title>
 		<link>https://www.state.gov/secretary-blinkens-call-with-australian-foreign-minister-wong/</link>
 		
@@ -2173,167 +2336,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The below is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken spoke today with the Holy See Secretary of State, Cardinal Pietro Parolin.  The two discussed Venezuela and the importance of the negotiations between the regime and the Unitary Platform as the best path toward resolving the crisis.  They also discussed the continued global consequences of Russia’s brutal invasion of Ukraine, including ways to address the global food security crisis, and affirmed their commitment to supporting those suffering from its terrible effects.  They further raised bilateral cooperation on other global issues of mutual concern.</p>
 <p><input type="hidden" data-filter="111001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Counselor Chollet’s Travel to Thailand, Singapore, and Brunei</title>
-		<link>https://www.state.gov/counselor-chollets-travel-to-thailand-singapore-and-brunei/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Mon, 06 Jun 2022 16:01:56 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=349934</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>U.S. Department of State Counselor Derek Chollet will travel to Thailand, Singapore, and Brunei June 7-14. At each stop, he will follow up on the outcomes of last month’s U.S.-ASEAN Special Summit in Washington, DC and reaffirm the commitment of the United States to work with allies and partners to restore Burma’s path to democracy.</p>
-<p>In Thailand, Counselor Chollet will meet with senior officials to discuss a range of bilateral and multilateral issues, as well as meet with international humanitarian organizations, civil society, and other stakeholders to discuss U.S. efforts to support the people of Burma.  In Singapore, Counselor Chollet will attend the Shangri-La Dialogue and participate in a panel discussion on the conflict in Burma with senior officials.  And in Brunei, Counselor Chollet will meet with Foreign Minister II Erywan Yusof and other senior officials, as well as civil society leaders.</p>
-<p>Along with Deputy Secretary Sherman’s travel this week to the Philippines, Vietnam, and Laos, Counselor Chollet’s visit highlights the deep U.S. commitment to the important ASEAN and bilateral partnerships in Southeast Asia.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>U.S. Department of State Counselor Derek Chollet will travel to Thailand, Singapore, and Brunei June 7-14. At each stop, he will follow up on the outcomes of last month’s U.S.-ASEAN Special Summit in Washington, DC and reaffirm the commitment of the United States to work with allies and partners to restore Burma’s path to democracy.</p>
-<p>In Thailand, Counselor Chollet will meet with senior officials to discuss a range of bilateral and multilateral issues, as well as meet with international humanitarian organizations, civil society, and other stakeholders to discuss U.S. efforts to support the people of Burma.  In Singapore, Counselor Chollet will attend the Shangri-La Dialogue and participate in a panel discussion on the conflict in Burma with senior officials.  And in Brunei, Counselor Chollet will meet with Foreign Minister II Erywan Yusof and other senior officials, as well as civil society leaders.</p>
-<p>Along with Deputy Secretary Sherman’s travel this week to the Philippines, Vietnam, and Laos, Counselor Chollet’s visit highlights the deep U.S. commitment to the important ASEAN and bilateral partnerships in Southeast Asia.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
 ]]></content:encoded>
 					
 		
