@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Wed, 08 Jun 2022 00:19:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Jun 2022 00:39:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -1140,40 +1140,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		});
 		});
 		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
 		<p>Office of the Spokesperson</p>
 <p>Affirming its commitment to the peaceful, responsible, and sustainable exploration and use of outer space, France became the 20<sup>th</sup> nation to sign the Artemis Accords at a ceremony hosted today by French Ambassador Philippe Étienne in Washington, DC.  The Accords were signed by Philippe Baptiste, President of CNES, the French National Center for Space Studies.  CNES President Baptiste was joined for the event by NASA Administrator Bill Nelson, National Space Council Executive Secretary Chirag Parikh, and Director of the Office of Space Affairs Valda Vikmanis-Keller from the Bureau of Oceans and International Environmental and Scientific Affairs at the U.S. Department of State.</p>
 <p>Grounded in the Outer Space Treaty of 1967, the Artemis Accords are a multilateral, nonbinding declaration of principles and rules to enhance governance of the responsible exploration of outer space.  Artemis Accords’ principles include the registration of space objects, deconfliction of activities, release of scientific data, and provision of emergency assistance.  These principles help increase the safety of operations, reduce uncertainty, and promote the sustainable and beneficial use of space for all humankind.</p>
@@ -1564,46 +1530,11 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		});
 		});
 		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
 		<p>Ned Price, Department Spokesperson</p>
 <p>The United States is committed to advancing human rights in Israel, the West Bank, and Gaza.  Israelis and Palestinians deserve equal measures of freedom, security, prosperity, and, importantly, dignity.  Promoting human rights and fundamental freedoms is important in its own right and as a means of preserving and advancing the prospects of a negotiated two-state solution.</p>
 <p>As we have stated repeatedly, we firmly oppose the open-ended and vaguely defined nature of the UN Human Rights Council’s (HRC) Commission of Inquiry (COI) on the situation in Israel, the West Bank, and Gaza, which represents a one-sided, biased approach that does nothing to advance the prospects for peace.  The report of the Commission, released today, does nothing to alleviate our concerns.  While the United States believes the HRC plays a crucial role in promoting respect for human rights and fundamental freedoms globally, this COI and report do not advance this goal.</p>
 <p>Israel is the only country subject to a standing agenda item at the HRC and has received disproportionate focus at the HRC compared to human rights situations elsewhere in the world.  While no country is above scrutiny, the existence of this COI in its current form is a continuation of a longstanding pattern of unfairly singling out Israel. We reengaged with and later re-joined the HRC in part to be in a better position to address its flaws, including this one, and we will continue to seek reforms.</p>
 <p>The United States remains deeply committed to helping achieve peace for both Israelis and Palestinians and will support actions in the UN that bring the parties together to advance prospects for peace.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></description>
 					<script type="text/javascript">
 document.addEventListener("DOMContentLoaded", function(event) {
@@ -1678,7 +1609,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>As we have stated repeatedly, we firmly oppose the open-ended and vaguely defined nature of the UN Human Rights Council’s (HRC) Commission of Inquiry (COI) on the situation in Israel, the West Bank, and Gaza, which represents a one-sided, biased approach that does nothing to advance the prospects for peace.  The report of the Commission, released today, does nothing to alleviate our concerns.  While the United States believes the HRC plays a crucial role in promoting respect for human rights and fundamental freedoms globally, this COI and report do not advance this goal.</p>
 <p>Israel is the only country subject to a standing agenda item at the HRC and has received disproportionate focus at the HRC compared to human rights situations elsewhere in the world.  While no country is above scrutiny, the existence of this COI in its current form is a continuation of a longstanding pattern of unfairly singling out Israel. We reengaged with and later re-joined the HRC in part to be in a better position to address its flaws, including this one, and we will continue to seek reforms.</p>
 <p>The United States remains deeply committed to helping achieve peace for both Israelis and Palestinians and will support actions in the UN that bring the parties together to advance prospects for peace.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
