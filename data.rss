@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Wed, 08 Jun 2022 19:04:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Jun 2022 19:24:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,175 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>World Ocean Day  </title>
+		<link>https://www.state.gov/world-ocean-day/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Wed, 08 Jun 2022 19:24:05 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=350762</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>The health and productivity of our ocean is under threat. Greenhouse gas emissions are making our ocean warmer, higher, more acidic, and less productive. Meanwhile, illegal, unreported, and unregulated (IUU) fishing is threatening fish stocks and marine biodiversity, while plastic pollution is choking our ocean.</p>
+<p>The ocean crisis is a climate crisis, and the United States is leading the world in efforts to confront these multifaceted threats. We continue to urge all countries — especially major emitters — whose 2030 Nationally Determined Contribution (NDC) targets are not yet aligned with a 1.5-degree Celsius pathway to increase the ambition of these 2030 targets ahead of COP27. Through President Biden’s Emergency Plan for Adaptation and Resilience (PREPARE), we are focused on helping more than 500 million people in developing countries adapt to and manage climate impacts, including ocean-climate impacts. We are also working to leverage the power of ocean-based climate solutions, including green shipping, to help keep the 1.5-degree Celsius target within reach. For example, we are working with countries in the International Maritime Organization to adopt a goal of zero emissions from international shipping no later than 2050 and have announced a Green Shipping Challenge for COP27 to help spur concrete action this decade that will help put the sector on a credible pathway toward full decarbonization.</p>
+<p>The United States co-hosted the Our Ocean Conference with Palau in April 2022, when we announced plans totaling nearly $250 million to combat IUU fishing through policy initiatives, strengthened governance, and innovative forms of monitoring and traceability. These measures are designed not only to protect marine biodiversity and fish stocks, but also the coastal communities that depend on them for their livelihoods. We are helping partners and allies implement the Port State Measures Agreement, the first binding international agreement to specifically target IUU fishing.</p>
+<p>The United States is also leading the charge to combat the flow of an estimated 8 to 11 million tons of plastic waste into the ocean each year. At the second session of the fifth UN Environment Assembly in Nairobi in March 2022, the United States was proud to join other nations in adopting a resolution launching negotiations on a global agreement on plastic pollution that would address the full lifecycle of plastics and take an ambitious, innovative, and country-driven approach. Such a global agreement will be a critical step in cleaning up our ocean and has been hailed as the most important step forward on the environment since the Paris Agreement. As we work with the rest of the world toward this global agreement, the United States is taking action now to combat plastic pollution—both domestically and internationally. For example, we are working with other countries to build capacity to improve environmentally-sound waste management and to reduce the amount of abandoned, lost, or otherwise discarded fishing gear in the ocean.</p>
+<p>In the face of these challenges, we must continue to protect and enhance the resilience of fragile marine ecosystems. The United States has established nearly 1,000 marine protected areas in our ocean, estuaries, coastal waters, and Great Lakes, and we are continuing to work towards the goal of conserving 30 percent of our land and waters by 2030, as directed by President Biden. We encourage all countries to take equally ambitious action by committing to conserving or protecting 30 percent of their land and waters by 2030, including their national ocean waters, by joining the Ocean Conservation Pledge launched at the 2022 Our Ocean Conference.</p>
+<p>Additionally, we look forward to supporting the Eastern Tropical Pacific Marine Corridor, a precedent-setting regional effort created by the governments of Colombia, Costa Rica, Ecuador, and Panama. We are also the current chair of the International Coral Reef Initiative, a unique partnership of governments, international organizations, scientific entities, and non-governmental organizations, where we are committed to increasing global efforts to protect and restore coral reefs.</p>
+<p>We recognize that the decisions we make and the actions we take today will affect the health of our ocean for centuries to come. The United States will continue our efforts and work with our allies and partners to protect our ocean and secure a better future for the planet.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>The health and productivity of our ocean is under threat. Greenhouse gas emissions are making our ocean warmer, higher, more acidic, and less productive. Meanwhile, illegal, unreported, and unregulated (IUU) fishing is threatening fish stocks and marine biodiversity, while plastic pollution is choking our ocean.</p>
+<p>The ocean crisis is a climate crisis, and the United States is leading the world in efforts to confront these multifaceted threats. We continue to urge all countries — especially major emitters — whose 2030 Nationally Determined Contribution (NDC) targets are not yet aligned with a 1.5-degree Celsius pathway to increase the ambition of these 2030 targets ahead of COP27. Through President Biden’s Emergency Plan for Adaptation and Resilience (PREPARE), we are focused on helping more than 500 million people in developing countries adapt to and manage climate impacts, including ocean-climate impacts. We are also working to leverage the power of ocean-based climate solutions, including green shipping, to help keep the 1.5-degree Celsius target within reach. For example, we are working with countries in the International Maritime Organization to adopt a goal of zero emissions from international shipping no later than 2050 and have announced a Green Shipping Challenge for COP27 to help spur concrete action this decade that will help put the sector on a credible pathway toward full decarbonization.</p>
+<p>The United States co-hosted the Our Ocean Conference with Palau in April 2022, when we announced plans totaling nearly $250 million to combat IUU fishing through policy initiatives, strengthened governance, and innovative forms of monitoring and traceability. These measures are designed not only to protect marine biodiversity and fish stocks, but also the coastal communities that depend on them for their livelihoods. We are helping partners and allies implement the Port State Measures Agreement, the first binding international agreement to specifically target IUU fishing.</p>
+<p>The United States is also leading the charge to combat the flow of an estimated 8 to 11 million tons of plastic waste into the ocean each year. At the second session of the fifth UN Environment Assembly in Nairobi in March 2022, the United States was proud to join other nations in adopting a resolution launching negotiations on a global agreement on plastic pollution that would address the full lifecycle of plastics and take an ambitious, innovative, and country-driven approach. Such a global agreement will be a critical step in cleaning up our ocean and has been hailed as the most important step forward on the environment since the Paris Agreement. As we work with the rest of the world toward this global agreement, the United States is taking action now to combat plastic pollution—both domestically and internationally. For example, we are working with other countries to build capacity to improve environmentally-sound waste management and to reduce the amount of abandoned, lost, or otherwise discarded fishing gear in the ocean.</p>
+<p>In the face of these challenges, we must continue to protect and enhance the resilience of fragile marine ecosystems. The United States has established nearly 1,000 marine protected areas in our ocean, estuaries, coastal waters, and Great Lakes, and we are continuing to work towards the goal of conserving 30 percent of our land and waters by 2030, as directed by President Biden. We encourage all countries to take equally ambitious action by committing to conserving or protecting 30 percent of their land and waters by 2030, including their national ocean waters, by joining the Ocean Conservation Pledge launched at the 2022 Our Ocean Conference.</p>
+<p>Additionally, we look forward to supporting the Eastern Tropical Pacific Marine Corridor, a precedent-setting regional effort created by the governments of Colombia, Costa Rica, Ecuador, and Panama. We are also the current chair of the International Coral Reef Initiative, a unique partnership of governments, international organizations, scientific entities, and non-governmental organizations, where we are committed to increasing global efforts to protect and restore coral reefs.</p>
+<p>We recognize that the decisions we make and the actions we take today will affect the health of our ocean for centuries to come. The United States will continue our efforts and work with our allies and partners to protect our ocean and secure a better future for the planet.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Antony J. Blinken With Executive Vice President and Head of International Affairs at the U.S. Chamber of Commerce Myron Brillant At the CEO Summit of the Americas</title>
 		<link>https://www.state.gov/secretary-antony-j-blinken-with-executive-vice-president-and-head-of-international-affairs-at-the-u-s-chamber-of-commerce-myron-brillant-at-the-ceo-summit-of-the-americas/</link>
 		
@@ -1869,163 +2038,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Deputy Secretary of State for Management and Resources Brian P. McKeon will travel to Paris, France, from June 8 to 10 to lead the U.S. delegation to the 61st annual Ministerial Council Meeting of the Organization for Economic Development and Cooperation (OECD).  While in Paris, Deputy Secretary McKeon will meet with OECD Secretary General Matthias Corman and officials from OECD member countries.  The Deputy Secretary and the Secretary General will discuss the OECD’s key role in driving progress to meet shared challenges, including the climate crisis, inclusive economic recovery, and support for Ukraine’s recovery and reconstruction.  He will participate in Ministerial Council Meeting working sessions, including on Africa and on the economic and other consequences of Russia’s aggression in Ukraine.  Deputy Secretary McKeon will also visit Frankfurt, Germany, for internal meetings at the U.S. Consulate General.</p>
 <p>The Deputy Secretary’s participation in the OECD Ministerial Council Meeting will underscore our support for the OECD as the premiere venue for market-oriented democracies to come together to develop solutions for economic challenges.</p>
 <p><input type="hidden" data-filter="111000000000" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Deputy Secretary Sherman’s Meeting with Ukrainian Deputy Foreign Minister Senik</title>
-		<link>https://www.state.gov/deputy-secretary-shermans-meeting-with-ukrainian-deputy-foreign-minister-senik/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 08 Jun 2022 01:17:26 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=350406</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The following is attributable to Spokesperson Ned Price:</p>
-<p>Deputy Secretary of State Wendy Sherman met today with Ukrainian Deputy Foreign Minister Dmytro Senik in Seoul.  The Deputy Secretary emphasized the United States’ robust, continued support for Ukraine’s sovereignty and territorial integrity in the face of Russia’s unprovoked aggression.  The Deputy Secretary provided an update on U.S. assistance to Ukraine, including security, humanitarian, and economic assistance, as well as budgetary support and aid for long-term efforts.  Deputy Secretary Sherman and Deputy Foreign Minister Senik also discussed the impact of Russia’s brutal war of aggression on global food security and our commitment to getting Ukraine’s grain to international markets.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The following is attributable to Spokesperson Ned Price:</p>
-<p>Deputy Secretary of State Wendy Sherman met today with Ukrainian Deputy Foreign Minister Dmytro Senik in Seoul.  The Deputy Secretary emphasized the United States’ robust, continued support for Ukraine’s sovereignty and territorial integrity in the face of Russia’s unprovoked aggression.  The Deputy Secretary provided an update on U.S. assistance to Ukraine, including security, humanitarian, and economic assistance, as well as budgetary support and aid for long-term efforts.  Deputy Secretary Sherman and Deputy Foreign Minister Senik also discussed the impact of Russia’s brutal war of aggression on global food security and our commitment to getting Ukraine’s grain to international markets.</p>
 ]]></content:encoded>
 					
 		
