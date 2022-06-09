@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Thu, 09 Jun 2022 16:39:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jun 2022 21:57:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,163 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Update on Special Immigrant Visa Processing</title>
+		<link>https://www.state.gov/update-on-special-immigrant-visa-processing/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Thu, 09 Jun 2022 21:57:19 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=351364</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>The Department of State remains committed to processing Special Immigrant Visa (SIV) applications from Afghan partners as expeditiously as possible.  We have increased staffing, streamlined individual processing steps, made technological improvements, and surged additional staff to support third-country embassies and consulates processing these visa applications following the suspension of operations at Embassy Kabul.  As a result, we are processing more initial applications than ever, and we are prioritizing SIV applicants for visa interview at any third-country immigrant visa processing post where applicants can travel and appear.</p>
+<p>Through a recent court filing, the Executive Branch is seeking the flexibility to allocate our resources not on burdensome litigation reporting requirements but, instead, on processing of SIV cases and transparent reporting to Congress on our performance.  We continue to believe that is in the best interest of our Afghan partners seeking SIV status.  We look forward to continuing to share information with stakeholders and the public on our ongoing work to fulfill our commitment to our Afghan partners.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>The Department of State remains committed to processing Special Immigrant Visa (SIV) applications from Afghan partners as expeditiously as possible.  We have increased staffing, streamlined individual processing steps, made technological improvements, and surged additional staff to support third-country embassies and consulates processing these visa applications following the suspension of operations at Embassy Kabul.  As a result, we are processing more initial applications than ever, and we are prioritizing SIV applicants for visa interview at any third-country immigrant visa processing post where applicants can travel and appear.</p>
+<p>Through a recent court filing, the Executive Branch is seeking the flexibility to allocate our resources not on burdensome litigation reporting requirements but, instead, on processing of SIV cases and transparent reporting to Congress on our performance.  We continue to believe that is in the best interest of our Afghan partners seeking SIV status.  We look forward to continuing to share information with stakeholders and the public on our ongoing work to fulfill our commitment to our Afghan partners.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Deputy Secretary Sherman’s Meeting with Philippine Secretary of Foreign Affairs Locsin</title>
 		<link>https://www.state.gov/deputy-secretary-shermans-meeting-with-philippine-secretary-of-foreign-affairs-locsin/</link>
 		
@@ -1522,233 +1679,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p><strong>QUESTION:</strong>  Thank you very much.</p>
 <p><strong>SECRETARY BLINKEN:</strong>  Thank you.  It’s good to be with you.</p>
 <p><strong>QUESTION:</strong>  Thank you for your time.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken and Secretary General of the Organization of American States Luis Almagro At a Meeting of the Summit Implementation Review Group</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-and-secretary-general-of-the-organization-of-american-states-luis-almagro-at-a-meeting-of-the-summit-implementation-review-group/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Wed, 08 Jun 2022 20:27:39 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=350793</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Los Angeles, California</p>
-<p>Los Angeles Convention Center</p>
-<p><strong>SECRETARY BLINKEN:</strong>  This is the great power of being the chair.  Again, welcome, everyone.  Good morning.  Welcome to Los Angeles.  It is wonderful to see my fellow ministers, all of your teams here for the Ninth Summit of the Americas.  And welcome to each of you.  Welcome to the Summit Implementation Review Group Ministerial.</p>
-<p>For those of you who are not familiar with this group, it is made up of national coordinators from countries across our hemisphere, who negotiate the political commitments that our nations’ leaders will adopt at the summit in the days ahead.</p>
-<p>Months of work have gone into the commitments that we’ll discuss today and to ensuring that our level of ambition meets the level of need of people across our shared hemisphere.  And let me simply say this:  We are deeply grateful for all of the efforts that our respective teams have made.  Thank you, thank you, thank you.</p>
-<p>In particular, I’d like to thank my colleagues from Canada, Chile, Colombia, the Dominican Republic, Ecuador, Guyana, Jamaica, Panama, Peru, and Uruguay, each of whom chaired working groups on the summit’s five central themes: health and resilience, digital transformation, clean energy, environmental sustainability, and democratic governance.  Your leadership was crucial to reaching the consensus that I expect we’ll finalize today.</p>
-<p>I’d also like to give a very special shout-out to our team’s summit coordinator, Kevin O’Reilly, and Kevin – where is Kevin?  Right.  Thank you.  (Applause.)  And our deputy coordinator, Dave Silverman, who is serving his seventh summit.  There’s got to be an award that goes with that.  So thank you both for remarkable service and remarkable work.</p>
-<p>And I’ll say this, too:  I actually participated in the very first Summit of the Americas in 1994 in  Miami.  It’s wonderful to come full circle now here in Los Angeles.</p>
-<p>To my friend and colleague, the secretary general of the OAS, Luis Almagro, welcome.  It’s wonderful to be working with you as always.  To Vice Chair Duclós Parodi, colleagues, the commitments that we will discuss are intended to address some of the most pressing challenges that we face in our hemisphere, including COVID-19; the climate crisis; deep inequity; and threats to democracy and human rights; as well, of course, as the migration crisis that all of these problems are contributing to drive even further.</p>
-<p>We all know this from the work that we do every single day:  None of these challenges stay within our national borders, and they’re mutually reinforcing.  When individual countries don’t do enough to invest in detecting infectious disease or reducing emissions, it puts people across the region and the world at risk.  And we’ve seen, of course, how COVID-19 and the consequences of the climate crisis are hitting underserved communities the hardest, deepening inequities within our hemisphere.</p>
-<p>Much like the problems, the solutions are interconnected.  And to be effective, they have to reach across borders.  That’s why we’re here.  That’s really what it comes down to.</p>
-<p>Addressing these challenges also demands that we try to bridge the divide between domestic and foreign policy, whether we’re working to improve health security or energy security; defending an open, secure, reliable internet; or strengthening regulations to make sure that illicit finance cannot find a safe haven in any of our countries.  And you see that in the diverse teams that each of our countries has put together for these discussions and to try to tackle these problems.</p>
-<p>Let me simply focus us now on the five areas that we will discuss today and that our leaders will take up later.</p>
-<p>First, we will build greater health and pandemic resilience by strengthening our public health systems to ensure that people across our hemisphere have access to quality care.  That includes expanding people- and community-centered health services, investing in education and training in medicine, public health, nutrition, biomedical science research.  It also includes preparing for future health emergencies by strengthening our capacity to detect, to prevent, and to deal with future outbreaks of pandemics and other emergencies, improving coordination, transparency, accountability across the region, because when it comes to global health – we’ve learned this – we’re all in it together.</p>
-<p>Second, we will establish the first-ever regional agenda on digital transformation to close an enduring digital divide in our societies so that all people can access and use the digital tools that are increasingly essential to their daily lives – from running a small business to getting an education.  The agenda will include expanding internet access, particularly in historically marginalized communities, driving innovation and social inclusion through increased access to digital government services.  It also includes expanding digital technology’s role in promoting quality education, digital literacy, digital citizenry.</p>
-<p>Third, we will accelerate the region’s transition to clean energy, drawing on the strength, the knowledge, the capabilities of governance, but also businesses, NGOs, researchers, communities across our hemisphere.  We’ll make it easier to share technical knowledge and best practices; to foster greater collaboration with the private sector and other stakeholders to identify opportunities for manufacturing or trade in clean energy goods and services; we’ll advance sustainable, attainable, responsible mining sector principles; and secure the integration of mineral supply chains in our own hemisphere.</p>
-<p>Fourth, we will double down on investing in climate resilience and adaptation to better equip our communities to deal with the changes to the environment that all of us are already experiencing, and which we know are going to grow no matter how effective we are in accelerating the shift to clean energy.  That includes meeting our commitments to halt and reverse deforestation, decreasing the amount of carbon from land use activities, increasing our capacity to store carbon.</p>
-<p>Fifth and finally, we will recommit ourselves to one of the core aspirations that brought us together 30 years ago, when the United States hosted the first Summit of the Americas in Miami: advancing democracy.  We’ll push ourselves, we’ll push our neighbors across the region to shore up the rule of law, free and fair elections, human rights, and other pillars of free and open societies.  And we’ll work together to address common threats to our democracies, from corruption to disinformation.</p>
-<p>We all know the democratic process is not always easy or swift.  That’s true within a single democracy.  It’s amplified when we bring together dozens of democracies, as we’ve done for this summit.  But the fact is we also acknowledge our shortcomings.  They’re out in the open.  We don’t sweep them under a rug.  And we work to try to address them together, and ultimately that is the greatest strength that we bring to the table as democracies.</p>
-<p>And there are few regions in the world like this one, where you see so many democracies – from the left, from the right, from the center – that are able to set out a shared roadmap for addressing complex problems.  I think that’s something to celebrate even as we’re clear-eyed about all of the work that we have ahead of us.</p>
-<p>Another strength is that we don’t lose sight of the people that we serve.  A big part of this process has actually been listening – to individual citizens, to NGOs, to young people, to communities, to businesses, including those that are critical of how we’re performing.  The input we sought from stakeholders has been crucial to understanding what our people actually need from us, what they expect of us, what we need to try to deliver together.</p>
-<p>So going forward, citizens will be critical partners in carrying out these efforts and holding us to our commitments that we make here at the summit.  We’re here for a few days, but this is 365 days every year that matter.  And whatever we commit to here, we have to carry it forward.  We have to work on it every day.  We have to do it together.  That’s the spirit that we hope will come out of Los Angeles.</p>
-<p>With that, it’s my pleasure to give the floor to Secretary General Almagro.  Luis.</p>
-<p><strong>SECRETARY GENERAL ALMAGRO:</strong>  Thank you, Secretary of State.</p>
-<p>(Via interpreter) Thank you.  And we want to thank the United States Government, the SIRG, Secretary of State Blinken, for getting us together before the summit.  Ladies and gentlemen, ministers, foreign affairs coordinators, national coordinators, summit coordinators, participants, representatives of the joint working group – Joint Summit Working Group.</p>
-<p>As secretary general and the technical secretariat and institutional memory of the summit process, as president of the Joint Summit Working Group, we want to congratulate the host country for their leadership and for assuming this enormous responsibility in this Summit of the Americas.</p>
-<p>Since the summit was – became official in January of 2022, the president of SIRG has worked together with the participating delegates to include all the priorities.  When the United States launched the Summit of the Americas in 1994, it was considered then that the democratic leaders of the hemisphere would work together as true partners for prosperity.  Throughout the years, we have achieved important advances to achieve prosperity, democracy, and security in the Americas.</p>
-<p>However, though some of the challenges we faced at the time still persist, the current challenge have no precedent, in contrast to the first summit with a true consensus around democracy.  Today, we definitely have to ensure that we achieve a democratic governance instrument as one fundamental to strengthen the democratic charter of the Americas.</p>
-<p>The summit offers the leaders of the Americas the opportunity to reaffirm that commitment to democracy.  Citizens who achieve this and the peoples who achieve this authority is through the adoption of a plan of action geared to strengthen this democratic governance.  That’s why it’s more important than ever now that the governments, institutions, enterprises, and the citizens of the America work together to deal with these challenges and to create new opportunities to advance in the – with the objectives of the ninth summit.  In this context, the Government of the United States has shown true determination in bringing a series of proposals that are essential for the economic, social recovery of the nation.</p>
-<p>The ninth Summit of the Americas takes place as an opportunity to catalyze these responses to face the challenges of the regional scenario in topics related to health, energy transition, digital transformation, the defense of the democratic principles, the social dynamics and the security dynamic and the migration issues.  In 2021, as a result of a series of consultations and dialogue with civil society, the national coordinators of the private sector summit and other involved sectors, they identified the priority topics for this host country.  The inputs in the consultation became a reality of conducing a sustainable, resilient, and equitable future.</p>
-<p>As a result of the many challenges faced by the countries of the region, the later context of COVID must be taken advantage to promote a collective agenda for which we must strengthen the coordination of all agents and reinforce multilateral coordination in the inter-American system.  The whole system begins with this summit.  It does not end here.  It begins with the summit.</p>
-<p>It’s a new period of partnerships in the Americas.  Today we have two entities of the inter-American system – United Nations, multilateral banks – who have actively participated throughout the negotiations.  I’ve had a chance to meet virtually with them, and we’ve closely followed the evolution of all the discussions, with interest in identifying, of course, the financing sources because these efforts require that we pay several bills.  And that’s the effort that the host country has promoted to find the solutions needed by the hemisphere.</p>
-<p>And I want to end saying that in view of the social, political, economic, and health impacts caused by the COVID pandemic in the regions, it’s necessary that we go back to the Sustainable Development Goals, which means that we adopt strategic measures to deal with the systemic and structural deficiencies and shortcomings in the region.  This requires greater convergence amongst our institutions.</p>
-<p>We call upon us to overcome differences so that we can truly achieve the implementation as a result of the work adopted.  The role of the technical secretariat of the summit process will continue to harmonize the efforts of all regional, public, and private agents to support member countries around all the priorities adopted at this summit.</p>
-<p>I wish you a very productive and successful discussion and summit.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  <em>Gracias,</em> Luis.  Thank you very much.  We’ll take a moment to let our colleagues from the media leave the room.  Thank you.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Los Angeles, California</p>
-<p>Los Angeles Convention Center</p>
-<p><strong>SECRETARY BLINKEN:</strong>  This is the great power of being the chair.  Again, welcome, everyone.  Good morning.  Welcome to Los Angeles.  It is wonderful to see my fellow ministers, all of your teams here for the Ninth Summit of the Americas.  And welcome to each of you.  Welcome to the Summit Implementation Review Group Ministerial.</p>
-<p>For those of you who are not familiar with this group, it is made up of national coordinators from countries across our hemisphere, who negotiate the political commitments that our nations’ leaders will adopt at the summit in the days ahead.</p>
-<p>Months of work have gone into the commitments that we’ll discuss today and to ensuring that our level of ambition meets the level of need of people across our shared hemisphere.  And let me simply say this:  We are deeply grateful for all of the efforts that our respective teams have made.  Thank you, thank you, thank you.</p>
-<p>In particular, I’d like to thank my colleagues from Canada, Chile, Colombia, the Dominican Republic, Ecuador, Guyana, Jamaica, Panama, Peru, and Uruguay, each of whom chaired working groups on the summit’s five central themes: health and resilience, digital transformation, clean energy, environmental sustainability, and democratic governance.  Your leadership was crucial to reaching the consensus that I expect we’ll finalize today.</p>
-<p>I’d also like to give a very special shout-out to our team’s summit coordinator, Kevin O’Reilly, and Kevin – where is Kevin?  Right.  Thank you.  (Applause.)  And our deputy coordinator, Dave Silverman, who is serving his seventh summit.  There’s got to be an award that goes with that.  So thank you both for remarkable service and remarkable work.</p>
-<p>And I’ll say this, too:  I actually participated in the very first Summit of the Americas in 1994 in  Miami.  It’s wonderful to come full circle now here in Los Angeles.</p>
-<p>To my friend and colleague, the secretary general of the OAS, Luis Almagro, welcome.  It’s wonderful to be working with you as always.  To Vice Chair Duclós Parodi, colleagues, the commitments that we will discuss are intended to address some of the most pressing challenges that we face in our hemisphere, including COVID-19; the climate crisis; deep inequity; and threats to democracy and human rights; as well, of course, as the migration crisis that all of these problems are contributing to drive even further.</p>
-<p>We all know this from the work that we do every single day:  None of these challenges stay within our national borders, and they’re mutually reinforcing.  When individual countries don’t do enough to invest in detecting infectious disease or reducing emissions, it puts people across the region and the world at risk.  And we’ve seen, of course, how COVID-19 and the consequences of the climate crisis are hitting underserved communities the hardest, deepening inequities within our hemisphere.</p>
-<p>Much like the problems, the solutions are interconnected.  And to be effective, they have to reach across borders.  That’s why we’re here.  That’s really what it comes down to.</p>
-<p>Addressing these challenges also demands that we try to bridge the divide between domestic and foreign policy, whether we’re working to improve health security or energy security; defending an open, secure, reliable internet; or strengthening regulations to make sure that illicit finance cannot find a safe haven in any of our countries.  And you see that in the diverse teams that each of our countries has put together for these discussions and to try to tackle these problems.</p>
-<p>Let me simply focus us now on the five areas that we will discuss today and that our leaders will take up later.</p>
-<p>First, we will build greater health and pandemic resilience by strengthening our public health systems to ensure that people across our hemisphere have access to quality care.  That includes expanding people- and community-centered health services, investing in education and training in medicine, public health, nutrition, biomedical science research.  It also includes preparing for future health emergencies by strengthening our capacity to detect, to prevent, and to deal with future outbreaks of pandemics and other emergencies, improving coordination, transparency, accountability across the region, because when it comes to global health – we’ve learned this – we’re all in it together.</p>
-<p>Second, we will establish the first-ever regional agenda on digital transformation to close an enduring digital divide in our societies so that all people can access and use the digital tools that are increasingly essential to their daily lives – from running a small business to getting an education.  The agenda will include expanding internet access, particularly in historically marginalized communities, driving innovation and social inclusion through increased access to digital government services.  It also includes expanding digital technology’s role in promoting quality education, digital literacy, digital citizenry.</p>
-<p>Third, we will accelerate the region’s transition to clean energy, drawing on the strength, the knowledge, the capabilities of governance, but also businesses, NGOs, researchers, communities across our hemisphere.  We’ll make it easier to share technical knowledge and best practices; to foster greater collaboration with the private sector and other stakeholders to identify opportunities for manufacturing or trade in clean energy goods and services; we’ll advance sustainable, attainable, responsible mining sector principles; and secure the integration of mineral supply chains in our own hemisphere.</p>
-<p>Fourth, we will double down on investing in climate resilience and adaptation to better equip our communities to deal with the changes to the environment that all of us are already experiencing, and which we know are going to grow no matter how effective we are in accelerating the shift to clean energy.  That includes meeting our commitments to halt and reverse deforestation, decreasing the amount of carbon from land use activities, increasing our capacity to store carbon.</p>
-<p>Fifth and finally, we will recommit ourselves to one of the core aspirations that brought us together 30 years ago, when the United States hosted the first Summit of the Americas in Miami: advancing democracy.  We’ll push ourselves, we’ll push our neighbors across the region to shore up the rule of law, free and fair elections, human rights, and other pillars of free and open societies.  And we’ll work together to address common threats to our democracies, from corruption to disinformation.</p>
-<p>We all know the democratic process is not always easy or swift.  That’s true within a single democracy.  It’s amplified when we bring together dozens of democracies, as we’ve done for this summit.  But the fact is we also acknowledge our shortcomings.  They’re out in the open.  We don’t sweep them under a rug.  And we work to try to address them together, and ultimately that is the greatest strength that we bring to the table as democracies.</p>
-<p>And there are few regions in the world like this one, where you see so many democracies – from the left, from the right, from the center – that are able to set out a shared roadmap for addressing complex problems.  I think that’s something to celebrate even as we’re clear-eyed about all of the work that we have ahead of us.</p>
-<p>Another strength is that we don’t lose sight of the people that we serve.  A big part of this process has actually been listening – to individual citizens, to NGOs, to young people, to communities, to businesses, including those that are critical of how we’re performing.  The input we sought from stakeholders has been crucial to understanding what our people actually need from us, what they expect of us, what we need to try to deliver together.</p>
-<p>So going forward, citizens will be critical partners in carrying out these efforts and holding us to our commitments that we make here at the summit.  We’re here for a few days, but this is 365 days every year that matter.  And whatever we commit to here, we have to carry it forward.  We have to work on it every day.  We have to do it together.  That’s the spirit that we hope will come out of Los Angeles.</p>
-<p>With that, it’s my pleasure to give the floor to Secretary General Almagro.  Luis.</p>
-<p><strong>SECRETARY GENERAL ALMAGRO:</strong>  Thank you, Secretary of State.</p>
-<p>(Via interpreter) Thank you.  And we want to thank the United States Government, the SIRG, Secretary of State Blinken, for getting us together before the summit.  Ladies and gentlemen, ministers, foreign affairs coordinators, national coordinators, summit coordinators, participants, representatives of the joint working group – Joint Summit Working Group.</p>
-<p>As secretary general and the technical secretariat and institutional memory of the summit process, as president of the Joint Summit Working Group, we want to congratulate the host country for their leadership and for assuming this enormous responsibility in this Summit of the Americas.</p>
-<p>Since the summit was – became official in January of 2022, the president of SIRG has worked together with the participating delegates to include all the priorities.  When the United States launched the Summit of the Americas in 1994, it was considered then that the democratic leaders of the hemisphere would work together as true partners for prosperity.  Throughout the years, we have achieved important advances to achieve prosperity, democracy, and security in the Americas.</p>
-<p>However, though some of the challenges we faced at the time still persist, the current challenge have no precedent, in contrast to the first summit with a true consensus around democracy.  Today, we definitely have to ensure that we achieve a democratic governance instrument as one fundamental to strengthen the democratic charter of the Americas.</p>
-<p>The summit offers the leaders of the Americas the opportunity to reaffirm that commitment to democracy.  Citizens who achieve this and the peoples who achieve this authority is through the adoption of a plan of action geared to strengthen this democratic governance.  That’s why it’s more important than ever now that the governments, institutions, enterprises, and the citizens of the America work together to deal with these challenges and to create new opportunities to advance in the – with the objectives of the ninth summit.  In this context, the Government of the United States has shown true determination in bringing a series of proposals that are essential for the economic, social recovery of the nation.</p>
-<p>The ninth Summit of the Americas takes place as an opportunity to catalyze these responses to face the challenges of the regional scenario in topics related to health, energy transition, digital transformation, the defense of the democratic principles, the social dynamics and the security dynamic and the migration issues.  In 2021, as a result of a series of consultations and dialogue with civil society, the national coordinators of the private sector summit and other involved sectors, they identified the priority topics for this host country.  The inputs in the consultation became a reality of conducing a sustainable, resilient, and equitable future.</p>
-<p>As a result of the many challenges faced by the countries of the region, the later context of COVID must be taken advantage to promote a collective agenda for which we must strengthen the coordination of all agents and reinforce multilateral coordination in the inter-American system.  The whole system begins with this summit.  It does not end here.  It begins with the summit.</p>
-<p>It’s a new period of partnerships in the Americas.  Today we have two entities of the inter-American system – United Nations, multilateral banks – who have actively participated throughout the negotiations.  I’ve had a chance to meet virtually with them, and we’ve closely followed the evolution of all the discussions, with interest in identifying, of course, the financing sources because these efforts require that we pay several bills.  And that’s the effort that the host country has promoted to find the solutions needed by the hemisphere.</p>
-<p>And I want to end saying that in view of the social, political, economic, and health impacts caused by the COVID pandemic in the regions, it’s necessary that we go back to the Sustainable Development Goals, which means that we adopt strategic measures to deal with the systemic and structural deficiencies and shortcomings in the region.  This requires greater convergence amongst our institutions.</p>
-<p>We call upon us to overcome differences so that we can truly achieve the implementation as a result of the work adopted.  The role of the technical secretariat of the summit process will continue to harmonize the efforts of all regional, public, and private agents to support member countries around all the priorities adopted at this summit.</p>
-<p>I wish you a very productive and successful discussion and summit.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  <em>Gracias,</em> Luis.  Thank you very much.  We’ll take a moment to let our colleagues from the media leave the room.  Thank you.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
