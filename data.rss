@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Thu, 09 Jun 2022 15:28:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jun 2022 15:57:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The IAEA Board of Governors Resolution on Iran</title>
+		<link>https://www.state.gov/the-iaea-board-of-governors-resolution-on-iran/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Thu, 09 Jun 2022 15:57:04 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=351215</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p align="left">Yesterday, we joined the overwhelming majority of the IAEA Board of Governors in expressing support for the IAEA&#8217;s essential mission of safeguarding nuclear material to prevent nuclear proliferation.  Iran must cooperate with the IAEA and provide technically credible information in response to the IAEA&#8217;s questions, which is the only way to remove these safeguards issues from the Board&#8217;s agenda.</p>
+<p align="left">The resolution is at the heart of the IAEA&#8217;s mandate and Iran’s core obligations under the Nuclear Non-Proliferation Treaty, not about the Joint Comprehensive Plan of Action (JCPOA).  The United States remains committed to a mutual return to full implementation of the JCPOA.  We are prepared to conclude a deal on the basis of the understandings we negotiated with our European Allies in Vienna over many months.  Such a deal has been available since March, but we can only conclude negotiations and implement it if Iran drops its additional demands that are extraneous to the JCPOA.</p>
+<p align="left">Unfortunately, Iran&#8217;s initial response to the Board’s action has not been to address the lack of cooperation and transparency that prompted a negative report from the IAEA Director General and such strong concern in the Board, but instead to threaten further nuclear provocations and further reductions of transparency.  Such steps would be counterproductive and would further complicate our efforts to return to full implementation of the JCPOA.  The only outcome of such a path will be a deepening nuclear crisis and further economic and political isolation for Iran.  We continue to press Iran to choose diplomacy and de-escalation instead.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p align="left">Yesterday, we joined the overwhelming majority of the IAEA Board of Governors in expressing support for the IAEA&#8217;s essential mission of safeguarding nuclear material to prevent nuclear proliferation.  Iran must cooperate with the IAEA and provide technically credible information in response to the IAEA&#8217;s questions, which is the only way to remove these safeguards issues from the Board&#8217;s agenda.</p>
+<p align="left">The resolution is at the heart of the IAEA&#8217;s mandate and Iran’s core obligations under the Nuclear Non-Proliferation Treaty, not about the Joint Comprehensive Plan of Action (JCPOA).  The United States remains committed to a mutual return to full implementation of the JCPOA.  We are prepared to conclude a deal on the basis of the understandings we negotiated with our European Allies in Vienna over many months.  Such a deal has been available since March, but we can only conclude negotiations and implement it if Iran drops its additional demands that are extraneous to the JCPOA.</p>
+<p align="left">Unfortunately, Iran&#8217;s initial response to the Board’s action has not been to address the lack of cooperation and transparency that prompted a negative report from the IAEA Director General and such strong concern in the Board, but instead to threaten further nuclear provocations and further reductions of transparency.  Such steps would be counterproductive and would further complicate our efforts to return to full implementation of the JCPOA.  The only outcome of such a path will be a deepening nuclear crisis and further economic and political isolation for Iran.  We continue to press Iran to choose diplomacy and de-escalation instead.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Deputy Secretary McKeon’s Meeting with German State Secretary Brantner</title>
 		<link>https://www.state.gov/deputy-secretary-mckeons-meeting-with-german-state-secretary-brantner/</link>
 		
@@ -1564,285 +1725,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>In the face of these challenges, we must continue to protect and enhance the resilience of fragile marine ecosystems. The United States has established nearly 1,000 marine protected areas in our ocean, estuaries, coastal waters, and Great Lakes, and we are continuing to work towards the goal of conserving 30 percent of our land and waters by 2030, as directed by President Biden. We encourage all countries to take equally ambitious action by committing to conserving or protecting 30 percent of their land and waters by 2030, including their national ocean waters, by joining the Ocean Conservation Pledge launched at the 2022 Our Ocean Conference.</p>
 <p>Additionally, we look forward to supporting the Eastern Tropical Pacific Marine Corridor, a precedent-setting regional effort created by the governments of Colombia, Costa Rica, Ecuador, and Panama. We are also the current chair of the International Coral Reef Initiative, a unique partnership of governments, international organizations, scientific entities, and non-governmental organizations, where we are committed to increasing global efforts to protect and restore coral reefs.</p>
 <p>We recognize that the decisions we make and the actions we take today will affect the health of our ocean for centuries to come. The United States will continue our efforts and work with our allies and partners to protect our ocean and secure a better future for the planet.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken With Executive Vice President and Head of International Affairs at the U.S. Chamber of Commerce Myron Brillant At the CEO Summit of the Americas</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-with-executive-vice-president-and-head-of-international-affairs-at-the-u-s-chamber-of-commerce-myron-brillant-at-the-ceo-summit-of-the-americas/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Wed, 08 Jun 2022 19:04:44 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=350742</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Los Angeles, California</p>
-<p> InterContinental Hotel</p>
-<p><strong>MR BRILLIANT:  </strong>Well, Mr. Secretary, first off let me just say thank you for being here with us today.  And I just want to acknowledge upfront the strong partnership that we’ve had with the State Department in putting together the 4th annual Summit of the Americas.  And I want to give a shoutout to Jose Fernandez, the under secretary of state, and to Assistant Secretary Brian Nichols, but to your entire team &#8212;</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Thank you.</p>
-<p><strong>MR BRILLIANT:  </strong>&#8212; because this is going to be, I know, a crazy week for the State Department.  And I want to begin by just acknowledging how complex and challenging a time it is for the U.S. Government, for the world community – the conflict in Europe, obviously the challenges with the U.S.-China relationship, and more broadly the issues you’re grappling with. So the fact that you’re here today at this summit, we very much greatly appreciate.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Thanks, Myron.</p>
-<p><strong>MR BRILLIANT:  </strong>I want to ask you, Mr. Secretary, at the outset:  As you look at this Summit of Americas, and not just the CEO summit of it but the broader summit that President Biden and you are engaging with all these leaders from the region, tell us what’s important about it as you look at the foreign policy agenda, the administration, you think about it regionally, you think about it globally.  How does this summit fit into it?</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Well, first, Myron, thank you.  Thank you for this partnership on our end, too.  We can’t do it without you.  We’ve had a partnership in so many ways with the Chamber across so many issues.  I think it’s especially important in our own hemisphere, so I’m grateful for everything that you’ve done and that the Chamber has done to be such an important presence here at the summit over the next three days.  Hugely, hugely, important.</p>
-<p>And this is a critical moment for us.  On one level, it’s pretty simple, and it’s obvious but it’s no more – no less important for being obvious.  No other region in the world has the same direct impact on the lives and livelihoods of Americans than the hemisphere that we share.  It’s as simple as that.  So to some extent as goes the hemisphere, so go we.  And so we have a real stake in making sure that, together, we get this right.  And again, to state the obvious, this is a time of incredible challenge for all of us.  We’ve had a confluence of almost perfect storm events over the last few years that have had a profound effect here in the Americas: COVID, climate, some – a democratic deficit, migration, and of course the daily and changing impact of technologies on the lives of everyone.  You put all that together, we’ve lost 2.7 million lives &#8212;</p>
-<p><strong>MR BRILLIANT:  </strong>Yeah.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>&#8212; from COVID in our hemisphere.  Our hemisphere has suffered the most from COVID.  At the same time, it’s 30 percent of global GDP.  If we get our act together and mobilize that effectively, there is so much we can do.  The leaders have not met in more than four years.  It’s time.</p>
-<p>But to your point, and this is what I find so vital about this summit, as important as the government-to-government work is, that is far from the sum and substance of this gathering.  We have the business community, we have civil society, we have young people, we have all the different stakeholders in our hemisphere.  And if these three days, four days can galvanize some collective action together and then we can take that from the summit, I think we’ll have done a good thing.</p>
-<p><strong>MR BRILLIANT:  </strong>Well, Mr. Secretary, thank you for framing it in the context of all the things that this region has to think about – the pandemic, the return to health and the return to stronger economies.  You have an economic plan that you want to talk about at this summit.  Can you give us a preview about what that economic plan looks like and a little bit about how the private sector will play into that economic plan?</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Well, first, never get ahead of your boss, so the President &#8212;</p>
-<p><strong>MR BRILLIANT:  </strong>Just a little bit of a &#8212;</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Just a little bit.  The President’s going to be speaking to this later today, and I’m very excited about that.  It dovetails with a number of things that we’re doing here.  First, we have – with our partners throughout the region, we have a number of areas and issues that we’re trying to drive together.  There’s going to be a lengthy summit declaration that you’ll see that actually focuses in our work together on a number of areas, and the President’s economic plan dovetails with those areas.</p>
-<p>So for example, we need to build greater health resilience in our hemisphere in two ways: we need to be better prepared to manage a future pandemic, but also in the daily lives of people.  We need to be able to provide better basic health services.  There are huge disparities.  One of the great things coming out of the summit – and this is where the private sector also is critical – is we have a commitment over the next couple of years to train 500,000 health professionals, generalists and specialists.  That’s going to make a huge difference if they are effectively deployed throughout our hemisphere in raising the basic level of health services.  That’s one, but the president’s going to address some of that.</p>
-<p>Second, on the climate and energy agenda, there are huge needs but also huge opportunities to come together in a way that actually is beneficial to our economies and also beneficial to climate, beneficial to our energy security and infrastructure development.  He will speak to that.  We have to do more and we will do more in a positive way to bridge digital divides that exist within our countries, but also within the hemisphere itself.  Facilitating digital trade, doing it in a way that’s secure, that upholds basic democratic principles, but that also is much more inclusive so that we bridge some of these divides.  That’s going to be a big part of it.</p>
-<p>But also – and this is really imperative and this is, again, where our partnership with the private sector is so important – we have to find ways together and make good on commitments together to create an environment in which business can really work effectively.</p>
-<p>So we know there remain huge challenges when it comes to everything from regulatory frameworks to corruption.  It is vital that all of our partners – and we – work together to deal with these.  Because, for example, as we’ve discussed, there’s a lot of capital out there.  But it’s not going to be deployed if the environment in which you want to deploy it is simply too risky and too complicated.</p>
-<p>We have these conversations all the time with our counterparts.  Hearing it from us is one thing; I think hearing it from the business community directly, that’s important too.  So the President’s going to address all that.</p>
-<p>There are huge infrastructure demands throughout the world; there are huge infrastructure demands in our hemisphere.  How do we facilitate making sure that the government is playing its part in helping to support viable projects, in helping to mobilize capital?  All of that will be there.  I don’t want to get too far ahead of where he’s going to be; stay tuned.</p>
-<p><strong>MR BRILLIANT:</strong>  Always smart not to get ahead of POTUS, of the President, your boss.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Yes, it’s a good rule.</p>
-<p><strong>MR BRILLIANT:</strong>  Look, you talked about energy security, you talked about the digital transformation, you talked about digital trade – all these are important areas for business to be in partnership with government, and not just our government but governments around the region.  How receptive is the message being heard in the region?  Now, I know you’re going to begin your bilaterals over the next couple days, you’ll have the big summit – do you see government leaders across the region understanding that this is a critical moment to come together?  Because we see quite a bit of change politically in the region, and I wonder how that factors into what you’re trying to achieve.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, look.  One of the, I think, strengths, in a sense, of our region, is – look, there are political differences.  We have democratic governments of the left, of the right, and of the center.  But despite what political differences there are, if the fundamentals are there, we’re going to be able to work very, very effectively together.  And whether it’s of the left, the right, or the center, there’s a common challenge for every single democracy in our hemisphere, and that’s to actually deliver concrete results for people.  One of the reasons you may see changes in governance is simply because people have lost faith in the – whatever the current existing administration is in a given country, whether it’s left, right, or center, in its ability to deliver practical things, concrete things.</p>
-<p>So my sense, Myron, is in our conversations, governments are very motivated to figure out how do we actually deliver.  And it’s partly because it’s the right and necessary thing to do.  It’s probably the politically self-preservation thing to do as well.</p>
-<p>So I think we have to work with that, work with partners, and find ways together to support change that creates the right environment – again, to, among other things, mobilize capital throughout the hemisphere.</p>
-<p><strong>MR BRILLIANT:</strong>  Well, all those are very important principles and issues to think about.  One thing that you’ve talked about but I want to get a little deeper on is the rule of law &#8212;</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Yep.</p>
-<p><strong>MR BRILLIANT:</strong>  For business leaders, rule of law is fundamental.  We need certainty, we need transparency, we need accountability, and by the way, we want to be accountable also to the system.  Talk to me about the Alliance for Development in Democracy.  You have this pathway with a couple of countries in the region.  I’m sure you want to expand that to others.  How does that fit into this narrative, and how does it link up to the business community in terms of us working with you?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  So I think this is a terrific initiative and it brings together, as you know, Costa Rica, the Dominican Republic, Panama.  In fact, I had my counterparts from those countries in Washington three or four months ago for a meeting of this alliance.  And we’re focused on very practical things like: how do we make governance work better for people, how do we make sure it’s inclusive, and how do we make sure that it does exactly what we’re talking about, it creates a better environment for, among other things, investment?</p>
-<p>So one of the things we talked about is using some of the digital tools that have been developed to make sure governments adopt them.  That’s a way of combatting corruption, which is one of the single biggest challenges we face not only in the hemisphere, but around the world.  It cuts through red tape, so that also helps create a better business environment.  These are the kinds of initiatives that, in a very practical way, we’re trying to bring together.  And if we can demonstrate among a small number of countries that this works, I expect that’ll expand to others as well.</p>
-<p><strong>BRILLIANT:</strong>  What does success look like at the end of this summit?  After our CEO summit, after your summit that the President leads, what does success look like, and how do we go forward and make sure that whatever is discussed here, we take into action?  And here, you can challenge the private sector.  We need to play a role.  But what does success look like?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Look, I think the private sector’s a critical partner on virtually everything that we’re doing.  And in fact, one of the greatest strengths we bring to the table is our ability to work together with the private sector in ways that other countries don’t or can’t.  So we want to see that mobilized to the greatest extent possible.</p>
-<p>I think when it comes to the issues we’ve talked about, when it comes to basic good governance, when it comes to transparency, when it comes to rule of law, when it comes to combatting corruption, I think that’s something that the private sector rightly should and must insist on.  And hearing it directly from the private sector makes a big difference.  Certainly our partners hear it from us, and of course we have to deal with our own challenges, as we are.</p>
-<p>But what does success look like?  It’s two things.  Yes, it’s what gets agreed at this – at the summit.  There’ll be important commitments; there’ll be important initiatives; there’ll be important declarations of intent.</p>
-<p><strong>MR BRILLIANT:  </strong>Right.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>But three days is not 365 days.  This has to be done over 365 days.  We have to hold ourselves accountable to what is agreed here, the commitments that all of us make to try to move forward, and then really see where we are at every step along the way.  Are we delivering on that intent?  We’re not going to know that right away.  So look, I think we’ll have important – the lingo that we use – deliverables.  We’ll have good deliverables.  But the deliverables are only as good as their implementation.  They’re only as good as the sustained commitment to getting them done.</p>
-<p>So maybe we should come back together in Los Angeles in a year’s time and see how we’re doing.</p>
-<p><strong>MR BRILLIANT: </strong> Los Angeles or others?  Well, this is the City of Angels, so I shouldn’t say other cities.  But we’ve got a lot of great cities in this country that would be happy to have this forum.</p>
-<p>Look, I know you have limited time, and I want to ask you just sort of what should we be thinking about?  What should the business community be thinking about?  You’ve mentioned the big issues.  But what is it that we all need to be thinking about to drive home success?  Underscoring everything you just said.</p>
-<p><strong>SECRETARY BLINKEN: </strong> So for me, it’s a pretty simple proposition.  Not a single one of the issues that we’re working on and that are actually having an impact on the lives of people in every country in this hemisphere – not a single one can we effectively deal with alone.  And by alone, I mean no single government can do it and no – and even a group of governments can’t do it because we need to have partnerships with the private sector, with civil society, with other major stakeholders.  Climate, COVID, emerging technology, migration, all of these things defy unilateral solutions, either unilateral, again, on the part of a single government or unilateral on the part of a single stakeholder.</p>
-<p>So it’s in a sense as basic as that.  If we can’t find ways to effectively partner, we’re not going to meet these challenges.  If we don’t meet these challenges, we’re not going to be responsive to our citizens.  And if we’re not responsive to our citizens, they’ll let us know.</p>
-<p>So we need to get this right, but last thing I’ll say is this, and I think you’ll hear this from the President this afternoon because he is the eternal optimist and it’s an occupational requirement.  (Laughter.)  There’s huge opportunity here.  You all know this better than anyone.  You can see it, you can feel it, and you’re doing it.  The Vice President, with the call to action for investment in the Northern Triangle countries, that’s been a remarkable success – $3.2 billion in new investments generated just in the space of about a year.</p>
-<p>So the opportunity is there.  The question is: How do we effectively work together to seize it?  And here, Myron, with the Chamber, hearing from you, talk – working with you, engaging with you so that we understand from the perspective of the business community what’s needed, and then we can use what influence we have to try to create – help create that environment.  That’s hugely important.</p>
-<p>We’ll share the same with you, and I think if we’re working together, we’re going to get a lot done.  You take a step at a time, it doesn’t feel like you’re traveling too far.  As I say, in a year’s time, maybe we’ll see that we’ve actually covered a little bit of distance.</p>
-<p><strong>MR BRILLIANT:</strong>  Well, one thing, and I know we have to run, is – I would add to the agenda is food security.</p>
-<p><strong>SECRETARY BLINKEN: </strong> Yeah.  Absolutely.</p>
-<p><strong>MR BRILLIANT:</strong>  We talked about energy security, rule of law, governance – all of these are important.  I think also at this time, with what’s happening in Europe, we have to work together on the food security issue.</p>
-<p><strong>SECRETARY BLINKEN: </strong> And I’m really glad you raised that.  And I know we’re over time, but let me say a quick word about that because it’s hugely important.  We have a, here again, historic food insecurity crisis that is global in nature.  Three years ago there were roughly 100 million people around the world who were considered severely food insecure.  That went up to about 160 million people last year.  Now, with Russia’s aggression against Ukraine, we’re adding another 40 million people to those who are severely food insecure around the world, so about 200 million people.  This is reaching historic proportions.</p>
-<p>And here, too, we know we’ve had a perfect storm.  This has been the result of COVID.  It’s been the result of climate change.  And now it’s the result of conflict.  So we obviously have to deal with the underlying conditions one way or another.  But that’s going to take time.</p>
-<p>In the meantime, what we’ve done is we’ve tried to bring countries together around the world to deal with the immediate challenge as well as the long-term challenge.  We have the presidency of the UN Security Council in the month of May.</p>
-<p><strong>MR BRILLIANT: </strong> Yeah.</p>
-<p><strong>SECRETARY BLINKEN: </strong> Rotating presidency.  We decided to dedicate that presidency to focusing on food insecurity.  I went up to New York, spent a couple of days there.  We had about 40 countries together coming together on this, 40 foreign ministers, the Security Council itself, looking at the resources we need to put right now into the organizations that are helping deal with those who are food insecure – World Food Program, Food and Agricultural Organization, and others.  We looked at what can be done, and the President has done it, to generate, for example, the production of more fertilizer, half a billion dollars from the United States, to make sure that are folks are producing more.  If you don’t have the fertilizer on the market, crop yields go down, prices go up.  So we’ve got – we’re doing that.  Janet Yellen, our Secretary of the Treasury, is mobilizing the international financial institutions to help alleviate some of the financial burdens on countries that are dealing with this.</p>
-<p>And at the same time, of course, we’re working, for example, to get wheat out of Ukraine.  There are 25 million tons of wheat that are sitting in silos at the ports in Odessa.  There’s 84, 85 ships filled with grain that can’t get out because of the Russian blockade.  We’re working to see that that gets lifted with the United Nations.  And we’re also working at other ways to get grain and other goods out of Ukraine so that they can get on to markets, people can have food, prices can go down.  All of this coming together.</p>
-<p>But it takes continued action.  So we’re going to be working, for example, with the G7 countries to make sure that we are getting sustained action on this.  We had a – there, too, in New York at the UN, now more than 80 countries have signed on to a call to action that has specific things that each of us need to do to address this crisis.</p>
-<p><strong>MR BRILLIANT:</strong>  Well, I know we’re running up against the clock, and I know that you’ve got staff that’s ready to pull me.</p>
-<p><strong>SECRETARY BLINKEN: </strong> We’ve literally run against the &#8212;</p>
-<p><strong>MR BRILLIANT:</strong>  And I would simply say, look, it may not be a fun job right now, but it’s certainly an interesting job, and we are so grateful for your leadership and for the President’s leadership at this critical time.  And I would just simply hope that you’re getting a little bit of a break periodically from your busy schedule.  But thank you so much for being at this summit and for offering your perspectives.  And very much appreciate the partnership that you expressed about the private sector and the Chamber in particular.</p>
-<p>So please give him a round of applause.  Thank you very much.  (Applause.)</p>
-<p><strong>SECRETARY BLINKEN: </strong>Thanks.  Thank you.  Appreciate it.  Thank you.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Los Angeles, California</p>
-<p> InterContinental Hotel</p>
-<p><strong>MR BRILLIANT:  </strong>Well, Mr. Secretary, first off let me just say thank you for being here with us today.  And I just want to acknowledge upfront the strong partnership that we’ve had with the State Department in putting together the 4th annual Summit of the Americas.  And I want to give a shoutout to Jose Fernandez, the under secretary of state, and to Assistant Secretary Brian Nichols, but to your entire team &#8212;</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Thank you.</p>
-<p><strong>MR BRILLIANT:  </strong>&#8212; because this is going to be, I know, a crazy week for the State Department.  And I want to begin by just acknowledging how complex and challenging a time it is for the U.S. Government, for the world community – the conflict in Europe, obviously the challenges with the U.S.-China relationship, and more broadly the issues you’re grappling with. So the fact that you’re here today at this summit, we very much greatly appreciate.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Thanks, Myron.</p>
-<p><strong>MR BRILLIANT:  </strong>I want to ask you, Mr. Secretary, at the outset:  As you look at this Summit of Americas, and not just the CEO summit of it but the broader summit that President Biden and you are engaging with all these leaders from the region, tell us what’s important about it as you look at the foreign policy agenda, the administration, you think about it regionally, you think about it globally.  How does this summit fit into it?</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Well, first, Myron, thank you.  Thank you for this partnership on our end, too.  We can’t do it without you.  We’ve had a partnership in so many ways with the Chamber across so many issues.  I think it’s especially important in our own hemisphere, so I’m grateful for everything that you’ve done and that the Chamber has done to be such an important presence here at the summit over the next three days.  Hugely, hugely, important.</p>
-<p>And this is a critical moment for us.  On one level, it’s pretty simple, and it’s obvious but it’s no more – no less important for being obvious.  No other region in the world has the same direct impact on the lives and livelihoods of Americans than the hemisphere that we share.  It’s as simple as that.  So to some extent as goes the hemisphere, so go we.  And so we have a real stake in making sure that, together, we get this right.  And again, to state the obvious, this is a time of incredible challenge for all of us.  We’ve had a confluence of almost perfect storm events over the last few years that have had a profound effect here in the Americas: COVID, climate, some – a democratic deficit, migration, and of course the daily and changing impact of technologies on the lives of everyone.  You put all that together, we’ve lost 2.7 million lives &#8212;</p>
-<p><strong>MR BRILLIANT:  </strong>Yeah.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>&#8212; from COVID in our hemisphere.  Our hemisphere has suffered the most from COVID.  At the same time, it’s 30 percent of global GDP.  If we get our act together and mobilize that effectively, there is so much we can do.  The leaders have not met in more than four years.  It’s time.</p>
-<p>But to your point, and this is what I find so vital about this summit, as important as the government-to-government work is, that is far from the sum and substance of this gathering.  We have the business community, we have civil society, we have young people, we have all the different stakeholders in our hemisphere.  And if these three days, four days can galvanize some collective action together and then we can take that from the summit, I think we’ll have done a good thing.</p>
-<p><strong>MR BRILLIANT:  </strong>Well, Mr. Secretary, thank you for framing it in the context of all the things that this region has to think about – the pandemic, the return to health and the return to stronger economies.  You have an economic plan that you want to talk about at this summit.  Can you give us a preview about what that economic plan looks like and a little bit about how the private sector will play into that economic plan?</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Well, first, never get ahead of your boss, so the President &#8212;</p>
-<p><strong>MR BRILLIANT:  </strong>Just a little bit of a &#8212;</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Just a little bit.  The President’s going to be speaking to this later today, and I’m very excited about that.  It dovetails with a number of things that we’re doing here.  First, we have – with our partners throughout the region, we have a number of areas and issues that we’re trying to drive together.  There’s going to be a lengthy summit declaration that you’ll see that actually focuses in our work together on a number of areas, and the President’s economic plan dovetails with those areas.</p>
-<p>So for example, we need to build greater health resilience in our hemisphere in two ways: we need to be better prepared to manage a future pandemic, but also in the daily lives of people.  We need to be able to provide better basic health services.  There are huge disparities.  One of the great things coming out of the summit – and this is where the private sector also is critical – is we have a commitment over the next couple of years to train 500,000 health professionals, generalists and specialists.  That’s going to make a huge difference if they are effectively deployed throughout our hemisphere in raising the basic level of health services.  That’s one, but the president’s going to address some of that.</p>
-<p>Second, on the climate and energy agenda, there are huge needs but also huge opportunities to come together in a way that actually is beneficial to our economies and also beneficial to climate, beneficial to our energy security and infrastructure development.  He will speak to that.  We have to do more and we will do more in a positive way to bridge digital divides that exist within our countries, but also within the hemisphere itself.  Facilitating digital trade, doing it in a way that’s secure, that upholds basic democratic principles, but that also is much more inclusive so that we bridge some of these divides.  That’s going to be a big part of it.</p>
-<p>But also – and this is really imperative and this is, again, where our partnership with the private sector is so important – we have to find ways together and make good on commitments together to create an environment in which business can really work effectively.</p>
-<p>So we know there remain huge challenges when it comes to everything from regulatory frameworks to corruption.  It is vital that all of our partners – and we – work together to deal with these.  Because, for example, as we’ve discussed, there’s a lot of capital out there.  But it’s not going to be deployed if the environment in which you want to deploy it is simply too risky and too complicated.</p>
-<p>We have these conversations all the time with our counterparts.  Hearing it from us is one thing; I think hearing it from the business community directly, that’s important too.  So the President’s going to address all that.</p>
-<p>There are huge infrastructure demands throughout the world; there are huge infrastructure demands in our hemisphere.  How do we facilitate making sure that the government is playing its part in helping to support viable projects, in helping to mobilize capital?  All of that will be there.  I don’t want to get too far ahead of where he’s going to be; stay tuned.</p>
-<p><strong>MR BRILLIANT:</strong>  Always smart not to get ahead of POTUS, of the President, your boss.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Yes, it’s a good rule.</p>
-<p><strong>MR BRILLIANT:</strong>  Look, you talked about energy security, you talked about the digital transformation, you talked about digital trade – all these are important areas for business to be in partnership with government, and not just our government but governments around the region.  How receptive is the message being heard in the region?  Now, I know you’re going to begin your bilaterals over the next couple days, you’ll have the big summit – do you see government leaders across the region understanding that this is a critical moment to come together?  Because we see quite a bit of change politically in the region, and I wonder how that factors into what you’re trying to achieve.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, look.  One of the, I think, strengths, in a sense, of our region, is – look, there are political differences.  We have democratic governments of the left, of the right, and of the center.  But despite what political differences there are, if the fundamentals are there, we’re going to be able to work very, very effectively together.  And whether it’s of the left, the right, or the center, there’s a common challenge for every single democracy in our hemisphere, and that’s to actually deliver concrete results for people.  One of the reasons you may see changes in governance is simply because people have lost faith in the – whatever the current existing administration is in a given country, whether it’s left, right, or center, in its ability to deliver practical things, concrete things.</p>
-<p>So my sense, Myron, is in our conversations, governments are very motivated to figure out how do we actually deliver.  And it’s partly because it’s the right and necessary thing to do.  It’s probably the politically self-preservation thing to do as well.</p>
-<p>So I think we have to work with that, work with partners, and find ways together to support change that creates the right environment – again, to, among other things, mobilize capital throughout the hemisphere.</p>
-<p><strong>MR BRILLIANT:</strong>  Well, all those are very important principles and issues to think about.  One thing that you’ve talked about but I want to get a little deeper on is the rule of law &#8212;</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Yep.</p>
-<p><strong>MR BRILLIANT:</strong>  For business leaders, rule of law is fundamental.  We need certainty, we need transparency, we need accountability, and by the way, we want to be accountable also to the system.  Talk to me about the Alliance for Development in Democracy.  You have this pathway with a couple of countries in the region.  I’m sure you want to expand that to others.  How does that fit into this narrative, and how does it link up to the business community in terms of us working with you?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  So I think this is a terrific initiative and it brings together, as you know, Costa Rica, the Dominican Republic, Panama.  In fact, I had my counterparts from those countries in Washington three or four months ago for a meeting of this alliance.  And we’re focused on very practical things like: how do we make governance work better for people, how do we make sure it’s inclusive, and how do we make sure that it does exactly what we’re talking about, it creates a better environment for, among other things, investment?</p>
-<p>So one of the things we talked about is using some of the digital tools that have been developed to make sure governments adopt them.  That’s a way of combatting corruption, which is one of the single biggest challenges we face not only in the hemisphere, but around the world.  It cuts through red tape, so that also helps create a better business environment.  These are the kinds of initiatives that, in a very practical way, we’re trying to bring together.  And if we can demonstrate among a small number of countries that this works, I expect that’ll expand to others as well.</p>
-<p><strong>BRILLIANT:</strong>  What does success look like at the end of this summit?  After our CEO summit, after your summit that the President leads, what does success look like, and how do we go forward and make sure that whatever is discussed here, we take into action?  And here, you can challenge the private sector.  We need to play a role.  But what does success look like?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Look, I think the private sector’s a critical partner on virtually everything that we’re doing.  And in fact, one of the greatest strengths we bring to the table is our ability to work together with the private sector in ways that other countries don’t or can’t.  So we want to see that mobilized to the greatest extent possible.</p>
-<p>I think when it comes to the issues we’ve talked about, when it comes to basic good governance, when it comes to transparency, when it comes to rule of law, when it comes to combatting corruption, I think that’s something that the private sector rightly should and must insist on.  And hearing it directly from the private sector makes a big difference.  Certainly our partners hear it from us, and of course we have to deal with our own challenges, as we are.</p>
-<p>But what does success look like?  It’s two things.  Yes, it’s what gets agreed at this – at the summit.  There’ll be important commitments; there’ll be important initiatives; there’ll be important declarations of intent.</p>
-<p><strong>MR BRILLIANT:  </strong>Right.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>But three days is not 365 days.  This has to be done over 365 days.  We have to hold ourselves accountable to what is agreed here, the commitments that all of us make to try to move forward, and then really see where we are at every step along the way.  Are we delivering on that intent?  We’re not going to know that right away.  So look, I think we’ll have important – the lingo that we use – deliverables.  We’ll have good deliverables.  But the deliverables are only as good as their implementation.  They’re only as good as the sustained commitment to getting them done.</p>
-<p>So maybe we should come back together in Los Angeles in a year’s time and see how we’re doing.</p>
-<p><strong>MR BRILLIANT: </strong> Los Angeles or others?  Well, this is the City of Angels, so I shouldn’t say other cities.  But we’ve got a lot of great cities in this country that would be happy to have this forum.</p>
-<p>Look, I know you have limited time, and I want to ask you just sort of what should we be thinking about?  What should the business community be thinking about?  You’ve mentioned the big issues.  But what is it that we all need to be thinking about to drive home success?  Underscoring everything you just said.</p>
-<p><strong>SECRETARY BLINKEN: </strong> So for me, it’s a pretty simple proposition.  Not a single one of the issues that we’re working on and that are actually having an impact on the lives of people in every country in this hemisphere – not a single one can we effectively deal with alone.  And by alone, I mean no single government can do it and no – and even a group of governments can’t do it because we need to have partnerships with the private sector, with civil society, with other major stakeholders.  Climate, COVID, emerging technology, migration, all of these things defy unilateral solutions, either unilateral, again, on the part of a single government or unilateral on the part of a single stakeholder.</p>
-<p>So it’s in a sense as basic as that.  If we can’t find ways to effectively partner, we’re not going to meet these challenges.  If we don’t meet these challenges, we’re not going to be responsive to our citizens.  And if we’re not responsive to our citizens, they’ll let us know.</p>
-<p>So we need to get this right, but last thing I’ll say is this, and I think you’ll hear this from the President this afternoon because he is the eternal optimist and it’s an occupational requirement.  (Laughter.)  There’s huge opportunity here.  You all know this better than anyone.  You can see it, you can feel it, and you’re doing it.  The Vice President, with the call to action for investment in the Northern Triangle countries, that’s been a remarkable success – $3.2 billion in new investments generated just in the space of about a year.</p>
-<p>So the opportunity is there.  The question is: How do we effectively work together to seize it?  And here, Myron, with the Chamber, hearing from you, talk – working with you, engaging with you so that we understand from the perspective of the business community what’s needed, and then we can use what influence we have to try to create – help create that environment.  That’s hugely important.</p>
-<p>We’ll share the same with you, and I think if we’re working together, we’re going to get a lot done.  You take a step at a time, it doesn’t feel like you’re traveling too far.  As I say, in a year’s time, maybe we’ll see that we’ve actually covered a little bit of distance.</p>
-<p><strong>MR BRILLIANT:</strong>  Well, one thing, and I know we have to run, is – I would add to the agenda is food security.</p>
-<p><strong>SECRETARY BLINKEN: </strong> Yeah.  Absolutely.</p>
-<p><strong>MR BRILLIANT:</strong>  We talked about energy security, rule of law, governance – all of these are important.  I think also at this time, with what’s happening in Europe, we have to work together on the food security issue.</p>
-<p><strong>SECRETARY BLINKEN: </strong> And I’m really glad you raised that.  And I know we’re over time, but let me say a quick word about that because it’s hugely important.  We have a, here again, historic food insecurity crisis that is global in nature.  Three years ago there were roughly 100 million people around the world who were considered severely food insecure.  That went up to about 160 million people last year.  Now, with Russia’s aggression against Ukraine, we’re adding another 40 million people to those who are severely food insecure around the world, so about 200 million people.  This is reaching historic proportions.</p>
-<p>And here, too, we know we’ve had a perfect storm.  This has been the result of COVID.  It’s been the result of climate change.  And now it’s the result of conflict.  So we obviously have to deal with the underlying conditions one way or another.  But that’s going to take time.</p>
-<p>In the meantime, what we’ve done is we’ve tried to bring countries together around the world to deal with the immediate challenge as well as the long-term challenge.  We have the presidency of the UN Security Council in the month of May.</p>
-<p><strong>MR BRILLIANT: </strong> Yeah.</p>
-<p><strong>SECRETARY BLINKEN: </strong> Rotating presidency.  We decided to dedicate that presidency to focusing on food insecurity.  I went up to New York, spent a couple of days there.  We had about 40 countries together coming together on this, 40 foreign ministers, the Security Council itself, looking at the resources we need to put right now into the organizations that are helping deal with those who are food insecure – World Food Program, Food and Agricultural Organization, and others.  We looked at what can be done, and the President has done it, to generate, for example, the production of more fertilizer, half a billion dollars from the United States, to make sure that are folks are producing more.  If you don’t have the fertilizer on the market, crop yields go down, prices go up.  So we’ve got – we’re doing that.  Janet Yellen, our Secretary of the Treasury, is mobilizing the international financial institutions to help alleviate some of the financial burdens on countries that are dealing with this.</p>
-<p>And at the same time, of course, we’re working, for example, to get wheat out of Ukraine.  There are 25 million tons of wheat that are sitting in silos at the ports in Odessa.  There’s 84, 85 ships filled with grain that can’t get out because of the Russian blockade.  We’re working to see that that gets lifted with the United Nations.  And we’re also working at other ways to get grain and other goods out of Ukraine so that they can get on to markets, people can have food, prices can go down.  All of this coming together.</p>
-<p>But it takes continued action.  So we’re going to be working, for example, with the G7 countries to make sure that we are getting sustained action on this.  We had a – there, too, in New York at the UN, now more than 80 countries have signed on to a call to action that has specific things that each of us need to do to address this crisis.</p>
-<p><strong>MR BRILLIANT:</strong>  Well, I know we’re running up against the clock, and I know that you’ve got staff that’s ready to pull me.</p>
-<p><strong>SECRETARY BLINKEN: </strong> We’ve literally run against the &#8212;</p>
-<p><strong>MR BRILLIANT:</strong>  And I would simply say, look, it may not be a fun job right now, but it’s certainly an interesting job, and we are so grateful for your leadership and for the President’s leadership at this critical time.  And I would just simply hope that you’re getting a little bit of a break periodically from your busy schedule.  But thank you so much for being at this summit and for offering your perspectives.  And very much appreciate the partnership that you expressed about the private sector and the Chamber in particular.</p>
-<p>So please give him a round of applause.  Thank you very much.  (Applause.)</p>
-<p><strong>SECRETARY BLINKEN: </strong>Thanks.  Thank you.  Appreciate it.  Thank you.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
