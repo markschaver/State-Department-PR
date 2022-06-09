@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Thu, 09 Jun 2022 01:26:08 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jun 2022 14:17:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Deputy Secretary Sherman’s Meeting with Philippine President-Elect Marcos, Jr.</title>
+		<link>https://www.state.gov/deputy-secretary-shermans-meeting-with-philippine-president-elect-marcos-jr/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Thu, 09 Jun 2022 14:17:23 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=351161</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p align="left">The below is attributable to Spokesperson Ned Price:</p>
+<p align="left">Deputy Secretary of State Wendy Sherman met today with Philippine President-Elect Ferdinand Romualdez Marcos Jr., and his advisors, including Philippine Ambassador to the United States Jose Manuel Romualdez, incoming Executive Secretary Vic Rodriguez, and Department of Foreign Affairs Under Secretary Theresa Lazaro, in Manila, the Philippines. Deputy Secretary Sherman congratulated President-Elect Marcos on his election. The President-elect and Deputy Secretary agreed on the importance of partnering together to strengthen our economies, including the importance of public-private partnerships, clean energy and our digital economy. The Deputy Secretary and the President-Elect highlighted the importance of the U.S.-Philippine Alliance to security and prosperity in the Indo-Pacific region and the world and the importance of fostering respect for human rights and rule of law in the Philippines. They discussed opportunities for our two nations to deepen our Alliance and friendship and seize new opportunities to deliver for our people in the years to come.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p align="left">The below is attributable to Spokesperson Ned Price:</p>
+<p align="left">Deputy Secretary of State Wendy Sherman met today with Philippine President-Elect Ferdinand Romualdez Marcos Jr., and his advisors, including Philippine Ambassador to the United States Jose Manuel Romualdez, incoming Executive Secretary Vic Rodriguez, and Department of Foreign Affairs Under Secretary Theresa Lazaro, in Manila, the Philippines. Deputy Secretary Sherman congratulated President-Elect Marcos on his election. The President-elect and Deputy Secretary agreed on the importance of partnering together to strengthen our economies, including the importance of public-private partnerships, clean energy and our digital economy. The Deputy Secretary and the President-Elect highlighted the importance of the U.S.-Philippine Alliance to security and prosperity in the Indo-Pacific region and the world and the importance of fostering respect for human rights and rule of law in the Philippines. They discussed opportunities for our two nations to deepen our Alliance and friendship and seize new opportunities to deliver for our people in the years to come.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Joint Statement by the United States, France, Germany, and the United Kingdom Regarding the IAEA Board of Governors Resolution</title>
 		<link>https://www.state.gov/joint-statement-by-the-united-states-france-germany-and-the-united-kingdom-regarding-the-iaea-board-of-governors-resolution/</link>
 		
@@ -1700,141 +1859,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The Vice Foreign Ministers and the Deputy Secretary discussed a range of pressing regional and global issues, including our joint efforts to support Ukraine, restore Myanmar to a democratic path, bolster engagement with ASEAN and within ASEAN-led architecture, enhance cooperation with Pacific Island countries, strengthen economic and energy security, prioritize women’s empowerment and workforce development, uphold international law, and promote a free and open Indo-Pacific, which is inclusive.</p>
 <p>ROK-U.S.-Japan trilateral cooperation, grounded in our shared values, demonstrates that democracies can build a better future for their people, and the Vice Foreign Ministers and the Deputy Secretary decided to meet in Tokyo to continue their regular trilateral consultations as we advance our shared efforts.</p>
 <p align="left"><em>End Text.</em></p>
-<p><input type="hidden" data-filter="111001000111" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Joint Statement on Limited Resumption of Arctic Council Cooperation</title>
-		<link>https://www.state.gov/joint-statement-on-limited-resumption-of-arctic-council-cooperation/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 08 Jun 2022 14:22:48 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=350548</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p><em>The governments of Canada, the Kingdom of Denmark, Finland, Iceland, Norway, Sweden, and the United States have issued the following joint statement.</em></p>
-<p><em>Begin text:</em></p>
-<p>In response to Russia’s full-scale invasion of Ukraine, a flagrant violation of the principles of sovereignty and territorial integrity, based on international law, the other Arctic Council founding states – Canada, Finland, Iceland, the Kingdom of Denmark, Norway, Sweden, and the United States – on March 3 announced a pause in their participation in the Arctic Council. Since March 3, representatives from these States have examined modalities to allow a resumption of the work in the Arctic Council.</p>
-<p>We remain convinced of the enduring value of the Arctic Council for circumpolar cooperation and reiterate our support for this forum and its important work.</p>
-<p>We intend to implement a limited resumption of our work in the Arctic Council, in projects that do not involve the participation of the Russian Federation. These projects, contained in the workplan approved by all eight Arctic States at the Reykjavik ministerial, are a vital component of our responsibility to the people of the Arctic, including Indigenous Peoples.</p>
-<p>We continue to examine additional modalities to allow us to further continue the Council’s important work.</p>
-<p><em>End text.</em></p>
-<p><input type="hidden" data-filter="111001000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p><em>The governments of Canada, the Kingdom of Denmark, Finland, Iceland, Norway, Sweden, and the United States have issued the following joint statement.</em></p>
-<p><em>Begin text:</em></p>
-<p>In response to Russia’s full-scale invasion of Ukraine, a flagrant violation of the principles of sovereignty and territorial integrity, based on international law, the other Arctic Council founding states – Canada, Finland, Iceland, the Kingdom of Denmark, Norway, Sweden, and the United States – on March 3 announced a pause in their participation in the Arctic Council. Since March 3, representatives from these States have examined modalities to allow a resumption of the work in the Arctic Council.</p>
-<p>We remain convinced of the enduring value of the Arctic Council for circumpolar cooperation and reiterate our support for this forum and its important work.</p>
-<p>We intend to implement a limited resumption of our work in the Arctic Council, in projects that do not involve the participation of the Russian Federation. These projects, contained in the workplan approved by all eight Arctic States at the Reykjavik ministerial, are a vital component of our responsibility to the people of the Arctic, including Indigenous Peoples.</p>
-<p>We continue to examine additional modalities to allow us to further continue the Council’s important work.</p>
-<p><em>End text.</em></p>
 <p><input type="hidden" data-filter="111001000111" /></p>
 ]]></content:encoded>
 					
