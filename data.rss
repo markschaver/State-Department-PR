@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Thu, 09 Jun 2022 00:33:22 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jun 2022 01:26:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,171 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Joint Statement by the United States, France, Germany, and the United Kingdom Regarding the IAEA Board of Governors Resolution</title>
+		<link>https://www.state.gov/joint-statement-by-the-united-states-france-germany-and-the-united-kingdom-regarding-the-iaea-board-of-governors-resolution/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Thu, 09 Jun 2022 01:26:07 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=350915</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The text of the following statement was released by the Governments of the United States, France, Germany, and the United Kingdom.</p>
+<p><em>Begin text:</em></p>
+<p>We, the Governments of France, Germany, the United Kingdom, and the United States, welcome the IAEA Board of Governors’ adoption of a resolution responding to Iran’s insufficient cooperation with the IAEA on serious and outstanding safeguards issues relating to Iran’s obligations under its NPT-required safeguards agreement. The overwhelming majority vote at the IAEA Board of Governors today sends an unambiguous message to Iran that it must meet its safeguards obligations and provide technically credible clarifications on outstanding safeguards issues. Today’s resolution affirms the Board’s support for the independent, professional and impartial efforts of the IAEA to uphold the international safeguards system, which is essential to all of our security.</p>
+<p>We urge Iran to heed the call of the international community to fulfill its legal obligations and cooperate with the IAEA to fully clarify and resolve issues without further delay. If Iran does this and the Director General is able to report that the unresolved safeguards issues are no longer outstanding, we would see no need for further Board consideration and action on these issues.</p>
+<p><em>End text.</em></p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The text of the following statement was released by the Governments of the United States, France, Germany, and the United Kingdom.</p>
+<p><em>Begin text:</em></p>
+<p>We, the Governments of France, Germany, the United Kingdom, and the United States, welcome the IAEA Board of Governors’ adoption of a resolution responding to Iran’s insufficient cooperation with the IAEA on serious and outstanding safeguards issues relating to Iran’s obligations under its NPT-required safeguards agreement. The overwhelming majority vote at the IAEA Board of Governors today sends an unambiguous message to Iran that it must meet its safeguards obligations and provide technically credible clarifications on outstanding safeguards issues. Today’s resolution affirms the Board’s support for the independent, professional and impartial efforts of the IAEA to uphold the international safeguards system, which is essential to all of our security.</p>
+<p>We urge Iran to heed the call of the international community to fulfill its legal obligations and cooperate with the IAEA to fully clarify and resolve issues without further delay. If Iran does this and the Director General is able to report that the unresolved safeguards issues are no longer outstanding, we would see no need for further Board consideration and action on these issues.</p>
+<p><em>End text.</em></p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>U.S. Support for the UN Plan to Address the Imminent Threat to the Red Sea Ecosystem from the FSO Safer in Yemen</title>
 		<link>https://www.state.gov/u-s-support-for-the-un-plan-to-address-the-imminent-threat-to-the-red-sea-ecosystem-from-the-fso-safer-in-yemen/</link>
 		
@@ -1671,167 +1836,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>We continue to examine additional modalities to allow us to further continue the Council’s important work.</p>
 <p><em>End text.</em></p>
 <p><input type="hidden" data-filter="111001000111" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Support for International Joint Commission Recommendations to Address Transboundary Pollution from Mining</title>
-		<link>https://www.state.gov/support-for-international-joint-commission-recommendations-to-address-transboundary-pollution-from-mining/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 08 Jun 2022 13:42:44 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=350540</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>On June 7, representatives from the Department of State, U.S. Environmental Protection Agency, and U.S. Geological Survey met with Council members from the six governments of the transboundary Ktunaxa Nation, including the four Ktunaxa First Nation Governments of Yaq̓it ʔa·knuqⱡi’it First Nation (Tobacco Plains), ʔakisq̓nuk̓ First Nation, Yaqan Nuʔkiy (Lower Kootenay) and ʔaq̓am, the Kootenai Tribe of Idaho, and the Confederated Salish and Kootenai Tribes, in Bonners Ferry, Idaho, to discuss addressing pollution from mining in British Columbia that affects the United States and Canada.</p>
-<p>The meeting underscored the Biden-Harris Administration’s commitment to strengthening Nation-to-Nation relationships by listening to Tribal priorities and respecting Tribal sovereignty.  During the meeting, the Department reaffirmed the Administration’s support for a joint reference to the International Joint Commission (IJC) under the Boundary Waters Treaty of 1909 for the Kootenai Basin regarding the transboundary impacts of mining.  A joint reference would respond to the need for impartial recommendations and transparent communication, build trust, and forge a common understanding of this issue among local, Indigenous, state, provincial, and federal governments as well as stakeholders and the public in both countries.</p>
-<p>Support for a joint IJC reference reflects the Biden-Harris Administration’s commitment to protect public health; conserve our lands, waters, and biodiversity; and deliver environmental justice to communities overburdened by pollution.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>On June 7, representatives from the Department of State, U.S. Environmental Protection Agency, and U.S. Geological Survey met with Council members from the six governments of the transboundary Ktunaxa Nation, including the four Ktunaxa First Nation Governments of Yaq̓it ʔa·knuqⱡi’it First Nation (Tobacco Plains), ʔakisq̓nuk̓ First Nation, Yaqan Nuʔkiy (Lower Kootenay) and ʔaq̓am, the Kootenai Tribe of Idaho, and the Confederated Salish and Kootenai Tribes, in Bonners Ferry, Idaho, to discuss addressing pollution from mining in British Columbia that affects the United States and Canada.</p>
-<p>The meeting underscored the Biden-Harris Administration’s commitment to strengthening Nation-to-Nation relationships by listening to Tribal priorities and respecting Tribal sovereignty.  During the meeting, the Department reaffirmed the Administration’s support for a joint reference to the International Joint Commission (IJC) under the Boundary Waters Treaty of 1909 for the Kootenai Basin regarding the transboundary impacts of mining.  A joint reference would respond to the need for impartial recommendations and transparent communication, build trust, and forge a common understanding of this issue among local, Indigenous, state, provincial, and federal governments as well as stakeholders and the public in both countries.</p>
-<p>Support for a joint IJC reference reflects the Biden-Harris Administration’s commitment to protect public health; conserve our lands, waters, and biodiversity; and deliver environmental justice to communities overburdened by pollution.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
