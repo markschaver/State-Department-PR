@@ -1209,231 +1209,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		
 			</item>
 		<item>
-		<title>U.S. Refugee Admissions Program</title>
-		<link>https://www.state.gov/u-s-refugee-admissions-program/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 10 Jun 2022 13:11:26 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=351458</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p><strong>Refugee Resettlement from the Americas</strong></p>
-<ul>
-<li>More than 6.1 million Venezuelans have been displaced in the Americas, and hundreds of thousands more people from other countries across Latin America and the Caribbean are also displaced.</li>
-<li>The United States is committed to resettle 20,000 refugees from the Americas over the next two years. This commitment represents a three-fold increase over projected arrivals this fiscal year and reflects the Biden-Harris Administration’s strong commitment to welcoming refugees.</li>
-<li>The United States admitted more than 5,300 refugees from Latin America and the Caribbean region beginning in FY 2018 through early June 2022 and expects to resettle an additional 1,800 refugees by the end of FY202.</li>
-<li>In FY 2022, the Department contributed additional funding to UNHCR for staffing infrastructure in the Americas to increase referrals. It has expanded caseworker staffing at the U.S. Resettlement Support Center for Latin America by more than 300 percent in the last 12 months, and will continue to prioritize cases in the region each quarter for U.S. Citizenship and Immigration Services refugee interviews.</li>
-</ul>
-<p><strong>Increased Resettlement of Haitian Refugees</strong></p>
-<ul>
-<li>Reflecting the President’s commitment to support the people of Haiti, the United States also commits to receiving an increased number of referrals of displaced Haitians into the U.S. Refugee Admissions Program (USRAP).</li>
-</ul>
-<ul>
-<li>The USRAP accepts referrals for individuals across refugee populations determined to be particularly vulnerable and in need of the protection provided by third-country resettlement. The United States will continue to work with UNHCR to increase referrals throughout the Americas and the Caribbean to the USRAP. The United States encourages other governments to join us in opening new legal pathways for protection and opportunities for Haitians and other displaced populations in the Americas.</li>
-</ul>
-<p><strong>Ongoing Resettlement Efforts in the Americas</strong></p>
-<p><em>UNHCR Referrals</em></p>
-<ul>
-<li>UNHCR refers individuals with compelling protection needs who are identified by designated non-governmental organizations in El Salvador, Honduras, and Guatemala for potential resettlement in the United States through the USRAP. The most at-risk of these applicants may be transferred to Costa Rica via a Protection Transfer Arrangement between UNHCR, IOM, and the Government of Costa Rica.  Individuals and families referred to Costa Rica through this mechanism are housed at a facility connected to the United Nation’s University of Peace (located outside San Jose).  There, they await final refugee processing by the Department of Homeland Security’s U.S. Citizenship and Immigration Services.  Applicants who are not transferred to Costa Rica can undergo USRAP processing in Northern Central American countries.</li>
-</ul>
-<ul>
-<li>Since 2016, nearly 2,500 refugees from Northern Central America have been resettled in the United States through these lifesaving mechanisms for at-risk Salvadorans, Guatemalans, and Hondurans in need of protection. In South America, during the same period, UNHCR has historically identified cases for referrals among displaced Colombians in Ecuador, resulting in more than 1,600 arrivals to date.</li>
-</ul>
-<ul>
-<li>In the past year, UNHCR’s focus throughout the region has grown to include expanded referrals of Venezuelans, Nicaraguans, and Haitians across another seven countries throughout Latin American and the Caribbean. As USRAP partners continue to increase staff capacity, the number of referrals and arrivals throughout the region will increase significantly.</li>
-</ul>
-<p><em>Central American Minors Program</em></p>
-<ul>
-<li>In March 2021, the Departments of State and Homeland Security announced the reopening of the Central American Minors (CAM) program, which from 2014 &#8211; 2018 allowed certain parents with pre-defined categories of lawful presence in the United States to petition on behalf of their children for access to USRAP processing for potential refugee resettlement in the United States while still in their home country of El Salvador, Guatemala, or Honduras. Individuals denied refugee status could, on a case-by-case basis, be considered for humanitarian parole.</li>
-</ul>
-<ul>
-<li>The CAM restart has included two phases. Phase One reopened any of the more than 3,000 cases that were closed prior to the refugee interview stage when the program was terminated in 2018.  Phase Two expanded the categories of eligibility to file new applications beginning in September 2021.</li>
-</ul>
-<ul>
-<li>Since the 2021 reopening, the United States has admitted more than 130 CAM applicants as refugees. More than 60 CAM applicants have been granted humanitarian parole to join family members in the United States.  This is in addition to the nearly 5,000 arrivals of CAM refugees and parolees welcomed during the initial iteration of the program.</li>
-</ul>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p><strong>Refugee Resettlement from the Americas</strong></p>
-<ul>
-<li>More than 6.1 million Venezuelans have been displaced in the Americas, and hundreds of thousands more people from other countries across Latin America and the Caribbean are also displaced.</li>
-<li>The United States is committed to resettle 20,000 refugees from the Americas over the next two years. This commitment represents a three-fold increase over projected arrivals this fiscal year and reflects the Biden-Harris Administration’s strong commitment to welcoming refugees.</li>
-<li>The United States admitted more than 5,300 refugees from Latin America and the Caribbean region beginning in FY 2018 through early June 2022 and expects to resettle an additional 1,800 refugees by the end of FY202.</li>
-<li>In FY 2022, the Department contributed additional funding to UNHCR for staffing infrastructure in the Americas to increase referrals. It has expanded caseworker staffing at the U.S. Resettlement Support Center for Latin America by more than 300 percent in the last 12 months, and will continue to prioritize cases in the region each quarter for U.S. Citizenship and Immigration Services refugee interviews.</li>
-</ul>
-<p><strong>Increased Resettlement of Haitian Refugees</strong></p>
-<ul>
-<li>Reflecting the President’s commitment to support the people of Haiti, the United States also commits to receiving an increased number of referrals of displaced Haitians into the U.S. Refugee Admissions Program (USRAP).</li>
-</ul>
-<ul>
-<li>The USRAP accepts referrals for individuals across refugee populations determined to be particularly vulnerable and in need of the protection provided by third-country resettlement. The United States will continue to work with UNHCR to increase referrals throughout the Americas and the Caribbean to the USRAP. The United States encourages other governments to join us in opening new legal pathways for protection and opportunities for Haitians and other displaced populations in the Americas.</li>
-</ul>
-<p><strong>Ongoing Resettlement Efforts in the Americas</strong></p>
-<p><em>UNHCR Referrals</em></p>
-<ul>
-<li>UNHCR refers individuals with compelling protection needs who are identified by designated non-governmental organizations in El Salvador, Honduras, and Guatemala for potential resettlement in the United States through the USRAP. The most at-risk of these applicants may be transferred to Costa Rica via a Protection Transfer Arrangement between UNHCR, IOM, and the Government of Costa Rica.  Individuals and families referred to Costa Rica through this mechanism are housed at a facility connected to the United Nation’s University of Peace (located outside San Jose).  There, they await final refugee processing by the Department of Homeland Security’s U.S. Citizenship and Immigration Services.  Applicants who are not transferred to Costa Rica can undergo USRAP processing in Northern Central American countries.</li>
-</ul>
-<ul>
-<li>Since 2016, nearly 2,500 refugees from Northern Central America have been resettled in the United States through these lifesaving mechanisms for at-risk Salvadorans, Guatemalans, and Hondurans in need of protection. In South America, during the same period, UNHCR has historically identified cases for referrals among displaced Colombians in Ecuador, resulting in more than 1,600 arrivals to date.</li>
-</ul>
-<ul>
-<li>In the past year, UNHCR’s focus throughout the region has grown to include expanded referrals of Venezuelans, Nicaraguans, and Haitians across another seven countries throughout Latin American and the Caribbean. As USRAP partners continue to increase staff capacity, the number of referrals and arrivals throughout the region will increase significantly.</li>
-</ul>
-<p><em>Central American Minors Program</em></p>
-<ul>
-<li>In March 2021, the Departments of State and Homeland Security announced the reopening of the Central American Minors (CAM) program, which from 2014 &#8211; 2018 allowed certain parents with pre-defined categories of lawful presence in the United States to petition on behalf of their children for access to USRAP processing for potential refugee resettlement in the United States while still in their home country of El Salvador, Guatemala, or Honduras. Individuals denied refugee status could, on a case-by-case basis, be considered for humanitarian parole.</li>
-</ul>
-<ul>
-<li>The CAM restart has included two phases. Phase One reopened any of the more than 3,000 cases that were closed prior to the refugee interview stage when the program was terminated in 2018.  Phase Two expanded the categories of eligibility to file new applications beginning in September 2021.</li>
-</ul>
-<ul>
-<li>Since the 2021 reopening, the United States has admitted more than 130 CAM applicants as refugees. More than 60 CAM applicants have been granted humanitarian parole to join family members in the United States.  This is in addition to the nearly 5,000 arrivals of CAM refugees and parolees welcomed during the initial iteration of the program.</li>
-</ul>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Additional $314 Million for U.S. Humanitarian Response to the Venezuela Regional Crisis</title>
 		<link>https://www.state.gov/additional-314-million-for-u-s-humanitarian-response-to-the-venezuela-regional-crisis/</link>
 		
@@ -1782,6 +1557,215 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The United States cherishes our enduring relationship with Portugal which is based on deeply shared values.   We celebrate the enriching cultural, educational and professional exchanges between our people.  Our valued partnership encompasses critical collaboration on a range of issues including defense, mutual economic prosperity, and the challenges of climate change. As longtime NATO Allies, we work together to protect our shared vision of a free Europe.</p>
 <p>The United States will always remember that Portugal was one of the first countries to recognize the independence of our Republic.  Our relationship has been strong and unwavering ever since, and we are confident the friendship between our two nations will continue to flourish.</p>
 <p>We extend best wishes to the people of Portugal on this important day. We celebrate with you in confidence that our countries will remain, as they have long been, side by side.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Secretary Antony J. Blinken With Jorge Ramos of TelevisaUnivision</title>
+		<link>https://www.state.gov/secretary-antony-j-blinken-with-jorge-ramos-of-televisaunivision/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Thu, 09 Jun 2022 23:37:21 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=351377</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>Los Angeles, California</p>
+<p>Los Angeles Convention Center</p>
+<p><strong>QUESTION:</strong>  <em>Gracias</em>.  Thank you so much for talking to us.</p>
+<p><strong>SECRETARY BLINKEN:</strong>  Thank you, Jorge.  It’s good to be with you.</p>
+<p><strong>QUESTION:</strong>  So the fact that nine countries are not here, is that challenging or questioning U.S. leadership in the hemisphere?</p>
+<p><strong>SECRETARY BLINKEN:</strong>  Well, first, actually, those countries are here.  For example, Cuba, Venezuela, and Nicaragua – I met with representatives from all three countries from civil society, also human rights activists and defenders.  I would argue that they’re as – and probably more representative of their respective peoples than the governments or regimes in place.  So they’re fully here, they’re a vibrant presence at the summit, and that’s important.</p>
+<p>Other countries are here represented at different levels, but we have more than 60 delegations.  We have 22, I think, heads of government, heads of state.  And what we’re already seeing is an incredibly vibrant conversation where people are focused not on who is here or who is not here, at what level, but they’re focused on what we’re actually doing at the summit to answer some of the problems that people across our hemispheres are facing, and where we need to work together to solve them.</p>
+<p><strong>QUESTION:</strong>  So let me insist on this:  So the fact that obviously the leaders of Cuba, Venezuela, and Nicaragua, they’re not here, but also neither are the presidents of Mexico, Honduras, El Salvador, Guatemala, Bolivia.  Are we seeing the creation of an anti-democratic bloc in the hemisphere?  Is that a concern to you?</p>
+<p><strong>SECRETARY BLINKEN:</strong>  First, Jorge, when it comes to Mexico, we’ve had and I’ve had extensive conversations with my friend and counterpart Marcelo Ebrard.  The President is very much looking forward to receiving President López Obrador at the White House in July.  We have a very deep and ongoing collaboration on virtually all the issues that concern both our countries.  We have a difference of opinion on this particular question of attendance at the summit.  Typically, the hosts make those decisions.  We decided that it was important to focus on the underlying democratic principles that bring our hemisphere together.  Back in 2001 at the Summit of the Americas, that gave rise to the Democratic Charter, and we want to make sure that countries continue to look to those principles.</p>
+<p>But we’re seeing – we have – there’s an incredibly vibrant hemisphere.  We have democracies of the left, of the right, center, but here is the common denominator:  All of these governments are motivated by a need to demonstrate that they can deliver effectively for their people.  And I think there is a growing consciousness that most of the problems that we face and challenges we face and opportunities we face on COVID, on climate, on managing technology, which is defining so many of our lives, on dealing with migration, we have to tackle them together if we want to get results.  And that’s the spirit that I’m finding animates these conversations.</p>
+<p><strong>QUESTION:</strong>  Let me ask about Mexico.  Senator Menendez – I don’t know if you saw his tweet.  He recently said that López Obrador basically tried to blackmail President Biden into insisting countries that are not democratic be invited to the summit.  Did President López Obrador blackmail President Biden?  Did he try?</p>
+<p><strong>SECRETARY BLINKEN:</strong>  We had a very legitimate difference of opinion on this.  We’ve had many conversations about it in very good faith.  And as I said, President Biden is looking forward to seeing President López Obrador at the White House in July.</p>
+<p><strong>QUESTION:</strong>  In a tweet, you said you were concerned about the killing of Mexican journalists. U.S. Senator Marco Rubio, he says that he’s concerned that drug cartels are controlling parts of Mexican territory.  Is the López Obrador government a security concern for the U.S.?</p>
+<p><strong>SECRETARY BLINKEN:</strong>  When it comes to journalists, let me say two things.  First, broadly, we have deep concerns about threats being posed to journalists throughout our hemisphere.  In the first half of this year alone, 17 journalists have been killed just for doing their jobs.  There may be more, but we can document 17.  So this has been an important part of the meetings that we’ve already had and will continue to have:  What measures can we put in place to protect and support media, independent journalists doing their job in our hemisphere?  And there’s a lot to be said about that, but concrete steps are being taken.</p>
+<p>In Mexico itself, President López Obrador has vowed to take even stronger preventive action to make sure that journalists are protected up front, to try to get at some of the root causes that are sparking some of the violence being directed at journalists.  Mostly it’s because they’re trying to expose criminal gangs, corruption, drug trafficking.  So we’ll work closely with Mexico and any other country in the hemisphere on this because we are determined to protect journalists.  This is – this free, independent media are at the heart of our democracies.  If we lose that, we lose our democracies.</p>
+<p><strong>QUESTION:  </strong>And let me just say that it’s incredibly dangerous to be a journalist &#8212;</p>
+<p><strong>SECRETARY BLINKEN:  </strong>Yeah.</p>
+<p><strong>QUESTION:  </strong>&#8212; in Mexico.  Let me finish with this.  I want to understand your philosophy right now between the U.S. and dictatorships.  In 2016, President Obama went to Cuba and he believed that more contacts, more tourism, more diplomacy would promote democracy in the region.  You and President Biden seem to be going a different way, probably more sanctions, isolating Cuba, Venezuela, and Nicaragua.  What’s the right way?</p>
+<p><strong>SECRETARY BLINKEN:  </strong>These are complicated, challenging questions that we face for many, many years.  Our focus in each of these countries is to take the steps we believe are most effective in advancing and certainly defending the human rights of people in those countries and their democratic aspirations, which are shared across all of those countries.</p>
+<p>In the case of Cuba, we had the protests in July of last year, and we saw the incredibly repressive reaction of the government: putting minors in jail, sentences of 30 to 35 years, most recently artists who are kind of icons for those protesting last July being threatened now with sentences of ten and six years for simply expressing their views artistically.  So we’ve seen that.  We think it’s very important to stand up for those who are being repressed, persecuted.  At the same time, we’ve taken some limited steps – in terms of family reunifications, in terms of travel, remittances, in terms of investing in entrepreneurs – that we think can also help advance the Cuban people in meeting their own aspirations.</p>
+<p><strong>QUESTION:  </strong>Yeah, but maybe the question is:  If the U.S. is treating other dictatorships the same way, why treat Cuba, Venezuela, Nicaragua in one way and China and Saudi Arabia in a different way?</p>
+<p><strong>SECRETARY BLINKEN:  </strong>I think in each of these cases, there are a multiplicity of interests that come into play.  We have to look out for all of the interests of the American people, and hopefully the people that we’re engaged with.  And what President Biden has done in each of these cases is to put human rights and democracy at the heart of our foreign policy, but it’s not the only thing that we look at.  We have to bring everything together in a way that advances the interests of the United States.  And one could go through each of these at the same time, but there isn’t – there are underlying principles, including the principle that we need to be standing up for the rights of people when they’re being repressed in one way or another.  But the question is:  How do we do that most effectively?  And the answer in an individual case may be a little bit different.</p>
+<p><strong>QUESTION:  </strong>Okay.  Should this be the last Summit of the Americas?  Some people are suggesting that in the future we should have more regional meetings.</p>
+<p><strong>SECRETARY BLINKEN:  </strong>No, I don’t think so at all.  To the contrary, what we’ve seen just at the beginning of the summit – we have three days here.  What gets lost sometimes is that as important as it is for the governments to come together – and by the way, this is the first time in more than four years that the heads of state have come together &#8212;</p>
+<p><strong>QUESTION:  </strong>That is true.</p>
+<p><strong>SECRETARY BLINKEN:  </strong>&#8212; at a time where collective, coordinated action is more necessary than ever.  But we have civil society here, we have the private sector, we have young people here.  And all of these groups are connecting in different ways together.  These are all the stakeholders in the future of our hemisphere.  We have a powerful shared future if we can work at it together.  This is one way of doing it.  But it’s three days; 362 days after the summit are even more important.  What we do coming out of here in terms of making good on what we’ve agreed to, implementing the various initiatives that we’re taking – including, for example, just to cite one, we have a commitment and the resources to train 500,000 health workers, doctors, technicians in our hemisphere between now and the end of 2024 – that can make a huge difference in lifting the health care for millions of people throughout our hemisphere.  We have to deliver on it.</p>
+<p><strong>QUESTION:  </strong>Okay.  Thank you so much.  <em>Muchas gracias. </em></p>
+<p><strong>SECRETARY BLINKEN:  </strong>Thank you.  Great.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>Los Angeles, California</p>
+<p>Los Angeles Convention Center</p>
+<p><strong>QUESTION:</strong>  <em>Gracias</em>.  Thank you so much for talking to us.</p>
+<p><strong>SECRETARY BLINKEN:</strong>  Thank you, Jorge.  It’s good to be with you.</p>
+<p><strong>QUESTION:</strong>  So the fact that nine countries are not here, is that challenging or questioning U.S. leadership in the hemisphere?</p>
+<p><strong>SECRETARY BLINKEN:</strong>  Well, first, actually, those countries are here.  For example, Cuba, Venezuela, and Nicaragua – I met with representatives from all three countries from civil society, also human rights activists and defenders.  I would argue that they’re as – and probably more representative of their respective peoples than the governments or regimes in place.  So they’re fully here, they’re a vibrant presence at the summit, and that’s important.</p>
+<p>Other countries are here represented at different levels, but we have more than 60 delegations.  We have 22, I think, heads of government, heads of state.  And what we’re already seeing is an incredibly vibrant conversation where people are focused not on who is here or who is not here, at what level, but they’re focused on what we’re actually doing at the summit to answer some of the problems that people across our hemispheres are facing, and where we need to work together to solve them.</p>
+<p><strong>QUESTION:</strong>  So let me insist on this:  So the fact that obviously the leaders of Cuba, Venezuela, and Nicaragua, they’re not here, but also neither are the presidents of Mexico, Honduras, El Salvador, Guatemala, Bolivia.  Are we seeing the creation of an anti-democratic bloc in the hemisphere?  Is that a concern to you?</p>
+<p><strong>SECRETARY BLINKEN:</strong>  First, Jorge, when it comes to Mexico, we’ve had and I’ve had extensive conversations with my friend and counterpart Marcelo Ebrard.  The President is very much looking forward to receiving President López Obrador at the White House in July.  We have a very deep and ongoing collaboration on virtually all the issues that concern both our countries.  We have a difference of opinion on this particular question of attendance at the summit.  Typically, the hosts make those decisions.  We decided that it was important to focus on the underlying democratic principles that bring our hemisphere together.  Back in 2001 at the Summit of the Americas, that gave rise to the Democratic Charter, and we want to make sure that countries continue to look to those principles.</p>
+<p>But we’re seeing – we have – there’s an incredibly vibrant hemisphere.  We have democracies of the left, of the right, center, but here is the common denominator:  All of these governments are motivated by a need to demonstrate that they can deliver effectively for their people.  And I think there is a growing consciousness that most of the problems that we face and challenges we face and opportunities we face on COVID, on climate, on managing technology, which is defining so many of our lives, on dealing with migration, we have to tackle them together if we want to get results.  And that’s the spirit that I’m finding animates these conversations.</p>
+<p><strong>QUESTION:</strong>  Let me ask about Mexico.  Senator Menendez – I don’t know if you saw his tweet.  He recently said that López Obrador basically tried to blackmail President Biden into insisting countries that are not democratic be invited to the summit.  Did President López Obrador blackmail President Biden?  Did he try?</p>
+<p><strong>SECRETARY BLINKEN:</strong>  We had a very legitimate difference of opinion on this.  We’ve had many conversations about it in very good faith.  And as I said, President Biden is looking forward to seeing President López Obrador at the White House in July.</p>
+<p><strong>QUESTION:</strong>  In a tweet, you said you were concerned about the killing of Mexican journalists. U.S. Senator Marco Rubio, he says that he’s concerned that drug cartels are controlling parts of Mexican territory.  Is the López Obrador government a security concern for the U.S.?</p>
+<p><strong>SECRETARY BLINKEN:</strong>  When it comes to journalists, let me say two things.  First, broadly, we have deep concerns about threats being posed to journalists throughout our hemisphere.  In the first half of this year alone, 17 journalists have been killed just for doing their jobs.  There may be more, but we can document 17.  So this has been an important part of the meetings that we’ve already had and will continue to have:  What measures can we put in place to protect and support media, independent journalists doing their job in our hemisphere?  And there’s a lot to be said about that, but concrete steps are being taken.</p>
+<p>In Mexico itself, President López Obrador has vowed to take even stronger preventive action to make sure that journalists are protected up front, to try to get at some of the root causes that are sparking some of the violence being directed at journalists.  Mostly it’s because they’re trying to expose criminal gangs, corruption, drug trafficking.  So we’ll work closely with Mexico and any other country in the hemisphere on this because we are determined to protect journalists.  This is – this free, independent media are at the heart of our democracies.  If we lose that, we lose our democracies.</p>
+<p><strong>QUESTION:  </strong>And let me just say that it’s incredibly dangerous to be a journalist &#8212;</p>
+<p><strong>SECRETARY BLINKEN:  </strong>Yeah.</p>
+<p><strong>QUESTION:  </strong>&#8212; in Mexico.  Let me finish with this.  I want to understand your philosophy right now between the U.S. and dictatorships.  In 2016, President Obama went to Cuba and he believed that more contacts, more tourism, more diplomacy would promote democracy in the region.  You and President Biden seem to be going a different way, probably more sanctions, isolating Cuba, Venezuela, and Nicaragua.  What’s the right way?</p>
+<p><strong>SECRETARY BLINKEN:  </strong>These are complicated, challenging questions that we face for many, many years.  Our focus in each of these countries is to take the steps we believe are most effective in advancing and certainly defending the human rights of people in those countries and their democratic aspirations, which are shared across all of those countries.</p>
+<p>In the case of Cuba, we had the protests in July of last year, and we saw the incredibly repressive reaction of the government: putting minors in jail, sentences of 30 to 35 years, most recently artists who are kind of icons for those protesting last July being threatened now with sentences of ten and six years for simply expressing their views artistically.  So we’ve seen that.  We think it’s very important to stand up for those who are being repressed, persecuted.  At the same time, we’ve taken some limited steps – in terms of family reunifications, in terms of travel, remittances, in terms of investing in entrepreneurs – that we think can also help advance the Cuban people in meeting their own aspirations.</p>
+<p><strong>QUESTION:  </strong>Yeah, but maybe the question is:  If the U.S. is treating other dictatorships the same way, why treat Cuba, Venezuela, Nicaragua in one way and China and Saudi Arabia in a different way?</p>
+<p><strong>SECRETARY BLINKEN:  </strong>I think in each of these cases, there are a multiplicity of interests that come into play.  We have to look out for all of the interests of the American people, and hopefully the people that we’re engaged with.  And what President Biden has done in each of these cases is to put human rights and democracy at the heart of our foreign policy, but it’s not the only thing that we look at.  We have to bring everything together in a way that advances the interests of the United States.  And one could go through each of these at the same time, but there isn’t – there are underlying principles, including the principle that we need to be standing up for the rights of people when they’re being repressed in one way or another.  But the question is:  How do we do that most effectively?  And the answer in an individual case may be a little bit different.</p>
+<p><strong>QUESTION:  </strong>Okay.  Should this be the last Summit of the Americas?  Some people are suggesting that in the future we should have more regional meetings.</p>
+<p><strong>SECRETARY BLINKEN:  </strong>No, I don’t think so at all.  To the contrary, what we’ve seen just at the beginning of the summit – we have three days here.  What gets lost sometimes is that as important as it is for the governments to come together – and by the way, this is the first time in more than four years that the heads of state have come together &#8212;</p>
+<p><strong>QUESTION:  </strong>That is true.</p>
+<p><strong>SECRETARY BLINKEN:  </strong>&#8212; at a time where collective, coordinated action is more necessary than ever.  But we have civil society here, we have the private sector, we have young people here.  And all of these groups are connecting in different ways together.  These are all the stakeholders in the future of our hemisphere.  We have a powerful shared future if we can work at it together.  This is one way of doing it.  But it’s three days; 362 days after the summit are even more important.  What we do coming out of here in terms of making good on what we’ve agreed to, implementing the various initiatives that we’re taking – including, for example, just to cite one, we have a commitment and the resources to train 500,000 health workers, doctors, technicians in our hemisphere between now and the end of 2024 – that can make a huge difference in lifting the health care for millions of people throughout our hemisphere.  We have to deliver on it.</p>
+<p><strong>QUESTION:  </strong>Okay.  Thank you so much.  <em>Muchas gracias. </em></p>
+<p><strong>SECRETARY BLINKEN:  </strong>Thank you.  Great.</p>
 ]]></content:encoded>
 					
 		
