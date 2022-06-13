@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Mon, 13 Jun 2022 21:31:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Jun 2022 22:34:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -1299,8 +1299,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		
 			</item>
 		<item>
-		<title>Visas Restrictions on Ortega-Murillo Regime Officials for Undermining Democracy</title>
-		<link>https://www.state.gov/visas-restrictions-on-ortega-murillo-regime-officials-for-undermining-democracy/</link>
+		<title>Visa Restrictions on Ortega-Murillo Regime Officials for Undermining Democracy</title>
+		<link>https://www.state.gov/visa-restrictions-on-ortega-murillo-regime-officials-for-undermining-democracy/</link>
 		
 		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
 		<pubDate>Mon, 13 Jun 2022 15:53:28 +0000</pubDate>
