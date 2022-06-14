@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Tue, 14 Jun 2022 15:19:39 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Jun 2022 17:21:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Minerals Security Partnership</title>
+		<link>https://www.state.gov/minerals-security-partnership/</link>
+		
+		<dc:creator><![CDATA[U.S. Department of State]]></dc:creator>
+		<pubDate>Tue, 14 Jun 2022 17:21:00 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=352524</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>The United States and key partner countries have announced the establishment of the Minerals Security Partnership (MSP), an ambitious new initiative to bolster critical mineral supply chains. This announcement was made in Toronto during the Prospectors and Developers Association of Canada convention, the largest mining event in the world.</p>
+<p>The goal of the MSP is to ensure that critical minerals are produced, processed, and recycled in a manner that supports the ability of countries to realize the full economic development benefit of their geological endowments. Demand for critical minerals, which are essential for clean energy and other technologies, is projected to expand significantly in the coming decades. The MSP will help catalyze investment from governments and the private sector for strategic opportunities —across the full value chain —that adhere to the highest environmental, social, and governance standards.</p>
+<p>MSP partners – including Australia, Canada, Finland, France, Germany, Japan, the Republic of Korea, Sweden, the United Kingdom, the United States, and the European Commission – are committed to building robust, responsible critical mineral supply chains to support economic prosperity and climate objectives.</p>
+<p>For further information, please contact ENR-PD-Clearances@state.gov.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>The United States and key partner countries have announced the establishment of the Minerals Security Partnership (MSP), an ambitious new initiative to bolster critical mineral supply chains. This announcement was made in Toronto during the Prospectors and Developers Association of Canada convention, the largest mining event in the world.</p>
+<p>The goal of the MSP is to ensure that critical minerals are produced, processed, and recycled in a manner that supports the ability of countries to realize the full economic development benefit of their geological endowments. Demand for critical minerals, which are essential for clean energy and other technologies, is projected to expand significantly in the coming decades. The MSP will help catalyze investment from governments and the private sector for strategic opportunities —across the full value chain —that adhere to the highest environmental, social, and governance standards.</p>
+<p>MSP partners – including Australia, Canada, Finland, France, Germany, Japan, the Republic of Korea, Sweden, the United Kingdom, the United States, and the European Commission – are committed to building robust, responsible critical mineral supply chains to support economic prosperity and climate objectives.</p>
+<p>For further information, please contact ENR-PD-Clearances@state.gov.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Deputy Secretary Sherman’s Meetings with Vietnamese Government Officials</title>
 		<link>https://www.state.gov/deputy-secretary-shermans-meetings-with-vietnamese-government-officials/</link>
 		
@@ -1581,171 +1742,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The regime holds over 180 political prisoners, with many suffering from a lack of adequate food, proper medical care, and even sunlight.  One political prisoner has died, and others remain in solitary confinement.  Political prisoners detained under house arrest similarly suffer abuses and are unable to choose their own health care providers or receive visitors.  The regime’s corrupt security and judicial systems arrested and prosecuted these civic leaders and human rights defenders for speaking the truth, practicing courageous journalism, defending their communities through NGO work, and publicly advocating for alternatives to the regime’s repressive rule – activities that should be permitted under Nicaragua’s own constitution or any democratic political system.</p>
 <p>The United States reiterates its call for the immediate and unconditional release of those unjustly detained and the restoration of democracy and the rule of law in Nicaragua.</p>
 <p><input type="hidden" data-filter="111001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Assistant Secretary of State for Political-Military Affairs Jessica Lewis Travels to France, Belgium, and Latvia</title>
-		<link>https://www.state.gov/assistant-secretary-of-state-for-political-military-affairs-jessica-lewis-travels-to-france-belgium-and-latvia/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Sat, 11 Jun 2022 13:28:59 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=351894</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Assistant Secretary of State for Political-Military Affairs Jessica Lewis travels to France, Belgium, and Latvia June 11-19, 2022, to meet with U.S. Allies and partners on military assistance for Ukraine as well as to expand security cooperation and defense trade that enhances Transatlantic and global security.</p>
-<p>In Paris, France, June 12-13, Assistant Secretary Lewis will co-chair the inaugural meeting of the U.S.-France Defense Trade Strategic Dialogue, a new forum to strengthen bilateral defense trade with one of America’s oldest Allies. Assistant Secretary Lewis will also attend the Eurosatory 2022 international defense and security trade fair, where she will meet with senior civilian and military officials, as well as advocate for more than 140 U.S. manufacturers showcasing their latest products at the event.</p>
-<p>In Brussels, Belgium, June 14-15, Assistant Secretary Lewis will meet with senior NATO and European Union officials to discuss continued close cooperation to support Ukraine and address shared global challenges. Assistant Secretary Lewis will also participate in the Ukraine Contact Group meeting.</p>
-<p>In Riga, Latvia, June 16-18, Assistant Secretary Lewis will hold consultations with senior civilian and military officials in Riga on efforts to promote regional peace and stability and deepen defense cooperation. Assistant Secretary Lewis will also meet with visiting NATO forces, which reflects our ever-growing U.S. security partnerships with Latvia and our NATO Allies.</p>
-<p>For further information, please contact the Bureau of Political-Military Affairs, Office of Congressional and Public Affairs at <a href="mailto:PM-CPA@state.gov" target="_blank" rel="noopener">PM-CPA@state.gov</a> and follow <a class="external-link" href="https://twitter.com/StateDeptPM" target="_BLANK" rel="noopener"><span class="external-link-title">@StateDeptPM</span><span class="icon-external"> </span></a> on Twitter.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Assistant Secretary of State for Political-Military Affairs Jessica Lewis travels to France, Belgium, and Latvia June 11-19, 2022, to meet with U.S. Allies and partners on military assistance for Ukraine as well as to expand security cooperation and defense trade that enhances Transatlantic and global security.</p>
-<p>In Paris, France, June 12-13, Assistant Secretary Lewis will co-chair the inaugural meeting of the U.S.-France Defense Trade Strategic Dialogue, a new forum to strengthen bilateral defense trade with one of America’s oldest Allies. Assistant Secretary Lewis will also attend the Eurosatory 2022 international defense and security trade fair, where she will meet with senior civilian and military officials, as well as advocate for more than 140 U.S. manufacturers showcasing their latest products at the event.</p>
-<p>In Brussels, Belgium, June 14-15, Assistant Secretary Lewis will meet with senior NATO and European Union officials to discuss continued close cooperation to support Ukraine and address shared global challenges. Assistant Secretary Lewis will also participate in the Ukraine Contact Group meeting.</p>
-<p>In Riga, Latvia, June 16-18, Assistant Secretary Lewis will hold consultations with senior civilian and military officials in Riga on efforts to promote regional peace and stability and deepen defense cooperation. Assistant Secretary Lewis will also meet with visiting NATO forces, which reflects our ever-growing U.S. security partnerships with Latvia and our NATO Allies.</p>
-<p>For further information, please contact the Bureau of Political-Military Affairs, Office of Congressional and Public Affairs at <a href="mailto:PM-CPA@state.gov" target="_blank" rel="noopener">PM-CPA@state.gov</a> and follow <a class="external-link" href="https://twitter.com/StateDeptPM" target="_BLANK" rel="noopener"><span class="external-link-title">@StateDeptPM</span><span class="icon-external"> </span></a> on Twitter.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
