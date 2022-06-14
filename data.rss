@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Tue, 14 Jun 2022 17:21:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Jun 2022 20:40:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>U.S. Department of State Launches Gandhi-King Scholarly Exchange Initiative</title>
+		<link>https://www.state.gov/u-s-department-of-state-launches-gandhi-king-scholarly-exchange-initiative/</link>
+		
+		<dc:creator><![CDATA[U.S. Department of State]]></dc:creator>
+		<pubDate>Tue, 14 Jun 2022 20:40:30 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=352612</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>The Department of State’s Bureau of Educational and Cultural Affairs announced today the launch of the Gandhi-King Scholarly Exchange Initiative, which brings together 20 emerging young civic leaders from India and the United States to advance civil rights, social justice, and inclusion on the local, national and international levels by exploring the histories and legacies of Mahatma Gandhi and Dr. Martin Luther King, Jr. This exchange was championed by the late Honorable John Lewis.</p>
+<p>The exchange will open on June 15, 2022, with a one-week virtual program and orientation followed by a two-week academic residency hosted at Alabama A&amp;M University, a Historically Black College and University (HBCU) and the University of Alabama.</p>
+<p>In addition to classroom learning and discussion, participants will visit civil rights sites in Montgomery, Selma, and Birmingham, Alabama; Memphis, Tennessee; and Atlanta, Georgia. In January 2023, the Indian and U.S. participants will reconvene in India to visit important sites, communities, and organizations that build upon their academic curriculum, which is centered around the academic themes of peace, nonviolence, and conflict resolution and build their leadership capacities. Interested media should contact the Bureau of Educational and Cultural Affairs at eca-press@state.gov.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>The Department of State’s Bureau of Educational and Cultural Affairs announced today the launch of the Gandhi-King Scholarly Exchange Initiative, which brings together 20 emerging young civic leaders from India and the United States to advance civil rights, social justice, and inclusion on the local, national and international levels by exploring the histories and legacies of Mahatma Gandhi and Dr. Martin Luther King, Jr. This exchange was championed by the late Honorable John Lewis.</p>
+<p>The exchange will open on June 15, 2022, with a one-week virtual program and orientation followed by a two-week academic residency hosted at Alabama A&amp;M University, a Historically Black College and University (HBCU) and the University of Alabama.</p>
+<p>In addition to classroom learning and discussion, participants will visit civil rights sites in Montgomery, Selma, and Birmingham, Alabama; Memphis, Tennessee; and Atlanta, Georgia. In January 2023, the Indian and U.S. participants will reconvene in India to visit important sites, communities, and organizations that build upon their academic curriculum, which is centered around the academic themes of peace, nonviolence, and conflict resolution and build their leadership capacities. Interested media should contact the Bureau of Educational and Cultural Affairs at eca-press@state.gov.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Minerals Security Partnership</title>
 		<link>https://www.state.gov/minerals-security-partnership/</link>
 		
@@ -1612,135 +1771,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Under Secretary for Economic Growth, Energy, and the Environment Jose W. Fernandez is traveling to Toronto, Canada, June 13-14 where he will represent the United States at the International Mines Ministers Summit.  While in Toronto, Under Secretary Fernandez also will engage in discussions with foreign counterparts and private sector leaders attending the Prospectors and Developers Association of Canada (PDAC) convention, the largest mining event in the world.</p>
 <p>Under Secretary Fernandez’s trip supports U.S. efforts to build robust, responsible supply chains for the critical minerals and metals – such as those used in electric vehicle batteries – that are vital to U.S. economic prosperity and achieving our global climate goals.</p>
 <p>For further information, please contact <a href="mailto:ENR-PD-Clearances@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">ENR-PD-Clearances@state.gov</a></p>
-<p><input type="hidden" data-filter="111001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Visa Restrictions on Ortega-Murillo Regime Officials for Undermining Democracy</title>
-		<link>https://www.state.gov/visa-restrictions-on-ortega-murillo-regime-officials-for-undermining-democracy/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Mon, 13 Jun 2022 15:53:28 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=352170</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States remains deeply concerned about the Ortega-Murillo regime’s unjust detentions of political prisoners and ongoing abuses against members of civil society. We remain committed to applying a range of diplomatic and economic tools to support the restoration of democracy and respect for human rights in Nicaragua. To that end, the Department of State is taking further steps to impose visa restrictions on an additional 93 individuals believed to have undermined democracy following Daniel Ortega’s illegitimate November 2021 reelection, including judges, prosecutors, National Assembly Members, and Interior Ministry officials.</p>
-<p>Regime-aligned judges and prosecutors share complicity in the Ortega-Murillo regime’s efforts to undermine democracy through their participation in prosecutions and convictions of opposition leaders, human rights defenders, private sector leaders, and student advocates. National Assembly members and Ministry of Interior officials enabled the Ortega-Murillo regime to tighten its authoritarian grip over Nicaraguan citizens and institutions by using repressive laws to strip more than 400 NGOs and a dozen universities of their legal status.</p>
-<p>The regime holds over 180 political prisoners, with many suffering from a lack of adequate food, proper medical care, and even sunlight.  One political prisoner has died, and others remain in solitary confinement.  Political prisoners detained under house arrest similarly suffer abuses and are unable to choose their own health care providers or receive visitors.  The regime’s corrupt security and judicial systems arrested and prosecuted these civic leaders and human rights defenders for speaking the truth, practicing courageous journalism, defending their communities through NGO work, and publicly advocating for alternatives to the regime’s repressive rule – activities that should be permitted under Nicaragua’s own constitution or any democratic political system.</p>
-<p>The United States reiterates its call for the immediate and unconditional release of those unjustly detained and the restoration of democracy and the rule of law in Nicaragua.</p>
-<p><input type="hidden" data-filter="111001000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States remains deeply concerned about the Ortega-Murillo regime’s unjust detentions of political prisoners and ongoing abuses against members of civil society. We remain committed to applying a range of diplomatic and economic tools to support the restoration of democracy and respect for human rights in Nicaragua. To that end, the Department of State is taking further steps to impose visa restrictions on an additional 93 individuals believed to have undermined democracy following Daniel Ortega’s illegitimate November 2021 reelection, including judges, prosecutors, National Assembly Members, and Interior Ministry officials.</p>
-<p>Regime-aligned judges and prosecutors share complicity in the Ortega-Murillo regime’s efforts to undermine democracy through their participation in prosecutions and convictions of opposition leaders, human rights defenders, private sector leaders, and student advocates. National Assembly members and Ministry of Interior officials enabled the Ortega-Murillo regime to tighten its authoritarian grip over Nicaraguan citizens and institutions by using repressive laws to strip more than 400 NGOs and a dozen universities of their legal status.</p>
-<p>The regime holds over 180 political prisoners, with many suffering from a lack of adequate food, proper medical care, and even sunlight.  One political prisoner has died, and others remain in solitary confinement.  Political prisoners detained under house arrest similarly suffer abuses and are unable to choose their own health care providers or receive visitors.  The regime’s corrupt security and judicial systems arrested and prosecuted these civic leaders and human rights defenders for speaking the truth, practicing courageous journalism, defending their communities through NGO work, and publicly advocating for alternatives to the regime’s repressive rule – activities that should be permitted under Nicaragua’s own constitution or any democratic political system.</p>
-<p>The United States reiterates its call for the immediate and unconditional release of those unjustly detained and the restoration of democracy and the rule of law in Nicaragua.</p>
 <p><input type="hidden" data-filter="111001000100" /></p>
 ]]></content:encoded>
 					
