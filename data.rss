@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Fri, 17 Jun 2022 01:55:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Jun 2022 04:42:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Iceland’s National Day</title>
+		<link>https://www.state.gov/icelands-national-day-2/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 17 Jun 2022 04:42:08 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=352996</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I congratulate the people of Iceland as you celebrate your National Day.</p>
+<p>Over the past seven decades, the United States and Iceland have built a strong friendship based on shared democratic values, a commitment to human rights, and close cooperation in defense of regional and global security. As NATO Allies, we will continue to strengthen Transatlantic security and coordinate closely our response to threats to the rules-based international order, which is the foundation for peace and security around the world.</p>
+<p>The United States and Iceland are committed to supporting Ukraine as it defends its sovereignty, democracy, and independence. Our countries are advancing Transatlantic cooperation on climate action and Arctic issues that will deliver gains for people on both sides of the Atlantic. The enduring partnership and vibrant people-to-people ties between Americans and Icelanders will ensure our friendship remains strong in the years to come.</p>
+<p>I wish all the people of Iceland peace, prosperity, and good health over the coming year.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I congratulate the people of Iceland as you celebrate your National Day.</p>
+<p>Over the past seven decades, the United States and Iceland have built a strong friendship based on shared democratic values, a commitment to human rights, and close cooperation in defense of regional and global security. As NATO Allies, we will continue to strengthen Transatlantic security and coordinate closely our response to threats to the rules-based international order, which is the foundation for peace and security around the world.</p>
+<p>The United States and Iceland are committed to supporting Ukraine as it defends its sovereignty, democracy, and independence. Our countries are advancing Transatlantic cooperation on climate action and Arctic issues that will deliver gains for people on both sides of the Atlantic. The enduring partnership and vibrant people-to-people ties between Americans and Icelanders will ensure our friendship remains strong in the years to come.</p>
+<p>I wish all the people of Iceland peace, prosperity, and good health over the coming year.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Deputy Secretary Sherman’s Meeting with Greenland Prime Minister Egede and Foreign Minister Motzfeldt</title>
 		<link>https://www.state.gov/deputy-secretary-shermans-meeting-with-greenland-prime-minister-egede-and-foreign-minister-motzfeldt/</link>
 		
@@ -1936,251 +2099,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p><em>Pre-set time for video cameras: 4:45 p.m. from the C Street lobby.</em><br aria-hidden="true" /><em>Final access time for writers and stills: 5:15 p.m. from the C Street lobby.</em></p>
 <p><em>Media representatives may attend this event upon presentation of one of the following: (1) A U.S. Government-issued identification card (Department of State, White House, Congress, Department of Defense or Foreign Press Center), (2) a media-issued photo identification card, or (3) a letter from their employer on letterhead verifying their employment as a journalist, accompanied by an official photo identification card (driver&#8217;s license, passport).</em></p>
 <p>Please submit any media inquiries via the web form located on the <a href="https://www.state.gov/information-for-journalists">‘Information for Journalists’</a> page on <a href="https://www.state.gov/">www.state.gov</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken and Colombian President Iván Duque Márquez at the 200th Anniversary of U.S.-Colombian Relations Celebration</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-and-colombian-president-ivan-duque-marquez-at-the-200th-anniversary-of-u-s-colombian-relations-celebration/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Wed, 15 Jun 2022 23:08:21 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=352908</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, D.C.</p>
-<p>National Museum of American Diplomacy</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, good afternoon, everyone.</p>
-<p>It is wonderful to see everyone here today, particularly for this occasion.  Susan, thank you very much, both for the introduction but also for what you’re doing every day to really bring our diplomacy alive, to bring it to new generations of Americans.  We’re grateful for this.  It’s a remarkable project and one that we’re fully invested in, so thank you.</p>
-<p>And Mr. President, it’s so good to have you again in Washington.  We were just in Los Angeles days ago.  It’s wonderful to see you here.  It’s an opportunity, in a small way, for us to return the hospitality that you’ve extended to us over this past year and a half, including my own visit to Bogotá last year, and also to celebrate a truly joyous occasion.  And maybe we’ll do away with the microphone and I’ll try and project.  (Laughter.)  The 200th anniversary of our bilateral relations that we’re celebrating today – I guess we’re giving new meaning to Juneteenth next week as well.</p>
-<p>And Mr. President, I really wanted to thank you again publicly, as I just did privately, for not just your participation in the Summit of the Americas, but for Colombia’s leadership in the Summit of the Americas.  We got a lot done for the people of our hemisphere over those three days in Los Angeles, and in no small measure because of Colombia’s leadership, including on the migration declaration, which I may say a few additional words about in a few minutes.  But that leadership, as always, was invaluable.  Our partnership, as always, was invaluable.  And I’m grateful to you, President Biden is grateful to you, for that partnership.</p>
-<p>Mr. Ambassador, Ambassador Pinzón, friends for a long time – it’s great to have you here today; other colleagues from across the Government of Colombia:  So I know this is only one in a series of events that have been organized to celebrate our 200 years.  We’re grateful to our colleagues from Colombia for actually, in a sense, hosting the event today, co-hosting it with us.</p>
-<p>Our team in Bogotá is also extremely active in organizing celebrations in multiple Colombian cities over the coming days.</p>
-<p>And finally, let me say to our colleagues who are here from the Colombian and American private sectors:  Thank you for being here today; thank you for your work every day to strengthen ties between our countries.  The economic bonds that bind us together are strong and growing stronger, and of course, it’s a profound benefit to the people in both of our countries.</p>
-<p>It is, I think, fitting that we are celebrating today at the National Museum of American Diplomacy.  How are we doing?  Let’s see.  (Laughter.)  It’s a rogue microphone.  (Laughter.)</p>
-<p>We have – and I suspect the president will get into this as well – a long history of being bound together, even before 1822, when our formal diplomatic relations began.</p>
-<p>From 1806 to 1807, Simon Bolívar spent six months in the United States traveling the East Coast from Charleston, South Carolina, up to cities along the coast, before, of course, leading the independence movement in South America.</p>
-<p>Beyond history, we, of course, have been and continue to be enriched immeasurably by Colombia’s culture – the magical realism of Garcia Marquez, the art of Botero, the music of Shakira.  (Laughter.)  Colombia is said to be the land of a thousand rhythms; I suspect Shakira is responsible for 999.  (Laughter.)</p>
-<p>But to the point that Susan made – and I think it’s really important – this is a relationship that has remained strong over 200 years, even in the most challenging times, and that speaks volumes.  A few decades ago, Colombia’s entire future was on the line, under assault from drug cartels and insurgent groups.  Conflict ravaged the nation.  Many Colombians endured violence or lived in fear of it.  And of course, at that time huge unemployment as well, economic difficulties.</p>
-<p>We came together – the United States and Colombia – and I see leaders of that effort in this room today.  We undertook Plan Colombia.  We ended half a century campaign to topple the Colombian Government, as well as a war that killed more than 200,000 people.  Plan Colombia became Peace Colombia, and though many issues remain, Colombia has expanded access to education, to jobs, other social services in its rural areas, and to the country’s underserved communities, including Indigenous and Afro Colombian communities; reformed land laws; established institutions like the disappeared persons unit.  Much work remains, but it is a remarkable thing, especially at a time of so much challenge around the world, to see the commitment – the enduring commitment – that Colombia has made to peace and progress.</p>
-<p>Last month, we saw the strength of democracy in action.  I think you had the highest turnout for the first round of presidential elections in memory.  Regardless of the results, the United States looks forward to working with the next administration to continue the progress that’s underway and the relationship that generations of our officials and our people have built together.</p>
-<p>Let me just say a few words before turning it over to the president.</p>
-<p>We are deepening our economic ties.  Last month marked the 10-year anniversary of the Colombia Trade Promotion Agreement that has helped double U.S. agricultural exports to Colombia, while making the United States the top importer of agricultural goods from Colombia.</p>
-<p>Last week in Los Angeles, at the Summit of the Americas, President Biden announced the Americas Partnership for Economic Prosperity.  We will work closely with countries across the region, including Colombia, to remove barriers to investment, to accelerate economic growth across our hemisphere, while ensuring that the gains of growth are more equitable – because we know that even as our economies grow, so have gaps between the rich and poor, and we’re determined to address that.</p>
-<p>We’re advancing our shared security together.  Our partnership over the years has allowed U.S.  and Colombian security forces to work together.  Ambassador Pinzón and I worked on this some years ago.  We now see the benefits in the work Colombian security forces are doing to train others throughout the hemisphere.  Colombia has become an exporter of security in our hemisphere, and that matters.  The recent designation of Colombia with President Duque as a Major Non-NATO Ally will enhance this cooperation by helping our militaries work even closer together in the years ahead.</p>
-<p>And this partnership, besides being a bilateral partnership, besides being a regional partnership, is increasingly a global partnership.  We’re working together on global challenges, like the climate crisis.  We see the stakes of this in Colombia’s extraordinary natural beauty, from the snow-capped mountains in Los Nevados to the tropical rain forests in the south.  We’re working together to protect these and other diverse ecosystems across the country – for example, through Amazonia Connect, also announced at the Summit of the Americas.  This initiative will work to reduce deforestation across the Amazon – the lungs of the hemisphere, and an unmatched source of biodiversity.</p>
-<p>In my visit to Bogotá last year, I had a chance to talk to a group of young Colombians, who asked me about several other areas where our countries work together, from creating safe pathways for migration to promoting understanding through culture and education.</p>
-<p>So I had one conversation with someone from a much younger generation – and a much more talented musical background.  (Laughter.)  Juan Carlos Mindinero is an Afro Colombian musician from Tumaco who told me about his work using music to promote peace and to address some of the most difficult issues in his community, like racism.  His work reminded me in so many ways of the songs of the Civil Rights Movement in the United States, which played such a key role in inspiring and mobilizing ordinary people to act.</p>
-<p>And when it comes down to it, that is really one of the most beautiful things about democracy: ordinary citizens confronting the toughest challenges that we face out in the open.  And ultimately, these dedicated citizens are what give me the most optimism for the future of the relationship between Colombia and the United States.  People who believe in the bonds between our countries, who stand ready to continue to grow them, to make their own governments and the relationship between them even better, even stronger, in the years ahead.  That’s what really drives this.</p>
-<p>So let me simply say to everyone present, because in various ways virtually everyone here has been involved in this relationship, thank you for the commitment to this work.  And simply put, Mr. President, friends and colleagues, here is to the continued friendship between Colombia and the United States.  We could ask for no better partner, no better friend in the world.</p>
-<p>Mr. President, over to you.  (Applause.)</p>
-<p><strong>PRESIDENT DUQUE:</strong>  Good afternoon.  It’s a great honor for me to be here at the State Department and especially at the Diplomacy Center.  Thank you so much, Secretary Blinken, for your words, for your friendship, for your permanent support to Colombia.  Susan, thank you so much for having us today.  Ambassador Pinzón, Dr. María Paula Correa.  My also special greetings to the panelists that we’re going to have this afternoon.  Maureen, thank you.  Joseph, Luis Alberto, and Marie Arana, a great writer who has written a lot about Latin America’s history.  I also want to express my salute to the former ambassadors from the United States to Colombia.  Speaker Boehner, it’s great to have you here with us.</p>
-<p>And I would love to express, Mr. Secretary, that we feel very honored of this 200 years celebration.  It has been 200 years of our relationship that has been driven by values, by common purpose, and obviously by principles.  And I would like to make some references of a historical nature.  The first one is that the flag that I have behind me – yellow, blue, and red – was designed by Francisco de Miranda.  Francisco de Miranda designed that flag, and Francisco de Miranda, who has to always be considered as one of our founding fathers, was very close to General Lafayette, and he was pretty much inspired by the founding fathers of the United States.  He was approached later in time by the leaders of the Liberty Society of Caracas to come back and fight for liberty.  But before that, in 1807, Simón Bolívar departed from the Port of Cádiz and he was coming to the Americas with the idea of fighting for liberty.  But instead of going directly to La Guaira that was the common trip that he would have made, he decided to stop in Charleston.  And he remained in the United States for a few months, and it was during Thomas Jefferson’s mandate.</p>
-<p>About that trip, there are no important documents about what happened to Bolívar, with the exception that he ran out of money and his brother had to send some money, finding a carrier.  But what is interesting is that years after, there was this amazing letter that Bolívar wrote to a Jamaican diplomat.  And this has been recalled also by Professor John Lynch.  And he said in the letter, “During my short stay in the United States, I tasted the flavor of liberal democracy.”  Those were major words that also inspired Bolívar.  And he fought for independence.  We got our independence in 1819.  Then he fought in the Venezuelan territory against Tomás Boves.  He finally also built the independence of Venezuela.  And then he started the southern campaign.</p>
-<p>But at the time when he started the southern campaign, he called for a former Spaniard that had turned himself into a New Granadan and a Colombian, Manuel Trujillo y Torres, to be appointed as a representative to the United States of America.  He came to Washington.  He was a very clever guy.  He had this capacity to speak eloquently.  And he started knocking everybody’s doors in order to make the case for the recognition of Colombia by the United States of America.  People who knew him describe him as the Colombian Franklin.  And there are few historical records about him, and it is very common that he is always referred with that phrase.  He was a Renaissance man, and he was a very persuasive man.</p>
-<p>He got to constitute a very powerful friendship with John Quincy Adams, who was the secretary of state at the time.  And he made such a strong case for the recognition that John Quincy Adams approached President Monroe, and President Monroe in 1822 signed the recognition of <em>la Gran Colombia</em>, becoming the first former Spanish colony to be recognized as a state by the United States of America.  And Manuel Trujillo y Torres was a big fan of Thomas Jefferson.  He always mentioned that that great inscription in the Declaration of Independence, to “hold these truths to be self-evident, that all men are created equal,” became a mantra that also inspired the abolition of slavery in our countries.</p>
-<p>Since then, this relationship has always been stronger and stronger.  And we remember always the first visit that a U.S. president did to Colombia, and it was FDR, who came to Cartagena.  Then we also remember President Kennedy’s visit to Colombia, when he launched the Alliance for Progress with his good friend, Alberto Lleras Camargo.  We remember Ronald Reagan’s visit to President Betancourt; President Bush 41, his visit to Colombia, where he also met with President Barco in the city of Cartagena.  We remember the visit that President Clinton made to Colombia.  And we also remember how, in times of despair, the United States came to us and said:  We will support you.  And that’s how Plan Colombia was built.  And I’m very glad to see here Ambassador Pickering, who was also an architect of Plan Colombia.</p>
-<p>At the time when Plan Colombia was approved, Colombia was considered at the brink of becoming a failed state.  Twenty years after this policy that has been bipartisan and bicameral, Colombia has become the 37th member of the OECD.  And that just clearly speaks about how this diplomatic effort, based on values and principles, has been able to change our diplomacy.</p>
-<p>And also, after Plan Colombia, President Bush 43 decided to move forward the free trade agreement between Colombia and the United States.  Speaker Boehner, we remember all the big efforts in Congress, how this also became a bipartisan, bicameral effort.  And it has opened many opportunities for us.</p>
-<p>Then, during President Obama’s administration, we got strong support from the United States in multiple fronts.  We also finalized the putting in practice of the free trade agreement, and it marked a very important era for us.  I remember as president how President Trump supported us in the midst of the pandemic, and how he also supported us to face the situation of the migrants in the border zone.  And I have to express to you, Secretary Blinken, and to President Biden, my gratitude because you have saved millions of lives.  You have become the largest donor of vaccines to Colombia in the midst of this pandemic.  You have opened the accessibility of products to the United States like no other time before.  And we have been able to work on climate action, the protection of the Amazon, the protection of the migrants – and it all came together in multiple ways.</p>
-<p>First, bringing our diplomatic relations to the highest peak ever by declaring Colombia a strategic non-NATO member ally, which means Colombia is today among the few countries that have that kind of recognition.  But also, being able to work along, as we did last week in Los Angeles, in two major policies: the migration declaration of L.A., which out of the complex noise that we have on permanent politics is one of the most important statements ever in a summit to describe by all ourselves that we need to treat migration with a sense of fraternity, as we have done when 1.8 million Venezuelan brothers and sisters, Ambassador Vecchio – one million already have their TPS cards in their hands.</p>
-<p>And the other very important statement – the launching of the economic prosperity framework by President Biden.  This can become as important as the Alliance for Progress because it can bring investment back to the Americas, thinking on the opportunities that we have with North America; and it can be an effective deterrent of migration driven by lack of opportunities.  This will open opportunities for many Latin Americans.  And we also believe that it’s an opportunity to bring U.S. investment back in issues such as infrastructure, 5G networks, renewable energies, among many others.</p>
-<p>So I consider that what we built last week was very important, and I feel proud that we were very much cohesive, the countries that participated.  And we remembered that if there were reasons why some countries were not there, it’s because in 2001, when we signed the Inter-American Democratic Charter, we also signed the Protocol of Quebec.  That protocol established that the summits are not spaces for dictatorships, and that will never be a space for dictatorships.  (Applause.)</p>
-<p>So, Mr. Secretary, I feel so honored that today we’re celebrating these 200 years of this relationship in a very special day that I want to bring to your attention.  It was in June 15, 1952, that Colombian troops entered South Korea.  Colombia was the only Latin American country that participated in the Korean War, and we came with a contingent of more than 5,000 troops, which can be called – Ambassador Pinzón, who’s a military expert, has said that it could have been more than 40 percent of the Colombian army at the time.  And those soldiers came there hand by hand to participate with the United States in saving the South Korean democracy.  And no country would have done that if it wasn’t because we share those values, those objectives, and those purposes.</p>
-<p>I believe that this celebration is an opportunity for keep on strengthening our ties, and we will remain the most important ally for the United States in the Western Hemisphere.  We will continue to differentiate ourselves, by embracing democracy, with autocracies – with pleasure – and we will also remain united to protect those in need, especially the migrant communities in our country that have left the horrible impact of the Maduro dictatorship.</p>
-<p>Secretary Blinken, you have been a friend of Colombia, you are a friend of Colombia, and I want to express my gratitude to all the diplomatic corps of the U.S. State Department here today.  You have to always see the relationship between Colombia with the United States as an example of what bipartisan, bicameral policies can do and what bipartisan diplomacy can do.  I definitely want to express to each one of you, thank you for doing so much for our country.</p>
-<p>And with your permission, Secretary Blinken, I would love to close my remarks by asking Ambassador Tom Pickering to join us here to impose him the 200 years condecoration to celebrate this 200 years anniversary between Colombia and the United States for – (applause) – to an example of one of the greatest minds in U.S. diplomacy.  You have been an ambassador in many places around the world, in complex scenarios, Dr. Pickering, but as the president of Colombia, we have to thank you for being one of the brightest minds who created Plan Colombia, and we can say that because of Plan Colombia, we are today in a much better shape in a country of law and order and opportunities.</p>
-<p>And I’ll finish by saying the following:  In my last four years, I have been honored with being the president of my country, fighting every day for the good of our people.  We passed a pandemic.  Out of 48 months of my administration, 30 months will be facing a pandemic.  But we’re leaving Colombia with the highest growth ever, with the lowest multidimensional poverty ever reached by Colombia, with the lowest job informality rate, being a country that delivers on an energy transition, and a country that is considered today one of the most important places for start-ups in the region.  Obviously, we still have challenges, but none of the things that we have achieved – would have not been achieved without the support of an ally such as the United States of America.</p>
-<p>So Ambassador Pickering, I’m going to impose this condecoration.  I invite Secretary Blinken to join me here.</p>
-<p>(A decree was read.)</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, D.C.</p>
-<p>National Museum of American Diplomacy</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, good afternoon, everyone.</p>
-<p>It is wonderful to see everyone here today, particularly for this occasion.  Susan, thank you very much, both for the introduction but also for what you’re doing every day to really bring our diplomacy alive, to bring it to new generations of Americans.  We’re grateful for this.  It’s a remarkable project and one that we’re fully invested in, so thank you.</p>
-<p>And Mr. President, it’s so good to have you again in Washington.  We were just in Los Angeles days ago.  It’s wonderful to see you here.  It’s an opportunity, in a small way, for us to return the hospitality that you’ve extended to us over this past year and a half, including my own visit to Bogotá last year, and also to celebrate a truly joyous occasion.  And maybe we’ll do away with the microphone and I’ll try and project.  (Laughter.)  The 200th anniversary of our bilateral relations that we’re celebrating today – I guess we’re giving new meaning to Juneteenth next week as well.</p>
-<p>And Mr. President, I really wanted to thank you again publicly, as I just did privately, for not just your participation in the Summit of the Americas, but for Colombia’s leadership in the Summit of the Americas.  We got a lot done for the people of our hemisphere over those three days in Los Angeles, and in no small measure because of Colombia’s leadership, including on the migration declaration, which I may say a few additional words about in a few minutes.  But that leadership, as always, was invaluable.  Our partnership, as always, was invaluable.  And I’m grateful to you, President Biden is grateful to you, for that partnership.</p>
-<p>Mr. Ambassador, Ambassador Pinzón, friends for a long time – it’s great to have you here today; other colleagues from across the Government of Colombia:  So I know this is only one in a series of events that have been organized to celebrate our 200 years.  We’re grateful to our colleagues from Colombia for actually, in a sense, hosting the event today, co-hosting it with us.</p>
-<p>Our team in Bogotá is also extremely active in organizing celebrations in multiple Colombian cities over the coming days.</p>
-<p>And finally, let me say to our colleagues who are here from the Colombian and American private sectors:  Thank you for being here today; thank you for your work every day to strengthen ties between our countries.  The economic bonds that bind us together are strong and growing stronger, and of course, it’s a profound benefit to the people in both of our countries.</p>
-<p>It is, I think, fitting that we are celebrating today at the National Museum of American Diplomacy.  How are we doing?  Let’s see.  (Laughter.)  It’s a rogue microphone.  (Laughter.)</p>
-<p>We have – and I suspect the president will get into this as well – a long history of being bound together, even before 1822, when our formal diplomatic relations began.</p>
-<p>From 1806 to 1807, Simon Bolívar spent six months in the United States traveling the East Coast from Charleston, South Carolina, up to cities along the coast, before, of course, leading the independence movement in South America.</p>
-<p>Beyond history, we, of course, have been and continue to be enriched immeasurably by Colombia’s culture – the magical realism of Garcia Marquez, the art of Botero, the music of Shakira.  (Laughter.)  Colombia is said to be the land of a thousand rhythms; I suspect Shakira is responsible for 999.  (Laughter.)</p>
-<p>But to the point that Susan made – and I think it’s really important – this is a relationship that has remained strong over 200 years, even in the most challenging times, and that speaks volumes.  A few decades ago, Colombia’s entire future was on the line, under assault from drug cartels and insurgent groups.  Conflict ravaged the nation.  Many Colombians endured violence or lived in fear of it.  And of course, at that time huge unemployment as well, economic difficulties.</p>
-<p>We came together – the United States and Colombia – and I see leaders of that effort in this room today.  We undertook Plan Colombia.  We ended half a century campaign to topple the Colombian Government, as well as a war that killed more than 200,000 people.  Plan Colombia became Peace Colombia, and though many issues remain, Colombia has expanded access to education, to jobs, other social services in its rural areas, and to the country’s underserved communities, including Indigenous and Afro Colombian communities; reformed land laws; established institutions like the disappeared persons unit.  Much work remains, but it is a remarkable thing, especially at a time of so much challenge around the world, to see the commitment – the enduring commitment – that Colombia has made to peace and progress.</p>
-<p>Last month, we saw the strength of democracy in action.  I think you had the highest turnout for the first round of presidential elections in memory.  Regardless of the results, the United States looks forward to working with the next administration to continue the progress that’s underway and the relationship that generations of our officials and our people have built together.</p>
-<p>Let me just say a few words before turning it over to the president.</p>
-<p>We are deepening our economic ties.  Last month marked the 10-year anniversary of the Colombia Trade Promotion Agreement that has helped double U.S. agricultural exports to Colombia, while making the United States the top importer of agricultural goods from Colombia.</p>
-<p>Last week in Los Angeles, at the Summit of the Americas, President Biden announced the Americas Partnership for Economic Prosperity.  We will work closely with countries across the region, including Colombia, to remove barriers to investment, to accelerate economic growth across our hemisphere, while ensuring that the gains of growth are more equitable – because we know that even as our economies grow, so have gaps between the rich and poor, and we’re determined to address that.</p>
-<p>We’re advancing our shared security together.  Our partnership over the years has allowed U.S.  and Colombian security forces to work together.  Ambassador Pinzón and I worked on this some years ago.  We now see the benefits in the work Colombian security forces are doing to train others throughout the hemisphere.  Colombia has become an exporter of security in our hemisphere, and that matters.  The recent designation of Colombia with President Duque as a Major Non-NATO Ally will enhance this cooperation by helping our militaries work even closer together in the years ahead.</p>
-<p>And this partnership, besides being a bilateral partnership, besides being a regional partnership, is increasingly a global partnership.  We’re working together on global challenges, like the climate crisis.  We see the stakes of this in Colombia’s extraordinary natural beauty, from the snow-capped mountains in Los Nevados to the tropical rain forests in the south.  We’re working together to protect these and other diverse ecosystems across the country – for example, through Amazonia Connect, also announced at the Summit of the Americas.  This initiative will work to reduce deforestation across the Amazon – the lungs of the hemisphere, and an unmatched source of biodiversity.</p>
-<p>In my visit to Bogotá last year, I had a chance to talk to a group of young Colombians, who asked me about several other areas where our countries work together, from creating safe pathways for migration to promoting understanding through culture and education.</p>
-<p>So I had one conversation with someone from a much younger generation – and a much more talented musical background.  (Laughter.)  Juan Carlos Mindinero is an Afro Colombian musician from Tumaco who told me about his work using music to promote peace and to address some of the most difficult issues in his community, like racism.  His work reminded me in so many ways of the songs of the Civil Rights Movement in the United States, which played such a key role in inspiring and mobilizing ordinary people to act.</p>
-<p>And when it comes down to it, that is really one of the most beautiful things about democracy: ordinary citizens confronting the toughest challenges that we face out in the open.  And ultimately, these dedicated citizens are what give me the most optimism for the future of the relationship between Colombia and the United States.  People who believe in the bonds between our countries, who stand ready to continue to grow them, to make their own governments and the relationship between them even better, even stronger, in the years ahead.  That’s what really drives this.</p>
-<p>So let me simply say to everyone present, because in various ways virtually everyone here has been involved in this relationship, thank you for the commitment to this work.  And simply put, Mr. President, friends and colleagues, here is to the continued friendship between Colombia and the United States.  We could ask for no better partner, no better friend in the world.</p>
-<p>Mr. President, over to you.  (Applause.)</p>
-<p><strong>PRESIDENT DUQUE:</strong>  Good afternoon.  It’s a great honor for me to be here at the State Department and especially at the Diplomacy Center.  Thank you so much, Secretary Blinken, for your words, for your friendship, for your permanent support to Colombia.  Susan, thank you so much for having us today.  Ambassador Pinzón, Dr. María Paula Correa.  My also special greetings to the panelists that we’re going to have this afternoon.  Maureen, thank you.  Joseph, Luis Alberto, and Marie Arana, a great writer who has written a lot about Latin America’s history.  I also want to express my salute to the former ambassadors from the United States to Colombia.  Speaker Boehner, it’s great to have you here with us.</p>
-<p>And I would love to express, Mr. Secretary, that we feel very honored of this 200 years celebration.  It has been 200 years of our relationship that has been driven by values, by common purpose, and obviously by principles.  And I would like to make some references of a historical nature.  The first one is that the flag that I have behind me – yellow, blue, and red – was designed by Francisco de Miranda.  Francisco de Miranda designed that flag, and Francisco de Miranda, who has to always be considered as one of our founding fathers, was very close to General Lafayette, and he was pretty much inspired by the founding fathers of the United States.  He was approached later in time by the leaders of the Liberty Society of Caracas to come back and fight for liberty.  But before that, in 1807, Simón Bolívar departed from the Port of Cádiz and he was coming to the Americas with the idea of fighting for liberty.  But instead of going directly to La Guaira that was the common trip that he would have made, he decided to stop in Charleston.  And he remained in the United States for a few months, and it was during Thomas Jefferson’s mandate.</p>
-<p>About that trip, there are no important documents about what happened to Bolívar, with the exception that he ran out of money and his brother had to send some money, finding a carrier.  But what is interesting is that years after, there was this amazing letter that Bolívar wrote to a Jamaican diplomat.  And this has been recalled also by Professor John Lynch.  And he said in the letter, “During my short stay in the United States, I tasted the flavor of liberal democracy.”  Those were major words that also inspired Bolívar.  And he fought for independence.  We got our independence in 1819.  Then he fought in the Venezuelan territory against Tomás Boves.  He finally also built the independence of Venezuela.  And then he started the southern campaign.</p>
-<p>But at the time when he started the southern campaign, he called for a former Spaniard that had turned himself into a New Granadan and a Colombian, Manuel Trujillo y Torres, to be appointed as a representative to the United States of America.  He came to Washington.  He was a very clever guy.  He had this capacity to speak eloquently.  And he started knocking everybody’s doors in order to make the case for the recognition of Colombia by the United States of America.  People who knew him describe him as the Colombian Franklin.  And there are few historical records about him, and it is very common that he is always referred with that phrase.  He was a Renaissance man, and he was a very persuasive man.</p>
-<p>He got to constitute a very powerful friendship with John Quincy Adams, who was the secretary of state at the time.  And he made such a strong case for the recognition that John Quincy Adams approached President Monroe, and President Monroe in 1822 signed the recognition of <em>la Gran Colombia</em>, becoming the first former Spanish colony to be recognized as a state by the United States of America.  And Manuel Trujillo y Torres was a big fan of Thomas Jefferson.  He always mentioned that that great inscription in the Declaration of Independence, to “hold these truths to be self-evident, that all men are created equal,” became a mantra that also inspired the abolition of slavery in our countries.</p>
-<p>Since then, this relationship has always been stronger and stronger.  And we remember always the first visit that a U.S. president did to Colombia, and it was FDR, who came to Cartagena.  Then we also remember President Kennedy’s visit to Colombia, when he launched the Alliance for Progress with his good friend, Alberto Lleras Camargo.  We remember Ronald Reagan’s visit to President Betancourt; President Bush 41, his visit to Colombia, where he also met with President Barco in the city of Cartagena.  We remember the visit that President Clinton made to Colombia.  And we also remember how, in times of despair, the United States came to us and said:  We will support you.  And that’s how Plan Colombia was built.  And I’m very glad to see here Ambassador Pickering, who was also an architect of Plan Colombia.</p>
-<p>At the time when Plan Colombia was approved, Colombia was considered at the brink of becoming a failed state.  Twenty years after this policy that has been bipartisan and bicameral, Colombia has become the 37th member of the OECD.  And that just clearly speaks about how this diplomatic effort, based on values and principles, has been able to change our diplomacy.</p>
-<p>And also, after Plan Colombia, President Bush 43 decided to move forward the free trade agreement between Colombia and the United States.  Speaker Boehner, we remember all the big efforts in Congress, how this also became a bipartisan, bicameral effort.  And it has opened many opportunities for us.</p>
-<p>Then, during President Obama’s administration, we got strong support from the United States in multiple fronts.  We also finalized the putting in practice of the free trade agreement, and it marked a very important era for us.  I remember as president how President Trump supported us in the midst of the pandemic, and how he also supported us to face the situation of the migrants in the border zone.  And I have to express to you, Secretary Blinken, and to President Biden, my gratitude because you have saved millions of lives.  You have become the largest donor of vaccines to Colombia in the midst of this pandemic.  You have opened the accessibility of products to the United States like no other time before.  And we have been able to work on climate action, the protection of the Amazon, the protection of the migrants – and it all came together in multiple ways.</p>
-<p>First, bringing our diplomatic relations to the highest peak ever by declaring Colombia a strategic non-NATO member ally, which means Colombia is today among the few countries that have that kind of recognition.  But also, being able to work along, as we did last week in Los Angeles, in two major policies: the migration declaration of L.A., which out of the complex noise that we have on permanent politics is one of the most important statements ever in a summit to describe by all ourselves that we need to treat migration with a sense of fraternity, as we have done when 1.8 million Venezuelan brothers and sisters, Ambassador Vecchio – one million already have their TPS cards in their hands.</p>
-<p>And the other very important statement – the launching of the economic prosperity framework by President Biden.  This can become as important as the Alliance for Progress because it can bring investment back to the Americas, thinking on the opportunities that we have with North America; and it can be an effective deterrent of migration driven by lack of opportunities.  This will open opportunities for many Latin Americans.  And we also believe that it’s an opportunity to bring U.S. investment back in issues such as infrastructure, 5G networks, renewable energies, among many others.</p>
-<p>So I consider that what we built last week was very important, and I feel proud that we were very much cohesive, the countries that participated.  And we remembered that if there were reasons why some countries were not there, it’s because in 2001, when we signed the Inter-American Democratic Charter, we also signed the Protocol of Quebec.  That protocol established that the summits are not spaces for dictatorships, and that will never be a space for dictatorships.  (Applause.)</p>
-<p>So, Mr. Secretary, I feel so honored that today we’re celebrating these 200 years of this relationship in a very special day that I want to bring to your attention.  It was in June 15, 1952, that Colombian troops entered South Korea.  Colombia was the only Latin American country that participated in the Korean War, and we came with a contingent of more than 5,000 troops, which can be called – Ambassador Pinzón, who’s a military expert, has said that it could have been more than 40 percent of the Colombian army at the time.  And those soldiers came there hand by hand to participate with the United States in saving the South Korean democracy.  And no country would have done that if it wasn’t because we share those values, those objectives, and those purposes.</p>
-<p>I believe that this celebration is an opportunity for keep on strengthening our ties, and we will remain the most important ally for the United States in the Western Hemisphere.  We will continue to differentiate ourselves, by embracing democracy, with autocracies – with pleasure – and we will also remain united to protect those in need, especially the migrant communities in our country that have left the horrible impact of the Maduro dictatorship.</p>
-<p>Secretary Blinken, you have been a friend of Colombia, you are a friend of Colombia, and I want to express my gratitude to all the diplomatic corps of the U.S. State Department here today.  You have to always see the relationship between Colombia with the United States as an example of what bipartisan, bicameral policies can do and what bipartisan diplomacy can do.  I definitely want to express to each one of you, thank you for doing so much for our country.</p>
-<p>And with your permission, Secretary Blinken, I would love to close my remarks by asking Ambassador Tom Pickering to join us here to impose him the 200 years condecoration to celebrate this 200 years anniversary between Colombia and the United States for – (applause) – to an example of one of the greatest minds in U.S. diplomacy.  You have been an ambassador in many places around the world, in complex scenarios, Dr. Pickering, but as the president of Colombia, we have to thank you for being one of the brightest minds who created Plan Colombia, and we can say that because of Plan Colombia, we are today in a much better shape in a country of law and order and opportunities.</p>
-<p>And I’ll finish by saying the following:  In my last four years, I have been honored with being the president of my country, fighting every day for the good of our people.  We passed a pandemic.  Out of 48 months of my administration, 30 months will be facing a pandemic.  But we’re leaving Colombia with the highest growth ever, with the lowest multidimensional poverty ever reached by Colombia, with the lowest job informality rate, being a country that delivers on an energy transition, and a country that is considered today one of the most important places for start-ups in the region.  Obviously, we still have challenges, but none of the things that we have achieved – would have not been achieved without the support of an ally such as the United States of America.</p>
-<p>So Ambassador Pickering, I’m going to impose this condecoration.  I invite Secretary Blinken to join me here.</p>
-<p>(A decree was read.)</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
