@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Sat, 18 Jun 2022 00:11:18 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Jun 2022 19:47:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,171 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Advancing Peace and Eliminating Sexual Violence in Conflict</title>
+		<link>https://www.state.gov/advancing-peace-and-eliminating-sexual-violence-in-conflict/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Sun, 19 Jun 2022 19:47:45 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=353493</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>For more than a decade, the United States has joined the global community in recognizing June 19 as the International Day for the Elimination of Sexual Violence in Conflict (IDESVC). We remain deeply committed to preventing and responding to all forms of gender-based violence, including conflict-related sexual violence, which disproportionately impacts women and girls, and protecting and supporting survivors. The United States recognizes that respect for the rights and dignity of women and girls, in all their diversity is essential to promoting global peace, security, democracy, and economic prosperity.</p>
+<p>The world faces a number of pressing issues that disproportionately impact women and girls, including the ongoing COVID-19 pandemic, the climate crisis, food insecurity, and conflict and humanitarian emergencies around the world. The international community has been inundated with devastating reports of conflict-related sexual violence from across the world, including in Ukraine, Ethiopia, and Syria. We have seen how conflict and crisis exacerbate gender inequality and increase women and girls’ vulnerability to gender-based violence, online and offline. Increased violence impedes women’s ability to participate meaningfully in the social, political, and economic sectors of life, causing cycles of poverty, marginalization, and insecurity.</p>
+<p>The United States is taking concrete steps to ensure our efforts to prevent and respond to conflict-related sexual violence are survivor-centered and trauma-informed. As illustrated in the U.S. National Strategy on Gender Equity and Equality, the Administration is committed to developing and strengthening comprehensive gender-based violence policies, services, and prevention efforts. Later this year, the United States will release an update to the U.S. Strategy to Prevent and Respond to Gender-Based Violence Globally, which will address conflict-related sexual violence, among other policy priorities.</p>
+<p>Additionally, through the U.S. Strategy on Women, Peace, and Security, the Department of State is working to promote the participation of women in decision-making and conflict resolution, protection of the human rights of women and girls, access to aid, and safety from violence, abuse – including conflict-related sexual violence – and exploitation around the world. We recognize that we cannot effect sustainable change on our own, so the United States works closely with multilateral partners and allies, including the United Nations Special Representative of the Secretary-General on Sexual Violence in Conflict.</p>
+<p>Elimination of conflict-related sexual violence is both a moral and strategic imperative. Empty calls for action and expressions of concern are not enough. On this International Day for the Elimination of Sexual Violence in Conflict, the international community must take real action and coordinate efforts to prevent and respond to all forms of gender-based violence so that the support we provide is survivor-centered and truly advances justice and accountability for such crimes.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>For more than a decade, the United States has joined the global community in recognizing June 19 as the International Day for the Elimination of Sexual Violence in Conflict (IDESVC). We remain deeply committed to preventing and responding to all forms of gender-based violence, including conflict-related sexual violence, which disproportionately impacts women and girls, and protecting and supporting survivors. The United States recognizes that respect for the rights and dignity of women and girls, in all their diversity is essential to promoting global peace, security, democracy, and economic prosperity.</p>
+<p>The world faces a number of pressing issues that disproportionately impact women and girls, including the ongoing COVID-19 pandemic, the climate crisis, food insecurity, and conflict and humanitarian emergencies around the world. The international community has been inundated with devastating reports of conflict-related sexual violence from across the world, including in Ukraine, Ethiopia, and Syria. We have seen how conflict and crisis exacerbate gender inequality and increase women and girls’ vulnerability to gender-based violence, online and offline. Increased violence impedes women’s ability to participate meaningfully in the social, political, and economic sectors of life, causing cycles of poverty, marginalization, and insecurity.</p>
+<p>The United States is taking concrete steps to ensure our efforts to prevent and respond to conflict-related sexual violence are survivor-centered and trauma-informed. As illustrated in the U.S. National Strategy on Gender Equity and Equality, the Administration is committed to developing and strengthening comprehensive gender-based violence policies, services, and prevention efforts. Later this year, the United States will release an update to the U.S. Strategy to Prevent and Respond to Gender-Based Violence Globally, which will address conflict-related sexual violence, among other policy priorities.</p>
+<p>Additionally, through the U.S. Strategy on Women, Peace, and Security, the Department of State is working to promote the participation of women in decision-making and conflict resolution, protection of the human rights of women and girls, access to aid, and safety from violence, abuse – including conflict-related sexual violence – and exploitation around the world. We recognize that we cannot effect sustainable change on our own, so the United States works closely with multilateral partners and allies, including the United Nations Special Representative of the Secretary-General on Sexual Violence in Conflict.</p>
+<p>Elimination of conflict-related sexual violence is both a moral and strategic imperative. Empty calls for action and expressions of concern are not enough. On this International Day for the Elimination of Sexual Violence in Conflict, the international community must take real action and coordinate efforts to prevent and respond to all forms of gender-based violence so that the support we provide is survivor-centered and truly advances justice and accountability for such crimes.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Antony J. Blinken at a Pride Reception</title>
 		<link>https://www.state.gov/secretary-antony-j-blinken-at-a-pride-reception/</link>
 		
@@ -1637,243 +1802,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>That’s why, dear Antony, I am very happy to see you once again this morning and to have this working meeting to establish once again a new landmark that will be written in the historical books.  I’ve just signed the guest book, and I said this is a very long road, but on a periodical – once in a while each actor will play their part.  And today it’s you for the United States, and myself, humbly, on behalf of Senegal, I do know that we’ll write many more beautiful pages to further deepen the cooperation between our two countries, which are friends.</p>
 <p>Thank you very much.</p>
 <p><input type="hidden" data-filter="111001000111" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>U.S.-EU Joint Press Release on the Global Methane Pledge Energy Pathway</title>
-		<link>https://www.state.gov/u-s-eu-joint-press-release-on-the-global-methane-pledge-energy-pathway/</link>
-		
-		<dc:creator><![CDATA[U.S. Department of State]]></dc:creator>
-		<pubDate>Fri, 17 Jun 2022 15:56:20 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=353270</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>The following text was released by the Governments of the United States of America and the European Union.</p>
-<p>Today, the United States, the European Union, and 11 countries launched the Global Methane Pledge Energy Pathway to catalyze methane emissions reductions in the oil and gas sector, advancing both climate progress and energy security.</p>
-<p>To limit warming to 1.5 degrees C and avoid near-term tipping points, the world must rapidly reduce methane emissions in addition to decarbonizing the global energy sector. This is why the United States, the European Union, and more than 100 countries launched the Global Methane Pledge (GMP) at COP26 to reduce anthropogenic methane emissions at least 30 percent by 2030 from 2020 levels. With the recent additions of Egypt, Kosovo, Moldova, Oman, Qatar, Saint Lucia, Trinidad and Tobago, and Uzbekistan, 120 countries have now endorsed the Pledge, representing half of global methane emissions and nearly three-quarters of the global economy.</p>
-<p>Tackling methane emissions in the oil and gas sector is critical to achieving the Global Methane Pledge target—and will also bolster global energy security by preventing the needless waste of valuable gas resources. The oil and gas sector contributes roughly one-quarter of all anthropogenic methane emissions due to flaring, venting, and leaking of methane, which is the principal component of natural gas. Globally, more than 250 bcm of natural gas was flared, vented, or leaked in 2021—exceeding the annual output of the world’s third-largest gas producer. Reducing flaring and methane emissions in the oil and gas sector is immediately cost-effective and has the triple benefit of acting on climate change, improving health outcomes, and enhancing global gas supply at existing levels of production—simply by capturing gas that would otherwise be wasted due to flaring or methane emissions.</p>
-<p>The Energy Pathway is a critical implementation step of the Global Methane Pledge that will accelerate deployment of the fastest and most cost-effective methane mitigation solutions available today. The GMP Energy Pathway aims to encourage all nations to:</p>
-<ul style="list-style-type: disc;">
-<li>Capture the maximum potential of cost-effective methane mitigation in the oil and gas sector, and</li>
-<li>Eliminate routine flaring as soon as possible, and no later than 2030.</li>
-</ul>
-<p>Participating countries commit to support these efforts by providing new technical and financial resources and/or by enhancing domestic project and policy action.</p>
-<p>According to an International Energy Agency report released this week, deploying all available abatement technologies to reduce methane emissions and flaring from the oil and gas sector can avoid nearly 0.1 degree C of warming by mid-century—the equivalent of immediately eliminating the greenhouse gas footprint of all cars, trucks, buses, and two- and three-wheelers in the world.</p>
-<p>Today, Argentina, Canada, Denmark, Egypt, Germany, Italy, Japan, Mexico, Nigeria, Norway, and Oman joined the United States and the European Union as inaugural members of the Pathway. Malaysia&#8217;s national oil company, PETRONAS, supports the Global Methane Pledge Energy Pathway and other regional and global methane management initiatives towards achieving the intent of the Global Methane Pledge. Together, the participants in the Pathway account for two-fifths of global gas production and three-fifths of global gas imports.</p>
-<p><strong>Countries and supporting organizations announced nearly $60 million in dedicated funding to support implementation of the Pathway.</strong></p>
-<p>Countries and supporting organizations have announced $59 million in dedicated funding and in-kind assistance in support of the GMP Energy Pathway that was announced at today’s MEF, including:</p>
-<ul style="list-style-type: disc;">
-<li><strong>$4 million</strong> to support the <strong>World Bank Global Gas Flaring Reduction Partnership (GGFR)</strong>. The United States intends to support the transfer by the World Bank of at least $1.5 million in funding to the GGFR. <strong>Germany</strong> intends to provide $1.5 million, and <strong>Norway</strong> intends to provide approximately $1 million to GGFR.</li>
-<li><strong>$5.5 million</strong> to support the <strong>Global Methane Initiative (GMI)</strong>. The <strong>United States</strong> will provide $3.5 million. Guided by the recommendations of the GMI, <strong>Canada</strong> will contribute $2 million over the next four years, as part of its global climate finance commitment, to support methane mitigation projects in developing countries including in the oil and gas sector.</li>
-<li>Up to <strong>$9.5 million</strong> from the UNEP <strong>International Methane Emissions Observatory</strong> to support scientific assessments of methane emissions and mitigation potential in the oil and gas sector that are aligned with the Global Methane Pledge Energy Pathway.</li>
-<li>Up to <strong>$40 million</strong> annually from the philanthropic <strong>Global Methane Hub</strong> to support methane mitigation in the fossil energy sector.</li>
-</ul>
-<p>These funds will be critical to improve methane measurements in the oil and gas sector, identify priority areas for methane mitigation, develop technical assessments for project development, strengthen regulator and operator capacity, support policy development and enforcement, and other essential activities to achieve reductions in methane emissions.</p>
-<p>In addition, the <strong>UNEP International Methane Emissions Observatory</strong> will work with partners to launch the first phase of an alert and response system for satellite-detected methane emissions by COP27. The EU has so far committed 17 million EUR to support the work of the UNEP International Methane Emissions Observatory and has envisaged further funding in the coming months.</p>
-<p>The <strong>Climate and Clean Air Coalition</strong> will also support the goals of the Pathway through its Hub on Fossil Energy to reduce methane and other short-lived climate pollutant mitigation in this sector.</p>
-<p><strong>Global gas producers announced significant new commitments to develop projects and strengthen policies to cut methane emissions and ensure clean, secure gas supply.</strong></p>
-<p>Domestically, the <strong>United States</strong> is continuing its progress on reducing oil and gas methane emissions across the value chain, supporting American gas companies in cutting emissions and saving consumer costs. Building upon the new source performance standards and emissions guidelines proposed in November 2021, the <strong>Environmental Protection Agency</strong> will issue a supplemental proposed rule for public comment in 2022 to reduce methane and other air emissions from new and existing oil and gas facilities. The <strong>Department of Interior</strong> will be proposing new regulations to reduce the wasteful flaring and venting of gas produced on public lands. The <strong>Department of Transportation</strong> is putting in place a comprehensive set of safety-related regulations that will reduce or eliminate methane emissions from gas pipeline systems that stretch from production-related gathering lines, through trunk line transmission pipelines, and into local distribution pipelines. In addition, new funding provided under the Bipartisan Infrastructure Law is enabling the Department of Transportation to spend $1 billion on replacing unsafe and leaking gas distribution pipelines.</p>
-<p>The <strong>United States</strong> also intends to take the steps necessary to rejoin the World Bank Global Gas Flaring Reduction Partnership.</p>
-<p><strong>Mexico</strong> and <strong>PEMEX</strong> will advance, with an investment of close to $2 billion of its own resources and international credits at special rates, a comprehensive assessment and implementation of projects and actions translating into a reduction of between 86 percent and 100 percent of methane gas emissions in gas exploration, production and processing processes by 2024. Mexico joins the United States and the rest of the countries adhering to the proposals for energy implementation of the Global Methane Pledge Energy Pathway to eradicate flaring and methane emissions in the oil and gas sector.</p>
-<p><strong>Argentina</strong> committed to present its National Climate Action Plan 2030 at COP27 including specific measures that will lead to the limitation of methane emissions from the oil and gas sector, the reinforced control of flaring and venting, and an increase of the share of renewable energy in its electricity generation mix.</p>
-<p><strong>Nigeria</strong> announced its intention to publish methane regulations in the oil and gas sector by COP27.</p>
-<p><strong>Canada</strong> is developing a national methane strategy, which will build on commitments to reduce oil and gas methane by at least 75 percent below 2012 levels by 2030. Canada is also proud to be one of the founding partners and a top donor to the Climate and Clean Air Coalition, recently contributing an additional $10 million over 5 years to support the Coalition as it enters its next phase. In addition, Canada has also invested $20 million in GHGSat which uses high-tech satellites to detect and quantify methane emissions from point sources as small as individual oil and gas wells.</p>
-<p><strong>PETRONAS</strong>, Malaysia’s national oil company, reaffirmed its endorsement of the World Bank’s Zero Routine Flaring by 2030 Initiative and pledges to avoid routine flaring in new oil field developments and end routine flaring at existing oil production sites by 2030. It continues to assess opportunities to help strengthen policies and regulations for flaring and oil and gas methane reductions, and to cooperate with global partners on best practices for measurement, reporting, and verification of oil and gas methane emissions.</p>
-<p><strong>Egypt</strong> joined the Global Methane Pledge with regards to the oil and gas sector, under the Energy Pathway, which will provide resources and support for flare capture, methane reductions, and clean energy expansion in Egypt.</p>
-<p><strong>Egypt, Israel, and the EU</strong> have concluded a trilateral agreement on June 15 on natural gas, in which they declare their intention to promote the reduction of methane leakages, and in particular, examine new technologies for reducing venting and flaring and explore possibilities for the utilization of captured methane throughout the entire supply chain.</p>
-<p><strong>Major consumers of natural gas announced efforts to reduce the methane emissions associated with gas production and consumption.</strong></p>
-<p>The <strong>EU</strong> and the <strong>Government of Japan</strong> will endeavor to reduce the methane emissions from the entire value chain of oil and gas production and consumption, including by promoting appropriate international monitoring, reporting, and verification standards; by providing technical assistance and investment for methane emissions reduction along the fossil fuel value chain; and by supporting lower-GHG emissions oil and gas production and consumption.</p>
-<p>The <strong>EU</strong> is committed to implementing the UN Oil and Gas Methane Partnership in domestic law.</p>
-<p>The <strong>United States</strong> and <strong>EU</strong> reaffirmed their commitment to cooperate on a common tool for life cycle analysis of methane emissions for hydrocarbon suppliers through the U.S.-EU Energy Council that will advance global efforts to move toward improved consistency and accuracy of the measurement, reporting, and verification of greenhouse gas emissions from the production of hydrocarbons and support improved reporting on methane in national greenhouse gas inventories.</p>
-<p><strong>Germany</strong> also announced its participation in the World Bank Global Gas Flaring Reduction Partnership.</p>
-<p><strong>Methane mitigation in the oil and gas sector is a necessary complement to renewable energy expansion in advancing global climate progress and supporting energy security.</strong></p>
-<p>In addition to reducing the greenhouse gas emissions across the fossil fuel supply chain, the world must also accelerate renewables deployment and energy efficiency to reduce reliance on volatile fossil fuels. The clean energy transition is the ultimate energy security solution by reducing dependence on volatile fossil fuels.</p>
-<p>Energy efficiency and energy saving has a vital role in addressing today’s climate change crisis and spike in energy prices, while strengthening energy security by decreasing price and demand pressures on global energy markets. The International Energy Agency estimates that improvements in efficiency, accelerated deployment of renewables, and other clean energy solutions can free up 350 bcm of natural gas by 2025—exceeding the annual gas consumption of all of Africa and Central and South America.</p>
-<p>Rapid renewables deployment can also help alleviate global gas supply shortages by offsetting gas consumption in sectors where alternatives are easily available. Specifically, in gas-producing countries, renewables expansion can reduce domestic gas consumption and free up gas for export at today’s high market prices.</p>
-<p>For further information, contact <a href="mailto:ClimateComms@state.gov">ClimateComms@state.gov</a>.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>The following text was released by the Governments of the United States of America and the European Union.</p>
-<p>Today, the United States, the European Union, and 11 countries launched the Global Methane Pledge Energy Pathway to catalyze methane emissions reductions in the oil and gas sector, advancing both climate progress and energy security.</p>
-<p>To limit warming to 1.5 degrees C and avoid near-term tipping points, the world must rapidly reduce methane emissions in addition to decarbonizing the global energy sector. This is why the United States, the European Union, and more than 100 countries launched the Global Methane Pledge (GMP) at COP26 to reduce anthropogenic methane emissions at least 30 percent by 2030 from 2020 levels. With the recent additions of Egypt, Kosovo, Moldova, Oman, Qatar, Saint Lucia, Trinidad and Tobago, and Uzbekistan, 120 countries have now endorsed the Pledge, representing half of global methane emissions and nearly three-quarters of the global economy.</p>
-<p>Tackling methane emissions in the oil and gas sector is critical to achieving the Global Methane Pledge target—and will also bolster global energy security by preventing the needless waste of valuable gas resources. The oil and gas sector contributes roughly one-quarter of all anthropogenic methane emissions due to flaring, venting, and leaking of methane, which is the principal component of natural gas. Globally, more than 250 bcm of natural gas was flared, vented, or leaked in 2021—exceeding the annual output of the world’s third-largest gas producer. Reducing flaring and methane emissions in the oil and gas sector is immediately cost-effective and has the triple benefit of acting on climate change, improving health outcomes, and enhancing global gas supply at existing levels of production—simply by capturing gas that would otherwise be wasted due to flaring or methane emissions.</p>
-<p>The Energy Pathway is a critical implementation step of the Global Methane Pledge that will accelerate deployment of the fastest and most cost-effective methane mitigation solutions available today. The GMP Energy Pathway aims to encourage all nations to:</p>
-<ul style="list-style-type: disc;">
-<li>Capture the maximum potential of cost-effective methane mitigation in the oil and gas sector, and</li>
-<li>Eliminate routine flaring as soon as possible, and no later than 2030.</li>
-</ul>
-<p>Participating countries commit to support these efforts by providing new technical and financial resources and/or by enhancing domestic project and policy action.</p>
-<p>According to an International Energy Agency report released this week, deploying all available abatement technologies to reduce methane emissions and flaring from the oil and gas sector can avoid nearly 0.1 degree C of warming by mid-century—the equivalent of immediately eliminating the greenhouse gas footprint of all cars, trucks, buses, and two- and three-wheelers in the world.</p>
-<p>Today, Argentina, Canada, Denmark, Egypt, Germany, Italy, Japan, Mexico, Nigeria, Norway, and Oman joined the United States and the European Union as inaugural members of the Pathway. Malaysia&#8217;s national oil company, PETRONAS, supports the Global Methane Pledge Energy Pathway and other regional and global methane management initiatives towards achieving the intent of the Global Methane Pledge. Together, the participants in the Pathway account for two-fifths of global gas production and three-fifths of global gas imports.</p>
-<p><strong>Countries and supporting organizations announced nearly $60 million in dedicated funding to support implementation of the Pathway.</strong></p>
-<p>Countries and supporting organizations have announced $59 million in dedicated funding and in-kind assistance in support of the GMP Energy Pathway that was announced at today’s MEF, including:</p>
-<ul style="list-style-type: disc;">
-<li><strong>$4 million</strong> to support the <strong>World Bank Global Gas Flaring Reduction Partnership (GGFR)</strong>. The United States intends to support the transfer by the World Bank of at least $1.5 million in funding to the GGFR. <strong>Germany</strong> intends to provide $1.5 million, and <strong>Norway</strong> intends to provide approximately $1 million to GGFR.</li>
-<li><strong>$5.5 million</strong> to support the <strong>Global Methane Initiative (GMI)</strong>. The <strong>United States</strong> will provide $3.5 million. Guided by the recommendations of the GMI, <strong>Canada</strong> will contribute $2 million over the next four years, as part of its global climate finance commitment, to support methane mitigation projects in developing countries including in the oil and gas sector.</li>
-<li>Up to <strong>$9.5 million</strong> from the UNEP <strong>International Methane Emissions Observatory</strong> to support scientific assessments of methane emissions and mitigation potential in the oil and gas sector that are aligned with the Global Methane Pledge Energy Pathway.</li>
-<li>Up to <strong>$40 million</strong> annually from the philanthropic <strong>Global Methane Hub</strong> to support methane mitigation in the fossil energy sector.</li>
-</ul>
-<p>These funds will be critical to improve methane measurements in the oil and gas sector, identify priority areas for methane mitigation, develop technical assessments for project development, strengthen regulator and operator capacity, support policy development and enforcement, and other essential activities to achieve reductions in methane emissions.</p>
-<p>In addition, the <strong>UNEP International Methane Emissions Observatory</strong> will work with partners to launch the first phase of an alert and response system for satellite-detected methane emissions by COP27. The EU has so far committed 17 million EUR to support the work of the UNEP International Methane Emissions Observatory and has envisaged further funding in the coming months.</p>
-<p>The <strong>Climate and Clean Air Coalition</strong> will also support the goals of the Pathway through its Hub on Fossil Energy to reduce methane and other short-lived climate pollutant mitigation in this sector.</p>
-<p><strong>Global gas producers announced significant new commitments to develop projects and strengthen policies to cut methane emissions and ensure clean, secure gas supply.</strong></p>
-<p>Domestically, the <strong>United States</strong> is continuing its progress on reducing oil and gas methane emissions across the value chain, supporting American gas companies in cutting emissions and saving consumer costs. Building upon the new source performance standards and emissions guidelines proposed in November 2021, the <strong>Environmental Protection Agency</strong> will issue a supplemental proposed rule for public comment in 2022 to reduce methane and other air emissions from new and existing oil and gas facilities. The <strong>Department of Interior</strong> will be proposing new regulations to reduce the wasteful flaring and venting of gas produced on public lands. The <strong>Department of Transportation</strong> is putting in place a comprehensive set of safety-related regulations that will reduce or eliminate methane emissions from gas pipeline systems that stretch from production-related gathering lines, through trunk line transmission pipelines, and into local distribution pipelines. In addition, new funding provided under the Bipartisan Infrastructure Law is enabling the Department of Transportation to spend $1 billion on replacing unsafe and leaking gas distribution pipelines.</p>
-<p>The <strong>United States</strong> also intends to take the steps necessary to rejoin the World Bank Global Gas Flaring Reduction Partnership.</p>
-<p><strong>Mexico</strong> and <strong>PEMEX</strong> will advance, with an investment of close to $2 billion of its own resources and international credits at special rates, a comprehensive assessment and implementation of projects and actions translating into a reduction of between 86 percent and 100 percent of methane gas emissions in gas exploration, production and processing processes by 2024. Mexico joins the United States and the rest of the countries adhering to the proposals for energy implementation of the Global Methane Pledge Energy Pathway to eradicate flaring and methane emissions in the oil and gas sector.</p>
-<p><strong>Argentina</strong> committed to present its National Climate Action Plan 2030 at COP27 including specific measures that will lead to the limitation of methane emissions from the oil and gas sector, the reinforced control of flaring and venting, and an increase of the share of renewable energy in its electricity generation mix.</p>
-<p><strong>Nigeria</strong> announced its intention to publish methane regulations in the oil and gas sector by COP27.</p>
-<p><strong>Canada</strong> is developing a national methane strategy, which will build on commitments to reduce oil and gas methane by at least 75 percent below 2012 levels by 2030. Canada is also proud to be one of the founding partners and a top donor to the Climate and Clean Air Coalition, recently contributing an additional $10 million over 5 years to support the Coalition as it enters its next phase. In addition, Canada has also invested $20 million in GHGSat which uses high-tech satellites to detect and quantify methane emissions from point sources as small as individual oil and gas wells.</p>
-<p><strong>PETRONAS</strong>, Malaysia’s national oil company, reaffirmed its endorsement of the World Bank’s Zero Routine Flaring by 2030 Initiative and pledges to avoid routine flaring in new oil field developments and end routine flaring at existing oil production sites by 2030. It continues to assess opportunities to help strengthen policies and regulations for flaring and oil and gas methane reductions, and to cooperate with global partners on best practices for measurement, reporting, and verification of oil and gas methane emissions.</p>
-<p><strong>Egypt</strong> joined the Global Methane Pledge with regards to the oil and gas sector, under the Energy Pathway, which will provide resources and support for flare capture, methane reductions, and clean energy expansion in Egypt.</p>
-<p><strong>Egypt, Israel, and the EU</strong> have concluded a trilateral agreement on June 15 on natural gas, in which they declare their intention to promote the reduction of methane leakages, and in particular, examine new technologies for reducing venting and flaring and explore possibilities for the utilization of captured methane throughout the entire supply chain.</p>
-<p><strong>Major consumers of natural gas announced efforts to reduce the methane emissions associated with gas production and consumption.</strong></p>
-<p>The <strong>EU</strong> and the <strong>Government of Japan</strong> will endeavor to reduce the methane emissions from the entire value chain of oil and gas production and consumption, including by promoting appropriate international monitoring, reporting, and verification standards; by providing technical assistance and investment for methane emissions reduction along the fossil fuel value chain; and by supporting lower-GHG emissions oil and gas production and consumption.</p>
-<p>The <strong>EU</strong> is committed to implementing the UN Oil and Gas Methane Partnership in domestic law.</p>
-<p>The <strong>United States</strong> and <strong>EU</strong> reaffirmed their commitment to cooperate on a common tool for life cycle analysis of methane emissions for hydrocarbon suppliers through the U.S.-EU Energy Council that will advance global efforts to move toward improved consistency and accuracy of the measurement, reporting, and verification of greenhouse gas emissions from the production of hydrocarbons and support improved reporting on methane in national greenhouse gas inventories.</p>
-<p><strong>Germany</strong> also announced its participation in the World Bank Global Gas Flaring Reduction Partnership.</p>
-<p><strong>Methane mitigation in the oil and gas sector is a necessary complement to renewable energy expansion in advancing global climate progress and supporting energy security.</strong></p>
-<p>In addition to reducing the greenhouse gas emissions across the fossil fuel supply chain, the world must also accelerate renewables deployment and energy efficiency to reduce reliance on volatile fossil fuels. The clean energy transition is the ultimate energy security solution by reducing dependence on volatile fossil fuels.</p>
-<p>Energy efficiency and energy saving has a vital role in addressing today’s climate change crisis and spike in energy prices, while strengthening energy security by decreasing price and demand pressures on global energy markets. The International Energy Agency estimates that improvements in efficiency, accelerated deployment of renewables, and other clean energy solutions can free up 350 bcm of natural gas by 2025—exceeding the annual gas consumption of all of Africa and Central and South America.</p>
-<p>Rapid renewables deployment can also help alleviate global gas supply shortages by offsetting gas consumption in sectors where alternatives are easily available. Specifically, in gas-producing countries, renewables expansion can reduce domestic gas consumption and free up gas for export at today’s high market prices.</p>
-<p>For further information, contact <a href="mailto:ClimateComms@state.gov">ClimateComms@state.gov</a>.</p>
 ]]></content:encoded>
 					
 		
