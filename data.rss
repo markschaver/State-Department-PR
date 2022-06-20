@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Sun, 19 Jun 2022 19:47:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Jun 2022 12:16:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Commemorating World Refugee Day 2022</title>
+		<link>https://www.state.gov/commemorating-world-refugee-day-2022/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Mon, 20 Jun 2022 12:16:39 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=353522</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>This World Refugee Day, we acknowledge the unprecedented humanitarian crises across the globe, resulting in the largest number of refugees in history.  Last month, we reached the tragic milestone of more than 100 million people forcibly displaced worldwide.  Through humanitarian assistance, diplomacy, and refugee resettlement, the United States leads the way in helping the courageous and resilient people who are forced to flee persecution to find safety and rebuild their lives.</p>
+<p>The UN Refugee Agency’s theme for World Refugee Day this year is, “Whoever.  Wherever. Whenever.  Everyone has the right to safety.”  We value and honor refugees’ strength and perseverance.  Our commitment to the world’s vulnerable is unwavering.  The United States is the world’s largest single donor of humanitarian assistance, providing more than $13 billion in humanitarian aid to those in need during Fiscal Year 2021. The needs are significant, however, and we call on the donor community to increase contributions to support the needs of refugees and other vulnerable populations around the globe.  We will continue to represent the best of American values by saving lives and alleviating suffering, working with our partners at home and abroad to assist the forcibly displaced in their time of need – no matter who or where they are, on World Refugee Day and every day.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>This World Refugee Day, we acknowledge the unprecedented humanitarian crises across the globe, resulting in the largest number of refugees in history.  Last month, we reached the tragic milestone of more than 100 million people forcibly displaced worldwide.  Through humanitarian assistance, diplomacy, and refugee resettlement, the United States leads the way in helping the courageous and resilient people who are forced to flee persecution to find safety and rebuild their lives.</p>
+<p>The UN Refugee Agency’s theme for World Refugee Day this year is, “Whoever.  Wherever. Whenever.  Everyone has the right to safety.”  We value and honor refugees’ strength and perseverance.  Our commitment to the world’s vulnerable is unwavering.  The United States is the world’s largest single donor of humanitarian assistance, providing more than $13 billion in humanitarian aid to those in need during Fiscal Year 2021. The needs are significant, however, and we call on the donor community to increase contributions to support the needs of refugees and other vulnerable populations around the globe.  We will continue to represent the best of American values by saving lives and alleviating suffering, working with our partners at home and abroad to assist the forcibly displaced in their time of need – no matter who or where they are, on World Refugee Day and every day.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Advancing Peace and Eliminating Sexual Violence in Conflict</title>
 		<link>https://www.state.gov/advancing-peace-and-eliminating-sexual-violence-in-conflict/</link>
 		
@@ -1615,193 +1774,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Leadership of the Defense Threat Reduction Agency, senior officials at the Departments of Defense, and Commerce, and the National Security Council also met with Director Arias during his two-day visit.  They discussed the future of the Organization in anticipation of the completion of the U.S. chemical weapons stockpile destruction in 2023, how to counter disinformation about chemical weapons, as well as the timeline for the opening of the new OPCW ChemTech Centre whose expanded laboratory and training capabilities will help the OPCW adapt to rapid changes in the chemical weapons science and technology landscape.</p>
 <p>For more information on the Bureau of Arms Control, Verification and Compliance, please visit <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA2MTcuNTk1NjUwNTEiLCJ1cmwiOiJodHRwOi8vd3d3LnN0YXRlLmdvdi90L2F2YyJ9.wMl8H_YWcJ49P5P83fCjnlV9GB3NayahPCvv7qL8Pxg/s/1436012980/br/133260726092-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA2MTcuNTk1NjUwNTEiLCJ1cmwiOiJodHRwOi8vd3d3LnN0YXRlLmdvdi90L2F2YyJ9.wMl8H_YWcJ49P5P83fCjnlV9GB3NayahPCvv7qL8Pxg%2Fs%2F1436012980%2Fbr%2F133260726092-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Ca8756ac167f940b37a0608da508be04c%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637910858946143103%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=mauDne40mzJDpZBLhyBFetrA3h0xJWG4D1v9muQFzIY%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">www.state.gov/t/avc</a>.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken and Senegalese Foreign Minister Aïssata Tall Sall Before Their Meeting</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-and-senegalese-foreign-minister-aissata-tall-sall-before-their-meeting-2/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 17 Jun 2022 17:40:27 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=353291</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, DC</p>
-<p>Thomas Jefferson Room</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Well, good morning, everyone.  It’s a pleasure to be able to receive my colleague and my friend, the foreign minister of Senegal.  Welcome, Aïssata, to the State Department.  I had a wonderful visit where we spent a lot of time together in Senegal.  We’ve had many conversations since then.</p>
-<p>And our two countries are strong partners on so many issues based on many shared values.  I’m looking forward to continuing the discussions that we started in Dakar last November and things that we’ve been working on since, including at the United Nations.  I think we’ll talk about the ways that we can address the growing food security crisis that has been exacerbated by Russia’s war of aggression against Ukraine.  This is a very important topic for both of us and for many countries around the world, and we’ve been working concretely on how to address it both in the near term and the longer term.</p>
-<p>Senegal, of course, has been a leader on trying to end the acute phase of COVID-19 and more broadly on global health security.  We’ll be talking about that.  And of course, we’re partners on security cooperation, on economic prosperity, on dealing with climate change and on resolving regional issues.</p>
-<p>So there is, as always, a broad agenda, but I’m just particularly pleased to be able to reciprocate for the incredibly warm hospitality but also the incredibly productive visit that I had with you and with President Macky Sall.</p>
-<p>Aïssata, welcome.  Over to you.</p>
-<p><strong>FOREIGN MINISTER TALL SALL:</strong>  Thanks you so much, Secretary of State.</p>
-<p>(Via interpreter)  Ladies and gentlemen, I would like to tell you how delighted I am, me and my delegation, to have this working visit at the State Department, invited by the Secretary of State Mr. Blinken, who, as you reminded us, in last November you were in Dakar in order to strengthen further this wonderful relationship of cooperation between the United States and Senegal.</p>
-<p>Our cooperation is a historical cooperation.  It is based on political values, human values, moral values which are our own and which are shared – democratic values, values of respect for human rights, fundamental values – freedom, freedom of thought, freedom of acting, freedom to assemble, to choose our political orientation and choose one’s religion, which we respect in Senegal just as is respected wonderfully in the United States.</p>
-<p>This already is what’s at the basis of the construction of this relationship which is ours.  And I was telling the Secretary of State Mr. Blinken last November in Dakar that all secretaries of state of the United States made a visit to Dakar, but his own visit was historical because it was in a double context.  The first context is that we had not overcome the pandemic, and he decided in spite of these constraints to come visit to Senegal.  This is something that the President Macky Sall, the Government of Senegal, were very much appreciated by the government.</p>
-<p>And the second context is that Senegal was the only French-speaking country to benefit from this very first secretary – visit of the Secretary of State Mr. Blinken in Africa.  To us this was a very strong message, a message of friendship but also a message which indicates that we need to work side by side to meet all the challenges that are shaking the world.  You – he said it.  There’s this crisis in Ukraine.  We’ll talk about it once again.  How can we cooperate further?</p>
-<p>Senegal very much appreciated the United States’ support in the fight against COVID-19 as part of COVAX, but also all of the initiatives carried out currently by President Biden to position the world towards democracy and the fight against COVID-19.</p>
-<p>And at these very summits – the Summit for Democracy online, everywhere – Senegal was there.  Senegal benefitted at all times of this cooperation and of all of the economic initiatives launched by the United States on behalf of the entire world.  USAID is in our country for a very long time, but before that the Peace Corps was already there in 1963, and after that AGOA, and after that MCC, and after that, now today, DPW and then DFC, and after that, and so on and so on.  So this is the status of our cooperation at the economic level, alongside our political commitments, alongside the Government of the United States, because we do share the same values that I just mentioned.</p>
-<p>That’s why, dear Antony, I am very happy to see you once again this morning and to have this working meeting to establish once again a new landmark that will be written in the historical books.  I’ve just signed the guest book, and I said this is a very long road, but on a periodical – once in a while each actor will play their part.  And today it’s you for the United States, and myself, humbly, on behalf of Senegal, I do know that we’ll write many more beautiful pages to further deepen the cooperation between our two countries, which are friends.</p>
-<p>Thank you very much.</p>
-<p><input type="hidden" data-filter="111001000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, DC</p>
-<p>Thomas Jefferson Room</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Well, good morning, everyone.  It’s a pleasure to be able to receive my colleague and my friend, the foreign minister of Senegal.  Welcome, Aïssata, to the State Department.  I had a wonderful visit where we spent a lot of time together in Senegal.  We’ve had many conversations since then.</p>
-<p>And our two countries are strong partners on so many issues based on many shared values.  I’m looking forward to continuing the discussions that we started in Dakar last November and things that we’ve been working on since, including at the United Nations.  I think we’ll talk about the ways that we can address the growing food security crisis that has been exacerbated by Russia’s war of aggression against Ukraine.  This is a very important topic for both of us and for many countries around the world, and we’ve been working concretely on how to address it both in the near term and the longer term.</p>
-<p>Senegal, of course, has been a leader on trying to end the acute phase of COVID-19 and more broadly on global health security.  We’ll be talking about that.  And of course, we’re partners on security cooperation, on economic prosperity, on dealing with climate change and on resolving regional issues.</p>
-<p>So there is, as always, a broad agenda, but I’m just particularly pleased to be able to reciprocate for the incredibly warm hospitality but also the incredibly productive visit that I had with you and with President Macky Sall.</p>
-<p>Aïssata, welcome.  Over to you.</p>
-<p><strong>FOREIGN MINISTER TALL SALL:</strong>  Thanks you so much, Secretary of State.</p>
-<p>(Via interpreter)  Ladies and gentlemen, I would like to tell you how delighted I am, me and my delegation, to have this working visit at the State Department, invited by the Secretary of State Mr. Blinken, who, as you reminded us, in last November you were in Dakar in order to strengthen further this wonderful relationship of cooperation between the United States and Senegal.</p>
-<p>Our cooperation is a historical cooperation.  It is based on political values, human values, moral values which are our own and which are shared – democratic values, values of respect for human rights, fundamental values – freedom, freedom of thought, freedom of acting, freedom to assemble, to choose our political orientation and choose one’s religion, which we respect in Senegal just as is respected wonderfully in the United States.</p>
-<p>This already is what’s at the basis of the construction of this relationship which is ours.  And I was telling the Secretary of State Mr. Blinken last November in Dakar that all secretaries of state of the United States made a visit to Dakar, but his own visit was historical because it was in a double context.  The first context is that we had not overcome the pandemic, and he decided in spite of these constraints to come visit to Senegal.  This is something that the President Macky Sall, the Government of Senegal, were very much appreciated by the government.</p>
-<p>And the second context is that Senegal was the only French-speaking country to benefit from this very first secretary – visit of the Secretary of State Mr. Blinken in Africa.  To us this was a very strong message, a message of friendship but also a message which indicates that we need to work side by side to meet all the challenges that are shaking the world.  You – he said it.  There’s this crisis in Ukraine.  We’ll talk about it once again.  How can we cooperate further?</p>
-<p>Senegal very much appreciated the United States’ support in the fight against COVID-19 as part of COVAX, but also all of the initiatives carried out currently by President Biden to position the world towards democracy and the fight against COVID-19.</p>
-<p>And at these very summits – the Summit for Democracy online, everywhere – Senegal was there.  Senegal benefitted at all times of this cooperation and of all of the economic initiatives launched by the United States on behalf of the entire world.  USAID is in our country for a very long time, but before that the Peace Corps was already there in 1963, and after that AGOA, and after that MCC, and after that, now today, DPW and then DFC, and after that, and so on and so on.  So this is the status of our cooperation at the economic level, alongside our political commitments, alongside the Government of the United States, because we do share the same values that I just mentioned.</p>
-<p>That’s why, dear Antony, I am very happy to see you once again this morning and to have this working meeting to establish once again a new landmark that will be written in the historical books.  I’ve just signed the guest book, and I said this is a very long road, but on a periodical – once in a while each actor will play their part.  And today it’s you for the United States, and myself, humbly, on behalf of Senegal, I do know that we’ll write many more beautiful pages to further deepen the cooperation between our two countries, which are friends.</p>
-<p>Thank you very much.</p>
-<p><input type="hidden" data-filter="111001000111" /></p>
 ]]></content:encoded>
 					
 		
