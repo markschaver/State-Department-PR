@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Tue, 21 Jun 2022 18:10:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Jun 2022 20:29:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,163 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Blinken’s Call with Israeli Foreign Minister and Alternate Prime Minister Lapid</title>
+		<link>https://www.state.gov/secretary-blinkens-call-with-israeli-foreign-minister-and-alternate-prime-minister-lapid-6/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Tue, 21 Jun 2022 20:29:15 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=353846</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Israeli Foreign Minister and Alternate Prime Minister Yair Lapid regarding the dissolution of the Knesset. Secretary Blinken underscored our respect for democratic processes and reiterated our unwavering commitment to the strong U.S.-Israel strategic relationship. The Secretary emphasized our continuing close coordination on regional and global issues and noted President Biden looks forward to his visit to Israel next month.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Israeli Foreign Minister and Alternate Prime Minister Yair Lapid regarding the dissolution of the Knesset. Secretary Blinken underscored our respect for democratic processes and reiterated our unwavering commitment to the strong U.S.-Israel strategic relationship. The Secretary emphasized our continuing close coordination on regional and global issues and noted President Biden looks forward to his visit to Israel next month.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Briefing on the United States&#8217; Updated Anti-Personnel Landmine Policy</title>
 		<link>https://www.state.gov/briefing-on-the-united-states-updated-anti-personnel-landmine-policy/</link>
 		
@@ -1685,171 +1842,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <ul>
 <li><a class="external-link__pdf" href="https://content.govdelivery.com/attachments/USSTATEBPA/2022/06/17/file_attachments/2188490/Foreign%20Affairs%20Policy%20Board%20Biographies.pdf" target="_BLANK" rel="noopener"><span class="external-link-title">Foreign Affairs Policy Board Biographies</span><span class="filesize icon-pdf"> </span></a></li>
 </ul>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Holding the Nicaraguan Regime Accountable</title>
-		<link>https://www.state.gov/holding-the-nicaraguan-regime-accountable/</link>
-		
-		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
-		<pubDate>Fri, 17 Jun 2022 21:13:28 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=353331</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Ned Price, Department Spokesperson</p>
-<p>The Ortega-Murillo regime for years has chipped away at Nicaragua’s democratic institutions and, along with a small circle of enablers, has allowed corruption and impunity to reign. Nicaragua is increasingly deepening its relationship with Russia as it turns its back on the Nicaraguan people.</p>
-<p>Today, the United States took additional actions to promote accountability for the Ortega-Murillo regime’s attacks on civil liberties and democracy.  The Department of the Treasury’s Office of Foreign Assets Control imposed sanctions on Nicaraguan state-owned mining company ENIMINAS and the president of its board of directors, Ruy Delgado Lopez.  The Nicaraguan National Assembly’s 2017 creation of ENIMINAS increased the government’s involvement in the mining sector, notably gold mining.  The Ortega-Murillo regime promotes the gold mining industry, driving profits to its allies in the private sector and increasing ENIMINAS revenues that are managed by senior figures in the ruling party. As the Ortega-Murillo regime continues to isolate itself by repressing Nicaragua’s democracy and Nicaraguans’ human rights, it finds itself moving closer to other authoritarian nations like Russia.</p>
-<p>On November 7, 2021, following months of repression and the imprisonment of more than 40 democratic leaders, including seven potential presidential candidates, opposition members, journalists, students and members of civil society, the Ortega-Murillo regime stole an election that denied Nicaraguans their ability to choose their own government.  By declaring victory after the fraudulent election, the regime entrenched itself in power and established a dynastic dictatorship similar to the Somoza regime, which the Sandinistas overthrew more than 40 years ago.  In the months that have followed, the Ortega-Murillo regime has closed over 500 non-governmental organizations and universities and refused to release the more than 180 political prisoners who remain unjustly detained.</p>
-<p>With these new sanctions, the United States adds its voice to the international condemnation of the Ortega-Murillo regime’s malign behavior.  The United States joins the regional calls for a return to democracy in Nicaragua and will continue to use the diplomatic and economic tools available to us to promote accountability for the Ortega-Murillo regime.  We call again for the immediate and unconditional release of political prisoners.</p>
-<p>For more information on today’s action, <a class="external-link" href="https://home.treasury.gov/news/press-releases/jy0822" target="_BLANK" rel="noopener"><span class="external-link-title">see the Treasury release</span><span class="icon-external"> </span></a>.</p>
-<p><input type="hidden" data-filter="111010000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
-<p>The Ortega-Murillo regime for years has chipped away at Nicaragua’s democratic institutions and, along with a small circle of enablers, has allowed corruption and impunity to reign. Nicaragua is increasingly deepening its relationship with Russia as it turns its back on the Nicaraguan people.</p>
-<p>Today, the United States took additional actions to promote accountability for the Ortega-Murillo regime’s attacks on civil liberties and democracy.  The Department of the Treasury’s Office of Foreign Assets Control imposed sanctions on Nicaraguan state-owned mining company ENIMINAS and the president of its board of directors, Ruy Delgado Lopez.  The Nicaraguan National Assembly’s 2017 creation of ENIMINAS increased the government’s involvement in the mining sector, notably gold mining.  The Ortega-Murillo regime promotes the gold mining industry, driving profits to its allies in the private sector and increasing ENIMINAS revenues that are managed by senior figures in the ruling party. As the Ortega-Murillo regime continues to isolate itself by repressing Nicaragua’s democracy and Nicaraguans’ human rights, it finds itself moving closer to other authoritarian nations like Russia.</p>
-<p>On November 7, 2021, following months of repression and the imprisonment of more than 40 democratic leaders, including seven potential presidential candidates, opposition members, journalists, students and members of civil society, the Ortega-Murillo regime stole an election that denied Nicaraguans their ability to choose their own government.  By declaring victory after the fraudulent election, the regime entrenched itself in power and established a dynastic dictatorship similar to the Somoza regime, which the Sandinistas overthrew more than 40 years ago.  In the months that have followed, the Ortega-Murillo regime has closed over 500 non-governmental organizations and universities and refused to release the more than 180 political prisoners who remain unjustly detained.</p>
-<p>With these new sanctions, the United States adds its voice to the international condemnation of the Ortega-Murillo regime’s malign behavior.  The United States joins the regional calls for a return to democracy in Nicaragua and will continue to use the diplomatic and economic tools available to us to promote accountability for the Ortega-Murillo regime.  We call again for the immediate and unconditional release of political prisoners.</p>
-<p>For more information on today’s action, <a class="external-link" href="https://home.treasury.gov/news/press-releases/jy0822" target="_BLANK" rel="noopener"><span class="external-link-title">see the Treasury release</span><span class="icon-external"> </span></a>.</p>
-<p><input type="hidden" data-filter="111010000100" /></p>
 ]]></content:encoded>
 					
 		
