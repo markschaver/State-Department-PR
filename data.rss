@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Tue, 21 Jun 2022 20:29:16 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Jun 2022 22:59:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,163 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Blinken’s Call with Israeli Prime Minister Bennett</title>
+		<link>https://www.state.gov/secretary-blinkens-call-with-israeli-prime-minister-bennett-2/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Tue, 21 Jun 2022 22:59:31 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=353878</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The following is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Israeli Prime Minister Naftali Bennett regarding the dissolution of the Knesset.  Secretary Blinken underscored our respect for democratic processes and reiterated our unwavering commitment to the strong U.S.-Israel strategic relationship, and our mutual concerns about Iran’s malign influence in the region.  The Secretary emphasized he looks forward to continuing our close coordination on regional and global issues, and noted President Biden looks forward to his visit to Israel next month.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The following is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Israeli Prime Minister Naftali Bennett regarding the dissolution of the Knesset.  Secretary Blinken underscored our respect for democratic processes and reiterated our unwavering commitment to the strong U.S.-Israel strategic relationship, and our mutual concerns about Iran’s malign influence in the region.  The Secretary emphasized he looks forward to continuing our close coordination on regional and global issues, and noted President Biden looks forward to his visit to Israel next month.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Blinken’s Call with Israeli Foreign Minister and Alternate Prime Minister Lapid</title>
 		<link>https://www.state.gov/secretary-blinkens-call-with-israeli-foreign-minister-and-alternate-prime-minister-lapid-6/</link>
 		
@@ -1597,251 +1754,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The ATCR allows existing and emerging resettlement countries to share best practices, discuss priorities, and engage with resettlement stakeholders on global needs and opportunities for the upcoming year. The event will emphasize strengthening partnerships and increasing capacity for resettlement, complementary protection pathways, and integration of refugees into welcoming and inclusive societies. As a global leader in refugee resettlement, the United States will outline plans at the ATCR to not only restore the U.S. Refugee Admissions Program, but also expand and modernize it. The theme of this year’s ATCR is Reemerging and Building Globally.</p>
 <p>Throughout the ATCR, the focus will be on reemerging from a year of unprecedented humanitarian emergencies such as Afghanistan and Ukraine, as well as the COVID-19 pandemic through renewed commitments to increased resettlement and complementary pathways, more innovative and nimble responses to emerging crises, and more equitable responsibility-sharing for supporting refugees globally. An additional goal of this year’s ATCR will be to advance the meaningful inclusion of refugees in resettlement policy and governance.</p>
 <p><input type="hidden" data-filter="111001000111" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Blinken Selects Members of the Foreign Affairs Policy Board</title>
-		<link>https://www.state.gov/secretary-blinken-selects-members-of-the-foreign-affairs-policy-board/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 17 Jun 2022 21:30:51 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=353343</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p><span>Today, Secretary Blinken announced his selections for the U.S. Department of State’s Foreign Affairs Policy Board.</span></p>
-<p><span>Since its establishment in 2011, the Board has provided independent advice on the conduct of U.S. foreign policy and diplomacy, consistent with each Secretary of State and administration’s evolving priorities for it.</span></p>
-<p><span>Secretary Blinken has sought to build a diverse board that could advance the Department’s efforts to better root American diplomacy in the needs and aspirations of the American people. With expertise at the intersection of foreign and domestic policy, the Board will focus on the issues of increasing importance to the lives and livelihoods of Americans in the decade ahead, including cybersecurity and emerging technologies, climate and energy, international economics, global health, and strategic competition with the People’s Republic of China.</span></p>
-<p><span>Co-Chairs</span></p>
-<p><strong><span>Thomas Donilon</span></strong></p>
-<p><span>Thomas E. Donilon is Chairman of the BlackRock Investment Institute. He served as National Security Advisor to President Barack Obama. In that capacity Mr. Donilon oversaw the U.S. National Security Council staff, chaired the cabinet level National Security Principals Committee, provided the president’s daily national security briefing, and was responsible for the coordination and integration of the administration’s foreign policy, intelligence, and military efforts. Mr. Donilon also oversaw the White House’s cybersecurity and international energy efforts and served as the President’s personal emissary to a number of world leaders. Mr. Donilon has worked with and advised three U.S. presidents.</span></p>
-<p><strong><span>Cecilia Muñoz</span></strong></p>
-<p><span>Cecilia Muñoz is a national leader in public policy and public interest technology with nearly three decades of experience in the non-profit sector and government. She was the first Latina to lead the White House Domestic Policy Council, serving 8 years on President Obama’s senior team. She led the domestic and economic policy team for the Biden/Harris presidential transition and serves as a senior advisor to New America in Washington, DC. An internationally recognized expert on immigration policy, in 2021, she co-founded Welcome.US, an organization that mobilizes civil society to support the resettlement of Afghan evacuees and other newcomers to the United States. Cecilia started her career at the National Council of La Raza (now UNIDOS US), the nation’s largest Hispanic policy and advocacy organization, where she spent 20 years focused on immigration, civil rights, education, and a broad range of policy concerns.</span></p>
-<p><span>Members</span><span> </span></p>
-<p><strong><span>David Autor</span></strong></p>
-<p><span>David Autor is Ford Professor in the MIT Department of Economics, Vice President of the American Economic Association, codirector of the NBER Labor Studies Program and the JPAL Work of the Future experimental initiative. His scholarship explores the labor-market impacts of technological change and globalization on job polarization, skill demands, earnings levels and inequality, and electoral outcomes. Autor has received numerous awards for both his scholarship—the National Science Foundation CAREER Award, an Alfred P. Sloan Foundation Fellowship, the Sherwin Rosen Prize for outstanding contributions to the field of Labor Economics, the Andrew Carnegie Fellowship in 2019, the Society for Progress Medal in 2021—and for his teaching, including the MIT MacVicar Faculty Fellowship. In a 2019 article, the Economist magazine labeled him as “The academic voice of the American worker.”</span></p>
-<p><strong><span>Dr. Sameer Bhalotra</span></strong></p>
-<p><span>Dr. Sameer Bhalotra is the Co-founder &amp; CEO of ActZero, a security company based in Menlo Park, California. He previously worked in cybersecurity at Google and as a Board member of numerous security startups. In government, he served as Senior Director for Cybersecurity on the National Security Council staff at the White House, Cybersecurity &amp; Technology Lead for the Senate Select Committee on Intelligence, and in various roles in the Intelligence Community. He is affiliated with the US Secret Service Cyber Investigations Advisory Board, Center for Strategic and International Studies, Stanford University&#8217;s Center for International Security and Cooperation, and Harvard University’s Kennedy School of Government.</span></p>
-<p><strong><span>Dr. Hal Brands</span></strong></p>
-<p><span>Hal Brands is the Henry A. Kissinger Distinguished Professor of Global Affairs at the Johns Hopkins School of Advanced International Studies (SAIS) and a senior fellow at the American Enterprise Institute. He is also a columnist for Bloomberg Opinion. Brands is the author or co-author of numerous books, most recently, The Lessons of Tragedy: Statecraft and World Order (2019), The Twilight Struggle: What the Cold War Teaches Us About Great-Power Rivalry Today (2022), and Danger Zone: The Coming Crisis with China (2022). Hal has also served as Special Assistant to the Secretary of Defense for Strategic Planning from 2015 to 2016, as lead writer for the Commission on the National Defense Strategy for the United States, and has consulted with a range of government offices and agencies.</span></p>
-<p><strong><span>Mariano-Florentino (Tino) Cuéllar</span></strong></p>
-<p><span>Tino Cuéllar is the tenth president of the Carnegie Endowment for International Peace. A former justice of the Supreme Court of California, he served two U.S. presidents at the White House and in federal agencies and was a faculty member at Stanford University for two decades. During nearly seven years on California’s highest court, he wrote opinions addressing separation of powers, federalism, policing and criminal justice, democracy, technology and privacy, and climate and environmental policy among other issues, and led the court system’s efforts to better meet the needs of millions of limited English speakers.  </span><span>    </span></p>
-<p><strong><span>Mitchell E. Daniels, Jr.</span></strong></p>
-<p><span>Mitchell E. Daniels, Jr. is the 12th president of Purdue University and the former governor of Indiana. He was elected Indiana’s 49th governor in 2004 in his first bid for any elected office, and then re-elected in 2008 with more votes than any candidate in the state&#8217;s history. Prior to becoming governor, Daniels served as senior advisor to President Ronald Reagan and Director of the Office of Management and Budget under President George W. Bush. President Daniels also comes from a successful career in business, holding numerous top management positions. From 1987-1990, Daniels served as the CEO of the Hudson Institute.</span></p>
-<p><strong><span>Janine Davidson, Ph.D</span></strong></p>
-<p><span>Janine Davidson, Ph.D. is president of Metropolitan State University of Denver, Colorado’s third largest and most diverse public university. Davidson is a national thought leader in higher education and on topics such as public service, U.S. foreign policy and national security. Dr. Davidson served in various senior civilian Pentagon positions, most recently as the 32nd undersecretary of the U.S. Navy. Previously she served as the Deputy Assistant Secretary of Defense for Plans and was also a senior civil servant in the stability operations office in the office of the Secretary of Defense. Davidson began her career as an Air Force officer and cargo pilot. She was a distinguished graduate of the Air Force Squadron Officer School and was the first woman to fly the Air Force’s tactical C-130.</span></p>
-<p><strong><span>Cathy Feingold</span></strong></p>
-<p><span>Cathy Feingold is a leading advocate on foreign policy centered in the priorities of working people and their families. She brings more than 20 years of experience in trade and global economic policy, and worker, human and women&#8217;s rights issues. As director of the AFL-CIO’s International Department, she represents over 12.5 million workers and is a committed and passionate advocate, strategic campaigner and policy expert. In 2018, Feingold was elected Deputy President of the International Trade Union Confederation, the organization representing 200 million unionized workers worldwide and headquartered in Belgium, Brussels and she is a member of the Trade Union Advisory Committee at the Organization for Economic Cooperation and Development.</span></p>
-<p><strong><span>Margaret A. Hamburg, MD</span></strong></p>
-<p><span>Dr. Margaret Hamburg is an internationally recognized leader in public health and medicine, who currently serves as chair of the Nuclear Threat Initiative’s Bio Advisory Group. She previously served as foreign secretary of the National Academy of Medicine and is a former Commissioner of the U.S. Food and Drug Administration (FDA), having served for almost six years. Before joining FDA, Hamburg was founding vice president and senior scientist at the Nuclear Threat Initiative. Previous government positions include Assistant Secretary for Planning and Evaluation, U.S. Department of Health and Human Services, Health Commissioner for New York City, and Assistant Director of the National Institute of Allergy and Infectious Diseases, National Institutes of Health.</span></p>
-<p><strong><span>Jon M. Huntsman, Jr.</span></strong></p>
-<p><span>Jon Huntsman currently serves as Vice Chair of Ford Motor Company. He has spent considerable time in public service at the state, national, and international levels. Huntsman began his career in public service as a staff assistant to President Ronald Reagan. He has served each of the five U.S. presidents since then in critical roles around the world, including as U.S. Ambassador to Singapore, Deputy Assistant Secretary of Commerce for Asia, Deputy U.S. Trade Representative, U.S. Ambassador to China, and most recently, U.S. Ambassador to Russia. Huntsman is the only American in history to have served as Chief of Mission in both China and Russia. In all four Senate confirmations, he received unanimous votes.</span></p>
-<p><strong><span>Dr. Ayana Elizabeth Johnson</span></strong></p>
-<p><span>Dr. Ayana Elizabeth Johnson is a marine biologist, policy expert, writer, and Brooklyn native. She is co-founder of Urban Ocean Lab, a think tank for the future of coastal cities. She co-edited the bestselling climate anthology All We Can Save, co-founded The All We Can Save Project, and co-created the Spotify/Gimlet climate solutions podcast How to Save a Planet. Recently, she co-authored the Blue New Deal, a roadmap for including the ocean in climate policy. Previously, she was executive director of the Waitt Institute, developed policy at the Environmental Protection Agency and National Oceanic and Atmospheric Administration, and taught as an adjunct professor at New York University.</span></p>
-<p><strong><span>Ambassador Kristie A. Kenney</span></strong></p>
-<p><span>Ambassador Kristie Kenney holds the U.S. State Department’s highest rank of Career Ambassador. Over the course of her 35+-year career at the State Department, she represented the United States abroad as Ambassador three times and served in senior positions at the State Department and the National Security Council, including service as the 32nd Counselor of the State Department. As Ambassador to Thailand, Ambassador Kenney led U.S. assistance during Thailand’s devastating 2011 floods and managed the response to the 2014 military coup. She was the first female to head U.S. Embassy Bangkok, one of the United States’ largest diplomatic missions with over 3,000 staff. She is currently an adjunct professor at Georgetown University, teaching courses on leadership and public speaking.</span></p>
-<p><strong><span>Gilman G. Louie</span></strong></p>
-<p><span>Gilman Louie is CEO and co-founder of America’s Frontier Fund, where he is responsible for the vision and leadership of the organization. Louie brings over 30 years of national security and investment experience. He served as an early CEO of In-Q-Tel—the pioneering technology investment firm funded by the Central Intelligence Agency—from 1999-2006, as an expert and Special Government Employee to the Defense Innovation Board from 2016-2020, and as a Commissioner on the National Security Commission on Artificial Intelligence from 2018-2021.</span></p>
-<p><strong><span>Katherine Maher</span></strong></p>
-<p><span>Katherine Maher is the former chief executive officer and executive director of the Wikimedia Foundation who oversaw the operations of the organization and its professional staff. Katherine has spent her career at the intersection of technology, human rights, democracy and international development. Before joining the Foundation, she was Advocacy Director for the international digital rights organization Access in Washington, DC, where she worked on global policy issues related to freedom of expression, access to information and privacy.</span></p>
-<p><strong><span>Dr. James M. Manyika</span></strong></p>
-<p><span>Dr. James Manyika is Senior Vice President at Google-Alphabet and a member of the senior leadership team where he focuses on Technology &amp; Society on areas ranging from AI, computing infrastructure, to the future of work, the digital economy and sustainability that have potential for broad impact on society. He is Senior Partner emeritus of McKinsey &amp; Company, and is Chair and director emeritus of the McKinsey Global Institute (MGI). At Mckinsey, he advised the chief executives of many of the world’s leading companies on technology and business strategies, and he led MGI’s research on technology, the economy, competitiveness, and other global economy trends.</span></p>
-<p><strong><span>Dr. Meghan L. O’Sullivan</span></strong></p>
-<p><span>Meghan L. O’Sullivan is an educator, writer, former policymaker and diplomat, and advisor to companies. Throughout her career, she has been dedicated to resolving conflict and understanding the intersection of energy and geopolitics. Meghan has sought to help rebuild countries and craft constitutions and other frameworks for governing divided societies through her past positions, including two years in Iraq, as special assistant to President George W. Bush and Deputy National Security Advisor for Iraq and Afghanistan, and as a Vice Chair of the All Party peace negotiations in Northern Ireland in 2013.</span><span> </span></p>
-<p><strong><span>Annise D. Parker</span></strong></p>
-<p><span>The Honorable Annise Parker served the people of Houston with three terms as City Council member, three terms as City Controller, and three terms as Mayor. She is the only person in Houston history to have held all three offices. She was the first openly LGBT mayor of a major American city. Mayor Parker is currently President and CEO of The Victory Fund and Victory Institute. She served on President Obama’s State, Local and Tribal Leaders Task Force on Climate Preparedness and Resilience, on the Global Commission on the Economy and Climate, as a steering committee member of the C40 Cities Climate Leadership Group, and on the board of the Texas Environmental Research Consortium. </span><span> </span></p>
-<p><strong><span>Vincent R. Stewart</span></strong></p>
-<p><span>Retired Lieutenant General Vince Stewart, USMC is Chief Inclusion and Innovation Officer for Ankura and the Founder and CEO of Stewart Global Solutions, an international consulting company focused on issues pertaining to cybersecurity, geopolitical intelligence, strategic planning, and crisis management. Stewart previously served as Deputy Commander of the United States Cyber Command, where he provided strategic leadership to more than 10,000 personnel executing full spectrum cyberspace operations, including securing the Department of Defense’s Information Network. He also served as Director of the Defense Intelligence Agency, delivering intelligence on the military capabilities of potential adversaries and providing briefings to the President of the United States and National Security staff regarding global emerging threats and opportunities.</span></p>
-<ul>
-<li><a class="external-link__pdf" href="https://content.govdelivery.com/attachments/USSTATEBPA/2022/06/17/file_attachments/2188490/Foreign%20Affairs%20Policy%20Board%20Biographies.pdf" target="_BLANK" rel="noopener"><span class="external-link-title">Foreign Affairs Policy Board Biographies</span><span class="filesize icon-pdf"> </span></a></li>
-</ul>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p><span>Today, Secretary Blinken announced his selections for the U.S. Department of State’s Foreign Affairs Policy Board.</span></p>
-<p><span>Since its establishment in 2011, the Board has provided independent advice on the conduct of U.S. foreign policy and diplomacy, consistent with each Secretary of State and administration’s evolving priorities for it.</span></p>
-<p><span>Secretary Blinken has sought to build a diverse board that could advance the Department’s efforts to better root American diplomacy in the needs and aspirations of the American people. With expertise at the intersection of foreign and domestic policy, the Board will focus on the issues of increasing importance to the lives and livelihoods of Americans in the decade ahead, including cybersecurity and emerging technologies, climate and energy, international economics, global health, and strategic competition with the People’s Republic of China.</span></p>
-<p><span>Co-Chairs</span></p>
-<p><strong><span>Thomas Donilon</span></strong></p>
-<p><span>Thomas E. Donilon is Chairman of the BlackRock Investment Institute. He served as National Security Advisor to President Barack Obama. In that capacity Mr. Donilon oversaw the U.S. National Security Council staff, chaired the cabinet level National Security Principals Committee, provided the president’s daily national security briefing, and was responsible for the coordination and integration of the administration’s foreign policy, intelligence, and military efforts. Mr. Donilon also oversaw the White House’s cybersecurity and international energy efforts and served as the President’s personal emissary to a number of world leaders. Mr. Donilon has worked with and advised three U.S. presidents.</span></p>
-<p><strong><span>Cecilia Muñoz</span></strong></p>
-<p><span>Cecilia Muñoz is a national leader in public policy and public interest technology with nearly three decades of experience in the non-profit sector and government. She was the first Latina to lead the White House Domestic Policy Council, serving 8 years on President Obama’s senior team. She led the domestic and economic policy team for the Biden/Harris presidential transition and serves as a senior advisor to New America in Washington, DC. An internationally recognized expert on immigration policy, in 2021, she co-founded Welcome.US, an organization that mobilizes civil society to support the resettlement of Afghan evacuees and other newcomers to the United States. Cecilia started her career at the National Council of La Raza (now UNIDOS US), the nation’s largest Hispanic policy and advocacy organization, where she spent 20 years focused on immigration, civil rights, education, and a broad range of policy concerns.</span></p>
-<p><span>Members</span><span> </span></p>
-<p><strong><span>David Autor</span></strong></p>
-<p><span>David Autor is Ford Professor in the MIT Department of Economics, Vice President of the American Economic Association, codirector of the NBER Labor Studies Program and the JPAL Work of the Future experimental initiative. His scholarship explores the labor-market impacts of technological change and globalization on job polarization, skill demands, earnings levels and inequality, and electoral outcomes. Autor has received numerous awards for both his scholarship—the National Science Foundation CAREER Award, an Alfred P. Sloan Foundation Fellowship, the Sherwin Rosen Prize for outstanding contributions to the field of Labor Economics, the Andrew Carnegie Fellowship in 2019, the Society for Progress Medal in 2021—and for his teaching, including the MIT MacVicar Faculty Fellowship. In a 2019 article, the Economist magazine labeled him as “The academic voice of the American worker.”</span></p>
-<p><strong><span>Dr. Sameer Bhalotra</span></strong></p>
-<p><span>Dr. Sameer Bhalotra is the Co-founder &amp; CEO of ActZero, a security company based in Menlo Park, California. He previously worked in cybersecurity at Google and as a Board member of numerous security startups. In government, he served as Senior Director for Cybersecurity on the National Security Council staff at the White House, Cybersecurity &amp; Technology Lead for the Senate Select Committee on Intelligence, and in various roles in the Intelligence Community. He is affiliated with the US Secret Service Cyber Investigations Advisory Board, Center for Strategic and International Studies, Stanford University&#8217;s Center for International Security and Cooperation, and Harvard University’s Kennedy School of Government.</span></p>
-<p><strong><span>Dr. Hal Brands</span></strong></p>
-<p><span>Hal Brands is the Henry A. Kissinger Distinguished Professor of Global Affairs at the Johns Hopkins School of Advanced International Studies (SAIS) and a senior fellow at the American Enterprise Institute. He is also a columnist for Bloomberg Opinion. Brands is the author or co-author of numerous books, most recently, The Lessons of Tragedy: Statecraft and World Order (2019), The Twilight Struggle: What the Cold War Teaches Us About Great-Power Rivalry Today (2022), and Danger Zone: The Coming Crisis with China (2022). Hal has also served as Special Assistant to the Secretary of Defense for Strategic Planning from 2015 to 2016, as lead writer for the Commission on the National Defense Strategy for the United States, and has consulted with a range of government offices and agencies.</span></p>
-<p><strong><span>Mariano-Florentino (Tino) Cuéllar</span></strong></p>
-<p><span>Tino Cuéllar is the tenth president of the Carnegie Endowment for International Peace. A former justice of the Supreme Court of California, he served two U.S. presidents at the White House and in federal agencies and was a faculty member at Stanford University for two decades. During nearly seven years on California’s highest court, he wrote opinions addressing separation of powers, federalism, policing and criminal justice, democracy, technology and privacy, and climate and environmental policy among other issues, and led the court system’s efforts to better meet the needs of millions of limited English speakers.  </span><span>    </span></p>
-<p><strong><span>Mitchell E. Daniels, Jr.</span></strong></p>
-<p><span>Mitchell E. Daniels, Jr. is the 12th president of Purdue University and the former governor of Indiana. He was elected Indiana’s 49th governor in 2004 in his first bid for any elected office, and then re-elected in 2008 with more votes than any candidate in the state&#8217;s history. Prior to becoming governor, Daniels served as senior advisor to President Ronald Reagan and Director of the Office of Management and Budget under President George W. Bush. President Daniels also comes from a successful career in business, holding numerous top management positions. From 1987-1990, Daniels served as the CEO of the Hudson Institute.</span></p>
-<p><strong><span>Janine Davidson, Ph.D</span></strong></p>
-<p><span>Janine Davidson, Ph.D. is president of Metropolitan State University of Denver, Colorado’s third largest and most diverse public university. Davidson is a national thought leader in higher education and on topics such as public service, U.S. foreign policy and national security. Dr. Davidson served in various senior civilian Pentagon positions, most recently as the 32nd undersecretary of the U.S. Navy. Previously she served as the Deputy Assistant Secretary of Defense for Plans and was also a senior civil servant in the stability operations office in the office of the Secretary of Defense. Davidson began her career as an Air Force officer and cargo pilot. She was a distinguished graduate of the Air Force Squadron Officer School and was the first woman to fly the Air Force’s tactical C-130.</span></p>
-<p><strong><span>Cathy Feingold</span></strong></p>
-<p><span>Cathy Feingold is a leading advocate on foreign policy centered in the priorities of working people and their families. She brings more than 20 years of experience in trade and global economic policy, and worker, human and women&#8217;s rights issues. As director of the AFL-CIO’s International Department, she represents over 12.5 million workers and is a committed and passionate advocate, strategic campaigner and policy expert. In 2018, Feingold was elected Deputy President of the International Trade Union Confederation, the organization representing 200 million unionized workers worldwide and headquartered in Belgium, Brussels and she is a member of the Trade Union Advisory Committee at the Organization for Economic Cooperation and Development.</span></p>
-<p><strong><span>Margaret A. Hamburg, MD</span></strong></p>
-<p><span>Dr. Margaret Hamburg is an internationally recognized leader in public health and medicine, who currently serves as chair of the Nuclear Threat Initiative’s Bio Advisory Group. She previously served as foreign secretary of the National Academy of Medicine and is a former Commissioner of the U.S. Food and Drug Administration (FDA), having served for almost six years. Before joining FDA, Hamburg was founding vice president and senior scientist at the Nuclear Threat Initiative. Previous government positions include Assistant Secretary for Planning and Evaluation, U.S. Department of Health and Human Services, Health Commissioner for New York City, and Assistant Director of the National Institute of Allergy and Infectious Diseases, National Institutes of Health.</span></p>
-<p><strong><span>Jon M. Huntsman, Jr.</span></strong></p>
-<p><span>Jon Huntsman currently serves as Vice Chair of Ford Motor Company. He has spent considerable time in public service at the state, national, and international levels. Huntsman began his career in public service as a staff assistant to President Ronald Reagan. He has served each of the five U.S. presidents since then in critical roles around the world, including as U.S. Ambassador to Singapore, Deputy Assistant Secretary of Commerce for Asia, Deputy U.S. Trade Representative, U.S. Ambassador to China, and most recently, U.S. Ambassador to Russia. Huntsman is the only American in history to have served as Chief of Mission in both China and Russia. In all four Senate confirmations, he received unanimous votes.</span></p>
-<p><strong><span>Dr. Ayana Elizabeth Johnson</span></strong></p>
-<p><span>Dr. Ayana Elizabeth Johnson is a marine biologist, policy expert, writer, and Brooklyn native. She is co-founder of Urban Ocean Lab, a think tank for the future of coastal cities. She co-edited the bestselling climate anthology All We Can Save, co-founded The All We Can Save Project, and co-created the Spotify/Gimlet climate solutions podcast How to Save a Planet. Recently, she co-authored the Blue New Deal, a roadmap for including the ocean in climate policy. Previously, she was executive director of the Waitt Institute, developed policy at the Environmental Protection Agency and National Oceanic and Atmospheric Administration, and taught as an adjunct professor at New York University.</span></p>
-<p><strong><span>Ambassador Kristie A. Kenney</span></strong></p>
-<p><span>Ambassador Kristie Kenney holds the U.S. State Department’s highest rank of Career Ambassador. Over the course of her 35+-year career at the State Department, she represented the United States abroad as Ambassador three times and served in senior positions at the State Department and the National Security Council, including service as the 32nd Counselor of the State Department. As Ambassador to Thailand, Ambassador Kenney led U.S. assistance during Thailand’s devastating 2011 floods and managed the response to the 2014 military coup. She was the first female to head U.S. Embassy Bangkok, one of the United States’ largest diplomatic missions with over 3,000 staff. She is currently an adjunct professor at Georgetown University, teaching courses on leadership and public speaking.</span></p>
-<p><strong><span>Gilman G. Louie</span></strong></p>
-<p><span>Gilman Louie is CEO and co-founder of America’s Frontier Fund, where he is responsible for the vision and leadership of the organization. Louie brings over 30 years of national security and investment experience. He served as an early CEO of In-Q-Tel—the pioneering technology investment firm funded by the Central Intelligence Agency—from 1999-2006, as an expert and Special Government Employee to the Defense Innovation Board from 2016-2020, and as a Commissioner on the National Security Commission on Artificial Intelligence from 2018-2021.</span></p>
-<p><strong><span>Katherine Maher</span></strong></p>
-<p><span>Katherine Maher is the former chief executive officer and executive director of the Wikimedia Foundation who oversaw the operations of the organization and its professional staff. Katherine has spent her career at the intersection of technology, human rights, democracy and international development. Before joining the Foundation, she was Advocacy Director for the international digital rights organization Access in Washington, DC, where she worked on global policy issues related to freedom of expression, access to information and privacy.</span></p>
-<p><strong><span>Dr. James M. Manyika</span></strong></p>
-<p><span>Dr. James Manyika is Senior Vice President at Google-Alphabet and a member of the senior leadership team where he focuses on Technology &amp; Society on areas ranging from AI, computing infrastructure, to the future of work, the digital economy and sustainability that have potential for broad impact on society. He is Senior Partner emeritus of McKinsey &amp; Company, and is Chair and director emeritus of the McKinsey Global Institute (MGI). At Mckinsey, he advised the chief executives of many of the world’s leading companies on technology and business strategies, and he led MGI’s research on technology, the economy, competitiveness, and other global economy trends.</span></p>
-<p><strong><span>Dr. Meghan L. O’Sullivan</span></strong></p>
-<p><span>Meghan L. O’Sullivan is an educator, writer, former policymaker and diplomat, and advisor to companies. Throughout her career, she has been dedicated to resolving conflict and understanding the intersection of energy and geopolitics. Meghan has sought to help rebuild countries and craft constitutions and other frameworks for governing divided societies through her past positions, including two years in Iraq, as special assistant to President George W. Bush and Deputy National Security Advisor for Iraq and Afghanistan, and as a Vice Chair of the All Party peace negotiations in Northern Ireland in 2013.</span><span> </span></p>
-<p><strong><span>Annise D. Parker</span></strong></p>
-<p><span>The Honorable Annise Parker served the people of Houston with three terms as City Council member, three terms as City Controller, and three terms as Mayor. She is the only person in Houston history to have held all three offices. She was the first openly LGBT mayor of a major American city. Mayor Parker is currently President and CEO of The Victory Fund and Victory Institute. She served on President Obama’s State, Local and Tribal Leaders Task Force on Climate Preparedness and Resilience, on the Global Commission on the Economy and Climate, as a steering committee member of the C40 Cities Climate Leadership Group, and on the board of the Texas Environmental Research Consortium. </span><span> </span></p>
-<p><strong><span>Vincent R. Stewart</span></strong></p>
-<p><span>Retired Lieutenant General Vince Stewart, USMC is Chief Inclusion and Innovation Officer for Ankura and the Founder and CEO of Stewart Global Solutions, an international consulting company focused on issues pertaining to cybersecurity, geopolitical intelligence, strategic planning, and crisis management. Stewart previously served as Deputy Commander of the United States Cyber Command, where he provided strategic leadership to more than 10,000 personnel executing full spectrum cyberspace operations, including securing the Department of Defense’s Information Network. He also served as Director of the Defense Intelligence Agency, delivering intelligence on the military capabilities of potential adversaries and providing briefings to the President of the United States and National Security staff regarding global emerging threats and opportunities.</span></p>
-<ul>
-<li><a class="external-link__pdf" href="https://content.govdelivery.com/attachments/USSTATEBPA/2022/06/17/file_attachments/2188490/Foreign%20Affairs%20Policy%20Board%20Biographies.pdf" target="_BLANK" rel="noopener"><span class="external-link-title">Foreign Affairs Policy Board Biographies</span><span class="filesize icon-pdf"> </span></a></li>
-</ul>
 ]]></content:encoded>
 					
 		
