@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Sat, 25 Jun 2022 06:42:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Jun 2022 13:16:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -1574,6 +1574,165 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		
 			</item>
 		<item>
+		<title>Mozambique National Day </title>
+		<link>https://www.state.gov/mozambique-national-day/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 24 Jun 2022 15:59:29 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=354791</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I extend best wishes to the people of Mozambique and join in commemorating your independence.</p>
+<p>Over the last year, our cooperative efforts have contributed to a more peaceful, prosperous, and healthy Mozambique. Our joint security cooperation has created space for continued economic growth and development. Our people-to-people engagement through professional, academic, and cultural exchanges, has deepened our ties. Our active health partnership has enabled us to fight against the COVID-19 pandemic as well as HIV, tuberculosis, polio, and malaria. When your government joined us in a festive inauguration of our new embassy, we renewed our commitment to a strong and enduring friendship.</p>
+<p>In that spirit, we look forward to working side by side during Mozambique’s first and historic UN Security Council term next year. May our joint efforts continue to be a guiding force in the pursuit of peace, progress, and prosperity in the region and around the world.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I extend best wishes to the people of Mozambique and join in commemorating your independence.</p>
+<p>Over the last year, our cooperative efforts have contributed to a more peaceful, prosperous, and healthy Mozambique. Our joint security cooperation has created space for continued economic growth and development. Our people-to-people engagement through professional, academic, and cultural exchanges, has deepened our ties. Our active health partnership has enabled us to fight against the COVID-19 pandemic as well as HIV, tuberculosis, polio, and malaria. When your government joined us in a festive inauguration of our new embassy, we renewed our commitment to a strong and enduring friendship.</p>
+<p>In that spirit, we look forward to working side by side during Mozambique’s first and historic UN Security Council term next year. May our joint efforts continue to be a guiding force in the pursuit of peace, progress, and prosperity in the region and around the world.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Antony J. Blinken And German Foreign Minister Annalena Baerbock Before Their Meeting</title>
 		<link>https://www.state.gov/secretary-antony-j-blinken-and-german-foreign-minister-annalena-baerbock-before-their-meeting-2/</link>
 		
@@ -1756,169 +1915,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>But we’re also working together in the absence of being able to get as much grain as we would like out of Ukraine or see Russia export its own foodstuffs, looking at other ways to help the many countries that are affected.  We’ll be talking about that in detail in a short while.  So I’ll leave it – I’ll leave that for later.</p>
 <p>But the bottom line is this: Throughout all of this we’ve stood together in solidarity and in common action.  And as part of that, I can say that the United States is deeply fortunate to have an ally like Germany in times of challenge, in times of trouble.  We coordinate on virtually everything that is having an impact on the lives of our people and of people around the world, whether it’s food insecurity, whether it’s COVID, whether it’s technology and innovation and the impact that that has.  And simply put, we are united in defense of shared values.  We’re united in defense of human rights, democracy, and international law.  We’re united when it comes to the great problems of this day.</p>
 <p>And on a personal note, I just have to say how grateful I am, not only for Germany’s leadership, but for Annalena’s leadership.  She’s been at the helm of the G7 over these past months at one of the most critical times in world history, and we couldn’t ask – the world couldn’t ask – for better leadership.  Thank you.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Special Presidential Envoy for Climate Kerry and Assistant Secretary Medina’s Travel to Portugal</title>
-		<link>https://www.state.gov/special-presidential-envoy-for-climate-kerry-and-assistant-secretary-medinas-travel-to-portugal/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 24 Jun 2022 13:20:18 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=354594</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Special Presidential Envoy for Climate John Kerry will travel to Portugal June 27-June 29 to lead the U.S. delegation to the <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA2MjQuNTk4NDc0NjEiLCJ1cmwiOiJodHRwczovL3d3dy51bi5vcmcvZW4vY29uZmVyZW5jZXMvb2NlYW4yMDIyIn0.1LDUc2neUQ0YFoMmZ2SVox6v4s_MPxGViwLpqOkTy48/s/1436012980/br/133553151795-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA2MjQuNTk4NDc0NjEiLCJ1cmwiOiJodHRwczovL3d3dy51bi5vcmcvZW4vY29uZmVyZW5jZXMvb2NlYW4yMDIyIn0.1LDUc2neUQ0YFoMmZ2SVox6v4s_MPxGViwLpqOkTy48%2Fs%2F1436012980%2Fbr%2F133553151795-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Cac4b6cc1c20b493abfa608da55e1cbd8%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637916725520489343%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=4hthoncKBI0IYv2p2qje8UvApHviL2KEn08bLzJkTy8%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">United Nations Ocean Conference</a>, convened by the United Nations General Assembly and co-hosted by the Governments of Kenya and Portugal.  He will be joined by Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs Monica Medina, who will travel to Portugal June 25-July 2.  The interagency delegation will also include Deputy Director for Climate and Environment at the White House Office of Science and Technology Policy Dr. Jane Lubchenco, White House Council on Environmental Quality Chair Brenda Mallory, and National Oceanic and Atmospheric Administration Administrator Dr. Richard Spinrad, as well as other high-level officials from across the U.S. Government.</p>
-<p>The United Nations Ocean Conference, taking place June 27-July 1, will focus on advancing solutions for a sustainably managed ocean, including addressing the climate-ocean nexus; ocean acidification; plastic pollution; illegal, unreported, and unregulated (IUU) fishing; and the loss of marine habitats and biodiversity.</p>
-<p>At the conference, Secretary Kerry, Assistant Secretary Medina, Deputy Director Lubchenco, Chair Mallory, and Administrator Spinrad will engage with government counterparts, private sector actors, and civil society partners to advance ocean efforts related to sustainable development, climate change, environmental protection, and nature conservation.</p>
-<p>For press inquiries, contact <a href="mailto:ClimateComms@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1">ClimateComms@state.gov</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Special Presidential Envoy for Climate John Kerry will travel to Portugal June 27-June 29 to lead the U.S. delegation to the <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA2MjQuNTk4NDc0NjEiLCJ1cmwiOiJodHRwczovL3d3dy51bi5vcmcvZW4vY29uZmVyZW5jZXMvb2NlYW4yMDIyIn0.1LDUc2neUQ0YFoMmZ2SVox6v4s_MPxGViwLpqOkTy48/s/1436012980/br/133553151795-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA2MjQuNTk4NDc0NjEiLCJ1cmwiOiJodHRwczovL3d3dy51bi5vcmcvZW4vY29uZmVyZW5jZXMvb2NlYW4yMDIyIn0.1LDUc2neUQ0YFoMmZ2SVox6v4s_MPxGViwLpqOkTy48%2Fs%2F1436012980%2Fbr%2F133553151795-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Cac4b6cc1c20b493abfa608da55e1cbd8%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637916725520489343%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=4hthoncKBI0IYv2p2qje8UvApHviL2KEn08bLzJkTy8%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">United Nations Ocean Conference</a>, convened by the United Nations General Assembly and co-hosted by the Governments of Kenya and Portugal.  He will be joined by Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs Monica Medina, who will travel to Portugal June 25-July 2.  The interagency delegation will also include Deputy Director for Climate and Environment at the White House Office of Science and Technology Policy Dr. Jane Lubchenco, White House Council on Environmental Quality Chair Brenda Mallory, and National Oceanic and Atmospheric Administration Administrator Dr. Richard Spinrad, as well as other high-level officials from across the U.S. Government.</p>
-<p>The United Nations Ocean Conference, taking place June 27-July 1, will focus on advancing solutions for a sustainably managed ocean, including addressing the climate-ocean nexus; ocean acidification; plastic pollution; illegal, unreported, and unregulated (IUU) fishing; and the loss of marine habitats and biodiversity.</p>
-<p>At the conference, Secretary Kerry, Assistant Secretary Medina, Deputy Director Lubchenco, Chair Mallory, and Administrator Spinrad will engage with government counterparts, private sector actors, and civil society partners to advance ocean efforts related to sustainable development, climate change, environmental protection, and nature conservation.</p>
-<p>For press inquiries, contact <a href="mailto:ClimateComms@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1">ClimateComms@state.gov</a>.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
