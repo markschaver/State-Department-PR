@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Mon, 27 Jun 2022 12:47:04 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Jun 2022 17:48:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,193 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Negev Forum Steering Committee Joint Statement</title>
+		<link>https://www.state.gov/negev-forum-steering-committee-joint-statement/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Mon, 27 Jun 2022 17:48:28 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=355135</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The text of the following statement was released by the Governments of the United States of America, Bahrain, Egypt, Israel, Morocco, and the United Arab Emirates.</p>
+<p><em>Begin Text:</em></p>
+<p>Further to the Negev Summit, held in Sde Boker, Israel in March of this year, at which it was decided to form a framework for regional cooperation (the Negev Forum), the Governments of Bahrain, Egypt, Israel, Morocco, the United Arab Emirates, and the United States, represented by senior officials from their respective foreign ministries, held the inaugural meeting of the Negev Forum Steering Committee in Manama, Bahrain on June 27, 2022. The Committee’s main objective is to further coordinate our collective efforts and advance a common vision for the region. In this context, we outlined a framework document for the Negev Forum, setting out the objectives of the Forum, and the working methods of its four-part structure: the Foreign Ministers’ Ministerial, the Presidency, the Steering Committee, and the Working Groups.</p>
+<p>This meeting demonstrates the strength of our relations, our shared commitment to cooperation, and the important opportunities unlocked by improved relations between Israel and its neighbors, showing what can be achieved by working together to overcome shared challenges. The participants also affirmed that these relations can be harnessed to create momentum in Israeli-Palestinian relations, towards a negotiated resolution of the Israeli-Palestinian conflict, and as part of efforts to achieve a just, lasting and comprehensive peace.</p>
+<p>The Steering Committee discussed the assignment of chairs for each of the six Working Groups launched by the Ministers at the Negev Summit. The Working Groups are to meet regularly throughout the year to advance initiatives that encourage regional integration, cooperation, and development for the benefit of the peoples of the region and across a variety of spheres, including initiatives that strengthen the Palestinian economy and improve the quality of life of Palestinians. The Working Group chairs are expected to regularly report progress to the Steering Committee. Working Group chairs, with the consensus of members, may invite non-member participants to participate in specific initiatives where their participation delivers a direct benefit to the initiative’s stated goal.</p>
+<p>The Working Groups are as follows:</p>
+<ul>
+<li>Clean Energy</li>
+<li>Education and Coexistence</li>
+<li>Food and Water Security</li>
+<li>Health</li>
+<li>Regional Security</li>
+<li>Tourism</li>
+</ul>
+<p>The Foreign Ministers’ Ministerial, which is expected to convene annually, is to be the principal governing body of the Forum. Israel continues to serve as Negev Forum President until the next Ministerial gathering.</p>
+<p>The Steering Committee emphasized that deeper cooperation and improved understanding among our countries is fundamental to the success of the broader region.</p>
+<p>We look forward to the next Negev Forum Ministerial meeting later this year, to be preceded by a further meeting of the Steering Committee to be held in Israel.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The text of the following statement was released by the Governments of the United States of America, Bahrain, Egypt, Israel, Morocco, and the United Arab Emirates.</p>
+<p><em>Begin Text:</em></p>
+<p>Further to the Negev Summit, held in Sde Boker, Israel in March of this year, at which it was decided to form a framework for regional cooperation (the Negev Forum), the Governments of Bahrain, Egypt, Israel, Morocco, the United Arab Emirates, and the United States, represented by senior officials from their respective foreign ministries, held the inaugural meeting of the Negev Forum Steering Committee in Manama, Bahrain on June 27, 2022. The Committee’s main objective is to further coordinate our collective efforts and advance a common vision for the region. In this context, we outlined a framework document for the Negev Forum, setting out the objectives of the Forum, and the working methods of its four-part structure: the Foreign Ministers’ Ministerial, the Presidency, the Steering Committee, and the Working Groups.</p>
+<p>This meeting demonstrates the strength of our relations, our shared commitment to cooperation, and the important opportunities unlocked by improved relations between Israel and its neighbors, showing what can be achieved by working together to overcome shared challenges. The participants also affirmed that these relations can be harnessed to create momentum in Israeli-Palestinian relations, towards a negotiated resolution of the Israeli-Palestinian conflict, and as part of efforts to achieve a just, lasting and comprehensive peace.</p>
+<p>The Steering Committee discussed the assignment of chairs for each of the six Working Groups launched by the Ministers at the Negev Summit. The Working Groups are to meet regularly throughout the year to advance initiatives that encourage regional integration, cooperation, and development for the benefit of the peoples of the region and across a variety of spheres, including initiatives that strengthen the Palestinian economy and improve the quality of life of Palestinians. The Working Group chairs are expected to regularly report progress to the Steering Committee. Working Group chairs, with the consensus of members, may invite non-member participants to participate in specific initiatives where their participation delivers a direct benefit to the initiative’s stated goal.</p>
+<p>The Working Groups are as follows:</p>
+<ul>
+<li>Clean Energy</li>
+<li>Education and Coexistence</li>
+<li>Food and Water Security</li>
+<li>Health</li>
+<li>Regional Security</li>
+<li>Tourism</li>
+</ul>
+<p>The Foreign Ministers’ Ministerial, which is expected to convene annually, is to be the principal governing body of the Forum. Israel continues to serve as Negev Forum President until the next Ministerial gathering.</p>
+<p>The Steering Committee emphasized that deeper cooperation and improved understanding among our countries is fundamental to the success of the broader region.</p>
+<p>We look forward to the next Negev Forum Ministerial meeting later this year, to be preceded by a further meeting of the Steering Committee to be held in Israel.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Assistant Secretary of State for Consular Affairs Bitter Travels to Tucson, Nogales (Sonora, Mexico), and Houston</title>
 		<link>https://www.state.gov/assistant-secretary-of-state-for-consular-affairs-bitter-travels-to-tucson-nogales-sonora-mexico-and-houston/</link>
 		
@@ -1517,167 +1704,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The below is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken spoke today with Australian Foreign Minister Penny Wong to continue their previous discussions on the upcoming G-20 Ministerial meetings in Bali. Secretary Blinken and Foreign Minister Wong discussed additional ways to hold the Russian Federation to account for its unprovoked and unjust war of choice against Ukraine, including in multilateral institutions and bodies.</p>
 <p><input type="hidden" data-filter="111000000001" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Slovenia’s National Day</title>
-		<link>https://www.state.gov/slovenias-national-day/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Sat, 25 Jun 2022 04:01:42 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=354546</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>On behalf of the United States of America, I wish the people of Slovenia a happy Statehood Day.</p>
-<p>As we honor the 30th anniversary of the establishment of diplomatic relations between the United States and Slovenia, we celebrate our shared democratic values and vision, including our commitment to protecting human rights and the rule of law, addressing the challenges of climate change, and expanding economic ties between our two countries by harnessing the new opportunities of the green economy. The United States reaffirms its belief that Slovenia is a very well qualified candidate to the UN Security Council for 2024-2025 and would be, if elected, a trusted voice in contributing to international peace and security.</p>
-<p>Congratulations on your Statehood Day. We look forward to continuing to advance our bilateral relationship in the years ahead.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>On behalf of the United States of America, I wish the people of Slovenia a happy Statehood Day.</p>
-<p>As we honor the 30th anniversary of the establishment of diplomatic relations between the United States and Slovenia, we celebrate our shared democratic values and vision, including our commitment to protecting human rights and the rule of law, addressing the challenges of climate change, and expanding economic ties between our two countries by harnessing the new opportunities of the green economy. The United States reaffirms its belief that Slovenia is a very well qualified candidate to the UN Security Council for 2024-2025 and would be, if elected, a trusted voice in contributing to international peace and security.</p>
-<p>Congratulations on your Statehood Day. We look forward to continuing to advance our bilateral relationship in the years ahead.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
