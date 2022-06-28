@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Tue, 28 Jun 2022 12:23:41 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jun 2022 13:50:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Assistance for Afghanistan to Respond to June 22 Earthquake</title>
+		<link>https://www.state.gov/assistance-for-afghanistan-to-respond-to-june-22-earthquake/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2022 13:50:34 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=355264</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>The devastating June 22 earthquake that struck in eastern Afghanistan intensified the ongoing humanitarian crisis the Afghan people have endured for too long. U.S.-funded partners on the ground responded rapidly with medical care, and President Biden directed an assessment of additional needs in the wake of the natural disaster. In response, the United States will provide nearly $55 million in additional immediate humanitarian assistance through the U.S. Agency for International Development to urgently reach those most affected by the natural disaster. This new funding brings total U.S. humanitarian assistance to over $774 million in the last year.</p>
+<p>This additional disaster relief assistance will reach people affected by the earthquake with critical relief items: shelter materials; pots for cooking; jerry cans to collect and store water; blankets; solar lamps; clothes, and other household items. Assistance will be provided for water, sanitation, and hygiene supplies to prevent waterborne disease outbreak in the aftermath of this natural disaster. The funding will also support other high need areas throughout the country.</p>
+<p>The United States has an enduring commitment to the people of Afghanistan, and we welcome and encourage support from our international partners in this time of great need.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>The devastating June 22 earthquake that struck in eastern Afghanistan intensified the ongoing humanitarian crisis the Afghan people have endured for too long. U.S.-funded partners on the ground responded rapidly with medical care, and President Biden directed an assessment of additional needs in the wake of the natural disaster. In response, the United States will provide nearly $55 million in additional immediate humanitarian assistance through the U.S. Agency for International Development to urgently reach those most affected by the natural disaster. This new funding brings total U.S. humanitarian assistance to over $774 million in the last year.</p>
+<p>This additional disaster relief assistance will reach people affected by the earthquake with critical relief items: shelter materials; pots for cooking; jerry cans to collect and store water; blankets; solar lamps; clothes, and other household items. Assistance will be provided for water, sanitation, and hygiene supplies to prevent waterborne disease outbreak in the aftermath of this natural disaster. The funding will also support other high need areas throughout the country.</p>
+<p>The United States has an enduring commitment to the people of Afghanistan, and we welcome and encourage support from our international partners in this time of great need.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Annual GDI-OBO Resilience Innovation Grant Recipients Announced</title>
 		<link>https://www.state.gov/annual-gdi-obo-resilience-innovation-grant-recipients-announced/</link>
 		
@@ -1507,169 +1668,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p><strong>QUESTION:  </strong>Secretary of State Antony Blinken, thanks so much for your time.</p>
 <p><strong>SECRETARY BLINKEN:  </strong>Thanks, Jake.  Good to be with you.</p>
 <p><input type="hidden" data-filter="111000000001" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>International Day in Support of Victims of Torture </title>
-		<link>https://www.state.gov/international-day-in-support-of-victims-of-torture-2/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Sun, 26 Jun 2022 12:36:02 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=354926</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Today, we solemnly observe the International Day in Support of Victims of Torture, and in so doing, the United States reaffirms our condemnation of torture no matter where or by whom it is perpetrated.  Torture is not only an unacceptable violation of human rights; it is a crime under international and U.S. law.  As we condemn this horrific crime, we also affirm the humanity of torture survivors around the world and note our respect for their dignity.</p>
-<p>The United States is one of 173 states that are parties to the Convention against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment, which entered into force in 1987.  Yet despite this near universal condemnation, torture and other violations of human rights are still perpetrated around the world, often against political opponents, members of marginalized populations, prisoners of war and other detainees, human rights defenders, and those who voice opinions that certain governments do not like.  So long as any person anywhere suffers from torture, our pursuit of accountability will continue, as will our support for torture survivors.</p>
-<p>As outlined in our most recent periodic report to the United Nations’ Committee Against Torture last September, the United States remains committed to the Convention against Torture.  We acknowledge that we must confront our own shortcomings and mistakes and uphold U.S. values.  We take seriously our obligations as a State Party, including to prevent and punish torture, and not to expel, return, or extradite anyone to a country where they would be tortured.  We welcomed the election last October of Todd Buchwald as an independent expert on the Committee and support the Committee’s work to promote compliance of treaty obligations by parties to the Convention.</p>
-<p>U.S. law prohibits the provision of our assistance to any foreign government security force units credibly implicated in torture.  In addition, as the largest contributor to the UN Voluntary Fund for Victims of Torture, we continue to support rehabilitation and justice programs to help victims around the world transition from horror to healing.  We also directly support the needs of survivors and their calls for truth, through programs like the Survivors of Torture Initiative.</p>
-<p>The United States will continue to strive to advance the Convention against Torture’s goal of a world free from torture.  Perpetrators of torture should know that we will vigilantly pursue accountability for torture, other human rights violations and abuses, and violations of international humanitarian law.  As long as torture occurs, the United States will not waver in its commitment to eliminate this human rights violation.<input type="hidden" data-filter="111000000001" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Today, we solemnly observe the International Day in Support of Victims of Torture, and in so doing, the United States reaffirms our condemnation of torture no matter where or by whom it is perpetrated.  Torture is not only an unacceptable violation of human rights; it is a crime under international and U.S. law.  As we condemn this horrific crime, we also affirm the humanity of torture survivors around the world and note our respect for their dignity.</p>
-<p>The United States is one of 173 states that are parties to the Convention against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment, which entered into force in 1987.  Yet despite this near universal condemnation, torture and other violations of human rights are still perpetrated around the world, often against political opponents, members of marginalized populations, prisoners of war and other detainees, human rights defenders, and those who voice opinions that certain governments do not like.  So long as any person anywhere suffers from torture, our pursuit of accountability will continue, as will our support for torture survivors.</p>
-<p>As outlined in our most recent periodic report to the United Nations’ Committee Against Torture last September, the United States remains committed to the Convention against Torture.  We acknowledge that we must confront our own shortcomings and mistakes and uphold U.S. values.  We take seriously our obligations as a State Party, including to prevent and punish torture, and not to expel, return, or extradite anyone to a country where they would be tortured.  We welcomed the election last October of Todd Buchwald as an independent expert on the Committee and support the Committee’s work to promote compliance of treaty obligations by parties to the Convention.</p>
-<p>U.S. law prohibits the provision of our assistance to any foreign government security force units credibly implicated in torture.  In addition, as the largest contributor to the UN Voluntary Fund for Victims of Torture, we continue to support rehabilitation and justice programs to help victims around the world transition from horror to healing.  We also directly support the needs of survivors and their calls for truth, through programs like the Survivors of Torture Initiative.</p>
-<p>The United States will continue to strive to advance the Convention against Torture’s goal of a world free from torture.  Perpetrators of torture should know that we will vigilantly pursue accountability for torture, other human rights violations and abuses, and violations of international humanitarian law.  As long as torture occurs, the United States will not waver in its commitment to eliminate this human rights violation.<input type="hidden" data-filter="111000000001" /></p>
 ]]></content:encoded>
 					
 		
