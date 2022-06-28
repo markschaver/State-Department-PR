@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Mon, 27 Jun 2022 19:00:01 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jun 2022 01:25:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Blinken’s Call with Panamanian President Cortizo</title>
+		<link>https://www.state.gov/secretary-blinkens-call-with-panamanian-president-cortizo/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2022 01:25:54 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=355197</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Panamanian President Laurentino Cortizo.  Secretary Blinken expressed support for President Cortizo as he faces personal health challenges and sent his best wishes from President Biden as President Cortizo travels to the United States for further care.</p>
+<p><input type="hidden" data-filter="100000000000" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Panamanian President Laurentino Cortizo.  Secretary Blinken expressed support for President Cortizo as he faces personal health challenges and sent his best wishes from President Biden as President Cortizo travels to the United States for further care.</p>
+<p><input type="hidden" data-filter="100000000000" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Advancing A Maritime Agreement Between Israel and Lebanon</title>
 		<link>https://www.state.gov/advancing-a-maritime-agreement-between-israel-and-lebanon/</link>
 		
@@ -1541,165 +1700,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>On behalf of the United States of America, I congratulate the people of Madagascar on the occasion of your sixty-second Independence Day.</p>
 <p>The United States remains steadfast in its commitment to work with the Malagasy people to protect the environment and foster economic development. We look forward to furthering our partnership to advance democratic values, strengthen human rights, and encourage sustainable economic development in the coming years.</p>
 <p>Best wishes to you on this auspicious occasion.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Blinken’s Call with Turkish Foreign Minister Cavusoglu</title>
-		<link>https://www.state.gov/secretary-blinkens-call-with-turkish-foreign-minister-cavusoglu-10/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Sat, 25 Jun 2022 21:27:09 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=354896</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The below is attributable to Spokesperson Ned Price:</p>
-<p>Secretary of State Antony J. Blinken spoke today with Turkish Foreign Minister Mevlut Cavusoglu. Secretary Blinken and Foreign Minister Cavusoglu discussed the importance of NATO unity in the lead up to the June 29-30 NATO Summit in Madrid. They also discussed ongoing support for Ukraine in the face of Russia’s continued aggression. The Secretary expressed appreciation for the Foreign Minister&#8217;s diplomatic efforts to enable Ukrainian agricultural exports to reach global markets.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The below is attributable to Spokesperson Ned Price:</p>
-<p>Secretary of State Antony J. Blinken spoke today with Turkish Foreign Minister Mevlut Cavusoglu. Secretary Blinken and Foreign Minister Cavusoglu discussed the importance of NATO unity in the lead up to the June 29-30 NATO Summit in Madrid. They also discussed ongoing support for Ukraine in the face of Russia’s continued aggression. The Secretary expressed appreciation for the Foreign Minister&#8217;s diplomatic efforts to enable Ukrainian agricultural exports to reach global markets.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
