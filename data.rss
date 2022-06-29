@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Wed, 29 Jun 2022 20:10:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Jun 2022 21:03:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>United States Hosts U.S.– EU Space Dialogue</title>
+		<link>https://www.state.gov/united-states-hosts-u-s-eu-space-dialogue/</link>
+		
+		<dc:creator><![CDATA[U.S. Department of State]]></dc:creator>
+		<pubDate>Wed, 29 Jun 2022 21:03:27 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=355916</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>As part of our deep ongoing collaboration on outer space issues, officials from the United States and the European Union met for the 11th U.S.-EU Space Dialogue in Washington, D.C.  Officials discussed cooperation on Earth observation and disaster response, global navigation satellite systems, spaceflight safety and space situational awareness, and opportunities for trans-Atlantic cooperation to ensure the security and long-term sustainability of outer space activities.  The United States and the European Union have a long history of space cooperation, including collaboration on applications of U.S. Global Positioning System and EU’s Galileo system and the use of Earth observation satellites to support action on climate change, a shared priority.</p>
+<p>The United States delegation was led by Jennifer R. Littlejohn, Principal Deputy Assistant Secretary of the Department of State’s Bureau of Oceans and International Environmental and Scientific Affairs, and Eric Desautels, Acting Deputy Assistant Secretary of the Bureau of Arms Control, Verification and Compliance.  It included representatives from the Department of State, the Department of Commerce, the National Aeronautics and Space Administration, the Department of Defense, and the Department of Interior.</p>
+<p>The European Union delegation was led by Evi Papantoniou, Acting Director for Space in the European Commission &#8211; Directorate-General for Defence Industry and Space (DEFIS) and Carine Claeys, the European External Action Service’s Special Envoy for Space.  It included representatives from the European Commission, European External Action Service, and the European Space Agency.</p>
+<p>For more information, contact <a href="mailto:OES-PA-DG@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">OES-PA-DG@state.gov</a>.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>As part of our deep ongoing collaboration on outer space issues, officials from the United States and the European Union met for the 11th U.S.-EU Space Dialogue in Washington, D.C.  Officials discussed cooperation on Earth observation and disaster response, global navigation satellite systems, spaceflight safety and space situational awareness, and opportunities for trans-Atlantic cooperation to ensure the security and long-term sustainability of outer space activities.  The United States and the European Union have a long history of space cooperation, including collaboration on applications of U.S. Global Positioning System and EU’s Galileo system and the use of Earth observation satellites to support action on climate change, a shared priority.</p>
+<p>The United States delegation was led by Jennifer R. Littlejohn, Principal Deputy Assistant Secretary of the Department of State’s Bureau of Oceans and International Environmental and Scientific Affairs, and Eric Desautels, Acting Deputy Assistant Secretary of the Bureau of Arms Control, Verification and Compliance.  It included representatives from the Department of State, the Department of Commerce, the National Aeronautics and Space Administration, the Department of Defense, and the Department of Interior.</p>
+<p>The European Union delegation was led by Evi Papantoniou, Acting Director for Space in the European Commission &#8211; Directorate-General for Defence Industry and Space (DEFIS) and Carine Claeys, the European External Action Service’s Special Envoy for Space.  It included representatives from the European Commission, European External Action Service, and the European Space Agency.</p>
+<p>For more information, contact <a href="mailto:OES-PA-DG@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">OES-PA-DG@state.gov</a>.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Antony J. Blinken And Spanish Foreign Minister José Manuel Albares At the NATO Public Forum</title>
 		<link>https://www.state.gov/secretary-antony-j-blinken-and-spanish-foreign-minister-jose-manuel-albares-at-the-nato-public-forum/</link>
 		
@@ -1781,165 +1942,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Winning diplomatic posts include Embassy Lusaka, Embassy Mbabane, Embassy Kuala Lumpur, Embassy Manila, Consulate General Surabaya, Embassy Bern, Embassy Singapore, and Embassy Bridgetown which received grants for projects to improve their energy efficiency.  Embassy Dar es Salaam, Embassy Riga, Embassy Manama, Embassy Valletta, and Embassy Tunis received grants to improve their water consumption and implement sustainable gardening practices.  Embassy Singapore, Embassy Oslo, Embassy The Hague, and Consulate General Sao Paulo received grants to build EV infrastructure for charging stations.  Embassy Bishkek received a grant aimed at improving its cycling infrastructure.  Embassy Lima will reduce their waste by installing composting systems.</p>
 <p>For further information on the Greening Diplomacy Initiative, please contact Stephanie Christel at <a href="mailto:ChristelSM@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">ChristelSM@state.gov</a>, or visit <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA2MjguNTk5OTg5OTEiLCJ1cmwiOiJodHRwOi8vd3d3LnN0YXRlLmdvdi9lY29kaXBsb21hY3kifQ.bQR31ty8LKsOkAgFd7lleyEA8iR8UPP164BI0O5bGds/s/1436012980/br/134322412812-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA2MjguNTk5OTg5OTEiLCJ1cmwiOiJodHRwOi8vd3d3LnN0YXRlLmdvdi9lY29kaXBsb21hY3kifQ.bQR31ty8LKsOkAgFd7lleyEA8iR8UPP164BI0O5bGds%2Fs%2F1436012980%2Fbr%2F134322412812-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C6e5e9afd0fbe4f4e296808da58fdf81c%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637920145057661183%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=Jw9SxCuBaTXUEXRdVcUgpBUcKQKei39NbueCyPSwrk8%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">www.state.gov/eco-diplomacy</a>.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Blinken’s Call with Panamanian President Cortizo</title>
-		<link>https://www.state.gov/secretary-blinkens-call-with-panamanian-president-cortizo/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Tue, 28 Jun 2022 01:25:54 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=355197</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The below is attributable to Spokesperson Ned Price:</p>
-<p>Secretary of State Antony J. Blinken spoke today with Panamanian President Laurentino Cortizo.  Secretary Blinken expressed support for President Cortizo as he faces personal health challenges and sent his best wishes from President Biden as President Cortizo travels to the United States for further care.</p>
-<p><input type="hidden" data-filter="100000000000" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The below is attributable to Spokesperson Ned Price:</p>
-<p>Secretary of State Antony J. Blinken spoke today with Panamanian President Laurentino Cortizo.  Secretary Blinken expressed support for President Cortizo as he faces personal health challenges and sent his best wishes from President Biden as President Cortizo travels to the United States for further care.</p>
-<p><input type="hidden" data-filter="100000000000" /></p>
 ]]></content:encoded>
 					
 		
