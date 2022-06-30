@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Thu, 30 Jun 2022 19:46:31 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Jun 2022 20:27:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hong Kong 25 Years After Handover</title>
+		<link>https://www.state.gov/hong-kong-25-years-after-handover/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Thu, 30 Jun 2022 20:27:46 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=356244</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On July 1, we mark the 25th anniversary of the handover of Hong Kong to the People’s Republic of China.  This date was envisioned as the halfway point of 50 years of promised autonomy under the “One Country, Two Systems” framework.  Yet it is now evident that Hong Kong and Beijing authorities no longer view democratic participation, fundamental freedoms, and an independent media as part of this vision.</p>
+<p>In 2019, millions of Hong Kongers joined public protests to oppose controversial extradition legislation.  Beijing’s response &#8211; the National Security Law &#8211; set the stage for an erosion of autonomy and dismantling of the rights and freedoms of Hong Kong residents over the last two years.  Authorities have jailed the opposition, with many imprisoned for more than a year.  Hong Kong’s leaders have raided independent media organizations, shuttered museums and removed public works of art, weakened democratic institutions, delayed elections, prevented vigils, disqualified sitting lawmakers, and instituted loyalty oaths.  Government officials have spread disinformation that grassroots protests were the work of foreign actors.  They have done all of this in an effort to deprive Hong Kongers of what they have been promised.</p>
+<p>We stand in solidarity with people in Hong Kong and reinforce their calls for their promised freedoms to be reinstated.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On July 1, we mark the 25th anniversary of the handover of Hong Kong to the People’s Republic of China.  This date was envisioned as the halfway point of 50 years of promised autonomy under the “One Country, Two Systems” framework.  Yet it is now evident that Hong Kong and Beijing authorities no longer view democratic participation, fundamental freedoms, and an independent media as part of this vision.</p>
+<p>In 2019, millions of Hong Kongers joined public protests to oppose controversial extradition legislation.  Beijing’s response &#8211; the National Security Law &#8211; set the stage for an erosion of autonomy and dismantling of the rights and freedoms of Hong Kong residents over the last two years.  Authorities have jailed the opposition, with many imprisoned for more than a year.  Hong Kong’s leaders have raided independent media organizations, shuttered museums and removed public works of art, weakened democratic institutions, delayed elections, prevented vigils, disqualified sitting lawmakers, and instituted loyalty oaths.  Government officials have spread disinformation that grassroots protests were the work of foreign actors.  They have done all of this in an effort to deprive Hong Kongers of what they have been promised.</p>
+<p>We stand in solidarity with people in Hong Kong and reinforce their calls for their promised freedoms to be reinstated.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>The Harsh Sentencing of Human Rights Defenders in Cuba</title>
 		<link>https://www.state.gov/the-harsh-sentencing-of-human-rights-defenders-in-cuba/</link>
 		
@@ -1582,167 +1743,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Assistant Secretary of State for the Bureau of International Narcotics and Law Enforcement Affairs (INL) Todd D. Robinson will travel to Pakistan from June 29 – July 2 to discuss international law enforcement and counternarcotics initiatives.</p>
 <p>While in Pakistan, Assistant Secretary Robinson will meet with senior government officials to discuss U.S.-Pakistan cooperation on various topics, including counternarcotics, gender issues, transnational crime, and border security.  Assistant Secretary Robinson looks forward to celebrating the 75th anniversary of bilateral relations between the United States and Pakistan, and INL’s 40-year partnership with Pakistan under the theme of “justice, security, and prosperity.”</p>
 <p>For further information, please contact <a href="mailto:INL-PAPD@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0"><strong>INL-PAPD@state.gov</strong></a> or visit @StateINL on twitter.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>U.S. Citizen Diplomats Take the Lead to Address Community Issues Across the United States and the World</title>
-		<link>https://www.state.gov/u-s-citizen-diplomats-take-the-lead-to-address-community-issues-across-the-united-states-and-the-world/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Tue, 28 Jun 2022 19:50:12 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=355439</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The U.S. Department of State announced today that 65 U.S. citizen diplomats and 33 international partners, all alumni of U.S. government exchange programs, will receive federal grants through the Citizen Diplomacy Action Fund (CDAF) to implement public service projects with an aim to address key global issues and foster mutual understanding. The 2022 winning projects include those focused on breaking down cultural barriers, addressing the root causes of human trafficking, supporting sustainable development efforts, empowering women leaders from rural communities, and more. See the full list of winning projects <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA2MjguNjAwMjgwOTEiLCJ1cmwiOiJodHRwczovL2FsdW1uaS5zdGF0ZS5nb3Yvd2VsY29tZS11cy1leGNoYW5nZS1hbHVtbmkvY2l0aXplbi1kaXBsb21hY3ktYWN0aW9uLWZ1bmQtY2RhZi9jb25ncmF0dWxhdGlvbnMtd2lubmVycy0yMDIyLWNkYWYifQ.eCnUahRCz4RUvo5yWcB0x2F__0U1BmOUp0y7EjCgbAA/s/1436012980/br/134341573533-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA2MjguNjAwMjgwOTEiLCJ1cmwiOiJodHRwczovL2FsdW1uaS5zdGF0ZS5nb3Yvd2VsY29tZS11cy1leGNoYW5nZS1hbHVtbmkvY2l0aXplbi1kaXBsb21hY3ktYWN0aW9uLWZ1bmQtY2RhZi9jb25ncmF0dWxhdGlvbnMtd2lubmVycy0yMDIyLWNkYWYifQ.eCnUahRCz4RUvo5yWcB0x2F__0U1BmOUp0y7EjCgbAA%2Fs%2F1436012980%2Fbr%2F134341573533-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C78ba6ea2241047a68eec08da59382ca6%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637920395051451691%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=ZEo2PZmfLypehQU5a7dkLgyeFF14ArT4cAbSafEKZDk%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">here</a>.</p>
-<p>Since 2019, 189 teams of U.S. Exchange Alumni have been granted over $1.5 million for their CDAF projects, making an impact on the United States and around the world.  This year’s alumni teams submitted public service project proposals addressing the themes of environmental protection, strengthening democratic institutions, fostering alumni networks, increasing outreach to underserved communities, and building community through arts, sports, language, and technology. The 2022 CDAF winners will implement their projects over the next six months, with all grant-funded activities completed in December 2022.</p>
-<p>The U.S. Department of State’s Citizen Diplomacy Action Fund is implemented in partnership with Global Ties U.S. For further information, please contact <a href="mailto:eca-press@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1">eca-press@state.gov</a>. Follow #CDAF and #ExchangeAlumni on social media for success stories and opportunities to attend events hosted by our CDAF winners.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The U.S. Department of State announced today that 65 U.S. citizen diplomats and 33 international partners, all alumni of U.S. government exchange programs, will receive federal grants through the Citizen Diplomacy Action Fund (CDAF) to implement public service projects with an aim to address key global issues and foster mutual understanding. The 2022 winning projects include those focused on breaking down cultural barriers, addressing the root causes of human trafficking, supporting sustainable development efforts, empowering women leaders from rural communities, and more. See the full list of winning projects <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA2MjguNjAwMjgwOTEiLCJ1cmwiOiJodHRwczovL2FsdW1uaS5zdGF0ZS5nb3Yvd2VsY29tZS11cy1leGNoYW5nZS1hbHVtbmkvY2l0aXplbi1kaXBsb21hY3ktYWN0aW9uLWZ1bmQtY2RhZi9jb25ncmF0dWxhdGlvbnMtd2lubmVycy0yMDIyLWNkYWYifQ.eCnUahRCz4RUvo5yWcB0x2F__0U1BmOUp0y7EjCgbAA/s/1436012980/br/134341573533-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA2MjguNjAwMjgwOTEiLCJ1cmwiOiJodHRwczovL2FsdW1uaS5zdGF0ZS5nb3Yvd2VsY29tZS11cy1leGNoYW5nZS1hbHVtbmkvY2l0aXplbi1kaXBsb21hY3ktYWN0aW9uLWZ1bmQtY2RhZi9jb25ncmF0dWxhdGlvbnMtd2lubmVycy0yMDIyLWNkYWYifQ.eCnUahRCz4RUvo5yWcB0x2F__0U1BmOUp0y7EjCgbAA%2Fs%2F1436012980%2Fbr%2F134341573533-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C78ba6ea2241047a68eec08da59382ca6%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637920395051451691%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=ZEo2PZmfLypehQU5a7dkLgyeFF14ArT4cAbSafEKZDk%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">here</a>.</p>
-<p>Since 2019, 189 teams of U.S. Exchange Alumni have been granted over $1.5 million for their CDAF projects, making an impact on the United States and around the world.  This year’s alumni teams submitted public service project proposals addressing the themes of environmental protection, strengthening democratic institutions, fostering alumni networks, increasing outreach to underserved communities, and building community through arts, sports, language, and technology. The 2022 CDAF winners will implement their projects over the next six months, with all grant-funded activities completed in December 2022.</p>
-<p>The U.S. Department of State’s Citizen Diplomacy Action Fund is implemented in partnership with Global Ties U.S. For further information, please contact <a href="mailto:eca-press@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="1">eca-press@state.gov</a>. Follow #CDAF and #ExchangeAlumni on social media for success stories and opportunities to attend events hosted by our CDAF winners.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
