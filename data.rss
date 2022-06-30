@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Thu, 30 Jun 2022 23:17:19 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Jun 2022 23:23:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Rewards for Justice – Reward Offer for Information on Foreign Interference in U.S. Elections</title>
+		<link>https://www.state.gov/rewards-for-justice-reward-offer-for-information-on-foreign-interference-in-u-s-elections/</link>
+		
+		<dc:creator><![CDATA[U.S. Department of State]]></dc:creator>
+		<pubDate>Thu, 30 Jun 2022 23:23:51 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=356296</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>The U.S. Department of State’s Rewards for Justice (RFJ) program, which is administered by the Diplomatic Security Service, is offering a reward of up to $10 million for information on foreign interference in U.S. elections.</p>
+<p>The reward offer seeks information leading to the identification or location of any foreign person, including a foreign entity, who knowingly engaged or is engaging in foreign election interference, as well as information leading to the prevention, frustration, or favorable resolution of an act of foreign election interference.</p>
+<p>Foreign election interference includes certain conduct by a foreign person that violates federal criminal, voting rights, or campaign finance law, or that is performed by any person acting as an agent of or on behalf of, or in coordination with, a foreign government or criminal enterprise. This conduct includes covert, fraudulent, deceptive, or unlawful acts or attempted acts, or knowing use of information acquired by theft, undertaken with the specific intent to influence voters, undermine public confidence in election processes or institutions, or influence, undermine confidence in, or alter the result or reported result of a general or primary federal, states, or local election or caucus. Such conduct could include vote tampering and database intrusions; certain influence, disinformation, and bot farm campaigns; or malicious cyber activities.</p>
+<p>This reward offer reflects additional authorities to provide rewards for information on foreign interference in domestic elections provided by the William M. “Mac” Thornberry National Defense Authorization Act for Fiscal Year 2021.</p>
+<p>More information about this reward offer is located on the Rewards for Justice website at <a class="external-link" href="http://www.rewardsforjustice.net" target="_BLANK" rel="noopener"><span class="external-link-title">www.rewardsforjustice.net</span><span class="icon-external"> </span></a>.  We encourage anyone with information on foreign interference in U.S. elections to contact the Rewards for Justice office via its Tor-based tips-reporting channel at: he5dybnt7sr6cm32xt77pazmtm65flqy6irivtflruqfc5ep7eiodiad.onion (Tor browser required).</p>
+<p>The Rewards for Justice Program is an effective law enforcement tool and is administered by the U.S. Department of State&#8217;s Diplomatic Security Service.  Since its inception in 1984, the program has paid in excess of $250 million to more than 125 people across the globe who provided information that helped prevent terrorism, bring terrorist leaders to justice, and resolve threats to U.S. national security. Follow us on Twitter at <a class="external-link" href="https://twitter.com/RFJ_USA" target="_BLANK" rel="noopener"><span class="external-link-title">https://twitter.com/RFJ_USA</span><span class="icon-external"> </span></a>.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>The U.S. Department of State’s Rewards for Justice (RFJ) program, which is administered by the Diplomatic Security Service, is offering a reward of up to $10 million for information on foreign interference in U.S. elections.</p>
+<p>The reward offer seeks information leading to the identification or location of any foreign person, including a foreign entity, who knowingly engaged or is engaging in foreign election interference, as well as information leading to the prevention, frustration, or favorable resolution of an act of foreign election interference.</p>
+<p>Foreign election interference includes certain conduct by a foreign person that violates federal criminal, voting rights, or campaign finance law, or that is performed by any person acting as an agent of or on behalf of, or in coordination with, a foreign government or criminal enterprise. This conduct includes covert, fraudulent, deceptive, or unlawful acts or attempted acts, or knowing use of information acquired by theft, undertaken with the specific intent to influence voters, undermine public confidence in election processes or institutions, or influence, undermine confidence in, or alter the result or reported result of a general or primary federal, states, or local election or caucus. Such conduct could include vote tampering and database intrusions; certain influence, disinformation, and bot farm campaigns; or malicious cyber activities.</p>
+<p>This reward offer reflects additional authorities to provide rewards for information on foreign interference in domestic elections provided by the William M. “Mac” Thornberry National Defense Authorization Act for Fiscal Year 2021.</p>
+<p>More information about this reward offer is located on the Rewards for Justice website at <a class="external-link" href="http://www.rewardsforjustice.net" target="_BLANK" rel="noopener"><span class="external-link-title">www.rewardsforjustice.net</span><span class="icon-external"> </span></a>.  We encourage anyone with information on foreign interference in U.S. elections to contact the Rewards for Justice office via its Tor-based tips-reporting channel at: he5dybnt7sr6cm32xt77pazmtm65flqy6irivtflruqfc5ep7eiodiad.onion (Tor browser required).</p>
+<p>The Rewards for Justice Program is an effective law enforcement tool and is administered by the U.S. Department of State&#8217;s Diplomatic Security Service.  Since its inception in 1984, the program has paid in excess of $250 million to more than 125 people across the globe who provided information that helped prevent terrorism, bring terrorist leaders to justice, and resolve threats to U.S. national security. Follow us on Twitter at <a class="external-link" href="https://twitter.com/RFJ_USA" target="_BLANK" rel="noopener"><span class="external-link-title">https://twitter.com/RFJ_USA</span><span class="icon-external"> </span></a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Blinken’s Call with Palestinian President Abbas</title>
 		<link>https://www.state.gov/secretary-blinkens-call-with-palestinian-president-abbas-3/</link>
 		
@@ -1583,165 +1746,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p><strong>SECRETARY BLINKEN:</strong>  Thanks, Michel.  (Applause.)</p>
 <p><strong>FOREIGN MINISTER ALBARES:</strong>  Thank you.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Seychelles National Day</title>
-		<link>https://www.state.gov/seychelles-national-day-2/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Wed, 29 Jun 2022 04:01:31 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=355466</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>On behalf of the people of the United States, I congratulate the Seychellois people on your forty-sixth anniversary of independence.</p>
-<p>The United States greatly values our relationship with Seychelles and our mutual dedication to democratic values, human rights, and peace and security.  We look forward to deepening our relationship in the years to come.</p>
-<p>Best wishes to the Seychellois people on this momentous occasion.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>On behalf of the people of the United States, I congratulate the Seychellois people on your forty-sixth anniversary of independence.</p>
-<p>The United States greatly values our relationship with Seychelles and our mutual dedication to democratic values, human rights, and peace and security.  We look forward to deepening our relationship in the years to come.</p>
-<p>Best wishes to the Seychellois people on this momentous occasion.</p>
 ]]></content:encoded>
 					
 		
