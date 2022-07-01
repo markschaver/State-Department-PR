@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Fri, 01 Jul 2022 12:30:09 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Jul 2022 13:59:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Under Secretary Fernandez’s Travel to Spain</title>
+		<link>https://www.state.gov/under-secretary-fernandezs-travel-to-spain/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Fri, 01 Jul 2022 13:59:09 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=356423</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>Under Secretary for Economic Growth, Energy, and the Environment, Jose W. Fernandez, is visiting Spain June 29 through July 5, 2022, to participate in the U.S.-Spain Forum in Bilbao, and engage with government officials, business leaders, and civil society members to support our shared objectives regarding commerce, investment, and clean energy initiatives.  This annual conference brings together members of the United States-Spain Council and its counterpart, the Fundación Consejo España – EE.UU., with leaders from the public and private sectors of both countries to address important bilateral issues.  At the conference, Under Secretary Fernandez will focus on building partnerships to promote increased green investment that further job growth, economic inclusion, and opportunities for citizens in Spain, the United States, and across the region.</p>
+<p>For press inquiries, contact <a href="mailto:E_Communications@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">E_Communications@state.gov</a>.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>Under Secretary for Economic Growth, Energy, and the Environment, Jose W. Fernandez, is visiting Spain June 29 through July 5, 2022, to participate in the U.S.-Spain Forum in Bilbao, and engage with government officials, business leaders, and civil society members to support our shared objectives regarding commerce, investment, and clean energy initiatives.  This annual conference brings together members of the United States-Spain Council and its counterpart, the Fundación Consejo España – EE.UU., with leaders from the public and private sectors of both countries to address important bilateral issues.  At the conference, Under Secretary Fernandez will focus on building partnerships to promote increased green investment that further job growth, economic inclusion, and opportunities for citizens in Spain, the United States, and across the region.</p>
+<p>For press inquiries, contact <a href="mailto:E_Communications@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">E_Communications@state.gov</a>.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Canada Day</title>
 		<link>https://www.state.gov/canada-day-2/</link>
 		
@@ -1423,167 +1582,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The symposium highlighted the importance of the Women, Peace and Security and the Youth, Peace and Security Agendas in conflict prevention, mitigation, resolution, and peacebuilding. As a diplomatic body, ARF contributes to conflict prevention in the region by fostering dialogue and promoting preventive diplomacy among its twenty-seven participating countries.</p>
 <p>The U.S.-led event, organized by the Bureau of East Asian and Pacific Affairs in partnership with the United States Institute for Peace, featured a welcome address by the Governor of Hawaii, David Ige, and sessions moderated by Assistant Secretary of State for Conflict Stabilization and Operations Anne Witkowski and Senior Official Katrina Fotovat from the Secretary’s Office for Global Women’s Issues. The event also featured keynote addresses by Ambassador Lisa Carty, U.S. Ambassador to the United Nations for the Economic and Social Council; Air Commodore Christopher Robson, U.S. Indo-Pacific Command J5 Deputy Director for Strategy; and Steven G. Olive, Ph.D., Mission Director, Regional Development Mission for Asia at the U.S. Agency for International Development.</p>
 <p>For further information on this event or other upcoming events in the ASEAN Regional Forum, please contact EAP/MLA at <a href="mailto:EAPMLAoffice-dl@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">EAPMLAoffice-dl@state.gov</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Hong Kong 25 Years After Handover</title>
-		<link>https://www.state.gov/hong-kong-25-years-after-handover/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Thu, 30 Jun 2022 20:27:46 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=356244</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>On July 1, we mark the 25th anniversary of the handover of Hong Kong to the People’s Republic of China.  This date was envisioned as the halfway point of 50 years of promised autonomy under the “One Country, Two Systems” framework.  Yet it is now evident that Hong Kong and Beijing authorities no longer view democratic participation, fundamental freedoms, and an independent media as part of this vision.</p>
-<p>In 2019, millions of Hong Kongers joined public protests to oppose controversial extradition legislation.  Beijing’s response &#8211; the National Security Law &#8211; set the stage for an erosion of autonomy and dismantling of the rights and freedoms of Hong Kong residents over the last two years.  Authorities have jailed the opposition, with many imprisoned for more than a year.  Hong Kong’s leaders have raided independent media organizations, shuttered museums and removed public works of art, weakened democratic institutions, delayed elections, prevented vigils, disqualified sitting lawmakers, and instituted loyalty oaths.  Government officials have spread disinformation that grassroots protests were the work of foreign actors.  They have done all of this in an effort to deprive Hong Kongers of what they have been promised.</p>
-<p>We stand in solidarity with people in Hong Kong and reinforce their calls for their promised freedoms to be reinstated.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>On July 1, we mark the 25th anniversary of the handover of Hong Kong to the People’s Republic of China.  This date was envisioned as the halfway point of 50 years of promised autonomy under the “One Country, Two Systems” framework.  Yet it is now evident that Hong Kong and Beijing authorities no longer view democratic participation, fundamental freedoms, and an independent media as part of this vision.</p>
-<p>In 2019, millions of Hong Kongers joined public protests to oppose controversial extradition legislation.  Beijing’s response &#8211; the National Security Law &#8211; set the stage for an erosion of autonomy and dismantling of the rights and freedoms of Hong Kong residents over the last two years.  Authorities have jailed the opposition, with many imprisoned for more than a year.  Hong Kong’s leaders have raided independent media organizations, shuttered museums and removed public works of art, weakened democratic institutions, delayed elections, prevented vigils, disqualified sitting lawmakers, and instituted loyalty oaths.  Government officials have spread disinformation that grassroots protests were the work of foreign actors.  They have done all of this in an effort to deprive Hong Kongers of what they have been promised.</p>
-<p>We stand in solidarity with people in Hong Kong and reinforce their calls for their promised freedoms to be reinstated.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
