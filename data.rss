@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Wed, 06 Jul 2022 13:53:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Jul 2022 16:53:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>On the Occasion of His Holiness the Dalai Lama’s 87th Birthday</title>
+		<link>https://www.state.gov/on-the-occasion-of-his-holiness-the-dalai-lamas-87th-birthday/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2022 16:53:04 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=357250</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>I extend best wishes to His Holiness the Dalai Lama on the occasion of his 87th birthday today.  His Holiness brings light to his fellow Tibetans and so many around the world by promoting peace, encouraging inter-faith harmony, and advocating for the preservation of Tibetan language and culture.  I admire His Holiness’s ongoing commitment to non-violence to resolve the grievances of the Tibetan community. I am also grateful for his dedication and service to humanity.</p>
+<p>The United States will continue to support His Holiness’s and the Tibetan community’s efforts to preserve Tibet’s distinct linguistic, religious, and cultural traditions, including the ability to freely choose their religious leaders.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>I extend best wishes to His Holiness the Dalai Lama on the occasion of his 87th birthday today.  His Holiness brings light to his fellow Tibetans and so many around the world by promoting peace, encouraging inter-faith harmony, and advocating for the preservation of Tibetan language and culture.  I admire His Holiness’s ongoing commitment to non-violence to resolve the grievances of the Tibetan community. I am also grateful for his dedication and service to humanity.</p>
+<p>The United States will continue to support His Holiness’s and the Tibetan community’s efforts to preserve Tibet’s distinct linguistic, religious, and cultural traditions, including the ability to freely choose their religious leaders.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>On the ECOWAS Summit</title>
 		<link>https://www.state.gov/on-the-ecowas-summit/</link>
 		
@@ -2045,271 +2204,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p align="left">We support Uzbekistan’s efforts to implement democratic reforms. We call on the authorities to protect all fundamental rights, including peaceful assembly and expression, in line with Uzbekistan’s international obligations and commitments.</p>
 <p align="left">We urge authorities to pursue a full, credible, and transparent investigation into the violence, consistent with international norms and best practices.  The United States maintains its long-standing support for Uzbekistan’s sovereignty, independence, and territorial integrity.</p>
 <p><input type="hidden" data-filter="111001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Second Statement on Russia’s War on Ukraine &#038; International Sport</title>
-		<link>https://www.state.gov/second-statement-on-russias-war-on-ukraine-international-sport/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Tue, 05 Jul 2022 15:28:44 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=356761</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p><i>The text of the following statement was agreed upon by the ministers of sport or their equivalent from the countries and individuals listed at the bottom of the statement.</i></p>
-<p><i>Begin text:</i></p>
-<p>Russia’s unprovoked and unjustifiable war of choice against Ukraine, facilitated by the Belarusian government, is abhorrent and a flagrant breach of its international obligations. Respect for human rights and peaceful relations between nations form the foundation of international sport.</p>
-<p>We, as a collective of like-minded nations, reaffirm <a href="https://www.state.gov/statement-on-russias-war-on-ukraine-international-sport/">our statement of 8 March</a> and, while recognizing the autonomy of sporting organizations, further state our governments’ position that:</p>
-<ul class="ul1">
-<li class="li2">Russian and Belarusian sport national governing bodies should be suspended from international sport federations.</li>
-<li class="li2">Individuals closely aligned to the Russian and Belarusian states, including but not limited to government officials, should be removed from positions of influence on international sport federations, such as boards and organizing committees.</li>
-<li class="li2">National and international sports organizations should consider suspending the broadcasting of sports competitions into Russia and Belarus.</li>
-</ul>
-<p>In cases where national and international sports organizations, and other event organizers, choose to permit sportspeople (including athletes, officials and administrators) from Russia and Belarus to participate in sporting events:</p>
-<ul class="ul1">
-<li class="li2">It should be clear that they are not representing the Russian or Belarusian states.</li>
-<li class="li2">The use of official state Russian and Belarusian flags, emblems and anthems should be prohibited.</li>
-<li class="li2">Appropriate steps should be taken to ensure that any public statements made or symbols displayed at sporting events &#8211; by any athletes, officials and administrators involved &#8211; are consistent with this approach.</li>
-</ul>
-<p>We call on all international sport federations to take account of these principles, applaud all those that have taken action already, and encourage our own domestic sporting bodies to engage with their international federations to do so. These restrictions should be in place until cooperation under the rules-based international order has become possible again.</p>
-<p>Furthermore, we reiterate our encouragement for the international sport community to continue to show its solidarity with the people of Ukraine, including through supporting the continuation and reconstruction of Ukrainian sport where possible.</p>
-<p>Signed by the following ministers or their equivalents:</p>
-<ul class="ul1">
-<li class="li2">Australia: The Hon Anika Wells MP, Minister for Aged Care and Minister for Sport</li>
-<li class="li2">Austria: Vice-Chancellor Werner Kogler, Minister of Arts and Culture, Civil Service and Sport</li>
-<li class="li2">Belgium: Valérie Glatigny, Minister for Higher Education, Adult Education, Scientific Research, University Hospitals, Youth Welfare, Houses of Justice, Youth, Sport and the Promotion of Brussels of the French-Speaking Community. This signature commits the French-speaking Community, the Flemish Community and the German-speaking Community of Belgium.</li>
-<li class="li2">Canada: The Honorable Pascale St-Onge, Minister of Sport</li>
-<li class="li2">Croatia: Dr Nikolina Brnjac, Minister of Tourism and Sport</li>
-<li class="li2">Cyprus: Prodromos Prodromou, Minister of Education, Culture, Sport and Youth Office</li>
-<li class="li2">Czech Republic: Filip Neusser, President of the National Sports Agency</li>
-<li class="li2">Denmark: Ane Halsboe-Jørgensen, Minister for Culture</li>
-<li class="li2">Estonia: Liina Kersna, Minister of Education and Research in the responsibilities of Minister of Culture</li>
-<li class="li2">Finland: Petri Honkonen, Minister for Science and Culture</li>
-<li class="li2">France: Amélie Oudéa-Castéra, Minister of Sports and the Olympic and Paralympic Games</li>
-<li class="li2">Germany: Mahmut Özdemir MP, Parliamentary State Secretary at the Federal Ministry of the Interior and Community</li>
-<li class="li2">Greece: Lefteris Avgenakis, Deputy Minister for Sports</li>
-<li class="li2">Iceland: Ásmundur Einar Daðason, Minister of Education and Children</li>
-<li class="li2">Ireland: Jack Chambers TD, Minister of State for Sport and the Gaeltacht</li>
-<li class="li2">Italy: Valentina Vezzali, Secretary of State for Sport</li>
-<li class="li2">Japan: H.E. SUEMATSU Shinsuke, Minister of Education, Culture, Sports, Science and Technology</li>
-<li class="li2">Republic of Korea: PARK Bo Gyoon, Minister of Culture, Sport and Tourism</li>
-<li class="li2">Latvia: Anita Muižniece, Minister for Education and Science</li>
-<li class="li2">Liechtenstein: H.E. Dominique Hasler, Minister of Foreign Affairs, Education and Sport</li>
-<li class="li2">Lithuania: Dr Jurgita Šiugždinienė, Minister of Education, Science and Sport</li>
-<li class="li2">Luxembourg: Georges Engel, Minister of Sport</li>
-<li class="li2">Malta: Dr Clifton Grima, Minister for Education, Youth, Sport, Research and Innovation</li>
-<li class="li2">Netherlands: Conny Helder, Minister for Long-term Care and Sport</li>
-<li class="li2">New Zealand: Hon Grant Robertson, Minister for Sport and Recreation</li>
-<li class="li2">Norway: Anette Trettebergstuen, Minister of Culture and Equality</li>
-<li class="li2">Poland: Kamil Bortniczuk, Minister of Sport and Tourism</li>
-<li class="li2">Portugal: Ana Catarina Mendes, Minister in the Cabinet of the Prime Minister and for Parliamentary Affairs (in charge of Youth and Sport)</li>
-<li class="li2">Romania: Carol-Eduard Novak, Minister of Sports</li>
-<li class="li2">Slovakia: Ivan Husar, State Secretary for Sport</li>
-<li class="li2">Slovenia: Dr Igor Papič, Minister of Education, Science and Sport</li>
-<li class="li2">Spain: Miquel Octavi Iceta i Llorens, Minister of Culture and Sport</li>
-<li class="li2">Sweden: Anders Ygeman, Minister for Integration and Migration</li>
-<li class="li2">United Kingdom: The Rt Hon Nadine Dorries MP, Secretary of State for Digital, Culture, Media and Sport</li>
-<li class="li3">United States of America: Elizabeth Allen, Senior Official for Public Diplomacy and Public Affairs</li>
-</ul>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p><i>The text of the following statement was agreed upon by the ministers of sport or their equivalent from the countries and individuals listed at the bottom of the statement.</i></p>
-<p><i>Begin text:</i></p>
-<p>Russia’s unprovoked and unjustifiable war of choice against Ukraine, facilitated by the Belarusian government, is abhorrent and a flagrant breach of its international obligations. Respect for human rights and peaceful relations between nations form the foundation of international sport.</p>
-<p>We, as a collective of like-minded nations, reaffirm <a href="https://www.state.gov/statement-on-russias-war-on-ukraine-international-sport/">our statement of 8 March</a> and, while recognizing the autonomy of sporting organizations, further state our governments’ position that:</p>
-<ul class="ul1">
-<li class="li2">Russian and Belarusian sport national governing bodies should be suspended from international sport federations.</li>
-<li class="li2">Individuals closely aligned to the Russian and Belarusian states, including but not limited to government officials, should be removed from positions of influence on international sport federations, such as boards and organizing committees.</li>
-<li class="li2">National and international sports organizations should consider suspending the broadcasting of sports competitions into Russia and Belarus.</li>
-</ul>
-<p>In cases where national and international sports organizations, and other event organizers, choose to permit sportspeople (including athletes, officials and administrators) from Russia and Belarus to participate in sporting events:</p>
-<ul class="ul1">
-<li class="li2">It should be clear that they are not representing the Russian or Belarusian states.</li>
-<li class="li2">The use of official state Russian and Belarusian flags, emblems and anthems should be prohibited.</li>
-<li class="li2">Appropriate steps should be taken to ensure that any public statements made or symbols displayed at sporting events &#8211; by any athletes, officials and administrators involved &#8211; are consistent with this approach.</li>
-</ul>
-<p>We call on all international sport federations to take account of these principles, applaud all those that have taken action already, and encourage our own domestic sporting bodies to engage with their international federations to do so. These restrictions should be in place until cooperation under the rules-based international order has become possible again.</p>
-<p>Furthermore, we reiterate our encouragement for the international sport community to continue to show its solidarity with the people of Ukraine, including through supporting the continuation and reconstruction of Ukrainian sport where possible.</p>
-<p>Signed by the following ministers or their equivalents:</p>
-<ul class="ul1">
-<li class="li2">Australia: The Hon Anika Wells MP, Minister for Aged Care and Minister for Sport</li>
-<li class="li2">Austria: Vice-Chancellor Werner Kogler, Minister of Arts and Culture, Civil Service and Sport</li>
-<li class="li2">Belgium: Valérie Glatigny, Minister for Higher Education, Adult Education, Scientific Research, University Hospitals, Youth Welfare, Houses of Justice, Youth, Sport and the Promotion of Brussels of the French-Speaking Community. This signature commits the French-speaking Community, the Flemish Community and the German-speaking Community of Belgium.</li>
-<li class="li2">Canada: The Honorable Pascale St-Onge, Minister of Sport</li>
-<li class="li2">Croatia: Dr Nikolina Brnjac, Minister of Tourism and Sport</li>
-<li class="li2">Cyprus: Prodromos Prodromou, Minister of Education, Culture, Sport and Youth Office</li>
-<li class="li2">Czech Republic: Filip Neusser, President of the National Sports Agency</li>
-<li class="li2">Denmark: Ane Halsboe-Jørgensen, Minister for Culture</li>
-<li class="li2">Estonia: Liina Kersna, Minister of Education and Research in the responsibilities of Minister of Culture</li>
-<li class="li2">Finland: Petri Honkonen, Minister for Science and Culture</li>
-<li class="li2">France: Amélie Oudéa-Castéra, Minister of Sports and the Olympic and Paralympic Games</li>
-<li class="li2">Germany: Mahmut Özdemir MP, Parliamentary State Secretary at the Federal Ministry of the Interior and Community</li>
-<li class="li2">Greece: Lefteris Avgenakis, Deputy Minister for Sports</li>
-<li class="li2">Iceland: Ásmundur Einar Daðason, Minister of Education and Children</li>
-<li class="li2">Ireland: Jack Chambers TD, Minister of State for Sport and the Gaeltacht</li>
-<li class="li2">Italy: Valentina Vezzali, Secretary of State for Sport</li>
-<li class="li2">Japan: H.E. SUEMATSU Shinsuke, Minister of Education, Culture, Sports, Science and Technology</li>
-<li class="li2">Republic of Korea: PARK Bo Gyoon, Minister of Culture, Sport and Tourism</li>
-<li class="li2">Latvia: Anita Muižniece, Minister for Education and Science</li>
-<li class="li2">Liechtenstein: H.E. Dominique Hasler, Minister of Foreign Affairs, Education and Sport</li>
-<li class="li2">Lithuania: Dr Jurgita Šiugždinienė, Minister of Education, Science and Sport</li>
-<li class="li2">Luxembourg: Georges Engel, Minister of Sport</li>
-<li class="li2">Malta: Dr Clifton Grima, Minister for Education, Youth, Sport, Research and Innovation</li>
-<li class="li2">Netherlands: Conny Helder, Minister for Long-term Care and Sport</li>
-<li class="li2">New Zealand: Hon Grant Robertson, Minister for Sport and Recreation</li>
-<li class="li2">Norway: Anette Trettebergstuen, Minister of Culture and Equality</li>
-<li class="li2">Poland: Kamil Bortniczuk, Minister of Sport and Tourism</li>
-<li class="li2">Portugal: Ana Catarina Mendes, Minister in the Cabinet of the Prime Minister and for Parliamentary Affairs (in charge of Youth and Sport)</li>
-<li class="li2">Romania: Carol-Eduard Novak, Minister of Sports</li>
-<li class="li2">Slovakia: Ivan Husar, State Secretary for Sport</li>
-<li class="li2">Slovenia: Dr Igor Papič, Minister of Education, Science and Sport</li>
-<li class="li2">Spain: Miquel Octavi Iceta i Llorens, Minister of Culture and Sport</li>
-<li class="li2">Sweden: Anders Ygeman, Minister for Integration and Migration</li>
-<li class="li2">United Kingdom: The Rt Hon Nadine Dorries MP, Secretary of State for Digital, Culture, Media and Sport</li>
-<li class="li3">United States of America: Elizabeth Allen, Senior Official for Public Diplomacy and Public Affairs</li>
-</ul>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
