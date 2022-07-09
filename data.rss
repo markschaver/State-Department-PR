@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Sat, 09 Jul 2022 00:12:15 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Jul 2022 12:44:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,330 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Announcement of Visa Restrictions Against Cuban Officials</title>
+		<link>https://www.state.gov/announcement-of-visa-restrictions-against-cuban-officials-2/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Sat, 09 Jul 2022 12:44:33 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=358179</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>The Department of State has taken steps to impose visa restrictions on 28 Cuban officials pursuant to Presidential Proclamation 5377, which suspends nonimmigrant entry into the United States of officers and employees of the Cuban government and Cuban Communist Party.</p>
+<p>These 28 officials include officials who are implicated in the repression of the peaceful July 11, 2021 protests. Those covered include high-ranking members of the Cuban Communist Party responsible for setting national- and provincial-level policies.  Instead of ensuring the safety of the Cuban people and respect for their freedoms of expression and peaceful assembly, these officials permitted or facilitated violent and unjust detentions, sham trials, and prison sentences spanning decades for hundreds of protesters.</p>
+<p>Also covered are multiple officials who work in the state communications and media sectors who formulate and implement policies that restrict Cubans’ ability to freely access and share information and who engage in the spread of disinformation.  The Cuban government employed Internet throttling on July 11, 2021, to both prevent the Cuban people from communicating with each other and keep the world from witnessing the historic events that day.  Further, state media officials continue to engage in a campaign against jailed July 11, 2021, protesters and their family members who speak publicly about their loved ones’ cases.  This announcement of visa restrictions comes in response to the actions of Cuban government officials that limit Cubans’ enjoyment of their human rights and fundamental freedoms.</p>
+<p>This action builds upon previous efforts to promote accountability for Cuban officials who enable their government’s assaults on democracy and human rights, including the Department’s three rounds of visa restrictions since November 2021 under Presidential Proclamation 5377, as well as the Treasury Department’s four rounds of financial sanctions designations since July 2021 under Executive Order 13818.  These steps also reinforce the U.S. Government’s commitment to supporting greater freedom and economic opportunities for the Cuban people.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>The Department of State has taken steps to impose visa restrictions on 28 Cuban officials pursuant to Presidential Proclamation 5377, which suspends nonimmigrant entry into the United States of officers and employees of the Cuban government and Cuban Communist Party.</p>
+<p>These 28 officials include officials who are implicated in the repression of the peaceful July 11, 2021 protests. Those covered include high-ranking members of the Cuban Communist Party responsible for setting national- and provincial-level policies.  Instead of ensuring the safety of the Cuban people and respect for their freedoms of expression and peaceful assembly, these officials permitted or facilitated violent and unjust detentions, sham trials, and prison sentences spanning decades for hundreds of protesters.</p>
+<p>Also covered are multiple officials who work in the state communications and media sectors who formulate and implement policies that restrict Cubans’ ability to freely access and share information and who engage in the spread of disinformation.  The Cuban government employed Internet throttling on July 11, 2021, to both prevent the Cuban people from communicating with each other and keep the world from witnessing the historic events that day.  Further, state media officials continue to engage in a campaign against jailed July 11, 2021, protesters and their family members who speak publicly about their loved ones’ cases.  This announcement of visa restrictions comes in response to the actions of Cuban government officials that limit Cubans’ enjoyment of their human rights and fundamental freedoms.</p>
+<p>This action builds upon previous efforts to promote accountability for Cuban officials who enable their government’s assaults on democracy and human rights, including the Department’s three rounds of visa restrictions since November 2021 under Presidential Proclamation 5377, as well as the Treasury Department’s four rounds of financial sanctions designations since July 2021 under Executive Order 13818.  These steps also reinforce the U.S. Government’s commitment to supporting greater freedom and economic opportunities for the Cuban people.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Additional Humanitarian Assistance for the People of Ukraine</title>
+		<link>https://www.state.gov/additional-humanitarian-assistance-for-the-people-of-ukraine-2/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Sat, 09 Jul 2022 12:36:47 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=358175</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>I announced earlier today that the United States is providing nearly $368 million in additional humanitarian assistance to support those affected by Russia’s brutal war on Ukraine. To date, more than11 million people– over a quarter of Ukraine’s population – have been forced to flee their homes due to Russia’s unjustified war, while 15.7 million people require assistance. Since the beginning of President Putin&#8217;s full-scale war in February, the United States has provided over $1.28 billion in humanitarian assistance to address this crisis, and we are the largest single-country donor of humanitarian assistance to Ukraine.</p>
+<p>This additional funding, including nearly $288 million through the Department of State and more than $80 million through the U.S. Agency for International Development (USAID), will provide food, safe drinking water, cash assistance, protection, accessible shelter, emergency health care, logistics, and humanitarian coordination.</p>
+<p>As we move into the fifth month of Russia&#8217;s brutal assault on Ukraine, we continue to call for Russia to end hostilities immediately, facilitate unhindered humanitarian access in Ukraine, and allow sustained safe passage for those who seek to flee to safety. We commend our allies and partners who have welcomed those fleeing the war and welcome the European Union’s decision to extend temporary protection status to Ukrainian citizens, granting them work authorization and access to housing and other services.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>I announced earlier today that the United States is providing nearly $368 million in additional humanitarian assistance to support those affected by Russia’s brutal war on Ukraine. To date, more than11 million people– over a quarter of Ukraine’s population – have been forced to flee their homes due to Russia’s unjustified war, while 15.7 million people require assistance. Since the beginning of President Putin&#8217;s full-scale war in February, the United States has provided over $1.28 billion in humanitarian assistance to address this crisis, and we are the largest single-country donor of humanitarian assistance to Ukraine.</p>
+<p>This additional funding, including nearly $288 million through the Department of State and more than $80 million through the U.S. Agency for International Development (USAID), will provide food, safe drinking water, cash assistance, protection, accessible shelter, emergency health care, logistics, and humanitarian coordination.</p>
+<p>As we move into the fifth month of Russia&#8217;s brutal assault on Ukraine, we continue to call for Russia to end hostilities immediately, facilitate unhindered humanitarian access in Ukraine, and allow sustained safe passage for those who seek to flee to safety. We commend our allies and partners who have welcomed those fleeing the war and welcome the European Union’s decision to extend temporary protection status to Ukrainian citizens, granting them work authorization and access to housing and other services.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>South Sudan National Day</title>
 		<link>https://www.state.gov/south-sudan-national-day-2/</link>
 		
@@ -1326,330 +1650,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>We remain concerned about the limited progress of Haiti’s investigation into the assassination.  Although the fifth investigating judge was recently appointed, Haitian authorities have not adequately addressed the judiciary’s calls for stronger security measures to protect judicial workers assigned to the case and to preserve the chain of custody of key evidence.  Unfortunately, the same can be said for many other cases, including that of the assassination of Port-au-Prince Bar Association President Monferrier Dorval in 2020.</p>
 <p align="left">We urge the Haitian authorities to move forward with an independent and thorough investigation into the assassination of President Moïse, consistent with Haitian law and international rule of law standards, to ensure those responsible for this crime are brought to justice.  We remain a committed partner to supporting this aim, as shown by the extraditions of individuals alleged to have conspired in the perpetration of this offense through acts committed within U.S. jurisdiction.  We hope the joint efforts of the Haitian government and relevant international partners soon shed light on the crime, so that justice may be served, and the Haitian people can confidently say President Moïse’s murder was not met with impunity.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Blinken’s Call with Israeli Prime Minister Lapid</title>
-		<link>https://www.state.gov/secretary-blinkens-call-with-israeli-prime-minister-lapid/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 06 Jul 2022 22:45:00 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=357404</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p><span style="font-family: times new roman,times; font-size: medium;">The below is attributable to Spokesperson Ned Price:</span></p>
-<p><span style="font-family: times new roman,times; font-size: medium;">Secretary of State Antony J. Blinken spoke today with Israeli Prime Minister Yair Lapid to congratulate him on assuming his new role. The Secretary reaffirmed to the Prime Minister the unwavering commitment of the United States to the U.S.-Israel partnership, Israel&#8217;s security, and to countering shared threats, including those from Iran. He also emphasized U.S. support for a negotiated two-state solution. Secretary Blinken noted President Biden looks forward to celebrating our partnership with Israel during his upcoming visit.</span></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p><span style="font-family: times new roman,times; font-size: medium;">The below is attributable to Spokesperson Ned Price:</span></p>
-<p><span style="font-family: times new roman,times; font-size: medium;">Secretary of State Antony J. Blinken spoke today with Israeli Prime Minister Yair Lapid to congratulate him on assuming his new role. The Secretary reaffirmed to the Prime Minister the unwavering commitment of the United States to the U.S.-Israel partnership, Israel&#8217;s security, and to countering shared threats, including those from Iran. He also emphasized U.S. support for a negotiated two-state solution. Secretary Blinken noted President Biden looks forward to celebrating our partnership with Israel during his upcoming visit.</span></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Assistant Secretary Lee Satterfield Travels to São Paulo and Rio de Janeiro, Brazil</title>
-		<link>https://www.state.gov/assistant-secretary-lee-satterfield-travels-to-sao-paulo-and-rio-de-janeiro-brazil/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 06 Jul 2022 22:05:11 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=357369</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Assistant Secretary Lee Satterfield Travels to São Paulo and Rio de Janeiro, Brazil</p>
-<p>Assistant Secretary of State for Educational and Cultural Affairs (ECA) Lee Satterfield will travel to Brazil from July 7-12, 2022.  The Assistant Secretary will promote entrepreneurship, democracy, and human rights through people-to-people exchanges and public diplomacy programs in São Paulo and Rio de Janeiro, where she will engage students, civil society leaders, and alumni of U.S. government-sponsored exchange programs.</p>
-<p>In São Paulo, the Assistant Secretary will inaugurate a new <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL2VkdWNhdGlvbnVzYS5zdGF0ZS5nb3YvIn0.kTvRhljzpbaMqa2lwyG83B4QKd-qmV6VX9fJp4SsUsc/s/2576317770/br/135773189530-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL2VkdWNhdGlvbnVzYS5zdGF0ZS5nb3YvIn0.kTvRhljzpbaMqa2lwyG83B4QKd-qmV6VX9fJp4SsUsc%2Fs%2F2576317770%2Fbr%2F135773189530-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7Cec6b8ef0d6f44ae7a95808da5f8fec74%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637927368997537686%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=h2eUf9LAtQ1dmhGzUVEpdd5Q9ul%2FHgz7HxYqZHD97lU%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">EducationUSA center,</a> the official source on U.S. higher education for international students, with the Brazilian educational group <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL3d3dy5ldGFwYS5jb20uYnIvZW4ifQ.ToCQty7ab73hEos_adeggDkA6B9LVqd7mhVmGesemvk/s/2576317770/br/135773189530-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL3d3dy5ldGFwYS5jb20uYnIvZW4ifQ.ToCQty7ab73hEos_adeggDkA6B9LVqd7mhVmGesemvk%2Fs%2F2576317770%2Fbr%2F135773189530-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7Cec6b8ef0d6f44ae7a95808da5f8fec74%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637927368997537686%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=w7bA0DaNd905p7G5EcwcMrG6JjXHuTz%2FoYw%2B%2Bk%2BUIgk%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">ETAPA</a> to promote international student mobility.  The Assistant Secretary will also meet the U.S. and Brazilian participants of the pilot Youth All-Stars Abroad exchange that empowers young women through sports diplomacy.</p>
-<p>In Rio de Janeiro, she will open the first in-person <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL2FtZXJpY2FuZmlsbXNob3djYXNlLmNvbS8ifQ.TMZ_uOyN4chGZEfn5W_InrbUiGAJllnCBRB3NLZnE4U/s/2576317770/br/135773189530-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL2FtZXJpY2FuZmlsbXNob3djYXNlLmNvbS8ifQ.TMZ_uOyN4chGZEfn5W_InrbUiGAJllnCBRB3NLZnE4U%2Fs%2F2576317770%2Fbr%2F135773189530-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7Cec6b8ef0d6f44ae7a95808da5f8fec74%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637927368997537686%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=hT1KsRxeqsz5CQQus734GzEpC7hm9VzgnYs8REXbILY%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="2">American Film Showcase</a> workshop since the start of the COVID-19 pandemic, with American award-winning writer and director Alrick Brown, Brazilian-born filmmaker and visual artist Ivete Lucas, and 12 local filmmakers. The American Film Showcase uses film to bring people from diverse communities together to engage on key issues of the day.  She will also visit the Valongo Wharf, which consists of the remains of a significant 19th Century landing point for enslaved Africans, and one of eight historic sites in Brazil whose conservation is supported by the U.S. Ambassadors Fund for Cultural Preservation.</p>
-<p>Additional engagements will focus on higher education exchanges, English language programs for underserved communities, and women’s entrepreneurship.</p>
-<p>For further information, contact <a href="mailto:ECA-Press@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="3">ECA-Press@state.gov</a>.  Follow along on Twitter at @<a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDMsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL0VDQV9BUyJ9.OkdDQAXyfRet8zzHgTLeEE_KtkHT-0fzKOyGKBynwjI/s/2576317770/br/135773189530-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDMsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL0VDQV9BUyJ9.OkdDQAXyfRet8zzHgTLeEE_KtkHT-0fzKOyGKBynwjI%2Fs%2F2576317770%2Fbr%2F135773189530-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7Cec6b8ef0d6f44ae7a95808da5f8fec74%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637927368997537686%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=nFwJ8vVuWOwlsgoLHYZerxnXxQD1N5%2FRrrz%2BcfTjHN4%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="4">ECA_AS</a>.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Assistant Secretary Lee Satterfield Travels to São Paulo and Rio de Janeiro, Brazil</p>
-<p>Assistant Secretary of State for Educational and Cultural Affairs (ECA) Lee Satterfield will travel to Brazil from July 7-12, 2022.  The Assistant Secretary will promote entrepreneurship, democracy, and human rights through people-to-people exchanges and public diplomacy programs in São Paulo and Rio de Janeiro, where she will engage students, civil society leaders, and alumni of U.S. government-sponsored exchange programs.</p>
-<p>In São Paulo, the Assistant Secretary will inaugurate a new <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL2VkdWNhdGlvbnVzYS5zdGF0ZS5nb3YvIn0.kTvRhljzpbaMqa2lwyG83B4QKd-qmV6VX9fJp4SsUsc/s/2576317770/br/135773189530-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL2VkdWNhdGlvbnVzYS5zdGF0ZS5nb3YvIn0.kTvRhljzpbaMqa2lwyG83B4QKd-qmV6VX9fJp4SsUsc%2Fs%2F2576317770%2Fbr%2F135773189530-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7Cec6b8ef0d6f44ae7a95808da5f8fec74%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637927368997537686%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=h2eUf9LAtQ1dmhGzUVEpdd5Q9ul%2FHgz7HxYqZHD97lU%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">EducationUSA center,</a> the official source on U.S. higher education for international students, with the Brazilian educational group <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL3d3dy5ldGFwYS5jb20uYnIvZW4ifQ.ToCQty7ab73hEos_adeggDkA6B9LVqd7mhVmGesemvk/s/2576317770/br/135773189530-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL3d3dy5ldGFwYS5jb20uYnIvZW4ifQ.ToCQty7ab73hEos_adeggDkA6B9LVqd7mhVmGesemvk%2Fs%2F2576317770%2Fbr%2F135773189530-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7Cec6b8ef0d6f44ae7a95808da5f8fec74%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637927368997537686%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=w7bA0DaNd905p7G5EcwcMrG6JjXHuTz%2FoYw%2B%2Bk%2BUIgk%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">ETAPA</a> to promote international student mobility.  The Assistant Secretary will also meet the U.S. and Brazilian participants of the pilot Youth All-Stars Abroad exchange that empowers young women through sports diplomacy.</p>
-<p>In Rio de Janeiro, she will open the first in-person <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL2FtZXJpY2FuZmlsbXNob3djYXNlLmNvbS8ifQ.TMZ_uOyN4chGZEfn5W_InrbUiGAJllnCBRB3NLZnE4U/s/2576317770/br/135773189530-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL2FtZXJpY2FuZmlsbXNob3djYXNlLmNvbS8ifQ.TMZ_uOyN4chGZEfn5W_InrbUiGAJllnCBRB3NLZnE4U%2Fs%2F2576317770%2Fbr%2F135773189530-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7Cec6b8ef0d6f44ae7a95808da5f8fec74%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637927368997537686%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=hT1KsRxeqsz5CQQus734GzEpC7hm9VzgnYs8REXbILY%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="2">American Film Showcase</a> workshop since the start of the COVID-19 pandemic, with American award-winning writer and director Alrick Brown, Brazilian-born filmmaker and visual artist Ivete Lucas, and 12 local filmmakers. The American Film Showcase uses film to bring people from diverse communities together to engage on key issues of the day.  She will also visit the Valongo Wharf, which consists of the remains of a significant 19th Century landing point for enslaved Africans, and one of eight historic sites in Brazil whose conservation is supported by the U.S. Ambassadors Fund for Cultural Preservation.</p>
-<p>Additional engagements will focus on higher education exchanges, English language programs for underserved communities, and women’s entrepreneurship.</p>
-<p>For further information, contact <a href="mailto:ECA-Press@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="3">ECA-Press@state.gov</a>.  Follow along on Twitter at @<a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDMsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL0VDQV9BUyJ9.OkdDQAXyfRet8zzHgTLeEE_KtkHT-0fzKOyGKBynwjI/s/2576317770/br/135773189530-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDMsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MDYuNjAzOTM5NDEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL0VDQV9BUyJ9.OkdDQAXyfRet8zzHgTLeEE_KtkHT-0fzKOyGKBynwjI%2Fs%2F2576317770%2Fbr%2F135773189530-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7Cec6b8ef0d6f44ae7a95808da5f8fec74%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637927368997537686%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=nFwJ8vVuWOwlsgoLHYZerxnXxQD1N5%2FRrrz%2BcfTjHN4%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="4">ECA_AS</a>.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
 ]]></content:encoded>
 					
 		
