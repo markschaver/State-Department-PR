@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Sun, 10 Jul 2022 17:29:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Jul 2022 04:06:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Antony J. Blinken Remarks to Traveling Press Yokota Air Base Tokyo, Japan</title>
+		<link>https://www.state.gov/secretary-antony-j-blinken-remarks-to-traveling-press-yokota-air-base-tokyo-japan/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Mon, 11 Jul 2022 04:06:39 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=358355</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>Tokyo, Japan</p>
+<p>Yokota Air Base</p>
+<p><strong>SECRETARY BLINKEN:</strong> Good morning. We just came from seeing Prime Minister Kishida. I am fully grateful to him for taking time to see us in this incredibly difficult time. And the reason we’re here is because President Biden asked me to personally, on behalf of the President, on behalf of the American people, extend our condolences on the passing of former Prime Minister Abe.</p>
+<p>I shared with our Japanese colleagues the sense of loss, the sense of shock that we all feel, the American people feel, at this horrific tragedy and killing. It’s such a loss too because during his time in office Prime Minister Abe really took the relationship between our countries to new heights. And as I shared with our colleagues, we saw in him something rare – a man of vision who had the ability to realize that vision. But mostly I came at the President’s behest because, more than allies, we’re friends. And when a friend is hurting, other friends show up. We try to help ease the burden, share the sense of loss, give a shoulder, and that’s what we’re trying to do today.</p>
+<p>I shared letters that President Biden had written to the Abe family, to the prime minister. And mostly, I thought it was just important to show our solidarity with our friend Japan and the Japanese people in this difficult time. Thank you.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>Tokyo, Japan</p>
+<p>Yokota Air Base</p>
+<p><strong>SECRETARY BLINKEN:</strong> Good morning. We just came from seeing Prime Minister Kishida. I am fully grateful to him for taking time to see us in this incredibly difficult time. And the reason we’re here is because President Biden asked me to personally, on behalf of the President, on behalf of the American people, extend our condolences on the passing of former Prime Minister Abe.</p>
+<p>I shared with our Japanese colleagues the sense of loss, the sense of shock that we all feel, the American people feel, at this horrific tragedy and killing. It’s such a loss too because during his time in office Prime Minister Abe really took the relationship between our countries to new heights. And as I shared with our colleagues, we saw in him something rare – a man of vision who had the ability to realize that vision. But mostly I came at the President’s behest because, more than allies, we’re friends. And when a friend is hurting, other friends show up. We try to help ease the burden, share the sense of loss, give a shoulder, and that’s what we’re trying to do today.</p>
+<p>I shared letters that President Biden had written to the Abe family, to the prime minister. And mostly, I thought it was just important to show our solidarity with our friend Japan and the Japanese people in this difficult time. Thank you.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Special Presidential Envoy for Climate Kerry’s Travel to Poland</title>
 		<link>https://www.state.gov/special-presidential-envoy-for-climate-kerrys-travel-to-poland/</link>
 		
@@ -1668,247 +1831,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>The below is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken spoke today with Philippine Secretary of Foreign Affairs Enrique A. Manalo.  Secretary Blinken congratulated Secretary Manalo on his recent appointment and highlighted the increasing significance of the U.S.-Philippine bilateral alliance to security and prosperity in the Indo-Pacific region and around the world.  The Secretary also emphasized the importance of respect for human rights and the rule of law.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The United States-Thailand Relationship</title>
-		<link>https://www.state.gov/the-united-states-thailand-relationship/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Sat, 09 Jul 2022 14:28:55 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=358207</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Secretary of State Antony J. Blinken will travel to Bangkok, Thailand where he will meet with Thai Prime Minister Prayut Chan-o-cha and Deputy Prime Minister and Foreign Minister Don Pramudwinai to reaffirm the U.S.-Thai alliance and the U.S. commitment to the Indo-Pacific region.  They will also discuss the economic and security ties that bind our enduring partnership with Thailand.  Secretary Blinken will visit a shelter for victims of human trafficking to demonstrate shared commitment to eliminating trafficking.  The Secretary will meet with U.S. exchange alumni to gain perspective on priority issues for young Thai leaders.  Throughout his visit, Secretary Blinken will push to end the violence in Burma and expand humanitarian assistance for vulnerable populations.</p>
-<p><strong>The United States and Thailand are Close Partners and Allies</strong></p>
-<ul>
-<li>The United States looks forward to strengthening the excellent cooperation between our two countries, as allies and friends. Next year marks 190 years of diplomatic relations.</li>
-</ul>
-<ul>
-<li>Our relationship is deep and enduring.  The United States formalized diplomatic relations with Thailand in 1833 with a Treaty of Amity and Commerce and reaffirmed relations with the 1954 Manila Pact of the former Southeast Asia Treaty Organization. In 2003, the United States designated Thailand a major non-NATO Ally.</li>
-</ul>
-<ul>
-<li>Thailand and the United States share a commitment to the same values – democracy, human rights, labor rights, the rule of law, security, and prosperity.</li>
-</ul>
-<ul>
-<li>We welcome Thailand’s focus on tackling the climate crisis and fostering a sustainable and inclusive economic recovery from the COVID-19 pandemic, including through its 2022 Asia-Pacific Economic Cooperation (APEC) host year and partnership in the Association of Southeast Asian Nations. We look forward to advancing Thailand’s leadership on these topics during the U.S. 2023 APEC host year.<strong> </strong></li>
-</ul>
-<p><strong>Security Cooperation Strengthens Our Partnership and Benefits the Region</strong></p>
-<ul>
-<li>Thailand is a treaty ally, a leader and guarantor of security in the international community, and a reliable partner.</li>
-</ul>
-<ul>
-<li>Thailand is a key regional law enforcement partner and leader. The United States and Thailand jointly operate the International Law Enforcement Academy (ILEA) in Bangkok, which since 1998 has provided training to more than 22,000 criminal justice sector officials from across Southeast Asia on topics such as anticorruption, cybercrime, and trafficking in narcotics, wildlife, and persons.</li>
-</ul>
-<ul>
-<li>Thailand and the United States co-host Cobra Gold, the region’s largest and longest-running annual multinational military exercise. Since 1950, Thailand has received U.S. military equipment, essential supplies, training, and other assistance in the construction and improvement of facilities.  We have $2.85 billion in ongoing Foreign Military Sales and an annual slate of more than 400 joint military exercises and engagements.</li>
-</ul>
-<ul>
-<li>The United States supports Thailand’s leadership in the Mekong region through the Mekong-U.S. Partnership (MUSP), as a development partner of the Mekong River Commission, and as a development partner of the Ayeyawady-Chao Phraya-Mekong Economic Cooperation Strategy (ACMECS), a partnership between the five Mekong–region countries to coordinate infrastructure development. Through the MUSP, the United States collaborates with Thailand and other Lower Mekong countries to strengthen transboundary economic connections and address emerging challenges, such as resource management, transnational crime, transparency and good governance, and human resource development.</li>
-</ul>
-<p><strong>Americans and Thais Benefit from Our Close Economic, Environment, Health, and Educational Ties</strong><strong> </strong></p>
-<ul>
-<li>The United States is Thailand’s largest export market, purchasing more than $47 billion of goods from Thailand 2021. In 2021, our total two-way trade amounted to $63.7 billion.  Our relationship, which ranges from trade in consumer goods and agricultural products to cooperation in the defense industries, has spurred collaboration in fields outside the economic realm, including security and space technology.  The United States contributed $17.5 billion of foreign direct investment (FDI) to Thailand in 2020, making it Thailand’s third-largest foreign investor.</li>
-</ul>
-<ul>
-<li>For more than 60 years, U.S. agencies, such as the Centers for Disease Control and Prevention, the Armed Forces Research Institute of Medical Sciences, and the U.S. Agency for International Development (USAID), have partnered with Thai counterparts to safeguard the health of U.S., Thai, and international communities through medical research and innovation and public health initiatives.</li>
-</ul>
-<ul>
-<li>USAID environment programs promote sustainable resource management; conserve biodiversity; expand the use of data to inform policy decisions on issues including air quality; combat wildlife trafficking; and increase access to clean, safe, affordable, reliable, and modern sources of energy. USAID and the Thailand International Cooperation Agency (TICA) are also deepening cooperation through a Strategic Partnership to jointly provide development assistance to other countries in Southeast Asia.</li>
-</ul>
-<ul>
-<li>The United States supports exchange programs that connect Thai youth, students, educators, artists, athletes, and rising leaders to their counterparts in the United States and the ASEAN region, engaging them on strategic priorities ranging from civic engagement to economic sustainability. Our exchange programs are robust, with more than 5,000 Thai alumni of the Fulbright program, International Visitor Leadership Program (IVLP), and Young Southeast Asian Leaders Initiative (YSEALI).  The newly established Thailand-United States Alumni Association brings together alumni from across the country to work together on projects that support our mutual goals.</li>
-</ul>
-<ul>
-<li>S. Peace Corps Volunteers, active in Thailand since 1962, focus on English teacher training in primary schools and youth life skills development.</li>
-</ul>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Secretary of State Antony J. Blinken will travel to Bangkok, Thailand where he will meet with Thai Prime Minister Prayut Chan-o-cha and Deputy Prime Minister and Foreign Minister Don Pramudwinai to reaffirm the U.S.-Thai alliance and the U.S. commitment to the Indo-Pacific region.  They will also discuss the economic and security ties that bind our enduring partnership with Thailand.  Secretary Blinken will visit a shelter for victims of human trafficking to demonstrate shared commitment to eliminating trafficking.  The Secretary will meet with U.S. exchange alumni to gain perspective on priority issues for young Thai leaders.  Throughout his visit, Secretary Blinken will push to end the violence in Burma and expand humanitarian assistance for vulnerable populations.</p>
-<p><strong>The United States and Thailand are Close Partners and Allies</strong></p>
-<ul>
-<li>The United States looks forward to strengthening the excellent cooperation between our two countries, as allies and friends. Next year marks 190 years of diplomatic relations.</li>
-</ul>
-<ul>
-<li>Our relationship is deep and enduring.  The United States formalized diplomatic relations with Thailand in 1833 with a Treaty of Amity and Commerce and reaffirmed relations with the 1954 Manila Pact of the former Southeast Asia Treaty Organization. In 2003, the United States designated Thailand a major non-NATO Ally.</li>
-</ul>
-<ul>
-<li>Thailand and the United States share a commitment to the same values – democracy, human rights, labor rights, the rule of law, security, and prosperity.</li>
-</ul>
-<ul>
-<li>We welcome Thailand’s focus on tackling the climate crisis and fostering a sustainable and inclusive economic recovery from the COVID-19 pandemic, including through its 2022 Asia-Pacific Economic Cooperation (APEC) host year and partnership in the Association of Southeast Asian Nations. We look forward to advancing Thailand’s leadership on these topics during the U.S. 2023 APEC host year.<strong> </strong></li>
-</ul>
-<p><strong>Security Cooperation Strengthens Our Partnership and Benefits the Region</strong></p>
-<ul>
-<li>Thailand is a treaty ally, a leader and guarantor of security in the international community, and a reliable partner.</li>
-</ul>
-<ul>
-<li>Thailand is a key regional law enforcement partner and leader. The United States and Thailand jointly operate the International Law Enforcement Academy (ILEA) in Bangkok, which since 1998 has provided training to more than 22,000 criminal justice sector officials from across Southeast Asia on topics such as anticorruption, cybercrime, and trafficking in narcotics, wildlife, and persons.</li>
-</ul>
-<ul>
-<li>Thailand and the United States co-host Cobra Gold, the region’s largest and longest-running annual multinational military exercise. Since 1950, Thailand has received U.S. military equipment, essential supplies, training, and other assistance in the construction and improvement of facilities.  We have $2.85 billion in ongoing Foreign Military Sales and an annual slate of more than 400 joint military exercises and engagements.</li>
-</ul>
-<ul>
-<li>The United States supports Thailand’s leadership in the Mekong region through the Mekong-U.S. Partnership (MUSP), as a development partner of the Mekong River Commission, and as a development partner of the Ayeyawady-Chao Phraya-Mekong Economic Cooperation Strategy (ACMECS), a partnership between the five Mekong–region countries to coordinate infrastructure development. Through the MUSP, the United States collaborates with Thailand and other Lower Mekong countries to strengthen transboundary economic connections and address emerging challenges, such as resource management, transnational crime, transparency and good governance, and human resource development.</li>
-</ul>
-<p><strong>Americans and Thais Benefit from Our Close Economic, Environment, Health, and Educational Ties</strong><strong> </strong></p>
-<ul>
-<li>The United States is Thailand’s largest export market, purchasing more than $47 billion of goods from Thailand 2021. In 2021, our total two-way trade amounted to $63.7 billion.  Our relationship, which ranges from trade in consumer goods and agricultural products to cooperation in the defense industries, has spurred collaboration in fields outside the economic realm, including security and space technology.  The United States contributed $17.5 billion of foreign direct investment (FDI) to Thailand in 2020, making it Thailand’s third-largest foreign investor.</li>
-</ul>
-<ul>
-<li>For more than 60 years, U.S. agencies, such as the Centers for Disease Control and Prevention, the Armed Forces Research Institute of Medical Sciences, and the U.S. Agency for International Development (USAID), have partnered with Thai counterparts to safeguard the health of U.S., Thai, and international communities through medical research and innovation and public health initiatives.</li>
-</ul>
-<ul>
-<li>USAID environment programs promote sustainable resource management; conserve biodiversity; expand the use of data to inform policy decisions on issues including air quality; combat wildlife trafficking; and increase access to clean, safe, affordable, reliable, and modern sources of energy. USAID and the Thailand International Cooperation Agency (TICA) are also deepening cooperation through a Strategic Partnership to jointly provide development assistance to other countries in Southeast Asia.</li>
-</ul>
-<ul>
-<li>The United States supports exchange programs that connect Thai youth, students, educators, artists, athletes, and rising leaders to their counterparts in the United States and the ASEAN region, engaging them on strategic priorities ranging from civic engagement to economic sustainability. Our exchange programs are robust, with more than 5,000 Thai alumni of the Fulbright program, International Visitor Leadership Program (IVLP), and Young Southeast Asian Leaders Initiative (YSEALI).  The newly established Thailand-United States Alumni Association brings together alumni from across the country to work together on projects that support our mutual goals.</li>
-</ul>
-<ul>
-<li>S. Peace Corps Volunteers, active in Thailand since 1962, focus on English teacher training in primary schools and youth life skills development.</li>
-</ul>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
