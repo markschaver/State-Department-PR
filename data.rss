@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Fri, 15 Jul 2022 01:02:32 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Jul 2022 13:20:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,171 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Humanitarian Assistance for Africa</title>
+		<link>https://www.state.gov/humanitarian-assistance-for-africa/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Fri, 15 Jul 2022 13:20:19 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=359888</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>The United States, represented by Assistant Secretary of State for the Bureau of Population, Refugees, and Migration Julieta Valls Noyes, announced today in Kampala, Uganda more than $592 million in humanitarian assistance for Africa through the Department of State and the U.S. Agency for International Development (USAID).  This assistance will provide lifesaving support to refugees, asylum seekers, internally displaced persons, stateless persons, forcibly displaced and persecuted people across Africa, including those affected by crises in the Horn, the Sahel, and other emergency situations.</p>
+<p>Throughout Africa, response efforts to address under-recognized humanitarian crises are facing dire funding constraints. This assistance will enable our humanitarian partners to help the over seven million refugees and asylum seekers currently hosted across Africa as well the over 25 million internally displaced persons.</p>
+<p>Uganda remains the largest refugee host on the continent with more than 1.5 million refugees and asylum seekers. This announcement includes more than $82 million for humanitarian assistance in Uganda, including more than $61 million in humanitarian assistance from the State Department and $21 million from USAID.  The Department’s funding consists of more than $41 million to the United Nations Refugee Agency and nearly $20 million to other programs supporting essential services such as health, education, protection, and income-generating activities. USAID’s $21 million will support general food assistance and comprehensive nutrition programming for refugees as well as complement ongoing food security support in the Karamoja sub-region of Uganda.  Refugees and asylum seekers are particularly vulnerable to the food insecurity impacting much of the continent, especially in countries with a reliance on Russian and Ukrainian imports and a vulnerability to price shocks.</p>
+<p>The United States is concerned by the diminished global attention to humanitarian crises in Africa, including in Uganda, where the growing number of new arrivals from the Democratic Republic of the Congo and South Sudan reached over 71,000 since the start of the year.</p>
+<p>We urge other donors to provide additional support to the growing humanitarian needs on the continent.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>The United States, represented by Assistant Secretary of State for the Bureau of Population, Refugees, and Migration Julieta Valls Noyes, announced today in Kampala, Uganda more than $592 million in humanitarian assistance for Africa through the Department of State and the U.S. Agency for International Development (USAID).  This assistance will provide lifesaving support to refugees, asylum seekers, internally displaced persons, stateless persons, forcibly displaced and persecuted people across Africa, including those affected by crises in the Horn, the Sahel, and other emergency situations.</p>
+<p>Throughout Africa, response efforts to address under-recognized humanitarian crises are facing dire funding constraints. This assistance will enable our humanitarian partners to help the over seven million refugees and asylum seekers currently hosted across Africa as well the over 25 million internally displaced persons.</p>
+<p>Uganda remains the largest refugee host on the continent with more than 1.5 million refugees and asylum seekers. This announcement includes more than $82 million for humanitarian assistance in Uganda, including more than $61 million in humanitarian assistance from the State Department and $21 million from USAID.  The Department’s funding consists of more than $41 million to the United Nations Refugee Agency and nearly $20 million to other programs supporting essential services such as health, education, protection, and income-generating activities. USAID’s $21 million will support general food assistance and comprehensive nutrition programming for refugees as well as complement ongoing food security support in the Karamoja sub-region of Uganda.  Refugees and asylum seekers are particularly vulnerable to the food insecurity impacting much of the continent, especially in countries with a reliance on Russian and Ukrainian imports and a vulnerability to price shocks.</p>
+<p>The United States is concerned by the diminished global attention to humanitarian crises in Africa, including in Uganda, where the growing number of new arrivals from the Democratic Republic of the Congo and South Sudan reached over 71,000 since the start of the year.</p>
+<p>We urge other donors to provide additional support to the growing humanitarian needs on the continent.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>COVID-19 Global Action Plan Ministerial</title>
 		<link>https://www.state.gov/covid-19-global-action-plan-ministerial/</link>
 		
@@ -1519,165 +1684,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Under Secretary of State for Civilian Security, Democracy, and Human Rights Uzra Zeya will travel to The Hague, Netherlands, on July 13-14.  She is leading the U.S. delegation at the Ukraine Accountability Conference, which is co-hosted by Dutch Minister of Foreign Affairs Wopke Hoekstra, European Union Commissioner for Justice Didier Reynders, and International Criminal Court (ICC) Prosecutor Karim Khan. This ministerial brings together over 40 countries to advance coordination of ongoing work to promote accountability for the human rights abuses, war crimes, and other atrocities committed by Russian forces in Ukraine.  While at the ministerial, the Under Secretary will also have meetings with senior international counterparts to discuss support for refugees and other displaced persons, accountability for human rights abuses, and other pressing needs that have resulted from Russia’s ongoing, brutal aggression against Ukraine.  Under Secretary Zeya will be joined at The Hague by the Department of State Office of Global Criminal Justice Ambassador-at-Large Beth Van Schaack, and Department of Justice Counselor for War Crimes Accountability Eli Rosenbaum.</p>
 <p>For further information, please contact <a href="mailto:JGCJ@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">JGCJ@state.gov</a>.</p>
 <p><input type="hidden" data-filter="100000000000" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>EU Sanctions on Russia and Shipments To and From Kaliningrad</title>
-		<link>https://www.state.gov/eu-sanctions-on-russia-and-shipments-to-and-from-kaliningrad/</link>
-		
-		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
-		<pubDate>Wed, 13 Jul 2022 19:56:20 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=359216</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Ned Price, Department Spokesperson</p>
-<p>We welcome the announcement by the EU making clear how its member states will implement economic sanctions on Russia with respect to Kaliningrad. We appreciate the unprecedented economic measures that our Allies and partners, including Lithuania, have joined us in taking against Russia for its unprovoked war against Ukraine.</p>
-<p>We applaud European Union member states, including Lithuania, for enforcing sanctions measures fully in accordance with EU guidance.</p>
-<p>It is important to note that there is not now and there never has been a so-called “blockade” of Kaliningrad. Using a variety of routes, passengers continue to transit between mainland Russia and Kaliningrad, as do all humanitarian shipments and most other goods. We should also not forget why economic sanctions were put into place, which was in response to Russia’s unprovoked and brutal war in Ukraine.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
-<p>We welcome the announcement by the EU making clear how its member states will implement economic sanctions on Russia with respect to Kaliningrad. We appreciate the unprecedented economic measures that our Allies and partners, including Lithuania, have joined us in taking against Russia for its unprovoked war against Ukraine.</p>
-<p>We applaud European Union member states, including Lithuania, for enforcing sanctions measures fully in accordance with EU guidance.</p>
-<p>It is important to note that there is not now and there never has been a so-called “blockade” of Kaliningrad. Using a variety of routes, passengers continue to transit between mainland Russia and Kaliningrad, as do all humanitarian shipments and most other goods. We should also not forget why economic sanctions were put into place, which was in response to Russia’s unprovoked and brutal war in Ukraine.</p>
 ]]></content:encoded>
 					
 		
