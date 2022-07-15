@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Fri, 15 Jul 2022 00:27:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Jul 2022 01:02:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>COVID-19 Global Action Plan Ministerial</title>
+		<link>https://www.state.gov/covid-19-global-action-plan-ministerial/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 15 Jul 2022 01:02:31 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=359723</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p><span>As the world continues to grapple with COVID-19&#8217;s far-reaching impacts and the emergence of new variants, there remains an urgent need for political and diplomatic engagement and coordination to accelerate progress to end the acute phase of the COVID-19 pandemic and strengthen health security.  Accordingly, the United States and Japan will jointly host a virtual COVID-19 Ministerial on July 19 to further galvanize international action, measure progress, and outline necessary steps to control COVID-19 and strengthen global health security.</span></p>
+<p><span>The participating government officials and international organization representatives will meet to maintain progress and drive action on the six lines of effort in the COVID-19 Pandemic Prioritized Global Action Plan for Enhanced Engagement (“GAP”), which we launched earlier this year: (1) Getting Shots in Arms; (2) Bolstering Supply Chain Resilience; (3) Addressing Information Gaps; (4) Supporting Health Care Workers; (5) Ensuring Acute Non-Vaccine Interventions (Test and Treat); and (6) Strengthening the Global Health Security Architecture.</span></p>
+<p><span>Health security is national security, and all governments and stakeholders must play a central role in bringing the acute phase of this pandemic to an end.  No one country acting alone can stop the virus, and the United States will continue to coordinate closely with our global partners to emerge stronger from this pandemic and build a more resilient global health infrastructure. Next week’s Ministerial will constitute another important step on that path.</span></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p><span>As the world continues to grapple with COVID-19&#8217;s far-reaching impacts and the emergence of new variants, there remains an urgent need for political and diplomatic engagement and coordination to accelerate progress to end the acute phase of the COVID-19 pandemic and strengthen health security.  Accordingly, the United States and Japan will jointly host a virtual COVID-19 Ministerial on July 19 to further galvanize international action, measure progress, and outline necessary steps to control COVID-19 and strengthen global health security.</span></p>
+<p><span>The participating government officials and international organization representatives will meet to maintain progress and drive action on the six lines of effort in the COVID-19 Pandemic Prioritized Global Action Plan for Enhanced Engagement (“GAP”), which we launched earlier this year: (1) Getting Shots in Arms; (2) Bolstering Supply Chain Resilience; (3) Addressing Information Gaps; (4) Supporting Health Care Workers; (5) Ensuring Acute Non-Vaccine Interventions (Test and Treat); and (6) Strengthening the Global Health Security Architecture.</span></p>
+<p><span>Health security is national security, and all governments and stakeholders must play a central role in bringing the acute phase of this pandemic to an end.  No one country acting alone can stop the virus, and the United States will continue to coordinate closely with our global partners to emerge stronger from this pandemic and build a more resilient global health infrastructure. Next week’s Ministerial will constitute another important step on that path.</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Public Schedule – July 15, 2022</title>
 		<link>https://www.state.gov/public-schedule-july-15-2022/</link>
 		
@@ -1519,173 +1678,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>We welcome the announcement by the EU making clear how its member states will implement economic sanctions on Russia with respect to Kaliningrad. We appreciate the unprecedented economic measures that our Allies and partners, including Lithuania, have joined us in taking against Russia for its unprovoked war against Ukraine.</p>
 <p>We applaud European Union member states, including Lithuania, for enforcing sanctions measures fully in accordance with EU guidance.</p>
 <p>It is important to note that there is not now and there never has been a so-called “blockade” of Kaliningrad. Using a variety of routes, passengers continue to transit between mainland Russia and Kaliningrad, as do all humanitarian shipments and most other goods. We should also not forget why economic sanctions were put into place, which was in response to Russia’s unprovoked and brutal war in Ukraine.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Joint Statement on Sudan on the Occasion of Eid al-Adha</title>
-		<link>https://www.state.gov/joint-statement-on-sudan-on-the-occasion-of-eid-al-adha/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 13 Jul 2022 18:43:08 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=359117</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The members of the Troika (Norway, the United Kingdom and the United States) and the European Union extend our warm wishes to the Sudanese people at the conclusion of Eid al-Adha.</p>
-<p>Eight months after the military takeover we note the announcement by Sovereign Council Chair General Burhan that the military forces will cease participation in political talks.  We acknowledge the stated intention of the military forces, upon agreement among civilian parties to form a transitional government, to withdraw from the political scene.  The military and security forces should be held to this commitment. They must also end violence against civilians and hold to account those responsible for unlawful killings and other human rights violations and abuses.</p>
-<p>We encourage all political actors committed to the democratic transition to engage swiftly in an inclusive dialogue to form a civilian-led transitional government.  This process must deliver an agreement that defines: a clear timeline for free and fair elections; procedures for selecting a transitional prime minister and other key officials; and a dispute resolution mechanism to help avoid future political crises.</p>
-<p>A transitional government must be civilian-led, and have broad-based, nation-wide support. There must also be full clarity on, and oversight of, the military’s role and responsibilities.  Such matters cannot be defined unilaterally by the military; they require dialogue and transparency to help avoid future disputes.</p>
-<p>We commend the tripartite initiative of the United Nations, African Union, and Intergovernmental Authority on Development to facilitate such an inclusive dialogue and support their continued efforts.</p>
-<p>Nearly three years since Sudan began its transition to democracy, we deeply regret the continued loss of life, and reversal of important economic and political progress.  We commend the devotion of the Sudanese people to a more peaceful and just future and honor the sacrifices of those who have lost their lives in support of democracy.  The Troika and the European Union look forward to supporting a transitional civilian government that enjoys popular support, reflecting the hope and aspirations we share with the Sudanese people.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The members of the Troika (Norway, the United Kingdom and the United States) and the European Union extend our warm wishes to the Sudanese people at the conclusion of Eid al-Adha.</p>
-<p>Eight months after the military takeover we note the announcement by Sovereign Council Chair General Burhan that the military forces will cease participation in political talks.  We acknowledge the stated intention of the military forces, upon agreement among civilian parties to form a transitional government, to withdraw from the political scene.  The military and security forces should be held to this commitment. They must also end violence against civilians and hold to account those responsible for unlawful killings and other human rights violations and abuses.</p>
-<p>We encourage all political actors committed to the democratic transition to engage swiftly in an inclusive dialogue to form a civilian-led transitional government.  This process must deliver an agreement that defines: a clear timeline for free and fair elections; procedures for selecting a transitional prime minister and other key officials; and a dispute resolution mechanism to help avoid future political crises.</p>
-<p>A transitional government must be civilian-led, and have broad-based, nation-wide support. There must also be full clarity on, and oversight of, the military’s role and responsibilities.  Such matters cannot be defined unilaterally by the military; they require dialogue and transparency to help avoid future disputes.</p>
-<p>We commend the tripartite initiative of the United Nations, African Union, and Intergovernmental Authority on Development to facilitate such an inclusive dialogue and support their continued efforts.</p>
-<p>Nearly three years since Sudan began its transition to democracy, we deeply regret the continued loss of life, and reversal of important economic and political progress.  We commend the devotion of the Sudanese people to a more peaceful and just future and honor the sacrifices of those who have lost their lives in support of democracy.  The Troika and the European Union look forward to supporting a transitional civilian government that enjoys popular support, reflecting the hope and aspirations we share with the Sudanese people.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
