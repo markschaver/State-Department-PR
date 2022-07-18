@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Mon, 18 Jul 2022 16:57:29 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Jul 2022 19:23:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Release of the 2022 Women, Peace, and Security Report</title>
+		<link>https://www.state.gov/release-of-the-2022-women-peace-and-security-report/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Mon, 18 Jul 2022 19:23:05 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=360639</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>History shows that the meaningful inclusion of women in peace and security processes leads to more successful peace agreements, promotes stability, and strengthens U.S. national security. Through the implementation of the Women, Peace, and Security (WPS) Act of 2017 and ongoing support for UN Security Council Resolution 1325, the United States continues to advance the full, equal, and meaningful participation of women, in all their diversity, across diplomatic and foreign policy engagements. This means supporting women’s meaningful participation; advancing the protection of women and girls; scaling internal capacities to implement our WPS Strategy; and expanding partnerships with like-minded organizations and governments.</p>
+<p>Alongside the Departments of Defense and Homeland Security and the U.S. Agency for International Development, the Department of State is releasing the second Report on the Implementation of the 2019 U.S. Strategy on WPS along with its 2020 Implementation Plan. This report indicates significant progress against the Department’s WPS goals as compared to last year’s inaugural report. In Fiscal Year (FY) 2021, the Department invested approximately $110 million in WPS assistance programming, improving our ability to apply WPS principles and strategies across Department efforts. We have increased internal capacity through training and have seen a dramatic 25 percent increase in FY 2021 in the number of Department-led trainings for personnel that incorporate WPS principles. The Department also increased by 22 percent in FY 2021 the number of programs focused on improving women and girls’ capacity to counter terrorism and violent extremism and prevent, manage, and resolve conflict. These critical efforts reflect the Department’s ongoing commitment to the centrality of WPS work within our broader mission.</p>
+<p>The United States remains fully committed to maintaining its longstanding role as a champion for gender equality and encouraging the meaningful inclusion, protection, and development of women and girls under the WPS strategy. I am committed to ensuring that the Department will continue to hold itself accountable for the ongoing implementation of WPS goals through annual reporting. We know that the promotion of WPS principles across all the Departments’ efforts strengthens both democracy and human rights globally and contributes to conflict prevention and stability.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>History shows that the meaningful inclusion of women in peace and security processes leads to more successful peace agreements, promotes stability, and strengthens U.S. national security. Through the implementation of the Women, Peace, and Security (WPS) Act of 2017 and ongoing support for UN Security Council Resolution 1325, the United States continues to advance the full, equal, and meaningful participation of women, in all their diversity, across diplomatic and foreign policy engagements. This means supporting women’s meaningful participation; advancing the protection of women and girls; scaling internal capacities to implement our WPS Strategy; and expanding partnerships with like-minded organizations and governments.</p>
+<p>Alongside the Departments of Defense and Homeland Security and the U.S. Agency for International Development, the Department of State is releasing the second Report on the Implementation of the 2019 U.S. Strategy on WPS along with its 2020 Implementation Plan. This report indicates significant progress against the Department’s WPS goals as compared to last year’s inaugural report. In Fiscal Year (FY) 2021, the Department invested approximately $110 million in WPS assistance programming, improving our ability to apply WPS principles and strategies across Department efforts. We have increased internal capacity through training and have seen a dramatic 25 percent increase in FY 2021 in the number of Department-led trainings for personnel that incorporate WPS principles. The Department also increased by 22 percent in FY 2021 the number of programs focused on improving women and girls’ capacity to counter terrorism and violent extremism and prevent, manage, and resolve conflict. These critical efforts reflect the Department’s ongoing commitment to the centrality of WPS work within our broader mission.</p>
+<p>The United States remains fully committed to maintaining its longstanding role as a champion for gender equality and encouraging the meaningful inclusion, protection, and development of women and girls under the WPS strategy. I am committed to ensuring that the Department will continue to hold itself accountable for the ongoing implementation of WPS goals through annual reporting. We know that the promotion of WPS principles across all the Departments’ efforts strengthens both democracy and human rights globally and contributes to conflict prevention and stability.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Briefing with Senior Administration Officials on Ongoing Efforts To Support Afghan Special Immigrant Visa Applicants</title>
 		<link>https://www.state.gov/briefing-with-senior-administration-officials-on-ongoing-efforts-to-support-afghan-special-immigrant-visa-applicants/</link>
 		
@@ -1580,169 +1739,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>The following is attributable to Spokesperson Ned Price:</p>
 <p>Deputy Secretary of State Wendy Sherman spoke today with French Foreign Ministry Secretary General François Delattre.  They discussed our ongoing joint efforts to provide support for Ukraine and hold Russia accountable in the face of its unprovoked and unjustified war.  The two spoke of the important work to alleviate challenges to global food security resulting from the Kremlin’s actions.  Deputy Secretary Sherman and Secretary General Delattre also discussed the latest developments in Albania’s and North Macedonia’s path to EU membership.  They agreed on the urgent need for Iran to drop demands that go beyond the Joint Comprehensive Plan of Action (JCPOA) and implement a mutual return to full implementation of the deal.  Additionally, they discussed continuing assistance to Haiti, including France’s recent generous announcement of food support to the country and the importance of renewing the mandate of the UN political mission in Haiti.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The United States Stands With the People of South Sudan and Calls for Urgent Progress From South Sudan’s Leaders</title>
-		<link>https://www.state.gov/the-united-states-stands-with-the-people-of-south-sudan-and-calls-for-urgent-progress-from-south-sudans-leaders/</link>
-		
-		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
-		<pubDate>Fri, 15 Jul 2022 22:48:43 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=360210</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Ned Price, Department Spokesperson</p>
-<p>The United States laments the failure of South Sudanese leaders to implement the commitments they have made to bring peace to South Sudan and has consequently decided to end U.S. assistance for peace process monitoring mechanisms, effective July 15, as we assess next steps.</p>
-<p>Due to the lack of sustained progress on the part of South Sudan’s leaders, and following consultation with Congress, the United States is ending support for the Reconstituted Joint Monitoring and Evaluation Commission and the Ceasefire and Transitional Security Arrangements Monitoring and Verification Mechanism.  South Sudan’s leaders have not fully availed themselves of the support these monitoring mechanisms provide and have demonstrated a lack of political will necessary to implement critical reforms.  For example, South Sudan has yet to pass critical electoral legislation in keeping with the revitalized peace agreement’s timetable.  South Sudan still lacks a unified, professional military to serve and protect the population.  Civil society members and journalists are routinely intimidated and prevented from speaking out.  The government continues to divert proceeds from oil production before they reach the national budget and has not implemented public financial management reforms.</p>
-<p>The United States continues to provide significant assistance to save lives and reduce the suffering of the people of South Sudan, including approximately $1 billion in humanitarian and development assistance, support to the UN Mission in South Sudan (UNMISS), and additional assistance in coordination with partners through the World Bank and other international financial institutions.</p>
-<p>The United States stands with the South Sudanese people and is committed to working with them, in concert with the UNMISS, the African Union, the Intergovernmental Authority on Development, and other partners to build a state that lives up to the promises for freedom, democracy, and prosperity made more than a decade ago when the country won its hard-fought struggle for independence.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
-<p>The United States laments the failure of South Sudanese leaders to implement the commitments they have made to bring peace to South Sudan and has consequently decided to end U.S. assistance for peace process monitoring mechanisms, effective July 15, as we assess next steps.</p>
-<p>Due to the lack of sustained progress on the part of South Sudan’s leaders, and following consultation with Congress, the United States is ending support for the Reconstituted Joint Monitoring and Evaluation Commission and the Ceasefire and Transitional Security Arrangements Monitoring and Verification Mechanism.  South Sudan’s leaders have not fully availed themselves of the support these monitoring mechanisms provide and have demonstrated a lack of political will necessary to implement critical reforms.  For example, South Sudan has yet to pass critical electoral legislation in keeping with the revitalized peace agreement’s timetable.  South Sudan still lacks a unified, professional military to serve and protect the population.  Civil society members and journalists are routinely intimidated and prevented from speaking out.  The government continues to divert proceeds from oil production before they reach the national budget and has not implemented public financial management reforms.</p>
-<p>The United States continues to provide significant assistance to save lives and reduce the suffering of the people of South Sudan, including approximately $1 billion in humanitarian and development assistance, support to the UN Mission in South Sudan (UNMISS), and additional assistance in coordination with partners through the World Bank and other international financial institutions.</p>
-<p>The United States stands with the South Sudanese people and is committed to working with them, in concert with the UNMISS, the African Union, the Intergovernmental Authority on Development, and other partners to build a state that lives up to the promises for freedom, democracy, and prosperity made more than a decade ago when the country won its hard-fought struggle for independence.</p>
 <p><input type="hidden" data-filter="100000000100" /></p>
 ]]></content:encoded>
 					
