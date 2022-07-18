@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Mon, 18 Jul 2022 13:02:33 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Jul 2022 12:43:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,165 +28,6 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Assistant Secretary Donfried’s Travel to Germany and Luxembourg</title>
-		<link>https://www.state.gov/assistant-secretary-donfrieds-travel-to-germany-and-luxembourg/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Mon, 18 Jul 2022 13:02:32 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=360456</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Assistant Secretary for the Bureau of European and Eurasian Affairs, Dr. Karen Donfried, will travel to Germany and Luxembourg July 19 to 22 to reinforce the partnership we share in promoting human rights, democracy, and prosperity in Europe, as well as to reaffirm our shared commitment to Transatlantic solidarity in the face of Russia’s aggression against Ukraine.</p>
-<p>Dr. Donfried will spend July 19 and 20 in Berlin, where she will meet with senior officials at the Chancellery and Foreign Ministry.  She will engage with alumni and current participants of exchange programs in the United States, as well as transatlantic security policy experts.  Dr. Donfried will also meet with business representatives on their operations in the United States and the overall investment climate.</p>
-<p>Assistant Secretary Donfried will then travel to Luxembourg July 21 for meetings with Prime Minister Xavier Bettel, Foreign Minister Jean Asselborn, Finance Minister Yuriko Backes, and other Luxembourgish and EU officials to discuss strengthening transatlantic security and supporting Ukraine.  Dr. Donfried’s engagement with Luxembourgish defense officials to discuss defense capabilities.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Assistant Secretary for the Bureau of European and Eurasian Affairs, Dr. Karen Donfried, will travel to Germany and Luxembourg July 19 to 22 to reinforce the partnership we share in promoting human rights, democracy, and prosperity in Europe, as well as to reaffirm our shared commitment to Transatlantic solidarity in the face of Russia’s aggression against Ukraine.</p>
-<p>Dr. Donfried will spend July 19 and 20 in Berlin, where she will meet with senior officials at the Chancellery and Foreign Ministry.  She will engage with alumni and current participants of exchange programs in the United States, as well as transatlantic security policy experts.  Dr. Donfried will also meet with business representatives on their operations in the United States and the overall investment climate.</p>
-<p>Assistant Secretary Donfried will then travel to Luxembourg July 21 for meetings with Prime Minister Xavier Bettel, Foreign Minister Jean Asselborn, Finance Minister Yuriko Backes, and other Luxembourgish and EU officials to discuss strengthening transatlantic security and supporting Ukraine.  Dr. Donfried’s engagement with Luxembourgish defense officials to discuss defense capabilities.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Special Envoy for Global Food Security Fowler Travels to the United Nations For Special Event with the Committee on World Food Security</title>
 		<link>https://www.state.gov/special-envoy-for-global-food-security-fowler-travels-to-the-united-nations-for-special-event-with-the-committee-on-world-food-security/</link>
 		
@@ -1636,6 +1477,243 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p align="left">In Poland, July 20-23, Assistant Secretary Lewis will hold consultations with senior civilian and military officials to promote regional peace and stability and deepen defense cooperation.</p>
 <p align="left">For further information, please contact the Bureau of Political-Military Affairs, Office of Congressional and Public Affairs at <a href="mailto:PM-CPA@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">PM-CPA@state.gov</a> and follow <em>@StateDeptPM</em> on Twitter.</p>
 <p><input type="hidden" data-filter="100000000010" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>On the 2022 Elie Wiesel Act Report to Congress and New U.S. Strategy to Anticipate, Prevent, and Respond to Atrocities</title>
+		<link>https://www.state.gov/on-the-2022-elie-wiesel-act-report-to-congress-and-new-u-s-strategy-to-anticipate-prevent-and-respond-to-atrocities/</link>
+		
+		<dc:creator><![CDATA[Wendy R. Sherman, Deputy Secretary of State, Anne A. Witkowsky, Assistant SecretaryBureau of Conflict and Stabilization Operations, Isobel Coleman, U.S. Agency for International Development Deputy Administrator]]></dc:creator>
+		<pubDate>Fri, 15 Jul 2022 17:49:55 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=360076</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Wendy R. Sherman, Deputy Secretary of State</p>
+<p>Anne A. Witkowsky, Assistant SecretaryBureau of Conflict and Stabilization Operations</p>
+<p>Isobel Coleman, U.S. Agency for International Development Deputy Administrator</p>
+<p>Washington, DC</p>
+<p>Burns Auditorium</p>
+<p><strong>ASSISTANT SECRETARY WITKOWSKY:</strong>  Good morning.  Thank you for joining us on this important day.  I would like to extend a warm welcome to representatives from our partner nation embassies in Washington, congressional staff colleagues across the government, including the Atrocity Prevention Task Force and our guests from civil society.</p>
+<p>To those of you who I haven’t yet met, I am Anne Witkowsky, assistant secretary of state for Conflict and Stabilization Operations.  It is my pleasure to welcome our speakers this morning, U.S. Deputy Secretary of State Wendy Sherman and U.S. Agency for International Development’s Deputy Administrator Isobel Coleman.</p>
+<p>Today we are announcing the release of a report and a strategy that encapsulate the past, present, and future of the U.S. Government’s work to anticipate, prevent, and respond to atrocities.  First, we are submitting the <a href="https://www.state.gov/2022-report-to-congress-pursuant-to-section-5-of-the-elie-wiesel-genocide-and-atrocities-prevention-act-of-2018/">2022 Elie Wiesel Report to Congress</a>.  This is the fourth iteration of the report since the U.S. Congress passed the consequential Eli Wiesel Genocide and Atrocities Prevention Act in 2018.  The report illustrates our set of global concerns and our worldwide activities as a unified U.S. response – as a unified U.S. Government to prevent and respond to some of the worst crimes that humans can perpetrate against one another.</p>
+<p>In doing so, we show our commitment to promoting respect for human rights around the world and reaffirm that atrocity prevention is not only a national security commitment for the United States, it is also a moral responsibility.  In addition, we are releasing publicly the first ever comprehensive <a href="https://www.state.gov/2022-united-states-strategy-to-anticipate-prevent-and-respond-to-atrocities/">U.S. Strategy to Anticipate, Prevent, and Respond to Atrocities</a>.  While the report covers the past year and present concerns, the strategy will guide our future work as we institutionalize a task force-based process and mobilize a true whole-of-government effort for atrocity prevention and response.</p>
+<p>Let me now welcome the podium – to the podium, Deputy Secretary Sherman.  (Applause.)</p>
+<p><strong>DEPUTY SECRETARY SHERMAN:</strong>  Thank you all.  And you’ll notice behind me a small stool.  I’m back-challenged, as many of us are, so if I sit down on it you’ll understand why.</p>
+<p>Good morning and thank you all so much for joining at this really, important moment this morning.  I particularly want to thank our Assistant Secretary for Conflict and Stabilization Operations Anne Witkowsky for not only her welcoming me and Isobel Coleman, but for all the incredible work she and her team – all of you, both inside and outside the department – all the work you’ve put in to not only today’s release of the 2022 Elie Wiesel Act Report and the launch of the Strategy to Anticipate, Prevent, and Respond to Atrocities, but quite frankly all the work you are doing to make that report, that strategy, that effort real.</p>
+<p>I know many of the civil society organizations here today and watching online contributed really, critical insights to the strategy in particular, and we thank you for your partnership.  Thanks also to Isobel, deputy administrator for USAID, for joining us this morning.  We were talking as we were getting ready that in many ways this goes back to efforts made by now Administrator Samantha Power some years ago to really recognize and work forward in this arena.</p>
+<p>“Human suffering anywhere concerns men and women everywhere.”  That’s what Elie Wiesel said when accepting the Nobel Peace Prize in 1986.  His words remind us that it is our duty as human beings to not look away from violence or atrocities, including genocide, war crimes, and crimes against humanity.  And those words remind us as well that it is also our duty – both as human beings and as governments – to do something about it.</p>
+<p>Virtually every day, at this moment, we hear of new atrocities committed against civilians in Ukraine as part of Vladimir Putin’s war of aggression – of schools and hospitals bombed, of grain silos destroyed and wheat fields set ablaze, of women and girls raped, and men and boys executed.  Smartphones and social media give the events in Ukraine a jarring sense of immediacy.  But we all know that Ukraine is not the only place in the world where people are suffering – and suffering mightily – as a result of atrocities and abuses of human rights.</p>
+<p>They are occurring in South Sudan and Ethiopia, where we have heard reports of sexual and gender-based violence being used as a tool of conflict; in the People’s Republic of China, where genocide and crimes against humanity are being perpetrated against Uyghurs in Xinjiang; in Afghanistan, where the Taliban continues to abuse the human rights and fundamental freedoms of women and girls, members of ethnic and religious minority groups, and other marginalized people; in Syria, where the Assad regime has committed war crimes; in Myanmar, where Secretary Blinken earlier this year announced his determination that members of the Burmese military committed genocide and crimes against humanity against Rohingya.</p>
+<p>All too often, in the decades since we began saying, “Never again,” after the Holocaust, governments – including the United States – tended to be reactive, rather than proactive.  We took action, after atrocities had already occurred: documenting human rights abuses and making the findings known to the public, denouncing and sanctioning perpetrators, investigating and prosecuting them in court, providing support to the survivors and to their communities.</p>
+<p>These measures are important.  Indeed, accountability is crucial to uncovering the truth, to punishing those who have done grave harm, to achieving some measure of justice for victims, survivors, and their families.  But accountability alone is not enough.  We must work to stop atrocities, crimes against humanity, war crimes, and genocide from occurring in the first place, to protect victims by preventing them from being victimized.</p>
+<p>In 2018, Congress passed the Elie Wiesel Genocide and Atrocities Prevention Act in recognition that atrocity prevention is a priority and a responsibility of the United States.  The 2022 Elie Wiesel Report, which we are releasing today, updates Congress and the public on the United States efforts to address genocide, war crimes, and crimes against humanity in every part of the world, including specifically aligning our work to support evidence collection, impose sanctions, and hold perpetrators accountable in these and other countries.</p>
+<p>And we are going further today as well by launching the first ever Strategy to Anticipate, Prevent, and Respond to Atrocities.  This plan will help coordinate resources and direct activities not only at the State Department but across the federal government in three key areas.</p>
+<p>First, anticipation.  We know from painful experience that the human and economic costs of atrocities are higher when we wait to respond, as opposed to when we can take early action to prevent escalation.  That’s why the strategy emphasizes the importance of data collection, observation, intelligence gathering, and analysis.  Under the strategy, we will work through the White House-led Atrocity Prevention Task Force to identify the countries and regions most at risk for atrocities and develop targeted plans for prevention and response.</p>
+<p>Second, prevention.  We will use our foreign assistance dollars as well as our diplomacy to strengthen institutions and societies, provide emergency and humanitarian relief, and help address underlying tensions and advance justice in countries at risk of atrocities and escalation. We will deepen our work with allies and partners, both bilaterally and multilaterally, to coordinate our efforts and mobilize coalitions to take preventive action.  And we will train U.S. diplomats and foreign aid workers to recognize the warning signs that atrocities may be on the horizon.</p>
+<p>Third, response.  As we know all too well, there will still be times when, despite our best efforts and those of our allies and partners, we cannot prevent atrocities from occurring.  We will continue to deploy the full range of tools we have available to then hold people and governments to account for atrocities and human rights abuses.</p>
+<p>We know none of these measures is sufficient on its own, and we must be humble about what even this new strategy can achieve.  Despite the best efforts of the world, over the more than seven decades since the end of World War II, we have seen genocides in Rwanda, in Bosnia, in Myanmar.  We have seen reports of sexual violence used as a weapon of war in the Democratic Republic of the Congo, in ISIS-controlled regions of Iraq and Syria, and now in Ukraine.  We have seen reports of extrajudicial killings in Colombia, in the Philippines, in Afghanistan.</p>
+<p>But this new strategy makes plain to the world once again that the United States stands with the victims of these abuses, and that we refuse to give in to cynicism.  We refuse to accept that atrocities and human rights abuse are inevitable.  We can do better.  The world can do better.</p>
+<p>To quote Elie Wiesel again, “Neutrality helps the oppressor, never the victim.  Silence encourages the tormentor, never the tormented.”  This strategy and our other ongoing work to prevent atrocities once again demonstrates the United States commitment to standing on the side of victims and survivors, and holding the perpetrators of atrocities to account.</p>
+<p>Thank you again for joining us this morning and for everything you do, every day, to make progress on these tremendously challenging issues.</p>
+<p>Now, please join me in welcoming Isobel Coleman, deputy administrator for USAID, who will share more about the important work USAID is doing to prevent and respond to atrocities.  Thank you.  (Applause.)</p>
+<p><strong>DEPUTY ADMINISTRATOR COLEMAN:  </strong>Good morning.  Thank you so much to Assistant Secretary Witkowsky for your introductory remarks, and to Deputy Secretary Sherman for your really, inspirational remarks, too.  And thanks to the entire interagency team for working and developing this very ambitious strategy and for producing the fourth annual report to Congress.  So, thank you.</p>
+<p>As we look at the world, from Burma to Ukraine, it’s easy to feel like “never again” is an aspiration out of reach.  But we know, both from empirical data and from our partners’ passion and commitment when they put themselves on the line to fight for peace and human rights that prevention is possible.  We have seen time and again how U.S. Government efforts have helped address risk factors.</p>
+<p>The comprehensive strategy we’re delivering today reflects the U.S. Government’s recognition that we not only need to address the crises in front of us, but we also need to invest in and work closely with local partners in places that are not making daily headlines.  This strategy gives us a framework to ensure the U.S. Government can effectively and proactively engage in atrocity prevention with our local and international partners, and when necessary, mitigate effects.</p>
+<p>Atrocities are preventable.  They are not inevitable.  They are not random acts.  There are always risk factors and warning signs before an atrocity takes place.  The question is not if we can prevent atrocities; the question is whether we act early enough when prevention is still possible.  Through decades of reflection and analysis, we’ve learned that atrocities do not happen in a vacuum.  Rather, they are symptoms of larger challenges.  They manifest in the worst forms of violence and human rights violations, resulting from pernicious long-term development challenges like authoritarianism and democratic backsliding, lack of respect for human rights and the rule of law, conflict and political instability, gender inequality, and corruption.  These trends are all too familiar, but our strategy for atrocity prevention and response accounts for some of the most glaring risk factors, including eroding trust and intercommunal conflict, the proliferation of disinformation, poor governance, and efforts to undermine the rule of law and to walk back fundamental rights.</p>
+<p>Development assistance is uniquely positioned to help prevent atrocities.  At USAID, even assistance aimed at other long-term goals in affected regions can support atrocity prevention.  Health programs can support those directly affected through psychosocial and medical care.  Economic growth programs can be structured to foster social inclusion.  Inclusive service delivery can improve governance.  At the same time, while development work may help strengthen the overall enabling environment for atrocity prevention, targeted interventions based on risk analysis and deep local knowledge and partnerships are essential.</p>
+<p>In areas of greatest risk, good development simply isn’t enough.  We need dedicated atrocity prevention efforts and, when necessary, atrocity response.  USAID’s work to prevent, respond to, and support recovery from atrocities builds on many years of experience in the Balkans, Colombia, Burma, Ethiopia, Sudan, and elsewhere.  This work ranges from small rapid-response efforts to tackle specific risks to large multiyear comprehensive programs.  It covers countries that are currently low or medium risk, as well as high-risk countries and those currently experiencing mass atrocities.  Our work seeks to reduce the risks of violence and human right violations writ large while targeting specific groups facing heightened risks, such as religious and ethnic groups, groups targeted for who they are or what they believe; women, who are too often the victims of conflict-related sexual violence; and pro-democracy activists targeted by authoritarian leaders.</p>
+<p>In Burma, for example, USAID is working to support the safety and security of hundreds of journalists, high-profile activists, and other civil society actors, and to improve civil society’s abilities to use information technology and cyber hygiene to counter disinformation and maintain a peaceful opposition.</p>
+<p>In Ukraine, USAID is continuing its long-term support for government and civil society efforts to document human rights abuse, including atrocities; support truth-telling efforts; strengthen the legal enabling environment; build capacity of legal practitioners to investigate and prosecute these crimes; and provide legal assistance to conflict-affected civilians to ensure justice and accountability and put an end to impunity.</p>
+<p>And in Bosnia and Herzegovina, USAID is helping to build partnerships among religious leaders of multiple faiths, diverse groups of youth, and community leaders to promote mutual respect and foster connections across different communities, strengthening their ability to maintain non-adversarial relations amid efforts to sow division.</p>
+<p>Development assistance like USAID’s is necessary, but clearly not sufficient.  We know we must work in close coordination across the U.S. Government as outlined in the strategy.  We must avoid siloing this work and instead link it to related efforts, such as the Global Fragility Act; Women, Peace, and Security Act; and others.  We recognize the unique approach that each challenge requires, but we also increasingly see that all of these related interventions reinforce each other.</p>
+<p>We must also work with other governments through multilateral fora and international working groups, and above all, we must support the leadership and engagement of local actors.  Our USAID missions have longstanding, deep relationships with local institutions, organizations, and actors who have the greatest understanding of complex local dynamics, whether in capital cities or remote areas.  These relationships are built on trust and allow us to support those who are most affected to determine their own futures.  Recognizing that states are duty-bearers for protecting human rights, we must use all diplomatic levers to engage government actors in countries at risk, which is why I’m so proud to stand today with my State Department colleagues here.</p>
+<p>The challenges are immense, but our commitment is unwavering.  The U.S. Strategy to Anticipate, Prevent, and Respond to Atrocities is an important step towards atrocity prevention, and now all of us – all of our agencies – must work together diligently to make it a reality.  Thank you.  (Applause.)</p>
+<p><strong>ASSISTANT SECRETARY WITKOWSKY:</strong>  Well, thank you both for those inspiring, moving, and informative remarks.  Thank you.</p>
+<p>This concludes the formal remarks part of our program today.  We would like to invite the guests, who are here with us, to join us in the foyer for a reception.  We have some refreshments, and we also have copies of the publications that we’ve been discussing today.  For those of you online, the publications will be posted; and you can access them there.  Thank you all again for coming.  (Applause.)</p>
+<p><input type="hidden" data-filter="100000000101" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Wendy R. Sherman, Deputy Secretary of State</p>
+<p>Anne A. Witkowsky, Assistant SecretaryBureau of Conflict and Stabilization Operations</p>
+<p>Isobel Coleman, U.S. Agency for International Development Deputy Administrator</p>
+<p>Washington, DC</p>
+<p>Burns Auditorium</p>
+<p><strong>ASSISTANT SECRETARY WITKOWSKY:</strong>  Good morning.  Thank you for joining us on this important day.  I would like to extend a warm welcome to representatives from our partner nation embassies in Washington, congressional staff colleagues across the government, including the Atrocity Prevention Task Force and our guests from civil society.</p>
+<p>To those of you who I haven’t yet met, I am Anne Witkowsky, assistant secretary of state for Conflict and Stabilization Operations.  It is my pleasure to welcome our speakers this morning, U.S. Deputy Secretary of State Wendy Sherman and U.S. Agency for International Development’s Deputy Administrator Isobel Coleman.</p>
+<p>Today we are announcing the release of a report and a strategy that encapsulate the past, present, and future of the U.S. Government’s work to anticipate, prevent, and respond to atrocities.  First, we are submitting the <a href="https://www.state.gov/2022-report-to-congress-pursuant-to-section-5-of-the-elie-wiesel-genocide-and-atrocities-prevention-act-of-2018/">2022 Elie Wiesel Report to Congress</a>.  This is the fourth iteration of the report since the U.S. Congress passed the consequential Eli Wiesel Genocide and Atrocities Prevention Act in 2018.  The report illustrates our set of global concerns and our worldwide activities as a unified U.S. response – as a unified U.S. Government to prevent and respond to some of the worst crimes that humans can perpetrate against one another.</p>
+<p>In doing so, we show our commitment to promoting respect for human rights around the world and reaffirm that atrocity prevention is not only a national security commitment for the United States, it is also a moral responsibility.  In addition, we are releasing publicly the first ever comprehensive <a href="https://www.state.gov/2022-united-states-strategy-to-anticipate-prevent-and-respond-to-atrocities/">U.S. Strategy to Anticipate, Prevent, and Respond to Atrocities</a>.  While the report covers the past year and present concerns, the strategy will guide our future work as we institutionalize a task force-based process and mobilize a true whole-of-government effort for atrocity prevention and response.</p>
+<p>Let me now welcome the podium – to the podium, Deputy Secretary Sherman.  (Applause.)</p>
+<p><strong>DEPUTY SECRETARY SHERMAN:</strong>  Thank you all.  And you’ll notice behind me a small stool.  I’m back-challenged, as many of us are, so if I sit down on it you’ll understand why.</p>
+<p>Good morning and thank you all so much for joining at this really, important moment this morning.  I particularly want to thank our Assistant Secretary for Conflict and Stabilization Operations Anne Witkowsky for not only her welcoming me and Isobel Coleman, but for all the incredible work she and her team – all of you, both inside and outside the department – all the work you’ve put in to not only today’s release of the 2022 Elie Wiesel Act Report and the launch of the Strategy to Anticipate, Prevent, and Respond to Atrocities, but quite frankly all the work you are doing to make that report, that strategy, that effort real.</p>
+<p>I know many of the civil society organizations here today and watching online contributed really, critical insights to the strategy in particular, and we thank you for your partnership.  Thanks also to Isobel, deputy administrator for USAID, for joining us this morning.  We were talking as we were getting ready that in many ways this goes back to efforts made by now Administrator Samantha Power some years ago to really recognize and work forward in this arena.</p>
+<p>“Human suffering anywhere concerns men and women everywhere.”  That’s what Elie Wiesel said when accepting the Nobel Peace Prize in 1986.  His words remind us that it is our duty as human beings to not look away from violence or atrocities, including genocide, war crimes, and crimes against humanity.  And those words remind us as well that it is also our duty – both as human beings and as governments – to do something about it.</p>
+<p>Virtually every day, at this moment, we hear of new atrocities committed against civilians in Ukraine as part of Vladimir Putin’s war of aggression – of schools and hospitals bombed, of grain silos destroyed and wheat fields set ablaze, of women and girls raped, and men and boys executed.  Smartphones and social media give the events in Ukraine a jarring sense of immediacy.  But we all know that Ukraine is not the only place in the world where people are suffering – and suffering mightily – as a result of atrocities and abuses of human rights.</p>
+<p>They are occurring in South Sudan and Ethiopia, where we have heard reports of sexual and gender-based violence being used as a tool of conflict; in the People’s Republic of China, where genocide and crimes against humanity are being perpetrated against Uyghurs in Xinjiang; in Afghanistan, where the Taliban continues to abuse the human rights and fundamental freedoms of women and girls, members of ethnic and religious minority groups, and other marginalized people; in Syria, where the Assad regime has committed war crimes; in Myanmar, where Secretary Blinken earlier this year announced his determination that members of the Burmese military committed genocide and crimes against humanity against Rohingya.</p>
+<p>All too often, in the decades since we began saying, “Never again,” after the Holocaust, governments – including the United States – tended to be reactive, rather than proactive.  We took action, after atrocities had already occurred: documenting human rights abuses and making the findings known to the public, denouncing and sanctioning perpetrators, investigating and prosecuting them in court, providing support to the survivors and to their communities.</p>
+<p>These measures are important.  Indeed, accountability is crucial to uncovering the truth, to punishing those who have done grave harm, to achieving some measure of justice for victims, survivors, and their families.  But accountability alone is not enough.  We must work to stop atrocities, crimes against humanity, war crimes, and genocide from occurring in the first place, to protect victims by preventing them from being victimized.</p>
+<p>In 2018, Congress passed the Elie Wiesel Genocide and Atrocities Prevention Act in recognition that atrocity prevention is a priority and a responsibility of the United States.  The 2022 Elie Wiesel Report, which we are releasing today, updates Congress and the public on the United States efforts to address genocide, war crimes, and crimes against humanity in every part of the world, including specifically aligning our work to support evidence collection, impose sanctions, and hold perpetrators accountable in these and other countries.</p>
+<p>And we are going further today as well by launching the first ever Strategy to Anticipate, Prevent, and Respond to Atrocities.  This plan will help coordinate resources and direct activities not only at the State Department but across the federal government in three key areas.</p>
+<p>First, anticipation.  We know from painful experience that the human and economic costs of atrocities are higher when we wait to respond, as opposed to when we can take early action to prevent escalation.  That’s why the strategy emphasizes the importance of data collection, observation, intelligence gathering, and analysis.  Under the strategy, we will work through the White House-led Atrocity Prevention Task Force to identify the countries and regions most at risk for atrocities and develop targeted plans for prevention and response.</p>
+<p>Second, prevention.  We will use our foreign assistance dollars as well as our diplomacy to strengthen institutions and societies, provide emergency and humanitarian relief, and help address underlying tensions and advance justice in countries at risk of atrocities and escalation. We will deepen our work with allies and partners, both bilaterally and multilaterally, to coordinate our efforts and mobilize coalitions to take preventive action.  And we will train U.S. diplomats and foreign aid workers to recognize the warning signs that atrocities may be on the horizon.</p>
+<p>Third, response.  As we know all too well, there will still be times when, despite our best efforts and those of our allies and partners, we cannot prevent atrocities from occurring.  We will continue to deploy the full range of tools we have available to then hold people and governments to account for atrocities and human rights abuses.</p>
+<p>We know none of these measures is sufficient on its own, and we must be humble about what even this new strategy can achieve.  Despite the best efforts of the world, over the more than seven decades since the end of World War II, we have seen genocides in Rwanda, in Bosnia, in Myanmar.  We have seen reports of sexual violence used as a weapon of war in the Democratic Republic of the Congo, in ISIS-controlled regions of Iraq and Syria, and now in Ukraine.  We have seen reports of extrajudicial killings in Colombia, in the Philippines, in Afghanistan.</p>
+<p>But this new strategy makes plain to the world once again that the United States stands with the victims of these abuses, and that we refuse to give in to cynicism.  We refuse to accept that atrocities and human rights abuse are inevitable.  We can do better.  The world can do better.</p>
+<p>To quote Elie Wiesel again, “Neutrality helps the oppressor, never the victim.  Silence encourages the tormentor, never the tormented.”  This strategy and our other ongoing work to prevent atrocities once again demonstrates the United States commitment to standing on the side of victims and survivors, and holding the perpetrators of atrocities to account.</p>
+<p>Thank you again for joining us this morning and for everything you do, every day, to make progress on these tremendously challenging issues.</p>
+<p>Now, please join me in welcoming Isobel Coleman, deputy administrator for USAID, who will share more about the important work USAID is doing to prevent and respond to atrocities.  Thank you.  (Applause.)</p>
+<p><strong>DEPUTY ADMINISTRATOR COLEMAN:  </strong>Good morning.  Thank you so much to Assistant Secretary Witkowsky for your introductory remarks, and to Deputy Secretary Sherman for your really, inspirational remarks, too.  And thanks to the entire interagency team for working and developing this very ambitious strategy and for producing the fourth annual report to Congress.  So, thank you.</p>
+<p>As we look at the world, from Burma to Ukraine, it’s easy to feel like “never again” is an aspiration out of reach.  But we know, both from empirical data and from our partners’ passion and commitment when they put themselves on the line to fight for peace and human rights that prevention is possible.  We have seen time and again how U.S. Government efforts have helped address risk factors.</p>
+<p>The comprehensive strategy we’re delivering today reflects the U.S. Government’s recognition that we not only need to address the crises in front of us, but we also need to invest in and work closely with local partners in places that are not making daily headlines.  This strategy gives us a framework to ensure the U.S. Government can effectively and proactively engage in atrocity prevention with our local and international partners, and when necessary, mitigate effects.</p>
+<p>Atrocities are preventable.  They are not inevitable.  They are not random acts.  There are always risk factors and warning signs before an atrocity takes place.  The question is not if we can prevent atrocities; the question is whether we act early enough when prevention is still possible.  Through decades of reflection and analysis, we’ve learned that atrocities do not happen in a vacuum.  Rather, they are symptoms of larger challenges.  They manifest in the worst forms of violence and human rights violations, resulting from pernicious long-term development challenges like authoritarianism and democratic backsliding, lack of respect for human rights and the rule of law, conflict and political instability, gender inequality, and corruption.  These trends are all too familiar, but our strategy for atrocity prevention and response accounts for some of the most glaring risk factors, including eroding trust and intercommunal conflict, the proliferation of disinformation, poor governance, and efforts to undermine the rule of law and to walk back fundamental rights.</p>
+<p>Development assistance is uniquely positioned to help prevent atrocities.  At USAID, even assistance aimed at other long-term goals in affected regions can support atrocity prevention.  Health programs can support those directly affected through psychosocial and medical care.  Economic growth programs can be structured to foster social inclusion.  Inclusive service delivery can improve governance.  At the same time, while development work may help strengthen the overall enabling environment for atrocity prevention, targeted interventions based on risk analysis and deep local knowledge and partnerships are essential.</p>
+<p>In areas of greatest risk, good development simply isn’t enough.  We need dedicated atrocity prevention efforts and, when necessary, atrocity response.  USAID’s work to prevent, respond to, and support recovery from atrocities builds on many years of experience in the Balkans, Colombia, Burma, Ethiopia, Sudan, and elsewhere.  This work ranges from small rapid-response efforts to tackle specific risks to large multiyear comprehensive programs.  It covers countries that are currently low or medium risk, as well as high-risk countries and those currently experiencing mass atrocities.  Our work seeks to reduce the risks of violence and human right violations writ large while targeting specific groups facing heightened risks, such as religious and ethnic groups, groups targeted for who they are or what they believe; women, who are too often the victims of conflict-related sexual violence; and pro-democracy activists targeted by authoritarian leaders.</p>
+<p>In Burma, for example, USAID is working to support the safety and security of hundreds of journalists, high-profile activists, and other civil society actors, and to improve civil society’s abilities to use information technology and cyber hygiene to counter disinformation and maintain a peaceful opposition.</p>
+<p>In Ukraine, USAID is continuing its long-term support for government and civil society efforts to document human rights abuse, including atrocities; support truth-telling efforts; strengthen the legal enabling environment; build capacity of legal practitioners to investigate and prosecute these crimes; and provide legal assistance to conflict-affected civilians to ensure justice and accountability and put an end to impunity.</p>
+<p>And in Bosnia and Herzegovina, USAID is helping to build partnerships among religious leaders of multiple faiths, diverse groups of youth, and community leaders to promote mutual respect and foster connections across different communities, strengthening their ability to maintain non-adversarial relations amid efforts to sow division.</p>
+<p>Development assistance like USAID’s is necessary, but clearly not sufficient.  We know we must work in close coordination across the U.S. Government as outlined in the strategy.  We must avoid siloing this work and instead link it to related efforts, such as the Global Fragility Act; Women, Peace, and Security Act; and others.  We recognize the unique approach that each challenge requires, but we also increasingly see that all of these related interventions reinforce each other.</p>
+<p>We must also work with other governments through multilateral fora and international working groups, and above all, we must support the leadership and engagement of local actors.  Our USAID missions have longstanding, deep relationships with local institutions, organizations, and actors who have the greatest understanding of complex local dynamics, whether in capital cities or remote areas.  These relationships are built on trust and allow us to support those who are most affected to determine their own futures.  Recognizing that states are duty-bearers for protecting human rights, we must use all diplomatic levers to engage government actors in countries at risk, which is why I’m so proud to stand today with my State Department colleagues here.</p>
+<p>The challenges are immense, but our commitment is unwavering.  The U.S. Strategy to Anticipate, Prevent, and Respond to Atrocities is an important step towards atrocity prevention, and now all of us – all of our agencies – must work together diligently to make it a reality.  Thank you.  (Applause.)</p>
+<p><strong>ASSISTANT SECRETARY WITKOWSKY:</strong>  Well, thank you both for those inspiring, moving, and informative remarks.  Thank you.</p>
+<p>This concludes the formal remarks part of our program today.  We would like to invite the guests, who are here with us, to join us in the foyer for a reception.  We have some refreshments, and we also have copies of the publications that we’ve been discussing today.  For those of you online, the publications will be posted; and you can access them there.  Thank you all again for coming.  (Applause.)</p>
+<p><input type="hidden" data-filter="100000000101" /></p>
 ]]></content:encoded>
 					
 		
