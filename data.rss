@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Wed, 20 Jul 2022 17:18:28 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Jul 2022 20:21:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Blinken’s Call with Lithuanian Foreign Minister Landsbergis</title>
+		<link>https://www.state.gov/secretary-blinkens-call-with-lithuanian-foreign-minister-landsbergis-2/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Wed, 20 Jul 2022 20:21:11 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=361428</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Lithuanian Foreign Minister Gabrielius Landsbergis.  Secretary Blinken and Foreign Minister Landsbergis discussed our shared commitment to support Ukraine and hold Russia to account for its unjustified war.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Lithuanian Foreign Minister Gabrielius Landsbergis.  Secretary Blinken and Foreign Minister Landsbergis discussed our shared commitment to support Ukraine and hold Russia to account for its unjustified war.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Blinken and Secretary Raimondo Co-Host Supply Chain Ministerial and Stakeholder Forum</title>
 		<link>https://www.state.gov/secretary-blinken-and-secretary-raimondo-co-host-supply-chain-ministerial-and-stakeholder-forum/</link>
 		
@@ -2114,335 +2273,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Inflation is hitting our citizens very hard, and under these difficult circumstances it is particularly important to have good friends and the support of our partners, first of all in the European Union, who is now the – our family of countries, and in the United States.  So thank you.</p>
 <p><b>SECRETARY BLINKEN:</b>  Good.  Great to have you here.  Thank you.</p>
 <p><b>PRIME MINISTER GAVRILITA:</b>  Thank you.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken At the 2022 Trafficking in Persons (TIP) Report Launch Ceremony</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-at-the-2022-trafficking-in-persons-tip-report-launch-ceremony/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Tue, 19 Jul 2022 19:46:27 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=361090</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, D.C.</p>
-<p>Benjamin Franklin Room</p>
-<p><strong>MODERATOR:</strong>  Your Excellencies, ladies and gentlemen, and esteemed guests:  Please welcome the Secretary of State of the United States Antony Blinken, accompanied by Dr. Kari Johnstone and the 2022 Trafficking in Person Heroes.  (Applause.)</p>
-<p><strong>MS JOHNSTONE:</strong>  Good afternoon and welcome.  Please, have a seat.</p>
-<p>My name is Kari Johnstone.  I’m the Acting Director of the Office to Monitor and Combat Trafficking in Persons here at the State Department, and I am just going to kick off our ceremony today.</p>
-<p>Thank you all so much for joining us.  It is great to have you with us here today.  We’re grateful to have Secretary Blinken here to release this year’s report.</p>
-<p>Our program will consist of the following:  First, Secretary Blinken will offer key remarks on this year’s report.  Next, we will have six amazing TIP Report Heroes whom we will honor for their steadfast dedication to combat human trafficking – five of whom are with us here in person.  We will also hear briefly from one of the heroes who will speak on behalf of this year’s TIP Report Heroes.  Finally, I will offer brief closing remarks.  After the ceremony, we hope you will find some time to visit state.gov to access this year’s report online.</p>
-<p>We are so honored to have you join us here today, Secretary Blinken.  Thank you for continuing to elevate the issue of human trafficking as a department priority, and for hosting today’s event.  We are proud to serve under your leadership as we work together to advance efforts to combat human trafficking.</p>
-<p>Ladies and gentlemen, the Secretary of State, Antony Blinken.  (Applause.)</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, good afternoon.  Thank you very, very much.  And welcome to the State Department, welcome to the Benjamin Franklin Room, and especially to our heroes, welcome.  It’s wonderful to be with you here in person at the State Department.</p>
-<p>Today, we’re releasing the 2022 Trafficking in Persons Report.  It assesses how 188 countries and territories, including the United States, are performing in terms of preventing trafficking, protecting victims, prosecuting traffickers.  That makes this one of the most comprehensive sources of information anywhere on anti-trafficking efforts by governments – what works, what doesn’t, and how we can continue to do better.</p>
-<p>None of this would be possible without the extraordinary efforts of many people, starting with the Office to Monitor and Combat Trafficking in Persons, under Kari’s remarkable leadership.  Thank you again for everything that you’re doing, everything your team is doing every single year, but also so many diplomats, journalists, advocates, academics, and especially survivors who contribute to our understanding of this terrible crime.</p>
-<p>Thank you to our colleagues across Congress who have joined us today.  We’re grateful for the partnership that we have with Congress on combatting trafficking.</p>
-<p>Thank you, too, to members of the U.S. Advisory Council on Human Trafficking and on the Human Trafficking Expert Consultant Network, colleagues who are here with us today.  These are two platforms that make it possible for us to work directly with survivors to shape more effective anti-trafficking policies.</p>
-<p>And finally, again, thank you to our six 2022 TIP Report Heroes.  Five are here with us in person, as Kari said, and we’ll honor them later this afternoon.  So I’d just like to mention the one hero who’s not actually with us today, for obvious reasons.  Let me just say a few words.</p>
-<p>Kahtehrynah Chehrehpahkha leads the Ukrainian chapter of the anti-trafficking NGO La Strada.  As we all know, since the start of Russia’s aggression against Ukraine, millions of Ukrainians have had to flee their homes – some internally within Ukraine, some leaving the country altogether – many, most with just what they were able to carry – and that makes them highly vulnerable to exploitation.  La Strada has a hotline.  It’s received an unprecedented number of calls over the past five months.  The organization has given literally thousands of Ukrainians the information and assistance that they need to try to stay safe as they’re forced from their homes.</p>
-<p>Kahtehrynah – and all of our TIP Heroes – are making a huge difference in the lives of people around the world.</p>
-<p>I think most of you know this, but it’s worth repeating:  The scale of this problem is vast.  There are nearly 25 million people currently victims of trafficking.  25 million people.  The United States is committed to fighting it because trafficking destabilizes societies, it undermines economies, it harms workers, it enriches those who exploit them, it undercuts legitimate business, and most fundamentally, because it is so profoundly wrong.</p>
-<p>Trafficking in persons violates the rights of all people to be free: free to do what you want, be who you want, make the life that you wish.</p>
-<p>Earlier this year, I had an opportunity to chair the first meeting of President Biden’s Interagency Task Force to Monitor and Combat Trafficking in Persons.  We brought together 20 agencies across our government to talk about how to implement the National Action Plan that the President released last November.  This, for those who don’t know, is a three-year strategy that includes strengthening prosecutions of traffickers, enhancing victim protection, preventing the crime from occurring within our borders and abroad.</p>
-<p>This report is a key part of our strategy.  It’s something that we do every year, and as I said, a huge amount of work goes into actually bringing it to fruition.</p>
-<p>So here’s where we are.  I think if you look at the report, you’re going to see a mixed picture of progress.  Twenty-one countries were upgraded a tier, because those governments made significant, increasing efforts to combat trafficking at home as well as for their citizens abroad.  Eighteen countries were downgraded a tier, indicating that they either didn’t make significant, increasing efforts to combat trafficking – or worse, that their governments have a state-sponsored policy or pattern of trafficking.</p>
-<p>As the report details, corruption continues to be a top tool of traffickers.  Complicit government officials may turn a blind eye to illicit activities, provide false documents for workers, tip off traffickers to impending raids.  Corruption allows traffickers to continue to act with impunity.</p>
-<p>Meanwhile, in 11 countries, the government subjects its own people to trafficking – for example, as retaliation for political expression or through forced labor on projects of national interest.</p>
-<p>That can look like subjecting people, including children, to forced labor in key sectors – mining, logging, manufacturing, farming – or sending members of ethnic minority groups to be “deradicalized” in camps.</p>
-<p>It can also mean deploying workers around the world without telling them where they’re going or what they’ll be doing, confiscating passports and salaries, forcing them into dangerous work conditions, and constantly monitoring their movements.</p>
-<p>That’s what happened to Zhang Qiang, a Chinese laborer who signed onto a Belt and Road project in Indonesia last year.  He was drawn by the higher pay, which he promised his daughter would be used to buy her a bed.  But when he arrived in Indonesia, he was stripped of his passport, instructed to sign a contract for a longer duration and lower pay than he’d been promised.  Armed guards patrolled the workers’ camp, making escape virtually impossible.  After failing to get help from the Chinese embassy in Jakarta, he managed to board a boat to escape Indonesia via Malaysia, but then was apprehended by Malaysian authorities.  By the last reporting, he was on track to be deported back to China.</p>
-<p>Another challenge that you’ll see laid out in this year’s report is the climate crisis and the instability that it helps accelerate and create.  As we’re seeing in our hemisphere, climate is a key driver of mass migration, which can create, alas, ideal conditions for traffickers.  And according to the UN Environment Programme, natural disasters – as well as the loss of livelihoods that they produce – may increase trafficking by up to 30 percent.</p>
-<p>Even the higher demand for clean energy can have unintended consequences.</p>
-<p>Consider, for example, the Democratic Republic of Congo, that’s home to much of the world’s cobalt, which is a critical component for lithium-ion batteries for electric vehicles – something very important for our efforts to combat climate change.  Some of that cobalt is mined by children, who are then pushed into work through coercion, through fraud, through force.</p>
-<p>I make this point because we need to be aware that as we tackle issues like climate and corruption throughout our – through our diplomacy, we also have to address how they intersect with trafficking in persons.  Traffickers seize every opportunity to exploit victims for profit.  We’ve got to be just as determined – in fact, more determined and more creative – to stop them.</p>
-<p>Now, the report also identifies several interventions that are making anti-trafficking efforts more effective.  And one is this year’s theme: more survivor engagement.</p>
-<p>Survivors of human trafficking know – through deeply painful experience – the tactics that traffickers use, the obstacles that survivors face as they get free, the support that can help the most as they work to rebuild their lives.  So what the report emphasizes and what I want to emphasize today is that need for us to listen – listen to them, empower them, partner with them at every level of our work.</p>
-<p>We’re seeing more organizations around the world ask survivors to serve as advisors – for example, the Albanian Coalition of Shelters for Victims of Trafficking, which provides victims and survivors with safe housing.  They helped create an advisory board of survivors to make sure that their interventions are designed to actually fit the real-world needs of the populations that they’re serving.</p>
-<p>Our own United States Advisory Council on Human Trafficking is comprised entirely of survivors who make recommendations on federal anti-trafficking policies to the President’s interagency task force.</p>
-<p>Another important tool is better data collection, making sure that our practices and bringing this together to help track cases, to help allocate resources, to measure the effectiveness of anti-trafficking policies.  And so we’re focusing on that.</p>
-<p>In the Philippines, to cite one example, the government launched a technology platform so that multiple agencies can work together to manage cases of victims as well as prosecute their traffickers.</p>
-<p>In Uganda, the government partnered with two NGOs to launch the Trafficking in Persons mobile app platform.  That helps investigators share details of cases they’re working on.  That helps bring more traffickers to justice.</p>
-<p>These examples highlight the kind of information-sharing and partnership that we believe will bring us closer to our goal of a world that is free from human trafficking in all of its forms.  And that’s precisely the kind of information-sharing and partnership we hope this year’s TIP Report will spur for governments as well as for advocates around the world.</p>
-<p>Traffickers don’t respect borders.  The harm caused by this crime is vast; it’s varied.  And it will continue to take relentless diplomacy, coordination, advocacy, and commitment, which is in this room and on this stage, if we’re going to stop it.</p>
-<p>So I simply want to say this:  Thank you.  Thank you to everyone here for the dedication that you’re showing to fighting trafficking and advancing human freedom and dignity, because at the heart of everything is the dignity that every human being deserves.  And thank you, again, to everyone whose hard work – Kari, you and your team – made this report possible.</p>
-<p>Thank you very much, and back to you.  (Applause.)</p>
-<p><strong>MS JOHNSTONE:</strong>  Thank you so much, Mr. Secretary, for your poignant and effective words.</p>
-<p>I am now thrilled to turn to celebrating the 2022 TIP Report Heroes.</p>
-<p>Please join me as we recognize and honor this year’s six heroes.</p>
-<p>Mr. Mohammed Tariqul Islam.  (Applause.)</p>
-<p>In recognition of his unyielding determination to provide assistance to victims of human trafficking, improve the investigation and prosecution capacity of the Bangladeshi Government, and increase cross-border collaboration to facilitate repatriation of survivors.</p>
-<p>Major Mohammad al-Khlaifat.  (Applause.)</p>
-<p>In recognition of his critical role in implementing new ways to cooperate with the Jordanian anti-trafficking community, which led to formalized information sharing within the Public Security Directorate and with prosecutors, as well as a formal agreement with the Civil Aviation Regulatory Authority, to improve anti-trafficking efforts and ensure victims receive vital services.</p>
-<p>Judge Cornelius Wennah.  (Applause.)</p>
-<p>In recognition of his resolute efforts to build capacity in Liberia’s criminal justice sector to successfully prosecute human traffickers and his strong advocacy for the active inclusion of traditional leaders and civil society organizations in Liberia’s National Anti-Trafficking Task Force.  (Applause.)</p>
-<p>Ms. Irena Dawid-Olczyk.  (Applause.)</p>
-<p>In recognition of her extraordinary leadership in directly assisting victims of human trafficking for more than a quarter of a century, lending her expertise in the creation of anti-trafficking training materials and films, and maintaining a strong relationship with the Polish Government to prevent the exploitation of refugees across the Poland-Ukraine border.  (Applause.)</p>
-<p>Ms. Apinya Tajit.  (Applause.)</p>
-<p>In recognition of her heartfelt and unwavering persistence in advocating for workers exploited in forced labor, particularly in the fishing industry, assisting victims with their reintegration into society, and sharing her expertise with government officials and anti-trafficking authorities.  (Applause.)</p>
-<p>Unfortunately, our TIP Report Hero from Ukraine was not able to join us for this momentous occasion.  However, we still want to honor her accomplishments.  And you will see her photo on the screens: Ms. Kateryna Cherepakha.</p>
-<p>In recognition of her remarkable engagement with the Government of Ukraine and international stakeholders to build the capacity of officials to identify victims of human trafficking, her tireless victim advocacy, and her work developing and conducting training courses for first responders as an OSCE National Expert.  (Applause.)</p>
-<p>And now, we will hear from one of the 2022 TIP Report Heroes.  Please welcome Mr. Mohammed Tariqul Islam.  (Applause.)</p>
-<p><strong>MR ISLAM:  </strong>Good afternoon.  What a privilege to be here and speak on behalf of the 2022 TIP Report Heroes.</p>
-<p>I know for each of us it’s an honor to be part of small network of individuals who have been recognized in the fight against human trafficking.  But of course, I know the survivors are the real heroes each of us is able to serve.</p>
-<p>In the UK last week, four-time gold medal Olympian Sir Mo Farah told his story as a survivor of human trafficking.  His story reminds us that wherever we are in the world, human trafficking has left its mark, and we must do whatever we can to bring freedom, justice, and change.  It is critical to ensure that the survivors are kept at the very heart of the story, and that is what I have learned the importance of at the organization I work for, Justice and Care.</p>
-<p>The TIP Report Heroes give us hope.  The network of heroes is a reminder of the power each of us has to respond to the growing issues of the human trafficking.</p>
-<p>An example of that is Kateryna Cherepakha from Ukraine, who has been named as a TIP Hero this year for her work during the war in Ukraine helping the most vulnerable.</p>
-<p>Ms. Tajit, the TIP Report Hero from Thailand, is passionate about doing what is right, not what is easy.  She wants to see the maritime industry free from trafficking in her lifetime.</p>
-<p>Ms. Dawid-Olczyk, the TIP Report Hero from Poland (inaudible) increase public diplomacy to de-escalate armed conflict and to prevent conflict-affected vulnerable people from being exploited.</p>
-<p>TIP Report Hero Judge Wennah from Liberia believes that this award will serve as an impetus to help his fight against human trafficking.</p>
-<p>And the TIP Report Hero Major Mohammad al-Khlaifat from Jordan appreciates all governmental and non-governmental efforts to combat trafficking in Jordan and hopes that Jordan can soon be free of human trafficking.</p>
-<p>The awards and the TIP Report as a whole remind us of the power of the government to act.  I know from my experience in Bangladesh that the TIP Report matters.  It shapes government response and providing for the bandwidth organization, nonprofit, like Justice and Care, to work with them on effective solutions.</p>
-<p>Thank you for your global leadership on the issue.  Please do more of it, so that countries even more focus on the issue.  In Bangladesh, that leadership has led many changes, including passing a high standard anti-human-trafficking law, development of national plan of actions, and setting up separate anti-human-trafficking tribunals.  And those changes lead to tangible impact in the lives of the survivors.</p>
-<p>In Bangladesh, we have the privilege of working with hundreds of survivors of human trafficking.  We watch them with joy and pride as they rebuild their life, testify and use their experience to help others, and shape change at scale.  Their stories demonstrate hope.  The award is theirs.</p>
-<p>I’ll close with a story.  Ahali (ph) is a child of human trafficking we have the privilege of supporting.  She returned home and feel nothing but shame.  She wanted to take her life.  We worked with her though, and she is now flourishing.  She has developed a successful business, has a family, and using her experience to help others through a champion survivor program.  She, too, is a hero.</p>
-<p>Thanks to the Department of State and Secretary Blinken for sponsoring exchanges like the IVLP to help us connect to people around the globe working with the survivors and to fight eliminating human trafficking, and for recognizing the work that makes Ahali’s and many other stories possible.  Thank you.</p>
-<p><strong>MS JOHNSTONE:  </strong>Thank you, Mohammed, for sharing that important message on behalf of all of this year’s heroes.  Let’s give this amazing group of leaders another round of applause.  (Applause.)  It is such an honor to celebrate your important work.</p>
-<p>The TIP Report continues to be a vital tool to inform the world about human trafficking and encourage governments to enhance and intensify anti-trafficking efforts in their countries.  This year we chose to highlight the importance of meaningful engagement with trafficking survivors and the importance of integrating their expertise to improve anti-trafficking policies and strategies.</p>
-<p>In the 2021 TIP Report, the department cited only seven governments with active efforts to consult and engage survivors.  In the 2022 report, we have documented more than four times that number, 34 governments who actively – (applause) – absolutely.  And these 34 governments actively took steps to incorporate survivor input into their policies and anti-trafficking approaches.</p>
-<p>The 2022 TIP Report introduction cites governments with advisory councils and boards that include survivor leaders, elevating their participation among key policymakers, as in the United States and Albania.</p>
-<p>In addition, this introduction also recognizes the governments that consulted experts with lived experience of human trafficking in the development of national action plans like Rwanda, Guyana, and the Netherlands.</p>
-<p>Many governments were added to this list – newly engaging survivors in national anti-trafficking planning efforts – during the most recent reporting period, like Bangladesh, as Mr. Islam noted, alongside Botswana, Finland, Iceland, North Macedonia, and Uganda, among others.</p>
-<p>In addition, in Armenia, the Dominican Republic, India, and Spain, governments sought survivor input on reforming existing or new draft anti-trafficking laws.</p>
-<p>Many governments involved survivor leaders in shaping and delivering targeted awareness and outreach efforts, raising their voices to ensure impactful and clear messaging to facilitate change, as was done in Kosovo, Malta, Pakistan, Slovakia, South Africa, Sri Lanka, and the United Arab Emirates.</p>
-<p>All this demonstrates that recognizing the importance of consulting survivors’ expertise is a growing, global trend, and we are so pleased to be able to document these emerging efforts across the 2022 TIP Report narratives.</p>
-<p>And, of course, we know survivor leaders and experts with lived experience of human trafficking have advocated long and hard for a seat at the table and a substantial role in the development of governmental anti-trafficking programs and policies.  It is because of their hard work that so many governments have been able to increase their efforts to meaningfully engage survivors and it is because of their commitment and expertise that we have a deeper understanding of how to do this engagement the right way.</p>
-<p>One example I am proud to point to is the department’s Human Trafficking Expert Consultant Network, comprising individuals with lived experience of trafficking.  This year, network consultants worked with us to develop best practices to seek information from foreign governments and other key stakeholders for the 2022 TIP Report, ensuring that it more fully captures the impact of inequity and marginalization.  Experts with lived experience in human trafficking have also helped us develop survivor-informed policies, programs, and resources for our government and beyond.</p>
-<p>It is imperative that we engage survivors early and often.  As we begin to see growing interest of our bilateral and multilateral partners to responsibly engage survivors, we are more hopeful than ever that elevated survivor voices will strengthen our anti-trafficking efforts around the globe.  When governments and civil society prioritize partnerships with survivors, meaningful engagements can flourish and lead to better outcomes.</p>
-<p>Every year, my office works in partnership with our colleagues across the State Department to ensure that the report is both comprehensive and accurate.  This is the result of robust collaboration and healthy discussions, for which we are thankful.  We also appreciate our colleagues across the U.S. Government as well as our dynamic allies around the world, both our foreign government counterparts and our collective partners in NGOs and international organizations, who continuously lend their voice to effect change through policy and law.  We are especially grateful to those with lived experience of human trafficking whose expertise and contributions to this report cannot be overstated.  Last, but not – definitely not least, I would like to give a heartfelt thanks to the experts and hard-working team of the Trafficking in Persons Office for your deep expertise and tireless commitment to this issue and this report.  The hard work and long hours that you’ve put into the production of this report are important and will effect real change as part of our robust diplomatic strategy, working with governments, community leaders, and civil society to put into action the report’s prioritized recommendations.</p>
-<p>Each of us in this room has a role to play in the fight against human trafficking, whether in federal, state, or local government; the private sector; as advocates, service providers, or media; or individual citizens.  I look forward to working with all of you in our shared fight against human trafficking.</p>
-<p>Thank you again for joining us today, and please remember to go to state.gov to check out this year’s report.  Thank you all.  (Applause.)</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, D.C.</p>
-<p>Benjamin Franklin Room</p>
-<p><strong>MODERATOR:</strong>  Your Excellencies, ladies and gentlemen, and esteemed guests:  Please welcome the Secretary of State of the United States Antony Blinken, accompanied by Dr. Kari Johnstone and the 2022 Trafficking in Person Heroes.  (Applause.)</p>
-<p><strong>MS JOHNSTONE:</strong>  Good afternoon and welcome.  Please, have a seat.</p>
-<p>My name is Kari Johnstone.  I’m the Acting Director of the Office to Monitor and Combat Trafficking in Persons here at the State Department, and I am just going to kick off our ceremony today.</p>
-<p>Thank you all so much for joining us.  It is great to have you with us here today.  We’re grateful to have Secretary Blinken here to release this year’s report.</p>
-<p>Our program will consist of the following:  First, Secretary Blinken will offer key remarks on this year’s report.  Next, we will have six amazing TIP Report Heroes whom we will honor for their steadfast dedication to combat human trafficking – five of whom are with us here in person.  We will also hear briefly from one of the heroes who will speak on behalf of this year’s TIP Report Heroes.  Finally, I will offer brief closing remarks.  After the ceremony, we hope you will find some time to visit state.gov to access this year’s report online.</p>
-<p>We are so honored to have you join us here today, Secretary Blinken.  Thank you for continuing to elevate the issue of human trafficking as a department priority, and for hosting today’s event.  We are proud to serve under your leadership as we work together to advance efforts to combat human trafficking.</p>
-<p>Ladies and gentlemen, the Secretary of State, Antony Blinken.  (Applause.)</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, good afternoon.  Thank you very, very much.  And welcome to the State Department, welcome to the Benjamin Franklin Room, and especially to our heroes, welcome.  It’s wonderful to be with you here in person at the State Department.</p>
-<p>Today, we’re releasing the 2022 Trafficking in Persons Report.  It assesses how 188 countries and territories, including the United States, are performing in terms of preventing trafficking, protecting victims, prosecuting traffickers.  That makes this one of the most comprehensive sources of information anywhere on anti-trafficking efforts by governments – what works, what doesn’t, and how we can continue to do better.</p>
-<p>None of this would be possible without the extraordinary efforts of many people, starting with the Office to Monitor and Combat Trafficking in Persons, under Kari’s remarkable leadership.  Thank you again for everything that you’re doing, everything your team is doing every single year, but also so many diplomats, journalists, advocates, academics, and especially survivors who contribute to our understanding of this terrible crime.</p>
-<p>Thank you to our colleagues across Congress who have joined us today.  We’re grateful for the partnership that we have with Congress on combatting trafficking.</p>
-<p>Thank you, too, to members of the U.S. Advisory Council on Human Trafficking and on the Human Trafficking Expert Consultant Network, colleagues who are here with us today.  These are two platforms that make it possible for us to work directly with survivors to shape more effective anti-trafficking policies.</p>
-<p>And finally, again, thank you to our six 2022 TIP Report Heroes.  Five are here with us in person, as Kari said, and we’ll honor them later this afternoon.  So I’d just like to mention the one hero who’s not actually with us today, for obvious reasons.  Let me just say a few words.</p>
-<p>Kahtehrynah Chehrehpahkha leads the Ukrainian chapter of the anti-trafficking NGO La Strada.  As we all know, since the start of Russia’s aggression against Ukraine, millions of Ukrainians have had to flee their homes – some internally within Ukraine, some leaving the country altogether – many, most with just what they were able to carry – and that makes them highly vulnerable to exploitation.  La Strada has a hotline.  It’s received an unprecedented number of calls over the past five months.  The organization has given literally thousands of Ukrainians the information and assistance that they need to try to stay safe as they’re forced from their homes.</p>
-<p>Kahtehrynah – and all of our TIP Heroes – are making a huge difference in the lives of people around the world.</p>
-<p>I think most of you know this, but it’s worth repeating:  The scale of this problem is vast.  There are nearly 25 million people currently victims of trafficking.  25 million people.  The United States is committed to fighting it because trafficking destabilizes societies, it undermines economies, it harms workers, it enriches those who exploit them, it undercuts legitimate business, and most fundamentally, because it is so profoundly wrong.</p>
-<p>Trafficking in persons violates the rights of all people to be free: free to do what you want, be who you want, make the life that you wish.</p>
-<p>Earlier this year, I had an opportunity to chair the first meeting of President Biden’s Interagency Task Force to Monitor and Combat Trafficking in Persons.  We brought together 20 agencies across our government to talk about how to implement the National Action Plan that the President released last November.  This, for those who don’t know, is a three-year strategy that includes strengthening prosecutions of traffickers, enhancing victim protection, preventing the crime from occurring within our borders and abroad.</p>
-<p>This report is a key part of our strategy.  It’s something that we do every year, and as I said, a huge amount of work goes into actually bringing it to fruition.</p>
-<p>So here’s where we are.  I think if you look at the report, you’re going to see a mixed picture of progress.  Twenty-one countries were upgraded a tier, because those governments made significant, increasing efforts to combat trafficking at home as well as for their citizens abroad.  Eighteen countries were downgraded a tier, indicating that they either didn’t make significant, increasing efforts to combat trafficking – or worse, that their governments have a state-sponsored policy or pattern of trafficking.</p>
-<p>As the report details, corruption continues to be a top tool of traffickers.  Complicit government officials may turn a blind eye to illicit activities, provide false documents for workers, tip off traffickers to impending raids.  Corruption allows traffickers to continue to act with impunity.</p>
-<p>Meanwhile, in 11 countries, the government subjects its own people to trafficking – for example, as retaliation for political expression or through forced labor on projects of national interest.</p>
-<p>That can look like subjecting people, including children, to forced labor in key sectors – mining, logging, manufacturing, farming – or sending members of ethnic minority groups to be “deradicalized” in camps.</p>
-<p>It can also mean deploying workers around the world without telling them where they’re going or what they’ll be doing, confiscating passports and salaries, forcing them into dangerous work conditions, and constantly monitoring their movements.</p>
-<p>That’s what happened to Zhang Qiang, a Chinese laborer who signed onto a Belt and Road project in Indonesia last year.  He was drawn by the higher pay, which he promised his daughter would be used to buy her a bed.  But when he arrived in Indonesia, he was stripped of his passport, instructed to sign a contract for a longer duration and lower pay than he’d been promised.  Armed guards patrolled the workers’ camp, making escape virtually impossible.  After failing to get help from the Chinese embassy in Jakarta, he managed to board a boat to escape Indonesia via Malaysia, but then was apprehended by Malaysian authorities.  By the last reporting, he was on track to be deported back to China.</p>
-<p>Another challenge that you’ll see laid out in this year’s report is the climate crisis and the instability that it helps accelerate and create.  As we’re seeing in our hemisphere, climate is a key driver of mass migration, which can create, alas, ideal conditions for traffickers.  And according to the UN Environment Programme, natural disasters – as well as the loss of livelihoods that they produce – may increase trafficking by up to 30 percent.</p>
-<p>Even the higher demand for clean energy can have unintended consequences.</p>
-<p>Consider, for example, the Democratic Republic of Congo, that’s home to much of the world’s cobalt, which is a critical component for lithium-ion batteries for electric vehicles – something very important for our efforts to combat climate change.  Some of that cobalt is mined by children, who are then pushed into work through coercion, through fraud, through force.</p>
-<p>I make this point because we need to be aware that as we tackle issues like climate and corruption throughout our – through our diplomacy, we also have to address how they intersect with trafficking in persons.  Traffickers seize every opportunity to exploit victims for profit.  We’ve got to be just as determined – in fact, more determined and more creative – to stop them.</p>
-<p>Now, the report also identifies several interventions that are making anti-trafficking efforts more effective.  And one is this year’s theme: more survivor engagement.</p>
-<p>Survivors of human trafficking know – through deeply painful experience – the tactics that traffickers use, the obstacles that survivors face as they get free, the support that can help the most as they work to rebuild their lives.  So what the report emphasizes and what I want to emphasize today is that need for us to listen – listen to them, empower them, partner with them at every level of our work.</p>
-<p>We’re seeing more organizations around the world ask survivors to serve as advisors – for example, the Albanian Coalition of Shelters for Victims of Trafficking, which provides victims and survivors with safe housing.  They helped create an advisory board of survivors to make sure that their interventions are designed to actually fit the real-world needs of the populations that they’re serving.</p>
-<p>Our own United States Advisory Council on Human Trafficking is comprised entirely of survivors who make recommendations on federal anti-trafficking policies to the President’s interagency task force.</p>
-<p>Another important tool is better data collection, making sure that our practices and bringing this together to help track cases, to help allocate resources, to measure the effectiveness of anti-trafficking policies.  And so we’re focusing on that.</p>
-<p>In the Philippines, to cite one example, the government launched a technology platform so that multiple agencies can work together to manage cases of victims as well as prosecute their traffickers.</p>
-<p>In Uganda, the government partnered with two NGOs to launch the Trafficking in Persons mobile app platform.  That helps investigators share details of cases they’re working on.  That helps bring more traffickers to justice.</p>
-<p>These examples highlight the kind of information-sharing and partnership that we believe will bring us closer to our goal of a world that is free from human trafficking in all of its forms.  And that’s precisely the kind of information-sharing and partnership we hope this year’s TIP Report will spur for governments as well as for advocates around the world.</p>
-<p>Traffickers don’t respect borders.  The harm caused by this crime is vast; it’s varied.  And it will continue to take relentless diplomacy, coordination, advocacy, and commitment, which is in this room and on this stage, if we’re going to stop it.</p>
-<p>So I simply want to say this:  Thank you.  Thank you to everyone here for the dedication that you’re showing to fighting trafficking and advancing human freedom and dignity, because at the heart of everything is the dignity that every human being deserves.  And thank you, again, to everyone whose hard work – Kari, you and your team – made this report possible.</p>
-<p>Thank you very much, and back to you.  (Applause.)</p>
-<p><strong>MS JOHNSTONE:</strong>  Thank you so much, Mr. Secretary, for your poignant and effective words.</p>
-<p>I am now thrilled to turn to celebrating the 2022 TIP Report Heroes.</p>
-<p>Please join me as we recognize and honor this year’s six heroes.</p>
-<p>Mr. Mohammed Tariqul Islam.  (Applause.)</p>
-<p>In recognition of his unyielding determination to provide assistance to victims of human trafficking, improve the investigation and prosecution capacity of the Bangladeshi Government, and increase cross-border collaboration to facilitate repatriation of survivors.</p>
-<p>Major Mohammad al-Khlaifat.  (Applause.)</p>
-<p>In recognition of his critical role in implementing new ways to cooperate with the Jordanian anti-trafficking community, which led to formalized information sharing within the Public Security Directorate and with prosecutors, as well as a formal agreement with the Civil Aviation Regulatory Authority, to improve anti-trafficking efforts and ensure victims receive vital services.</p>
-<p>Judge Cornelius Wennah.  (Applause.)</p>
-<p>In recognition of his resolute efforts to build capacity in Liberia’s criminal justice sector to successfully prosecute human traffickers and his strong advocacy for the active inclusion of traditional leaders and civil society organizations in Liberia’s National Anti-Trafficking Task Force.  (Applause.)</p>
-<p>Ms. Irena Dawid-Olczyk.  (Applause.)</p>
-<p>In recognition of her extraordinary leadership in directly assisting victims of human trafficking for more than a quarter of a century, lending her expertise in the creation of anti-trafficking training materials and films, and maintaining a strong relationship with the Polish Government to prevent the exploitation of refugees across the Poland-Ukraine border.  (Applause.)</p>
-<p>Ms. Apinya Tajit.  (Applause.)</p>
-<p>In recognition of her heartfelt and unwavering persistence in advocating for workers exploited in forced labor, particularly in the fishing industry, assisting victims with their reintegration into society, and sharing her expertise with government officials and anti-trafficking authorities.  (Applause.)</p>
-<p>Unfortunately, our TIP Report Hero from Ukraine was not able to join us for this momentous occasion.  However, we still want to honor her accomplishments.  And you will see her photo on the screens: Ms. Kateryna Cherepakha.</p>
-<p>In recognition of her remarkable engagement with the Government of Ukraine and international stakeholders to build the capacity of officials to identify victims of human trafficking, her tireless victim advocacy, and her work developing and conducting training courses for first responders as an OSCE National Expert.  (Applause.)</p>
-<p>And now, we will hear from one of the 2022 TIP Report Heroes.  Please welcome Mr. Mohammed Tariqul Islam.  (Applause.)</p>
-<p><strong>MR ISLAM:  </strong>Good afternoon.  What a privilege to be here and speak on behalf of the 2022 TIP Report Heroes.</p>
-<p>I know for each of us it’s an honor to be part of small network of individuals who have been recognized in the fight against human trafficking.  But of course, I know the survivors are the real heroes each of us is able to serve.</p>
-<p>In the UK last week, four-time gold medal Olympian Sir Mo Farah told his story as a survivor of human trafficking.  His story reminds us that wherever we are in the world, human trafficking has left its mark, and we must do whatever we can to bring freedom, justice, and change.  It is critical to ensure that the survivors are kept at the very heart of the story, and that is what I have learned the importance of at the organization I work for, Justice and Care.</p>
-<p>The TIP Report Heroes give us hope.  The network of heroes is a reminder of the power each of us has to respond to the growing issues of the human trafficking.</p>
-<p>An example of that is Kateryna Cherepakha from Ukraine, who has been named as a TIP Hero this year for her work during the war in Ukraine helping the most vulnerable.</p>
-<p>Ms. Tajit, the TIP Report Hero from Thailand, is passionate about doing what is right, not what is easy.  She wants to see the maritime industry free from trafficking in her lifetime.</p>
-<p>Ms. Dawid-Olczyk, the TIP Report Hero from Poland (inaudible) increase public diplomacy to de-escalate armed conflict and to prevent conflict-affected vulnerable people from being exploited.</p>
-<p>TIP Report Hero Judge Wennah from Liberia believes that this award will serve as an impetus to help his fight against human trafficking.</p>
-<p>And the TIP Report Hero Major Mohammad al-Khlaifat from Jordan appreciates all governmental and non-governmental efforts to combat trafficking in Jordan and hopes that Jordan can soon be free of human trafficking.</p>
-<p>The awards and the TIP Report as a whole remind us of the power of the government to act.  I know from my experience in Bangladesh that the TIP Report matters.  It shapes government response and providing for the bandwidth organization, nonprofit, like Justice and Care, to work with them on effective solutions.</p>
-<p>Thank you for your global leadership on the issue.  Please do more of it, so that countries even more focus on the issue.  In Bangladesh, that leadership has led many changes, including passing a high standard anti-human-trafficking law, development of national plan of actions, and setting up separate anti-human-trafficking tribunals.  And those changes lead to tangible impact in the lives of the survivors.</p>
-<p>In Bangladesh, we have the privilege of working with hundreds of survivors of human trafficking.  We watch them with joy and pride as they rebuild their life, testify and use their experience to help others, and shape change at scale.  Their stories demonstrate hope.  The award is theirs.</p>
-<p>I’ll close with a story.  Ahali (ph) is a child of human trafficking we have the privilege of supporting.  She returned home and feel nothing but shame.  She wanted to take her life.  We worked with her though, and she is now flourishing.  She has developed a successful business, has a family, and using her experience to help others through a champion survivor program.  She, too, is a hero.</p>
-<p>Thanks to the Department of State and Secretary Blinken for sponsoring exchanges like the IVLP to help us connect to people around the globe working with the survivors and to fight eliminating human trafficking, and for recognizing the work that makes Ahali’s and many other stories possible.  Thank you.</p>
-<p><strong>MS JOHNSTONE:  </strong>Thank you, Mohammed, for sharing that important message on behalf of all of this year’s heroes.  Let’s give this amazing group of leaders another round of applause.  (Applause.)  It is such an honor to celebrate your important work.</p>
-<p>The TIP Report continues to be a vital tool to inform the world about human trafficking and encourage governments to enhance and intensify anti-trafficking efforts in their countries.  This year we chose to highlight the importance of meaningful engagement with trafficking survivors and the importance of integrating their expertise to improve anti-trafficking policies and strategies.</p>
-<p>In the 2021 TIP Report, the department cited only seven governments with active efforts to consult and engage survivors.  In the 2022 report, we have documented more than four times that number, 34 governments who actively – (applause) – absolutely.  And these 34 governments actively took steps to incorporate survivor input into their policies and anti-trafficking approaches.</p>
-<p>The 2022 TIP Report introduction cites governments with advisory councils and boards that include survivor leaders, elevating their participation among key policymakers, as in the United States and Albania.</p>
-<p>In addition, this introduction also recognizes the governments that consulted experts with lived experience of human trafficking in the development of national action plans like Rwanda, Guyana, and the Netherlands.</p>
-<p>Many governments were added to this list – newly engaging survivors in national anti-trafficking planning efforts – during the most recent reporting period, like Bangladesh, as Mr. Islam noted, alongside Botswana, Finland, Iceland, North Macedonia, and Uganda, among others.</p>
-<p>In addition, in Armenia, the Dominican Republic, India, and Spain, governments sought survivor input on reforming existing or new draft anti-trafficking laws.</p>
-<p>Many governments involved survivor leaders in shaping and delivering targeted awareness and outreach efforts, raising their voices to ensure impactful and clear messaging to facilitate change, as was done in Kosovo, Malta, Pakistan, Slovakia, South Africa, Sri Lanka, and the United Arab Emirates.</p>
-<p>All this demonstrates that recognizing the importance of consulting survivors’ expertise is a growing, global trend, and we are so pleased to be able to document these emerging efforts across the 2022 TIP Report narratives.</p>
-<p>And, of course, we know survivor leaders and experts with lived experience of human trafficking have advocated long and hard for a seat at the table and a substantial role in the development of governmental anti-trafficking programs and policies.  It is because of their hard work that so many governments have been able to increase their efforts to meaningfully engage survivors and it is because of their commitment and expertise that we have a deeper understanding of how to do this engagement the right way.</p>
-<p>One example I am proud to point to is the department’s Human Trafficking Expert Consultant Network, comprising individuals with lived experience of trafficking.  This year, network consultants worked with us to develop best practices to seek information from foreign governments and other key stakeholders for the 2022 TIP Report, ensuring that it more fully captures the impact of inequity and marginalization.  Experts with lived experience in human trafficking have also helped us develop survivor-informed policies, programs, and resources for our government and beyond.</p>
-<p>It is imperative that we engage survivors early and often.  As we begin to see growing interest of our bilateral and multilateral partners to responsibly engage survivors, we are more hopeful than ever that elevated survivor voices will strengthen our anti-trafficking efforts around the globe.  When governments and civil society prioritize partnerships with survivors, meaningful engagements can flourish and lead to better outcomes.</p>
-<p>Every year, my office works in partnership with our colleagues across the State Department to ensure that the report is both comprehensive and accurate.  This is the result of robust collaboration and healthy discussions, for which we are thankful.  We also appreciate our colleagues across the U.S. Government as well as our dynamic allies around the world, both our foreign government counterparts and our collective partners in NGOs and international organizations, who continuously lend their voice to effect change through policy and law.  We are especially grateful to those with lived experience of human trafficking whose expertise and contributions to this report cannot be overstated.  Last, but not – definitely not least, I would like to give a heartfelt thanks to the experts and hard-working team of the Trafficking in Persons Office for your deep expertise and tireless commitment to this issue and this report.  The hard work and long hours that you’ve put into the production of this report are important and will effect real change as part of our robust diplomatic strategy, working with governments, community leaders, and civil society to put into action the report’s prioritized recommendations.</p>
-<p>Each of us in this room has a role to play in the fight against human trafficking, whether in federal, state, or local government; the private sector; as advocates, service providers, or media; or individual citizens.  I look forward to working with all of you in our shared fight against human trafficking.</p>
-<p>Thank you again for joining us today, and please remember to go to state.gov to check out this year’s report.  Thank you all.  (Applause.)</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
