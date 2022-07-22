@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Fri, 22 Jul 2022 20:31:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Jul 2022 22:16:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Quadrilateral Deal for Safe Passage of Agricultural Goods on the Black Sea</title>
+		<link>https://www.state.gov/quadrilateral-deal-for-safe-passage-of-agricultural-goods-on-the-black-sea/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2022 22:16:19 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=362239</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>The United Nations, the Republic of Turkey, Ukraine, and Russia have committed to a plan for resuming Ukrainian exports through the Black Sea and getting millions of tons of Ukrainian grain to those who need it around the world. The United States welcomes this deal and commends UN Secretary-General Guterres and Turkish President Erdoğan for their committed diplomatic efforts to mediate these discussions. Today’s UN-brokered deal is a positive step towards addressing the far-reaching impacts of Russia’s war. The international community must now hold Russia accountable for this deal, ending its effective blockade of Ukraine’s ports and ensuring Ukrainian agricultural goods &#8212; including grain, oilseeds, and sunflower oil &#8212; reach world markets.</p>
+<p>Russia has weaponized food since the beginning of this crisis. An end to Russia’s blockade of Ukraine’s agricultural exports through the Black Sea is, therefore, only one of the many steps Russia needs to take to ensure that food from Ukraine makes it to global markets. Global food security will remain at risk for as long as Russia continues its unjustified and brutal aggression against Ukraine.</p>
+<p>The world’s hungry cannot wait, and we expect the implementation of today’s deal to commence swiftly and proceed without interruption or interference.</p>
+<p><input type="hidden" data-filter="111000000111" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>The United Nations, the Republic of Turkey, Ukraine, and Russia have committed to a plan for resuming Ukrainian exports through the Black Sea and getting millions of tons of Ukrainian grain to those who need it around the world. The United States welcomes this deal and commends UN Secretary-General Guterres and Turkish President Erdoğan for their committed diplomatic efforts to mediate these discussions. Today’s UN-brokered deal is a positive step towards addressing the far-reaching impacts of Russia’s war. The international community must now hold Russia accountable for this deal, ending its effective blockade of Ukraine’s ports and ensuring Ukrainian agricultural goods &#8212; including grain, oilseeds, and sunflower oil &#8212; reach world markets.</p>
+<p>Russia has weaponized food since the beginning of this crisis. An end to Russia’s blockade of Ukraine’s agricultural exports through the Black Sea is, therefore, only one of the many steps Russia needs to take to ensure that food from Ukraine makes it to global markets. Global food security will remain at risk for as long as Russia continues its unjustified and brutal aggression against Ukraine.</p>
+<p>The world’s hungry cannot wait, and we expect the implementation of today’s deal to commence swiftly and proceed without interruption or interference.</p>
+<p><input type="hidden" data-filter="111000000111" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Biden-Harris Administration Announces New U.S. Military Assistance for Ukraine</title>
 		<link>https://www.state.gov/biden-harris-administration-announces-new-u-s-military-assistance-for-ukraine/</link>
 		
@@ -2023,173 +2184,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The below is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken spoke today with Lithuanian Foreign Minister Gabrielius Landsbergis.  Secretary Blinken and Foreign Minister Landsbergis discussed our shared commitment to support Ukraine and hold Russia to account for its unjustified war.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Blinken and Secretary Raimondo Co-Host Supply Chain Ministerial and Stakeholder Forum</title>
-		<link>https://www.state.gov/secretary-blinken-and-secretary-raimondo-co-host-supply-chain-ministerial-and-stakeholder-forum/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 20 Jul 2022 17:08:03 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=361364</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Secretary of State Antony J. Blinken and Secretary of Commerce Gina M. Raimondo co-hosted a Supply Chain Ministerial Forum July 19-20, 2022, to further build cooperation with stakeholders and key partner nations on supply chains.</p>
-<p>Under Secretary for Economic Growth, Energy, and the Environment Jose W. Fernandez and Under Secretary of Commerce for International Trade Marisa Lago delivered opening remarks for the July 19 stakeholder sessions on Crisis Response, Enabling and Investment Environment, Transportation/Logistics, and Workforce Development/Labor.</p>
-<p>The virtual event convened stakeholders from labor, industry, civil society &#8211; including historically underrepresented voices &#8211; and subnational officials to address both short-term bottlenecks and longer-term supply chain challenges.</p>
-<p>At the Ministerial Plenary on July 20, the United States, allies, and partners made political commitments to work together to address near-term supply chain disruptions.  They aim to cooperate on building long-term supply chain resiliency by supporting transparency, diversification, security, and sustainability by adherence to high environmental and labor standards, including the prevention of forced labor, coupled with workforce development to meet tomorrow’s needs. Their joint statement can be found here: <a href="https://www.state.gov/supply-chain-ministerial-joint-statement/">https://www.state.gov/supply-chain-ministerial-joint-statement/</a></p>
-<p>The United States, allies, and partners acknowledged that to ensure efforts on supply chains are effective and reach those most in need, they must build solutions from the bottom up, with industry, unions, labor, and civil society, including representatives from minority and indigenous populations, underserved communities, and subnational governments.</p>
-<p>This summit was part of the Biden-Harris Administration’s whole-of-government response to address supply chain disruptions that hamper economic recovery and fuel inflation, and another example of how this Administration is working to deliver sound foreign policy for the American people.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Secretary of State Antony J. Blinken and Secretary of Commerce Gina M. Raimondo co-hosted a Supply Chain Ministerial Forum July 19-20, 2022, to further build cooperation with stakeholders and key partner nations on supply chains.</p>
-<p>Under Secretary for Economic Growth, Energy, and the Environment Jose W. Fernandez and Under Secretary of Commerce for International Trade Marisa Lago delivered opening remarks for the July 19 stakeholder sessions on Crisis Response, Enabling and Investment Environment, Transportation/Logistics, and Workforce Development/Labor.</p>
-<p>The virtual event convened stakeholders from labor, industry, civil society &#8211; including historically underrepresented voices &#8211; and subnational officials to address both short-term bottlenecks and longer-term supply chain challenges.</p>
-<p>At the Ministerial Plenary on July 20, the United States, allies, and partners made political commitments to work together to address near-term supply chain disruptions.  They aim to cooperate on building long-term supply chain resiliency by supporting transparency, diversification, security, and sustainability by adherence to high environmental and labor standards, including the prevention of forced labor, coupled with workforce development to meet tomorrow’s needs. Their joint statement can be found here: <a href="https://www.state.gov/supply-chain-ministerial-joint-statement/">https://www.state.gov/supply-chain-ministerial-joint-statement/</a></p>
-<p>The United States, allies, and partners acknowledged that to ensure efforts on supply chains are effective and reach those most in need, they must build solutions from the bottom up, with industry, unions, labor, and civil society, including representatives from minority and indigenous populations, underserved communities, and subnational governments.</p>
-<p>This summit was part of the Biden-Harris Administration’s whole-of-government response to address supply chain disruptions that hamper economic recovery and fuel inflation, and another example of how this Administration is working to deliver sound foreign policy for the American people.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
 ]]></content:encoded>
 					
 		
