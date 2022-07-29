@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Thu, 28 Jul 2022 23:47:25 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 Jul 2022 12:39:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Deputy Secretary Sherman’s Meeting with Israeli Minister for Public Security Bar Lev</title>
+		<link>https://www.state.gov/deputy-secretary-shermans-meeting-with-israeli-minister-for-public-security-bar-lev/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Fri, 29 Jul 2022 12:39:59 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=363845</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Deputy Secretary of State Wendy Sherman met with Israeli Minister for Public Security Omer Bar Lev yesterday in Washington to discuss the U.S.-Israel relationship. The Deputy Secretary conveyed condolences for the terrorist attacks that claimed the lives of Israelis earlier this year and underscored the United States’ unwavering commitment to Israel’s security. They also discussed efforts to ensure all Palestinians and Israelis live safely and securely with equal measures of freedom, dignity, and prosperity. The Deputy Secretary also raised the tragic death of Palestinian-American reporter Shireen Abu Akleh and the need for accountability.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Deputy Secretary of State Wendy Sherman met with Israeli Minister for Public Security Omer Bar Lev yesterday in Washington to discuss the U.S.-Israel relationship. The Deputy Secretary conveyed condolences for the terrorist attacks that claimed the lives of Israelis earlier this year and underscored the United States’ unwavering commitment to Israel’s security. They also discussed efforts to ensure all Palestinians and Israelis live safely and securely with equal measures of freedom, dignity, and prosperity. The Deputy Secretary also raised the tragic death of Palestinian-American reporter Shireen Abu Akleh and the need for accountability.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>U.S. Delegation Meeting with Taliban Representatives on Afghan Central Bank Reserves</title>
 		<link>https://www.state.gov/u-s-delegation-meeting-with-taliban-representatives-on-afghan-central-bank-reserves/</link>
 		
@@ -1948,175 +2107,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Under Secretary Jose W. Fernandez signed a cooperative arrangement (CA) with Secretary General Luis Almagro of the Organization of American States (OAS) on July 20, 2022, to increase transparency and accountability in government procurement of medical products.  This agreement aims to curb corruption in public medical product procurement by establishing a panel of experts from countries in the Western Hemisphere on a voluntary basis to audit government procurement and provide assistance on anti-corruption best practices to help save lives.</p>
 <p>The signing of this CA marks another milestone as part of a concerted effort to address the impact of the COVID-19 pandemic in the region. At the Ninth Summit of Americas, Secretary of State Antony Blinken and Under Secretary Fernandez launched the Economic and Health Dialogue of the Americas (EHA) alongside seven coalition countries from the region, the Pan American Health Organization (PAHO) and the OAS. EHA aims to address multidisciplinary problems laid bare by the COVID-19 pandemic by bringing together ministries of health, economy, finance, and foreign affairs within and between countries in the Western Hemisphere. We are advancing the joint efforts with the OAS under the EHA. Today’s signing of the CA is an important part of a regional health framework to increase transparency and strengthen health systems in our Hemisphere.</p>
 <p>For media inquiries, please contact: <a href="mailto:E_Communications@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">E_Communications@state.gov</a>.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Rewards for Justice – Reward Offer for Information on Russian Interference in U.S. Elections</title>
-		<link>https://www.state.gov/rewards-for-justice-reward-offer-for-information-on-russian-interference-in-u-s-elections/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Thu, 28 Jul 2022 19:32:44 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=363656</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The U.S. Department of State’s Rewards for Justice (RFJ) program, administered by the Diplomatic Security Service, is offering a reward of up to $10 million for information on foreign interference in U.S. elections. The reward offer seeks information leading to the identification or location of any foreign person, including a foreign entity, who knowingly engaged or is engaging in interference in U.S. elections, as well as information leading to the prevention, frustration, or favorable resolution of an act of foreign election interference. This announcement from RFJ is part of United States Government’s wider efforts to ensure the security and integrity of our elections and protect against foreign interference in our elections.</p>
-<p>The Department seeks information on Internet Research Agency LLC (“IRA”), Yevgeniy Viktorovich Prigozhin, and linked Russian entities and associates for their engagement in U.S. election interference.</p>
-<p>IRA is a Russian entity engaged in political and electoral interference operations. Beginning as early as 2014, IRA began operations to interfere with the U.S. political system, including the 2016 U.S. presidential election, with a strategic goal to sow discord. IRA operated through several Russian entities, including Internet Research LLC, MediaSintez LLC, GlavSet LLC, MixInfo LLC, Azimut LLC, and NovInfo LLC.</p>
-<p>Yevgeniy Viktorovich Prigozhin is a Russian national who provided funding to IRA through the companies he controlled, Concord Management and Consulting LLC and Concord Catering (collectively “Concord”). Concord sent funds, recommended personnel, and oversaw IRA’s activities through reporting and interaction with IRA’s management.</p>
-<p>Mikhail Ivanovich Bystrov, Mikhail Leonidovich Burchik, Aleksandra Yuryevna Krylova, Anna Vladislavovna Bogacheva, Sergey Pavlovich Polozov, Maria Anatolyevna Bovda, Robert Sergeyevich Bovda, Dzheykhun Nasimi Ogly Aslanov, Vadim Vladimirovich Podkopaev, Gleb Igorevich Vasilchenko, Irina Viktorovna Kaverzina, and Vladimir Venkov worked in various capacities to carry out IRA’s interference operations targeting the United States. They knowingly and intentionally conspired to defraud the United States by impairing, obstructing, and defeating the lawful functions of the government through fraud and deceit for the purpose of interfering with the U.S. political and electoral processes, including the presidential election of 2016.</p>
-<p>For more information, visit <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MjguNjE0NDU0NTEiLCJ1cmwiOiJodHRwczovL2djYzAxLnNhZmVsaW5rcy5wcm90ZWN0aW9uLm91dGxvb2suY29tLz91cmw9aHR0cCUzQSUyRiUyRnd3dy5yZXdhcmRzZm9yanVzdGljZS5uZXQlMkYmZGF0YT0wMiU3QzAxJTdDQmF0ZXNERSU0MHN0YXRlLmdvdiU3Q2QzMzA1Zjc0OTZmZDQ4YTQ5YjU2MDhkODJhNzVkNjExJTdDNjZjZjUwNzQ1YWZlNDhkMWE2OTFhMTJiMjEyMWY0NGIlN0MwJTdDMCU3QzYzNzMwNjAzMjg3NDYyMTA5NiZzZGF0YT12YkVhNkZFZUdmS3E0RnV4UVlwcmpZY2tVR0lrdXQxWVdUUlhBQ29FbnNjJTNEJnJlc2VydmVkPTAifQ.9h6GSc1JxMZIA0sq6dpmyced3fRxhCmFxIDQNq9nX7M/s/2576317770/br/141727582805-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MjguNjE0NDU0NTEiLCJ1cmwiOiJodHRwczovL2djYzAxLnNhZmVsaW5rcy5wcm90ZWN0aW9uLm91dGxvb2suY29tLz91cmw9aHR0cCUzQSUyRiUyRnd3dy5yZXdhcmRzZm9yanVzdGljZS5uZXQlMkYmZGF0YT0wMiU3QzAxJTdDQmF0ZXNERSU0MHN0YXRlLmdvdiU3Q2QzMzA1Zjc0OTZmZDQ4YTQ5YjU2MDhkODJhNzVkNjExJTdDNjZjZjUwNzQ1YWZlNDhkMWE2OTFhMTJiMjEyMWY0NGIlN0MwJTdDMCU3QzYzNzMwNjAzMjg3NDYyMTA5NiZzZGF0YT12YkVhNkZFZUdmS3E0RnV4UVlwcmpZY2tVR0lrdXQxWVdUUlhBQ29FbnNjJTNEJnJlc2VydmVkPTAifQ.9h6GSc1JxMZIA0sq6dpmyced3fRxhCmFxIDQNq9nX7M%2Fs%2F2576317770%2Fbr%2F141727582805-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7C1078f5b4d73f4140a91108da70cdfe16%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637946327289143821%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=Ow1wcWFBiPLdSg8os7HpjfCpibiPA9koRZo9sonCLow%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">www.rewardsforjustice.net</a>. We encourage anyone with information on IRA, Yevgeniy Viktorovich Prigozhin, and associated Russian entities and/or individuals linked to interference in U.S. elections to contact the Rewards for Justice office via our Tor-based tips-reporting channel at: he5dybnt7sr6cm32xt77pazmtm65flqy6irivtflruqfc5ep7eiodiad.onion (Tor browser required).</p>
-<p>Rewards for Justice is a premier national security program administered by the Diplomatic Security Service at the U.S. Department of State. Since its inception in 1984, the program has paid out in excess of $250 million to more than 125 people across the globe who provided actionable information that had helped resolve threats to U.S. national security. Follow us on Twitter at <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MjguNjE0NDU0NTEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL1JGSl9VU0EifQ.SxxexXINpmQyhoogXEtDQxhDkjtdEAzdsMkwyaE8kuc/s/2576317770/br/141727582805-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MjguNjE0NDU0NTEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL1JGSl9VU0EifQ.SxxexXINpmQyhoogXEtDQxhDkjtdEAzdsMkwyaE8kuc%2Fs%2F2576317770%2Fbr%2F141727582805-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7C1078f5b4d73f4140a91108da70cdfe16%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637946327289143821%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=%2FJzNm7ltq8wSaKeXa1htVmVEEBTS%2BCd4DrZGoKlfvG8%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">https://twitter.com/RFJ_USA</a>.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The U.S. Department of State’s Rewards for Justice (RFJ) program, administered by the Diplomatic Security Service, is offering a reward of up to $10 million for information on foreign interference in U.S. elections. The reward offer seeks information leading to the identification or location of any foreign person, including a foreign entity, who knowingly engaged or is engaging in interference in U.S. elections, as well as information leading to the prevention, frustration, or favorable resolution of an act of foreign election interference. This announcement from RFJ is part of United States Government’s wider efforts to ensure the security and integrity of our elections and protect against foreign interference in our elections.</p>
-<p>The Department seeks information on Internet Research Agency LLC (“IRA”), Yevgeniy Viktorovich Prigozhin, and linked Russian entities and associates for their engagement in U.S. election interference.</p>
-<p>IRA is a Russian entity engaged in political and electoral interference operations. Beginning as early as 2014, IRA began operations to interfere with the U.S. political system, including the 2016 U.S. presidential election, with a strategic goal to sow discord. IRA operated through several Russian entities, including Internet Research LLC, MediaSintez LLC, GlavSet LLC, MixInfo LLC, Azimut LLC, and NovInfo LLC.</p>
-<p>Yevgeniy Viktorovich Prigozhin is a Russian national who provided funding to IRA through the companies he controlled, Concord Management and Consulting LLC and Concord Catering (collectively “Concord”). Concord sent funds, recommended personnel, and oversaw IRA’s activities through reporting and interaction with IRA’s management.</p>
-<p>Mikhail Ivanovich Bystrov, Mikhail Leonidovich Burchik, Aleksandra Yuryevna Krylova, Anna Vladislavovna Bogacheva, Sergey Pavlovich Polozov, Maria Anatolyevna Bovda, Robert Sergeyevich Bovda, Dzheykhun Nasimi Ogly Aslanov, Vadim Vladimirovich Podkopaev, Gleb Igorevich Vasilchenko, Irina Viktorovna Kaverzina, and Vladimir Venkov worked in various capacities to carry out IRA’s interference operations targeting the United States. They knowingly and intentionally conspired to defraud the United States by impairing, obstructing, and defeating the lawful functions of the government through fraud and deceit for the purpose of interfering with the U.S. political and electoral processes, including the presidential election of 2016.</p>
-<p>For more information, visit <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MjguNjE0NDU0NTEiLCJ1cmwiOiJodHRwczovL2djYzAxLnNhZmVsaW5rcy5wcm90ZWN0aW9uLm91dGxvb2suY29tLz91cmw9aHR0cCUzQSUyRiUyRnd3dy5yZXdhcmRzZm9yanVzdGljZS5uZXQlMkYmZGF0YT0wMiU3QzAxJTdDQmF0ZXNERSU0MHN0YXRlLmdvdiU3Q2QzMzA1Zjc0OTZmZDQ4YTQ5YjU2MDhkODJhNzVkNjExJTdDNjZjZjUwNzQ1YWZlNDhkMWE2OTFhMTJiMjEyMWY0NGIlN0MwJTdDMCU3QzYzNzMwNjAzMjg3NDYyMTA5NiZzZGF0YT12YkVhNkZFZUdmS3E0RnV4UVlwcmpZY2tVR0lrdXQxWVdUUlhBQ29FbnNjJTNEJnJlc2VydmVkPTAifQ.9h6GSc1JxMZIA0sq6dpmyced3fRxhCmFxIDQNq9nX7M/s/2576317770/br/141727582805-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MjguNjE0NDU0NTEiLCJ1cmwiOiJodHRwczovL2djYzAxLnNhZmVsaW5rcy5wcm90ZWN0aW9uLm91dGxvb2suY29tLz91cmw9aHR0cCUzQSUyRiUyRnd3dy5yZXdhcmRzZm9yanVzdGljZS5uZXQlMkYmZGF0YT0wMiU3QzAxJTdDQmF0ZXNERSU0MHN0YXRlLmdvdiU3Q2QzMzA1Zjc0OTZmZDQ4YTQ5YjU2MDhkODJhNzVkNjExJTdDNjZjZjUwNzQ1YWZlNDhkMWE2OTFhMTJiMjEyMWY0NGIlN0MwJTdDMCU3QzYzNzMwNjAzMjg3NDYyMTA5NiZzZGF0YT12YkVhNkZFZUdmS3E0RnV4UVlwcmpZY2tVR0lrdXQxWVdUUlhBQ29FbnNjJTNEJnJlc2VydmVkPTAifQ.9h6GSc1JxMZIA0sq6dpmyced3fRxhCmFxIDQNq9nX7M%2Fs%2F2576317770%2Fbr%2F141727582805-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7C1078f5b4d73f4140a91108da70cdfe16%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637946327289143821%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=Ow1wcWFBiPLdSg8os7HpjfCpibiPA9koRZo9sonCLow%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">www.rewardsforjustice.net</a>. We encourage anyone with information on IRA, Yevgeniy Viktorovich Prigozhin, and associated Russian entities and/or individuals linked to interference in U.S. elections to contact the Rewards for Justice office via our Tor-based tips-reporting channel at: he5dybnt7sr6cm32xt77pazmtm65flqy6irivtflruqfc5ep7eiodiad.onion (Tor browser required).</p>
-<p>Rewards for Justice is a premier national security program administered by the Diplomatic Security Service at the U.S. Department of State. Since its inception in 1984, the program has paid out in excess of $250 million to more than 125 people across the globe who provided actionable information that had helped resolve threats to U.S. national security. Follow us on Twitter at <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MjguNjE0NDU0NTEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL1JGSl9VU0EifQ.SxxexXINpmQyhoogXEtDQxhDkjtdEAzdsMkwyaE8kuc/s/2576317770/br/141727582805-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA3MjguNjE0NDU0NTEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL1JGSl9VU0EifQ.SxxexXINpmQyhoogXEtDQxhDkjtdEAzdsMkwyaE8kuc%2Fs%2F2576317770%2Fbr%2F141727582805-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7C1078f5b4d73f4140a91108da70cdfe16%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637946327289143821%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=%2FJzNm7ltq8wSaKeXa1htVmVEEBTS%2BCd4DrZGoKlfvG8%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">https://twitter.com/RFJ_USA</a>.</p>
 <p><input type="hidden" data-filter="111000000111" /></p>
 ]]></content:encoded>
 					
