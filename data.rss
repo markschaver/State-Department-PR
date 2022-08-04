@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 04 Aug 2022 08:58:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Aug 2022 08:11:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,167 +28,6 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Secretary Antony J. Blinken And Qatari Foreign Minister Mohammed Bin Abdulrahaman Al Thani After Their Meeting</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-and-qatari-foreign-minister-mohammed-bin-abdulrahaman-al-thani-after-their-meeting/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Thu, 04 Aug 2022 08:58:47 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=365879</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Phnom Penh, Cambodia</p>
-<p>Sokha Hotel</p>
-<p><span style="font-family: times new roman,times; font-size: medium;"><b>SECRETARY BLINKEN:</b>  Good afternoon, everyone.  It’s a great pleasure, as always, to be with my friend, the foreign minister of Qatar, who we have spent a lot of time together in various parts of the world and on the phone, and I think this is evidence of the very close partnership between Qatar and the United States on a broad range of both regional and global issues.  We had an opportunity to just spend some time talking about a number of them, to include Afghanistan, to include Iran, to include some other regional issues, and of course to talk a little bit about the work that we’re doing here in Cambodia.  But this is a partnership, a relationship the United States values tremendously.  Qatar is a major non-NATO ally.  But alongside of that, really a partner in trying to deal with so many of the most urgent challenges that we face around the world.  Always good to meet, my friend. </span></p>
-<p><span style="font-family: times new roman,times; font-size: medium;"><b>FOREIGN MINISTER AL THANI:</b><span> </span> Thank you very much, Mr. Secretary, for receiving me here today.  I know you have a very busy and packed schedule, but I think the world events requires consultation between both of us, especially what’s going on in our region.  I think our discussion today is very important for the security for – for the security of our region.  And we really appreciate the relationship and the partnership and the commitment that the U.S. has toward our region.  So thank you very much.</span></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Phnom Penh, Cambodia</p>
-<p>Sokha Hotel</p>
-<p><span style="font-family: times new roman,times; font-size: medium;"><b>SECRETARY BLINKEN:</b>  Good afternoon, everyone.  It’s a great pleasure, as always, to be with my friend, the foreign minister of Qatar, who we have spent a lot of time together in various parts of the world and on the phone, and I think this is evidence of the very close partnership between Qatar and the United States on a broad range of both regional and global issues.  We had an opportunity to just spend some time talking about a number of them, to include Afghanistan, to include Iran, to include some other regional issues, and of course to talk a little bit about the work that we’re doing here in Cambodia.  But this is a partnership, a relationship the United States values tremendously.  Qatar is a major non-NATO ally.  But alongside of that, really a partner in trying to deal with so many of the most urgent challenges that we face around the world.  Always good to meet, my friend. </span></p>
-<p><span style="font-family: times new roman,times; font-size: medium;"><b>FOREIGN MINISTER AL THANI:</b><span> </span> Thank you very much, Mr. Secretary, for receiving me here today.  I know you have a very busy and packed schedule, but I think the world events requires consultation between both of us, especially what’s going on in our region.  I think our discussion today is very important for the security for – for the security of our region.  And we really appreciate the relationship and the partnership and the commitment that the U.S. has toward our region.  So thank you very much.</span></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Secretary Antony J. Blinken And European Union High Representative for Foreign Affairs and Security Policy and Vice President of the European Commission Josep Borrell Before Their Meeting</title>
 		<link>https://www.state.gov/secretary-antony-j-blinken-and-european-union-high-representative-for-foreign-affairs-and-security-policy-and-vice-president-of-the-european-commission-josep-borrell-before-their-meeting/</link>
 		
@@ -1779,6 +1618,175 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Ljubljana – <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA4MDMuNjE3Mjk0NzEiLCJ1cmwiOiJodHRwczovL2FydC5zdGF0ZS5nb3YvcG9ydGZvbGlvL2xqdWJsamFuYV8yMDIyLyJ9.Hr_-7JVZOUyqJIbgXirBasusINl1qoINXuaL6iGUw98/s/1436012980/br/142015132586-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA4MDMuNjE3Mjk0NzEiLCJ1cmwiOiJodHRwczovL2FydC5zdGF0ZS5nb3YvcG9ydGZvbGlvL2xqdWJsamFuYV8yMDIyLyJ9.Hr_-7JVZOUyqJIbgXirBasusINl1qoINXuaL6iGUw98%2Fs%2F1436012980%2Fbr%2F142015132586-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C39e54481d3fc440e996908da758524e0%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637951511959346192%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=fH8Wz71mg%2BDQLG1k%2Br90DrOvVPedgHnqZxTLoS4O3rQ%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="2">https://art.state.gov/portfolio/ljubljana_2022/</a></p>
 <p>The U.S. Department of State established the Office of Art in Embassies in 1963, adapting a program that began ten years earlier by the Museum of Modern Art. The exhibitions and collections created by AIE play a vital role in our nation’s public diplomacy. The works are carefully selected to reflect the pride and innovation of America’s cultural sector and to make cross cultural connections in the regions and states in which they are displayed. In 2023, AIE will celebrate its 60th anniversary at the U.S. Department of State.</p>
 <p>For further information, please contact Camille Benton at <a href="mailto:BentonSC@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="3">BentonSC@state.gov</a> or visit <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDMsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA4MDMuNjE3Mjk0NzEiLCJ1cmwiOiJodHRwOi8vd3d3LmFydC5zdGF0ZS5nb3YifQ.KZjS8Gi6eH5LHh6AeQVHw7O9BcNqLKS2TBEMyJ4QLXk/s/1436012980/br/142015132586-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDMsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA4MDMuNjE3Mjk0NzEiLCJ1cmwiOiJodHRwOi8vd3d3LmFydC5zdGF0ZS5nb3YifQ.KZjS8Gi6eH5LHh6AeQVHw7O9BcNqLKS2TBEMyJ4QLXk%2Fs%2F1436012980%2Fbr%2F142015132586-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C39e54481d3fc440e996908da758524e0%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637951511959346192%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=U65Z13C%2BlcZ1Bbb3xOUN9cWMTWLl2qhKUgJmgkXl%2F0c%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="4">art.state.gov</a>.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>G7 Foreign Ministers’ Statement on Preserving Peace and Stability Across the Taiwan Strait</title>
+		<link>https://www.state.gov/g7-foreign-ministers-statement-on-preserving-peace-and-stability-across-the-taiwan-strait/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Wed, 03 Aug 2022 16:21:35 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=365590</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p><em>The text of the following statement was released by the G7 foreign ministers of Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States of America, and the High Representative of the European Union.</em></p>
+<p><em>Begin Text:</em></p>
+<p>We, the G7 Foreign Ministers of Canada, France, Germany, Italy, Japan, the United Kingdom, the United States of America, and the High Representative of the European Union, reaffirm our shared commitment to maintaining the rules-based international order, peace and stability across the Taiwan Strait and beyond.</p>
+<p>We are concerned by recent and announced threatening actions by the People’s Republic of China (PRC), particularly live-fire exercises and economic coercion, which risk unnecessary escalation. There is no justification to use a visit as pretext for aggressive military activity in the Taiwan Strait. It is normal and routine for legislators from our countries to travel internationally. The PRC’s escalatory response risks increasing tensions and destabilizing the region.</p>
+<p>We call on the PRC not to unilaterally change the status quo by force in the region, and to resolve cross-Strait differences by peaceful means. There is no change in the respective one China policies, where applicable, and basic positions on Taiwan of the G7 members.</p>
+<p>We reiterate our shared and steadfast commitment to maintaining peace and stability across the Taiwan Strait and encourage all parties to remain calm, exercise restraint, act with transparency, and maintain open lines of communication to prevent misunderstanding.</p>
+<p><em>End Text</em></p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p><em>The text of the following statement was released by the G7 foreign ministers of Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States of America, and the High Representative of the European Union.</em></p>
+<p><em>Begin Text:</em></p>
+<p>We, the G7 Foreign Ministers of Canada, France, Germany, Italy, Japan, the United Kingdom, the United States of America, and the High Representative of the European Union, reaffirm our shared commitment to maintaining the rules-based international order, peace and stability across the Taiwan Strait and beyond.</p>
+<p>We are concerned by recent and announced threatening actions by the People’s Republic of China (PRC), particularly live-fire exercises and economic coercion, which risk unnecessary escalation. There is no justification to use a visit as pretext for aggressive military activity in the Taiwan Strait. It is normal and routine for legislators from our countries to travel internationally. The PRC’s escalatory response risks increasing tensions and destabilizing the region.</p>
+<p>We call on the PRC not to unilaterally change the status quo by force in the region, and to resolve cross-Strait differences by peaceful means. There is no change in the respective one China policies, where applicable, and basic positions on Taiwan of the G7 members.</p>
+<p>We reiterate our shared and steadfast commitment to maintaining peace and stability across the Taiwan Strait and encourage all parties to remain calm, exercise restraint, act with transparency, and maintain open lines of communication to prevent misunderstanding.</p>
+<p><em>End Text</em></p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
