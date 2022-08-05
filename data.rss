@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 05 Aug 2022 15:46:41 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Aug 2022 17:09:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Humanitarian Assistance for Africa</title>
+		<link>https://www.state.gov/humanitarian-assistance-for-africa-2/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Fri, 05 Aug 2022 17:09:36 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=366435</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>On August 5, 2022, Ambassador Linda Thomas-Greenfield announced in Ghana more than $127 million in humanitarian assistance for Africa through the U.S. Department of State’s Bureau of Population, Refugees, and Migration.  This assistance will provide lifesaving support to refugees, asylum seekers, internally displaced persons, stateless persons, and persecuted people across Africa, including those affected by crises in Burkina Faso, Chad, the Central African Republic, the Democratic Republic of the Congo, Mali, Mozambique, Nigeria, Niger, and other new and protracted displacement situations.</p>
+<p>In addition to emergency needs, it will also support durable solutions for former refugees who wish to return to their home countries.  This assistance will enable our humanitarian partners to help many of the over seven million refugees and asylum seekers currently hosted across Africa as well the over 25 million internally displaced persons.</p>
+<p>These funds will provide lifesaving and life-sustaining support to forcibly displaced populations, including those affected by the growing food crisis and global shortages and their hosting communities across Africa.  We urge other donors to provide additional support to address the growing humanitarian needs on the continent.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>On August 5, 2022, Ambassador Linda Thomas-Greenfield announced in Ghana more than $127 million in humanitarian assistance for Africa through the U.S. Department of State’s Bureau of Population, Refugees, and Migration.  This assistance will provide lifesaving support to refugees, asylum seekers, internally displaced persons, stateless persons, and persecuted people across Africa, including those affected by crises in Burkina Faso, Chad, the Central African Republic, the Democratic Republic of the Congo, Mali, Mozambique, Nigeria, Niger, and other new and protracted displacement situations.</p>
+<p>In addition to emergency needs, it will also support durable solutions for former refugees who wish to return to their home countries.  This assistance will enable our humanitarian partners to help many of the over seven million refugees and asylum seekers currently hosted across Africa as well the over 25 million internally displaced persons.</p>
+<p>These funds will provide lifesaving and life-sustaining support to forcibly displaced populations, including those affected by the growing food crisis and global shortages and their hosting communities across Africa.  We urge other donors to provide additional support to address the growing humanitarian needs on the continent.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Bolivia’s Independence Day</title>
 		<link>https://www.state.gov/bolivias-independence-day-2/</link>
 		
@@ -1576,181 +1737,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>The below is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken met with Sri Lankan Foreign Minister Ali Sabry today in Phnom Penh on the sidelines of the ASEAN Regional Forum. Secretary Blinken congratulated Minister Sabry on his recent appointment. He reiterated the United States’ support for the people of Sri Lanka, highlighting over $179 million in U.S assistance that will support Sri Lanka’s most vulnerable and bolster the country’s economy in this challenging time. He also emphasized the importance of working with the IMF to put Sri Lanka back on the path to economic stability. As Sri Lanka approaches this juncture, the Secretary emphasized the need to act in accordance with the country&#8217;s constitutional processes and to protect the human rights of all Sri Lankans, including the right to peaceful assembly.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken And Sri Lankan Foreign Minister Ali Sabry Before Their Meeting</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-and-sri-lankan-foreign-minister-ali-sabry-before-their-meeting/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Thu, 04 Aug 2022 12:18:12 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=365943</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Phnom Penh, Cambodia</p>
-<p>Sokha Hotel</p>
-<p><b>SECRETARY BLINKEN:</b>  Good afternoon, everyone.  First I should say to you, Foreign Minister, congratulations on your appointment.  We were very pleased to work with you in your previous capacity as a minister, but welcome this opportunity now.</p>
-<p>Obviously, Sri Lanka is in a moment of challenge and crisis; the United States has worked hard to step in to support Sri Lanka in this moment.  We’ve provided about $179 million worth of assistance of one kind or another, including loans and direct support, since June.  But in crisis there is also opportunity, and I hope that – and we hope and will certainly support Sri Lanka in these efforts – there’s an opportunity in this moment to create a more inclusive, representative, democratic, responsive government and to use this crisis to seize that opportunity to make something very positive out of a very difficult situation.  It would stand Sri Lanka in very, very good stead.</p>
-<p>We’re also very supportive of Sri Lanka and the IMF working out an arrangement that also requires appropriate debt restructuring that has to be done on an equitable basis with all of the creditors doing what’s necessary to support Sri Lanka at this time.</p>
-<p>But I appreciate taking the time to meet today and look forward to having a conversation.  Thank you.</p>
-<p><b>FOREIGN MINISTER SABRY:</b>  Thank you so much, Secretary Blinken, for your warm congratulatory messages when I took over.  And I have worked very closely with your government in my previous capacity both as the finance minister and the justice minister, and we really appreciate the role played by the U.S. in trying to get an IMF bailout as soon as possible and the debt being restructured.  We understand the challenges, and in this challenge we also understand there are opportunities.  And one good thing about the whole thing is the Sri Lankans have been united in all this and largely they have been peaceful; there are no incidents.  Basically the whole sort of revolution had taken place, but it had taken place very peacefully.  So that’s the good part of it.</p>
-<p>We see that there is a huge obligation on our part to put the country back on track and get its economy out of the woods, which we are going through right now, and we look forward to work with the American administration, U.S. administration throughout.  And we are very thankful for all the support.  In the recent past we have seen a very high-level delegation visiting Sri Lanka, and then we have had several roundtable discussions and we have had a lot of support for our IMF approach from the U.S. Treasury and State Department and from the government in general.</p>
-<p>So thankful – thank you once again.  And of course, we can’t forget the U.S. aid.  USAID has provided a lot of support during these very difficult times.  So I hope you will continue to provide that support and (inaudible) support, particularly some areas of very difficult reforms in (inaudible), and we look forward to working with the U.S. administration to do that.  Thank you.</p>
-<p><b>SECRETARY BLINKEN:</b>  Thank you very much.  Thanks, everyone.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Phnom Penh, Cambodia</p>
-<p>Sokha Hotel</p>
-<p><b>SECRETARY BLINKEN:</b>  Good afternoon, everyone.  First I should say to you, Foreign Minister, congratulations on your appointment.  We were very pleased to work with you in your previous capacity as a minister, but welcome this opportunity now.</p>
-<p>Obviously, Sri Lanka is in a moment of challenge and crisis; the United States has worked hard to step in to support Sri Lanka in this moment.  We’ve provided about $179 million worth of assistance of one kind or another, including loans and direct support, since June.  But in crisis there is also opportunity, and I hope that – and we hope and will certainly support Sri Lanka in these efforts – there’s an opportunity in this moment to create a more inclusive, representative, democratic, responsive government and to use this crisis to seize that opportunity to make something very positive out of a very difficult situation.  It would stand Sri Lanka in very, very good stead.</p>
-<p>We’re also very supportive of Sri Lanka and the IMF working out an arrangement that also requires appropriate debt restructuring that has to be done on an equitable basis with all of the creditors doing what’s necessary to support Sri Lanka at this time.</p>
-<p>But I appreciate taking the time to meet today and look forward to having a conversation.  Thank you.</p>
-<p><b>FOREIGN MINISTER SABRY:</b>  Thank you so much, Secretary Blinken, for your warm congratulatory messages when I took over.  And I have worked very closely with your government in my previous capacity both as the finance minister and the justice minister, and we really appreciate the role played by the U.S. in trying to get an IMF bailout as soon as possible and the debt being restructured.  We understand the challenges, and in this challenge we also understand there are opportunities.  And one good thing about the whole thing is the Sri Lankans have been united in all this and largely they have been peaceful; there are no incidents.  Basically the whole sort of revolution had taken place, but it had taken place very peacefully.  So that’s the good part of it.</p>
-<p>We see that there is a huge obligation on our part to put the country back on track and get its economy out of the woods, which we are going through right now, and we look forward to work with the American administration, U.S. administration throughout.  And we are very thankful for all the support.  In the recent past we have seen a very high-level delegation visiting Sri Lanka, and then we have had several roundtable discussions and we have had a lot of support for our IMF approach from the U.S. Treasury and State Department and from the government in general.</p>
-<p>So thankful – thank you once again.  And of course, we can’t forget the U.S. aid.  USAID has provided a lot of support during these very difficult times.  So I hope you will continue to provide that support and (inaudible) support, particularly some areas of very difficult reforms in (inaudible), and we look forward to working with the U.S. administration to do that.  Thank you.</p>
-<p><b>SECRETARY BLINKEN:</b>  Thank you very much.  Thanks, everyone.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
