@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Sun, 07 Aug 2022 01:16:03 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 07 Aug 2022 12:33:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>24th Anniversary of the 1998 Embassy Bombings</title>
+		<link>https://www.state.gov/24th-anniversary-of-the-1998-embassy-bombings/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Sun, 07 Aug 2022 12:33:31 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=366644</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p align="left">Today we solemnly remember the lives — Americans, Kenyans, Tanzanians, and others — that were violently taken from us 24 years ago. The terrorist attacks against our Embassies in Nairobi, Kenya and Dar Es Salaam, Tanzania claimed 224 innocent victims and injured more than 4,500 others. Among those we honor are the colleagues the Department lost that day, Americans and Foreign Service Nationals dedicated to strengthening bonds between the United States and our African partners. The victims of these attacks are never far from our minds, and today our thoughts are also with the loved ones they left behind.</p>
+<p align="left">In the aftermath of these heinous attacks, America and our partners met cowardice and depravity with courage and determination. The attacks, designed to intimidate us, only reinforced our resolve. And earlier this month, America took decisive action against al Qaeda leader Ayman al-Zawahiri, an architect of the 1998 attacks, making clear once again that we are positioned to act on our determination, which does not wane with time.</p>
+<p align="left">Today in South Africa and in the coming days from the region, I will reiterate to our African partners that America remains determined to work with countries of the continent to confront the shared challenges we face, including the scourge of terrorism and violent extremism. As we remember the lives taken from us nearly a quarter century ago, we will continue to demonstrate that those who seek to stand in the way of a better future for our countries will never be able to succeed.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p align="left">Today we solemnly remember the lives — Americans, Kenyans, Tanzanians, and others — that were violently taken from us 24 years ago. The terrorist attacks against our Embassies in Nairobi, Kenya and Dar Es Salaam, Tanzania claimed 224 innocent victims and injured more than 4,500 others. Among those we honor are the colleagues the Department lost that day, Americans and Foreign Service Nationals dedicated to strengthening bonds between the United States and our African partners. The victims of these attacks are never far from our minds, and today our thoughts are also with the loved ones they left behind.</p>
+<p align="left">In the aftermath of these heinous attacks, America and our partners met cowardice and depravity with courage and determination. The attacks, designed to intimidate us, only reinforced our resolve. And earlier this month, America took decisive action against al Qaeda leader Ayman al-Zawahiri, an architect of the 1998 attacks, making clear once again that we are positioned to act on our determination, which does not wane with time.</p>
+<p align="left">Today in South Africa and in the coming days from the region, I will reiterate to our African partners that America remains determined to work with countries of the continent to confront the shared challenges we face, including the scourge of terrorism and violent extremism. As we remember the lives taken from us nearly a quarter century ago, we will continue to demonstrate that those who seek to stand in the way of a better future for our countries will never be able to succeed.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Assistant Secretary Lee Satterfield Travels to New York City for Repatriation of Cultural Property to Cambodia</title>
 		<link>https://www.state.gov/assistant-secretary-lee-satterfield-travels-to-new-york-city-for-repatriation-of-cultural-property-to-cambodia/</link>
 		
@@ -1582,133 +1743,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>The following is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken spoke today with Armenian Prime Minister Nikol Pashinyan.  Secretary Blinken assured Prime Minister Pashinyan that the United States is watching the situation in and around Nagorno-Karabakh closely.  He urged direct dialogue between Armenia and Azerbaijan to resolve issues related to, or resulting from, the Nagorno-Karabakh conflict.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Humanitarian Assistance for Africa</title>
-		<link>https://www.state.gov/humanitarian-assistance-for-africa-2/</link>
-		
-		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
-		<pubDate>Fri, 05 Aug 2022 17:09:36 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=366435</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Ned Price, Department Spokesperson</p>
-<p>On August 5, 2022, Ambassador Linda Thomas-Greenfield announced in Ghana more than $127 million in humanitarian assistance for Africa through the U.S. Department of State’s Bureau of Population, Refugees, and Migration.  This assistance will provide lifesaving support to refugees, asylum seekers, internally displaced persons, stateless persons, and persecuted people across Africa, including those affected by crises in Burkina Faso, Chad, the Central African Republic, the Democratic Republic of the Congo, Mali, Mozambique, Nigeria, Niger, and other new and protracted displacement situations.</p>
-<p>In addition to emergency needs, it will also support durable solutions for former refugees who wish to return to their home countries.  This assistance will enable our humanitarian partners to help many of the over seven million refugees and asylum seekers currently hosted across Africa as well the over 25 million internally displaced persons.</p>
-<p>These funds will provide lifesaving and life-sustaining support to forcibly displaced populations, including those affected by the growing food crisis and global shortages and their hosting communities across Africa.  We urge other donors to provide additional support to address the growing humanitarian needs on the continent.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
-<p>On August 5, 2022, Ambassador Linda Thomas-Greenfield announced in Ghana more than $127 million in humanitarian assistance for Africa through the U.S. Department of State’s Bureau of Population, Refugees, and Migration.  This assistance will provide lifesaving support to refugees, asylum seekers, internally displaced persons, stateless persons, and persecuted people across Africa, including those affected by crises in Burkina Faso, Chad, the Central African Republic, the Democratic Republic of the Congo, Mali, Mozambique, Nigeria, Niger, and other new and protracted displacement situations.</p>
-<p>In addition to emergency needs, it will also support durable solutions for former refugees who wish to return to their home countries.  This assistance will enable our humanitarian partners to help many of the over seven million refugees and asylum seekers currently hosted across Africa as well the over 25 million internally displaced persons.</p>
-<p>These funds will provide lifesaving and life-sustaining support to forcibly displaced populations, including those affected by the growing food crisis and global shortages and their hosting communities across Africa.  We urge other donors to provide additional support to address the growing humanitarian needs on the continent.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
