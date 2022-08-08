@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Mon, 08 Aug 2022 16:16:26 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Aug 2022 17:11:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>$1 Billion in New U.S. Military Assistance for Ukraine</title>
+		<link>https://www.state.gov/1-billion-in-new-u-s-military-assistance-for-ukraine/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 17:11:39 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=367118</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>Nearly six months into the unprovoked and brutal assault on Ukraine, Russia continues its destruction of Ukrainian towns and villages. President Biden has been clear that we will continue to support the Ukrainian people as they defend their country from Russian aggression, for as long as it takes. As part of those efforts, pursuant to a delegation of authority from the President, today I am authorizing our largest single drawdown of U.S. arms and equipment utilizing this authority. This eighteenth drawdown since August 2021 of up to $1 billion includes arms, munitions, and equipment from U.S. Department of Defense inventories for Ukraine’s self-defense.</p>
+<p>This package provides a significant amount of additional ammunition, weapons, and equipment that Ukrainians are using so effectively to defend themselves and will bring total U.S. security assistance to Ukraine to approximately $9.8 billion since the beginning of this Administration.</p>
+<p>The United States stands with Allies and partners from more than 50 countries in providing vital security assistance to support Ukraine’s defense of its sovereignty and territorial integrity against Russia’s aggression. As this war stretches on, the courage and strength of Ukraine’s military and its people become even more evident and even more extraordinary. Together, we will continue to consult closely with Ukraine and surge additional available systems and capabilities carefully calibrated to make a difference on the battlefield and strengthen Ukraine’s eventual position at the negotiating table.</p>
+<p>We stand united with Ukraine.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>Nearly six months into the unprovoked and brutal assault on Ukraine, Russia continues its destruction of Ukrainian towns and villages. President Biden has been clear that we will continue to support the Ukrainian people as they defend their country from Russian aggression, for as long as it takes. As part of those efforts, pursuant to a delegation of authority from the President, today I am authorizing our largest single drawdown of U.S. arms and equipment utilizing this authority. This eighteenth drawdown since August 2021 of up to $1 billion includes arms, munitions, and equipment from U.S. Department of Defense inventories for Ukraine’s self-defense.</p>
+<p>This package provides a significant amount of additional ammunition, weapons, and equipment that Ukrainians are using so effectively to defend themselves and will bring total U.S. security assistance to Ukraine to approximately $9.8 billion since the beginning of this Administration.</p>
+<p>The United States stands with Allies and partners from more than 50 countries in providing vital security assistance to support Ukraine’s defense of its sovereignty and territorial integrity against Russia’s aggression. As this war stretches on, the courage and strength of Ukraine’s military and its people become even more evident and even more extraordinary. Together, we will continue to consult closely with Ukraine and surge additional available systems and capabilities carefully calibrated to make a difference on the battlefield and strengthen Ukraine’s eventual position at the negotiating table.</p>
+<p>We stand united with Ukraine.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Special Advisor on International Disability Rights Minkara’s Travel to Romania and Moldova</title>
 		<link>https://www.state.gov/special-advisor-on-international-disability-rights-minkaras-travel-to-romania-and-moldova/</link>
 		
@@ -1540,193 +1701,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p><strong>South Africa’s Membership in International Organizations</strong></p>
 <ul>
 <li>South Africa’s principal foreign policy objectives are to encourage regional economic integration in Africa, promote the peaceful resolution of conflict in Africa, and use multilateral bodies to ensure that developing countries’ voices are heard on international issues. South Africa and the United States belong to many of the same international organizations, including the United Nations, International Monetary Fund, World Bank, G-20, and World Trade Organization. South Africa is also a member of BRICS and the Southern African Development Community (SADC). South Africa participates as a key partner in the Organization for Economic Cooperation and Development’s Enhanced Engagement program.</li>
-</ul>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>U.S. Food Security Assistance to Sub-Saharan Africa</title>
-		<link>https://www.state.gov/u-s-food-security-assistance-to-sub-saharan-africa/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Mon, 08 Aug 2022 12:48:45 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=366812</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p align="left">Secretary Blinken travels to South Africa, the Democratic Republic of the Congo, and Rwanda this week, where the United States has been deploying resources and working in partnership with African governments, institutions, businesses, scientists, and other leaders to prevent hunger and combat the global food security crisis while also addressing the increasing rates of malnutrition, which has hit the continent of Africa the hardest.</p>
-<p align="left">At the G7 Summit in June, President Biden and G7 leaders announced over $4.5 billion to address global food security, over half of which will come from the United States.  This $2.76 billion in U.S. government funding will help protect the world’s most vulnerable populations and mitigate the impacts of growing food insecurity and malnutrition, including from Russia’s war in Ukraine, by building production capacity and more resilient agriculture and food systems around the world, and responding to immediate emergency food needs.  We have recognized the need for immediate action to prevent far-reaching consequences, and we are responding with support targeting Africa’s own plans for food security and food systems transformation.</p>
-<p align="left">Of this $2.76 billion, $760 million will be for sustainable <b>near-term food assistance </b>to help mitigate further increases in poverty, hunger, and malnutrition in vulnerable countries impacted by high prices of food, fertilizer, and fuel.  Of this amount, we are working with Congress to allocate $336.5 million to bilateral programs for Sub-Saharan African countries, including Burkina Faso, the Democratic Republic of the Congo, Ethiopia, Ghana, Guinea, Kenya, Liberia, Madagascar, Malawi, Mali, Mozambique, Niger, Nigeria, Rwanda, Senegal, Sierra Leone, Somalia, South Sudan, Tanzania, Uganda, Zambia, and Zimbabwe and regional programs in southern Africa, west Africa, and the Sahel.</p>
-<ul>
-<li>Also of this $2.76 billion, USAID is programming $2 billion in <b>emergency food security assistance </b>over the next three months.  As of August 8, 2022, the U.S. has provided nearly $1 billion specifically for countries in Africa toward this $2 billion commitment, including Central African Republic, the Democratic Republic of the Congo, Ethiopia, Kenya, Mali, Mozambique, Nigeria, Somalia, South Sudan, and Uganda.</li>
-</ul>
-<p>In addition to the President’s G7 commitment, the U.S. has announced the drawdown of the balance in the Bill Emerson Humanitarian Trust, an effort in coordination with the U.S. Department of Agriculture which will provide an additional $670 million in <b>food assistance to respond to historic levels of acute food insecurity</b> around the world.  Funds announced in July and August 2022 will be used to procure U.S. food commodities to bolster existing emergency food operations in countries facing severe food insecurity. Resources will be delivered to:: Ethiopia, Kenya, Somalia, South Sudan, and Sudan.</p>
-<p>President Biden also announced that the United States is expanding <b>sustainable African food production</b> through the U.S. government’s signature global food security initiative, to eight additional African countries, including Democratic Republic of the Congo, Liberia, Madagascar, Malawi, Mozambique, Rwanda, Tanzania, and Zambia. This expansion brings the number of priority countries globally to 20 and delivers on President Biden’s commitment in September 2021 to work with Congress to provide $5 billion through Feed the Future to end global hunger, malnutrition and build sustainable, resilient, inclusive food systems abroad.</p>
-<p>Finally, the U.S. government will also contribute to <b>international efforts to support livelihoods and nutrition</b> and help vulnerable countries build their resilience to shocks including food price volatility, supply chain issues, climate impacts, and other long-term threats. Subject to Congressional notification, the U.S. is planning to provide $120 million to the following efforts:</p>
-<ul>
-<li>The African Development Bank’s (AfDB) African Emergency Food Production Facility (AEFPF) to increase the production of climate-adapted wheat, corn, rice, and soybeans over the next four growing seasons in Africa.</li>
-<li>The International Fund for Agricultural Development’s (IFAD) Crisis Response Initiative (CRI) to help protect livelihoods and build resilience in rural communities.</li>
-<li>The Africa Adaptation Initiative (AAI) to develop a pipeline of bankable projects in Africa, to leverage private equity.</li>
-<li>The Africa Risk Capacity (ARC) Africa Disaster Risk Financing Programme (ADRiFi) to help African governments to respond to food system shocks by increasing access to risk insurance products.</li>
-<li>A fertilizer efficiency and innovation program to enhance the efficiency of fertilizer use in countries where fertilizer tends to be overapplied.</li>
-<li>Support for the UN Food and Agriculture Organization (FAO) will fund soil mapping spanning multiple countries to provide information allowing for wiser water usage, greater fertilizer conservation, and improved climate resilience impacts.</li>
-</ul>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p align="left">Secretary Blinken travels to South Africa, the Democratic Republic of the Congo, and Rwanda this week, where the United States has been deploying resources and working in partnership with African governments, institutions, businesses, scientists, and other leaders to prevent hunger and combat the global food security crisis while also addressing the increasing rates of malnutrition, which has hit the continent of Africa the hardest.</p>
-<p align="left">At the G7 Summit in June, President Biden and G7 leaders announced over $4.5 billion to address global food security, over half of which will come from the United States.  This $2.76 billion in U.S. government funding will help protect the world’s most vulnerable populations and mitigate the impacts of growing food insecurity and malnutrition, including from Russia’s war in Ukraine, by building production capacity and more resilient agriculture and food systems around the world, and responding to immediate emergency food needs.  We have recognized the need for immediate action to prevent far-reaching consequences, and we are responding with support targeting Africa’s own plans for food security and food systems transformation.</p>
-<p align="left">Of this $2.76 billion, $760 million will be for sustainable <b>near-term food assistance </b>to help mitigate further increases in poverty, hunger, and malnutrition in vulnerable countries impacted by high prices of food, fertilizer, and fuel.  Of this amount, we are working with Congress to allocate $336.5 million to bilateral programs for Sub-Saharan African countries, including Burkina Faso, the Democratic Republic of the Congo, Ethiopia, Ghana, Guinea, Kenya, Liberia, Madagascar, Malawi, Mali, Mozambique, Niger, Nigeria, Rwanda, Senegal, Sierra Leone, Somalia, South Sudan, Tanzania, Uganda, Zambia, and Zimbabwe and regional programs in southern Africa, west Africa, and the Sahel.</p>
-<ul>
-<li>Also of this $2.76 billion, USAID is programming $2 billion in <b>emergency food security assistance </b>over the next three months.  As of August 8, 2022, the U.S. has provided nearly $1 billion specifically for countries in Africa toward this $2 billion commitment, including Central African Republic, the Democratic Republic of the Congo, Ethiopia, Kenya, Mali, Mozambique, Nigeria, Somalia, South Sudan, and Uganda.</li>
-</ul>
-<p>In addition to the President’s G7 commitment, the U.S. has announced the drawdown of the balance in the Bill Emerson Humanitarian Trust, an effort in coordination with the U.S. Department of Agriculture which will provide an additional $670 million in <b>food assistance to respond to historic levels of acute food insecurity</b> around the world.  Funds announced in July and August 2022 will be used to procure U.S. food commodities to bolster existing emergency food operations in countries facing severe food insecurity. Resources will be delivered to:: Ethiopia, Kenya, Somalia, South Sudan, and Sudan.</p>
-<p>President Biden also announced that the United States is expanding <b>sustainable African food production</b> through the U.S. government’s signature global food security initiative, to eight additional African countries, including Democratic Republic of the Congo, Liberia, Madagascar, Malawi, Mozambique, Rwanda, Tanzania, and Zambia. This expansion brings the number of priority countries globally to 20 and delivers on President Biden’s commitment in September 2021 to work with Congress to provide $5 billion through Feed the Future to end global hunger, malnutrition and build sustainable, resilient, inclusive food systems abroad.</p>
-<p>Finally, the U.S. government will also contribute to <b>international efforts to support livelihoods and nutrition</b> and help vulnerable countries build their resilience to shocks including food price volatility, supply chain issues, climate impacts, and other long-term threats. Subject to Congressional notification, the U.S. is planning to provide $120 million to the following efforts:</p>
-<ul>
-<li>The African Development Bank’s (AfDB) African Emergency Food Production Facility (AEFPF) to increase the production of climate-adapted wheat, corn, rice, and soybeans over the next four growing seasons in Africa.</li>
-<li>The International Fund for Agricultural Development’s (IFAD) Crisis Response Initiative (CRI) to help protect livelihoods and build resilience in rural communities.</li>
-<li>The Africa Adaptation Initiative (AAI) to develop a pipeline of bankable projects in Africa, to leverage private equity.</li>
-<li>The Africa Risk Capacity (ARC) Africa Disaster Risk Financing Programme (ADRiFi) to help African governments to respond to food system shocks by increasing access to risk insurance products.</li>
-<li>A fertilizer efficiency and innovation program to enhance the efficiency of fertilizer use in countries where fertilizer tends to be overapplied.</li>
-<li>Support for the UN Food and Agriculture Organization (FAO) will fund soil mapping spanning multiple countries to provide information allowing for wiser water usage, greater fertilizer conservation, and improved climate resilience impacts.</li>
 </ul>
 ]]></content:encoded>
 					
