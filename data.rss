@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Mon, 08 Aug 2022 14:20:50 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Aug 2022 15:13:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Imposing Sanctions on Virtual Currency Mixer Tornado Cash</title>
+		<link>https://www.state.gov/imposing-sanctions-on-virtual-currency-mixer-tornado-cash/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2022 15:10:46 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=367029</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>The United States is sanctioning virtual currency mixer Tornado Cash for its involvement in laundering a portion of the more than $600 million stolen by Democratic People’s Republic of Korea (DPRK) hackers in one of the largest known virtual currency heists to date. These hackers are associated with the Lazarus Group and APT38, which were sanctioned by the United States in 2019. The United States will continue to pursue actions against mixers laundering virtual currency for criminals and those who assist them. Tornado Cash has reportedly been used to launder billions worth of virtual currency since its creation in 2019. This is the second virtual currency mixer designated by the U.S. Department of the Treasury, following the sanctions imposed on Blender.io in May 2022.</p>
+<p>The United States will not hesitate to use its authorities against malicious cyber actors, to expose, disrupt, and promote accountability for perpetrators and enablers of criminal activities.</p>
+<p>For more information on today’s actions, please see the Department of the Treasury’s <a href="https://home.treasury.gov/news/press-releases/jy0916" target="_blank" rel="noopener">press release</a>.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>The United States is sanctioning virtual currency mixer Tornado Cash for its involvement in laundering a portion of the more than $600 million stolen by Democratic People’s Republic of Korea (DPRK) hackers in one of the largest known virtual currency heists to date. These hackers are associated with the Lazarus Group and APT38, which were sanctioned by the United States in 2019. The United States will continue to pursue actions against mixers laundering virtual currency for criminals and those who assist them. Tornado Cash has reportedly been used to launder billions worth of virtual currency since its creation in 2019. This is the second virtual currency mixer designated by the U.S. Department of the Treasury, following the sanctions imposed on Blender.io in May 2022.</p>
+<p>The United States will not hesitate to use its authorities against malicious cyber actors, to expose, disrupt, and promote accountability for perpetrators and enablers of criminal activities.</p>
+<p>For more information on today’s actions, please see the Department of the Treasury’s <a href="https://home.treasury.gov/news/press-releases/jy0916" target="_blank" rel="noopener">press release</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Singapore National Day</title>
 		<link>https://www.state.gov/singapore-national-day/</link>
 		
@@ -1643,135 +1802,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p><b>QUESTION:  </b>&#8212; thank you so much for this interview.  I wish we had more time.</p>
 <p><b>SECRETARY BLINKEN:  </b>Thank you.</p>
 <p><b>QUESTION:  </b>Thank you.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Anniversary of the Russian Invasion of Georgia</title>
-		<link>https://www.state.gov/anniversary-of-the-russian-invasion-of-georgia/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Sun, 07 Aug 2022 15:29:41 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=366671</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p align="left">Fourteen years ago today, Russia invaded the sovereign nation of Georgia.  As we have done since 2008, we remember those killed and injured by Russian forces.  For decades, the citizens of Georgia in Abkhazia and South Ossetia have lived under Russian occupation and tens of thousands have been displaced, persecuted, and impoverished.  Lives and livelihoods have been taken from them.</p>
-<p align="left">This year, Russia’s unprovoked further invasion of Ukraine underscores the need for the people of Georgia and Ukraine to stand together in solidarity.  The people of Georgia know all too well how Russia’s aggressive actions, including disinformation, so-called “borderization,” and mass displacement cause untold hardships and destruction.</p>
-<p align="left">Russia must be accountable to the commitments it made under the 2008 ceasefire – withdrawing its forces to pre-conflict positions and allowing unfettered access for the delivery of humanitarian assistance.  It also must reverse its recognition of Georgia’s Abkhazia and South Ossetia regions.  This is essential for hundreds of thousands of internally displaced persons to be able to return to their homes safely and with dignity.</p>
-<p align="left">We remain steadfast in our support for the people of Georgia as they seek to protect their sovereignty and territorial integrity and find a peaceful solution to the conflict.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p align="left">Fourteen years ago today, Russia invaded the sovereign nation of Georgia.  As we have done since 2008, we remember those killed and injured by Russian forces.  For decades, the citizens of Georgia in Abkhazia and South Ossetia have lived under Russian occupation and tens of thousands have been displaced, persecuted, and impoverished.  Lives and livelihoods have been taken from them.</p>
-<p align="left">This year, Russia’s unprovoked further invasion of Ukraine underscores the need for the people of Georgia and Ukraine to stand together in solidarity.  The people of Georgia know all too well how Russia’s aggressive actions, including disinformation, so-called “borderization,” and mass displacement cause untold hardships and destruction.</p>
-<p align="left">Russia must be accountable to the commitments it made under the 2008 ceasefire – withdrawing its forces to pre-conflict positions and allowing unfettered access for the delivery of humanitarian assistance.  It also must reverse its recognition of Georgia’s Abkhazia and South Ossetia regions.  This is essential for hundreds of thousands of internally displaced persons to be able to return to their homes safely and with dignity.</p>
-<p align="left">We remain steadfast in our support for the people of Georgia as they seek to protect their sovereignty and territorial integrity and find a peaceful solution to the conflict.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
