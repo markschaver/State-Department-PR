@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 10 Aug 2022 14:02:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Aug 2022 14:15:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,173 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Antony J. Blinken Before Meeting with Civil Society Representatives from Eastern Democratic Republic of Congo</title>
+		<link>https://www.state.gov/secretary-antony-j-blinken-before-meeting-with-civil-society-representatives-from-eastern-democratic-republic-of-congo/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Wed, 10 Aug 2022 14:15:23 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=368075</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>Kinshasa, Democratic Republic of Congo</p>
+<p> Chief of Mission Residence</p>
+<p><b>SECRETARY BLINKEN:  </b>Good afternoon, everyone.  It’s a real pleasure to have an opportunity to talk to the extremely, extremely (inaudible) civil society here in Congo.  A strong, vibrant, independent civil society is essential to any democracy; it’s essential here.  And it’s really critical to helping to meet the challenges that the DRC is facing.</p>
+<p>So we’ll have an opportunity to talk about some of those challenges, to get the perspectives of these leaders to include the situation in eastern Congo, the challenges faced there; the upcoming elections next week, and everything that can be done to make sure that they happen on time and in a fair way; and other challenges that the Congolese people are facing, including strengthening their democracy, especially the rights and full participation of Congolese in all the most important questions the country and the future.</p>
+<p>I just want to thank all of you for being here today and being willing to share with us your insights, your experiences, and your ideas.</p>
+<p>Thank you.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>Kinshasa, Democratic Republic of Congo</p>
+<p> Chief of Mission Residence</p>
+<p><b>SECRETARY BLINKEN:  </b>Good afternoon, everyone.  It’s a real pleasure to have an opportunity to talk to the extremely, extremely (inaudible) civil society here in Congo.  A strong, vibrant, independent civil society is essential to any democracy; it’s essential here.  And it’s really critical to helping to meet the challenges that the DRC is facing.</p>
+<p>So we’ll have an opportunity to talk about some of those challenges, to get the perspectives of these leaders to include the situation in eastern Congo, the challenges faced there; the upcoming elections next week, and everything that can be done to make sure that they happen on time and in a fair way; and other challenges that the Congolese people are facing, including strengthening their democracy, especially the rights and full participation of Congolese in all the most important questions the country and the future.</p>
+<p>I just want to thank all of you for being here today and being willing to share with us your insights, your experiences, and your ideas.</p>
+<p>Thank you.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Tenth Anniversary of the Captivity of Austin Tice</title>
 		<link>https://www.state.gov/tenth-anniversary-of-the-captivity-of-austin-tice/</link>
 		
@@ -1715,131 +1882,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The bill establishes an International Technology Security and Innovation Fund, including $100 million annually over five years for the State Department, which will allow us to support secure semiconductor supply chains as well as the development and adoption of secure telecommunications networks. This fund will help deepen efforts with key allies and partners in alignment with this historic domestic investment in these critical technology areas.</p>
 <p>The legislation is an important step to further prepare our economy for the 21st century and strengthen our regional supply chain diplomacy, including through the U.S.-EU Trade and Technology Council, the Indo-Pacific Economic Framework, and the Americas Partnership for Economic Prosperity.</p>
 <p>I am grateful to Congress for its vital partnership on this initiative. This legislation will make our Department more effective and our country more resilient and stronger in the face of the threats and opportunities the 21st century presents.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Signing of U.S. Instruments of Ratification of Finland and Sweden’s NATO Accession Protocols</title>
-		<link>https://www.state.gov/signing-of-u-s-instruments-of-ratification-of-finland-and-swedens-nato-accession-protocols/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Tue, 09 Aug 2022 19:16:06 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=367813</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Today President Biden signed the United States Instruments of Ratification of the Accession Protocols to the North Atlantic Treaty for the Republic of Finland and the Kingdom of Sweden, which the U.S. Senate approved on August 3. We celebrate this historic moment, which underscores the U.S. commitment to our shared Transatlantic security.</p>
-<p>We are pleased with the swift progress toward Finland and Sweden becoming NATO Allies. There is strong Allied and bipartisan support for the membership applications of Finland and Sweden, and we look forward to quickly bringing them into the strongest defensive Alliance in history. We appreciate the swift action of all of the Allies who have already ratified the accession protocols and encourage all to complete the process soon so that Finland and Sweden can accede to the North Atlantic Treaty and join the NATO Alliance.</p>
-<p>It bears repeating at this historic moment that the U.S. commitment to our NATO Allies and Article 5 of the Washington Treaty is ironclad. Allies are united in their shared mission to defend the Euro-Atlantic community, deter aggression, project stability, and uphold NATO’s values of democracy, individual liberty, and the rule of law. We also remain firmly committed to NATO’s Open Door policy and to further strengthening our bilateral defense and security cooperation.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Today President Biden signed the United States Instruments of Ratification of the Accession Protocols to the North Atlantic Treaty for the Republic of Finland and the Kingdom of Sweden, which the U.S. Senate approved on August 3. We celebrate this historic moment, which underscores the U.S. commitment to our shared Transatlantic security.</p>
-<p>We are pleased with the swift progress toward Finland and Sweden becoming NATO Allies. There is strong Allied and bipartisan support for the membership applications of Finland and Sweden, and we look forward to quickly bringing them into the strongest defensive Alliance in history. We appreciate the swift action of all of the Allies who have already ratified the accession protocols and encourage all to complete the process soon so that Finland and Sweden can accede to the North Atlantic Treaty and join the NATO Alliance.</p>
-<p>It bears repeating at this historic moment that the U.S. commitment to our NATO Allies and Article 5 of the Washington Treaty is ironclad. Allies are united in their shared mission to defend the Euro-Atlantic community, deter aggression, project stability, and uphold NATO’s values of democracy, individual liberty, and the rule of law. We also remain firmly committed to NATO’s Open Door policy and to further strengthening our bilateral defense and security cooperation.</p>
 ]]></content:encoded>
 					
 		
