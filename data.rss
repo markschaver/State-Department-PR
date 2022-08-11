@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 10 Aug 2022 22:49:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 11 Aug 2022 00:59:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,205 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Public Schedule – August 11, 2022</title>
+		<link>https://www.state.gov/public-schedule-august-11-2022/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Thu, 11 Aug 2022 00:59:36 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=368284</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p style="text-align: center;"><strong>***THE DAILY PUBLIC SCHEDULE IS SUBJECT TO CHANGE***</strong></p>
+<p><strong>SECRETARY ANTONY J. BLINKEN</strong></p>
+<p>Secretary Blinken is on travel to Cambodia, the Philippines, South Africa, the Democratic Republic of the Congo, and Rwanda from August 2-12, 2022. Please click here for more information.</p>
+<p><strong>8:30 a.m. LOCAL</strong> Secretary Blinken meets with Rwandan President Paul Kagame and Foreign Minister Vincent Biruta in Kigali, Rwanda.</p>
+<p><strong>(POOLED CAMERA SPRAY AT TOP)</strong></p>
+<p><strong>10:20 a.m. LOCAL</strong> Secretary Blinken holds a joint press availability with Rwandan Foreign Minister Vincent Biruta in Kigali, Rwanda.</p>
+<p><strong>(OPEN PRESS COVERAGE)</strong></p>
+<p><strong>12:00 p.m. LOCAL</strong> Secretary Blinken visits the Kigali Genocide Memorial in Kigali, Rwanda.</p>
+<p><strong>(POOLED PRESS COVERAGE)</strong></p>
+<p><strong>1:00 p.m. LOCAL</strong> Secretary Blinken meets with civil society representatives in Kigali, Rwanda.</p>
+<p><strong>(POOLED CAMERA SPRAY AT TOP)</strong></p>
+<p><strong>1:50 p.m. LOCAL</strong> Secretary Blinken holds a meet and greet with employees and families from U.S. Embassy Kigali in Kigali, Rwanda.</p>
+<p><strong>(CLOSED PRESS COVERAGE)</strong></p>
+<p><strong>DEPUTY SECRETARY WENDY R. SHERMAN</strong></p>
+<p>Deputy Secretary Sherman attends meetings and briefings at the Department of State.</p>
+<p><strong>DEPUTY SECRETARY FOR MANAGEMENT AND RESOURCES BRIAN P. MCKEON</strong></p>
+<p>Deputy Secretary McKeon attends meetings and briefings at the Department of State.</p>
+<p><strong>UNDER SECRETARY FOR POLITICAL AFFAIRS VICTORIA J. NULAND</strong></p>
+<p>Under Secretary Nuland has no public appointments.</p>
+<p><strong>BRIEFING SCHEDULE</strong></p>
+<p><strong>2:00 p.m.</strong> Principal Deputy Spokesperson Vedant Patel holds a telephonic press briefing.</p>
+<p><strong>(OPEN PRESS COVERAGE)</strong></p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p style="text-align: center;"><strong>***THE DAILY PUBLIC SCHEDULE IS SUBJECT TO CHANGE***</strong></p>
+<p><strong>SECRETARY ANTONY J. BLINKEN</strong></p>
+<p>Secretary Blinken is on travel to Cambodia, the Philippines, South Africa, the Democratic Republic of the Congo, and Rwanda from August 2-12, 2022. Please click here for more information.</p>
+<p><strong>8:30 a.m. LOCAL</strong> Secretary Blinken meets with Rwandan President Paul Kagame and Foreign Minister Vincent Biruta in Kigali, Rwanda.</p>
+<p><strong>(POOLED CAMERA SPRAY AT TOP)</strong></p>
+<p><strong>10:20 a.m. LOCAL</strong> Secretary Blinken holds a joint press availability with Rwandan Foreign Minister Vincent Biruta in Kigali, Rwanda.</p>
+<p><strong>(OPEN PRESS COVERAGE)</strong></p>
+<p><strong>12:00 p.m. LOCAL</strong> Secretary Blinken visits the Kigali Genocide Memorial in Kigali, Rwanda.</p>
+<p><strong>(POOLED PRESS COVERAGE)</strong></p>
+<p><strong>1:00 p.m. LOCAL</strong> Secretary Blinken meets with civil society representatives in Kigali, Rwanda.</p>
+<p><strong>(POOLED CAMERA SPRAY AT TOP)</strong></p>
+<p><strong>1:50 p.m. LOCAL</strong> Secretary Blinken holds a meet and greet with employees and families from U.S. Embassy Kigali in Kigali, Rwanda.</p>
+<p><strong>(CLOSED PRESS COVERAGE)</strong></p>
+<p><strong>DEPUTY SECRETARY WENDY R. SHERMAN</strong></p>
+<p>Deputy Secretary Sherman attends meetings and briefings at the Department of State.</p>
+<p><strong>DEPUTY SECRETARY FOR MANAGEMENT AND RESOURCES BRIAN P. MCKEON</strong></p>
+<p>Deputy Secretary McKeon attends meetings and briefings at the Department of State.</p>
+<p><strong>UNDER SECRETARY FOR POLITICAL AFFAIRS VICTORIA J. NULAND</strong></p>
+<p>Under Secretary Nuland has no public appointments.</p>
+<p><strong>BRIEFING SCHEDULE</strong></p>
+<p><strong>2:00 p.m.</strong> Principal Deputy Spokesperson Vedant Patel holds a telephonic press briefing.</p>
+<p><strong>(OPEN PRESS COVERAGE)</strong></p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>U.S. Department of State Debars Ten Persons for Violating or Conspiring to Violate the Arms Export Control Act</title>
 		<link>https://www.state.gov/u-s-department-of-state-debars-ten-persons-for-violating-or-conspiring-to-violate-the-arms-export-control-act/</link>
 		
@@ -1676,171 +1875,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <ul>
 <li>Over 100 Rwandans participate in U.S. government-sponsored in-person and virtual exchange programs annually, and the exchange program alumni community has more than 2,500 members. Prior to the COVID-19 pandemic, the two American Spaces in Rwanda received more than 39,000 visits per year.</li>
 </ul>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken And Democratic Republic of Congo Prime Minister Jean-Michel Sama Lukonde Before Their Meeting</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-and-democratic-republic-of-congo-prime-minister-jean-michel-sama-lukonde-before-their-meeting/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Wed, 10 Aug 2022 11:39:20 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=368033</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Kinshasa, Democratic Republic of the Congo</p>
-<p>Primature</p>
-<p><b>PRIME MINISTER LUKONDE:</b>  (Via interpreter) I’d like to welcome the Secretary, and of course the meetings already began yesterday.  And welcome to the house of the prime minister.</p>
-<p><b>SECRETARY BLINKEN:  </b>(Via interpreter)<b> </b>I am delighted to meet with the prime minister and to continue the discussions we started yesterday.  I do know that we have a very important agenda around various topics: food security, climate, the work that we’re conducting together to bring peace and security in the east of Congo.  All of these topics reflect the depth of our relationship.</p>
-<p>(In English) It’s a pleasure to be here working on so many different things with the prime minister, following up on the discussions that we had yesterday with the president.  I think the agenda that we have is proof of the breadth and depth of the partnership between the United States and the DRC, a partnership, as we’ve called it, for peace and prosperity, for preservation of the environment.  And I’m very pleased with the opportunity to speak with the prime minister today about the work that we’re doing together.  Thanks.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Kinshasa, Democratic Republic of the Congo</p>
-<p>Primature</p>
-<p><b>PRIME MINISTER LUKONDE:</b>  (Via interpreter) I’d like to welcome the Secretary, and of course the meetings already began yesterday.  And welcome to the house of the prime minister.</p>
-<p><b>SECRETARY BLINKEN:  </b>(Via interpreter)<b> </b>I am delighted to meet with the prime minister and to continue the discussions we started yesterday.  I do know that we have a very important agenda around various topics: food security, climate, the work that we’re conducting together to bring peace and security in the east of Congo.  All of these topics reflect the depth of our relationship.</p>
-<p>(In English) It’s a pleasure to be here working on so many different things with the prime minister, following up on the discussions that we had yesterday with the president.  I think the agenda that we have is proof of the breadth and depth of the partnership between the United States and the DRC, a partnership, as we’ve called it, for peace and prosperity, for preservation of the environment.  And I’m very pleased with the opportunity to speak with the prime minister today about the work that we’re doing together.  Thanks.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
