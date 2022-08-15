@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Mon, 15 Aug 2022 15:24:19 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Aug 2022 17:03:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Republic of Korea National Day</title>
+		<link>https://www.state.gov/republic-of-korea-national-day/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Mon, 15 Aug 2022 17:03:18 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=369078</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I send my kindest regards and congratulations to the Republic of Korea and the South Korean people as you celebrate your National Day.</p>
+<p>For nearly seventy years, through our ironclad Alliance, the United States and the Republic of Korea have promoted freedom, democracy, and human rights throughout the region and beyond. Our alliance, strengthened by our shared history of sacrifice and friendship, remains the linchpin of peace, security, and prosperity for the Indo-Pacific. As we stand shoulder to shoulder, the Republic of Korea and the United States will continue to strengthen our strong bonds and collaboratively confront the most pressing regional and global challenges.</p>
+<p>I look forward to continuing cooperation while expanding the impact of our strategic partnership globally.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I send my kindest regards and congratulations to the Republic of Korea and the South Korean people as you celebrate your National Day.</p>
+<p>For nearly seventy years, through our ironclad Alliance, the United States and the Republic of Korea have promoted freedom, democracy, and human rights throughout the region and beyond. Our alliance, strengthened by our shared history of sacrifice and friendship, remains the linchpin of peace, security, and prosperity for the Indo-Pacific. As we stand shoulder to shoulder, the Republic of Korea and the United States will continue to strengthen our strong bonds and collaboratively confront the most pressing regional and global challenges.</p>
+<p>I look forward to continuing cooperation while expanding the impact of our strategic partnership globally.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Imposing Sanctions on Senior Liberian Government Officials</title>
 		<link>https://www.state.gov/imposing-sanctions-on-senior-liberian-government-officials/</link>
 		
@@ -1452,135 +1611,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>On behalf of the United States of America, I send warm wishes to the people of Pakistan as they celebrate their 75th Independence Day.</p>
 <p>In addition to 75 years of independence, this year also marks 75 years of diplomatic relations between the United States and Pakistan. We enjoy robust cooperation in many sectors, from the tens of thousands of Pakistani exchange students who have come to the United States to the 77 million COVID-19 vaccine doses we have committed to Pakistan through COVAX. The United States continues to be Pakistan’s largest export destination and I am confident our relationship will continue to grow. As we commemorate our 75th anniversary of diplomatic relations, let us resolve to renew and strengthen our partnership for the next 75 years and beyond.</p>
 <p>We congratulate you on this important milestone and wish you a Happy Independence Day!</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Designation of Paraguayan Vice President Hugo Velazquez and Yacyretá Bi-National Entity Legal Counsel Juan Carlos Duarte for Involvement in Significant Corruption</title>
-		<link>https://www.state.gov/designation-of-paraguayan-vice-president-hugo-velazquez-and-yacyreta-bi-national-entity-legal-counsel-juan-carlos-duarte-for-involvement-in-significant-corruption/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 12 Aug 2022 13:27:01 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=368683</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States is designating Paraguayan Vice President Hugo Velazquez and Yacyretá Bi-National Entity Legal Counsel Juan Carlos “Charly” Duarte for involvement in significant corruption, including bribery of a public official and interference in public processes.</p>
-<p>Duarte, a close personal and professional associate of Vice President Velazquez, offered a bribe to a Paraguayan public official in order to obstruct an investigation that threatened the Vice President and his financial interests. Corrupt acts such as these also contribute to diminished confidence in the government and public perceptions of corruption and impunity within the office of the Paraguayan Vice President. Additionally, Duarte’s act of corruption abused and exploited his powerful and privileged public position within the Yacyretá Bi-National Entity, risking public confidence in one of Paraguay’s most vital economic assets.</p>
-<p>This public designation is made under Section 7031(c) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022. As part of this action, the Department is also designating Velazquez’s immediate family members, including Lourdes Maria Andrea Samaniego Gonzalez, Dionicio Adalberto Velazquez Gimenez, Sonya Rebeca Velazquez Escauriza, and Hugo Jose Velazquez Escauriza; and Duarte’s immediate family members including Ninfa Concepcion Vera Moreira and Tamara Duarte Martinez.</p>
-<p>These designations reaffirm the commitment of the United States to combat corruption, which harms the public interest, hampers countries’ economic prosperity, and curtails the ability of governments to respond effectively to the needs of their people. The United States continues to stand with all Paraguayans in support of democracy and the rule of law and will continue to promote accountability for those who abuse public power for personal gain, regardless of their position or political affiliation.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States is designating Paraguayan Vice President Hugo Velazquez and Yacyretá Bi-National Entity Legal Counsel Juan Carlos “Charly” Duarte for involvement in significant corruption, including bribery of a public official and interference in public processes.</p>
-<p>Duarte, a close personal and professional associate of Vice President Velazquez, offered a bribe to a Paraguayan public official in order to obstruct an investigation that threatened the Vice President and his financial interests. Corrupt acts such as these also contribute to diminished confidence in the government and public perceptions of corruption and impunity within the office of the Paraguayan Vice President. Additionally, Duarte’s act of corruption abused and exploited his powerful and privileged public position within the Yacyretá Bi-National Entity, risking public confidence in one of Paraguay’s most vital economic assets.</p>
-<p>This public designation is made under Section 7031(c) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022. As part of this action, the Department is also designating Velazquez’s immediate family members, including Lourdes Maria Andrea Samaniego Gonzalez, Dionicio Adalberto Velazquez Gimenez, Sonya Rebeca Velazquez Escauriza, and Hugo Jose Velazquez Escauriza; and Duarte’s immediate family members including Ninfa Concepcion Vera Moreira and Tamara Duarte Martinez.</p>
-<p>These designations reaffirm the commitment of the United States to combat corruption, which harms the public interest, hampers countries’ economic prosperity, and curtails the ability of governments to respond effectively to the needs of their people. The United States continues to stand with all Paraguayans in support of democracy and the rule of law and will continue to promote accountability for those who abuse public power for personal gain, regardless of their position or political affiliation.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
