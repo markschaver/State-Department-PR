@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Mon, 15 Aug 2022 15:17:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Aug 2022 15:24:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Imposing Sanctions on Senior Liberian Government Officials</title>
+		<link>https://www.state.gov/imposing-sanctions-on-senior-liberian-government-officials/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Mon, 15 Aug 2022 15:24:18 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=369052</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>The United States is designating Liberian government officials Nathaniel McGill, Minister of State for Presidential Affairs and Chief of Staff to President George Weah; Sayma Syrenius Cephus, the Solicitor General and Chief Prosecutor of Liberia; and Bill Twehway, the Managing Director of the National Port Authority (NPA), for their involvement in ongoing public corruption in Liberia.</p>
+<p>McGill has used his position to undermine the integrity and independence of Liberia’s democratic institutions and subvert government priorities for personal gain. Cephus has developed close relationships with suspects of criminal investigations and has received bribes from individuals in exchange for arranging for their cases to be dropped. Twehway has used his position at the NPA to corruptly advance his own personal wealth and political agenda. All three are being designated pursuant to Executive Order 13818, which builds upon and implements the Global Magnitsky Human Rights Accountability Act and targets perpetrators of serious human rights abuse and corruption around the world.</p>
+<p>All three of these individuals have contributed to Liberia’s worsening corruption. These designations reflect our commitment to implementing the United States Strategy on Countering Corruption and to partnering with the Liberian government and people to help the country chart a better course forward.</p>
+<p>For more information on today’s actions, please see the Department of the Treasury’s <a href="https://home.treasury.gov/news/press-releases/jy0921" target="_blank" rel="noopener">press release</a>.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>The United States is designating Liberian government officials Nathaniel McGill, Minister of State for Presidential Affairs and Chief of Staff to President George Weah; Sayma Syrenius Cephus, the Solicitor General and Chief Prosecutor of Liberia; and Bill Twehway, the Managing Director of the National Port Authority (NPA), for their involvement in ongoing public corruption in Liberia.</p>
+<p>McGill has used his position to undermine the integrity and independence of Liberia’s democratic institutions and subvert government priorities for personal gain. Cephus has developed close relationships with suspects of criminal investigations and has received bribes from individuals in exchange for arranging for their cases to be dropped. Twehway has used his position at the NPA to corruptly advance his own personal wealth and political agenda. All three are being designated pursuant to Executive Order 13818, which builds upon and implements the Global Magnitsky Human Rights Accountability Act and targets perpetrators of serious human rights abuse and corruption around the world.</p>
+<p>All three of these individuals have contributed to Liberia’s worsening corruption. These designations reflect our commitment to implementing the United States Strategy on Countering Corruption and to partnering with the Liberian government and people to help the country chart a better course forward.</p>
+<p>For more information on today’s actions, please see the Department of the Treasury’s <a href="https://home.treasury.gov/news/press-releases/jy0921" target="_blank" rel="noopener">press release</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Assistant Secretary of State for Consular Affairs Bitter Travels to Rio de Janeiro, Sao Paulo, and Brasilia, Brazil</title>
 		<link>https://www.state.gov/assistant-secretary-of-state-for-consular-affairs-bitter-travels-to-rio-de-janeiro-sao-paulo-and-brasilia-brazil/</link>
 		
@@ -1421,165 +1582,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>This public designation is made under Section 7031(c) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022. As part of this action, the Department is also designating Velazquez’s immediate family members, including Lourdes Maria Andrea Samaniego Gonzalez, Dionicio Adalberto Velazquez Gimenez, Sonya Rebeca Velazquez Escauriza, and Hugo Jose Velazquez Escauriza; and Duarte’s immediate family members including Ninfa Concepcion Vera Moreira and Tamara Duarte Martinez.</p>
 <p>These designations reaffirm the commitment of the United States to combat corruption, which harms the public interest, hampers countries’ economic prosperity, and curtails the ability of governments to respond effectively to the needs of their people. The United States continues to stand with all Paraguayans in support of democracy and the rule of law and will continue to promote accountability for those who abuse public power for personal gain, regardless of their position or political affiliation.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>U.S. Diplomatic Representation for Democratic Republic of São Tomé and Príncipe Moves to U.S. Embassy Luanda</title>
-		<link>https://www.state.gov/u-s-diplomatic-representation-for-democratic-republic-of-sao-tome-and-principe-moves-to-u-s-embassy-luanda/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 12 Aug 2022 00:35:31 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=368614</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>U.S. Ambassador to Angola and São Tomé and Príncipe Dr. Tulinabo S. Mushingi presented his credentials to President Carlos Vila Nova of São Tomé and Príncipe on August 10.  U.S. diplomatic representation for São Tomé and Príncipe is moving to Embassy Luanda in Angola from U.S. Embassy Libreville in Gabon because of São Tomé and Príncipe’s longstanding cultural, linguistic, and economic ties to Angola.</p>
-<p>Ambassador Mushingi and the staff of the U.S. Embassy in Luanda look forward to working with the people of São Tomé and Príncipe to advance our shared goals of peace, prosperity, and good governance.  We are also eager to partner with São Tomé and Príncipe on our mutual regional objectives, such as ocean conservation and maritime security.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>U.S. Ambassador to Angola and São Tomé and Príncipe Dr. Tulinabo S. Mushingi presented his credentials to President Carlos Vila Nova of São Tomé and Príncipe on August 10.  U.S. diplomatic representation for São Tomé and Príncipe is moving to Embassy Luanda in Angola from U.S. Embassy Libreville in Gabon because of São Tomé and Príncipe’s longstanding cultural, linguistic, and economic ties to Angola.</p>
-<p>Ambassador Mushingi and the staff of the U.S. Embassy in Luanda look forward to working with the people of São Tomé and Príncipe to advance our shared goals of peace, prosperity, and good governance.  We are also eager to partner with São Tomé and Príncipe on our mutual regional objectives, such as ocean conservation and maritime security.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
 ]]></content:encoded>
 					
 		
