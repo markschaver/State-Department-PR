@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 18 Aug 2022 17:02:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 Aug 2022 20:05:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,201 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Joint Statement on U.S.-Mexico Working Group on Cyber Issues</title>
+		<link>https://www.state.gov/joint-statement-on-u-s-mexico-working-group-on-cyber-issues/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Thu, 18 Aug 2022 20:05:05 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=370055</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>Following is the text of a joint statement by the Governments of the United States and Mexico:</p>
+<p><i>Begin Text:</i></p>
+<p>On August 10, the U.S.-Mexico Working Group on Cyber Issues convened its first bilateral cyber dialogue since the establishment of the U.S.-Mexico Bicentennial Framework for Security, Public Health, and Safe Communities. The meeting’s main objective was to advance bilateral cooperation on cyber issues in line with the two countries’ shared commitment to an open, interoperable, secure, and reliable Internet and a stable cyberspace.</p>
+<p>A secure, resilient, and stable cyberspace is fundamental for the development of the public and private sectors and for people worldwide to benefit from the free flow of information online. For this reason, cyber issues have become a priority in the U.S.-Mexico bilateral relationship, as demonstrated by their inclusion in the High-Level Security Dialogue (HLSD) and the inclusion of cybersecurity risk management issues in the High-Level Economic Dialogue (HLED).</p>
+<p>Cybersecurity is an area that is becoming increasingly relevant for society.  During the meeting, the delegations addressed various aspects of each country&#8217;s institutional structure and strategy for dealing with threats in cyberspace.  They also discussed institutional capabilities to prevent and counter cybercrime, as well as efforts to foster a greater culture of cybersecurity awareness and cyber hygiene.  In addition, the two delegations discussed specific cooperation efforts in cyber defense and cybersecurity, including the protection of critical infrastructure.</p>
+<p>The two governments also discussed their shared interest in the multilateral sphere to promote access to an open, interoperable, secure, and reliable Internet for all citizens.  The United States and Mexico reaffirm the applicability of international law in cyberspace and will continue to promote adherence to and implementation of the framework of responsible state behavior adopted by the United Nations General Assembly, in order to promote stability and accountability in cyberspace.</p>
+<p>Both governments committed to continue strengthening cooperation to build a more secure, resilient region and expand collaboration to address shared threats in cyberspace. These efforts will bolster the ability of the two countries’ societies and economies to benefit from the opportunities that new digital and information technologies offer.</p>
+<p>In this regard, both delegations committed to:</p>
+<ul>
+<li>Strengthen coordination among bilateral cooperation initiatives focused on cyber and digital economy issues, including to promote the development of a secure, resilient, and reliable technology ecosystem. This coordinated approach will be reflected in a work plan to follow up on the work of this group within the Bicentennial Framework and work under the HLED.</li>
+<li>Strengthen technical coordination mechanisms for the attention and response to cyber incidents affecting shared and national critical information infrastructures.</li>
+<li>Increase bilateral cooperation for the exchange of cyber threat intelligence information, as appropriate, leading to the investigation of cybercrimes.</li>
+<li>Continue bilateral training initiatives and related efforts to promote a culture of cybersecurity for federal and state agencies, with a special emphasis on security and law enforcement agencies and to foster a cybersecurity awareness and incident reporting culture within the general public and the private sector in each country.</li>
+<li>Enhance cooperation between the U.S. Department of Homeland Security (DHS) — including the Cybersecurity and Infrastructure Security Agency (CISA) and Homeland Security Investigations (HSI) — and Mexican counterparts on issues including information sharing, incident response management, ransomware, law enforcement and investigations, public-private partnerships, and the protection of critical infrastructure.</li>
+<li>Continue to share information on cybersecurity resources and support active participation and engagement in initiatives such as the National Institute of Standards and Technology (NIST) Cybersecurity Framework 2.0 and the National Initiative for Cybersecurity Education (NICE) community, including events such as the Regional Initiative for Cybersecurity Education and Training (RICET).</li>
+<li>Continue dialogue and collaboration regarding multilateral processes on cybersecurity, including in the Organization of American States Inter-American Committee against Terrorism (OAS-CICTE) Working Group on Cooperation and Confidence Building Measures in Cyberspace, and on cybercrime, including in discussions at the UN Ad Hoc Committee.</li>
+<li>Continue engagement in multi-stakeholder fora such as the Global Forum on Cyber Expertise (GFCE), the Internet Governance Forum (IGF), and the Freedom Online Coalition (FOC), including to continue to strengthen and advance efforts to promote fundamental freedoms and respect for human rights in cyberspace.</li>
+<li>Coordinate with Canada to convene a Trilateral Cyber Experts Meeting in 2022, consistent with commitments made at the 2021 North American Leaders’ Summit.</li>
+</ul>
+<p><i>End Text</i></p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>Following is the text of a joint statement by the Governments of the United States and Mexico:</p>
+<p><i>Begin Text:</i></p>
+<p>On August 10, the U.S.-Mexico Working Group on Cyber Issues convened its first bilateral cyber dialogue since the establishment of the U.S.-Mexico Bicentennial Framework for Security, Public Health, and Safe Communities. The meeting’s main objective was to advance bilateral cooperation on cyber issues in line with the two countries’ shared commitment to an open, interoperable, secure, and reliable Internet and a stable cyberspace.</p>
+<p>A secure, resilient, and stable cyberspace is fundamental for the development of the public and private sectors and for people worldwide to benefit from the free flow of information online. For this reason, cyber issues have become a priority in the U.S.-Mexico bilateral relationship, as demonstrated by their inclusion in the High-Level Security Dialogue (HLSD) and the inclusion of cybersecurity risk management issues in the High-Level Economic Dialogue (HLED).</p>
+<p>Cybersecurity is an area that is becoming increasingly relevant for society.  During the meeting, the delegations addressed various aspects of each country&#8217;s institutional structure and strategy for dealing with threats in cyberspace.  They also discussed institutional capabilities to prevent and counter cybercrime, as well as efforts to foster a greater culture of cybersecurity awareness and cyber hygiene.  In addition, the two delegations discussed specific cooperation efforts in cyber defense and cybersecurity, including the protection of critical infrastructure.</p>
+<p>The two governments also discussed their shared interest in the multilateral sphere to promote access to an open, interoperable, secure, and reliable Internet for all citizens.  The United States and Mexico reaffirm the applicability of international law in cyberspace and will continue to promote adherence to and implementation of the framework of responsible state behavior adopted by the United Nations General Assembly, in order to promote stability and accountability in cyberspace.</p>
+<p>Both governments committed to continue strengthening cooperation to build a more secure, resilient region and expand collaboration to address shared threats in cyberspace. These efforts will bolster the ability of the two countries’ societies and economies to benefit from the opportunities that new digital and information technologies offer.</p>
+<p>In this regard, both delegations committed to:</p>
+<ul>
+<li>Strengthen coordination among bilateral cooperation initiatives focused on cyber and digital economy issues, including to promote the development of a secure, resilient, and reliable technology ecosystem. This coordinated approach will be reflected in a work plan to follow up on the work of this group within the Bicentennial Framework and work under the HLED.</li>
+<li>Strengthen technical coordination mechanisms for the attention and response to cyber incidents affecting shared and national critical information infrastructures.</li>
+<li>Increase bilateral cooperation for the exchange of cyber threat intelligence information, as appropriate, leading to the investigation of cybercrimes.</li>
+<li>Continue bilateral training initiatives and related efforts to promote a culture of cybersecurity for federal and state agencies, with a special emphasis on security and law enforcement agencies and to foster a cybersecurity awareness and incident reporting culture within the general public and the private sector in each country.</li>
+<li>Enhance cooperation between the U.S. Department of Homeland Security (DHS) — including the Cybersecurity and Infrastructure Security Agency (CISA) and Homeland Security Investigations (HSI) — and Mexican counterparts on issues including information sharing, incident response management, ransomware, law enforcement and investigations, public-private partnerships, and the protection of critical infrastructure.</li>
+<li>Continue to share information on cybersecurity resources and support active participation and engagement in initiatives such as the National Institute of Standards and Technology (NIST) Cybersecurity Framework 2.0 and the National Initiative for Cybersecurity Education (NICE) community, including events such as the Regional Initiative for Cybersecurity Education and Training (RICET).</li>
+<li>Continue dialogue and collaboration regarding multilateral processes on cybersecurity, including in the Organization of American States Inter-American Committee against Terrorism (OAS-CICTE) Working Group on Cooperation and Confidence Building Measures in Cyberspace, and on cybercrime, including in discussions at the UN Ad Hoc Committee.</li>
+<li>Continue engagement in multi-stakeholder fora such as the Global Forum on Cyber Expertise (GFCE), the Internet Governance Forum (IGF), and the Freedom Online Coalition (FOC), including to continue to strengthen and advance efforts to promote fundamental freedoms and respect for human rights in cyberspace.</li>
+<li>Coordinate with Canada to convene a Trilateral Cyber Experts Meeting in 2022, consistent with commitments made at the 2021 North American Leaders’ Summit.</li>
+</ul>
+<p><i>End Text</i></p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Department of State Announces Publication of 38th and Final Edition of World Military Expenditures and Arms Transfers (WMEAT)</title>
 		<link>https://www.state.gov/department-of-state-announces-publication-of-38th-and-final-edition-of-world-military-expenditures-and-arms-transfers-wmeat/</link>
 		
@@ -1767,713 +1962,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>While the resumption of exports from Ukraine’s Black Sea ports is a positive step in addressing the needs of food insecure countries, these shipments must continue so that the millions of tons of food trapped in the country can reach markets and help feed the world’s most vulnerable.</p>
 <p>The United States remains committed to supporting global food security in the face of climate change, pandemic-related supply chain disruptions, and armed conflicts, including Russia’s unprovoked invasion of Ukraine. We call on all countries to increase humanitarian and development assistance in support of food security efforts and take trade-facilitating actions, such as lifting of export restrictions, to support the free flow of agricultural goods and commodities. By working together, we can ensure global food security.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Department Press Briefing &#8211; August 16, 2022</title>
-		<link>https://www.state.gov/briefings/department-press-briefing-august-16-2022/</link>
-		
-		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
-		<pubDate>Wed, 17 Aug 2022 01:02:51 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?post_type=state_briefing&#038;p=369470</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Ned Price, Department Spokesperson</p>
-<p>Washington, D.C.</p>
-<p>2:18 p.m. EDT</p>
-<p><strong>MR PRICE:</strong> Good afternoon. I’ve actually come empty-handed today, so I am at your disposal. I say that with only mild trepidation, so Matt, I turn it over to you.</p>
-<p><strong>QUESTION:</strong> Right. Thank you. Let’s start with Iran. So presumably you’ve had a chance to take a look at the – their response to the EU text. What do you make of it?</p>
-<p><strong>MR PRICE:</strong> <a id="post-369470-Iran"></a>Well, some of you have heard this from us already today, but we have in fact received Iran’s comments on the EU’s proposed final text. We have received them through the EU. We’re in the process of studying them. We are at the same time engaged in consultations with the EU and our European allies on the way ahead.</p>
-<p>All throughout this process, from its earliest days, we’ve taken a deliberate; we’ve taken a principled approach to the negotiations with the remaining JCPOA participants. And more recently, since this deal has essentially been on the table since March, we’ve known what a final deal on a mutual return to compliance with the JCPOA would look like. And I made this point yesterday, but it bears repeating: We agree with the high representative. We agree with Mr. Borrell’s fundamental point. What could be negotiated over the course of these past 16, 17 months has been negotiated.</p>
-<p>So we’ll continue to study what has been submitted. We’ll continue to consult closely with the EU, with our European allies, other partners, and when we have more to say we’ll share that.</p>
-<p><strong>QUESTION:</strong> Okay. Well, I mean, when you say what could be negotiated has been negotiated, that would suggest that this is it. That if Iran doesn’t say yes unreservedly to this text that it’s dead.</p>
-<p><strong>MR PRICE:</strong> Well, I – this will be up to the EU as the mediator and the arbiter to have a say on that question. But I will make the point that these are not simple issues. These are not issues that can be entertained or tabled with – without, for example, the consultations that we’ve had with the EU over the past several weeks, where the parties have had an opportunity to ask questions of the coordinator to seek additional clarity, to seek additional information, and that’s just because of the very complex and by definition complicated nature of the issues that are on the table. So &#8212;</p>
-<p><strong>QUESTION:</strong> But if what could be negotiated has already been negotiated, that – by definition that would imply that there is nothing left to negotiate and that if Iran wants to reopen any part of this, they’re out of luck.</p>
-<p><strong>MR PRICE:</strong> Broadly speaking, we agree with Mr. Borrell.</p>
-<p><strong>QUESTION:</strong> But what does that mean, that “what could be negotiated has been negotiated”? Does that mean that there is nothing &#8212;</p>
-<p><strong>MR PRICE:</strong> It means that &#8212;</p>
-<p><strong>QUESTION:</strong> &#8212; there’s no opportunity, no room for any further negotiation?</p>
-<p><strong>MR PRICE:</strong> It means that we have spent the past 16 months or so, since the spring of 2021, going over in exhausting detail through a process that has gone on in our estimation for far too long, far longer than it needs to have gone on. We have gone over the big issues, the issues that are at the core of the two key questions that we sought to find answers to starting in the spring of last year. On the one hand, the steps that Iran would need to take to resume its compliance with the JCPOA – that is to say, the steps that Iran would need to take to once again reimpose the verifiable, the permanent limits on its nuclear program – and on the other hand, the steps that the United States would need to be prepared to take in terms of sanctions relief on Iran’s nuclear program if Iran agreed to that proposition.</p>
-<p><strong>QUESTION:</strong> (Inaudible.)</p>
-<p><strong>MR PRICE:</strong> So the big issues have been discussed. They have been tabled. We believe they have been largely settled. That was the point of the EU &#8212;</p>
-<p><strong>QUESTION:</strong> Well, “largely settled” is not the same as “what could be negotiated has been negotiated.” So it’s a simple yes or no question; there’s a simple yes or no answer to this, I think. Unless there’s not. I mean, unless there is something more that you are willing to talk with the Iranians about. Has everything – is this the final offer? Is there nothing that can be changed about it? Is there anything left that you’re willing to negotiate?</p>
-<p><strong>MR PRICE:</strong> Well, this is the agreement – this is the text that the EU has put on the table that is substantially based on the March deal that has been on the table for several months now. But again, these are complex issues. These are not an uncomplicated – this is not an uncomplicated set of business. And so over the course of the past several weeks, for example, we have had an opportunity – all parties have had an opportunity to pose clarifying questions to elicit additional details.</p>
-<p>So I am not prepared to today offer any precise information on the details of the text that the European Union has put forward, the coordinator has put forward. Some of these questions are better directed at the European Union itself. For our part, we are reviewing the response that Iran provided to the EU that in turn was provided to us. Just as we’ve said, we’ve been conveying our feedback privately to the EU. We’ll continue to do that, but we’re not going to detail that feedback.</p>
-<p><strong>QUESTION:</strong> Last one. Is there anything that Iran is looking for now that you think falls outside the scope of the JCPOA? In other words, that there are – there were at the beginning what you would call extraneous issues that they wanted resolved. Are there any extraneous issues left? And whether there are or not, is there anything that Iran is still looking for that the administration believes that it cannot – can’t give?</p>
-<p><strong>MR PRICE: </strong>To answer that question, Matt, would require me to violate the cardinal rule of speaking to the text that is on the table or the Iranian response that has been provided to the EU and in turn provided to us. That’s just not something that I’m in a position to do today, but our message, I think, has been loud and clear. It has been heard by the Iranians that this negotiation is about one thing and about one thing only: it’s about the four corners of the JCPOA which is focused exclusively on Iran’s nuclear program, what Iran is permitted to do and in turn what it is required to do to demonstrate to the international community, including to international weapons inspectors, that it has permanent, verifiable limits in place on the extent of its nuclear program.</p>
-<p>Yes.</p>
-<p><strong>QUESTION: </strong>You are not going to give us any details about the text or Iran’s suggestions, but you always talk about being serious. You are always saying U.S. is very serious, and you were asking Iranian to be – to show seriousness. Knowing what is in Iran’s latest and final suggestions, do you evaluate that Iranian side is serious now? Can you tell us at least that one?</p>
-<p><strong>MR PRICE: </strong>I don’t want to prejudge that. I don’t want to offer a definitive answer in large part because we are still studying it. It will require some time to digest what has been provided to the EU and in turn what has been provided to us, but it is our hope that as we have now approached what should be the final stage of this that the Iranians will show – demonstrate that serious – seriousness of purpose that we have not consistently seen until now. I made the point just a moment ago, but we started this process in the spring of 2021. It is now nearly late summer of 2022.</p>
-<p>If all sides – if the Iranians had – had demonstrated a seriousness of purpose from the earliest days of this, we would have been able to achieve a mutual return to compliance with the JCPOA in relatively short order. It would have taken some time precisely because these are not simple issues. There are some challenging technical details that would need to be worked out, but there was no reason that we should be speaking to where we are today, August 16th of 2022. But again, as for what has been submitted within the past 12 or so hours, it’s something we’re taking a very close look at.</p>
-<p><strong>QUESTION: </strong>So &#8212;</p>
-<p><strong>MR PRICE: </strong>And when we have additional details to share, we will.</p>
-<p><strong>QUESTION: </strong>Are you chasing any deadlines at the moment to submit your final answer?</p>
-<p><strong>MR PRICE: </strong>The European Union – the coordinator has been very clear about their expectations. We’re not going to speak to those expectations, but we have been conveying our feedback regularly and consistently and privately to the EU.</p>
-<p><strong>QUESTION: </strong>Ned, I just &#8212;</p>
-<p><strong>MR PRICE: </strong>Yes.</p>
-<p><strong>QUESTION: </strong>&#8212; want to follow up on something that you said. So you were actually prepared to go back to the deal back when you started it. This whole tardiness or – is really the responsibility of the Iranians. They bear responsibility for not arriving at this deal as early as 16 months ago.</p>
-<p><strong>MR PRICE: </strong>We would not have embarked down this very long, this very windy, this very uncertain road were we – were we not &#8212;</p>
-<p><strong>QUESTION: </strong>(Off-mike.)</p>
-<p><strong>MR PRICE: </strong>&#8212; were we not prepared from the earliest days to resume compliance with the JCPOA. It wasn’t even after January 20th where we made that clear on the campaign trail. Then-candidate Biden made clear that he would seek the proposition of a mutual return to compliance with the JCPOA. We made that clear during the transition between administrations. And we made that clear very early on after the inauguration.</p>
-<p><strong>QUESTION: </strong>Ned, you have repeatedly said that Iranian – the Iranians kept adding extraneous demands or whatever they are, but that seems at least by all reports, by all accounts that Iran has dropped, let’s say, the demand for the lifting of the Revolutionary Guard off the terror list, they demand guarantees beyond this administration, and so on, for future administrations and so on. So what is there left? I mean, are you more optimistic today after looking at what the Iranians offered, their deal in the offing in the next few days?</p>
-<p><strong>MR PRICE: </strong>We don’t – and I – we’ve said this before. We don’t approach this through the lens or with pessimistic view or with an optimistic view in part because the stakes of this. We have to be clear-eyed precisely because of the stakes of this. This is a central challenge. There would be no greater challenge to our foreign policy, to our national security, to the collective security of the international community should Iran acquire a nuclear weapon. And so that is why we have maintained this clear-eyed, steady, principled, pragmatic focus on – at every turn of this diplomacy.</p>
-<p>When it comes to the FTO, the President similarly has been clear on that. The FTO designations and other sanctions on the IRGC are beyond the scope of the JCPOA. We have made that point repeatedly. That is certainly an extraneous issue. But, again, not going to detail what precisely we’ve seen in our studies so far of the Iranian response.</p>
-<p><strong>QUESTION: </strong>My last question on – are you expected to face opposition here at home with, let’s say, the Senate Foreign Relations Committee with Senator Menendez, Senator Cardin, and others? What if you arrive at a deal with the Iranians? Do you expect opposition here at home?</p>
-<p><strong>MR PRICE: </strong>Well, right now it’s a hypothetical so I wouldn’t want to entertain a hypothetical. I also wouldn’t want to speak for lawmakers, who, of course, are going to voice their opinions once they see what, if anything, results from this process. So not going to prejudge that.</p>
-<p>What I will say is that throughout this we have engaged regularly on an iterative basis with members of Congress, with their staffs, to make sure that they were apprised of the status of our efforts in Vienna, the status of our efforts in Doha, the status of our efforts with our allies and partners in Europe, the status of our efforts with our partners in the Gulf. So we have kept them regularly – and of course, our partners in Israel. So we have kept them regularly updated on the progress. We’ll continue to do that, regardless of the next turn of this process.</p>
-<p>The fact of the matter is though that the JCPOA, to our minds – and this is a point that we have reiterated in our briefings with members of Congress – remains the most effective means by which to contain, on a permanent and verifiable basis, Iran’s nuclear program. This is no longer a thought experiment. A couple years ago, a few years ago, one could, on at least a reasonable basis, make the claim that there is a more effective means by which to contain Iran’s nuclear program.</p>
-<p>At that time it was a thought experiment. If you distance yourself from the JCPOA through other diplomatic and various coercive means, you might be able to contain Iran’s nuclear program. There at least was a theory. For a while, it was the predominant theory within the last administration. I think the past several years, since May of 2018, have borne out the results of what is no longer a thought experiment. We’ve seen a world in which there is a JCPOA; we are living in a world in which there is not a JCPOA.</p>
-<p>I think most observers would like to get back to a point where Iran’s breakout time is not dangerously low, where we are not talking about weeks or less, where we’re talking about months – a world in which we once again have verifiable, permanent limits on Iran’s nuclear program with the various inspections and monitoring regimes that allow international weapons inspectors from the IAEA to verify that Iran is in compliance with the JCPOA, and more importantly that Iran is not pursuing a nuclear weapon.</p>
-<p>We don’t have that now. That is what we want. It is in our interests; it’s in the interests of our partners in Europe; it’s in the interests of our Israeli partners, our partners in the Gulf, and our partners around the world.</p>
-<p><strong>QUESTION:</strong> Afghanistan?</p>
-<p><strong>MR PRICE:</strong> Anything else on Iran?</p>
-<p>Yes, Daphne and then Gitte.</p>
-<p><strong>QUESTION:</strong> I know you said you’re regularly in touch with the EU on the response, but at what point do expect that you’ll have a formal response? And is there any discussion on Americans held in Iran amid all of this?</p>
-<p><strong>MR PRICE:</strong> So on your second question, we have continued to convey very clearly the priority we attach to the safety, the security, and ultimately the safe return of the Americans who are wrongfully, unjustly detained in Iran. In fact, today we’re marking another somber milestone. We’re marking the 250th – 200 and &#8212;</p>
-<p><strong>QUESTION:</strong> 2,500th.</p>
-<p><strong>MR PRICE:</strong> 2,500th – thank you – day in detention for Siamak Namazi, someone who, of course, has been wrongfully detained for years. The same is true for his father, for other Americans.</p>
-<p>Those efforts are ongoing. We’ve been clear throughout that we’re not tying the fates of American citizens to the fate of a proposition, namely a mutual return to compliance with the JCPOA that is far from certain. Because a mutual return to compliance has always been far from certain as a possibility, we want the return of our Americans to be a certainty. And so we’ve been careful not to tie these things directly together, but we have continued to – through every channel and through every avenue – to make clear the priority we attach to this and to seek to make progress on that.</p>
-<p>Remind me of your first question.</p>
-<p><strong>QUESTION:</strong> When you will have a formal response.</p>
-<p><strong>MR PRICE:</strong> I’m just not at a point to offer any prediction at the moment. What I can say with certainty is that we’ll continue to convey our feedback to the EU.</p>
-<p>Yes, Gitte.</p>
-<p><strong>QUESTION:</strong> Actually, my question was about – is about the dual citizens and with the case of Siamak Namazi, his 2,500th day in detention. When you say that the U.S. is not tying their fate to the JCPOA, why hasn’t there been any movement, progress in that regard, getting them released? How does this work? Does the U.S. administration make the first move, ask for – I don’t know – a discussion? Has Iran turned down any recent proposals to sit and talk about that?</p>
-<p><strong>MR PRICE:</strong> Well, in the first instance, that’s a question that’s much better directed towards Tehran. After all, it’s Tehran – it’s the Iranian regime – that has wrongfully held these Americans, these dual nationals, these other third-country nationals for, in some cases, years on an unjustifiable basis. Were it up to us, these Americans would have been home a long time ago.</p>
-<p>So I couldn’t speak to the thinking that may be ongoing in Tehran, but we have been clear that in our estimation these individuals are being held wrongfully, they’re being held unjustly, they’re being held as political pawns, presumably on the part of the Iranian regime to – in an effort to seek to exact leverage or some other concession. It is a practice that is abhorrent. It is a practice that we condemn anywhere and everywhere it takes place. It is a practice that, together with our allies and partners around the world, we are seeking to establish and ultimately to reinforce a norm against this practice and a norm that would require the international community to speak with one voice, to stand up in a united way against this practice, and to hold accountable those countries who would violate what should be an inviolable rule that human beings are not pawns, that individuals should not be wrongfully held for political gain, financial concessions, or for other unjust reasons. Unfortunately, it’s a practice that we see in far too many places around the world.</p>
-<p><strong>QUESTION:</strong> Afghanistan?</p>
-<p><strong>QUESTION:</strong> So why hasn’t there been any movement? Have – when was the last time, off the top of your head, that the U.S. tried to get talks in this regard going?</p>
-<p><strong>MR PRICE:</strong> Well, I will say a couple things. One, as you know, we have not been in direct discussions with the Iranian regime. That has not been our choice. We have said, across a range of issues, including the nuclear issue, that it would be more effective were we in a position to engage directly with Tehran so that we could table and discuss these complex issues directly without having to go through third parties. The same would be true for the Americans and the dual nationals who Iran holds unjustly. We would like to have these discussions in a – through a means by which that is more direct and more effective.</p>
-<p>But despite the obstacles that the regime has put up, we have made very clear the priority we attach to their prompt return. It is not something that we say one month, put aside for several months. This has been an ongoing, consistent effort on our part to convey that message very clearly to the Iranian regime.</p>
-<p><strong>QUESTION:</strong> Afghanistan?</p>
-<p><strong>MR PRICE:</strong> Anything else on Iran before we move on?</p>
-<p><strong>QUESTION:</strong> Yes, Iran please.</p>
-<p><strong>QUESTION:</strong> Iran.</p>
-<p><strong>QUESTION:</strong> I know you won’t – you don’t want to talk about their response and your response, but what was leaked so far that they are asking for guarantees. Are you willing to give them these guarantees or are you able to give them these guarantees? And I have also a follow-up, please.</p>
-<p><strong>MR PRICE:</strong> So again, I am not going to weigh in on what has been reported about an Iranian response that hasn’t been made public. What we’ve said – this goes back to last year, and you heard from President Biden and some of his colleagues in the – on the margins of the G20 last year, when President Biden met in Rome with our E3 – with his E3 counterparts. There was a joint statement that emanated from that meeting that made very clear that the United States sought to resume mutual compliance with the JCPOA and we would maintain that compliance with the JCPOA as long as Iran did the same. But when it come to other asks that the regime may or may not have made, that’s just not something I can weigh in on.</p>
-<p><strong>QUESTION:</strong> My second question. You said that – you’ve been saying this for a long time – that you believe the deal is the best way to prevent Iran from having nuclear. We have not – we are not there, and we’ve been in this situation for three – two years now. Isn’t the current status quo more than efficient for the U.S. than enforcing your sanctions?</p>
-<p><strong>MR PRICE:</strong> Sorry. Repeat the last part?</p>
-<p><strong>QUESTION:</strong> Is the current status quo that we are – we are in a status quo now. Is more – is it more than efficient for the U.S. than enforcing your sanctions since you are not able to revive the deal?</p>
-<p><strong>MR PRICE:</strong> Well, two successive administrations now, to count ours as well, has enforced and levied sanctions against Iran. Unfortunately, during that time Iran’s breakout time has only grown shorter and shorter. So if the option were between the status quo and the status quo namely being a position in which Iran’s breakout time could be measures in weeks or even shorter periods versus what we would be able to accrue on the basis of a deal that would be substantially similar to the proposal that was finalized in March, we would prefer to have those permanent, verifiable limits, and that verification and monitoring regime reimposed on Iran so that that breakout time once again extends so that it’s measured in months.</p>
-<p>I think the past several years has very clearly underscored the limitations that come with sanctions and sanctions alone. The last administration pursued a path of so-called maximum pressure. The fatal flaw of that maximum pressure regime is that the world was not united. It was the United States on one side of the table and the rest of the world – including Iran, in some ways – on the opposite side of the table.</p>
-<p><strong>QUESTION:</strong> Well, it wasn’t the entire international community.</p>
-<p><strong>MR PRICE:</strong> It was much of the international community. Since the earliest days of this administration, we have focused on once again restoring that unity among our European allies, with partners in the Middle East, to include Israel and to include our Gulf partners as well.</p>
-<p>And with that unity restored, we have been more effective in imposing costs and consequences on Iran, but even those costs and consequences have not been able to stall in a meaningful way Iran’s nuclear advancements. So we want to see Iran’s breakout time extended; we want to see permanent, verifiable restrictions reimposed on Iran; and we want to see that verification and monitoring regime once again imposed.</p>
-<p><strong>QUESTION:</strong> Afghanistan?</p>
-<p><strong>QUESTION:</strong> So will it not reach to a point that you will say that the deal is dead?</p>
-<p><strong>MR PRICE:</strong> The deal will be dead as soon as it is no longer in our national security interest to pursue. The point I just made in that admittedly long-winded answer to you is that the deal that has been on the table, at least – referring to the deal that’s been on the table since March – for us is a much more advantageous proposition than the status quo.</p>
-<p><strong>QUESTION:</strong> Afghanistan, please.</p>
-<p><strong>MR PRICE:</strong> One more on – a couple more on Iran and then we’ll move on.</p>
-<p><strong>QUESTION:</strong> The neighbor, Iran’s neighbor?</p>
-<p><strong>MR PRICE:</strong> And then we’ll – Iran, Iraq, and then &#8212;</p>
-<p><strong>QUESTION:</strong> Afghanistan.</p>
-<p><strong>MR PRICE:</strong> I promise we will get to Afghanistan, yes.</p>
-<p><strong>QUESTION:</strong> Thank you so much. There’s one more caveat here, which is the recent attacks against U.S. personnel, U.S. citizens. Since the ball is on your court, and not to drag you into hypotheticals, but if the investigations indeed prove that Iran was behind recent attacks against Rushdie or Alinejad and others, will that impact your response to it recently?</p>
-<p><strong>MR PRICE:</strong> There’s – there are ongoing investigations in certain cases, but there are some things that we already know. And the fundamental fact – what we have known, what we have always been clear-eyed about – is that Iran is a malign influence. Iran has malign influence in the region, and Iran’s malign influence in some ways extends well beyond the region.</p>
-<p>But in many ways, that is at the core of our desire to see Iran’s nuclear program limited in verifiable and permanent ways. Again, Iran would act with far greater impunity – would feel the ability, I should say, to act with far greater impunity – if it had what it could conceive as the shield of a nuclear weapons program. We are committed. President Biden has made a solemn commitment that Iran will never obtain a nuclear weapon.</p>
-<p>That in its own right is something that redounds to our national security, but it also would deprive Iran of the sense of impunity – greater sense of impunity – it would otherwise feel. Every challenge we face with Iran, whether it is its support for proxies, its support for terrorist groups, its ballistic missiles program, its malign cyber activities – every single one of those would be more difficult to confront were Iran to have a nuclear weapons program.</p>
-<p>Iraq. Anything else on Iran? One more? Okay.</p>
-<p><strong>QUESTION:</strong> Just – sorry – not to beat a dead horse here, but I mean, it’s been almost 500 days since these talks started. It’s a little – a couple days less, I guess. You’ve said repeatedly and other administration officials that they’re a few weeks away from having the capability to – their nuclear weapons breakout capability. I mean, several of your allies directly impacted in the region – Gulf, Israel – have voiced opposition to the deal. At home there’s bipartisan – significant bipartisan opposition to the deal.</p>
-<p>You’ve mentioned the administration believes this is still in the U.S.’s best national security interest. But I mean, to be fair, these are congressmen, congresswomen, members of Senate that are also – that have access to these classified briefings that you guys are providing them with, and they’re still not convinced. And so when you have all this opposition, I mean, does the administration see that everybody else opposed to this is wrong and you guys are right, first?</p>
-<p>And second, can the advances that Iran has made over these years, be it as a result of previous administration or the current policy – can any of these be reversed if a deal is in fact reached in these next couple days or weeks?</p>
-<p><strong>MR PRICE:</strong> So you put forward a number of premises. I would challenge several of them, but I’ll start with this one.</p>
-<p>A number of our partners who were, to put it mildly, not wild about the JCPOA in 2015 and 2016 have over the years changed their tune on the JCPOA. I would point to our partners in the Gulf. Special Envoy Malley has had a number of engagements with our Gulf partners. The Secretary has convened the GCC. Of course, President Biden recently attended a meeting of the GCC at the leaders level.</p>
-<p>And in recent months, we’ve seen in formal statements emanate from our Gulf partners their support for our efforts to achieve a mutual return to compliance with the JCPOA. And they support it not because it’s a foreign policy goal of this administration. They support it for the same reason that we’re pursuing it, because it is in our national security interest; it’s in turn in their national security interest to see to it that Iran is not able to obtain a nuclear weapon.</p>
-<p>We’ve seen senior officials within Israel, including its security establishment, make a very similar case, that it was a disastrous decision on the part of the last administration to walk away from the JCPOA and to make the case that the JCPOA is now the best alternative to the specter of an Iranian nuclear weapon.</p>
-<p>To your question on the various viewpoints we have here at home, look, it is not for me to speak to what we’ve heard from members of Congress or what we might hear from members of Congress – in part because it’s a hypothetical. We don’t have a deal; we may not get one. If we do arrive at one, we’ll let members of Congress form their own opinions. It is our responsibility to provide them with updates on the status of those discussions, to provide them with updates on the status of Iran’s nuclear advancements, precisely what Iran has been able to do since the last administration abandoned the JCPOA. Much of that is classified; some of that is not. And the part that is unclassified is well known to all of you in this room, and I’ve said it already a couple times. What once was a breakout time that could be measured in a year has now dwindled down to a breakout time that can be measured in weeks or less. The various underlying technical assessments are in some ways just as alarming, and I think you have heard members of Congress emerge from some of these briefings and make public statements pointing to the concern that they have owing to the advancements that Iran has been able to make in its nuclear program.</p>
-<p>So all throughout we have made very clear that we believe the best alternative to the status quo and certainly to the specter of an Iranian nuclear weapon is the JCPOA. There has always been in some ways an open invitation for anyone who thinks that there is a better approach to offer that approach. But consistently what we hear is the approach that has been tried since May of 2018 and that has demonstrably failed. This goes back to the point I made before: it’s no longer a thought experiment what would happen if we abandoned the JCPOA and tried an approach of so-called maximum pressure or if we mounted sanctions. We’ve tried that and we see the results.</p>
-<p><strong>QUESTION:</strong> Then why not go to the plan B that is already – I guess it should be in the back pocket.</p>
-<p><strong>MR PRICE:</strong> It’s – it’s something that we’ve &#8212;</p>
-<p><strong>QUESTION:</strong> It’s been almost 500 days now.</p>
-<p><strong>MR PRICE:</strong> It’s something that we’ve discussed with our allies and partners to a great extent. We absolutely will resort to that if the JCPOA proves not to be viable, if we get to a point where the deal that is on the table is not in our national security interests.</p>
-<p><strong>QUESTION:</strong> Can there – can – do you believe these advances &#8212;</p>
-<p><strong>QUESTION:</strong> (Inaudible), but can you – you talked about the countries that were quote/unquote “not wild about the JCPOA” in 2015 – 2014, 2015 having changed their tune.</p>
-<p><strong>MR PRICE:</strong> Mm-hmm.</p>
-<p><strong>QUESTION:</strong> Really? The Israeli security establishment and the members of the – in the GCC – sorry, where have they come out in support of this? (Inaudible.)</p>
-<p><strong>MR PRICE:</strong> I can point you to a public statement that emanated from Rob Malley’s engagement with the GCC I believe it was last year.</p>
-<p><strong>QUESTION:</strong> Can you point me to a statement from former Prime Minister Bennett or current Prime Minister &#8212;</p>
-<p><strong>MR PRICE: </strong>I said &#8212;</p>
-<p><strong>QUESTION:</strong> &#8212; Lapid in support &#8212;</p>
-<p><strong>MR PRICE: </strong>&#8212; of –</p>
-<p><strong>QUESTION: </strong>&#8212; of this? Can you point me to a statement from the GCC &#8212;</p>
-<p><strong>MR PRICE:</strong> Matt, but that’s not what I said. That’s not what I said.</p>
-<p><strong>QUESTION:</strong> &#8212; from any member of the GCC that is more than the tepid acceptance of the JCPOA in 2015 than they offered when they were really opposed and they just kind of went along with it as a favor to president – then President Obama?</p>
-<p><strong>MR PRICE:</strong> I’ll let their statement speak for itself, but &#8212;</p>
-<p><strong>QUESTION:</strong> The Israeli security establishment, the Obama administration cited similar – like, oh, behind the scenes, the Israelis really think this is a great deal. But the prime minister, the Israeli prime minister at the time, was vehemently opposed to it. And I don’t – I’m not sure you would say the Israeli – the elected leadership of Israeli is in support of it.</p>
-<p><strong>MR PRICE:</strong> I didn’t say that, though. I didn’t say that.</p>
-<p><strong>QUESTION:</strong> Well, you’re trying – you said the countries that were not wild about &#8212;</p>
-<p><strong>MR PRICE: </strong>No, I said &#8212;</p>
-<p><strong>QUESTION: </strong>&#8212; it had changed their tune.</p>
-<p><strong>MR PRICE:</strong> I was &#8212;</p>
-<p><strong>QUESTION:</strong> And in fact, they haven’t changed their tune. The Israeli Government is still opposed to it, and the Saudis, the Emiratis, and the other countries of the Gulf, while they may have said, “Eh, okay,” the same &#8212;</p>
-<p><strong>MR PRICE:</strong> I’m not sure those are the precise words that are in their statement, but &#8212;</p>
-<p><strong>QUESTION:</strong> It’s the same tepid, lukewarm support that they offered back in 2015.</p>
-<p><strong>MR PRICE:</strong> Well, I will &#8212;</p>
-<p><strong>QUESTION:</strong> So let’s not – listen, don’t try to make it seem like &#8212;</p>
-<p><strong>MR PRICE: </strong>Well, you’re &#8212;</p>
-<p><strong>QUESTION: </strong>&#8212; everyone in the world is in support of this.</p>
-<p><strong>MR PRICE:</strong> &#8212; you’re putting words in my mouth that I didn’t say in terms of pointing to specific leaders. Of course, I did not say that. And you have acknowledged that there are statements out there from our GCC partners. So we’ll leave that there.</p>
-<p>Iraq.</p>
-<p><strong>QUESTION:</strong> One more Iran, please.</p>
-<p><strong>QUESTION:</strong> Although (inaudible) all the GCC countries seem to be buddying up to Iran trying to reinvigorate diplomatic relations and so on, overtly and covertly. So the Kuwaiti ambassador just turned in his, I guess, papers to Raisi and so on. So we see a lot of diplomatic movement. Maybe they are doing it their own, perhaps &#8212;</p>
-<p><strong>MR PRICE:</strong> We see efforts. The way we see it, these are efforts to de-escalate tensions in the region, but our Gulf partners know that there would be – nothing would de-escalate tensions the way that an Iran that is permanently and verifiably barred from obtaining a nuclear weapon would.</p>
-<p>Iraq.</p>
-<p><strong>QUESTION: </strong>Iraq. Thank you.</p>
-<p><strong>MR PRICE: </strong>Yes.</p>
-<p><strong>QUESTION: </strong>So I wanted &#8212;</p>
-<p><strong>QUESTION: </strong>Can I follow up Iran one more time, please? Yes.</p>
-<p><strong>MR PRICE: </strong>Okay.</p>
-<p><strong>QUESTION: </strong>Thank you. Iran and North Korea, they cooperate nuclear programs. Iran also exported their technology to North Korea. How did you assess Iran and North Korea’s cooperations nuclear?</p>
-<p><strong>MR PRICE: </strong><a id="post-369470-IranNorthKorea"></a>Well, we’ve released information on this. Some of this information has been reported publicly as well. It’s concerning to see two of the most acute proliferation threats the world faces: the DPRK, a regime that has, of course, already a nuclear weapons program, and Iran, a regime that has advanced its nuclear weapons program in a way – excuse me – its nuclear program in a way that is of concern to us. So any cooperation between countries that have consistently and unapologetically flouted multiple UN Security Council resolutions, the international norms, who have engaged in malign and malicious behavior both in their respective regions and around the world – that’s of course a concern to us.</p>
-<p><strong>QUESTION: </strong>One more in Russia. Russian foreign ministry officials who recently met with the North Korea ambassador to Russia announced that Russia was sending North Korean constructor workers to reconstruction project in the Donetsk and Luhansk regions. My question is: The work is still going on. Can Russia decide on its own reconstruction project?</p>
-<p><strong>MR PRICE: </strong><a id="post-369470-Ukraine"></a>Donetsk and Luhansk are within the sovereign territory of the country of Ukraine. It is up to the Government of Ukraine, it’s up to the people of Ukraine to determine the individuals who should be there taking part in reconstruction projects, not any other countries.</p>
-<p><strong>QUESTION: </strong>Afghanistan?</p>
-<p><strong>MR PRICE: </strong>Iraq.</p>
-<p><strong>QUESTION: </strong>On Iraq, I want to revisit &#8212;</p>
-<p><strong>QUESTION: </strong>Afghanistan.</p>
-<p><strong>QUESTION: </strong>&#8212; a question that I asked yesterday about a letter from the Foreign Relations Committee in the Senate. They do ask the Secretary of State to urgently engage the Kurdistan Regional Government and Iraqi Government to resolve the oil and gas dispute there. Do you guys see the same kind of urgency and what prevents you from engaging with those governments? Just busy or is there something else that prevents you from engaging?</p>
-<p><strong>MR PRICE: </strong>So not in a position to speak to any congressional correspondence. That’s just a rule we have as a rule of thumb. <a id="post-369470-Iraq"></a>But we have been and we encourage the parties to determine a way forward that supports existing and future investment and advances the interests of the Iraqi people, including those of the Kurdistan region. We maintain – to your question – a robust formal and informal dialogue with the Iraqi Government to improve bilateral trade, to increase transparency, to counter corruption, to encourage economic reforms, to level the playing field for U.S. companies as well. And with that support, U.S. companies have been successful in competing for aviation, for energy, and agricultural deals worth billions of dollars. So we have been engaging with the central government in Baghdad. We have been engaging with our partners in the Kurdistan region as well.</p>
-<p><strong>QUESTION: </strong>But the engagement that you’ve had, does it – the letter – going back to the letter – does kind of indicate that the interest or the investment of U.S. companies is also being jeopardized by this dispute between Baghdad and Erbil. Obviously, the engagement that you’ve had so far hasn’t really helped resolving those disputes. Do you share the same concern on the investment that – over $300 million in energy sector?</p>
-<p><strong>MR PRICE: </strong>Well, any disputes between Bagdad and Erbil would be disputes between Bagdad and Erbil. We can play – of course play a role to encourage dialogue, to encourage the central government, to encourage Kurdish government officials to resolve those disputes in a way that is constructive and effective, and that’s what we’ve sought to do. We have a number of interests when it comes to Iraq. We have a number of interests when it comes to specifically within Kurdish territory as well. Any dispute between Bagdad and Erbil has the potential to set back those interests and interests that we often do share with the people of Iraq and the Kurdish people as well. So we hope to see them resolved.</p>
-<p><strong>QUESTION: </strong>And then one more. The letter also does say that senators believe that the Iraqi oil ministry is applying the recent Supreme Court’s ruling selectively on U.S. companies. Is that something that you guys share that view?</p>
-<p><strong>MR PRICE: </strong>I’m not in a position to confirm those allegations, but we have an interest around the world – and this of course includes in Iraq – in seeing a level playing field for American companies. We believe in competition, but we believe that competition has to take place with rules of the road, rules of the game that are clearly defined in a level – in a playing field that is very clearly level. Whenever we see that not the case, we seek to engage to correct that.</p>
-<p><strong>QUESTION: </strong>But that is the question, though: Do you see in Iraq as being a level playing field for U.S. companies?</p>
-<p><strong>MR PRICE: </strong>Again, U.S. companies have been in a position to win contracts worth billions of dollars. We have been engaging with our Iraqi partners, with our Kurdish partners to make sure that that level – that that playing field is level.</p>
-<p>Nazira.</p>
-<p><strong>QUESTION:</strong> Thank you very much. Three question. I’m surprised. One is that Tom West recently has said United State will not support the Afghan central bank anytime soon. What does that mean for Afghan economy? This is the first question.</p>
-<p>The second question is Afghan people are still left behind in Afghanistan after Ayman al-Zawahiri is killed. Do you think that U.S. and Afghanistan relationship with the Taliban is still the same? Is still Afghan people can leave Afghanistan?</p>
-<p>And also there are so many singer, Afghan singer, the Taliban destroyed their equipment. They try to leave Afghanistan; they would like to know about U.S. policy and U.S. new program about them.</p>
-<p><strong>MR PRICE:</strong> Great. <a id="post-369470-Afghanistan"></a>So on your first question, I just want to be very clear that the preservation of the $3.5 billion in Afghan central bank reserves – those funds were preserved for the benefit of the Afghan people. What we are focused on right now are the ongoing efforts to enable those funds, the $3.5 billion in licensed Afghan central bank reserves, to be used for the benefit of the Afghan people. And we’re seeking to find the best mechanism to ensure that those funds can go to the Afghan people in a way that doesn’t risk their diversion from the Taliban or other forces, including to potentially terrorist groups or terrorist actors.</p>
-<p>The point Tom West was making is that, owing for the risks I just alluded to, we do not see recapitalization of the Afghan central bank as a near-term option. We’ve engaged Afghan technocrats with the central bank for many months regarding measures to enhance the country’s macroeconomic stability, but we don’t at the present believe that institution, the Afghan central bank, has the safeguards and monitoring in place to manage these – this level of assets responsibly.</p>
-<p>And needless to say, to your second question, the Taliban sheltering of now-deceased al-Qaida leader Ayman al-Zawahiri reinforces the deep concerns we have regarding the potential risk of diversion of funds to terrorist groups. So these discussions are ongoing. We want to see these funds into the hands, into the pockets of the Afghan people as quickly and effectively as we can manage, and we’re continuing to work with international partners to devise a way to do that.</p>
-<p>On your second question regarding our relationship with the Taliban, there’s no question – well, let me stipulate. We have reason to believe, very good reason to believe that members of the Haqqani Taliban Network were witting of Ayman al-Zawahiri’s presence in Kabul. Certain members of this network took steps to actively shelter him. Of course that is going to have implications for our engagement with the Taliban. I just alluded to one of them. We’re not dismissing that – far from it – as we think about potential options for the $3.5 billion in licensed Afghan reserves.</p>
-<p>But we’re thinking through any potential broader implications for our engagement with the Taliban, and we’re doing that for a very simple reason. We’ve always said that our relationship with the Taliban will be predicated on the Taliban’s ability or willingness to comply with the commitments that the Taliban has made to the international community, to the United States, but most importantly to the people of Afghanistan. And there are areas where very clearly the Taliban has been unable or unwilling to comply with those commitments.</p>
-<p>Counterterrorism has been one of them, and the fact that the Taliban – members of the Haqqani Taliban Network were witting of and actively sheltering Zawahiri I think is an egregious violation not only of those commitments that the Taliban has made but the underlying U.S.-Taliban agreement.</p>
-<p>The fact that the Taliban has failed to stand up for, to protect the rights of all of the people of Afghanistan – especially the women, the girls, the religious minorities, ethnic minorities – that, of course, is a failure on the part of the Taliban as well. The fact that the Taliban has failed to put together a government that represents the Afghan people in all of its diversity – that is a failure. So we are taking a close look at all of these considerations that, of course, will have implications for our engagement with the Taliban.</p>
-<p>When it comes to Afghanistan’s culture and the singers that you referenced, there are a number of – well, one, we are doing everything we can to protect and to reinforce the rights of the people of Afghanistan who remain in Afghanistan. And in every engagement we have with the Taliban, human rights is at the very top of that agenda, and that includes, of course, the human rights of women, of girls, of Afghanistan’s minorities. Our humanitarian assistance is part and parcel of this. We have continued to lead the world in the level of humanitarian funding that we’ve provided directly to the Afghan people – more than three-quarters of a billion dollars since September of last year. We’ve provided 150 – announced $150 million some odd alone just last week in additional assistance for the people of Afghanistan. So we’ll continue to stand by them as a humanitarian donor and the world’s largest humanitarian donor.</p>
-<p>There are some individuals, however, who may seek to depart Afghanistan. That, by the way, is another one of the commitments that the Taliban has made, the commitment to safe passage, to allow those who wish to depart the country the ability to transit freely, to depart freely. We have also stressed that with the Taliban. There are a number of avenues that individuals like the ones you mentioned – singers, other cultural icons – could seek to pursue to leave the country. There of course is the P-1 – so-called P-1 category within the U.S. Refugee Admissions Program that individuals such as those could pursue. But our goal is to protect and to promote the rights of all Afghans who remain in Afghanistan and to continue in our efforts to facilitate the departure of those who wish to leave.</p>
-<p><strong>QUESTION:</strong> Thank you very much. Thank you.</p>
-<p><strong>QUESTION: </strong>Ned, on the 3.5 billion, your answers to this and other people’s answers to this seem to suggest that there was a point over – in the past year, after the withdrawal, that recapitalization of the bank with this money was a serious consideration. Is that in fact correct?</p>
-<p><strong>MR PRICE: </strong>Matt, I think that owes to the fact that when we’re talking about Afghan central bank funds – on paper, at least – the most effective means by which to reinfuse these funds back into the Afghan economy would be to recapitalize the Afghan central bank. And that’s where they &#8212;</p>
-<p><strong>QUESTION: </strong>Okay, but when did – when did that stop becoming a realistic thing?</p>
-<p><strong>MR PRICE: </strong>We &#8212;</p>
-<p><strong>QUESTION: </strong>When you got the intel about &#8212;</p>
-<p><strong>MR PRICE: </strong>We’ve had these discussions with Afghan technocrats over a matter of months. Not going to detail exactly &#8212;</p>
-<p><strong>QUESTION: </strong>Okay, well, so you’re saying that, in fact, there was a serious &#8212;</p>
-<p><strong>MR PRICE: </strong>No, I’m not &#8212;</p>
-<p><strong>QUESTION: </strong>&#8212; there was serious consideration being given to giving the &#8212;</p>
-<p><strong>MR PRICE: </strong>I’m not – I’m not saying that. I’m saying that we’ve &#8212;</p>
-<p><strong>QUESTION: </strong>&#8212; Afghan central bank $3.5 billion?</p>
-<p><strong>MR PRICE: </strong>I’m saying that we’ve looked at all &#8212;</p>
-<p><strong>QUESTION: </strong>When was it – when was it that it was a possibility that you could actually – that you would actually send this money to the Afghan central bank?</p>
-<p><strong>MR PRICE: </strong>I’m – Matt, what I’ve said is that we’ve looked at all plausible options. There are some options on paper that may seem far more attractive than they would in practice.</p>
-<p><strong>QUESTION: </strong>When was it – when was it an option? If you’re saying it’s not an option now, I’d just like to know when, because I’m not sure that it ever was a realistic option.</p>
-<p><strong>MR PRICE: </strong>Again &#8212;</p>
-<p><strong>QUESTION: </strong>And I don’t think it was ever really seriously considered.</p>
-<p><strong>MR PRICE: </strong>I’m not going &#8212;</p>
-<p><strong>QUESTION: </strong>Was it?</p>
-<p><strong>MR PRICE: </strong>I’m not going to detail &#8212;</p>
-<p><strong>QUESTION: </strong>All right.</p>
-<p><strong>MR PRICE: </strong>&#8212; the private conversations we’ve had with Afghans technocrats.</p>
-<p><strong>QUESTION: </strong>Secondly – and I apologize; I should have mentioned this to the press office earlier – but do you have any kind of update on the status of the Afghan refugees who are in Kosovo now, who were sent there to get vetted? I mean, originally it was the Kosovars said you can have a year for these people; it’s been extended, I believe. But what’s going on with that? And if you don’t have the answer, if someone could get me &#8212;</p>
-<p><strong>MR PRICE: </strong>We’ll see if there’s any more information to provide, but the last I checked, there is a small number that is still there who are undergoing additional vetting. We’ve been able to clear a number of them already. But again, each vetting process is done on a case-by-case basis, and that’s ongoing for those who remain there.</p>
-<p><strong>QUESTION: </strong>Can we do Turkey, please?</p>
-<p><strong>QUESTION: </strong>On Afghanistan?</p>
-<p><strong>MR PRICE: </strong>Afghanistan? Yes.</p>
-<p><strong>QUESTION: </strong>Quickly, on the Afghans still looking to fight for SIVs, is there any consideration to open up new so-called lily pad sites beyond the ones that – for example at UAE you’ve got several thousand of Afghans who are still waiting for – to be processed for the SIV application. So the lily pads is the first question. And then secondly, is it correct to say that the IOM contract in the UAE expires in September, therefore it would go back to normal U.S. consulate processing of visas, and that UAE site for processing visas for Afghans will no longer be there from September?</p>
-<p><strong>MR PRICE: </strong>So for the specifics of the IOM contract, I would need to refer you to IOM for that. If we have anything to share, we can. But to your broader question, we have taken a number of steps, as I detailed in some – in some detail yesterday, to expedite the SIV processing. This is – these are steps that started almost as soon as this administration set foot in office, and you look at the metrics that we’ve been able to achieve. You see that progress reflected, and I’ll give you just one. Between January 1st of 2021 and June 30th of 2022, the average processing time for the chief of mission review has decreased from 883 days to 82 days. That is more than tenfold.</p>
-<p><strong>QUESTION: </strong>But my question was just if there would be – if there would be consideration in the future for more lily pad sites to be opened up to help process the Afghans who are still in Afghanistan to leave the country.</p>
-<p><strong>MR PRICE: </strong>So my understanding at the moment is that lily pad sites are not a limiting factor in terms of the number of Afghan SIVs that we are in a position to process. As we have announced on several occasions now, we’re always looking at the totality of that process, a process that was defined by Congress, involving multiple departments and agencies, to see if there are ways that we can streamline that, either within the Department of State or by working with our interagency partners. If there are, we will pursue that, and I think that fact is borne out by the very idea that we’ve been able to cut that processing time by more than tenfold.</p>
-<p><strong>QUESTION:</strong> Thank you.</p>
-<p><strong>MR PRICE:</strong> Let me move around.</p>
-<p>Yes, sir.</p>
-<p><strong>QUESTION:</strong> Thank you so much. I appreciate it. So the Turkish defense ministry confirmed today that they are moving forward with the second regiment of S-400s. I realize the contract had previously been signed, but that is still a deliberate decision on their part to move forward with that. On top of that, Russia is saying that they’ve also reached an agreement to localize production of certain components of the S-400 within Turkey. I’m wondering if I could get a reaction to both those developments. And does that change the Biden administration’s willingness to move forward with the F-16 deal with Turkey? Thank you.</p>
-<p><strong>MR PRICE:</strong> Well, number one, my understanding is that these reports emerged in TASS.</p>
-<p><strong>QUESTION:</strong> Yes, but the Turkish defense ministry has said that at least the second regiment of S-400s will be coming in response to that, even though it wasn’t a new contract that they signed.</p>
-<p><strong>MR PRICE:</strong> So I think there is some – at least some question or complexity regarding this issue. We’ve seen these reports that first emerged in TASS. <a id="post-369470-TurkeyRussia"></a>We’re not aware of any new developments on this matter. Our position on Turkey’s purchase of the S-400 is well known, and we’d refer you to the Turkish Government to speak to their defense procurement plans.</p>
-<p>But the point we have consistently made across the board is that Russia’s brutal and unjustified war against Ukraine makes it vital, now more than ever in some ways, that all countries avoid transactions with Russia’s defense sector. It puts them at risk of sanctions.</p>
-<p><strong>QUESTION:</strong> But assuming they move forward with the second regiment of the S-400s, which they have said they will, that doesn’t change the calculus on the F-16 sale?</p>
-<p><strong>MR PRICE:</strong> Well, of course, we’ll have to wait and see what happens, but we are not aware of any new developments on this matter and so would refer you to Turkish authorities for the time being to speak to their plans.</p>
-<p><strong>QUESTION:</strong> Just a follow-up on that.</p>
-<p><strong>MR PRICE:</strong> Let me move around. (Inaudible)</p>
-<p><strong>QUESTION:</strong> Sorry, just to go back to Afghan central bank funds. The last conversation the department had on releasing those or potentially releasing those funds involving a mechanism happened in between the authorization of the strike that killed Zawahiri and the strike actually happening. Just wondering if you could explain that timeline a little bit more.</p>
-<p><strong>MR PRICE:</strong> Are you referring to Tom West’s engagement in Tashkent?</p>
-<p><strong>QUESTION:</strong> Yes. On July 27th.</p>
-<p><strong>MR PRICE:</strong> So Tom West did meet in Tashkent. <a id="post-369470-Afghan2"></a>That was the last face-to-face engagement with the Taliban that we’ve had since the strike on Zawahiri. Of course, at the time, the strike on Zawahiri had not taken place. You can understand, I think, the secrecy with which those impending plans were held within the U.S. Government. It’s not something that we discussed with the Taliban, of course, beforehand.</p>
-<p>But in the aftermath of that strike and as the presence of Zawahiri became known within Kabul, the fact that senior members of the Haqqani Taliban Network were witting of it and actively sheltered him, that of course has featured into our thinking. We’re still considering the implications of that. And it reinforces the idea that the Taliban heretofore has not been willing or able to comply with the commitments it’s made to its own people.</p>
-<p>Yes.</p>
-<p><strong>QUESTION:</strong> Yeah. On China, after Speaker Pelosi’s visit, China fired five missiles into Japan’s exclusive economic zone and claimed that there was no Japanese EEZ that was recognized by China because Japan had failed to negotiate its boundaries. Does the U.S. have a reaction to China’s statement about that? And does the U.S. believe that China’s actions were a violation of the UN Convention on the Law of the Sea?</p>
-<p><strong>MR PRICE:</strong> <a id="post-369470-Japan"></a>I will defer to our Japanese allies. I know they have made clear that several of those ballistic missiles fell in close proximity to their territory. The point that we have made is that our commitment to the defense of our allies in the Indo-Pacific and around the world is ironclad. We have a commitment and we will be unwavering in standing with our Japanese allies in the face of intimidation or potential threats.</p>
-<p><strong>QUESTION:</strong> Can I follow up on Japan?</p>
-<p><strong>QUESTION:</strong> For the China, for China issues. China recently announced that sanctions on seven U.S. delegate after Speaker Pelosi’s visit to Taiwan. Can you verify their names? What is – who is the seven delegate?</p>
-<p><strong>MR PRICE:</strong> <a id="post-369470-China"></a>That’s a question for Beijing. It’s not a question for us. Any reaction to the peaceful visit of a member of Congress – in this case, the Speaker of the House – any reaction along those lines is an overreaction. As we’ve said, members of Congress have every right to visit Taiwan. Members of Congress have done so for decades. A previous speaker of the House has visited Taiwan. Congressional delegations have been to Taiwan many times this year, more than 10 times this year.</p>
-<p><strong>QUESTION:</strong> But does that mean now that you’re ready to say that their response to the Markey delegation visit is also an overreaction?</p>
-<p><strong>MR PRICE:</strong> Matt, I’m not sure that Beijing has made very clear that this is our response to the Speaker, this is our response to Representative Markey.</p>
-<p><strong>QUESTION:</strong> Well, I mean, as they come – there’s timing.</p>
-<p><strong>MR PRICE:</strong> So far be it from to – I will leave it to Beijing to speak to its response.</p>
-<p><strong>QUESTION:</strong> (Inaudible) yesterday Chinese Government said that they also – they – all of the sanctions already on Pelosi’s families and relatives. But this is additional one yesterday. So I think State Department verified this was – name of – you cannot verify that &#8212;</p>
-<p><strong>MR PRICE:</strong> We are not in a position to verify sanctions that other countries have imposed on Americans. It would be the responsibility of those countries to detail any targets who may be sanctioned under their own authorities.</p>
-<p>Yes.</p>
-<p><strong>QUESTION: </strong>Yes, thanks, Ned. Moving on to another continent – Africa – two questions. One, what is the U.S. reaction to the elections in Kenya which – the president-elect, and it’s contested by the challenger, and the situation is pretty troublesome. And do you have any direct contacts with the Kenyans at some level on this issue? Have you conveyed any concerns or what have you?</p>
-<p>And then the second question – unrelated – is Mali. The French troops – the last French troops just left Mali, and as everyone knows the situation in the whole Sahel is pretty bad with al-Qaida and the Islamic State. I know there are talks, there’s a presence and all that, but is the U.S. willing to substantially step up its presence and implication in the Sahel as a general question?</p>
-<p><strong>MR PRICE: </strong><a id="post-369470-Kenya"></a>To your first question on Kenya – the Independent Electoral and Boundaries Commission chair yesterday, of course, declared that William Ruto as the winner of the Kenyan Presidential Election. Going forward, we urge all parties to work together to peacefully resolve any remaining concerns about the election through the existing dispute resolution mechanisms. And we ask all political parties’ leaders to continue to urge their supporters to remain peaceful and to refrain from violence during the electoral process.</p>
-<p>Our embassy in Nairobi has been in regular contact with their counterparts in the Kenyan Government primarily to underscore that core message – that core message of calm and patience. Secretary Blinken spoke to President Kenyatta on Sunday. He spoke to him for two primary reasons: one was to provide him a debrief of the Secretary’s travel in South Africa and the DRC and Rwanda as well; but also to underscore the importance of calm and patience as the electoral process continues within Kenya. So we will continue to be in close touch with our Kenyan partners, and we hope to see that calm and patience prevail.</p>
-<p><a id="post-369470-Mali"></a> When it comes to Mali and the Sahel more broadly, our approach to the region is one that recognizes that there are a number of shared threats that emanate from the Sahel, including the threat of violent extremism, the threat of terrorism from groups that have been able to take advantage of the vacuum that has emerged within Mali and within the region more broadly in recent years. We deeply appreciate the cooperation and the coordination we’ve been able to achieve with our French partners.</p>
-<p>We made very clear – we’ve made very clear that we value the role that they have played in the region. That cooperation, that coordination role will continue. And we see the value of working by, with, and through partners. That includes partners on the ground where applicable, but also our partners and allies more broadly. And of course, over the years we’ve worked very closely with France on matters pertaining to the Sahel, and I expect that will continue.</p>
-<p>I’ll take a couple final questions. Abby.</p>
-<p><strong>QUESTION: </strong>Can you share the latest on U.S. communication with the Japanese Government on incarcerated American Lieutenant Ridge Alkonis? Is U.S. Ambassador Rahm Emanuel engaged in those efforts? And do you believe he’s received a fair trial?</p>
-<p><strong>MR PRICE: </strong><a id="post-369470-Japan2"></a>Well, this was a tragic event that resulted in the loss of two precious lives. It’s caused tremendous heartache for all involved. We’re continuing to monitor the situation with the Department of Defense and our embassy in Tokyo to explore all options for finding a successful resolution that is consistent with U.S. law, with Japanese law, as well as with existing treaties. To your question, Ambassador Emanuel has spoken with the Alkonis family. He’s spoken with members of Congress, with his U.S. military counterparts, and with Japanese Government officials. Department of State officials here in Washington have also been in touch with their Japanese counterparts at the Japanese embassy here, and the embassy in Tokyo is coordinating with the Department of Defense to provide all appropriate assistance.</p>
-<p>Anyone – Said.</p>
-<p><strong>QUESTION: </strong>Sure. I want to ask you about the Palestinian issue – I mean, there’s so much that’s happened – but that would restrict my question to the issue of human rights. Now, last year, the Human Rights Council of the United Nations established an ongoing international Commission of Inquiry that – to look into Israeli abuses, constant abuses – I mean, one does not know where to begin. They issued a letter where they – basically, they blasted you and the Israelis for constantly being in the way of having any real substantive investigations of Israeli’s human right abuses of Palestinians. And my question to you: When will the United States put its weight behind a real investigation of human rights abuses by Israel against the Palestinians?</p>
-<p><strong>MR PRICE: </strong><a id="post-369470-IsPal"></a>Said, you know that we stand for – stand up for human rights around the world, but in this case, we do oppose the open-ended, biased Commission of Inquiry that targets Israel and only Israel. We made that clear upon the release of the Commission of Inquiry’s report earlier this year. We made that clear upon the creation of the commission last year as well.</p>
-<p>We approach the situation in Israel and Gaza with a clear focus, one of de-escalation, and one of providing humanitarian relief, especially to those who so desperately need it in – especially in Gaza. In all of our efforts, were committed to working with other members of the international community over the longer term to create the conditions for a lasting and sustainable peace.</p>
-<p>We’ll support actions in the UN that bring the parties together and promote peace and stability. Our issue has been that the Commission of Inquiry does not do that. As I said, it is biased; it is one-sided. Israel is the only standing agenda item on – at the Human Rights Commission. It’s why we have opposed this Commission of Inquiry and the Human Rights Committee’s undue focus on Israel.</p>
-<p><strong>QUESTION: </strong>So if they had countries like Rwanda and maybe some other place, or Brunei or whatever, you would be fine with that?</p>
-<p><strong>MR PRICE: </strong>We would want to see that any effort is done in a way that is unbiased, that is untarnished by politics, and that is really at the heart of the mandate of the Human Rights Committee. There is a reason we first re-engaged with and later rejoined the HRC – because we believe that the promise that the HRC has is tremendous. When at its best, it can be a defender, it can be a promoter of human rights around the world.</p>
-<p>I think everyone in this room, however, knows that the Human Rights Committee has rarely lived up to that promise. One of the reasons why we are back on the committee is to do all we can to use our influence with our allies and partners to see to it that its agenda is appropriate, to see to it that its efforts are unbiased and untarnished by politics.</p>
-<p><strong>QUESTION: </strong>Last week, dozen – more than a dozen – 16 Palestinian children were killed in the attacks on Gaza. How do you ever expect that such horrible – terrifically horrible – crimes ever investigated? How would you go about investigating such a thing? I mean, the UN keeps saying – Michelle Bachelet issued a big statement last week. You guys just would not dare.</p>
-<p><strong>MR PRICE: </strong>Again, Said, our focus is on de-escalation. We want to see the conditions that undergird the violence that we’ve seen, including recently the rocket fire from Gaza, and in turn &#8212;</p>
-<p><strong>QUESTION: </strong>That really have killed no one. I mean, I’m not condoning it in any way. They are – they targeted probably civilian areas. But as a result, none were killed.</p>
-<p><strong>MR PRICE: </strong>These are &#8212;</p>
-<p><strong>QUESTION: </strong>Not like the Israel attacks that killed dozens of Palestinian civilians.</p>
-<p><strong>MR PRICE: </strong>These are indiscriminate rocket fire from Gaza that in – over the course of recent months, and especially, as you recall too well, last May and June, killed civilians – certainly killed civilians, including children inside Israel. Of course, we don’t want to see any civilians under threat, whether it’s from terrorist attacks or reprisals that are done in the name of self-defense. That’s why we focused on de-escalating the situation and finding a longer-term, sustainable path to create a negotiated peace between the parties.</p>
-<p>I have gone on for far too long, so let me just take one more question.</p>
-<p><strong>QUESTION: </strong>On this – the ship that was carrying grain, the inaugural ship left Odesa under the UN-brokered deal. It’s been spotted in Syria. Sources have told Reuters, I believe, that they are unloading from the ship. Do you have any comment on that?</p>
-<p><strong>MR PRICE: </strong><a id="post-369470-Ukraine2"></a>Well, we’re aware of reports that the ship, the <em>Razoni</em>, that its cargo was sold to another buyer and that the ship is now in the vicinity of the Syrian port of Tartus. We, of course, don’t determine who buys the grain shipments or their final destinations. What matters most to us are a couple things: one, that Ukraine is appropriately compensated for the grain, the food stuff, for the crops that it is in this case providing; and that the food gets to where it is needed most.</p>
-<p>We continue to welcome the departure of vessels from Ukraine’s Black Sea ports, allowing Ukraine’s farmers to once again supply the world with grain. This is one ship of more than 20 that have left the Black Sea ports. The vast majority of those have cleared the inspection station and are in route to ports around the world. We want to see that continue.</p>
-<p><strong>QUESTION: </strong>One more on Ukraine?</p>
-<p><strong>QUESTION: </strong>Ukraine?</p>
-<p><strong>QUESTION: </strong>I have one more on Russia.</p>
-<p><strong>MR PRICE: </strong>Abby.</p>
-<p><strong>QUESTION: </strong>I know this happened last week, but given you weren’t at the podium, do you have any – how concerned is the U.S. about Russia suspending inspections as part of the New START Treaty, especially given that they haven’t taken place since 2020 due to COVID?</p>
-<p><strong>MR PRICE:</strong> So we are committed to implementation of the New START Treaty. We have made the point that New START and its place in the global nonproliferation regime is just as important today and in some ways even more important than it was at its signing. We have to work together to reduce the risk of an arms race or nuclear escalation. We’re keeping discussions between the parties concerning treaty implementation confidential. For our part, we had paused inspection activity due to the COVID-19 pandemic in the spring of 2020. Nevertheless, both sides have continued to provide data declarations and notifications in accordance with the treaty.</p>
-<p>U.S. sanctions and restrictive measures imposed as a result of Russia’s war against Ukraine are fully compatible with the New START Treaty. They don’t prevent Russian inspectors from conducting treaty inspections in the United States. And we’ll continue to engage Russia on the resumption of inspections through diplomatic channels.</p>
-<p><strong>QUESTION:</strong> For that I have one last question.</p>
-<p><strong>MR PRICE:</strong> You have not asked a question yet, so we’ll conclude there.</p>
-<p><strong>QUESTION:</strong> Thank you. On Russia too, Vladimir Putin said today that United States is trying to prolong the conflict in Ukraine, and he said, quote, the United States operating “exactly the same way, fueling&#8230;potential for conflict in Asia, Africa, and Latin America.” And yesterday he already mentioned other parts of the world, saying that Russia is ready to sell advanced weapons to allies in Asia, Africa, and Latin America. So do you have a reaction on that affirmation?</p>
-<p>And regarding Latin America, if this offer of selling advanced weapons could interfere in the bilateral meeting that United States have with Latin America countries that somehow support Russia?</p>
-<p><strong>MR PRICE:</strong> <a id="post-369470-Russia"></a>Well, the richness of President Putin’s comments did not go unnoticed here precisely because there is no country that did more in advance of Russia’s brutal invasion of Ukraine to try to prevent the war. Those of you who have traveled with us, those of you who’ve consistently been here, will recall that going back to late last year and certainly earlier this year we went around the world in an effort to forestall potential Russian aggression. We engaged not only our partners and our allies at NATO and Kyiv, but we also engaged the Russians at high levels. Secretary Blinken had a couple face-to-face meetings with Foreign Minister Lavrov. Deputy Secretary Sherman had face-to-face meetings with Deputy Foreign Minister Ryabkov, among others. We engaged at the OSCE. We engaged at the NATO – the then NATO-Russia Council as well in an effort to see to it that a war like this would not – would not happen.</p>
-<p>Of course, unfortunately, we were not successful in those efforts because President Putin was determined to go forward. And no one is responsible for this invasion, no one is responsible for the war’s continuation, beyond President Putin and those in the Kremlin who decided to launch and to continue this war. What we have done is provide our Ukrainian partners with the means they need to defend themselves, the means they need to defend their sovereignty, their independence, and their territorial integrity. And they’ve done that to good effect.</p>
-<p>When it come to potential weapons purchases and engagements with Russia’s defense sector, we have been clear that in the aftermath especially of Russia’s brutal invasion of Ukraine, its premeditated, unjustified invasion of Ukraine, we encourage countries around the world not to engage with Russia’s defense sector because of not only the principle of the matter but also because of the sanctions that the United States has in place, as do dozens of other countries around the world.</p>
-<p>Thank you all very much.</p>
-<p>(The briefing was concluded at 3:33 p.m.)</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
-<p>Washington, D.C.</p>
-<p>2:18 p.m. EDT</p>
-<p><strong>MR PRICE:</strong> Good afternoon. I’ve actually come empty-handed today, so I am at your disposal. I say that with only mild trepidation, so Matt, I turn it over to you.</p>
-<p><strong>QUESTION:</strong> Right. Thank you. Let’s start with Iran. So presumably you’ve had a chance to take a look at the – their response to the EU text. What do you make of it?</p>
-<p><strong>MR PRICE:</strong> <a id="post-369470-Iran"></a>Well, some of you have heard this from us already today, but we have in fact received Iran’s comments on the EU’s proposed final text. We have received them through the EU. We’re in the process of studying them. We are at the same time engaged in consultations with the EU and our European allies on the way ahead.</p>
-<p>All throughout this process, from its earliest days, we’ve taken a deliberate; we’ve taken a principled approach to the negotiations with the remaining JCPOA participants. And more recently, since this deal has essentially been on the table since March, we’ve known what a final deal on a mutual return to compliance with the JCPOA would look like. And I made this point yesterday, but it bears repeating: We agree with the high representative. We agree with Mr. Borrell’s fundamental point. What could be negotiated over the course of these past 16, 17 months has been negotiated.</p>
-<p>So we’ll continue to study what has been submitted. We’ll continue to consult closely with the EU, with our European allies, other partners, and when we have more to say we’ll share that.</p>
-<p><strong>QUESTION:</strong> Okay. Well, I mean, when you say what could be negotiated has been negotiated, that would suggest that this is it. That if Iran doesn’t say yes unreservedly to this text that it’s dead.</p>
-<p><strong>MR PRICE:</strong> Well, I – this will be up to the EU as the mediator and the arbiter to have a say on that question. But I will make the point that these are not simple issues. These are not issues that can be entertained or tabled with – without, for example, the consultations that we’ve had with the EU over the past several weeks, where the parties have had an opportunity to ask questions of the coordinator to seek additional clarity, to seek additional information, and that’s just because of the very complex and by definition complicated nature of the issues that are on the table. So &#8212;</p>
-<p><strong>QUESTION:</strong> But if what could be negotiated has already been negotiated, that – by definition that would imply that there is nothing left to negotiate and that if Iran wants to reopen any part of this, they’re out of luck.</p>
-<p><strong>MR PRICE:</strong> Broadly speaking, we agree with Mr. Borrell.</p>
-<p><strong>QUESTION:</strong> But what does that mean, that “what could be negotiated has been negotiated”? Does that mean that there is nothing &#8212;</p>
-<p><strong>MR PRICE:</strong> It means that &#8212;</p>
-<p><strong>QUESTION:</strong> &#8212; there’s no opportunity, no room for any further negotiation?</p>
-<p><strong>MR PRICE:</strong> It means that we have spent the past 16 months or so, since the spring of 2021, going over in exhausting detail through a process that has gone on in our estimation for far too long, far longer than it needs to have gone on. We have gone over the big issues, the issues that are at the core of the two key questions that we sought to find answers to starting in the spring of last year. On the one hand, the steps that Iran would need to take to resume its compliance with the JCPOA – that is to say, the steps that Iran would need to take to once again reimpose the verifiable, the permanent limits on its nuclear program – and on the other hand, the steps that the United States would need to be prepared to take in terms of sanctions relief on Iran’s nuclear program if Iran agreed to that proposition.</p>
-<p><strong>QUESTION:</strong> (Inaudible.)</p>
-<p><strong>MR PRICE:</strong> So the big issues have been discussed. They have been tabled. We believe they have been largely settled. That was the point of the EU &#8212;</p>
-<p><strong>QUESTION:</strong> Well, “largely settled” is not the same as “what could be negotiated has been negotiated.” So it’s a simple yes or no question; there’s a simple yes or no answer to this, I think. Unless there’s not. I mean, unless there is something more that you are willing to talk with the Iranians about. Has everything – is this the final offer? Is there nothing that can be changed about it? Is there anything left that you’re willing to negotiate?</p>
-<p><strong>MR PRICE:</strong> Well, this is the agreement – this is the text that the EU has put on the table that is substantially based on the March deal that has been on the table for several months now. But again, these are complex issues. These are not an uncomplicated – this is not an uncomplicated set of business. And so over the course of the past several weeks, for example, we have had an opportunity – all parties have had an opportunity to pose clarifying questions to elicit additional details.</p>
-<p>So I am not prepared to today offer any precise information on the details of the text that the European Union has put forward, the coordinator has put forward. Some of these questions are better directed at the European Union itself. For our part, we are reviewing the response that Iran provided to the EU that in turn was provided to us. Just as we’ve said, we’ve been conveying our feedback privately to the EU. We’ll continue to do that, but we’re not going to detail that feedback.</p>
-<p><strong>QUESTION:</strong> Last one. Is there anything that Iran is looking for now that you think falls outside the scope of the JCPOA? In other words, that there are – there were at the beginning what you would call extraneous issues that they wanted resolved. Are there any extraneous issues left? And whether there are or not, is there anything that Iran is still looking for that the administration believes that it cannot – can’t give?</p>
-<p><strong>MR PRICE: </strong>To answer that question, Matt, would require me to violate the cardinal rule of speaking to the text that is on the table or the Iranian response that has been provided to the EU and in turn provided to us. That’s just not something that I’m in a position to do today, but our message, I think, has been loud and clear. It has been heard by the Iranians that this negotiation is about one thing and about one thing only: it’s about the four corners of the JCPOA which is focused exclusively on Iran’s nuclear program, what Iran is permitted to do and in turn what it is required to do to demonstrate to the international community, including to international weapons inspectors, that it has permanent, verifiable limits in place on the extent of its nuclear program.</p>
-<p>Yes.</p>
-<p><strong>QUESTION: </strong>You are not going to give us any details about the text or Iran’s suggestions, but you always talk about being serious. You are always saying U.S. is very serious, and you were asking Iranian to be – to show seriousness. Knowing what is in Iran’s latest and final suggestions, do you evaluate that Iranian side is serious now? Can you tell us at least that one?</p>
-<p><strong>MR PRICE: </strong>I don’t want to prejudge that. I don’t want to offer a definitive answer in large part because we are still studying it. It will require some time to digest what has been provided to the EU and in turn what has been provided to us, but it is our hope that as we have now approached what should be the final stage of this that the Iranians will show – demonstrate that serious – seriousness of purpose that we have not consistently seen until now. I made the point just a moment ago, but we started this process in the spring of 2021. It is now nearly late summer of 2022.</p>
-<p>If all sides – if the Iranians had – had demonstrated a seriousness of purpose from the earliest days of this, we would have been able to achieve a mutual return to compliance with the JCPOA in relatively short order. It would have taken some time precisely because these are not simple issues. There are some challenging technical details that would need to be worked out, but there was no reason that we should be speaking to where we are today, August 16th of 2022. But again, as for what has been submitted within the past 12 or so hours, it’s something we’re taking a very close look at.</p>
-<p><strong>QUESTION: </strong>So &#8212;</p>
-<p><strong>MR PRICE: </strong>And when we have additional details to share, we will.</p>
-<p><strong>QUESTION: </strong>Are you chasing any deadlines at the moment to submit your final answer?</p>
-<p><strong>MR PRICE: </strong>The European Union – the coordinator has been very clear about their expectations. We’re not going to speak to those expectations, but we have been conveying our feedback regularly and consistently and privately to the EU.</p>
-<p><strong>QUESTION: </strong>Ned, I just &#8212;</p>
-<p><strong>MR PRICE: </strong>Yes.</p>
-<p><strong>QUESTION: </strong>&#8212; want to follow up on something that you said. So you were actually prepared to go back to the deal back when you started it. This whole tardiness or – is really the responsibility of the Iranians. They bear responsibility for not arriving at this deal as early as 16 months ago.</p>
-<p><strong>MR PRICE: </strong>We would not have embarked down this very long, this very windy, this very uncertain road were we – were we not &#8212;</p>
-<p><strong>QUESTION: </strong>(Off-mike.)</p>
-<p><strong>MR PRICE: </strong>&#8212; were we not prepared from the earliest days to resume compliance with the JCPOA. It wasn’t even after January 20th where we made that clear on the campaign trail. Then-candidate Biden made clear that he would seek the proposition of a mutual return to compliance with the JCPOA. We made that clear during the transition between administrations. And we made that clear very early on after the inauguration.</p>
-<p><strong>QUESTION: </strong>Ned, you have repeatedly said that Iranian – the Iranians kept adding extraneous demands or whatever they are, but that seems at least by all reports, by all accounts that Iran has dropped, let’s say, the demand for the lifting of the Revolutionary Guard off the terror list, they demand guarantees beyond this administration, and so on, for future administrations and so on. So what is there left? I mean, are you more optimistic today after looking at what the Iranians offered, their deal in the offing in the next few days?</p>
-<p><strong>MR PRICE: </strong>We don’t – and I – we’ve said this before. We don’t approach this through the lens or with pessimistic view or with an optimistic view in part because the stakes of this. We have to be clear-eyed precisely because of the stakes of this. This is a central challenge. There would be no greater challenge to our foreign policy, to our national security, to the collective security of the international community should Iran acquire a nuclear weapon. And so that is why we have maintained this clear-eyed, steady, principled, pragmatic focus on – at every turn of this diplomacy.</p>
-<p>When it comes to the FTO, the President similarly has been clear on that. The FTO designations and other sanctions on the IRGC are beyond the scope of the JCPOA. We have made that point repeatedly. That is certainly an extraneous issue. But, again, not going to detail what precisely we’ve seen in our studies so far of the Iranian response.</p>
-<p><strong>QUESTION: </strong>My last question on – are you expected to face opposition here at home with, let’s say, the Senate Foreign Relations Committee with Senator Menendez, Senator Cardin, and others? What if you arrive at a deal with the Iranians? Do you expect opposition here at home?</p>
-<p><strong>MR PRICE: </strong>Well, right now it’s a hypothetical so I wouldn’t want to entertain a hypothetical. I also wouldn’t want to speak for lawmakers, who, of course, are going to voice their opinions once they see what, if anything, results from this process. So not going to prejudge that.</p>
-<p>What I will say is that throughout this we have engaged regularly on an iterative basis with members of Congress, with their staffs, to make sure that they were apprised of the status of our efforts in Vienna, the status of our efforts in Doha, the status of our efforts with our allies and partners in Europe, the status of our efforts with our partners in the Gulf. So we have kept them regularly – and of course, our partners in Israel. So we have kept them regularly updated on the progress. We’ll continue to do that, regardless of the next turn of this process.</p>
-<p>The fact of the matter is though that the JCPOA, to our minds – and this is a point that we have reiterated in our briefings with members of Congress – remains the most effective means by which to contain, on a permanent and verifiable basis, Iran’s nuclear program. This is no longer a thought experiment. A couple years ago, a few years ago, one could, on at least a reasonable basis, make the claim that there is a more effective means by which to contain Iran’s nuclear program.</p>
-<p>At that time it was a thought experiment. If you distance yourself from the JCPOA through other diplomatic and various coercive means, you might be able to contain Iran’s nuclear program. There at least was a theory. For a while, it was the predominant theory within the last administration. I think the past several years, since May of 2018, have borne out the results of what is no longer a thought experiment. We’ve seen a world in which there is a JCPOA; we are living in a world in which there is not a JCPOA.</p>
-<p>I think most observers would like to get back to a point where Iran’s breakout time is not dangerously low, where we are not talking about weeks or less, where we’re talking about months – a world in which we once again have verifiable, permanent limits on Iran’s nuclear program with the various inspections and monitoring regimes that allow international weapons inspectors from the IAEA to verify that Iran is in compliance with the JCPOA, and more importantly that Iran is not pursuing a nuclear weapon.</p>
-<p>We don’t have that now. That is what we want. It is in our interests; it’s in the interests of our partners in Europe; it’s in the interests of our Israeli partners, our partners in the Gulf, and our partners around the world.</p>
-<p><strong>QUESTION:</strong> Afghanistan?</p>
-<p><strong>MR PRICE:</strong> Anything else on Iran?</p>
-<p>Yes, Daphne and then Gitte.</p>
-<p><strong>QUESTION:</strong> I know you said you’re regularly in touch with the EU on the response, but at what point do expect that you’ll have a formal response? And is there any discussion on Americans held in Iran amid all of this?</p>
-<p><strong>MR PRICE:</strong> So on your second question, we have continued to convey very clearly the priority we attach to the safety, the security, and ultimately the safe return of the Americans who are wrongfully, unjustly detained in Iran. In fact, today we’re marking another somber milestone. We’re marking the 250th – 200 and &#8212;</p>
-<p><strong>QUESTION:</strong> 2,500th.</p>
-<p><strong>MR PRICE:</strong> 2,500th – thank you – day in detention for Siamak Namazi, someone who, of course, has been wrongfully detained for years. The same is true for his father, for other Americans.</p>
-<p>Those efforts are ongoing. We’ve been clear throughout that we’re not tying the fates of American citizens to the fate of a proposition, namely a mutual return to compliance with the JCPOA that is far from certain. Because a mutual return to compliance has always been far from certain as a possibility, we want the return of our Americans to be a certainty. And so we’ve been careful not to tie these things directly together, but we have continued to – through every channel and through every avenue – to make clear the priority we attach to this and to seek to make progress on that.</p>
-<p>Remind me of your first question.</p>
-<p><strong>QUESTION:</strong> When you will have a formal response.</p>
-<p><strong>MR PRICE:</strong> I’m just not at a point to offer any prediction at the moment. What I can say with certainty is that we’ll continue to convey our feedback to the EU.</p>
-<p>Yes, Gitte.</p>
-<p><strong>QUESTION:</strong> Actually, my question was about – is about the dual citizens and with the case of Siamak Namazi, his 2,500th day in detention. When you say that the U.S. is not tying their fate to the JCPOA, why hasn’t there been any movement, progress in that regard, getting them released? How does this work? Does the U.S. administration make the first move, ask for – I don’t know – a discussion? Has Iran turned down any recent proposals to sit and talk about that?</p>
-<p><strong>MR PRICE:</strong> Well, in the first instance, that’s a question that’s much better directed towards Tehran. After all, it’s Tehran – it’s the Iranian regime – that has wrongfully held these Americans, these dual nationals, these other third-country nationals for, in some cases, years on an unjustifiable basis. Were it up to us, these Americans would have been home a long time ago.</p>
-<p>So I couldn’t speak to the thinking that may be ongoing in Tehran, but we have been clear that in our estimation these individuals are being held wrongfully, they’re being held unjustly, they’re being held as political pawns, presumably on the part of the Iranian regime to – in an effort to seek to exact leverage or some other concession. It is a practice that is abhorrent. It is a practice that we condemn anywhere and everywhere it takes place. It is a practice that, together with our allies and partners around the world, we are seeking to establish and ultimately to reinforce a norm against this practice and a norm that would require the international community to speak with one voice, to stand up in a united way against this practice, and to hold accountable those countries who would violate what should be an inviolable rule that human beings are not pawns, that individuals should not be wrongfully held for political gain, financial concessions, or for other unjust reasons. Unfortunately, it’s a practice that we see in far too many places around the world.</p>
-<p><strong>QUESTION:</strong> Afghanistan?</p>
-<p><strong>QUESTION:</strong> So why hasn’t there been any movement? Have – when was the last time, off the top of your head, that the U.S. tried to get talks in this regard going?</p>
-<p><strong>MR PRICE:</strong> Well, I will say a couple things. One, as you know, we have not been in direct discussions with the Iranian regime. That has not been our choice. We have said, across a range of issues, including the nuclear issue, that it would be more effective were we in a position to engage directly with Tehran so that we could table and discuss these complex issues directly without having to go through third parties. The same would be true for the Americans and the dual nationals who Iran holds unjustly. We would like to have these discussions in a – through a means by which that is more direct and more effective.</p>
-<p>But despite the obstacles that the regime has put up, we have made very clear the priority we attach to their prompt return. It is not something that we say one month, put aside for several months. This has been an ongoing, consistent effort on our part to convey that message very clearly to the Iranian regime.</p>
-<p><strong>QUESTION:</strong> Afghanistan?</p>
-<p><strong>MR PRICE:</strong> Anything else on Iran before we move on?</p>
-<p><strong>QUESTION:</strong> Yes, Iran please.</p>
-<p><strong>QUESTION:</strong> Iran.</p>
-<p><strong>QUESTION:</strong> I know you won’t – you don’t want to talk about their response and your response, but what was leaked so far that they are asking for guarantees. Are you willing to give them these guarantees or are you able to give them these guarantees? And I have also a follow-up, please.</p>
-<p><strong>MR PRICE:</strong> So again, I am not going to weigh in on what has been reported about an Iranian response that hasn’t been made public. What we’ve said – this goes back to last year, and you heard from President Biden and some of his colleagues in the – on the margins of the G20 last year, when President Biden met in Rome with our E3 – with his E3 counterparts. There was a joint statement that emanated from that meeting that made very clear that the United States sought to resume mutual compliance with the JCPOA and we would maintain that compliance with the JCPOA as long as Iran did the same. But when it come to other asks that the regime may or may not have made, that’s just not something I can weigh in on.</p>
-<p><strong>QUESTION:</strong> My second question. You said that – you’ve been saying this for a long time – that you believe the deal is the best way to prevent Iran from having nuclear. We have not – we are not there, and we’ve been in this situation for three – two years now. Isn’t the current status quo more than efficient for the U.S. than enforcing your sanctions?</p>
-<p><strong>MR PRICE:</strong> Sorry. Repeat the last part?</p>
-<p><strong>QUESTION:</strong> Is the current status quo that we are – we are in a status quo now. Is more – is it more than efficient for the U.S. than enforcing your sanctions since you are not able to revive the deal?</p>
-<p><strong>MR PRICE:</strong> Well, two successive administrations now, to count ours as well, has enforced and levied sanctions against Iran. Unfortunately, during that time Iran’s breakout time has only grown shorter and shorter. So if the option were between the status quo and the status quo namely being a position in which Iran’s breakout time could be measures in weeks or even shorter periods versus what we would be able to accrue on the basis of a deal that would be substantially similar to the proposal that was finalized in March, we would prefer to have those permanent, verifiable limits, and that verification and monitoring regime reimposed on Iran so that that breakout time once again extends so that it’s measured in months.</p>
-<p>I think the past several years has very clearly underscored the limitations that come with sanctions and sanctions alone. The last administration pursued a path of so-called maximum pressure. The fatal flaw of that maximum pressure regime is that the world was not united. It was the United States on one side of the table and the rest of the world – including Iran, in some ways – on the opposite side of the table.</p>
-<p><strong>QUESTION:</strong> Well, it wasn’t the entire international community.</p>
-<p><strong>MR PRICE:</strong> It was much of the international community. Since the earliest days of this administration, we have focused on once again restoring that unity among our European allies, with partners in the Middle East, to include Israel and to include our Gulf partners as well.</p>
-<p>And with that unity restored, we have been more effective in imposing costs and consequences on Iran, but even those costs and consequences have not been able to stall in a meaningful way Iran’s nuclear advancements. So we want to see Iran’s breakout time extended; we want to see permanent, verifiable restrictions reimposed on Iran; and we want to see that verification and monitoring regime once again imposed.</p>
-<p><strong>QUESTION:</strong> Afghanistan?</p>
-<p><strong>QUESTION:</strong> So will it not reach to a point that you will say that the deal is dead?</p>
-<p><strong>MR PRICE:</strong> The deal will be dead as soon as it is no longer in our national security interest to pursue. The point I just made in that admittedly long-winded answer to you is that the deal that has been on the table, at least – referring to the deal that’s been on the table since March – for us is a much more advantageous proposition than the status quo.</p>
-<p><strong>QUESTION:</strong> Afghanistan, please.</p>
-<p><strong>MR PRICE:</strong> One more on – a couple more on Iran and then we’ll move on.</p>
-<p><strong>QUESTION:</strong> The neighbor, Iran’s neighbor?</p>
-<p><strong>MR PRICE:</strong> And then we’ll – Iran, Iraq, and then &#8212;</p>
-<p><strong>QUESTION:</strong> Afghanistan.</p>
-<p><strong>MR PRICE:</strong> I promise we will get to Afghanistan, yes.</p>
-<p><strong>QUESTION:</strong> Thank you so much. There’s one more caveat here, which is the recent attacks against U.S. personnel, U.S. citizens. Since the ball is on your court, and not to drag you into hypotheticals, but if the investigations indeed prove that Iran was behind recent attacks against Rushdie or Alinejad and others, will that impact your response to it recently?</p>
-<p><strong>MR PRICE:</strong> There’s – there are ongoing investigations in certain cases, but there are some things that we already know. And the fundamental fact – what we have known, what we have always been clear-eyed about – is that Iran is a malign influence. Iran has malign influence in the region, and Iran’s malign influence in some ways extends well beyond the region.</p>
-<p>But in many ways, that is at the core of our desire to see Iran’s nuclear program limited in verifiable and permanent ways. Again, Iran would act with far greater impunity – would feel the ability, I should say, to act with far greater impunity – if it had what it could conceive as the shield of a nuclear weapons program. We are committed. President Biden has made a solemn commitment that Iran will never obtain a nuclear weapon.</p>
-<p>That in its own right is something that redounds to our national security, but it also would deprive Iran of the sense of impunity – greater sense of impunity – it would otherwise feel. Every challenge we face with Iran, whether it is its support for proxies, its support for terrorist groups, its ballistic missiles program, its malign cyber activities – every single one of those would be more difficult to confront were Iran to have a nuclear weapons program.</p>
-<p>Iraq. Anything else on Iran? One more? Okay.</p>
-<p><strong>QUESTION:</strong> Just – sorry – not to beat a dead horse here, but I mean, it’s been almost 500 days since these talks started. It’s a little – a couple days less, I guess. You’ve said repeatedly and other administration officials that they’re a few weeks away from having the capability to – their nuclear weapons breakout capability. I mean, several of your allies directly impacted in the region – Gulf, Israel – have voiced opposition to the deal. At home there’s bipartisan – significant bipartisan opposition to the deal.</p>
-<p>You’ve mentioned the administration believes this is still in the U.S.’s best national security interest. But I mean, to be fair, these are congressmen, congresswomen, members of Senate that are also – that have access to these classified briefings that you guys are providing them with, and they’re still not convinced. And so when you have all this opposition, I mean, does the administration see that everybody else opposed to this is wrong and you guys are right, first?</p>
-<p>And second, can the advances that Iran has made over these years, be it as a result of previous administration or the current policy – can any of these be reversed if a deal is in fact reached in these next couple days or weeks?</p>
-<p><strong>MR PRICE:</strong> So you put forward a number of premises. I would challenge several of them, but I’ll start with this one.</p>
-<p>A number of our partners who were, to put it mildly, not wild about the JCPOA in 2015 and 2016 have over the years changed their tune on the JCPOA. I would point to our partners in the Gulf. Special Envoy Malley has had a number of engagements with our Gulf partners. The Secretary has convened the GCC. Of course, President Biden recently attended a meeting of the GCC at the leaders level.</p>
-<p>And in recent months, we’ve seen in formal statements emanate from our Gulf partners their support for our efforts to achieve a mutual return to compliance with the JCPOA. And they support it not because it’s a foreign policy goal of this administration. They support it for the same reason that we’re pursuing it, because it is in our national security interest; it’s in turn in their national security interest to see to it that Iran is not able to obtain a nuclear weapon.</p>
-<p>We’ve seen senior officials within Israel, including its security establishment, make a very similar case, that it was a disastrous decision on the part of the last administration to walk away from the JCPOA and to make the case that the JCPOA is now the best alternative to the specter of an Iranian nuclear weapon.</p>
-<p>To your question on the various viewpoints we have here at home, look, it is not for me to speak to what we’ve heard from members of Congress or what we might hear from members of Congress – in part because it’s a hypothetical. We don’t have a deal; we may not get one. If we do arrive at one, we’ll let members of Congress form their own opinions. It is our responsibility to provide them with updates on the status of those discussions, to provide them with updates on the status of Iran’s nuclear advancements, precisely what Iran has been able to do since the last administration abandoned the JCPOA. Much of that is classified; some of that is not. And the part that is unclassified is well known to all of you in this room, and I’ve said it already a couple times. What once was a breakout time that could be measured in a year has now dwindled down to a breakout time that can be measured in weeks or less. The various underlying technical assessments are in some ways just as alarming, and I think you have heard members of Congress emerge from some of these briefings and make public statements pointing to the concern that they have owing to the advancements that Iran has been able to make in its nuclear program.</p>
-<p>So all throughout we have made very clear that we believe the best alternative to the status quo and certainly to the specter of an Iranian nuclear weapon is the JCPOA. There has always been in some ways an open invitation for anyone who thinks that there is a better approach to offer that approach. But consistently what we hear is the approach that has been tried since May of 2018 and that has demonstrably failed. This goes back to the point I made before: it’s no longer a thought experiment what would happen if we abandoned the JCPOA and tried an approach of so-called maximum pressure or if we mounted sanctions. We’ve tried that and we see the results.</p>
-<p><strong>QUESTION:</strong> Then why not go to the plan B that is already – I guess it should be in the back pocket.</p>
-<p><strong>MR PRICE:</strong> It’s – it’s something that we’ve &#8212;</p>
-<p><strong>QUESTION:</strong> It’s been almost 500 days now.</p>
-<p><strong>MR PRICE:</strong> It’s something that we’ve discussed with our allies and partners to a great extent. We absolutely will resort to that if the JCPOA proves not to be viable, if we get to a point where the deal that is on the table is not in our national security interests.</p>
-<p><strong>QUESTION:</strong> Can there – can – do you believe these advances &#8212;</p>
-<p><strong>QUESTION:</strong> (Inaudible), but can you – you talked about the countries that were quote/unquote “not wild about the JCPOA” in 2015 – 2014, 2015 having changed their tune.</p>
-<p><strong>MR PRICE:</strong> Mm-hmm.</p>
-<p><strong>QUESTION:</strong> Really? The Israeli security establishment and the members of the – in the GCC – sorry, where have they come out in support of this? (Inaudible.)</p>
-<p><strong>MR PRICE:</strong> I can point you to a public statement that emanated from Rob Malley’s engagement with the GCC I believe it was last year.</p>
-<p><strong>QUESTION:</strong> Can you point me to a statement from former Prime Minister Bennett or current Prime Minister &#8212;</p>
-<p><strong>MR PRICE: </strong>I said &#8212;</p>
-<p><strong>QUESTION:</strong> &#8212; Lapid in support &#8212;</p>
-<p><strong>MR PRICE: </strong>&#8212; of –</p>
-<p><strong>QUESTION: </strong>&#8212; of this? Can you point me to a statement from the GCC &#8212;</p>
-<p><strong>MR PRICE:</strong> Matt, but that’s not what I said. That’s not what I said.</p>
-<p><strong>QUESTION:</strong> &#8212; from any member of the GCC that is more than the tepid acceptance of the JCPOA in 2015 than they offered when they were really opposed and they just kind of went along with it as a favor to president – then President Obama?</p>
-<p><strong>MR PRICE:</strong> I’ll let their statement speak for itself, but &#8212;</p>
-<p><strong>QUESTION:</strong> The Israeli security establishment, the Obama administration cited similar – like, oh, behind the scenes, the Israelis really think this is a great deal. But the prime minister, the Israeli prime minister at the time, was vehemently opposed to it. And I don’t – I’m not sure you would say the Israeli – the elected leadership of Israeli is in support of it.</p>
-<p><strong>MR PRICE:</strong> I didn’t say that, though. I didn’t say that.</p>
-<p><strong>QUESTION:</strong> Well, you’re trying – you said the countries that were not wild about &#8212;</p>
-<p><strong>MR PRICE: </strong>No, I said &#8212;</p>
-<p><strong>QUESTION: </strong>&#8212; it had changed their tune.</p>
-<p><strong>MR PRICE:</strong> I was &#8212;</p>
-<p><strong>QUESTION:</strong> And in fact, they haven’t changed their tune. The Israeli Government is still opposed to it, and the Saudis, the Emiratis, and the other countries of the Gulf, while they may have said, “Eh, okay,” the same &#8212;</p>
-<p><strong>MR PRICE:</strong> I’m not sure those are the precise words that are in their statement, but &#8212;</p>
-<p><strong>QUESTION:</strong> It’s the same tepid, lukewarm support that they offered back in 2015.</p>
-<p><strong>MR PRICE:</strong> Well, I will &#8212;</p>
-<p><strong>QUESTION:</strong> So let’s not – listen, don’t try to make it seem like &#8212;</p>
-<p><strong>MR PRICE: </strong>Well, you’re &#8212;</p>
-<p><strong>QUESTION: </strong>&#8212; everyone in the world is in support of this.</p>
-<p><strong>MR PRICE:</strong> &#8212; you’re putting words in my mouth that I didn’t say in terms of pointing to specific leaders. Of course, I did not say that. And you have acknowledged that there are statements out there from our GCC partners. So we’ll leave that there.</p>
-<p>Iraq.</p>
-<p><strong>QUESTION:</strong> One more Iran, please.</p>
-<p><strong>QUESTION:</strong> Although (inaudible) all the GCC countries seem to be buddying up to Iran trying to reinvigorate diplomatic relations and so on, overtly and covertly. So the Kuwaiti ambassador just turned in his, I guess, papers to Raisi and so on. So we see a lot of diplomatic movement. Maybe they are doing it their own, perhaps &#8212;</p>
-<p><strong>MR PRICE:</strong> We see efforts. The way we see it, these are efforts to de-escalate tensions in the region, but our Gulf partners know that there would be – nothing would de-escalate tensions the way that an Iran that is permanently and verifiably barred from obtaining a nuclear weapon would.</p>
-<p>Iraq.</p>
-<p><strong>QUESTION: </strong>Iraq. Thank you.</p>
-<p><strong>MR PRICE: </strong>Yes.</p>
-<p><strong>QUESTION: </strong>So I wanted &#8212;</p>
-<p><strong>QUESTION: </strong>Can I follow up Iran one more time, please? Yes.</p>
-<p><strong>MR PRICE: </strong>Okay.</p>
-<p><strong>QUESTION: </strong>Thank you. Iran and North Korea, they cooperate nuclear programs. Iran also exported their technology to North Korea. How did you assess Iran and North Korea’s cooperations nuclear?</p>
-<p><strong>MR PRICE: </strong><a id="post-369470-IranNorthKorea"></a>Well, we’ve released information on this. Some of this information has been reported publicly as well. It’s concerning to see two of the most acute proliferation threats the world faces: the DPRK, a regime that has, of course, already a nuclear weapons program, and Iran, a regime that has advanced its nuclear weapons program in a way – excuse me – its nuclear program in a way that is of concern to us. So any cooperation between countries that have consistently and unapologetically flouted multiple UN Security Council resolutions, the international norms, who have engaged in malign and malicious behavior both in their respective regions and around the world – that’s of course a concern to us.</p>
-<p><strong>QUESTION: </strong>One more in Russia. Russian foreign ministry officials who recently met with the North Korea ambassador to Russia announced that Russia was sending North Korean constructor workers to reconstruction project in the Donetsk and Luhansk regions. My question is: The work is still going on. Can Russia decide on its own reconstruction project?</p>
-<p><strong>MR PRICE: </strong><a id="post-369470-Ukraine"></a>Donetsk and Luhansk are within the sovereign territory of the country of Ukraine. It is up to the Government of Ukraine, it’s up to the people of Ukraine to determine the individuals who should be there taking part in reconstruction projects, not any other countries.</p>
-<p><strong>QUESTION: </strong>Afghanistan?</p>
-<p><strong>MR PRICE: </strong>Iraq.</p>
-<p><strong>QUESTION: </strong>On Iraq, I want to revisit &#8212;</p>
-<p><strong>QUESTION: </strong>Afghanistan.</p>
-<p><strong>QUESTION: </strong>&#8212; a question that I asked yesterday about a letter from the Foreign Relations Committee in the Senate. They do ask the Secretary of State to urgently engage the Kurdistan Regional Government and Iraqi Government to resolve the oil and gas dispute there. Do you guys see the same kind of urgency and what prevents you from engaging with those governments? Just busy or is there something else that prevents you from engaging?</p>
-<p><strong>MR PRICE: </strong>So not in a position to speak to any congressional correspondence. That’s just a rule we have as a rule of thumb. <a id="post-369470-Iraq"></a>But we have been and we encourage the parties to determine a way forward that supports existing and future investment and advances the interests of the Iraqi people, including those of the Kurdistan region. We maintain – to your question – a robust formal and informal dialogue with the Iraqi Government to improve bilateral trade, to increase transparency, to counter corruption, to encourage economic reforms, to level the playing field for U.S. companies as well. And with that support, U.S. companies have been successful in competing for aviation, for energy, and agricultural deals worth billions of dollars. So we have been engaging with the central government in Baghdad. We have been engaging with our partners in the Kurdistan region as well.</p>
-<p><strong>QUESTION: </strong>But the engagement that you’ve had, does it – the letter – going back to the letter – does kind of indicate that the interest or the investment of U.S. companies is also being jeopardized by this dispute between Baghdad and Erbil. Obviously, the engagement that you’ve had so far hasn’t really helped resolving those disputes. Do you share the same concern on the investment that – over $300 million in energy sector?</p>
-<p><strong>MR PRICE: </strong>Well, any disputes between Bagdad and Erbil would be disputes between Bagdad and Erbil. We can play – of course play a role to encourage dialogue, to encourage the central government, to encourage Kurdish government officials to resolve those disputes in a way that is constructive and effective, and that’s what we’ve sought to do. We have a number of interests when it comes to Iraq. We have a number of interests when it comes to specifically within Kurdish territory as well. Any dispute between Bagdad and Erbil has the potential to set back those interests and interests that we often do share with the people of Iraq and the Kurdish people as well. So we hope to see them resolved.</p>
-<p><strong>QUESTION: </strong>And then one more. The letter also does say that senators believe that the Iraqi oil ministry is applying the recent Supreme Court’s ruling selectively on U.S. companies. Is that something that you guys share that view?</p>
-<p><strong>MR PRICE: </strong>I’m not in a position to confirm those allegations, but we have an interest around the world – and this of course includes in Iraq – in seeing a level playing field for American companies. We believe in competition, but we believe that competition has to take place with rules of the road, rules of the game that are clearly defined in a level – in a playing field that is very clearly level. Whenever we see that not the case, we seek to engage to correct that.</p>
-<p><strong>QUESTION: </strong>But that is the question, though: Do you see in Iraq as being a level playing field for U.S. companies?</p>
-<p><strong>MR PRICE: </strong>Again, U.S. companies have been in a position to win contracts worth billions of dollars. We have been engaging with our Iraqi partners, with our Kurdish partners to make sure that that level – that that playing field is level.</p>
-<p>Nazira.</p>
-<p><strong>QUESTION:</strong> Thank you very much. Three question. I’m surprised. One is that Tom West recently has said United State will not support the Afghan central bank anytime soon. What does that mean for Afghan economy? This is the first question.</p>
-<p>The second question is Afghan people are still left behind in Afghanistan after Ayman al-Zawahiri is killed. Do you think that U.S. and Afghanistan relationship with the Taliban is still the same? Is still Afghan people can leave Afghanistan?</p>
-<p>And also there are so many singer, Afghan singer, the Taliban destroyed their equipment. They try to leave Afghanistan; they would like to know about U.S. policy and U.S. new program about them.</p>
-<p><strong>MR PRICE:</strong> Great. <a id="post-369470-Afghanistan"></a>So on your first question, I just want to be very clear that the preservation of the $3.5 billion in Afghan central bank reserves – those funds were preserved for the benefit of the Afghan people. What we are focused on right now are the ongoing efforts to enable those funds, the $3.5 billion in licensed Afghan central bank reserves, to be used for the benefit of the Afghan people. And we’re seeking to find the best mechanism to ensure that those funds can go to the Afghan people in a way that doesn’t risk their diversion from the Taliban or other forces, including to potentially terrorist groups or terrorist actors.</p>
-<p>The point Tom West was making is that, owing for the risks I just alluded to, we do not see recapitalization of the Afghan central bank as a near-term option. We’ve engaged Afghan technocrats with the central bank for many months regarding measures to enhance the country’s macroeconomic stability, but we don’t at the present believe that institution, the Afghan central bank, has the safeguards and monitoring in place to manage these – this level of assets responsibly.</p>
-<p>And needless to say, to your second question, the Taliban sheltering of now-deceased al-Qaida leader Ayman al-Zawahiri reinforces the deep concerns we have regarding the potential risk of diversion of funds to terrorist groups. So these discussions are ongoing. We want to see these funds into the hands, into the pockets of the Afghan people as quickly and effectively as we can manage, and we’re continuing to work with international partners to devise a way to do that.</p>
-<p>On your second question regarding our relationship with the Taliban, there’s no question – well, let me stipulate. We have reason to believe, very good reason to believe that members of the Haqqani Taliban Network were witting of Ayman al-Zawahiri’s presence in Kabul. Certain members of this network took steps to actively shelter him. Of course that is going to have implications for our engagement with the Taliban. I just alluded to one of them. We’re not dismissing that – far from it – as we think about potential options for the $3.5 billion in licensed Afghan reserves.</p>
-<p>But we’re thinking through any potential broader implications for our engagement with the Taliban, and we’re doing that for a very simple reason. We’ve always said that our relationship with the Taliban will be predicated on the Taliban’s ability or willingness to comply with the commitments that the Taliban has made to the international community, to the United States, but most importantly to the people of Afghanistan. And there are areas where very clearly the Taliban has been unable or unwilling to comply with those commitments.</p>
-<p>Counterterrorism has been one of them, and the fact that the Taliban – members of the Haqqani Taliban Network were witting of and actively sheltering Zawahiri I think is an egregious violation not only of those commitments that the Taliban has made but the underlying U.S.-Taliban agreement.</p>
-<p>The fact that the Taliban has failed to stand up for, to protect the rights of all of the people of Afghanistan – especially the women, the girls, the religious minorities, ethnic minorities – that, of course, is a failure on the part of the Taliban as well. The fact that the Taliban has failed to put together a government that represents the Afghan people in all of its diversity – that is a failure. So we are taking a close look at all of these considerations that, of course, will have implications for our engagement with the Taliban.</p>
-<p>When it comes to Afghanistan’s culture and the singers that you referenced, there are a number of – well, one, we are doing everything we can to protect and to reinforce the rights of the people of Afghanistan who remain in Afghanistan. And in every engagement we have with the Taliban, human rights is at the very top of that agenda, and that includes, of course, the human rights of women, of girls, of Afghanistan’s minorities. Our humanitarian assistance is part and parcel of this. We have continued to lead the world in the level of humanitarian funding that we’ve provided directly to the Afghan people – more than three-quarters of a billion dollars since September of last year. We’ve provided 150 – announced $150 million some odd alone just last week in additional assistance for the people of Afghanistan. So we’ll continue to stand by them as a humanitarian donor and the world’s largest humanitarian donor.</p>
-<p>There are some individuals, however, who may seek to depart Afghanistan. That, by the way, is another one of the commitments that the Taliban has made, the commitment to safe passage, to allow those who wish to depart the country the ability to transit freely, to depart freely. We have also stressed that with the Taliban. There are a number of avenues that individuals like the ones you mentioned – singers, other cultural icons – could seek to pursue to leave the country. There of course is the P-1 – so-called P-1 category within the U.S. Refugee Admissions Program that individuals such as those could pursue. But our goal is to protect and to promote the rights of all Afghans who remain in Afghanistan and to continue in our efforts to facilitate the departure of those who wish to leave.</p>
-<p><strong>QUESTION:</strong> Thank you very much. Thank you.</p>
-<p><strong>QUESTION: </strong>Ned, on the 3.5 billion, your answers to this and other people’s answers to this seem to suggest that there was a point over – in the past year, after the withdrawal, that recapitalization of the bank with this money was a serious consideration. Is that in fact correct?</p>
-<p><strong>MR PRICE: </strong>Matt, I think that owes to the fact that when we’re talking about Afghan central bank funds – on paper, at least – the most effective means by which to reinfuse these funds back into the Afghan economy would be to recapitalize the Afghan central bank. And that’s where they &#8212;</p>
-<p><strong>QUESTION: </strong>Okay, but when did – when did that stop becoming a realistic thing?</p>
-<p><strong>MR PRICE: </strong>We &#8212;</p>
-<p><strong>QUESTION: </strong>When you got the intel about &#8212;</p>
-<p><strong>MR PRICE: </strong>We’ve had these discussions with Afghan technocrats over a matter of months. Not going to detail exactly &#8212;</p>
-<p><strong>QUESTION: </strong>Okay, well, so you’re saying that, in fact, there was a serious &#8212;</p>
-<p><strong>MR PRICE: </strong>No, I’m not &#8212;</p>
-<p><strong>QUESTION: </strong>&#8212; there was serious consideration being given to giving the &#8212;</p>
-<p><strong>MR PRICE: </strong>I’m not – I’m not saying that. I’m saying that we’ve &#8212;</p>
-<p><strong>QUESTION: </strong>&#8212; Afghan central bank $3.5 billion?</p>
-<p><strong>MR PRICE: </strong>I’m saying that we’ve looked at all &#8212;</p>
-<p><strong>QUESTION: </strong>When was it – when was it that it was a possibility that you could actually – that you would actually send this money to the Afghan central bank?</p>
-<p><strong>MR PRICE: </strong>I’m – Matt, what I’ve said is that we’ve looked at all plausible options. There are some options on paper that may seem far more attractive than they would in practice.</p>
-<p><strong>QUESTION: </strong>When was it – when was it an option? If you’re saying it’s not an option now, I’d just like to know when, because I’m not sure that it ever was a realistic option.</p>
-<p><strong>MR PRICE: </strong>Again &#8212;</p>
-<p><strong>QUESTION: </strong>And I don’t think it was ever really seriously considered.</p>
-<p><strong>MR PRICE: </strong>I’m not going &#8212;</p>
-<p><strong>QUESTION: </strong>Was it?</p>
-<p><strong>MR PRICE: </strong>I’m not going to detail &#8212;</p>
-<p><strong>QUESTION: </strong>All right.</p>
-<p><strong>MR PRICE: </strong>&#8212; the private conversations we’ve had with Afghans technocrats.</p>
-<p><strong>QUESTION: </strong>Secondly – and I apologize; I should have mentioned this to the press office earlier – but do you have any kind of update on the status of the Afghan refugees who are in Kosovo now, who were sent there to get vetted? I mean, originally it was the Kosovars said you can have a year for these people; it’s been extended, I believe. But what’s going on with that? And if you don’t have the answer, if someone could get me &#8212;</p>
-<p><strong>MR PRICE: </strong>We’ll see if there’s any more information to provide, but the last I checked, there is a small number that is still there who are undergoing additional vetting. We’ve been able to clear a number of them already. But again, each vetting process is done on a case-by-case basis, and that’s ongoing for those who remain there.</p>
-<p><strong>QUESTION: </strong>Can we do Turkey, please?</p>
-<p><strong>QUESTION: </strong>On Afghanistan?</p>
-<p><strong>MR PRICE: </strong>Afghanistan? Yes.</p>
-<p><strong>QUESTION: </strong>Quickly, on the Afghans still looking to fight for SIVs, is there any consideration to open up new so-called lily pad sites beyond the ones that – for example at UAE you’ve got several thousand of Afghans who are still waiting for – to be processed for the SIV application. So the lily pads is the first question. And then secondly, is it correct to say that the IOM contract in the UAE expires in September, therefore it would go back to normal U.S. consulate processing of visas, and that UAE site for processing visas for Afghans will no longer be there from September?</p>
-<p><strong>MR PRICE: </strong>So for the specifics of the IOM contract, I would need to refer you to IOM for that. If we have anything to share, we can. But to your broader question, we have taken a number of steps, as I detailed in some – in some detail yesterday, to expedite the SIV processing. This is – these are steps that started almost as soon as this administration set foot in office, and you look at the metrics that we’ve been able to achieve. You see that progress reflected, and I’ll give you just one. Between January 1st of 2021 and June 30th of 2022, the average processing time for the chief of mission review has decreased from 883 days to 82 days. That is more than tenfold.</p>
-<p><strong>QUESTION: </strong>But my question was just if there would be – if there would be consideration in the future for more lily pad sites to be opened up to help process the Afghans who are still in Afghanistan to leave the country.</p>
-<p><strong>MR PRICE: </strong>So my understanding at the moment is that lily pad sites are not a limiting factor in terms of the number of Afghan SIVs that we are in a position to process. As we have announced on several occasions now, we’re always looking at the totality of that process, a process that was defined by Congress, involving multiple departments and agencies, to see if there are ways that we can streamline that, either within the Department of State or by working with our interagency partners. If there are, we will pursue that, and I think that fact is borne out by the very idea that we’ve been able to cut that processing time by more than tenfold.</p>
-<p><strong>QUESTION:</strong> Thank you.</p>
-<p><strong>MR PRICE:</strong> Let me move around.</p>
-<p>Yes, sir.</p>
-<p><strong>QUESTION:</strong> Thank you so much. I appreciate it. So the Turkish defense ministry confirmed today that they are moving forward with the second regiment of S-400s. I realize the contract had previously been signed, but that is still a deliberate decision on their part to move forward with that. On top of that, Russia is saying that they’ve also reached an agreement to localize production of certain components of the S-400 within Turkey. I’m wondering if I could get a reaction to both those developments. And does that change the Biden administration’s willingness to move forward with the F-16 deal with Turkey? Thank you.</p>
-<p><strong>MR PRICE:</strong> Well, number one, my understanding is that these reports emerged in TASS.</p>
-<p><strong>QUESTION:</strong> Yes, but the Turkish defense ministry has said that at least the second regiment of S-400s will be coming in response to that, even though it wasn’t a new contract that they signed.</p>
-<p><strong>MR PRICE:</strong> So I think there is some – at least some question or complexity regarding this issue. We’ve seen these reports that first emerged in TASS. <a id="post-369470-TurkeyRussia"></a>We’re not aware of any new developments on this matter. Our position on Turkey’s purchase of the S-400 is well known, and we’d refer you to the Turkish Government to speak to their defense procurement plans.</p>
-<p>But the point we have consistently made across the board is that Russia’s brutal and unjustified war against Ukraine makes it vital, now more than ever in some ways, that all countries avoid transactions with Russia’s defense sector. It puts them at risk of sanctions.</p>
-<p><strong>QUESTION:</strong> But assuming they move forward with the second regiment of the S-400s, which they have said they will, that doesn’t change the calculus on the F-16 sale?</p>
-<p><strong>MR PRICE:</strong> Well, of course, we’ll have to wait and see what happens, but we are not aware of any new developments on this matter and so would refer you to Turkish authorities for the time being to speak to their plans.</p>
-<p><strong>QUESTION:</strong> Just a follow-up on that.</p>
-<p><strong>MR PRICE:</strong> Let me move around. (Inaudible)</p>
-<p><strong>QUESTION:</strong> Sorry, just to go back to Afghan central bank funds. The last conversation the department had on releasing those or potentially releasing those funds involving a mechanism happened in between the authorization of the strike that killed Zawahiri and the strike actually happening. Just wondering if you could explain that timeline a little bit more.</p>
-<p><strong>MR PRICE:</strong> Are you referring to Tom West’s engagement in Tashkent?</p>
-<p><strong>QUESTION:</strong> Yes. On July 27th.</p>
-<p><strong>MR PRICE:</strong> So Tom West did meet in Tashkent. <a id="post-369470-Afghan2"></a>That was the last face-to-face engagement with the Taliban that we’ve had since the strike on Zawahiri. Of course, at the time, the strike on Zawahiri had not taken place. You can understand, I think, the secrecy with which those impending plans were held within the U.S. Government. It’s not something that we discussed with the Taliban, of course, beforehand.</p>
-<p>But in the aftermath of that strike and as the presence of Zawahiri became known within Kabul, the fact that senior members of the Haqqani Taliban Network were witting of it and actively sheltered him, that of course has featured into our thinking. We’re still considering the implications of that. And it reinforces the idea that the Taliban heretofore has not been willing or able to comply with the commitments it’s made to its own people.</p>
-<p>Yes.</p>
-<p><strong>QUESTION:</strong> Yeah. On China, after Speaker Pelosi’s visit, China fired five missiles into Japan’s exclusive economic zone and claimed that there was no Japanese EEZ that was recognized by China because Japan had failed to negotiate its boundaries. Does the U.S. have a reaction to China’s statement about that? And does the U.S. believe that China’s actions were a violation of the UN Convention on the Law of the Sea?</p>
-<p><strong>MR PRICE:</strong> <a id="post-369470-Japan"></a>I will defer to our Japanese allies. I know they have made clear that several of those ballistic missiles fell in close proximity to their territory. The point that we have made is that our commitment to the defense of our allies in the Indo-Pacific and around the world is ironclad. We have a commitment and we will be unwavering in standing with our Japanese allies in the face of intimidation or potential threats.</p>
-<p><strong>QUESTION:</strong> Can I follow up on Japan?</p>
-<p><strong>QUESTION:</strong> For the China, for China issues. China recently announced that sanctions on seven U.S. delegate after Speaker Pelosi’s visit to Taiwan. Can you verify their names? What is – who is the seven delegate?</p>
-<p><strong>MR PRICE:</strong> <a id="post-369470-China"></a>That’s a question for Beijing. It’s not a question for us. Any reaction to the peaceful visit of a member of Congress – in this case, the Speaker of the House – any reaction along those lines is an overreaction. As we’ve said, members of Congress have every right to visit Taiwan. Members of Congress have done so for decades. A previous speaker of the House has visited Taiwan. Congressional delegations have been to Taiwan many times this year, more than 10 times this year.</p>
-<p><strong>QUESTION:</strong> But does that mean now that you’re ready to say that their response to the Markey delegation visit is also an overreaction?</p>
-<p><strong>MR PRICE:</strong> Matt, I’m not sure that Beijing has made very clear that this is our response to the Speaker, this is our response to Representative Markey.</p>
-<p><strong>QUESTION:</strong> Well, I mean, as they come – there’s timing.</p>
-<p><strong>MR PRICE:</strong> So far be it from to – I will leave it to Beijing to speak to its response.</p>
-<p><strong>QUESTION:</strong> (Inaudible) yesterday Chinese Government said that they also – they – all of the sanctions already on Pelosi’s families and relatives. But this is additional one yesterday. So I think State Department verified this was – name of – you cannot verify that &#8212;</p>
-<p><strong>MR PRICE:</strong> We are not in a position to verify sanctions that other countries have imposed on Americans. It would be the responsibility of those countries to detail any targets who may be sanctioned under their own authorities.</p>
-<p>Yes.</p>
-<p><strong>QUESTION: </strong>Yes, thanks, Ned. Moving on to another continent – Africa – two questions. One, what is the U.S. reaction to the elections in Kenya which – the president-elect, and it’s contested by the challenger, and the situation is pretty troublesome. And do you have any direct contacts with the Kenyans at some level on this issue? Have you conveyed any concerns or what have you?</p>
-<p>And then the second question – unrelated – is Mali. The French troops – the last French troops just left Mali, and as everyone knows the situation in the whole Sahel is pretty bad with al-Qaida and the Islamic State. I know there are talks, there’s a presence and all that, but is the U.S. willing to substantially step up its presence and implication in the Sahel as a general question?</p>
-<p><strong>MR PRICE: </strong><a id="post-369470-Kenya"></a>To your first question on Kenya – the Independent Electoral and Boundaries Commission chair yesterday, of course, declared that William Ruto as the winner of the Kenyan Presidential Election. Going forward, we urge all parties to work together to peacefully resolve any remaining concerns about the election through the existing dispute resolution mechanisms. And we ask all political parties’ leaders to continue to urge their supporters to remain peaceful and to refrain from violence during the electoral process.</p>
-<p>Our embassy in Nairobi has been in regular contact with their counterparts in the Kenyan Government primarily to underscore that core message – that core message of calm and patience. Secretary Blinken spoke to President Kenyatta on Sunday. He spoke to him for two primary reasons: one was to provide him a debrief of the Secretary’s travel in South Africa and the DRC and Rwanda as well; but also to underscore the importance of calm and patience as the electoral process continues within Kenya. So we will continue to be in close touch with our Kenyan partners, and we hope to see that calm and patience prevail.</p>
-<p><a id="post-369470-Mali"></a> When it comes to Mali and the Sahel more broadly, our approach to the region is one that recognizes that there are a number of shared threats that emanate from the Sahel, including the threat of violent extremism, the threat of terrorism from groups that have been able to take advantage of the vacuum that has emerged within Mali and within the region more broadly in recent years. We deeply appreciate the cooperation and the coordination we’ve been able to achieve with our French partners.</p>
-<p>We made very clear – we’ve made very clear that we value the role that they have played in the region. That cooperation, that coordination role will continue. And we see the value of working by, with, and through partners. That includes partners on the ground where applicable, but also our partners and allies more broadly. And of course, over the years we’ve worked very closely with France on matters pertaining to the Sahel, and I expect that will continue.</p>
-<p>I’ll take a couple final questions. Abby.</p>
-<p><strong>QUESTION: </strong>Can you share the latest on U.S. communication with the Japanese Government on incarcerated American Lieutenant Ridge Alkonis? Is U.S. Ambassador Rahm Emanuel engaged in those efforts? And do you believe he’s received a fair trial?</p>
-<p><strong>MR PRICE: </strong><a id="post-369470-Japan2"></a>Well, this was a tragic event that resulted in the loss of two precious lives. It’s caused tremendous heartache for all involved. We’re continuing to monitor the situation with the Department of Defense and our embassy in Tokyo to explore all options for finding a successful resolution that is consistent with U.S. law, with Japanese law, as well as with existing treaties. To your question, Ambassador Emanuel has spoken with the Alkonis family. He’s spoken with members of Congress, with his U.S. military counterparts, and with Japanese Government officials. Department of State officials here in Washington have also been in touch with their Japanese counterparts at the Japanese embassy here, and the embassy in Tokyo is coordinating with the Department of Defense to provide all appropriate assistance.</p>
-<p>Anyone – Said.</p>
-<p><strong>QUESTION: </strong>Sure. I want to ask you about the Palestinian issue – I mean, there’s so much that’s happened – but that would restrict my question to the issue of human rights. Now, last year, the Human Rights Council of the United Nations established an ongoing international Commission of Inquiry that – to look into Israeli abuses, constant abuses – I mean, one does not know where to begin. They issued a letter where they – basically, they blasted you and the Israelis for constantly being in the way of having any real substantive investigations of Israeli’s human right abuses of Palestinians. And my question to you: When will the United States put its weight behind a real investigation of human rights abuses by Israel against the Palestinians?</p>
-<p><strong>MR PRICE: </strong><a id="post-369470-IsPal"></a>Said, you know that we stand for – stand up for human rights around the world, but in this case, we do oppose the open-ended, biased Commission of Inquiry that targets Israel and only Israel. We made that clear upon the release of the Commission of Inquiry’s report earlier this year. We made that clear upon the creation of the commission last year as well.</p>
-<p>We approach the situation in Israel and Gaza with a clear focus, one of de-escalation, and one of providing humanitarian relief, especially to those who so desperately need it in – especially in Gaza. In all of our efforts, were committed to working with other members of the international community over the longer term to create the conditions for a lasting and sustainable peace.</p>
-<p>We’ll support actions in the UN that bring the parties together and promote peace and stability. Our issue has been that the Commission of Inquiry does not do that. As I said, it is biased; it is one-sided. Israel is the only standing agenda item on – at the Human Rights Commission. It’s why we have opposed this Commission of Inquiry and the Human Rights Committee’s undue focus on Israel.</p>
-<p><strong>QUESTION: </strong>So if they had countries like Rwanda and maybe some other place, or Brunei or whatever, you would be fine with that?</p>
-<p><strong>MR PRICE: </strong>We would want to see that any effort is done in a way that is unbiased, that is untarnished by politics, and that is really at the heart of the mandate of the Human Rights Committee. There is a reason we first re-engaged with and later rejoined the HRC – because we believe that the promise that the HRC has is tremendous. When at its best, it can be a defender, it can be a promoter of human rights around the world.</p>
-<p>I think everyone in this room, however, knows that the Human Rights Committee has rarely lived up to that promise. One of the reasons why we are back on the committee is to do all we can to use our influence with our allies and partners to see to it that its agenda is appropriate, to see to it that its efforts are unbiased and untarnished by politics.</p>
-<p><strong>QUESTION: </strong>Last week, dozen – more than a dozen – 16 Palestinian children were killed in the attacks on Gaza. How do you ever expect that such horrible – terrifically horrible – crimes ever investigated? How would you go about investigating such a thing? I mean, the UN keeps saying – Michelle Bachelet issued a big statement last week. You guys just would not dare.</p>
-<p><strong>MR PRICE: </strong>Again, Said, our focus is on de-escalation. We want to see the conditions that undergird the violence that we’ve seen, including recently the rocket fire from Gaza, and in turn &#8212;</p>
-<p><strong>QUESTION: </strong>That really have killed no one. I mean, I’m not condoning it in any way. They are – they targeted probably civilian areas. But as a result, none were killed.</p>
-<p><strong>MR PRICE: </strong>These are &#8212;</p>
-<p><strong>QUESTION: </strong>Not like the Israel attacks that killed dozens of Palestinian civilians.</p>
-<p><strong>MR PRICE: </strong>These are indiscriminate rocket fire from Gaza that in – over the course of recent months, and especially, as you recall too well, last May and June, killed civilians – certainly killed civilians, including children inside Israel. Of course, we don’t want to see any civilians under threat, whether it’s from terrorist attacks or reprisals that are done in the name of self-defense. That’s why we focused on de-escalating the situation and finding a longer-term, sustainable path to create a negotiated peace between the parties.</p>
-<p>I have gone on for far too long, so let me just take one more question.</p>
-<p><strong>QUESTION: </strong>On this – the ship that was carrying grain, the inaugural ship left Odesa under the UN-brokered deal. It’s been spotted in Syria. Sources have told Reuters, I believe, that they are unloading from the ship. Do you have any comment on that?</p>
-<p><strong>MR PRICE: </strong><a id="post-369470-Ukraine2"></a>Well, we’re aware of reports that the ship, the <em>Razoni</em>, that its cargo was sold to another buyer and that the ship is now in the vicinity of the Syrian port of Tartus. We, of course, don’t determine who buys the grain shipments or their final destinations. What matters most to us are a couple things: one, that Ukraine is appropriately compensated for the grain, the food stuff, for the crops that it is in this case providing; and that the food gets to where it is needed most.</p>
-<p>We continue to welcome the departure of vessels from Ukraine’s Black Sea ports, allowing Ukraine’s farmers to once again supply the world with grain. This is one ship of more than 20 that have left the Black Sea ports. The vast majority of those have cleared the inspection station and are in route to ports around the world. We want to see that continue.</p>
-<p><strong>QUESTION: </strong>One more on Ukraine?</p>
-<p><strong>QUESTION: </strong>Ukraine?</p>
-<p><strong>QUESTION: </strong>I have one more on Russia.</p>
-<p><strong>MR PRICE: </strong>Abby.</p>
-<p><strong>QUESTION: </strong>I know this happened last week, but given you weren’t at the podium, do you have any – how concerned is the U.S. about Russia suspending inspections as part of the New START Treaty, especially given that they haven’t taken place since 2020 due to COVID?</p>
-<p><strong>MR PRICE:</strong> So we are committed to implementation of the New START Treaty. We have made the point that New START and its place in the global nonproliferation regime is just as important today and in some ways even more important than it was at its signing. We have to work together to reduce the risk of an arms race or nuclear escalation. We’re keeping discussions between the parties concerning treaty implementation confidential. For our part, we had paused inspection activity due to the COVID-19 pandemic in the spring of 2020. Nevertheless, both sides have continued to provide data declarations and notifications in accordance with the treaty.</p>
-<p>U.S. sanctions and restrictive measures imposed as a result of Russia’s war against Ukraine are fully compatible with the New START Treaty. They don’t prevent Russian inspectors from conducting treaty inspections in the United States. And we’ll continue to engage Russia on the resumption of inspections through diplomatic channels.</p>
-<p><strong>QUESTION:</strong> For that I have one last question.</p>
-<p><strong>MR PRICE:</strong> You have not asked a question yet, so we’ll conclude there.</p>
-<p><strong>QUESTION:</strong> Thank you. On Russia too, Vladimir Putin said today that United States is trying to prolong the conflict in Ukraine, and he said, quote, the United States operating “exactly the same way, fueling&#8230;potential for conflict in Asia, Africa, and Latin America.” And yesterday he already mentioned other parts of the world, saying that Russia is ready to sell advanced weapons to allies in Asia, Africa, and Latin America. So do you have a reaction on that affirmation?</p>
-<p>And regarding Latin America, if this offer of selling advanced weapons could interfere in the bilateral meeting that United States have with Latin America countries that somehow support Russia?</p>
-<p><strong>MR PRICE:</strong> <a id="post-369470-Russia"></a>Well, the richness of President Putin’s comments did not go unnoticed here precisely because there is no country that did more in advance of Russia’s brutal invasion of Ukraine to try to prevent the war. Those of you who have traveled with us, those of you who’ve consistently been here, will recall that going back to late last year and certainly earlier this year we went around the world in an effort to forestall potential Russian aggression. We engaged not only our partners and our allies at NATO and Kyiv, but we also engaged the Russians at high levels. Secretary Blinken had a couple face-to-face meetings with Foreign Minister Lavrov. Deputy Secretary Sherman had face-to-face meetings with Deputy Foreign Minister Ryabkov, among others. We engaged at the OSCE. We engaged at the NATO – the then NATO-Russia Council as well in an effort to see to it that a war like this would not – would not happen.</p>
-<p>Of course, unfortunately, we were not successful in those efforts because President Putin was determined to go forward. And no one is responsible for this invasion, no one is responsible for the war’s continuation, beyond President Putin and those in the Kremlin who decided to launch and to continue this war. What we have done is provide our Ukrainian partners with the means they need to defend themselves, the means they need to defend their sovereignty, their independence, and their territorial integrity. And they’ve done that to good effect.</p>
-<p>When it come to potential weapons purchases and engagements with Russia’s defense sector, we have been clear that in the aftermath especially of Russia’s brutal invasion of Ukraine, its premeditated, unjustified invasion of Ukraine, we encourage countries around the world not to engage with Russia’s defense sector because of not only the principle of the matter but also because of the sanctions that the United States has in place, as do dozens of other countries around the world.</p>
-<p>Thank you all very much.</p>
-<p>(The briefing was concluded at 3:33 p.m.)</p>
 ]]></content:encoded>
 					
 		
