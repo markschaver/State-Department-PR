@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Sat, 20 Aug 2022 00:47:49 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 20 Aug 2022 21:15:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,161 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Terrorist Attack in Mogadishu</title>
+		<link>https://www.state.gov/terrorist-attack-in-mogadishu/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Sat, 20 Aug 2022 21:15:33 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=370765</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>The United States strongly condemns the Al-Shabaab attack at the Hayat Hotel in Mogadishu. We express our heartfelt condolences to the families who lost loved ones, wish a full recovery to those injured, and commend Somalia’s security forces.  The United States remains steadfast in our support of Somali and African Union-led efforts to counter terrorism and build a secure and prosperous future for the people of Somalia.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>The United States strongly condemns the Al-Shabaab attack at the Hayat Hotel in Mogadishu. We express our heartfelt condolences to the families who lost loved ones, wish a full recovery to those injured, and commend Somalia’s security forces.  The United States remains steadfast in our support of Somali and African Union-led efforts to counter terrorism and build a secure and prosperous future for the people of Somalia.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>$775 Million in Additional U.S. Military Assistance for Ukraine</title>
 		<link>https://www.state.gov/775-million-in-additional-u-s-military-assistance-for-ukraine/</link>
 		
@@ -2031,167 +2186,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <li id="post-370191-footnote-1">Global Coalition to Defeat ISIS <a href="#post-370191-footnote-ref-1">↑</a></li>
 </ol>
 <p>&nbsp;</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Joint Statement on U.S.-Mexico Working Group on Cyber Issues</title>
-		<link>https://www.state.gov/joint-statement-on-u-s-mexico-working-group-on-cyber-issues/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Thu, 18 Aug 2022 20:05:05 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=370055</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Following is the text of a joint statement by the Governments of the United States and Mexico:</p>
-<p><i>Begin Text:</i></p>
-<p>On August 10, the U.S.-Mexico Working Group on Cyber Issues convened its first bilateral cyber dialogue since the establishment of the U.S.-Mexico Bicentennial Framework for Security, Public Health, and Safe Communities. The meeting’s main objective was to advance bilateral cooperation on cyber issues in line with the two countries’ shared commitment to an open, interoperable, secure, and reliable Internet and a stable cyberspace.</p>
-<p>A secure, resilient, and stable cyberspace is fundamental for the development of the public and private sectors and for people worldwide to benefit from the free flow of information online. For this reason, cyber issues have become a priority in the U.S.-Mexico bilateral relationship, as demonstrated by their inclusion in the High-Level Security Dialogue (HLSD) and the inclusion of cybersecurity risk management issues in the High-Level Economic Dialogue (HLED).</p>
-<p>Cybersecurity is an area that is becoming increasingly relevant for society.  During the meeting, the delegations addressed various aspects of each country&#8217;s institutional structure and strategy for dealing with threats in cyberspace.  They also discussed institutional capabilities to prevent and counter cybercrime, as well as efforts to foster a greater culture of cybersecurity awareness and cyber hygiene.  In addition, the two delegations discussed specific cooperation efforts in cyber defense and cybersecurity, including the protection of critical infrastructure.</p>
-<p>The two governments also discussed their shared interest in the multilateral sphere to promote access to an open, interoperable, secure, and reliable Internet for all citizens.  The United States and Mexico reaffirm the applicability of international law in cyberspace and will continue to promote adherence to and implementation of the framework of responsible state behavior adopted by the United Nations General Assembly, in order to promote stability and accountability in cyberspace.</p>
-<p>Both governments committed to continue strengthening cooperation to build a more secure, resilient region and expand collaboration to address shared threats in cyberspace. These efforts will bolster the ability of the two countries’ societies and economies to benefit from the opportunities that new digital and information technologies offer.</p>
-<p>In this regard, both delegations committed to:</p>
-<ul>
-<li>Strengthen coordination among bilateral cooperation initiatives focused on cyber and digital economy issues, including to promote the development of a secure, resilient, and reliable technology ecosystem. This coordinated approach will be reflected in a work plan to follow up on the work of this group within the Bicentennial Framework and work under the HLED.</li>
-<li>Strengthen technical coordination mechanisms for the attention and response to cyber incidents affecting shared and national critical information infrastructures.</li>
-<li>Increase bilateral cooperation for the exchange of cyber threat intelligence information, as appropriate, leading to the investigation of cybercrimes.</li>
-<li>Continue bilateral training initiatives and related efforts to promote a culture of cybersecurity for federal and state agencies, with a special emphasis on security and law enforcement agencies and to foster a cybersecurity awareness and incident reporting culture within the general public and the private sector in each country.</li>
-<li>Enhance cooperation between the U.S. Department of Homeland Security (DHS) — including the Cybersecurity and Infrastructure Security Agency (CISA) and Homeland Security Investigations (HSI) — and Mexican counterparts on issues including information sharing, incident response management, ransomware, law enforcement and investigations, public-private partnerships, and the protection of critical infrastructure.</li>
-<li>Continue to share information on cybersecurity resources and support active participation and engagement in initiatives such as the National Institute of Standards and Technology (NIST) Cybersecurity Framework 2.0 and the National Initiative for Cybersecurity Education (NICE) community, including events such as the Regional Initiative for Cybersecurity Education and Training (RICET).</li>
-<li>Continue dialogue and collaboration regarding multilateral processes on cybersecurity, including in the Organization of American States Inter-American Committee against Terrorism (OAS-CICTE) Working Group on Cooperation and Confidence Building Measures in Cyberspace, and on cybercrime, including in discussions at the UN Ad Hoc Committee.</li>
-<li>Continue engagement in multi-stakeholder fora such as the Global Forum on Cyber Expertise (GFCE), the Internet Governance Forum (IGF), and the Freedom Online Coalition (FOC), including to continue to strengthen and advance efforts to promote fundamental freedoms and respect for human rights in cyberspace.</li>
-<li>Coordinate with Canada to convene a Trilateral Cyber Experts Meeting in 2022, consistent with commitments made at the 2021 North American Leaders’ Summit.</li>
-</ul>
-<p><i>End Text</i></p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Following is the text of a joint statement by the Governments of the United States and Mexico:</p>
-<p><i>Begin Text:</i></p>
-<p>On August 10, the U.S.-Mexico Working Group on Cyber Issues convened its first bilateral cyber dialogue since the establishment of the U.S.-Mexico Bicentennial Framework for Security, Public Health, and Safe Communities. The meeting’s main objective was to advance bilateral cooperation on cyber issues in line with the two countries’ shared commitment to an open, interoperable, secure, and reliable Internet and a stable cyberspace.</p>
-<p>A secure, resilient, and stable cyberspace is fundamental for the development of the public and private sectors and for people worldwide to benefit from the free flow of information online. For this reason, cyber issues have become a priority in the U.S.-Mexico bilateral relationship, as demonstrated by their inclusion in the High-Level Security Dialogue (HLSD) and the inclusion of cybersecurity risk management issues in the High-Level Economic Dialogue (HLED).</p>
-<p>Cybersecurity is an area that is becoming increasingly relevant for society.  During the meeting, the delegations addressed various aspects of each country&#8217;s institutional structure and strategy for dealing with threats in cyberspace.  They also discussed institutional capabilities to prevent and counter cybercrime, as well as efforts to foster a greater culture of cybersecurity awareness and cyber hygiene.  In addition, the two delegations discussed specific cooperation efforts in cyber defense and cybersecurity, including the protection of critical infrastructure.</p>
-<p>The two governments also discussed their shared interest in the multilateral sphere to promote access to an open, interoperable, secure, and reliable Internet for all citizens.  The United States and Mexico reaffirm the applicability of international law in cyberspace and will continue to promote adherence to and implementation of the framework of responsible state behavior adopted by the United Nations General Assembly, in order to promote stability and accountability in cyberspace.</p>
-<p>Both governments committed to continue strengthening cooperation to build a more secure, resilient region and expand collaboration to address shared threats in cyberspace. These efforts will bolster the ability of the two countries’ societies and economies to benefit from the opportunities that new digital and information technologies offer.</p>
-<p>In this regard, both delegations committed to:</p>
-<ul>
-<li>Strengthen coordination among bilateral cooperation initiatives focused on cyber and digital economy issues, including to promote the development of a secure, resilient, and reliable technology ecosystem. This coordinated approach will be reflected in a work plan to follow up on the work of this group within the Bicentennial Framework and work under the HLED.</li>
-<li>Strengthen technical coordination mechanisms for the attention and response to cyber incidents affecting shared and national critical information infrastructures.</li>
-<li>Increase bilateral cooperation for the exchange of cyber threat intelligence information, as appropriate, leading to the investigation of cybercrimes.</li>
-<li>Continue bilateral training initiatives and related efforts to promote a culture of cybersecurity for federal and state agencies, with a special emphasis on security and law enforcement agencies and to foster a cybersecurity awareness and incident reporting culture within the general public and the private sector in each country.</li>
-<li>Enhance cooperation between the U.S. Department of Homeland Security (DHS) — including the Cybersecurity and Infrastructure Security Agency (CISA) and Homeland Security Investigations (HSI) — and Mexican counterparts on issues including information sharing, incident response management, ransomware, law enforcement and investigations, public-private partnerships, and the protection of critical infrastructure.</li>
-<li>Continue to share information on cybersecurity resources and support active participation and engagement in initiatives such as the National Institute of Standards and Technology (NIST) Cybersecurity Framework 2.0 and the National Initiative for Cybersecurity Education (NICE) community, including events such as the Regional Initiative for Cybersecurity Education and Training (RICET).</li>
-<li>Continue dialogue and collaboration regarding multilateral processes on cybersecurity, including in the Organization of American States Inter-American Committee against Terrorism (OAS-CICTE) Working Group on Cooperation and Confidence Building Measures in Cyberspace, and on cybercrime, including in discussions at the UN Ad Hoc Committee.</li>
-<li>Continue engagement in multi-stakeholder fora such as the Global Forum on Cyber Expertise (GFCE), the Internet Governance Forum (IGF), and the Freedom Online Coalition (FOC), including to continue to strengthen and advance efforts to promote fundamental freedoms and respect for human rights in cyberspace.</li>
-<li>Coordinate with Canada to convene a Trilateral Cyber Experts Meeting in 2022, consistent with commitments made at the 2021 North American Leaders’ Summit.</li>
-</ul>
-<p><i>End Text</i></p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
