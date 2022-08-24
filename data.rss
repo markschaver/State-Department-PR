@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 24 Aug 2022 02:23:48 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 Aug 2022 13:57:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ukraine’s Independence Day</title>
+		<link>https://www.state.gov/ukraines-independence-day/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 13:57:28 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=371501</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p align="left">On behalf of the United States of America, I congratulate the people of Ukraine on their Independence Day, the commemoration of the date in 1991 when Ukraine officially left the Soviet Union and became a sovereign, democratic country. What should be a celebration of Ukraine’s independence is marred by Russia’s ongoing war of aggression. Six months ago, President Putin launched an unprovoked full-scale invasion of Ukraine. Ever since, Ukraine has fought back with ferocity, courage, and effectiveness.</p>
+<p align="left">Ukraine will remain sovereign and independent. The people of Ukraine have demonstrated that they will do whatever it takes to protect their homes, their families, their fellow citizens, their country &#8212; their independence. For our part, the United States has demonstrated that we will stand with Ukraine for as long as it takes. To that end, the President today announced nearly $3 billion in weapons and equipment to be provided through the Ukraine Security Assistance Initiative, enabling Ukraine to acquire what it needs to defend itself over the long term.</p>
+<p align="left">The United States has stood with the Ukrainian people for 31 years, and we will continue to firmly stand with them as they defend their freedom. Our support for Ukraine is unwavering.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p align="left">On behalf of the United States of America, I congratulate the people of Ukraine on their Independence Day, the commemoration of the date in 1991 when Ukraine officially left the Soviet Union and became a sovereign, democratic country. What should be a celebration of Ukraine’s independence is marred by Russia’s ongoing war of aggression. Six months ago, President Putin launched an unprovoked full-scale invasion of Ukraine. Ever since, Ukraine has fought back with ferocity, courage, and effectiveness.</p>
+<p align="left">Ukraine will remain sovereign and independent. The people of Ukraine have demonstrated that they will do whatever it takes to protect their homes, their families, their fellow citizens, their country &#8212; their independence. For our part, the United States has demonstrated that we will stand with Ukraine for as long as it takes. To that end, the President today announced nearly $3 billion in weapons and equipment to be provided through the Ukraine Security Assistance Initiative, enabling Ukraine to acquire what it needs to defend itself over the long term.</p>
+<p align="left">The United States has stood with the Ukrainian people for 31 years, and we will continue to firmly stand with them as they defend their freedom. Our support for Ukraine is unwavering.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>The Nomination of Professor Sarah Cleveland for the International Court of Justice</title>
 		<link>https://www.state.gov/the-nomination-of-professor-sarah-cleveland-for-the-international-court-of-justice/</link>
 		
@@ -1953,133 +2114,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		</script>
 									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
 <p>The United States strongly condemns the Al-Shabaab attack at the Hayat Hotel in Mogadishu. We express our heartfelt condolences to the families who lost loved ones, wish a full recovery to those injured, and commend Somalia’s security forces.  The United States remains steadfast in our support of Somali and African Union-led efforts to counter terrorism and build a secure and prosperous future for the people of Somalia.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>$775 Million in Additional U.S. Military Assistance for Ukraine</title>
-		<link>https://www.state.gov/775-million-in-additional-u-s-military-assistance-for-ukraine/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 19 Aug 2022 20:35:38 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=370619</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>As we approach the six-month mark of Russia’s unprovoked and brutal full-scale war against Ukraine, President Putin’s forces continue their assault, inflicting grievous harm on civilians and causing massive destruction of civilian infrastructure.  President Biden has been clear that we will continue to support the people of Ukraine in defending their country from Russia’s aggression for as long as it takes.</p>
-<p>As part of those efforts, pursuant to a delegation of authority from the President, today I am authorizing our nineteenth drawdown since September 2021 of U.S. arms and equipment utilizing this authority.  This $775 million drawdown includes additional arms, munitions, and equipment from U.S. Department of Defense inventories, equipment that Ukraine’s forces have used so effectively for their country’s defense.  This package brings total U.S. security assistance committed to Ukraine to approximately $10.6 billion since the beginning of this Administration.</p>
-<p>The United States stands with our Allies and partners from more than 50 countries in providing vital security assistance to support Ukraine’s defense of its sovereignty and territorial integrity.  The courage and strength of Ukraine’s military and its people are extraordinary, and the United States will continue to provide additional systems and capabilities for Ukraine.  These capabilities are carefully calibrated to make the most difference on the battlefield and strengthen Ukraine’s position at the negotiating table.</p>
-<p><input type="hidden" data-filter="111111111111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>As we approach the six-month mark of Russia’s unprovoked and brutal full-scale war against Ukraine, President Putin’s forces continue their assault, inflicting grievous harm on civilians and causing massive destruction of civilian infrastructure.  President Biden has been clear that we will continue to support the people of Ukraine in defending their country from Russia’s aggression for as long as it takes.</p>
-<p>As part of those efforts, pursuant to a delegation of authority from the President, today I am authorizing our nineteenth drawdown since September 2021 of U.S. arms and equipment utilizing this authority.  This $775 million drawdown includes additional arms, munitions, and equipment from U.S. Department of Defense inventories, equipment that Ukraine’s forces have used so effectively for their country’s defense.  This package brings total U.S. security assistance committed to Ukraine to approximately $10.6 billion since the beginning of this Administration.</p>
-<p>The United States stands with our Allies and partners from more than 50 countries in providing vital security assistance to support Ukraine’s defense of its sovereignty and territorial integrity.  The courage and strength of Ukraine’s military and its people are extraordinary, and the United States will continue to provide additional systems and capabilities for Ukraine.  These capabilities are carefully calibrated to make the most difference on the battlefield and strengthen Ukraine’s position at the negotiating table.</p>
-<p><input type="hidden" data-filter="111111111111" /></p>
 ]]></content:encoded>
 					
 		
