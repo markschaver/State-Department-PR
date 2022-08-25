@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 25 Aug 2022 19:03:22 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Aug 2022 19:40:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -191,7 +191,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		
 			</item>
 		<item>
-		<title>Joint Statement on FIRST program cooperation at the 2022 NPT Review Conference</title>
+		<title>Joint Statement on FIRST Program Cooperation at the 2022 NPT Review Conference</title>
 		<link>https://www.state.gov/joint-statement-on-first-program-cooperation-at-the-2022-npt-review-conference/</link>
 		
 		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
