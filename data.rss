@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 25 Aug 2022 22:03:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Aug 2022 00:34:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Upheld Conviction of Pham Doan Trang</title>
+		<link>https://www.state.gov/the-upheld-conviction-of-pham-doan-trang/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Fri, 26 Aug 2022 00:34:01 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=372033</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>The United States is deeply concerned by the upheld conviction and nine-year prison sentence of renowned Vietnamese author and journalist Pham Doan Trang.  Trang, a 2022 winner of the Secretary of State’s International Women of Courage Award, has been recognized internationally for her work to advance human rights and good governance in Vietnam.  The UN Working Group on Arbitrary Detention found in September 2021 that Trang’s detention is arbitrary and in contravention of Vietnam’s international human rights commitments.  We note reports of Trang’s declining health and urge Vietnam to ensure adequate medical care and to allow access to Trang to assess her medical condition.</p>
+<p>Trang’s continued detention is the latest instance in an alarming pattern of arrests and sentencing of individuals in Vietnam for peacefully expressing their opinions.  We call for the Vietnamese government to release Trang and to allow all individuals in Vietnam to exercise their right to freedom of expression, without fear of retaliation, consistent with the human rights provisions in Vietnam’s constitution and Vietnam’s international obligations and commitments.</p>
+<p><input type="hidden" data-filter="000000000000" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>The United States is deeply concerned by the upheld conviction and nine-year prison sentence of renowned Vietnamese author and journalist Pham Doan Trang.  Trang, a 2022 winner of the Secretary of State’s International Women of Courage Award, has been recognized internationally for her work to advance human rights and good governance in Vietnam.  The UN Working Group on Arbitrary Detention found in September 2021 that Trang’s detention is arbitrary and in contravention of Vietnam’s international human rights commitments.  We note reports of Trang’s declining health and urge Vietnam to ensure adequate medical care and to allow access to Trang to assess her medical condition.</p>
+<p>Trang’s continued detention is the latest instance in an alarming pattern of arrests and sentencing of individuals in Vietnam for peacefully expressing their opinions.  We call for the Vietnamese government to release Trang and to allow all individuals in Vietnam to exercise their right to freedom of expression, without fear of retaliation, consistent with the human rights provisions in Vietnam’s constitution and Vietnam’s international obligations and commitments.</p>
+<p><input type="hidden" data-filter="000000000000" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Department Press Briefing – August 25, 2022</title>
 		<link>https://www.state.gov/briefings/department-press-briefing-august-25-2022/</link>
 		
@@ -1665,329 +1824,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Ambassador Reeker brings extensive experience in Europe and international organizations.  He served most recently at the Embassy of the United States of America in the United Kingdom as Chargé d’Affaires to the Court of St. James’s.  From March 2019 to August 2021, Ambassador Reeker was Acting Assistant Secretary of State for European and Eurasian Affairs.  Prior to heading the Bureau, Ambassador Reeker was Civilian Deputy and Policy Advisor to the Commander of U.S. European Command in Stuttgart, Germany.  He served earlier as United States Consul General in Milan, covering northern Italy, and was Deputy Assistant Secretary of State focused on the Balkans, Central Europe, and Holocaust Issues.  From 2008-2011 he was U.S. Ambassador to North Macedonia.</p>
 <p>The United States is committed to helping Armenia and Azerbaijan negotiate a long-term political settlement to the Nagorno-Karabakh conflict.  Ambassador Reeker will engage bilaterally, with like-minded partners such as the European Union, and through his role as an OSCE Minsk Group Co-Chair, to facilitate direct dialogue between Armenia and Azerbaijan.  Ambassador Reeker’s appointment at this time reaffirms the importance the United States places in the Geneva International Discussions on Georgia.</p>
 <p><input type="hidden" data-filter="111001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Department Press Briefing – August 24, 2022</title>
-		<link>https://www.state.gov/briefings/department-press-briefing-august-24-2022/</link>
-		
-		<dc:creator><![CDATA[Vedant Patel, Principal Deputy SpokespersonBureau of Global Public Affairs]]></dc:creator>
-		<pubDate>Thu, 25 Aug 2022 00:04:44 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?post_type=state_briefing&#038;p=371683</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Vedant Patel, Principal Deputy SpokespersonBureau of Global Public Affairs</p>
-<p>Washington, D.C.</p>
-<p>2:01 p.m. EDT</p>
-<p><a id="post-371683-UKRAINE"></a><strong>MR PATEL:</strong> Hi, everyone. Good afternoon. Thanks so much for joining us today. I wanted to start by taking a minute to highlight that today is Ukraine’s national day, which also marks the sixth month of Putin’s brutal war in Ukraine. Looking back six months ago, the United States consistently spoke of the two paths Russia could choose: dialogue and diplomacy or escalation and massive consequence. We made genuine and sincere efforts to pursue the former, which we vastly preferred, but President Putin chose war. Putin expected a quick victory but underestimated the resolve of the Ukrainian people, their strong desire to remain independent, and their capability to defend their freedom and democracy.</p>
-<p>Since Putin made that fateful decision, Russia has inflicted unconscionable civilian suffering and massive damage to civilian infrastructure. Its bombardments have hit schools, hospitals, churches, apartment buildings, and food infrastructure facilities. The United States has rallied the world and galvanized our global allies and partners to support Ukraine and press Putin to end his senseless war. We have worked with our allies and partners to impose severe and unprecedented costs on Russia, including through sanctions, export controls, and visa restrictions that target Putin, his war machine, and his enablers.</p>
-<p>Including today’s announcement of the Ukraine Security Assistance Initiative, the United States has announced more than $22 billion in assistance to Ukraine, including critical security assistance to help Ukraine defend itself, humanitarian assistance to help the millions of people displaced or affected by Putin’s brutality, and economic assistance to support the resilience of Ukraine’s government and economy. We don’t know when this war will be over, but we know this: Ukraine will be a strong, sovereign, and independent nation, and the United States will continue to stand united with Ukraine and help it defend itself for as long as it takes.</p>
-<p>And with that, I’m happy to take your questions. Operator, would you please mind sharing the question instructions again?</p>
-<p><strong>OPERATOR:</strong> Of course. If you have a question at this time, please press 1 then 0 on your telephone keypad. You may withdraw your question at any time by repeating the 1 then 0 command. If using a speakerphone, please pick up your handset before pressing the numbers. One moment, please, for our first question.</p>
-<p><strong>MR PATEL:</strong> Thanks. Let’s first go to the line of Shaun Tandon with AFP.</p>
-<p><a id="post-371683-ETHIOPIA"></a><strong>QUESTION:</strong> Hey, Vedant, hope you’re well. I’m sure lots of my colleagues have questions on Iran, but if you don’t mind I’d like to ask about two things that are unrelated to that. Ethiopia, the breaking of the ceasefire – do you have any comment on that, and also in terms of diplomacy, whether there’s any U.S. effort to try to restore the ceasefire, and whether this will affect at all any discussions on Ethiopia’s trade privileges, trying to restore those, as Ethiopia has been trying to do?</p>
-<p><a id="post-371683-CHINA"></a> And also I was wondering if you could give a readout of Deputy Secretary Sherman’s talks with the Chinese ambassador yesterday. What was discussed – Taiwan, et cetera? Does this indicate that there could be some diplomacy back on track? Anything you could give on that. Thanks very much.</p>
-<p><strong>MR PATEL:</strong> Thanks, Shaun. I will start with your second question first. So Deputy Secretary Sherman met with the PRC ambassador to the United States yesterday on August 23rd. We have and will continue to keep the lines of communication open with the PRC. Beijing has shut down some key communication channels and cooperation across several vital issues that affect the entire world, but the United States continues to seek an open and constructive line of communication to manage our differences.</p>
-<p>And on your question about Ethiopia, we are concerned by reports of renewed hostilities in Ethiopia, and we call on the Government of Ethiopia and the TPLF to redouble efforts to advance talks to achieve a durable ceasefire without preconditions and ultimately bring a permanent end to the conflict. Over the past five months, the March 24th humanitarian truce declared by the government and reciprocated by the TPLF, it reduced violence and it cleared the way for delivery of humanitarian assistance in key regions of Ethiopia. Respect for this truce has saved countless lives and enabled assistance to reach tens of thousands, and recent provocations on the battlefield and the lack of a durable ceasefire now threaten this progress and delay the establishment of an inclusive political process to achieve progress towards common security and prosperity for all Ethiopians.</p>
-<p>A return to active conflict will result in widespread suffering, heightened human rights abuses, create further economic hardships, and play into the hands of those that seek to undermine Ethiopia’s peace and security. The United States remains fully committed to the unity, sovereignty, and territorial integrity of Ethiopia, and seeks peace and stability in Ethiopia. We stand ready to work with all Ethiopians to navigate the full range of challenges the country faces, which include overcoming historic drought and promoting regional security. I’ll also note that the U.S. is the largest contributor of humanitarian assistance, reflecting our commitment to reach all regions and people of Ethiopia in need.</p>
-<p>Next let’s go to the line of Simon Lewis with Reuters.</p>
-<p><a id="post-371683-THAILAND"></a><strong>QUESTION: </strong>Yeah, I just wondered if you had any – the U.S. has any comment or response to political developments in Thailand, where the prime minister – a court has ruled that the prime minister should be suspended because he served a long enough period in charge. So is there any particular concern from the U.S. about this development and – yeah, your comments on that? Thanks.</p>
-<p><strong>MR PATEL: </strong>Sure. The United States respects Thailand’s democratic process and institutions and looks forward to continuing our engagement with the government and people of Thailand. It’s important to remember that Thailand is a key partner and one of our most enduring allies in Asia. Our broad cooperation benefits both of our countries, the region, and beyond.</p>
-<p>Next let’s go to the line of Shannon Crawford with ABC.</p>
-<p><a id="post-371683-IRAN"></a><strong>QUESTION: </strong>Hi, thanks so much. I wanted to ask about Iran and your response today to the EU. I was wondering if you could read anything else out and say what you expect the next steps to be. Additionally, I wanted to ask about the timeline for that response. The administration has said itself that the runway is ending, time is of the essence to restore the JCPOA. And it took about a week for you to reply after Iran issued their comments to the EU. I wanted you to say if you had any concerns over the timeline to restore a deal going forward. Thanks so much.</p>
-<p><strong>MR PATEL: </strong>Sure. As you know, we received Iran’s comments on the EU’s proposed final text through the EU. Our review of those comments has now concluded, and we have responded to the EU today. We have conveyed our feedback privately, and I’m not going to get into further details from here today on that.</p>
-<p>To take a little bit of a step back, we have taken a deliberate and principled approach to these negotiations from the start. If Iran is prepared to fully implement its commitments under the 2015 deal, then we’re prepared to do the same. This negotiation at times has languished for months upon months on account of Iran. The notion – we started in March, that we – we stated in March that we were prepared for a mutual return to full implementation of the JCPOA based on the text that was on the table at that time. Iran was not. So we’re – like I said, we’re not going to negotiate additionally from public, and we’ve conveyed our response to the EU today.</p>
-<p>Next let’s go to the line of Nike Ching with Voice of America.</p>
-<p><a id="post-371683-CHINA2"></a><strong>QUESTION:</strong> Thank you for taking my questions. Following up on the question regarding Deputy Secretary of State Sherman’s meeting with the Chinese Ambassador Qin Gang, specifically what’s discussed on Taiwan? Does the United States assess a drastic military move by China as Chinese President Xi Jinping is on his way to the third term? And how did you describe the intimacy of the meeting? Is this part of the guard rails to prevent miscalculation?</p>
-<p>And separately, if I may, what can you tell us about discussions with China on Taliban travel ban waivers? Thank you so much.</p>
-<p><strong>MR PATEL:</strong> Sure. Thanks, Nike. So I will just reiterate what I answered before in that we have and will continue to keep the lines of communication open with the PRC. The United States continues to seek open and constructive lines of communication to manage our differences. I will note that we continue to take calm and resolute steps to uphold peace and stability in the region as well as support Taiwan in line with our longstanding “one China” policy.</p>
-<p>I don’t have any specific readouts to provide on discussions about the travel ban exemptions. But what I will reiterate, and some have spoken to this before, is that the exemption expired on August 19th, and discussions on whether to grant an exemption remain ongoing, and a decision requires consensus among other members of the Security Council. We will, I’m sure, have more to say once the committee concludes negotiations; generally we see the need to continue limited engagement with the Taliban to help the people of – help the Afghan people, and have found that face-to-face discussions in third countries have proven to be useful to advance our interests, to advance our national security interests.</p>
-<p>Next let’s go to the line of Jennifer Hansler with CNN.</p>
-<p><a id="post-371683-IRAN2"></a><strong>QUESTION:</strong> On Iran, I wanted to ask about the issue of the detainees. Are there still active negotiations on that part? And is it still the position of the U.S. that there has to be an agreement on their release before any reentry to the JCPOA?</p>
-<p><strong>MR PATEL:</strong> Thanks for your question. So the Secretary addressed this earlier this year. He said for four years the Shargi family has waited anxiously for the Iranian Government to release Emad. Like too many other families, their loved one has been treated as a political pawn. We call on Iran to stop this inhumane practice and release Emad. The U.S. will always stand up for our citizens who are wrongfully detained overseas, and we’re continuing to approach negotiations to secure the release of four wrongfully detained U.S. citizens with the utmost urgency, and urge Iran to do the same.</p>
-<p>We have two separate negotiations underway with Iran, one for a mutual return to full implementation of the JCPOA and one on the release of all four U.S. citizens unjustly detained in Iran. We continue – we are continuing to approach these negotiations with the utmost urgency, and like I said, are urging Iran to do the same.</p>
-<p>Next let’s go to the line Nadia Bilbassy from Al Arabiya News.</p>
-<p><strong>QUESTION:</strong> Thank you so much for doing this. I hope you can hear me. I just wanted to clarify one point. You’re saying that basically, if an agreement is signed, so basically it will allow Iran to go back to the 2015 agreement as it was signed. Does that mean that the administration is not going to address the issues that led the Trump administration to withdraw from it in 2018, which is the sunset clause, allowing inspectors to go to secret sites, et cetera? So my understanding, and I just want you to confirm that, is basically we’re going back to the agreement as it was signed during the Obama administration. Thank you so much.</p>
-<p><strong>MR PATEL:</strong> Thanks for your question, Nadia. So the Biden administration has been sincere and steadfast in pursing a path of meaningful diplomacy to achieve a mutual return to full implementation of the JCPOA and use that to address our full range of concerns with Iran. A mutual return to full implementation is in America’s national interest. It is the best available option to restrict Iran’s nuclear program and provide a platform to address Iran’s other destabilizing conduct.</p>
-<p>Next let’s go to the line of Alex Raufoglu.</p>
-<p><strong>QUESTION:</strong> Thank you so much, Vedant, for doing this. I want to stay on Ukraine and just to pick up on where you left off in your opening statement, and just wanted to give you a chance to a little bit expand on what your objectives are six months into the war. Is it just to help Ukrainians defend their territory, or to help them achieve victory and defeat Russia? I’m asking because there is a huge difference between the two, and we also have seen the Secretary’s statement today, and of course the White House’s and also an aid package.</p>
-<p>My second question: Can I get your comments on planned trials of captured Ukrainian soldiers in Mariupol? Thank you so much again.</p>
-<p><a id="post-371683-UKRAINE2"></a><strong>MR PATEL:</strong> Thanks, Alex. So let me try and address this in two parts. First is – the first part of your question – we believe it’s for Ukraine to define what it considers success. We’ve been clear that diplomacy is the only way to end this conflict, but Russia has consistently shown no signs that it’s willing to seriously engage in negotiations. We want to see a democratic, independent, sovereign, and prosperous Ukraine with the means to deter and defend itself against further aggression, and we are focused on strengthening Ukraine’s hand as much as possible on the battlefield so when that time comes, Ukraine has as much leverage as possible at the negotiating table.</p>
-<p>Ukraine has continuously demonstrated its commitment to a peaceful negotiated end to the conflict, and we believe that if and when Russia is prepared to act in good faith, Ukraine will be as well.</p>
-<p>And on the second part of your question, we’re going to have to take that question back and we’ll have the team follow up with you.</p>
-<p>Next let’s go to the line of Said Arikat.</p>
-<p><a id="post-371683-ISPAL"></a><strong>QUESTION:</strong> (Inaudible) anything on the organization, the Palestinian organizations? Is there anything in the offing on the position of the United States? That’s one.</p>
-<p>Second, did the United States warn the Palestinian Authority or Mahmoud Abbas, the president of the Palestinian Authority, not to pursue efforts for full membership in the United Nations?</p>
-<p>And lastly, did Mr. Hulata, the Israeli national security advisor, discuss with Deputy Wendy Sherman the issues or did she raise the issues of the organizations with Mr. Hulata? Thank you, Vedant.</p>
-<p><strong>MR PATEL:</strong> Thanks, Said. So we actually missed the first part of your question, so if you could please repeat that, that would be great.</p>
-<p><strong>QUESTION:</strong> My first part – the first part of my question was: Is there anything new on the U.S. position about the organizations that have been declared as terror organizations by Israel, the human rights organizations? That was my first question.</p>
-<p>Were the other ones clear?</p>
-<p><strong>MR PATEL:</strong> Yup, thanks. So on the first part of your question, my colleague Ned Price spoke to this extensively on Monday and we don’t have any additional updates to share beyond that.</p>
-<p>On the meeting that you mentioned in the second part of your question, that – Deputy Secretary Sherman looks forward to meeting with Israeli National Security Advisor Dr. Eyal Hulata later today. We will of course have a readout once that meeting concludes, but I’m not going to get ahead of that process just yet.</p>
-<p>Let’s go to the line of Hiba Nasr.</p>
-<p><a id="post-371683-DEPARTMENT"></a><strong>QUESTION:</strong> Hi. Thanks for taking my question. Is there a possibility of a meeting between the Secretary and Lavrov on the sidelines of the UNGA?</p>
-<p><strong>MR PATEL:</strong> Sorry about that, with difficulty getting off of mute. We have no meetings to preview as it relates to UNGA or anything on the sidelines at this time.</p>
-<p>Next let’s go to the line of Hiba (inaudible).</p>
-<p><strong>OPERATOR: </strong>She seems to have removed herself from queue.</p>
-<p><strong>MR PATEL: </strong>Understood. Let’s go to the line of Roj Zalla from Rudaw TV.</p>
-<p><strong>QUESTION: </strong>Can you hear me?</p>
-<p><strong>MR PATEL: </strong>Yes, sir. Go ahead.</p>
-<p><a id="post-371683-SYRIA"></a><strong>QUESTION: </strong>Thank you so much. Two questions about Syria. First, the airstrike that targeted some Iranian militia group. I know that CENTCOM had a statement on that, but I was just wondering if there was anything else that you could add or what’s the State Department’s position on that.</p>
-<p>And then the second question that I have is about the Turkish drones striking an education camp, killing four teenage girls. I know you guys had a statement in which you are calling for restraint, but the statement fails to even mention Turkey. I mean, if it was someone like Bashar Assad or another regime, I would assume that you would have a much stronger statement. So what is it that doesn’t allow you guys to even mention the perpetrator of an attack that killed four teenage girls? Thank you.</p>
-<p><strong>MR PATEL: </strong>Thanks for your question. So on the airstrike, I don’t have anything additional to provide beyond what our colleagues at CENTCOM shared, but to reiterate as the CENTCOM spokesperson stated last night, at President Biden’s direction, U.S. military forces conducted precision airstrikes on facilities used by groups affiliated with Iran’s IRGC and Syria overnight. The strike was in response to attacks by Iran-backed militia groups against U.S. forces in Syria, including the attacks on August 15th. The U.S. will do what is necessary to defend U.S. forces, but would defer you to the Pentagon for anything additional.</p>
-<p>And on your second question, I will just reiterate what we have said previously, which is that the United States remains deeply concerned about increasing military activity in northern Syria, and in particular its impact on the civilian population. We continue to support the maintenance of current ceasefire lines and condemn any escalations. It is crucial for all sides to maintain and respect ceasefire zones to enhance stability in Syria and work towards a political solution to the conflict.</p>
-<p>Next, let’s go to the line of Guita Aryan with Voice of America.</p>
-<p><strong>QUESTION: </strong>Hi, I don’t know if my line is open yet or not.</p>
-<p><strong>MR PATEL: </strong>Yeah, go ahead.</p>
-<p><a id="post-371683-IRAN3"></a><strong>QUESTION: </strong>Oh, okay, how is it going? Thanks for taking my question. I want to circle back to Iran. Now that the team has taken its comments on Iran’s comments, does the State Department think that this could be a short dash – a really short dash to an agreement?</p>
-<p><strong>MR PATEL: </strong>Hi, there. Sorry about that. I’ve been struggling with mute. So again, I’m just not going to speculate or negotiate on a timeline or get into details from here beyond what we’ve already said, which is that we received Iran’s comments and we have responded to the EU today. We’ve conveyed our feedback privately, but we’re not going to get into the details of that. We have taken a deliberate and principled approach to these negotiations from the start. We are continuing to engage with this, and I don’t have anything additional to provide right now on timeline.</p>
-<p>Next, let’s go to the line of Hariana Veras with TPA.</p>
-<p><a id="post-371683-ANGOLA"></a><strong>QUESTION: </strong>Thank you very much for the opportunity. So today is the election day in Angola. And we noticed that the State Department didn’t issue any alerts for the Americans in Angola. And also the election is done. Angolans went to vote and everything was peaceful in the entire country. So I just want to hear the comments of the State Department on the Angola election.</p>
-<p><strong>MR PATEL: </strong>Sure. Thanks so much for your question. The United States supports the democratic process through our ongoing democracy and governance programs, and by observing the election. Election observations promote participation and public confidence in the electoral process. I will also note that the United States and Angola share a strong partnership. We will continue to work together with the government chosen by the Angolan people to deepen cooperation around shared priorities, which include democracy, economic growth, and investment, global health security, and public health, and climate and energy goals to create a better future for all Angolans.</p>
-<p>The United States also commends the Angolan people for their participation in the democratic process, and efforts to strengthen democratic institutions will provide a foundation for a safe, prosperous, healthy, and inclusive future for both of our countries.</p>
-<p>Let’s go to Jennifer Smith from <em>The Daily Mail</em>.</p>
-<p><a id="post-371683-SOUTHSUDAN"></a><strong>QUESTION:</strong> Hi there. Thanks for taking my question. I’d like to ask you about Charles Oliha. He is the diplomat from South Sudan who was arrested on suspicion of rape this weekend in New York City. He was released after he invoked his diplomatic immunity. My question has two parts. Firstly, I would like to know whether or not he remains in the U.S. or if he has left the country. And secondly, the Manhattan district attorney has announced that he is investigating these claims. If he does bring charges, will the State Department ask the Government of South Sudan to waive Oliha’s diplomatic immunity? Thanks.</p>
-<p><strong>MR PATEL:</strong> Thanks for your question. So we are aware of the incident referenced involving a diplomat accredited to the UN. We take these allegations very seriously and are working closely with the New York Police Department and the Mayor’s Office of International Affairs, as we do in all legal and criminal cases involving foreign diplomats assigned to permanent missions and observer offices at the UN.</p>
-<p>I don’t have anything else to add, as we don’t comment on specifics of ongoing investigations.</p>
-<p>Next, let’s go to the line of Jiha Ham with Voice of America.</p>
-<p><strong>QUESTION:</strong> Hi, Vedant. Thank you for taking my questions. I hope you can hear me?</p>
-<p><strong>MR PATEL:</strong> Yes, sir. Go ahead.</p>
-<p><a id="post-371683-SOUTHKOREA"></a><strong>QUESTION:</strong> Great, thanks. Two Russian bombers flew through South Korea’s air defense identification zone yesterday. So what is your level of concern over this Russian military activity? Plus the U.S. has made clear that the trilateral cooperation between and among the U.S.-ROK-Japan is pivotal to a number of shared interests. Can you say this Russian bombers case is one of the areas where the U.S. can cooperate or coordinate with South Korea?</p>
-<p>My second question is, as we know, South Korean President Yoon Suk-yeol has announced his new initiative towards North Korea. But some say that the U.S. and North Korea should normalize their relations along with this – along with this initiative when and if it is moving forward. I mean, what do you think of this suggestion or idea, the normalizing of relations between the U.S. and North Korea? Are there any conditions or limitations? Thanks.</p>
-<p><strong>MR PATEL:</strong> Thanks so much for your question. So on your first question, we’re going to have to take that back and we’ll have someone from the team follow up with you on that one. But what I can say about your second part is that the United States remains focused on coordinating closely with our allies and partners to address the threats posed by the DPRK, which includes advancing our shared objective of the complete denuclearization of the Korean Peninsula and continuing our ironclad commitment to the defense of the Republic of Korea and Japan.</p>
-<p>And I think we’ve got time for one more question, so we’ll close out going back to Said.</p>
-<p><a id="post-371683-ISPAL2"></a><strong>QUESTION:</strong> Thank you for taking my question again, Vedant. I wanted to ask you, Axios reports that the administration has warned the Palestinian Authority not to apply for full membership in the United Nations. I wonder if you have any comment on that, whether this happened or not happened. Thank you.</p>
-<p><strong>MR PATEL:</strong> Thanks, Said, and apologies for missing this when you asked earlier. So there are no shortcuts to Palestinian statehood outside direct negotiations between the parties. The only realistic path to a comprehensive and lasting peace that ends this conflict permanently is through direct negotiations between the parties. The United States remains committed to a two-state solution. As President Biden said along President Abbas earlier this summer, the Palestinian people deserve a state of their own that’s independent, sovereign, viable, and contiguous. The United States is focused on trying to bring the Palestinians and Israelis closer together in pursuit of this goal of two states, for two people, living side by side in peace and security.</p>
-<p><strong>QUESTION:</strong> Thank you.</p>
-<p><strong>MR PATEL:</strong> Thanks so much, everybody. I think that’s all the time we have for today, but appreciate everyone joining, and we’ll talk to you all soon.</p>
-<p>(The briefing was concluded at 2:34 p.m.)</p>
-<p># # #</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Vedant Patel, Principal Deputy SpokespersonBureau of Global Public Affairs</p>
-<p>Washington, D.C.</p>
-<p>2:01 p.m. EDT</p>
-<p><a id="post-371683-UKRAINE"></a><strong>MR PATEL:</strong> Hi, everyone. Good afternoon. Thanks so much for joining us today. I wanted to start by taking a minute to highlight that today is Ukraine’s national day, which also marks the sixth month of Putin’s brutal war in Ukraine. Looking back six months ago, the United States consistently spoke of the two paths Russia could choose: dialogue and diplomacy or escalation and massive consequence. We made genuine and sincere efforts to pursue the former, which we vastly preferred, but President Putin chose war. Putin expected a quick victory but underestimated the resolve of the Ukrainian people, their strong desire to remain independent, and their capability to defend their freedom and democracy.</p>
-<p>Since Putin made that fateful decision, Russia has inflicted unconscionable civilian suffering and massive damage to civilian infrastructure. Its bombardments have hit schools, hospitals, churches, apartment buildings, and food infrastructure facilities. The United States has rallied the world and galvanized our global allies and partners to support Ukraine and press Putin to end his senseless war. We have worked with our allies and partners to impose severe and unprecedented costs on Russia, including through sanctions, export controls, and visa restrictions that target Putin, his war machine, and his enablers.</p>
-<p>Including today’s announcement of the Ukraine Security Assistance Initiative, the United States has announced more than $22 billion in assistance to Ukraine, including critical security assistance to help Ukraine defend itself, humanitarian assistance to help the millions of people displaced or affected by Putin’s brutality, and economic assistance to support the resilience of Ukraine’s government and economy. We don’t know when this war will be over, but we know this: Ukraine will be a strong, sovereign, and independent nation, and the United States will continue to stand united with Ukraine and help it defend itself for as long as it takes.</p>
-<p>And with that, I’m happy to take your questions. Operator, would you please mind sharing the question instructions again?</p>
-<p><strong>OPERATOR:</strong> Of course. If you have a question at this time, please press 1 then 0 on your telephone keypad. You may withdraw your question at any time by repeating the 1 then 0 command. If using a speakerphone, please pick up your handset before pressing the numbers. One moment, please, for our first question.</p>
-<p><strong>MR PATEL:</strong> Thanks. Let’s first go to the line of Shaun Tandon with AFP.</p>
-<p><a id="post-371683-ETHIOPIA"></a><strong>QUESTION:</strong> Hey, Vedant, hope you’re well. I’m sure lots of my colleagues have questions on Iran, but if you don’t mind I’d like to ask about two things that are unrelated to that. Ethiopia, the breaking of the ceasefire – do you have any comment on that, and also in terms of diplomacy, whether there’s any U.S. effort to try to restore the ceasefire, and whether this will affect at all any discussions on Ethiopia’s trade privileges, trying to restore those, as Ethiopia has been trying to do?</p>
-<p><a id="post-371683-CHINA"></a> And also I was wondering if you could give a readout of Deputy Secretary Sherman’s talks with the Chinese ambassador yesterday. What was discussed – Taiwan, et cetera? Does this indicate that there could be some diplomacy back on track? Anything you could give on that. Thanks very much.</p>
-<p><strong>MR PATEL:</strong> Thanks, Shaun. I will start with your second question first. So Deputy Secretary Sherman met with the PRC ambassador to the United States yesterday on August 23rd. We have and will continue to keep the lines of communication open with the PRC. Beijing has shut down some key communication channels and cooperation across several vital issues that affect the entire world, but the United States continues to seek an open and constructive line of communication to manage our differences.</p>
-<p>And on your question about Ethiopia, we are concerned by reports of renewed hostilities in Ethiopia, and we call on the Government of Ethiopia and the TPLF to redouble efforts to advance talks to achieve a durable ceasefire without preconditions and ultimately bring a permanent end to the conflict. Over the past five months, the March 24th humanitarian truce declared by the government and reciprocated by the TPLF, it reduced violence and it cleared the way for delivery of humanitarian assistance in key regions of Ethiopia. Respect for this truce has saved countless lives and enabled assistance to reach tens of thousands, and recent provocations on the battlefield and the lack of a durable ceasefire now threaten this progress and delay the establishment of an inclusive political process to achieve progress towards common security and prosperity for all Ethiopians.</p>
-<p>A return to active conflict will result in widespread suffering, heightened human rights abuses, create further economic hardships, and play into the hands of those that seek to undermine Ethiopia’s peace and security. The United States remains fully committed to the unity, sovereignty, and territorial integrity of Ethiopia, and seeks peace and stability in Ethiopia. We stand ready to work with all Ethiopians to navigate the full range of challenges the country faces, which include overcoming historic drought and promoting regional security. I’ll also note that the U.S. is the largest contributor of humanitarian assistance, reflecting our commitment to reach all regions and people of Ethiopia in need.</p>
-<p>Next let’s go to the line of Simon Lewis with Reuters.</p>
-<p><a id="post-371683-THAILAND"></a><strong>QUESTION: </strong>Yeah, I just wondered if you had any – the U.S. has any comment or response to political developments in Thailand, where the prime minister – a court has ruled that the prime minister should be suspended because he served a long enough period in charge. So is there any particular concern from the U.S. about this development and – yeah, your comments on that? Thanks.</p>
-<p><strong>MR PATEL: </strong>Sure. The United States respects Thailand’s democratic process and institutions and looks forward to continuing our engagement with the government and people of Thailand. It’s important to remember that Thailand is a key partner and one of our most enduring allies in Asia. Our broad cooperation benefits both of our countries, the region, and beyond.</p>
-<p>Next let’s go to the line of Shannon Crawford with ABC.</p>
-<p><a id="post-371683-IRAN"></a><strong>QUESTION: </strong>Hi, thanks so much. I wanted to ask about Iran and your response today to the EU. I was wondering if you could read anything else out and say what you expect the next steps to be. Additionally, I wanted to ask about the timeline for that response. The administration has said itself that the runway is ending, time is of the essence to restore the JCPOA. And it took about a week for you to reply after Iran issued their comments to the EU. I wanted you to say if you had any concerns over the timeline to restore a deal going forward. Thanks so much.</p>
-<p><strong>MR PATEL: </strong>Sure. As you know, we received Iran’s comments on the EU’s proposed final text through the EU. Our review of those comments has now concluded, and we have responded to the EU today. We have conveyed our feedback privately, and I’m not going to get into further details from here today on that.</p>
-<p>To take a little bit of a step back, we have taken a deliberate and principled approach to these negotiations from the start. If Iran is prepared to fully implement its commitments under the 2015 deal, then we’re prepared to do the same. This negotiation at times has languished for months upon months on account of Iran. The notion – we started in March, that we – we stated in March that we were prepared for a mutual return to full implementation of the JCPOA based on the text that was on the table at that time. Iran was not. So we’re – like I said, we’re not going to negotiate additionally from public, and we’ve conveyed our response to the EU today.</p>
-<p>Next let’s go to the line of Nike Ching with Voice of America.</p>
-<p><a id="post-371683-CHINA2"></a><strong>QUESTION:</strong> Thank you for taking my questions. Following up on the question regarding Deputy Secretary of State Sherman’s meeting with the Chinese Ambassador Qin Gang, specifically what’s discussed on Taiwan? Does the United States assess a drastic military move by China as Chinese President Xi Jinping is on his way to the third term? And how did you describe the intimacy of the meeting? Is this part of the guard rails to prevent miscalculation?</p>
-<p>And separately, if I may, what can you tell us about discussions with China on Taliban travel ban waivers? Thank you so much.</p>
-<p><strong>MR PATEL:</strong> Sure. Thanks, Nike. So I will just reiterate what I answered before in that we have and will continue to keep the lines of communication open with the PRC. The United States continues to seek open and constructive lines of communication to manage our differences. I will note that we continue to take calm and resolute steps to uphold peace and stability in the region as well as support Taiwan in line with our longstanding “one China” policy.</p>
-<p>I don’t have any specific readouts to provide on discussions about the travel ban exemptions. But what I will reiterate, and some have spoken to this before, is that the exemption expired on August 19th, and discussions on whether to grant an exemption remain ongoing, and a decision requires consensus among other members of the Security Council. We will, I’m sure, have more to say once the committee concludes negotiations; generally we see the need to continue limited engagement with the Taliban to help the people of – help the Afghan people, and have found that face-to-face discussions in third countries have proven to be useful to advance our interests, to advance our national security interests.</p>
-<p>Next let’s go to the line of Jennifer Hansler with CNN.</p>
-<p><a id="post-371683-IRAN2"></a><strong>QUESTION:</strong> On Iran, I wanted to ask about the issue of the detainees. Are there still active negotiations on that part? And is it still the position of the U.S. that there has to be an agreement on their release before any reentry to the JCPOA?</p>
-<p><strong>MR PATEL:</strong> Thanks for your question. So the Secretary addressed this earlier this year. He said for four years the Shargi family has waited anxiously for the Iranian Government to release Emad. Like too many other families, their loved one has been treated as a political pawn. We call on Iran to stop this inhumane practice and release Emad. The U.S. will always stand up for our citizens who are wrongfully detained overseas, and we’re continuing to approach negotiations to secure the release of four wrongfully detained U.S. citizens with the utmost urgency, and urge Iran to do the same.</p>
-<p>We have two separate negotiations underway with Iran, one for a mutual return to full implementation of the JCPOA and one on the release of all four U.S. citizens unjustly detained in Iran. We continue – we are continuing to approach these negotiations with the utmost urgency, and like I said, are urging Iran to do the same.</p>
-<p>Next let’s go to the line Nadia Bilbassy from Al Arabiya News.</p>
-<p><strong>QUESTION:</strong> Thank you so much for doing this. I hope you can hear me. I just wanted to clarify one point. You’re saying that basically, if an agreement is signed, so basically it will allow Iran to go back to the 2015 agreement as it was signed. Does that mean that the administration is not going to address the issues that led the Trump administration to withdraw from it in 2018, which is the sunset clause, allowing inspectors to go to secret sites, et cetera? So my understanding, and I just want you to confirm that, is basically we’re going back to the agreement as it was signed during the Obama administration. Thank you so much.</p>
-<p><strong>MR PATEL:</strong> Thanks for your question, Nadia. So the Biden administration has been sincere and steadfast in pursing a path of meaningful diplomacy to achieve a mutual return to full implementation of the JCPOA and use that to address our full range of concerns with Iran. A mutual return to full implementation is in America’s national interest. It is the best available option to restrict Iran’s nuclear program and provide a platform to address Iran’s other destabilizing conduct.</p>
-<p>Next let’s go to the line of Alex Raufoglu.</p>
-<p><strong>QUESTION:</strong> Thank you so much, Vedant, for doing this. I want to stay on Ukraine and just to pick up on where you left off in your opening statement, and just wanted to give you a chance to a little bit expand on what your objectives are six months into the war. Is it just to help Ukrainians defend their territory, or to help them achieve victory and defeat Russia? I’m asking because there is a huge difference between the two, and we also have seen the Secretary’s statement today, and of course the White House’s and also an aid package.</p>
-<p>My second question: Can I get your comments on planned trials of captured Ukrainian soldiers in Mariupol? Thank you so much again.</p>
-<p><a id="post-371683-UKRAINE2"></a><strong>MR PATEL:</strong> Thanks, Alex. So let me try and address this in two parts. First is – the first part of your question – we believe it’s for Ukraine to define what it considers success. We’ve been clear that diplomacy is the only way to end this conflict, but Russia has consistently shown no signs that it’s willing to seriously engage in negotiations. We want to see a democratic, independent, sovereign, and prosperous Ukraine with the means to deter and defend itself against further aggression, and we are focused on strengthening Ukraine’s hand as much as possible on the battlefield so when that time comes, Ukraine has as much leverage as possible at the negotiating table.</p>
-<p>Ukraine has continuously demonstrated its commitment to a peaceful negotiated end to the conflict, and we believe that if and when Russia is prepared to act in good faith, Ukraine will be as well.</p>
-<p>And on the second part of your question, we’re going to have to take that question back and we’ll have the team follow up with you.</p>
-<p>Next let’s go to the line of Said Arikat.</p>
-<p><a id="post-371683-ISPAL"></a><strong>QUESTION:</strong> (Inaudible) anything on the organization, the Palestinian organizations? Is there anything in the offing on the position of the United States? That’s one.</p>
-<p>Second, did the United States warn the Palestinian Authority or Mahmoud Abbas, the president of the Palestinian Authority, not to pursue efforts for full membership in the United Nations?</p>
-<p>And lastly, did Mr. Hulata, the Israeli national security advisor, discuss with Deputy Wendy Sherman the issues or did she raise the issues of the organizations with Mr. Hulata? Thank you, Vedant.</p>
-<p><strong>MR PATEL:</strong> Thanks, Said. So we actually missed the first part of your question, so if you could please repeat that, that would be great.</p>
-<p><strong>QUESTION:</strong> My first part – the first part of my question was: Is there anything new on the U.S. position about the organizations that have been declared as terror organizations by Israel, the human rights organizations? That was my first question.</p>
-<p>Were the other ones clear?</p>
-<p><strong>MR PATEL:</strong> Yup, thanks. So on the first part of your question, my colleague Ned Price spoke to this extensively on Monday and we don’t have any additional updates to share beyond that.</p>
-<p>On the meeting that you mentioned in the second part of your question, that – Deputy Secretary Sherman looks forward to meeting with Israeli National Security Advisor Dr. Eyal Hulata later today. We will of course have a readout once that meeting concludes, but I’m not going to get ahead of that process just yet.</p>
-<p>Let’s go to the line of Hiba Nasr.</p>
-<p><a id="post-371683-DEPARTMENT"></a><strong>QUESTION:</strong> Hi. Thanks for taking my question. Is there a possibility of a meeting between the Secretary and Lavrov on the sidelines of the UNGA?</p>
-<p><strong>MR PATEL:</strong> Sorry about that, with difficulty getting off of mute. We have no meetings to preview as it relates to UNGA or anything on the sidelines at this time.</p>
-<p>Next let’s go to the line of Hiba (inaudible).</p>
-<p><strong>OPERATOR: </strong>She seems to have removed herself from queue.</p>
-<p><strong>MR PATEL: </strong>Understood. Let’s go to the line of Roj Zalla from Rudaw TV.</p>
-<p><strong>QUESTION: </strong>Can you hear me?</p>
-<p><strong>MR PATEL: </strong>Yes, sir. Go ahead.</p>
-<p><a id="post-371683-SYRIA"></a><strong>QUESTION: </strong>Thank you so much. Two questions about Syria. First, the airstrike that targeted some Iranian militia group. I know that CENTCOM had a statement on that, but I was just wondering if there was anything else that you could add or what’s the State Department’s position on that.</p>
-<p>And then the second question that I have is about the Turkish drones striking an education camp, killing four teenage girls. I know you guys had a statement in which you are calling for restraint, but the statement fails to even mention Turkey. I mean, if it was someone like Bashar Assad or another regime, I would assume that you would have a much stronger statement. So what is it that doesn’t allow you guys to even mention the perpetrator of an attack that killed four teenage girls? Thank you.</p>
-<p><strong>MR PATEL: </strong>Thanks for your question. So on the airstrike, I don’t have anything additional to provide beyond what our colleagues at CENTCOM shared, but to reiterate as the CENTCOM spokesperson stated last night, at President Biden’s direction, U.S. military forces conducted precision airstrikes on facilities used by groups affiliated with Iran’s IRGC and Syria overnight. The strike was in response to attacks by Iran-backed militia groups against U.S. forces in Syria, including the attacks on August 15th. The U.S. will do what is necessary to defend U.S. forces, but would defer you to the Pentagon for anything additional.</p>
-<p>And on your second question, I will just reiterate what we have said previously, which is that the United States remains deeply concerned about increasing military activity in northern Syria, and in particular its impact on the civilian population. We continue to support the maintenance of current ceasefire lines and condemn any escalations. It is crucial for all sides to maintain and respect ceasefire zones to enhance stability in Syria and work towards a political solution to the conflict.</p>
-<p>Next, let’s go to the line of Guita Aryan with Voice of America.</p>
-<p><strong>QUESTION: </strong>Hi, I don’t know if my line is open yet or not.</p>
-<p><strong>MR PATEL: </strong>Yeah, go ahead.</p>
-<p><a id="post-371683-IRAN3"></a><strong>QUESTION: </strong>Oh, okay, how is it going? Thanks for taking my question. I want to circle back to Iran. Now that the team has taken its comments on Iran’s comments, does the State Department think that this could be a short dash – a really short dash to an agreement?</p>
-<p><strong>MR PATEL: </strong>Hi, there. Sorry about that. I’ve been struggling with mute. So again, I’m just not going to speculate or negotiate on a timeline or get into details from here beyond what we’ve already said, which is that we received Iran’s comments and we have responded to the EU today. We’ve conveyed our feedback privately, but we’re not going to get into the details of that. We have taken a deliberate and principled approach to these negotiations from the start. We are continuing to engage with this, and I don’t have anything additional to provide right now on timeline.</p>
-<p>Next, let’s go to the line of Hariana Veras with TPA.</p>
-<p><a id="post-371683-ANGOLA"></a><strong>QUESTION: </strong>Thank you very much for the opportunity. So today is the election day in Angola. And we noticed that the State Department didn’t issue any alerts for the Americans in Angola. And also the election is done. Angolans went to vote and everything was peaceful in the entire country. So I just want to hear the comments of the State Department on the Angola election.</p>
-<p><strong>MR PATEL: </strong>Sure. Thanks so much for your question. The United States supports the democratic process through our ongoing democracy and governance programs, and by observing the election. Election observations promote participation and public confidence in the electoral process. I will also note that the United States and Angola share a strong partnership. We will continue to work together with the government chosen by the Angolan people to deepen cooperation around shared priorities, which include democracy, economic growth, and investment, global health security, and public health, and climate and energy goals to create a better future for all Angolans.</p>
-<p>The United States also commends the Angolan people for their participation in the democratic process, and efforts to strengthen democratic institutions will provide a foundation for a safe, prosperous, healthy, and inclusive future for both of our countries.</p>
-<p>Let’s go to Jennifer Smith from <em>The Daily Mail</em>.</p>
-<p><a id="post-371683-SOUTHSUDAN"></a><strong>QUESTION:</strong> Hi there. Thanks for taking my question. I’d like to ask you about Charles Oliha. He is the diplomat from South Sudan who was arrested on suspicion of rape this weekend in New York City. He was released after he invoked his diplomatic immunity. My question has two parts. Firstly, I would like to know whether or not he remains in the U.S. or if he has left the country. And secondly, the Manhattan district attorney has announced that he is investigating these claims. If he does bring charges, will the State Department ask the Government of South Sudan to waive Oliha’s diplomatic immunity? Thanks.</p>
-<p><strong>MR PATEL:</strong> Thanks for your question. So we are aware of the incident referenced involving a diplomat accredited to the UN. We take these allegations very seriously and are working closely with the New York Police Department and the Mayor’s Office of International Affairs, as we do in all legal and criminal cases involving foreign diplomats assigned to permanent missions and observer offices at the UN.</p>
-<p>I don’t have anything else to add, as we don’t comment on specifics of ongoing investigations.</p>
-<p>Next, let’s go to the line of Jiha Ham with Voice of America.</p>
-<p><strong>QUESTION:</strong> Hi, Vedant. Thank you for taking my questions. I hope you can hear me?</p>
-<p><strong>MR PATEL:</strong> Yes, sir. Go ahead.</p>
-<p><a id="post-371683-SOUTHKOREA"></a><strong>QUESTION:</strong> Great, thanks. Two Russian bombers flew through South Korea’s air defense identification zone yesterday. So what is your level of concern over this Russian military activity? Plus the U.S. has made clear that the trilateral cooperation between and among the U.S.-ROK-Japan is pivotal to a number of shared interests. Can you say this Russian bombers case is one of the areas where the U.S. can cooperate or coordinate with South Korea?</p>
-<p>My second question is, as we know, South Korean President Yoon Suk-yeol has announced his new initiative towards North Korea. But some say that the U.S. and North Korea should normalize their relations along with this – along with this initiative when and if it is moving forward. I mean, what do you think of this suggestion or idea, the normalizing of relations between the U.S. and North Korea? Are there any conditions or limitations? Thanks.</p>
-<p><strong>MR PATEL:</strong> Thanks so much for your question. So on your first question, we’re going to have to take that back and we’ll have someone from the team follow up with you on that one. But what I can say about your second part is that the United States remains focused on coordinating closely with our allies and partners to address the threats posed by the DPRK, which includes advancing our shared objective of the complete denuclearization of the Korean Peninsula and continuing our ironclad commitment to the defense of the Republic of Korea and Japan.</p>
-<p>And I think we’ve got time for one more question, so we’ll close out going back to Said.</p>
-<p><a id="post-371683-ISPAL2"></a><strong>QUESTION:</strong> Thank you for taking my question again, Vedant. I wanted to ask you, Axios reports that the administration has warned the Palestinian Authority not to apply for full membership in the United Nations. I wonder if you have any comment on that, whether this happened or not happened. Thank you.</p>
-<p><strong>MR PATEL:</strong> Thanks, Said, and apologies for missing this when you asked earlier. So there are no shortcuts to Palestinian statehood outside direct negotiations between the parties. The only realistic path to a comprehensive and lasting peace that ends this conflict permanently is through direct negotiations between the parties. The United States remains committed to a two-state solution. As President Biden said along President Abbas earlier this summer, the Palestinian people deserve a state of their own that’s independent, sovereign, viable, and contiguous. The United States is focused on trying to bring the Palestinians and Israelis closer together in pursuit of this goal of two states, for two people, living side by side in peace and security.</p>
-<p><strong>QUESTION:</strong> Thank you.</p>
-<p><strong>MR PATEL:</strong> Thanks so much, everybody. I think that’s all the time we have for today, but appreciate everyone joining, and we’ll talk to you all soon.</p>
-<p>(The briefing was concluded at 2:34 p.m.)</p>
-<p># # #</p>
 ]]></content:encoded>
 					
 		
