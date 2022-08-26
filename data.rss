@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 26 Aug 2022 13:37:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Aug 2022 14:26:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Remembering the Loss of 13 American Heroes</title>
+		<link>https://www.state.gov/remembering-the-loss-of-13-american-heroes/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 26 Aug 2022 14:26:51 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=372171</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>One year ago today, 13 American service members lost their lives in a terrorist attack on the Kabul airport in Afghanistan.  These American heroes were engaged in a selfless mission to undertake an unprecedented airlift, making the ultimate sacrifice while helping to successfully move nearly 124,000 people to safety and giving tens of thousands of Afghan families the opportunity to pursue the American dream. We honor their memory and mourn their loss.</p>
+<p>Today is especially poignant for us at the Department of State. At U.S. Embassies and Consulates around the world, the first American a visitor encounters is a Marine.  It is a source of comfort to Americans overseas and a reminder to friends and allies of the strength of our commitments.  We could not do our jobs without our Marine counterparts, and we are grateful every single day that they serve alongside our diplomats.</p>
+<p>We also grieve the more than 170 Afghans who lost their lives in this attack.  They sought nothing more than the chance for a new start elsewhere, and we offer our profound condolences to their families.</p>
+<p>We will never cease the pursuit of justice for those who carried out this attack.  We continue to work closely with our interagency partners to locate and arrest them.  Our broader commitment to the Afghan people endures, and we will continue to pursue principled diplomacy and other measures to ensure that Afghanistan never again becomes a haven for international terrorists.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>One year ago today, 13 American service members lost their lives in a terrorist attack on the Kabul airport in Afghanistan.  These American heroes were engaged in a selfless mission to undertake an unprecedented airlift, making the ultimate sacrifice while helping to successfully move nearly 124,000 people to safety and giving tens of thousands of Afghan families the opportunity to pursue the American dream. We honor their memory and mourn their loss.</p>
+<p>Today is especially poignant for us at the Department of State. At U.S. Embassies and Consulates around the world, the first American a visitor encounters is a Marine.  It is a source of comfort to Americans overseas and a reminder to friends and allies of the strength of our commitments.  We could not do our jobs without our Marine counterparts, and we are grateful every single day that they serve alongside our diplomats.</p>
+<p>We also grieve the more than 170 Afghans who lost their lives in this attack.  They sought nothing more than the chance for a new start elsewhere, and we offer our profound condolences to their families.</p>
+<p>We will never cease the pursuit of justice for those who carried out this attack.  We continue to work closely with our interagency partners to locate and arrest them.  Our broader commitment to the Afghan people endures, and we will continue to pursue principled diplomacy and other measures to ensure that Afghanistan never again becomes a haven for international terrorists.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Establishing an Ambassador-at-Large for the Arctic Region</title>
 		<link>https://www.state.gov/establishing-an-ambassador-at-large-for-the-arctic-region/</link>
 		
@@ -1668,169 +1831,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The United States remains committed to advancing justice and accountability for Rohingya and all the people of Burma in solidarity with the victims and survivors.  We continue to support the Independent Investigative Mechanism for Myanmar, the case under the Genocide Convention that The Gambia has brought against Burma before the International Court of Justice, and credible courts around the world that have jurisdiction in cases involving Burmese military’s atrocity crimes.  The United States also supports measures by the UN Security Council to promote justice and accountability for the military’s actions in line with its mandate to promote international peace and security.  In this vein, the United States would support a UN Security Council referral of the situation in Burma to the International Criminal Court.</p>
 <p>Since 2017, the United States has sought pathways to continue to support Rohingya, recognizing that they cannot safely return to their homeland of Burma under current conditions.  We have provided more than $1.7 billion to assist those affected by the crisis in Burma, Bangladesh, and elsewhere in the region, remaining the leading single donor of life-saving humanitarian assistance to those whose lives have been upended by the violence in Rakhine State.  The United States stands in solidarity with the Government of Bangladesh and other Rohingya-hosting governments in the region.  As an essential component of an international, comprehensive humanitarian response, we are working to significantly increase resettlement of Rohingya refugees from the region, including from Bangladesh, so that they can rebuild their lives in the United States.</p>
 <p>The United States will continue to support Rohingya and the people of Burma in their pursuit of freedom and inclusive democracy by advancing justice and accountability, increasing economic and diplomatic pressure, and safeguarding the human rights and human dignity of all individuals in Burma.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Joint Ministerial Statement Marking the 5th Anniversary of the Myanmar Military’s Attack against Rohingya and Ensuing Crisis</title>
-		<link>https://www.state.gov/joint-ministerial-statement-marking-the-5th-anniversary-of-the-myanmar-militarys-attack-against-rohingya-and-ensuing-crisis/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Thu, 25 Aug 2022 02:21:50 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=371723</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p><em>The following is the text of a joint statement by the High Representative on behalf of the European Union, and the Foreign Ministers of Australia, Canada, New Zealand, Norway, the United Kingdom and the United States, marking the fifth anniversary of the Myanmar military’s attack against Rohingya.</em></p>
-<p>Five years ago, the Myanmar military launched a violent attack on Rohingya communities in Rakhine, killing, raping, and torturing thousands of Rohingya men, women, and children and forcing over 700,000 to seek refuge in Bangladesh – where they joined other Rohingya, who had fled earlier attacks and decades of systemic discrimination. These deplorable actions against Rohingya precipitated one of the largest mass exoduses of a minority in recent history.  We are concerned by the UN Fact Finding Mission’s establishment of consistent patterns of serious human rights violations and abuses, of which many amount to grave crimes under international law. We also recognize other initiatives to hold perpetrators accountable, including The Gambia’s efforts before the International Court of Justice, which is currently examining whether the atrocities committed by the Myanmar military against Rohingya amounted also to genocide.  We reiterate that Myanmar must comply with the International Court of Justice’s provisional measures order.</p>
-<p>The same actors that committed these reprehensible actions led the military coup d&#8217;état in February 2021, and today continue to perpetrate atrocities against political dissidents and vulnerable populations, including other ethnic and religious minorities across Myanmar, and have done so for decades.  The Rohingya themselves suffer human rights violations and abuses, discrimination, systematic persecution, and denial of access to basic services – including the right to citizenship. Around 150,000 Rohingya have been confined to camps without freedom of movement in Rakhine for a decade.  Women and girls continue to be at extreme risk under the current conditions.</p>
-<p>As we mark five years since the brutal 2017 campaign against Rohingya, we commend the courage of Rohingya communities and remember all the victims.  We reiterate our commitment to holding the perpetrators of these violations and abuses to account, and acknowledge the work of the Independent Investigative Mechanism for Myanmar and others contributing to this objective.  We call on the military regime to cease its violence against those who have suffered under its rule, including the decades of grave human rights violations and abuses endured by Rohingya and other communities in Myanmar.  We thank the UN relevant bodies, Bangladesh, and other hosting nations for their generosity and providing lifesaving support to Rohingya and remain dedicated to supporting Bangladesh to ensure that the needs and rights of all refugees and impacted host communities are met.  We also appreciate the important efforts of humanitarian organizations to extend protection and assistance for Rohingya communities.  At the same time, we call on the international community to help to ensure justice for Rohingya victims, support host communities, and foster conditions that will allow for the safe, voluntary, dignified, and sustainable return to their communities.  Rohingya must be meaningfully included in discussions around the future of Myanmar.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p><em>The following is the text of a joint statement by the High Representative on behalf of the European Union, and the Foreign Ministers of Australia, Canada, New Zealand, Norway, the United Kingdom and the United States, marking the fifth anniversary of the Myanmar military’s attack against Rohingya.</em></p>
-<p>Five years ago, the Myanmar military launched a violent attack on Rohingya communities in Rakhine, killing, raping, and torturing thousands of Rohingya men, women, and children and forcing over 700,000 to seek refuge in Bangladesh – where they joined other Rohingya, who had fled earlier attacks and decades of systemic discrimination. These deplorable actions against Rohingya precipitated one of the largest mass exoduses of a minority in recent history.  We are concerned by the UN Fact Finding Mission’s establishment of consistent patterns of serious human rights violations and abuses, of which many amount to grave crimes under international law. We also recognize other initiatives to hold perpetrators accountable, including The Gambia’s efforts before the International Court of Justice, which is currently examining whether the atrocities committed by the Myanmar military against Rohingya amounted also to genocide.  We reiterate that Myanmar must comply with the International Court of Justice’s provisional measures order.</p>
-<p>The same actors that committed these reprehensible actions led the military coup d&#8217;état in February 2021, and today continue to perpetrate atrocities against political dissidents and vulnerable populations, including other ethnic and religious minorities across Myanmar, and have done so for decades.  The Rohingya themselves suffer human rights violations and abuses, discrimination, systematic persecution, and denial of access to basic services – including the right to citizenship. Around 150,000 Rohingya have been confined to camps without freedom of movement in Rakhine for a decade.  Women and girls continue to be at extreme risk under the current conditions.</p>
-<p>As we mark five years since the brutal 2017 campaign against Rohingya, we commend the courage of Rohingya communities and remember all the victims.  We reiterate our commitment to holding the perpetrators of these violations and abuses to account, and acknowledge the work of the Independent Investigative Mechanism for Myanmar and others contributing to this objective.  We call on the military regime to cease its violence against those who have suffered under its rule, including the decades of grave human rights violations and abuses endured by Rohingya and other communities in Myanmar.  We thank the UN relevant bodies, Bangladesh, and other hosting nations for their generosity and providing lifesaving support to Rohingya and remain dedicated to supporting Bangladesh to ensure that the needs and rights of all refugees and impacted host communities are met.  We also appreciate the important efforts of humanitarian organizations to extend protection and assistance for Rohingya communities.  At the same time, we call on the international community to help to ensure justice for Rohingya victims, support host communities, and foster conditions that will allow for the safe, voluntary, dignified, and sustainable return to their communities.  Rohingya must be meaningfully included in discussions around the future of Myanmar.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
