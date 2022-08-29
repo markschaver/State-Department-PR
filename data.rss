@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Mon, 29 Aug 2022 13:36:39 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Aug 2022 15:24:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Joint Statement on the Contribution of Cooperative Threat Reduction Partnerships to Global Health Security</title>
+		<link>https://www.state.gov/joint-statement-on-the-contribution-of-cooperative-threat-reduction-partnerships-to-global-health-security/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Mon, 29 Aug 2022 15:24:19 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=372501</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p><i>The text of the following statement was released by the Governments of the United States of America, Armenia, Georgia, Iraq, Jordan, Liberia, Philippines, Sierra Leone, Uganda, and Ukraine.</i></p>
+<p><i>Begin Text:</i><i></i></p>
+<p>The COVID-19 pandemic has underscored the importance of strong national capacities for infectious disease surveillance, diagnosis, and response. International cooperation and assistance play a critical role in building these capacities. Our governments have partnered openly and transparently through the Biological Threat Reduction Program, which is a part of the U.S. Department of Defense Cooperative Threat Reduction Program. These partnerships are devoted exclusively to peaceful purposes; they have nothing to do with weapons. These partnerships protect the health of humans and animals in our countries, including in the prevention, detection, and control of infectious disease outbreaks, and in enhancing laboratory biosafety and biosecurity. As partners in this program, we each have firsthand knowledge of its relevance to our shared goal of cooperating to strengthen global health security and reduce the impacts of infectious diseases on our societies. Our governments strongly affirm the common view that such cooperation should not be undermined, but rather promoted and reinforced. Pursuant to Article X, we encourage all Biological Weapons Convention States Parties to work together, including at the forthcoming Review Conference, in support of this goal.</p>
+<p><i>End Text.</i></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p><i>The text of the following statement was released by the Governments of the United States of America, Armenia, Georgia, Iraq, Jordan, Liberia, Philippines, Sierra Leone, Uganda, and Ukraine.</i></p>
+<p><i>Begin Text:</i><i></i></p>
+<p>The COVID-19 pandemic has underscored the importance of strong national capacities for infectious disease surveillance, diagnosis, and response. International cooperation and assistance play a critical role in building these capacities. Our governments have partnered openly and transparently through the Biological Threat Reduction Program, which is a part of the U.S. Department of Defense Cooperative Threat Reduction Program. These partnerships are devoted exclusively to peaceful purposes; they have nothing to do with weapons. These partnerships protect the health of humans and animals in our countries, including in the prevention, detection, and control of infectious disease outbreaks, and in enhancing laboratory biosafety and biosecurity. As partners in this program, we each have firsthand knowledge of its relevance to our shared goal of cooperating to strengthen global health security and reduce the impacts of infectious diseases on our societies. Our governments strongly affirm the common view that such cooperation should not be undermined, but rather promoted and reinforced. Pursuant to Article X, we encourage all Biological Weapons Convention States Parties to work together, including at the forthcoming Review Conference, in support of this goal.</p>
+<p><i>End Text.</i></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Nuclear Non-Proliferation Treaty Remains Strong Despite Russian Obstructionism</title>
 		<link>https://www.state.gov/nuclear-non-proliferation-treaty-remains-strong-despite-russian-obstructionism/</link>
 		
@@ -1469,321 +1630,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The United States is deeply concerned by the upheld conviction and nine-year prison sentence of renowned Vietnamese author and journalist Pham Doan Trang.  Trang, a 2022 winner of the Secretary of State’s International Women of Courage Award, has been recognized internationally for her work to advance human rights and good governance in Vietnam.  The UN Working Group on Arbitrary Detention found in September 2021 that Trang’s detention is arbitrary and in contravention of Vietnam’s international human rights commitments.  We note reports of Trang’s declining health and urge Vietnam to ensure adequate medical care and to allow access to Trang to assess her medical condition.</p>
 <p>Trang’s continued detention is the latest instance in an alarming pattern of arrests and sentencing of individuals in Vietnam for peacefully expressing their opinions.  We call for the Vietnamese government to release Trang and to allow all individuals in Vietnam to exercise their right to freedom of expression, without fear of retaliation, consistent with the human rights provisions in Vietnam’s constitution and Vietnam’s international obligations and commitments.</p>
 <p><input type="hidden" data-filter="000000000000" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Department Press Briefing – August 25, 2022</title>
-		<link>https://www.state.gov/briefings/department-press-briefing-august-25-2022/</link>
-		
-		<dc:creator><![CDATA[Vedant Patel, Principal Deputy Spokesperson]]></dc:creator>
-		<pubDate>Thu, 25 Aug 2022 22:03:47 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?post_type=state_briefing&#038;p=372021</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Vedant Patel, Principal Deputy Spokesperson</p>
-<p>Washington, D.C.</p>
-<p>2:04 p.m. EDT</p>
-<p><strong>MR PATEL:</strong> Thanks so much. And good afternoon, everybody, and thanks so much for joining. I have one thing for you at the top before we dive into your questions.</p>
-<p><a id="post-372021-RUSSIAUKRAINE"></a> So nearly every day, we see new and credible reports of Russia’s forces committing horrific atrocities against individuals, families, and communities as President Putin’s devastating and unjustifiable war against Ukraine continues. As we’ve said before, President Putin and all those who commit heinous acts must be held to account for violations of international law. The United States is supporting reporting and accountability efforts through a multifaceted approach.</p>
-<p>The Conflict Observatory is a program designed to capture, analyze, and make publicly available evidence of war crimes and other atrocities in Ukraine committed by members of Russia’s military. Today we announced an extension of the program’s work through $9 million in additional funds. This supports efforts through the administration’s European Democratic Resilience Initiative to advance accountability and justice.</p>
-<p>Today, the Conflict Observatory also released a new analysis of sites it identified as associated with Russia’s brutal filtration operations. The Conflict Observatory was able to make these identifications based on a combination of overhead imagery, traditional news media sources, and accounts of these activities shared via social media.</p>
-<p>The report follows the unclassified U.S. National Intelligence Council assessment of Russia’s filtration operations and other recent Conflict Observatory products that document damage to Ukraine’s hospitals, schools, churches, museums, archives, and other civilian objects.</p>
-<p>The broad assault on Ukraine’s sovereignty and territorial integrity is clear, as are Russia’s destructive ambitions, and we are keeping a focus on these abuses. The people of Ukraine deserve justice, and together with them, we too demand it.</p>
-<p>And with that, I’m happy to open it up to questions. Operator, if you wouldn’t mind sharing instructions again.</p>
-<p><strong>OPERATOR:</strong> Certainly. And ladies and gentlemen, if you would like to ask a question, please press 1 then 0 on your telephone keypad. You may withdraw your question at any time by repeating the 1-0 command. And we do ask if you could please pause before asking your question until we let you know your line is open. Again, if you have a question, please press 1 then 0.</p>
-<p><strong>MR PATEL:</strong> Thanks so much. Let’s first go to the line of Shaun Tandon with AFP.</p>
-<p><strong>OPERATOR:</strong> And your line is open. Please, go ahead.</p>
-<p><strong>QUESTION:</strong> Hi, Vedant. Thank you. Could I follow up on Ukraine? The – and there was an announcement today that the Zaporizhzhia nuclear power complex was cut off from the national power grid. Can you comment on that? Does the U.S. have information to confirm that? And if so, what do you see the effects of this? How serious is this for the situation in Ukraine and for, indeed, the power situation and continued concerns about an incident there?</p>
-<p>If you don’t mind, a separate question. I was wondering if the U.S. has anything to say about the situation politically in Pakistan. Imran Khan, there are some charges that have been placed against him, the former prime minister, and also a decision not to – an order not to air his remarks in the media on satellite TV. Is there anything that the United States wants to say about that? Thank you.</p>
-<p><strong>MR PATEL:</strong> Thanks, Shaun. Let me take your first question first. We are closely monitoring the reports that the last two operational reactors at ZNPP have been shut down. Ukraine is reporting that all the plant’s safety and security systems are working normally, and we have no indications of increased or abnormal radiation levels. I also want to take a minute and applaud the courage and selflessness of Ukraine’s personnel at ZNPP for their commitment to nuclear safety and security under the most harrowing and dangerous conditions.</p>
-<p>But to take a little bit of a step back, it is clear that Russia’s shelling and seizure of Ukraine’s power plants and infrastructure are part of its strategy to create energy crises in Europe. We strongly condemn any action at ZNPP or elsewhere that impacts the health and welfare of civilians throughout the region. The situation at ZNPP is the result of Russia’s further invasion of Ukraine, its control of and dangerous military presence at the power plant, and its unwillingness to turn control of the plant back to Ukraine for safe and secure operations.</p>
-<p>We’ve said this before, but no country should turn a nuclear power plant into an active war zone, and we oppose any Russian efforts to weaponize or divert energy from the plant. To be very clear, the ZNPP and the electricity that it produces rightly belongs to Ukraine, and any attempt to disconnect the plant from the Ukrainian power grid and redirect to occupied areas is unacceptable.</p>
-<p><a id="post-372021-PAKISTAN"></a> On Pakistan, we’re aware of some of these reports. The United States does not have a position on one political candidate or party versus another. We support the peaceful upholding of democratic, constitutional, and legal principles. The United States values our longstanding cooperation with Pakistan and has always viewed a prosperous and democratic Pakistan as critical to U.S. interests. That remains unchanged.</p>
-<p>Next let’s go to the line of Nike Ching with Voice of America.</p>
-<p><strong>OPERATOR:</strong> Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION:</strong> Thank you so much for taking my call. Quick questions on Iran. Does the United States plan to issue visas for Iran’s President Raisi and his entourage? UNGA is approaching. Can you confirm or rule out that he’s attending UNGA? Thank you.</p>
-<p><a id="post-372021-IRAN"></a><strong>MR PATEL:</strong> Thanks for your question, Nike. Visa records are confidential under U.S. law, therefore I can’t discuss the details of individual visa cases. But I would reiterate what we’ve said before that as a host nation of the UN, the U.S. is generally obligated under the UN Headquarters Agreement to issue visas to representatives of UN member states to travel to the UN headquarters district. The U.S. takes seriously its obligations as a host country of the UN, but again, visa records are confidential, and therefore I can’t get into anything else.</p>
-<p>Next let’s go to the line of Simon Lewis with Reuters.</p>
-<p><strong>OPERATOR:</strong> Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION:</strong> Hi. Thanks, Vedant. I wondered if you had a response to the new congressional delegation just arrived in Taiwan led by Marsha Blackburn, Senator Marsha Blackburn. I understand there’s been several of these delegations. What advice is the State Department giving to members of Congress who come to you and ask whether they should visit Taiwan and what advice was given in this case? And is there any concern given the – China’s reactions to previous – the previous visits that continued visits, repeated visits is – could potentially inflame the situation? Thanks.</p>
-<p><a id="post-372021-TAIWANCHINA"></a><strong>MR PATEL:</strong> Thanks, Simon. So members of Congress and elected officials have gone to Taiwan for decades and will continue to do so, and this is in line and is consistent with our longstanding “one China” policy. I’d refer you to the delegation for any other specifics on their travel.</p>
-<p>But look, the United States has continued to act in a – in a way that is responsible, steady, and resolute. Our policy towards Taiwan has remained consistent for decades across administrations, and we remain committed to our “one China” policy. We’re going to continue to take calm and resolute steps to uphold peace and stability in the region and to support Taiwan in line with our longstanding policy.</p>
-<p>Next let’s go to the line of Alex Raufoglu with Turan News.</p>
-<p><strong>OPERATOR:</strong> Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION:</strong> Good afternoon, and thank you so much, Vedant. I have two questions. The first one is on Ukraine. Putin has signed a decree on – decree to increase the size of his military today. As you know, the war in Ukraine enters its seventh month with no signs of abating. I’m wondering how do you read this news in terms of Russia’s intentions in the region and, of course, its possible implications to not only Ukraine but also other vulnerable countries.</p>
-<p>And my second question – I want to ask you about the U.S. role in the Azerbaijani-Armenian peace process, especially in the wake of yesterday’s announcement came out from the Secretary. It looks like the Azeris are surprised by the appointment of Ambassador Reeker to the post of Minsk Group co-chair as well as senior advisor for Caucasus negotiations. In fact, the Azeri foreign affairs ministry described it as “an approach far from the post-conflict &#8230;in the region,” quote/unquote. Can I get your reaction to that? Because as someone who has been covering this issue for years, frankly, I am surprised that the Azeri Government is surprised, because if I’m following it closely enough, these kind of appointments have always been coordinated before telegraphing publicly, right? In general, how do you want us to read Ambassador Reeker’s appointment in terms of the administration’s current approach to the peace process? Thank you again.</p>
-<p><a id="post-372021-RUSSIAUKRAINE2"></a><strong>MR PATEL:</strong> Thanks, Alex. So in response to your first question, it’s quite clear that the United States has stood with the people of Ukraine for 31 years, and we will continue to firmly stand with them as they defend their freedom and independence. Our support for Ukraine is unwavering. President Putin’s full-scale war on Ukraine continues to result in climbing costs – thousands of civilians killed or wounded, 13 million Ukrainian citizens forced to flee their homes, historic cities pounded to rubble, foot shortages, skyrocketing food prices around the world, all because President Putin has determined to conquer another country.</p>
-<p>And he’s failed in that goal. Ukraine has not and will not be conquered. It will remain sovereign and independent, and as this war stretches on, the courage and strength of Ukraine’s military and its people become even more evident and even more extraordinary. They will do whatever it takes to protect their homes, their families, their fellow citizens, their country. Ukraine’s talks with Russia are not stalled because Ukraine has turned its back on diplomacy. They’re stalled because Russia continues to wage a war.</p>
-<p>I would also note that these actions continue to have consequences on Russia and Russia’s economy. I’ll note that nearly a thousand multinational companies have curtailed or suspended operations in Russia, including Citigroup, which is one that was just recently announced.</p>
-<p><a id="post-372021-ARMENIAAZERBAIJAN"></a> And on your other question – on your question about Armenia and Azerbaijan and the appointment of Ambassador Reeker, look, the Secretary appointed him to serve as the senior advisor for Caucasus negotiations to underscore our commitment to facilitating peace in the South Caucasus. As a country, we are committed to facilitating direct dialogue between Azerbaijan and Armenia bilaterally, multilaterally, and in cooperation with likeminded partners to achieve a comprehensive peace settlement between the two countries. His selection underscores our commitment to the Geneva International Discussions, where we’re going to continue to hold Russia accountable to the commitments it made under the 2008 ceasefire. Also, as part of his diplomatic advisor role, Ambassador Reeker will also represent the U.S. both at the OSCE Minsk Group and at the Geneva International Discussions as I mentioned.</p>
-<p>Let’s go to the line of Jennifer Hansler with CNN.</p>
-<p><strong>OPERATOR: </strong>Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION: </strong>Hi. Thanks. Two questions, Vedant. Does the State Department have any comment on the Myanmar military junta detaining a former British ambassador there?</p>
-<p>And then separately, in light of the renewed hostilities in Ethiopia, are there any plans to dispatch the special envoy for the Horn of Africa to the region to try to solve any of this? Thank you.</p>
-<p><a id="post-372021-BURMAUK"></a><strong>MR PATEL: </strong>Thanks so much. On your first question, I’ve – we’ve seen those reports but don’t have anything to offer here from the State Department. We’d refer you to the United Kingdom for anything on that.</p>
-<p><a id="post-372021-ETHIOPIAREGION"></a> As it relates to the travel of Special Envoy Hammer, I don’t have any travel to preview, but in coordination with the embassy, Special Envoy Hammer is in frequent contact with the parties as well as international partners to urge a cessation of hostilities and for peace talks to start as soon as possible under the African Union’s auspices. He is prepared to the region – he is prepared to travel to the region – I’m sorry – as is needed.</p>
-<p>Let’s next go to the line of Guita Aryan with the Voice of America.</p>
-<p><strong>OPERATOR: </strong>Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION: </strong>Thank you. Hi, Vedant. While the State Department is laser focused on the JCPOA talks, about an hour ago or less the Treasury Department issued a general license for Iranian students, allowing for any U.S. academic institution giving online educational services and providing them with the necessary software. I know this is not part of the Vienna talks, the negotiations that the U.S. says it doesn’t want to talk anything outside of that framework, but since these students have been issued visas by the State Department, could you tell me anything – why this change? And obviously the State Department must have been advised or consulted by the Treasury on this decision. Thank you.</p>
-<p><a id="post-372021-IRAN2"></a><strong>MR PATEL: </strong>Thanks for your question, Guita. We’ll have to check with some folks here, and then we can circle back with you. I’d also encourage you to reach out to our colleagues at the Treasury Department on this as well.</p>
-<p>Let’s next go to the line of Michel Ghandour.</p>
-<p><strong>OPERATOR: </strong>Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION: </strong>Yeah, thank you Vedant for doing the call. I have two questions. Were you able, first, to convince Israel and U.S. allies in the region that they will be better off with Iran nuclear deal?</p>
-<p>And second, when do you expect to receive Iran comments on the U.S. response to the EU proposal?</p>
-<p><a id="post-372021-IRANISRAEL"></a><strong>MR PATEL: </strong>Thanks, Michel. So there – of course, the process for the flow of information and the conveying of communication is through the EU, so would refer to them. I’m certainly not going to speculate on a timeline from here.</p>
-<p>On your question about our Israeli partners, look, to take a step back, as you heard me say earlier this week, we have continued to engage closely with our Israeli partners on this issue. We think that – we continue to feel that a mutual return to compliance in the JCPOA continues to be not only in the national security interest of the United States, but also an important step for the region. But I’m certainly not going to comment on details or negotiate from the press or get into a back-and-forth on our specific engagements with our allies and partners.</p>
-<p>Next let’s go to Laurie Mylroie with Kurdistan 24.</p>
-<p><strong>QUESTION:</strong>  Thank &#8212;</p>
-<p><strong>OPERATOR:</strong>  Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION:</strong>  Thank you very much for taking my question, and it’s actually Laurie Mylroie. But here’s my question: Washington Post columnist David Ignatius has an article today warning about the growing alliance between Russia and Iran. That includes that Russia might use the revival of the JCPOA as a way to sell its oil and evade sanctions. Do you share that concern?</p>
-<p><a id="post-372021-IRAN3"></a><strong>MR PATEL:</strong>  Thanks, Laurie, and apologies for the mispronunciation. My bad. So to take a little bit of a step back and to widen the aperture, absent a deal we will continue to use our sanctions authorities to limit exports of petroleum, petroleum products, and petrochemical products from Iran, and we’ll address any effort at sanction evasion. The framework of U.S. sanctions on Iran remains robust and continues to have a very clear impact. Iran’s macroeconomic figures clearly bear this out. We have used our sanctions authorities to respond to Iranian sanction evasion efforts and will continue to do so. We have seen reports about increased oil revenue. I can’t confirm the accuracy of those claims. But I would note that oil export figures fluctuate regularly over time based on prices and changes in methodology.</p>
-<p>Let’s go to Elizabeth Hagedorn.</p>
-<p><strong>OPERATOR:</strong>  Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION:</strong>  Hi. I’m wondering if you have a reaction to recent comments made by Turkish officials hinting at eventual reconciliation with Damascus. Most recently, Turkey’s foreign minister said the country had no preconditions for dialogue with the Syrian Government. Given the U.S. position on normalization of the Syrian regime, how does the U.S. view this recent rhetoric?</p>
-<p><a id="post-372021-TURKEYSYRIA"></a><strong>MR PATEL:</strong>  Thanks for your question. So first and foremost, I will reiterate what we’ve said previously on this, that Turkey tins to be a important NATO Ally and has played an integral role in continuing to hold Russia accountable for its barbaric actions in Ukraine. But to be clear, this administration will not express any support for efforts to normalize or rehabilitate Bashar al-Assad. The U.S. does not intend to upgrade our diplomatic relations with the Assad regime and we don’t support other countries normalizing their relations, either.</p>
-<p>We will not lift sanctions on Syria or change our position to oppose the reconstruction of Syria until there is authentic and enduring progress towards a political solution. We believe authentic and enduring political progress is both necessary and vital for reconstruction and have not seen progress on that front. We urge states in the region to consider very carefully the atrocities inflicted by the Assad regime on the Syrian people over the last decade as well as the regime’s continuing efforts to deny much of the country access to integral humanitarian aid and security.</p>
-<p>Next let’s go to the line of Said Arikat.</p>
-<p><strong>OPERATOR:</strong>  Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION:</strong>  Thank you for doing this and thank you for taking my question. Very quickly, I know I saw the statement that you guys issued after the meeting of Deputy Secretary Wendy Sherman with the Israeli National Security Advisor Hulata. And I saw that there was a reference to the Palestinian issue and to the organizations and so on. Can you tell us whether the deputy secretary received any kind of clarification on the Israeli position or there any evidence and so on? And what was her – his response on this issue?</p>
-<p>And second, just to follow up on Michel Ghandour’s question about the – regarding the Iran deal being the best possible way forward to prevent Iran from acquiring a nuclear weapon, and whether that your allies have been content with that. Thank you.</p>
-<p><a id="post-372021-ISRAEL"></a><strong>MR PATEL:</strong>  Thanks, Said. So I don’t have additional information to provide beyond what was in the readout of Deputy Secretary Sherman’s meeting. But to reiterate here for those, the Deputy Secretary was able to, with the national security advisor, discuss the strength of the bilateral relationship. They discussed shared global security challenges, including Iran. The deputy secretary also reiterated the administration’s commitment to Israel’s security. She also underscored the importance of ensuring independent civil society organizations in the West Bank and Israel are able to continue their important work.</p>
-<p>On the second part of your question, again I’m just not going to read out specific engagements with our allies and partners beyond reiterating what I’ve said, which is that our engagements with allies and partners, including those in Israel, continue to be a key tenet of our process with the JCPOA. And we continue to fully believe that a mutual return to compliance is not only in the national security interest of the United States, it’s the best step to contain Iran’s nuclear program but will offer benefits in the region as well.</p>
-<p>I think we’ve got time for a couple more questions. Let’s next go to the line of Hiba Nasar.</p>
-<p><strong>OPERATOR: </strong>Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION: </strong>Hi, and thanks for taking my question. My first question about Iran: Iranian foreign minister today said that they would not allow the IAEA baseless accusations to remain – I’m stating his words – so they are opposing that the investigation could go on after the deal. Is there room for you to stop the investigation? This is my first question.</p>
-<p>My second question: What do you make from these attacks against the U.S. troops in Syria since they are happening now when you are closer to a deal with Iran? Thank you.<a id="post-372021-IRAN4"></a></p>
-<p><strong>MR PATEL: </strong>Thanks. Let me answer the first part first. So our position on this has been quite clear, and we have communicated this repeatedly in public and in private to Iran. Iran needs to answer the IAEA’s questions. That is the only way to address these issues. Once the IAEA director general reports to the board of governors that the outstanding issues have been clarified and resolved, we expect them to come off the board’s agenda, but not before that. We’ve also been clear that we do not believe there should be any conditionality between reimplementation of the JCPOA and the investigations related to Iran’s legal obligations.</p>
-<p>And on the – and on your second question, what I would say about the airstrike – and again, I would reiterate that our colleagues at the Pentagon can speak to some of this additionally – is that whether or not there is a deal, the President’s commitment to protect U.S. personnel and confront Iran’s activities that jeopardize our people or our partners in the region is unwavering. The nuclear deal has nothing to do with our readiness and ability to defend our people and our interests.</p>
-<p>We’ve also been clear that we will ensure that Iran never acquires a nuclear weapon. We believe diplomacy is the best path to achieving that goal, and as we long have said, we believe pursuing JCPOA talks is in U.S. national security interests, and we’re going to continue to do so.</p>
-<p>Great. I think we’ve got time for one last question, so why don’t we close it out with Matt Lee from the Associated Press?</p>
-<p><strong>OPERATOR: </strong>Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION: </strong>Hi, there. Thanks, Vedant. I wasn’t going to ask a question, but your response to the last question on the IAEA safeguards inspections prompted me to ask this question, and that is: You guys keep saying that there is no conditionality between closing this file and the implementation, or there should be no conditionality between closing these – this investigation and the implementation of the deal. And you present this as though it is some tough, hardline stance that the United States has.</p>
-<p>But you can – it can be looked at entirely the opposite way, meaning that Iran doesn’t have to do this and the deal – I mean, Iran doesn’t have to satisfy it, the deal will be implemented, and you guys will still give them sanctions relief under the deal. Is that not correct, or am I completely missing something? You guys are presenting this as though we’re forceful; we’re telling the Iranians that they can’t – that their demand that this be closed before the deal is implemented, that we’re rejecting that. But in fact, what it also does, it says that the deal can be implemented, Iran can get the sanctions relief even if they haven’t satisfied the IAEA’s concerns. Is that correct or not?</p>
-<p><strong>MR PATEL: </strong>Thanks, Matt. So I will just reiterate what I’ve said previously, that of course it would be preferable for us to return to a full implementation of the JCPOA without any safeguards issues, but the power to achieve that is fully in Iran hands. And again, to say like I said before, we have been clear that we don’t believe there should be any conditionality between reimplementation of the JCPOA and investigations related to Iran’s legal obligations under both the NPT and its comprehensive safeguards agreement as well.</p>
-<p>Alright, everybody. Thank you so much for joining us this afternoon. We will all be in touch, and please don’t hesitate if you all need anything else.</p>
-<p>(The briefing was concluded at 2:35 p.m.)</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Vedant Patel, Principal Deputy Spokesperson</p>
-<p>Washington, D.C.</p>
-<p>2:04 p.m. EDT</p>
-<p><strong>MR PATEL:</strong> Thanks so much. And good afternoon, everybody, and thanks so much for joining. I have one thing for you at the top before we dive into your questions.</p>
-<p><a id="post-372021-RUSSIAUKRAINE"></a> So nearly every day, we see new and credible reports of Russia’s forces committing horrific atrocities against individuals, families, and communities as President Putin’s devastating and unjustifiable war against Ukraine continues. As we’ve said before, President Putin and all those who commit heinous acts must be held to account for violations of international law. The United States is supporting reporting and accountability efforts through a multifaceted approach.</p>
-<p>The Conflict Observatory is a program designed to capture, analyze, and make publicly available evidence of war crimes and other atrocities in Ukraine committed by members of Russia’s military. Today we announced an extension of the program’s work through $9 million in additional funds. This supports efforts through the administration’s European Democratic Resilience Initiative to advance accountability and justice.</p>
-<p>Today, the Conflict Observatory also released a new analysis of sites it identified as associated with Russia’s brutal filtration operations. The Conflict Observatory was able to make these identifications based on a combination of overhead imagery, traditional news media sources, and accounts of these activities shared via social media.</p>
-<p>The report follows the unclassified U.S. National Intelligence Council assessment of Russia’s filtration operations and other recent Conflict Observatory products that document damage to Ukraine’s hospitals, schools, churches, museums, archives, and other civilian objects.</p>
-<p>The broad assault on Ukraine’s sovereignty and territorial integrity is clear, as are Russia’s destructive ambitions, and we are keeping a focus on these abuses. The people of Ukraine deserve justice, and together with them, we too demand it.</p>
-<p>And with that, I’m happy to open it up to questions. Operator, if you wouldn’t mind sharing instructions again.</p>
-<p><strong>OPERATOR:</strong> Certainly. And ladies and gentlemen, if you would like to ask a question, please press 1 then 0 on your telephone keypad. You may withdraw your question at any time by repeating the 1-0 command. And we do ask if you could please pause before asking your question until we let you know your line is open. Again, if you have a question, please press 1 then 0.</p>
-<p><strong>MR PATEL:</strong> Thanks so much. Let’s first go to the line of Shaun Tandon with AFP.</p>
-<p><strong>OPERATOR:</strong> And your line is open. Please, go ahead.</p>
-<p><strong>QUESTION:</strong> Hi, Vedant. Thank you. Could I follow up on Ukraine? The – and there was an announcement today that the Zaporizhzhia nuclear power complex was cut off from the national power grid. Can you comment on that? Does the U.S. have information to confirm that? And if so, what do you see the effects of this? How serious is this for the situation in Ukraine and for, indeed, the power situation and continued concerns about an incident there?</p>
-<p>If you don’t mind, a separate question. I was wondering if the U.S. has anything to say about the situation politically in Pakistan. Imran Khan, there are some charges that have been placed against him, the former prime minister, and also a decision not to – an order not to air his remarks in the media on satellite TV. Is there anything that the United States wants to say about that? Thank you.</p>
-<p><strong>MR PATEL:</strong> Thanks, Shaun. Let me take your first question first. We are closely monitoring the reports that the last two operational reactors at ZNPP have been shut down. Ukraine is reporting that all the plant’s safety and security systems are working normally, and we have no indications of increased or abnormal radiation levels. I also want to take a minute and applaud the courage and selflessness of Ukraine’s personnel at ZNPP for their commitment to nuclear safety and security under the most harrowing and dangerous conditions.</p>
-<p>But to take a little bit of a step back, it is clear that Russia’s shelling and seizure of Ukraine’s power plants and infrastructure are part of its strategy to create energy crises in Europe. We strongly condemn any action at ZNPP or elsewhere that impacts the health and welfare of civilians throughout the region. The situation at ZNPP is the result of Russia’s further invasion of Ukraine, its control of and dangerous military presence at the power plant, and its unwillingness to turn control of the plant back to Ukraine for safe and secure operations.</p>
-<p>We’ve said this before, but no country should turn a nuclear power plant into an active war zone, and we oppose any Russian efforts to weaponize or divert energy from the plant. To be very clear, the ZNPP and the electricity that it produces rightly belongs to Ukraine, and any attempt to disconnect the plant from the Ukrainian power grid and redirect to occupied areas is unacceptable.</p>
-<p><a id="post-372021-PAKISTAN"></a> On Pakistan, we’re aware of some of these reports. The United States does not have a position on one political candidate or party versus another. We support the peaceful upholding of democratic, constitutional, and legal principles. The United States values our longstanding cooperation with Pakistan and has always viewed a prosperous and democratic Pakistan as critical to U.S. interests. That remains unchanged.</p>
-<p>Next let’s go to the line of Nike Ching with Voice of America.</p>
-<p><strong>OPERATOR:</strong> Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION:</strong> Thank you so much for taking my call. Quick questions on Iran. Does the United States plan to issue visas for Iran’s President Raisi and his entourage? UNGA is approaching. Can you confirm or rule out that he’s attending UNGA? Thank you.</p>
-<p><a id="post-372021-IRAN"></a><strong>MR PATEL:</strong> Thanks for your question, Nike. Visa records are confidential under U.S. law, therefore I can’t discuss the details of individual visa cases. But I would reiterate what we’ve said before that as a host nation of the UN, the U.S. is generally obligated under the UN Headquarters Agreement to issue visas to representatives of UN member states to travel to the UN headquarters district. The U.S. takes seriously its obligations as a host country of the UN, but again, visa records are confidential, and therefore I can’t get into anything else.</p>
-<p>Next let’s go to the line of Simon Lewis with Reuters.</p>
-<p><strong>OPERATOR:</strong> Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION:</strong> Hi. Thanks, Vedant. I wondered if you had a response to the new congressional delegation just arrived in Taiwan led by Marsha Blackburn, Senator Marsha Blackburn. I understand there’s been several of these delegations. What advice is the State Department giving to members of Congress who come to you and ask whether they should visit Taiwan and what advice was given in this case? And is there any concern given the – China’s reactions to previous – the previous visits that continued visits, repeated visits is – could potentially inflame the situation? Thanks.</p>
-<p><a id="post-372021-TAIWANCHINA"></a><strong>MR PATEL:</strong> Thanks, Simon. So members of Congress and elected officials have gone to Taiwan for decades and will continue to do so, and this is in line and is consistent with our longstanding “one China” policy. I’d refer you to the delegation for any other specifics on their travel.</p>
-<p>But look, the United States has continued to act in a – in a way that is responsible, steady, and resolute. Our policy towards Taiwan has remained consistent for decades across administrations, and we remain committed to our “one China” policy. We’re going to continue to take calm and resolute steps to uphold peace and stability in the region and to support Taiwan in line with our longstanding policy.</p>
-<p>Next let’s go to the line of Alex Raufoglu with Turan News.</p>
-<p><strong>OPERATOR:</strong> Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION:</strong> Good afternoon, and thank you so much, Vedant. I have two questions. The first one is on Ukraine. Putin has signed a decree on – decree to increase the size of his military today. As you know, the war in Ukraine enters its seventh month with no signs of abating. I’m wondering how do you read this news in terms of Russia’s intentions in the region and, of course, its possible implications to not only Ukraine but also other vulnerable countries.</p>
-<p>And my second question – I want to ask you about the U.S. role in the Azerbaijani-Armenian peace process, especially in the wake of yesterday’s announcement came out from the Secretary. It looks like the Azeris are surprised by the appointment of Ambassador Reeker to the post of Minsk Group co-chair as well as senior advisor for Caucasus negotiations. In fact, the Azeri foreign affairs ministry described it as “an approach far from the post-conflict &#8230;in the region,” quote/unquote. Can I get your reaction to that? Because as someone who has been covering this issue for years, frankly, I am surprised that the Azeri Government is surprised, because if I’m following it closely enough, these kind of appointments have always been coordinated before telegraphing publicly, right? In general, how do you want us to read Ambassador Reeker’s appointment in terms of the administration’s current approach to the peace process? Thank you again.</p>
-<p><a id="post-372021-RUSSIAUKRAINE2"></a><strong>MR PATEL:</strong> Thanks, Alex. So in response to your first question, it’s quite clear that the United States has stood with the people of Ukraine for 31 years, and we will continue to firmly stand with them as they defend their freedom and independence. Our support for Ukraine is unwavering. President Putin’s full-scale war on Ukraine continues to result in climbing costs – thousands of civilians killed or wounded, 13 million Ukrainian citizens forced to flee their homes, historic cities pounded to rubble, foot shortages, skyrocketing food prices around the world, all because President Putin has determined to conquer another country.</p>
-<p>And he’s failed in that goal. Ukraine has not and will not be conquered. It will remain sovereign and independent, and as this war stretches on, the courage and strength of Ukraine’s military and its people become even more evident and even more extraordinary. They will do whatever it takes to protect their homes, their families, their fellow citizens, their country. Ukraine’s talks with Russia are not stalled because Ukraine has turned its back on diplomacy. They’re stalled because Russia continues to wage a war.</p>
-<p>I would also note that these actions continue to have consequences on Russia and Russia’s economy. I’ll note that nearly a thousand multinational companies have curtailed or suspended operations in Russia, including Citigroup, which is one that was just recently announced.</p>
-<p><a id="post-372021-ARMENIAAZERBAIJAN"></a> And on your other question – on your question about Armenia and Azerbaijan and the appointment of Ambassador Reeker, look, the Secretary appointed him to serve as the senior advisor for Caucasus negotiations to underscore our commitment to facilitating peace in the South Caucasus. As a country, we are committed to facilitating direct dialogue between Azerbaijan and Armenia bilaterally, multilaterally, and in cooperation with likeminded partners to achieve a comprehensive peace settlement between the two countries. His selection underscores our commitment to the Geneva International Discussions, where we’re going to continue to hold Russia accountable to the commitments it made under the 2008 ceasefire. Also, as part of his diplomatic advisor role, Ambassador Reeker will also represent the U.S. both at the OSCE Minsk Group and at the Geneva International Discussions as I mentioned.</p>
-<p>Let’s go to the line of Jennifer Hansler with CNN.</p>
-<p><strong>OPERATOR: </strong>Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION: </strong>Hi. Thanks. Two questions, Vedant. Does the State Department have any comment on the Myanmar military junta detaining a former British ambassador there?</p>
-<p>And then separately, in light of the renewed hostilities in Ethiopia, are there any plans to dispatch the special envoy for the Horn of Africa to the region to try to solve any of this? Thank you.</p>
-<p><a id="post-372021-BURMAUK"></a><strong>MR PATEL: </strong>Thanks so much. On your first question, I’ve – we’ve seen those reports but don’t have anything to offer here from the State Department. We’d refer you to the United Kingdom for anything on that.</p>
-<p><a id="post-372021-ETHIOPIAREGION"></a> As it relates to the travel of Special Envoy Hammer, I don’t have any travel to preview, but in coordination with the embassy, Special Envoy Hammer is in frequent contact with the parties as well as international partners to urge a cessation of hostilities and for peace talks to start as soon as possible under the African Union’s auspices. He is prepared to the region – he is prepared to travel to the region – I’m sorry – as is needed.</p>
-<p>Let’s next go to the line of Guita Aryan with the Voice of America.</p>
-<p><strong>OPERATOR: </strong>Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION: </strong>Thank you. Hi, Vedant. While the State Department is laser focused on the JCPOA talks, about an hour ago or less the Treasury Department issued a general license for Iranian students, allowing for any U.S. academic institution giving online educational services and providing them with the necessary software. I know this is not part of the Vienna talks, the negotiations that the U.S. says it doesn’t want to talk anything outside of that framework, but since these students have been issued visas by the State Department, could you tell me anything – why this change? And obviously the State Department must have been advised or consulted by the Treasury on this decision. Thank you.</p>
-<p><a id="post-372021-IRAN2"></a><strong>MR PATEL: </strong>Thanks for your question, Guita. We’ll have to check with some folks here, and then we can circle back with you. I’d also encourage you to reach out to our colleagues at the Treasury Department on this as well.</p>
-<p>Let’s next go to the line of Michel Ghandour.</p>
-<p><strong>OPERATOR: </strong>Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION: </strong>Yeah, thank you Vedant for doing the call. I have two questions. Were you able, first, to convince Israel and U.S. allies in the region that they will be better off with Iran nuclear deal?</p>
-<p>And second, when do you expect to receive Iran comments on the U.S. response to the EU proposal?</p>
-<p><a id="post-372021-IRANISRAEL"></a><strong>MR PATEL: </strong>Thanks, Michel. So there – of course, the process for the flow of information and the conveying of communication is through the EU, so would refer to them. I’m certainly not going to speculate on a timeline from here.</p>
-<p>On your question about our Israeli partners, look, to take a step back, as you heard me say earlier this week, we have continued to engage closely with our Israeli partners on this issue. We think that – we continue to feel that a mutual return to compliance in the JCPOA continues to be not only in the national security interest of the United States, but also an important step for the region. But I’m certainly not going to comment on details or negotiate from the press or get into a back-and-forth on our specific engagements with our allies and partners.</p>
-<p>Next let’s go to Laurie Mylroie with Kurdistan 24.</p>
-<p><strong>QUESTION:</strong>  Thank &#8212;</p>
-<p><strong>OPERATOR:</strong>  Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION:</strong>  Thank you very much for taking my question, and it’s actually Laurie Mylroie. But here’s my question: Washington Post columnist David Ignatius has an article today warning about the growing alliance between Russia and Iran. That includes that Russia might use the revival of the JCPOA as a way to sell its oil and evade sanctions. Do you share that concern?</p>
-<p><a id="post-372021-IRAN3"></a><strong>MR PATEL:</strong>  Thanks, Laurie, and apologies for the mispronunciation. My bad. So to take a little bit of a step back and to widen the aperture, absent a deal we will continue to use our sanctions authorities to limit exports of petroleum, petroleum products, and petrochemical products from Iran, and we’ll address any effort at sanction evasion. The framework of U.S. sanctions on Iran remains robust and continues to have a very clear impact. Iran’s macroeconomic figures clearly bear this out. We have used our sanctions authorities to respond to Iranian sanction evasion efforts and will continue to do so. We have seen reports about increased oil revenue. I can’t confirm the accuracy of those claims. But I would note that oil export figures fluctuate regularly over time based on prices and changes in methodology.</p>
-<p>Let’s go to Elizabeth Hagedorn.</p>
-<p><strong>OPERATOR:</strong>  Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION:</strong>  Hi. I’m wondering if you have a reaction to recent comments made by Turkish officials hinting at eventual reconciliation with Damascus. Most recently, Turkey’s foreign minister said the country had no preconditions for dialogue with the Syrian Government. Given the U.S. position on normalization of the Syrian regime, how does the U.S. view this recent rhetoric?</p>
-<p><a id="post-372021-TURKEYSYRIA"></a><strong>MR PATEL:</strong>  Thanks for your question. So first and foremost, I will reiterate what we’ve said previously on this, that Turkey tins to be a important NATO Ally and has played an integral role in continuing to hold Russia accountable for its barbaric actions in Ukraine. But to be clear, this administration will not express any support for efforts to normalize or rehabilitate Bashar al-Assad. The U.S. does not intend to upgrade our diplomatic relations with the Assad regime and we don’t support other countries normalizing their relations, either.</p>
-<p>We will not lift sanctions on Syria or change our position to oppose the reconstruction of Syria until there is authentic and enduring progress towards a political solution. We believe authentic and enduring political progress is both necessary and vital for reconstruction and have not seen progress on that front. We urge states in the region to consider very carefully the atrocities inflicted by the Assad regime on the Syrian people over the last decade as well as the regime’s continuing efforts to deny much of the country access to integral humanitarian aid and security.</p>
-<p>Next let’s go to the line of Said Arikat.</p>
-<p><strong>OPERATOR:</strong>  Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION:</strong>  Thank you for doing this and thank you for taking my question. Very quickly, I know I saw the statement that you guys issued after the meeting of Deputy Secretary Wendy Sherman with the Israeli National Security Advisor Hulata. And I saw that there was a reference to the Palestinian issue and to the organizations and so on. Can you tell us whether the deputy secretary received any kind of clarification on the Israeli position or there any evidence and so on? And what was her – his response on this issue?</p>
-<p>And second, just to follow up on Michel Ghandour’s question about the – regarding the Iran deal being the best possible way forward to prevent Iran from acquiring a nuclear weapon, and whether that your allies have been content with that. Thank you.</p>
-<p><a id="post-372021-ISRAEL"></a><strong>MR PATEL:</strong>  Thanks, Said. So I don’t have additional information to provide beyond what was in the readout of Deputy Secretary Sherman’s meeting. But to reiterate here for those, the Deputy Secretary was able to, with the national security advisor, discuss the strength of the bilateral relationship. They discussed shared global security challenges, including Iran. The deputy secretary also reiterated the administration’s commitment to Israel’s security. She also underscored the importance of ensuring independent civil society organizations in the West Bank and Israel are able to continue their important work.</p>
-<p>On the second part of your question, again I’m just not going to read out specific engagements with our allies and partners beyond reiterating what I’ve said, which is that our engagements with allies and partners, including those in Israel, continue to be a key tenet of our process with the JCPOA. And we continue to fully believe that a mutual return to compliance is not only in the national security interest of the United States, it’s the best step to contain Iran’s nuclear program but will offer benefits in the region as well.</p>
-<p>I think we’ve got time for a couple more questions. Let’s next go to the line of Hiba Nasar.</p>
-<p><strong>OPERATOR: </strong>Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION: </strong>Hi, and thanks for taking my question. My first question about Iran: Iranian foreign minister today said that they would not allow the IAEA baseless accusations to remain – I’m stating his words – so they are opposing that the investigation could go on after the deal. Is there room for you to stop the investigation? This is my first question.</p>
-<p>My second question: What do you make from these attacks against the U.S. troops in Syria since they are happening now when you are closer to a deal with Iran? Thank you.<a id="post-372021-IRAN4"></a></p>
-<p><strong>MR PATEL: </strong>Thanks. Let me answer the first part first. So our position on this has been quite clear, and we have communicated this repeatedly in public and in private to Iran. Iran needs to answer the IAEA’s questions. That is the only way to address these issues. Once the IAEA director general reports to the board of governors that the outstanding issues have been clarified and resolved, we expect them to come off the board’s agenda, but not before that. We’ve also been clear that we do not believe there should be any conditionality between reimplementation of the JCPOA and the investigations related to Iran’s legal obligations.</p>
-<p>And on the – and on your second question, what I would say about the airstrike – and again, I would reiterate that our colleagues at the Pentagon can speak to some of this additionally – is that whether or not there is a deal, the President’s commitment to protect U.S. personnel and confront Iran’s activities that jeopardize our people or our partners in the region is unwavering. The nuclear deal has nothing to do with our readiness and ability to defend our people and our interests.</p>
-<p>We’ve also been clear that we will ensure that Iran never acquires a nuclear weapon. We believe diplomacy is the best path to achieving that goal, and as we long have said, we believe pursuing JCPOA talks is in U.S. national security interests, and we’re going to continue to do so.</p>
-<p>Great. I think we’ve got time for one last question, so why don’t we close it out with Matt Lee from the Associated Press?</p>
-<p><strong>OPERATOR: </strong>Your line is open. Please, go ahead.</p>
-<p><strong>QUESTION: </strong>Hi, there. Thanks, Vedant. I wasn’t going to ask a question, but your response to the last question on the IAEA safeguards inspections prompted me to ask this question, and that is: You guys keep saying that there is no conditionality between closing this file and the implementation, or there should be no conditionality between closing these – this investigation and the implementation of the deal. And you present this as though it is some tough, hardline stance that the United States has.</p>
-<p>But you can – it can be looked at entirely the opposite way, meaning that Iran doesn’t have to do this and the deal – I mean, Iran doesn’t have to satisfy it, the deal will be implemented, and you guys will still give them sanctions relief under the deal. Is that not correct, or am I completely missing something? You guys are presenting this as though we’re forceful; we’re telling the Iranians that they can’t – that their demand that this be closed before the deal is implemented, that we’re rejecting that. But in fact, what it also does, it says that the deal can be implemented, Iran can get the sanctions relief even if they haven’t satisfied the IAEA’s concerns. Is that correct or not?</p>
-<p><strong>MR PATEL: </strong>Thanks, Matt. So I will just reiterate what I’ve said previously, that of course it would be preferable for us to return to a full implementation of the JCPOA without any safeguards issues, but the power to achieve that is fully in Iran hands. And again, to say like I said before, we have been clear that we don’t believe there should be any conditionality between reimplementation of the JCPOA and investigations related to Iran’s legal obligations under both the NPT and its comprehensive safeguards agreement as well.</p>
-<p>Alright, everybody. Thank you so much for joining us this afternoon. We will all be in touch, and please don’t hesitate if you all need anything else.</p>
-<p>(The briefing was concluded at 2:35 p.m.)</p>
 ]]></content:encoded>
 					
 		
