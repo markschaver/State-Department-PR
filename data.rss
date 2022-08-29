@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Mon, 29 Aug 2022 15:24:19 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Aug 2022 16:15:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,163 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Ad Hoc Committee to Elaborate a UN Cybercrime Convention Third Negotiating Session at the United Nations in New York</title>
+		<link>https://www.state.gov/ad-hoc-committee-to-elaborate-a-un-cybercrime-convention-third-negotiating-session-at-the-united-nations-in-new-york/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Mon, 29 Aug 2022 16:15:10 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=372511</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p><span>The third negotiating session of the Ad Hoc Committee (AHC) to elaborate a UN cybercrime convention convenes at the United Nations in New York from August 29 to September 9.  This session </span><span>will focus on treaty chapters regarding international cooperation, technical assistance, prevention, mechanism of implementation, and final provisions.  </span><span>Ambassador (ret.) Deborah McCarthy will lead the U.S. delegation as the U.S. Lead Nego</span><span>tiator for the AHC.  The United States will continue to advocate for a fair, practical criminal justice instrument that respects human rights and provides a modern electronic evidence framework built on consensus and informed by experts.   </span><span>                       </span></p>
+<p><span>For further information, please e-mail INL-PAPD@state.gov or follow INL on Twitter at @StateINL. <a class="external-link" href="https://www.unodc.org/unodc/en/cybercrime/ad_hoc_committee/home" target="_BLANK" rel="noopener"><span class="external-link-title">Further details about AHC are available</span><span class="icon-external"> </span></a></span><span>.</span></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p><span>The third negotiating session of the Ad Hoc Committee (AHC) to elaborate a UN cybercrime convention convenes at the United Nations in New York from August 29 to September 9.  This session </span><span>will focus on treaty chapters regarding international cooperation, technical assistance, prevention, mechanism of implementation, and final provisions.  </span><span>Ambassador (ret.) Deborah McCarthy will lead the U.S. delegation as the U.S. Lead Nego</span><span>tiator for the AHC.  The United States will continue to advocate for a fair, practical criminal justice instrument that respects human rights and provides a modern electronic evidence framework built on consensus and informed by experts.   </span><span>                       </span></p>
+<p><span>For further information, please e-mail INL-PAPD@state.gov or follow INL on Twitter at @StateINL. <a class="external-link" href="https://www.unodc.org/unodc/en/cybercrime/ad_hoc_committee/home" target="_BLANK" rel="noopener"><span class="external-link-title">Further details about AHC are available</span><span class="icon-external"> </span></a></span><span>.</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Joint Statement on the Contribution of Cooperative Threat Reduction Partnerships to Global Health Security</title>
 		<link>https://www.state.gov/joint-statement-on-the-contribution-of-cooperative-threat-reduction-partnerships-to-global-health-security/</link>
 		
@@ -1471,165 +1628,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The Consent Agreements and related documents will be available for public inspection in the <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA4MjYuNjI4MDkyNjEiLCJ1cmwiOiJodHRwczovL2ZvaWEuc3RhdGUuZ292L1NlYXJjaC9TZWFyY2guYXNweCJ9.8i1wumJTLKNhodXWdwA6RP4eBEwS_uwr7eime6b3bIo/s/1436012980/br/143110857569-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA4MjYuNjI4MDkyNjEiLCJ1cmwiOiJodHRwczovL2ZvaWEuc3RhdGUuZ292L1NlYXJjaC9TZWFyY2guYXNweCJ9.8i1wumJTLKNhodXWdwA6RP4eBEwS_uwr7eime6b3bIo%2Fs%2F1436012980%2Fbr%2F143110857569-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Cf1b1e0fb8c4c471ba3b108da8760f08c%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637971147694567195%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=WvHJjpSLuC4RRIWgbsBVhsNrXreWW%2BDhffXgp0dDvek%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">Public Reading Room of the Department of State</a> and on the <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA4MjYuNjI4MDkyNjEiLCJ1cmwiOiJodHRwczovL3d3dy5wbWRkdGMuc3RhdGUuZ292L2RkdGNfcHVibGljP2lkPWRkdGNfa2JfYXJ0aWNsZV9wYWdlJnN5c19pZD0zODRiOTY4YWRiM2NkMzAwNDRmOWZmNjIxZjk2MTk0MSJ9.lhHEweK4x3oLylyagFW90CoACzli6TtjtFm8XgWurtc/s/1436012980/br/143110857569-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA4MjYuNjI4MDkyNjEiLCJ1cmwiOiJodHRwczovL3d3dy5wbWRkdGMuc3RhdGUuZ292L2RkdGNfcHVibGljP2lkPWRkdGNfa2JfYXJ0aWNsZV9wYWdlJnN5c19pZD0zODRiOTY4YWRiM2NkMzAwNDRmOWZmNjIxZjk2MTk0MSJ9.lhHEweK4x3oLylyagFW90CoACzli6TtjtFm8XgWurtc%2Fs%2F1436012980%2Fbr%2F143110857569-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Cf1b1e0fb8c4c471ba3b108da8760f08c%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637971147694567195%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=rG%2F8d7nUHjY6LgKSoMY05WhKVFjeN9Ea6SSHdjDakvI%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">Penalties and Oversights Agreements</a> section of the Directorate of Defense Trade Controls’ website.</p>
 <p>For additional information, please contact the Bureau of Political-Military Affairs’ Office of Congressional and Public Affairs at <a href="mailto:pm-cpa@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="2">pm-cpa@state.gov</a>.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The Upheld Conviction of Pham Doan Trang</title>
-		<link>https://www.state.gov/the-upheld-conviction-of-pham-doan-trang/</link>
-		
-		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
-		<pubDate>Fri, 26 Aug 2022 00:34:01 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=372033</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Ned Price, Department Spokesperson</p>
-<p>The United States is deeply concerned by the upheld conviction and nine-year prison sentence of renowned Vietnamese author and journalist Pham Doan Trang.  Trang, a 2022 winner of the Secretary of State’s International Women of Courage Award, has been recognized internationally for her work to advance human rights and good governance in Vietnam.  The UN Working Group on Arbitrary Detention found in September 2021 that Trang’s detention is arbitrary and in contravention of Vietnam’s international human rights commitments.  We note reports of Trang’s declining health and urge Vietnam to ensure adequate medical care and to allow access to Trang to assess her medical condition.</p>
-<p>Trang’s continued detention is the latest instance in an alarming pattern of arrests and sentencing of individuals in Vietnam for peacefully expressing their opinions.  We call for the Vietnamese government to release Trang and to allow all individuals in Vietnam to exercise their right to freedom of expression, without fear of retaliation, consistent with the human rights provisions in Vietnam’s constitution and Vietnam’s international obligations and commitments.</p>
-<p><input type="hidden" data-filter="000000000000" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
-<p>The United States is deeply concerned by the upheld conviction and nine-year prison sentence of renowned Vietnamese author and journalist Pham Doan Trang.  Trang, a 2022 winner of the Secretary of State’s International Women of Courage Award, has been recognized internationally for her work to advance human rights and good governance in Vietnam.  The UN Working Group on Arbitrary Detention found in September 2021 that Trang’s detention is arbitrary and in contravention of Vietnam’s international human rights commitments.  We note reports of Trang’s declining health and urge Vietnam to ensure adequate medical care and to allow access to Trang to assess her medical condition.</p>
-<p>Trang’s continued detention is the latest instance in an alarming pattern of arrests and sentencing of individuals in Vietnam for peacefully expressing their opinions.  We call for the Vietnamese government to release Trang and to allow all individuals in Vietnam to exercise their right to freedom of expression, without fear of retaliation, consistent with the human rights provisions in Vietnam’s constitution and Vietnam’s international obligations and commitments.</p>
-<p><input type="hidden" data-filter="000000000000" /></p>
 ]]></content:encoded>
 					
 		
