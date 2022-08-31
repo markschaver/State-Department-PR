@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 31 Aug 2022 20:32:28 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 31 Aug 2022 21:24:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Joint Statement on Syria</title>
+		<link>https://www.state.gov/joint-statement-on-syria-2/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Wed, 31 Aug 2022 21:24:01 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=373390</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>Representatives of the Arab League, Egypt, the European Union, France, Germany, Iraq, Jordan, Norway, Qatar, Saudi Arabia, Turkiye, the United Kingdom, and the United States met August 30-31 at the envoy level  in Geneva to discuss the crisis in Syria.</p>
+<p><em>Begin Text:</em></p>
+<p>We reaffirmed our commitment to reaching a political solution to the Syrian crisis consistent with UN Security Council resolution 2254, including continued support for implementing and sustaining an immediate nation-wide ceasefire, the Constitutional Committee, free and fair elections, the end of arbitrary detention, and the release of all those unjustly held. We reiterated the need to create secure conditions for the safe, dignified, and voluntary return of refugees and internally displaced persons, consistent with UNHCR standards; and support the provision of sufficient and sustainable aid to the displaced and their host countries and communities until such conditions are in place. We noted with concern the continuing threat posed by Daesh and reiterated our commitment to the mission of the Global Coalition Against Daesh, and to the fight against terrorism in all its forms and manifestations.</p>
+<p>We called on all parties, in particular the government-nominated bloc, to resume meetings of the Syrian-led and Syrian-owned Constitutional Committee under UN auspices in Geneva and to advance an inclusive political solution that will protect the territorial integrity, unity, and sovereignty of Syria and the rights and dignity of all Syrians. We reiterated that there is no military solution to the Syrian crisis and reaffirmed our continued support of UN Special Envoy Geir Pedersen and his tireless efforts to advance a UN-facilitated political process consistent with UNSC resolution 2254.</p>
+<p>We remain deeply concerned about the dire humanitarian situation in Syria and the ongoing suffering of the Syrian people. We emphasized the importance of continuing to provide life-saving and early recovery humanitarian assistance across Syria through all modalities, including expansion and extension of the UNSC resolution 2642 cross-border aid mechanism, for which there is no alternative that can match its scope and scale. Furthermore, we underlined the necessity to continue to press for accountability for all atrocities and international crimes perpetrated in Syria, including the use of chemical weapons, as well as to press for a full accounting of the missing.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>Representatives of the Arab League, Egypt, the European Union, France, Germany, Iraq, Jordan, Norway, Qatar, Saudi Arabia, Turkiye, the United Kingdom, and the United States met August 30-31 at the envoy level  in Geneva to discuss the crisis in Syria.</p>
+<p><em>Begin Text:</em></p>
+<p>We reaffirmed our commitment to reaching a political solution to the Syrian crisis consistent with UN Security Council resolution 2254, including continued support for implementing and sustaining an immediate nation-wide ceasefire, the Constitutional Committee, free and fair elections, the end of arbitrary detention, and the release of all those unjustly held. We reiterated the need to create secure conditions for the safe, dignified, and voluntary return of refugees and internally displaced persons, consistent with UNHCR standards; and support the provision of sufficient and sustainable aid to the displaced and their host countries and communities until such conditions are in place. We noted with concern the continuing threat posed by Daesh and reiterated our commitment to the mission of the Global Coalition Against Daesh, and to the fight against terrorism in all its forms and manifestations.</p>
+<p>We called on all parties, in particular the government-nominated bloc, to resume meetings of the Syrian-led and Syrian-owned Constitutional Committee under UN auspices in Geneva and to advance an inclusive political solution that will protect the territorial integrity, unity, and sovereignty of Syria and the rights and dignity of all Syrians. We reiterated that there is no military solution to the Syrian crisis and reaffirmed our continued support of UN Special Envoy Geir Pedersen and his tireless efforts to advance a UN-facilitated political process consistent with UNSC resolution 2254.</p>
+<p>We remain deeply concerned about the dire humanitarian situation in Syria and the ongoing suffering of the Syrian people. We emphasized the importance of continuing to provide life-saving and early recovery humanitarian assistance across Syria through all modalities, including expansion and extension of the UNSC resolution 2642 cross-border aid mechanism, for which there is no alternative that can match its scope and scale. Furthermore, we underlined the necessity to continue to press for accountability for all atrocities and international crimes perpetrated in Syria, including the use of chemical weapons, as well as to press for a full accounting of the missing.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Special Advisor on International Disability Rights Minkara’s Travel to Germany, Thailand, and Malaysia </title>
 		<link>https://www.state.gov/special-advisor-on-international-disability-rights-minkaras-travel-to-germany-thailand-and-malaysia/</link>
 		
@@ -1693,133 +1856,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>I strongly believe that the U.S.-Kyrgyz relationship is poised to grow. The shared values between our peoples make us natural partners, and the benefits of our cooperation are self-evident. The United States is committed to partnering with the Kyrgyz Republic to achieve its development goals, including by expanding economic ties and strengthening democratic institutions. We applaud the Kyrgyz government for taking a lead role in addressing the most serious challenge of our time – the climate crisis – and in these efforts it will find no better partner than the United States.</p>
 <p>The Kyrgyz people, in the relatively brief period since their independence, have shown a commitment to freedom that is an example to the world. I hope that today’s holiday offers an opportunity to reflect and take pride in all they have accomplished. Happy Independence Day.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Arrival of Wheat-Carrying Brave Commander to East Africa from Ukraine</title>
-		<link>https://www.state.gov/arrival-of-wheat-carrying-brave-commander-to-east-africa-from-ukraine/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Tue, 30 Aug 2022 19:02:43 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=372969</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States welcomes the arrival in Djibouti of 23,300 metric tons of Ukrainian grain aboard the ship <em>Brave Commander</em>. This grain will be distributed within Ethiopia and Somalia, countries that are dangerously food insecure after four years of drought. The United States is grateful for the important role Djibouti has played facilitating the flow of humanitarian goods to the region.</p>
-<p>As part of a more than $68 million recent contribution by the United States to the World Food Program (WFP), this grain is among the first shipments of Ukrainian agricultural products exported from the Black Sea to reach some of the world’s most food insecure countries since the beginning of Russia’s unjustified, full-scale attack on Ukraine on February 24. The United States is the largest contributor to the WFP, having provided $5.7 billion to the organization since October 2021. Since February, the United States has provided over $5.4 billion in humanitarian assistance to scale up emergency food security operations in food insecure countries globally.</p>
-<p>Ukrainian agricultural products are critical to global food security. The United States supports the Turkey and UN-brokered deal between Ukraine and Russia to resume Ukrainian agricultural exports via the Black Sea, and we are closely monitoring Russia’s adherence to the deal’s terms. We call on Russia to immediately cease its war on Ukraine, which would do much to address the recent spike in global food insecurity.</p>
-<p><input type="hidden" data-filter="100001000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States welcomes the arrival in Djibouti of 23,300 metric tons of Ukrainian grain aboard the ship <em>Brave Commander</em>. This grain will be distributed within Ethiopia and Somalia, countries that are dangerously food insecure after four years of drought. The United States is grateful for the important role Djibouti has played facilitating the flow of humanitarian goods to the region.</p>
-<p>As part of a more than $68 million recent contribution by the United States to the World Food Program (WFP), this grain is among the first shipments of Ukrainian agricultural products exported from the Black Sea to reach some of the world’s most food insecure countries since the beginning of Russia’s unjustified, full-scale attack on Ukraine on February 24. The United States is the largest contributor to the WFP, having provided $5.7 billion to the organization since October 2021. Since February, the United States has provided over $5.4 billion in humanitarian assistance to scale up emergency food security operations in food insecure countries globally.</p>
-<p>Ukrainian agricultural products are critical to global food security. The United States supports the Turkey and UN-brokered deal between Ukraine and Russia to resume Ukrainian agricultural exports via the Black Sea, and we are closely monitoring Russia’s adherence to the deal’s terms. We call on Russia to immediately cease its war on Ukraine, which would do much to address the recent spike in global food insecurity.</p>
-<p><input type="hidden" data-filter="100001000111" /></p>
 ]]></content:encoded>
 					
 		
