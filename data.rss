@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 01 Sep 2022 15:17:29 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Sep 2022 18:37:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>UN Office of the High Commissioner for Human Rights Report on the Human Rights Situation in Xinjiang</title>
+		<link>https://www.state.gov/un-office-of-the-high-commissioner-for-human-rights-report-on-the-human-rights-situation-in-xinjiang/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Thu, 01 Sep 2022 18:37:52 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=373567</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>The August 31<sup>st</sup> report by the UN Office of the High Commissioner for Human Rights outlines in alarming details the human rights violations and abuses occurring in Xinjiang. It concludes that “the extent of arbitrary and discriminatory detention of members of the Uyghur and predominantly Muslim groups&#8230; may constitute international crimes, in particular crimes against humanity,” and that “serious human rights violations have been committed&#8221; in Xinjiang.</p>
+<p>The United States welcomes this important report, which describes authoritatively the appalling treatment and abuses of Uyghurs and members of other ethnic and religious minority groups by the government of the People’s Republic of China (PRC).</p>
+<p>This report deepens and reaffirms our grave concern regarding the ongoing genocide and crimes against humanity that PRC government authorities are perpetrating against Uyghurs, who are predominantly Muslim, and members of other ethnic and religious minority groups in Xinjiang.</p>
+<p>We will continue to work closely with our partners, civil society, and the international community to seek justice and accountability for the many victims.  We will continue to hold the PRC to account and call on the PRC to release those unjustly detained, account for those disappeared, and allow independent investigators full and unhindered access to Xinjiang, Tibet, and across the PRC.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>The August 31<sup>st</sup> report by the UN Office of the High Commissioner for Human Rights outlines in alarming details the human rights violations and abuses occurring in Xinjiang. It concludes that “the extent of arbitrary and discriminatory detention of members of the Uyghur and predominantly Muslim groups&#8230; may constitute international crimes, in particular crimes against humanity,” and that “serious human rights violations have been committed&#8221; in Xinjiang.</p>
+<p>The United States welcomes this important report, which describes authoritatively the appalling treatment and abuses of Uyghurs and members of other ethnic and religious minority groups by the government of the People’s Republic of China (PRC).</p>
+<p>This report deepens and reaffirms our grave concern regarding the ongoing genocide and crimes against humanity that PRC government authorities are perpetrating against Uyghurs, who are predominantly Muslim, and members of other ethnic and religious minority groups in Xinjiang.</p>
+<p>We will continue to work closely with our partners, civil society, and the international community to seek justice and accountability for the many victims.  We will continue to hold the PRC to account and call on the PRC to release those unjustly detained, account for those disappeared, and allow independent investigators full and unhindered access to Xinjiang, Tibet, and across the PRC.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Vietnam National Day</title>
 		<link>https://www.state.gov/vietnam-national-day-2/</link>
 		
@@ -1477,161 +1640,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Our countries’ shared values and principles, including an unyielding commitment to democracy, will serve to strengthen our ties in the years to come. As our nations build back from the pandemic, we reaffirm our commitment to cooperate to combat narcotrafficking, improve energy and food security, and mitigate the effects of climate change.</p>
 <p>I wish the people of Trinidad and Tobago continued peace and prosperity in the year ahead.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Ninth U.S.-Vietnam Asia-Pacific Dialogue</title>
-		<link>https://www.state.gov/ninth-u-s-vietnam-asia-pacific-dialogue/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 31 Aug 2022 00:00:55 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=373043</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Assistant Secretary of State for East Asian and Pacific Affairs Daniel Kritenbrink welcomed Vietnam Deputy Foreign Minister Nguyen Minh Vu to Washington for the ninth U.S.-Vietnam Asia-Pacific Dialogue on August 30.  Reflecting upon the strength of U.S.-Vietnam relations, the Assistant Secretary and Deputy Foreign Minister discussed issues related to the two countries’ shared interest in promoting peace, stability, and prosperity across the region.  Assistant Secretary Kritenbrink and Deputy Foreign Minister Vu affirmed the importance of continued senior-level engagement between the United States and Vietnam and looked forward to celebrating the 10th anniversary of the U.S.-Vietnam Comprehensive Partnership in 2023.  Both sides agreed to reconvene for next year’s Asia-Pacific Dialogue in Vietnam.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Assistant Secretary of State for East Asian and Pacific Affairs Daniel Kritenbrink welcomed Vietnam Deputy Foreign Minister Nguyen Minh Vu to Washington for the ninth U.S.-Vietnam Asia-Pacific Dialogue on August 30.  Reflecting upon the strength of U.S.-Vietnam relations, the Assistant Secretary and Deputy Foreign Minister discussed issues related to the two countries’ shared interest in promoting peace, stability, and prosperity across the region.  Assistant Secretary Kritenbrink and Deputy Foreign Minister Vu affirmed the importance of continued senior-level engagement between the United States and Vietnam and looked forward to celebrating the 10th anniversary of the U.S.-Vietnam Comprehensive Partnership in 2023.  Both sides agreed to reconvene for next year’s Asia-Pacific Dialogue in Vietnam.</p>
 ]]></content:encoded>
 					
 		
