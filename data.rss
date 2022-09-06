@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Mon, 05 Sep 2022 22:54:17 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 Sep 2022 13:24:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Acting Assistant Secretary for Global Public Affairs Trudeau Travels to San Diego, Las Vegas, and Houston</title>
+		<link>https://www.state.gov/acting-assistant-secretary-for-global-public-affairs-trudeau-travels-to-san-diego-las-vegas-and-houston/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2022 13:24:32 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=374173</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>Acting Assistant Secretary for Global Public Affairs Elizabeth Kennedy Trudeau will travel to San Diego, Las Vegas, and Houston from September 6-10, 2022. Her five-day trip underscores the importance the Department of State places on bringing U.S. foreign policy to the American public and strengthening ties between the Department and community-based organizations, public and private sector partners, educational institutions, local governments, and local media outlets across the country.</p>
+<p>In San Diego, Acting Assistant Secretary Trudeau will meet with university students and professors at three institutions to discuss U.S. policy priorities, as well as public sector service. She will also meet with longstanding Department partners in facilitating Department exchange programs like the International Visitors Leadership Program, community organizations focused on international affairs and meet with public officials working on asylee and refugee issues in the San Diego area.</p>
+<p>In Las Vegas, Acting Assistant Secretary Trudeau will engage with the Nevada business community on international economic issues. She will also meet with local government leaders who have served as U.S. models for advancing disability rights internationally, and meet with community college students focusing on government and leadership.</p>
+<p>In Houston, Acting Assistant Secretary Trudeau will meet with members of the regional Fulbright alumni network and organizations focused on supporting international exchange participants. Continuing her engagement with educational institutions, she will also meet with students from a range of programs focusing on international affairs.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>Acting Assistant Secretary for Global Public Affairs Elizabeth Kennedy Trudeau will travel to San Diego, Las Vegas, and Houston from September 6-10, 2022. Her five-day trip underscores the importance the Department of State places on bringing U.S. foreign policy to the American public and strengthening ties between the Department and community-based organizations, public and private sector partners, educational institutions, local governments, and local media outlets across the country.</p>
+<p>In San Diego, Acting Assistant Secretary Trudeau will meet with university students and professors at three institutions to discuss U.S. policy priorities, as well as public sector service. She will also meet with longstanding Department partners in facilitating Department exchange programs like the International Visitors Leadership Program, community organizations focused on international affairs and meet with public officials working on asylee and refugee issues in the San Diego area.</p>
+<p>In Las Vegas, Acting Assistant Secretary Trudeau will engage with the Nevada business community on international economic issues. She will also meet with local government leaders who have served as U.S. models for advancing disability rights internationally, and meet with community college students focusing on government and leadership.</p>
+<p>In Houston, Acting Assistant Secretary Trudeau will meet with members of the regional Fulbright alumni network and organizations focused on supporting international exchange participants. Continuing her engagement with educational institutions, she will also meet with students from a range of programs focusing on international affairs.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Eswatini National Day  </title>
 		<link>https://www.state.gov/eswatini-national-day/</link>
 		
@@ -1449,171 +1610,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		</script>
 									<content:encoded><![CDATA[<p><span>U.S. Special Representative for the DPRK Ambassador Sung Kim will travel to Tokyo September 7-9.  Special Representative Kim and Republic of Korea (ROK) Special Representative for Korean Peninsula Peace and Security Affairs Kim Gunn will participate in a trilateral meeting hosted by Japanese Director-General for Asian and Oceanian Affairs Funakoshi Takehiro.  The three sides will discuss a broad range of issues, including our continued joint efforts to achieve the complete denuclearization of the Korean Peninsula.  Special Representative Kim will stress the U.S. commitment to dialogue, even while we will take all necessary action to address the threat Pyongyang poses to the United States and our allies.</span></p>
 <p><span>This trilateral meeting underscores the importance of ongoing close U.S. collaboration with Japan and the ROK on DPRK issues and the ironclad U.S. commitment to the security of the ROK and Japan.</span></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Special Presidential Envoy for Climate Kerry’s Travel to Egypt, United Kingdom</title>
-		<link>https://www.state.gov/special-presidential-envoy-for-climate-kerrys-travel-to-egypt-united-kingdom/</link>
-		
-		<dc:creator><![CDATA[U.S. Department of State]]></dc:creator>
-		<pubDate>Fri, 02 Sep 2022 19:31:49 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=373925</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Special Presidential Envoy for Climate John Kerry will travel to Cairo, Egypt, September 7-8 to continue ongoing discussions with government and private sector counterparts on accelerating global climate cooperation ahead of the 27th Conference of the Parties to the UNFCCC (COP27) in Sharm el-Sheikh, Egypt, November 6-18. Secretary Kerry will also participate in the Egypt-International Cooperation Forum and Meeting of the African Ministers of Finance and Environment.</p>
-<p>Secretary Kerry will also travel to Glasgow, United Kingdom on September 9 to engage business and NGO leaders on efforts to enhance global climate action and accelerate the clean energy transition.</p>
-<p>For media inquiries, please contact ClimateComms@state.gov.</p>
-<div id="x_mail_footer">
-<hr />
-</div>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Special Presidential Envoy for Climate John Kerry will travel to Cairo, Egypt, September 7-8 to continue ongoing discussions with government and private sector counterparts on accelerating global climate cooperation ahead of the 27th Conference of the Parties to the UNFCCC (COP27) in Sharm el-Sheikh, Egypt, November 6-18. Secretary Kerry will also participate in the Egypt-International Cooperation Forum and Meeting of the African Ministers of Finance and Environment.</p>
-<p>Secretary Kerry will also travel to Glasgow, United Kingdom on September 9 to engage business and NGO leaders on efforts to enhance global climate action and accelerate the clean energy transition.</p>
-<p>For media inquiries, please contact ClimateComms@state.gov.</p>
-<div id="x_mail_footer">
-<hr />
-</div>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
