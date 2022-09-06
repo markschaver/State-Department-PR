@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Mon, 05 Sep 2022 22:39:41 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Sep 2022 22:54:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Eswatini National Day  </title>
+		<link>https://www.state.gov/eswatini-national-day/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2022 04:01:40 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=374122</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I offer my sincerest congratulations to the people of Eswatini on the 54th anniversary of your nation’s independence.</p>
+<p>Independence Day is an important occasion to reflect on and celebrate the values that unite a nation.  As Eswatini continues to recover from the COVID-19 pandemic and heal from a period of unprecedented unrest, the United States remains committed to partnering with you in solidarity, support, and mutual respect.  Our actions are guided by our shared core values.  We underscore the importance of an inclusive, national dialogue that demonstrates respect for human rights, including freedom of expression, rule of law, and accountability.</p>
+<p>As you mark your Independence Day, we join you in celebration – reflecting on our joint efforts and shared successes in health, security, and prosperity.  We look forward to free and fair elections in 2023 and supporting Eswatini’s efforts to chart a peaceful path forward through continued collaboration.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I offer my sincerest congratulations to the people of Eswatini on the 54th anniversary of your nation’s independence.</p>
+<p>Independence Day is an important occasion to reflect on and celebrate the values that unite a nation.  As Eswatini continues to recover from the COVID-19 pandemic and heal from a period of unprecedented unrest, the United States remains committed to partnering with you in solidarity, support, and mutual respect.  Our actions are guided by our shared core values.  We underscore the importance of an inclusive, national dialogue that demonstrates respect for human rights, including freedom of expression, rule of law, and accountability.</p>
+<p>As you mark your Independence Day, we join you in celebration – reflecting on our joint efforts and shared successes in health, security, and prosperity.  We look forward to free and fair elections in 2023 and supporting Eswatini’s efforts to chart a peaceful path forward through continued collaboration.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>IDF Releases Shireen Abu Akleh Report </title>
 		<link>https://www.state.gov/idf-releases-shireen-abu-akleh-report/</link>
 		
@@ -1455,169 +1614,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <hr />
 </div>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Under Secretary Jenkins Travel to the Philippines, Vietnam, and Singapore, September 5-14</title>
-		<link>https://www.state.gov/under-secretary-jenkins-travel-to-the-philippines-vietnam-and-singapore-september-5-14/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 02 Sep 2022 17:10:22 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=373843</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Under Secretary for Arms Control and International Security Ambassador Bonnie D. Jenkins will travel to the Philippines, Vietnam, and Singapore September 5-14 to meet with U.S. allies and partners to expand cooperation on global health security, counterproliferation, conventional weapons destruction, civil-nuclear partnership, export controls, strategic trade, and the implementation of the Women, Peace, and Security agenda, all key elements of the U.S. commitment to regional security in a free and open Indo-Pacific region.</p>
-<p>In Manila, the Philippines, September 5-7, Under Secretary Jenkins will meet with senior officials and civil society partners to discuss civil nuclear energy cooperation, strategic trade control, and global health security.</p>
-<p>In Hanoi, Vietnam, September 8-10, Under Secretary Jenkins will meet with senior officials and civil society partners to discuss aviation and border security, nuclear nonproliferation, global health security, peacekeeping capacity building, and cooperative efforts to further expand the meaningful participation of women in all phases of peacebuilding.</p>
-<p>Continuing to Quang Tri, Vietnam, Under Secretary Jenkins will visit sites exemplifying cooperation between the United States and Vietnam to survey and clear legacy unexploded ordnance. While there, she will observe unexploded ordnance survey and clearance, visit the Quang Tri Mine Action Center, and meet with women working in demining.</p>
-<p>In Singapore, September 11-14, Under Secretary Jenkins will meet with senior officials to discuss wide-ranging issues including strategic trade and export control. She will also meet with civil society partners who are working to strengthen global biosafety and biosecurity. The Under Secretary will also attend the 2022 Singapore Export Control Summit, deliver remarks for the 10th annual Joint Industry Outreach event co-sponsored by the United States and Japan, and engage with women from the region attending the inaugural Women in Strategic Trade event.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Under Secretary for Arms Control and International Security Ambassador Bonnie D. Jenkins will travel to the Philippines, Vietnam, and Singapore September 5-14 to meet with U.S. allies and partners to expand cooperation on global health security, counterproliferation, conventional weapons destruction, civil-nuclear partnership, export controls, strategic trade, and the implementation of the Women, Peace, and Security agenda, all key elements of the U.S. commitment to regional security in a free and open Indo-Pacific region.</p>
-<p>In Manila, the Philippines, September 5-7, Under Secretary Jenkins will meet with senior officials and civil society partners to discuss civil nuclear energy cooperation, strategic trade control, and global health security.</p>
-<p>In Hanoi, Vietnam, September 8-10, Under Secretary Jenkins will meet with senior officials and civil society partners to discuss aviation and border security, nuclear nonproliferation, global health security, peacekeeping capacity building, and cooperative efforts to further expand the meaningful participation of women in all phases of peacebuilding.</p>
-<p>Continuing to Quang Tri, Vietnam, Under Secretary Jenkins will visit sites exemplifying cooperation between the United States and Vietnam to survey and clear legacy unexploded ordnance. While there, she will observe unexploded ordnance survey and clearance, visit the Quang Tri Mine Action Center, and meet with women working in demining.</p>
-<p>In Singapore, September 11-14, Under Secretary Jenkins will meet with senior officials to discuss wide-ranging issues including strategic trade and export control. She will also meet with civil society partners who are working to strengthen global biosafety and biosecurity. The Under Secretary will also attend the 2022 Singapore Export Control Summit, deliver remarks for the 10th annual Joint Industry Outreach event co-sponsored by the United States and Japan, and engage with women from the region attending the inaugural Women in Strategic Trade event.</p>
 ]]></content:encoded>
 					
 		
