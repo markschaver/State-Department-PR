@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 09 Sep 2022 14:40:52 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 Sep 2022 14:58:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Department of State Releases 2022 Fiscal Transparency Report</title>
+		<link>https://www.state.gov/department-of-state-releases-2022-fiscal-transparency-report/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Fri, 09 Sep 2022 14:53:23 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=375211</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>On September 9, 2022, the United States Department of State released the 2022 Fiscal Transparency Report, which found that, of the 141 countries (and the Palestinian Authority) evaluated by the Department, the governments of 72 met minimum requirements of fiscal transparency. Sixty-nine did not meet the minimum requirements of fiscal transparency. Of these 69, however, 27 made significant progress toward meeting the minimum requirements of fiscal transparency.</p>
+<p>Fiscal transparency is a critical element of effective public financial management, helps build market confidence, and underpins economic sustainability. It fosters greater government accountability by providing a window into government budgets for citizens, helping citizens hold their leadership accountable, and facilitating better-informed public debate.</p>
+<p>The report describes the minimum requirements of fiscal transparency, reviews governments, most of which were identified as recipients of U.S. assistance in the 2014 Fiscal Transparency Report, and further assesses those that did not meet the minimum fiscal transparency requirements during the review period of January 1 to December 31, 2021. The report also indicates whether governments that did not meet those requirements made significant progress to publicly disclose national budget documentation, contracts, and licenses during the review period. The Department of State evaluated the public availability, substantial completeness, and reliability of budget documents, as well as the transparency of processes for awarding government contracts and licenses. Beginning with this review period, if a government has a sovereign wealth fund, it must have had a sound legal framework as a minimum requirement. Additionally, the government must have mechanisms in place to effectively follow up on supreme audit institution recommendations.</p>
+<p>The report can be found on the Department’s <a href="https://www.state.gov/fiscal-transparency-report">website</a>. For further information, please contact the Bureau of Economic and Business Affairs’ Fiscal Transparency team at fiscaltransparency@state.gov.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>On September 9, 2022, the United States Department of State released the 2022 Fiscal Transparency Report, which found that, of the 141 countries (and the Palestinian Authority) evaluated by the Department, the governments of 72 met minimum requirements of fiscal transparency. Sixty-nine did not meet the minimum requirements of fiscal transparency. Of these 69, however, 27 made significant progress toward meeting the minimum requirements of fiscal transparency.</p>
+<p>Fiscal transparency is a critical element of effective public financial management, helps build market confidence, and underpins economic sustainability. It fosters greater government accountability by providing a window into government budgets for citizens, helping citizens hold their leadership accountable, and facilitating better-informed public debate.</p>
+<p>The report describes the minimum requirements of fiscal transparency, reviews governments, most of which were identified as recipients of U.S. assistance in the 2014 Fiscal Transparency Report, and further assesses those that did not meet the minimum fiscal transparency requirements during the review period of January 1 to December 31, 2021. The report also indicates whether governments that did not meet those requirements made significant progress to publicly disclose national budget documentation, contracts, and licenses during the review period. The Department of State evaluated the public availability, substantial completeness, and reliability of budget documents, as well as the transparency of processes for awarding government contracts and licenses. Beginning with this review period, if a government has a sovereign wealth fund, it must have had a sound legal framework as a minimum requirement. Additionally, the government must have mechanisms in place to effectively follow up on supreme audit institution recommendations.</p>
+<p>The report can be found on the Department’s <a href="https://www.state.gov/fiscal-transparency-report">website</a>. For further information, please contact the Bureau of Economic and Business Affairs’ Fiscal Transparency team at fiscaltransparency@state.gov.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Special Presidential Envoy for Climate Kerry’s Travel to Nigeria and Senegal</title>
 		<link>https://www.state.gov/special-presidential-envoy-for-climate-kerrys-travel-to-nigeria-and-senegal/</link>
 		
@@ -1503,169 +1664,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Assistant Secretary Medina will discuss the State Department’s role in advancing norms of responsible behavior in outer space within United Nations fora; advancing a shared international commitment against destructive, direct-ascent anti-satellite missile testing; and expanding the reach of the Artemis Accords.  Assistant Secretary Medina and Assistant Secretary Stewart will also hold informal meetings with interagency space officials.</p>
 <p>For press inquiries, contact <a href="mailto:OES-PA-DG@state.gov" target="_blank" rel="noopener">OES-PA-DG@state.gov</a> and AVC-Press-<a href="mailto:DL@state.gov" target="_blank" rel="noopener">DL@state.gov</a></p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Message to the People of the United Kingdom and to the Peoples of the Commonwealth</title>
-		<link>https://www.state.gov/message-to-the-people-of-the-united-kingdom-and-to-the-peoples-of-the-commonwealth/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 09 Sep 2022 02:00:15 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=375059</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Together with the American people, I extend my deepest sympathies to His Majesty The King, the entire Royal Family, the people of the United Kingdom, and the peoples of the Commonwealth on the death of Her Majesty Queen Elizabeth II.</p>
-<p>For more than 70 years – a period during which the United Kingdom and the world witnessed unprecedented change – Queen Elizabeth personified a sense of stability.  During a time of tremendous division, she was a source of unity.</p>
-<p>Her influence extended well beyond the Commonwealth.  As Queen, she visited more than 120 countries, including the United States, where she made a point of meeting not only with leaders, but with people from all walks of life.  She was the embodiment of the special relationship between the United States and the United Kingdom, and a symbol of the enduring alliance that has seen our nations through the greatest tests of the 20th and 21st centuries.</p>
-<p>We join people around the world in mourning her passing, and we will forever be inspired by the memory of her service, leadership, and friendship.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Together with the American people, I extend my deepest sympathies to His Majesty The King, the entire Royal Family, the people of the United Kingdom, and the peoples of the Commonwealth on the death of Her Majesty Queen Elizabeth II.</p>
-<p>For more than 70 years – a period during which the United Kingdom and the world witnessed unprecedented change – Queen Elizabeth personified a sense of stability.  During a time of tremendous division, she was a source of unity.</p>
-<p>Her influence extended well beyond the Commonwealth.  As Queen, she visited more than 120 countries, including the United States, where she made a point of meeting not only with leaders, but with people from all walks of life.  She was the embodiment of the special relationship between the United States and the United Kingdom, and a symbol of the enduring alliance that has seen our nations through the greatest tests of the 20th and 21st centuries.</p>
-<p>We join people around the world in mourning her passing, and we will forever be inspired by the memory of her service, leadership, and friendship.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
 ]]></content:encoded>
 					
 		
