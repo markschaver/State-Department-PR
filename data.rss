@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Sat, 10 Sep 2022 21:41:34 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 11 Sep 2022 20:01:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Under Secretary Fernandez’s Travel to Mexico, Panama, and Costa Rica</title>
+		<link>https://www.state.gov/under-secretary-fernandezs-travel-to-mexico-panama-and-costa-rica/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Sun, 11 Sep 2022 20:01:20 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=375641</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>Under Secretary Jose W. Fernandez will travel to Mexico City on September 12 to join Secretary Blinken as part of the U.S. delegation to the U.S. – Mexico High-Level Economic Dialogue (HLED) to advance our shared objectives for North American economic prosperity.  The HLED discussions will review advances and achievements over the past year and help define our shared vision to enhance regional competitiveness.  Under Secretary Fernandez will also engage with private sector stakeholders and civil society from the United States and Mexico on opportunities to deepen economic cooperation and strengthen regional supply chains.</p>
+<p>The Under Secretary will travel to Panama City on September 13 and San Jose on September 14 to discuss collaboration and further strengthen our strategic economic partnership with Alliance for Development in Democracy (ADD) countries on supply chains, including new opportunities for investment in more resilient and secure technologies.</p>
+<p>In Panama, Under Secretary Fernandez will also meet with the Ministers of Foreign Affairs, Environment, Finance, and Commerce, with the National Secretary of Science, Technology, and Innovation, and separately with the Panama Canal Administrator to discuss the strength of the bilateral relationship and explore areas for further collaboration including supply chain bottlenecks and logistics, energy and maritime cooperation, and investment opportunities.</p>
+<p>In Costa Rica, the Under Secretary will meet with President Rodrigo Chaves Robles to discuss our shared regional objectives for promoting trade and investment, supporting the development of 5G telecommunications infrastructure, and protecting our oceans through marine governance and transparency with cooperation on the Eastern Tropical Pacific Marine Corridor (CMAR).</p>
+<p>Throughout his travel, Under Secretary Fernandez will also meet with leaders in government and business to promote U.S. investment and trade, supply-chain diversification, ocean conservation, the clean energy transition, and digital connectivity for the region, as well as engage with potential partners across sectors to further our multilateral efforts to tackle the effects of climate change, food insecurity and malnutrition, as well as pandemic threats.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>Under Secretary Jose W. Fernandez will travel to Mexico City on September 12 to join Secretary Blinken as part of the U.S. delegation to the U.S. – Mexico High-Level Economic Dialogue (HLED) to advance our shared objectives for North American economic prosperity.  The HLED discussions will review advances and achievements over the past year and help define our shared vision to enhance regional competitiveness.  Under Secretary Fernandez will also engage with private sector stakeholders and civil society from the United States and Mexico on opportunities to deepen economic cooperation and strengthen regional supply chains.</p>
+<p>The Under Secretary will travel to Panama City on September 13 and San Jose on September 14 to discuss collaboration and further strengthen our strategic economic partnership with Alliance for Development in Democracy (ADD) countries on supply chains, including new opportunities for investment in more resilient and secure technologies.</p>
+<p>In Panama, Under Secretary Fernandez will also meet with the Ministers of Foreign Affairs, Environment, Finance, and Commerce, with the National Secretary of Science, Technology, and Innovation, and separately with the Panama Canal Administrator to discuss the strength of the bilateral relationship and explore areas for further collaboration including supply chain bottlenecks and logistics, energy and maritime cooperation, and investment opportunities.</p>
+<p>In Costa Rica, the Under Secretary will meet with President Rodrigo Chaves Robles to discuss our shared regional objectives for promoting trade and investment, supporting the development of 5G telecommunications infrastructure, and protecting our oceans through marine governance and transparency with cooperation on the Eastern Tropical Pacific Marine Corridor (CMAR).</p>
+<p>Throughout his travel, Under Secretary Fernandez will also meet with leaders in government and business to promote U.S. investment and trade, supply-chain diversification, ocean conservation, the clean energy transition, and digital connectivity for the region, as well as engage with potential partners across sectors to further our multilateral efforts to tackle the effects of climate change, food insecurity and malnutrition, as well as pandemic threats.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Blinken’s Call with European Commission President von der Leyen</title>
 		<link>https://www.state.gov/secretary-blinkens-call-with-european-commission-president-von-der-leyen/</link>
 		
@@ -1581,163 +1744,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>In Indonesia, Satterfield will travel to Jakarta, Magelang, and Yogyakarta.  In Jakarta, she will tour the American Space and meet with Fulbright participants.  She will then travel to Magelang, where she will serve as the United States’ Head of Delegation at the G20 Culture Ministerial and address the G20 culture ministers on September 13.  In addition, she will participate in a host of bilateral meetings with her counterparts on key shared priorities, including cultural heritage and the cultural economy.  Following the G20 Culture Ministerial, the Assistant Secretary will meet with implementing partners of the Ambassadors Fund for Cultural Preservation (AFCP), highlighting indigenous culinary traditions of the Indonesian archipelago and meet with U.S. government exchange alumni.</p>
 <p>In Qatar, she will meet with senior government officials, including in the ministries of Foreign Affairs, Education and Higher Education, and Sports and Youth.  The Assistant Secretary will engage with officials on a range of issues, including the upcoming FIFA Men’s World Cup.</p>
 <p>For further information, contact ECA-Press@state.gov.  Follow along on <a href="https://twitter.com/ECA_AS" target="_blank" rel="noopener">Twitter</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Angola Presidential Elections</title>
-		<link>https://www.state.gov/angola-presidential-elections/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 09 Sep 2022 15:49:34 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=375263</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>We congratulate President-elect Joao Lourenco on his election as Angola’s next president. We look forward to working with him to strengthen the vital relationship between Angola and the United States. We will continue to collaborate closely with the Angolan government and the Angolan people to promote our shared goals as we work together to advance a more sustainable, secure, inclusive, and prosperous future.</p>
-<p>We commend the millions of Angolan voters who cast their ballots in this election, and in doing so demonstrated their commitment to strengthening democracy. We look forward to working in partnership with Angola’s elected leaders to forge a better tomorrow for all Angolans and Americans.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>We congratulate President-elect Joao Lourenco on his election as Angola’s next president. We look forward to working with him to strengthen the vital relationship between Angola and the United States. We will continue to collaborate closely with the Angolan government and the Angolan people to promote our shared goals as we work together to advance a more sustainable, secure, inclusive, and prosperous future.</p>
-<p>We commend the millions of Angolan voters who cast their ballots in this election, and in doing so demonstrated their commitment to strengthening democracy. We look forward to working in partnership with Angola’s elected leaders to forge a better tomorrow for all Angolans and Americans.</p>
 ]]></content:encoded>
 					
 		
