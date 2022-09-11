@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Sun, 11 Sep 2022 21:38:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 11 Sep 2022 21:47:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,163 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>On the Occasion of the Ethiopian New Year</title>
+		<link>https://www.state.gov/on-the-occasion-of-the-ethiopian-new-year/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Sun, 11 Sep 2022 21:47:25 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=375654</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On the occasion of the Ethiopian New Year, the United States stands with the people of Ethiopia and supports ongoing diplomatic efforts to realize their desire to live in peace, with economic opportunity for all.  We commend the African Union for its work to bring the Ethiopian government and Tigray People’s Liberation Front (TPLF) to talks as soon as possible to resolve the ongoing conflict.  We encourage a robust process that responds to the Government of Ethiopia’s declared readiness to go “anywhere, anytime” for the sake of peace and the TPLF’s statement today that they are ready to end the fighting and seek to resolve outstanding issues through dialogue. International partners stand ready to support this process.  Eritrea and others should cease fueling the conflict.</p>
+<p>The United States supports Ethiopia’s unity, sovereignty, and territorial integrity and wants to return to a strong partnership. In the spirit of the new year, we call on the country’s leaders to put Ethiopia on a path that ends the suffering and achieves a lasting peace.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On the occasion of the Ethiopian New Year, the United States stands with the people of Ethiopia and supports ongoing diplomatic efforts to realize their desire to live in peace, with economic opportunity for all.  We commend the African Union for its work to bring the Ethiopian government and Tigray People’s Liberation Front (TPLF) to talks as soon as possible to resolve the ongoing conflict.  We encourage a robust process that responds to the Government of Ethiopia’s declared readiness to go “anywhere, anytime” for the sake of peace and the TPLF’s statement today that they are ready to end the fighting and seek to resolve outstanding issues through dialogue. International partners stand ready to support this process.  Eritrea and others should cease fueling the conflict.</p>
+<p>The United States supports Ethiopia’s unity, sovereignty, and territorial integrity and wants to return to a strong partnership. In the spirit of the new year, we call on the country’s leaders to put Ethiopia on a path that ends the suffering and achieves a lasting peace.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>$2 Million in New U.S. Humanitarian Demining Assistance for the South Caucasus</title>
 		<link>https://www.state.gov/2-million-in-new-u-s-humanitarian-demining-assistance-for-the-south-caucasus/</link>
 		
@@ -1611,139 +1768,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Deputy Secretary of State Wendy Sherman spoke with Dutch Ministry of Foreign Affairs Secretary General Paul Huijts today to reaffirm the importance of a successful Seventh Replenishment Conference for the Global Fund to Fight AIDS, Tuberculosis, and Malaria. President Biden will host the Replenishment Conference during the United Nations General Assembly in New York.</p>
 <p>The United States is committed to helping the Global Fund reach its goals to help the world end HIV/AIDS, TB, and malaria and to build resilient and sustainable health systems. President Biden has signaled that the United States will make a contribution of $2 billion and an intended pledge of $6 billion for the Seventh Replenishment period, demonstrating the United States’ readiness to match $1 for every $2 contributed by other donors.</p>
 <p>The Deputy Secretary also extended condolences on behalf of the United States following the shooting of three Royal Netherlands Army soldiers in Indianapolis.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Transmission of the President’s Report to Congress on Proposed Refugee Admissions for Fiscal Year 2023</title>
-		<link>https://www.state.gov/transmission-of-the-presidents-report-to-congress-on-proposed-refugee-admissions-for-fiscal-year-2023/</link>
-		
-		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
-		<pubDate>Fri, 09 Sep 2022 18:14:15 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=375331</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Ned Price, Department Spokesperson</p>
-<p>The United States is, and will continue to be, a global leader in international humanitarian response, including through refugee resettlement. We have prioritized rebuilding and strengthening the U.S. Refugee Admissions Program (USRAP) in a strategic, sustainable way that positions the program on a durable foundation for the future and modernizes the program to be responsive to evolving needs and opportunities. This includes efforts to expand opportunities for Americans to engage directly in resettlement, including through a private sponsorship pilot program that we will launch later this year.</p>
-<p>Over the past fiscal year, we also have taken steps to increase the resettlement of members of particularly vulnerable populations through USRAP, including refugees from the Americas, Congolese, Syrians, Ukrainians, populations from Burma, and many other nationalities, as well LGBTQI+ persons, all while providing additional initial resettlement support to more than 80,000 Afghans in communities across the United States – the largest resettlement effort we have undertaken in 40 years.</p>
-<p>Yesterday, the Department of State, together with the Departments of Homeland Security (DHS) and Health and Human Services (HHS), transmitted the President’s Report to Congress on Proposed Refugee Admissions for Fiscal Year 2023 to the Committees on the Judiciary of the House of Representatives and the Senate.</p>
-<p>The Report to Congress recommends a refugee admissions target of 125,000 for Fiscal Year 2023 to address the growing needs generated by humanitarian crises around the globe, including the more than 100 million displaced persons around the world.</p>
-<p>Next, together with DHS and HHS, the Secretary will consult with Congress about the President’s proposed Presidential Determination on Refugee Admissions for Fiscal Year 2023.</p>
-<p>Through the U.S. refugee resettlement program, our government, civil society and private sector partners, state and local officials, and Americans in communities throughout the country demonstrate day in and day out the generosity and core values of our nation. The United States will continue to provide a safe haven and opportunity to the world’s most vulnerable.</p>
-<p>The Report to Congress will be posted to the <a href="https://www.state.gov/documents-for-congress/">State Department website</a>.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
-<p>The United States is, and will continue to be, a global leader in international humanitarian response, including through refugee resettlement. We have prioritized rebuilding and strengthening the U.S. Refugee Admissions Program (USRAP) in a strategic, sustainable way that positions the program on a durable foundation for the future and modernizes the program to be responsive to evolving needs and opportunities. This includes efforts to expand opportunities for Americans to engage directly in resettlement, including through a private sponsorship pilot program that we will launch later this year.</p>
-<p>Over the past fiscal year, we also have taken steps to increase the resettlement of members of particularly vulnerable populations through USRAP, including refugees from the Americas, Congolese, Syrians, Ukrainians, populations from Burma, and many other nationalities, as well LGBTQI+ persons, all while providing additional initial resettlement support to more than 80,000 Afghans in communities across the United States – the largest resettlement effort we have undertaken in 40 years.</p>
-<p>Yesterday, the Department of State, together with the Departments of Homeland Security (DHS) and Health and Human Services (HHS), transmitted the President’s Report to Congress on Proposed Refugee Admissions for Fiscal Year 2023 to the Committees on the Judiciary of the House of Representatives and the Senate.</p>
-<p>The Report to Congress recommends a refugee admissions target of 125,000 for Fiscal Year 2023 to address the growing needs generated by humanitarian crises around the globe, including the more than 100 million displaced persons around the world.</p>
-<p>Next, together with DHS and HHS, the Secretary will consult with Congress about the President’s proposed Presidential Determination on Refugee Admissions for Fiscal Year 2023.</p>
-<p>Through the U.S. refugee resettlement program, our government, civil society and private sector partners, state and local officials, and Americans in communities throughout the country demonstrate day in and day out the generosity and core values of our nation. The United States will continue to provide a safe haven and opportunity to the world’s most vulnerable.</p>
-<p>The Report to Congress will be posted to the <a href="https://www.state.gov/documents-for-congress/">State Department website</a>.</p>
 ]]></content:encoded>
 					
 		
