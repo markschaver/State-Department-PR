@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Tue, 13 Sep 2022 15:23:39 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Sep 2022 19:12:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,271 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Antony J. Blinken Remarks to the Press With Secretary of Commerce Gina M. Raimondo, Indiana Governor Eric Holcomb, Senator Todd Young, and Purdue University President Mitch Daniels</title>
+		<link>https://www.state.gov/secretary-antony-j-blinken-remarks-to-the-press-with-secretary-of-commerce-gina-m-raimondo-indiana-governor-eric-holcomb-senator-todd-young-and-purdue-university-president-mitch-daniels/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Tue, 13 Sep 2022 19:12:50 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=376397</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>West Lafayette, Indiana</p>
+<p>Birck Nanotechnology Center, Purdue University</p>
+<p><strong>SECRETARY BLINKEN:</strong>  Well, good morning, everyone.  It is incredibly exciting to be here at Purdue at the Birck Center.  It’s – what we’ve seen this morning is for me an incredible source of optimism, optimism about the future of our country, optimism about the leadership of our country around the world on the most important technology that’s going to power this century and beyond.  And I really just want to say mostly thank you to President Daniels, who was with us earlier, to the governor, the senator, for – not just for today, but I have to say for your remarkable leadership across the board in making sure here at Purdue that the United States remains the great technology leader in the world.</p>
+<p>This place is maybe one of the most inspiring human fabs that I’ve ever seen.  And we know that some of the students that we met today are going to go on to do extraordinary things in the years ahead.</p>
+<p>The last thing I’ll say is this:  Why am I here as Secretary of State?  Simply because what we’re doing at home, and particularly what is happening here, goes directly to our standing and leadership in the world.  And what we’ve seen in American technological leadership in general and what we’ve seen just in recent weeks with the passage of the CHIPS Act, that is resonating around the world.  And I really want to applaud in particular Senator Young for his extraordinary leadership from the takeoff to the landing of the CHIPS Act.  This is one of the most significant things that we’ve done as a country, and just speaking as someone who has the responsibility of representing our country around the world, it is making a big difference around the world as well as here at home in the jobs of the future that we’re going to be creating too.  Thank you.  Gina.</p>
+<p><strong>SECRETARY RAIMONDO:</strong>  Thank you and good morning.  Thank you all, Boilermakers, who welcomed us today.  We had a fantastic tour this morning, and thank you to President Daniels, who welcomed us.  Thank you to my colleagues – fantastic partner in Tony Blinken.  Thank you to the governor, who has helped us get the CHIPS Act over the finish line.  But big thank you to Senator Young.  Truly without whom CHIPS would not have happened.  He was an early sponsor and stuck with it all the way through.  So thank you.  It was a bipartisan effort, which I think is a critical thing to point out.</p>
+<p>And the CHIPS Act is a – it’s an investment in America.  It’s actually the biggest investment in kind of industrial policy, research, and development that we’ve seen in a generation in America.  And it will unleash not only R&amp;D, but the opportunity to create hundreds of thousands of high‑paying jobs in the semiconductor industry all over America, including in the heartland, right here in Indiana.  And Purdue, what’s happening here, is at the heart – is at the heart and soul of that, the center of that.  We talked today about going from lab to fab.  It’s about taking research and development that starts in research university and bringing it through to products that power American innovation.</p>
+<p>I also want to announce this morning that the Department of Commerce through NIST, the National Institute of Standards, which is in the Department of Commerce, is announcing a partnership with SkyWater right here in Indiana, a semiconductor company, and Google to provide free-of-cost, open source wafer designs to universities, so that we can do exactly the kind of research that’s happening here in this facility.  By providing these designs for free, open source, this is a public-private federal government collaboration that will help us to fuel this sort of wafer technology in research and development.  So exactly what the CHIPS Act was meant to do, and exactly what you’re doing so well here at Purdue.  So thank you for having us.</p>
+<p><strong>GOVERNOR HOLCOMB:</strong>  Thank you, Madam Secretary, and I think it’s fair to say our longtime friendship has taken us to many places both past, present, and most importantly, maybe most excitingly into the future.</p>
+<p>And Secretary Blinken, it is truly a proud moment for all Hoosiers to welcome you to our state.  President Daniels, thank you for rolling out the red carpet yet again.  This is &#8212;</p>
+<p><strong>MR DANIELS:</strong>  Not red.</p>
+<p>(Laughter.)</p>
+<p><strong>GOVERNOR HOLCOMB:  </strong>Roll out the golden carpet.  (Laughter.)  He makes a habit of correcting me.  But let me just say what this highlights to me, and what the source of my pride is:  just the collaboration and being able to harness the synergy of local (inaudible), state government, all of our institutions, all of our investments – building communities from rural to urban settings and then the federal partnership that has allowed us not just to compete in this new opportunity but also to take a – have a sense of responsibility about where we will end up five years, ten years, 20 years from today.  Indiana won’t look the same; indeed, the country won’t look the same.  We’re not just catching up, we’re leading the way.  Purdue has proven that over the years with the technological advancements that they have discovered and created and shared with the world (inaudible).</p>
+<p><strong>SENATOR YOUNG: </strong> The bipartisan CHIPS and Science Act is the sort of economic and national security win that really only comes together once every couple of generations.  This is a bipartisan initiative.  I’m very excited to have played a leading role in authoring this and getting it through the process, but now it’s time for implementation.  I am so happy that we have our Secretary of State and Secretary of Commerce on the ground here on Hoosier soil to see how Hoosier workers and our universities and our state government and other stakeholders are poised to take advantage of the many provisions in this legislation to ensure that we outgrow, out-innovate, and out-compete the Chinese Communist Party to ensure that American values prevail.</p>
+<p>The technologies that are funded from the research to design to the manufacturing incentive level that are – that’s incorporated in this legislation are going to be technologies that define our 21st-century economy that we work and live but also they’ll define the future of our national security.  And to give rank and file Hoosiers a golden opportunity to participate in that meaningful work during a time when many people are wondering where they fit in economically because of the dynamism of this 21st-century economy is really exciting to me.</p>
+<p>And so having Secretary Blinken and Secretary Raimondo here, who I partnered with very actively as we work together to get this legislation passed, is heartwarming.  Of course, President Daniels, the leadership that you and so many others have shown here at Purdue University is also encouraging as Indiana looks to benefit maximally from this legislation.  And my friend the governor with his continued leadership, there is no stopping Hoosiers as it relates to ensuring that the American taxpayer and rank and file Hoosiers get the maximum possible benefit from this effort.  So thanks, all.</p>
+<p><strong>PARTICIPANT:</strong>  (Inaudible), sir.  (Laughter.)</p>
+<p><strong>MR DANIELS:  </strong>We all know how deeply honored we are to have these two great public servants – these four great public servants with us today.  I’m grateful to the brilliant world-class faculty and the students at Purdue University whose work has attracted them, and we hope to bring them back for kind of status updates in the future.</p>
+<p>Let me just say that as a public university, a land grant university, we feel profoundly our responsibility to turn out as many high-class new talents for this state and nation as we can, and we’ve grown quickly in order to do that here.</p>
+<p>Lastly, I’ll just point out that one of our most, we think, profound responsibilities is to contribute to the economic vitality of the state and the nation through our research and through those young talents I mentioned.  Here all around you, you can see our latest venture.  This will be, I do truly believe, the center of semiconductor advance and production in the decades ahead.</p>
+<p>And finally, we also embrace, as not all universities frankly do, a duty to assist the national security in any way we can in areas like hypersonics, energetics, and now, what we believe is a –very genuinely a national security imperative: to have self-sufficiency and leadership in semiconductors.  We hope to play a role.</p>
+<p>So today I think is emblematic of all those missions that Purdue accepts, and we’ll deepen our resolve to do a good job at all of them.  Thanks for coming.</p>
+<p><strong>MR PATEL:</strong>  All right, we’ll take a couple of questions.  We’ll start with CBS4.</p>
+<p><strong>QUESTION:</strong>  For any of you:  How are you hoping to ensure that Indiana and the United States as a whole has the skilled workforce it will need to fill these jobs?</p>
+<p><strong>SECRETARY RAIMONDO:  </strong>So I’ll begin with that.  Having a skilled workforce is critical.  It’s a rate-limiting factor to growth.  So as we implement the CHIPS Act, there is a component for investing in apprenticeships and workforce development partnerships.  Additionally, as we accept applications from partnerships who want – from companies who want the CHIPS Act funds, we are requiring them to show us that they will be making investments in workforce development partnerships.  And we know from experience – the governor knows this and President Daniels – the best way to do workforce development is in partnership between the companies who hire people and colleges, community colleges, high schools that are training them so that when we are implementing the CHIPS Act, we are going to fund and prioritize exactly those kinds of training partnerships.</p>
+<p><strong>MR PATEL:</strong>  Let’s go to AFP.</p>
+<p><strong>SENATOR YOUNG:</strong>  The only other point &#8212;</p>
+<p><strong>MR PATEL:</strong>  Oh, please.</p>
+<p><strong>SENATOR YOUNG:</strong>  &#8212; I’d add to the Secretary’s is that I want to make clear we are funding workforce training from the associate’s level to the post-doctoral level through this legislation.  So we’re bringing opportunities for all Americans, all Hoosiers who want to meaningfully engage in this effort.</p>
+<p><strong>GOVERNOR HOLCOMB:</strong>  Could I – it’s too important to miss, because it’s such a central part of realizing this CHIPS and Science Act.  This is, fortunately, nothing new to us in Indiana, and I’m sure other states as well.  But we’re making investments very early on – their first steps, you might say – K through 12.  This is about GED to PhD, and making those investments along the way.  And so those pipelines or those pathways that are in place, we seek to further accelerate our advancements and our investments so that we can in fact lead the way.</p>
+<p><strong>MR PATEL:</strong>  Let’s go to (inaudible) with AFP.</p>
+<p><strong>QUESTION:</strong>  Yes, sir.  A question for Secretary Blinken, please.  Sir, you were just in Mexico and you spoke about the semiconductors, and you’re here now visiting this university.  We understand the economic challenges, the technological challenges, but what about the geopolitical challenges?  And of course, the elephant in the room is China, so could you speak to that, please?  Is this really mostly about going after China after the U.S. lost its leadership in semiconductors?</p>
+<p><strong>SECRETARY BLINKEN:</strong>  Look, first and foremost, this is about investing in ourselves.  And the fact is that when we invest in ourselves that has very positive and powerful effects on our standing in the world.  Yes, we’re in a competition with China, among other things, and our ability in that competition to offer the best choice, the best alternative is what ultimately is going to carry the day.  And that’s exactly what these investments will do.</p>
+<p>So we’re seeing more and more countries looking, again, at the United States for our leadership in technology, the fact that, as we’ve just demonstrated, we can bring our country together, we can bring academia, we can bring industry, we bring the federal government, we can bring state government together in order to advance this and create the strongest possible foundation for continuing and even expanding our technological leadership.  That’s incredibly attractive to other countries around the world who want to partner with us.</p>
+<p>At the same time, I think we’ve experienced – for example, through COVID – what disruptions to our supply chain can mean for virtually every single person in this country, not to mention around the world.  We’ve all been talking this morning about how – what we were looking at today, as we look at – as we look at chips, as we look at semiconductors.  Whether it’s your smartphone, whether it’s your dishwasher, whether it’s your automobile, that supply chain gets disrupted and your life is going to be disrupted.</p>
+<p>So the fact that we’re able to build our own resiliency, that we’re able to do that ourselves, that we’re able to do that with many likeminded countries, including Mexico in our region, but also beyond, that makes a big difference.</p>
+<p>And finally, one of the things that we’re working on around the world in different parts of the world is, look, to the extent we’re in a competition, we want to make it a race to the top – the highest possible standards for labor, for the environment, for intellectual property.  And if we make it a race to the top, I’m extremely confident we’re going to do very well.  And again, that is going to bring other countries along.</p>
+<p><strong>MODERATOR:  </strong>We’ll go to Channel 13.</p>
+<p><strong>QUESTION:  </strong>Governor Holcomb, where do you see Indiana in five years?</p>
+<p><strong>GOVERNOR HOLCOMB:  </strong>Even more of a leadership position, occupying that pole position, you might say, and not just looking to the coasts for these type of advancements.  Again, this is a manufacturing powerhouse patch of property in the middle of the country.  And Silicon Heartland is not a stretch to envision in 5,10,15 years.  And to be able to play a part in turning a supply chain pain into a supply chain gain, this is an enormous source of pride as well.</p>
+<p><strong>QUESTION:  </strong>Indiana has had issues with workforce recruitment and workforce retention.  How do you plan on fixing that issue when it comes to keeping people in state?</p>
+<p>And then, Senator Young, you mentioned that it’s time for implementation to happen with the CHIPS Act.  When do you expect that to happen, and how is it going to affect Indiana?</p>
+<p><strong>GOVERNOR HOLCOMB:  </strong>Indiana plans to continue to do what we’re doing in a very – with purpose and intent all along the way from, again, K through 12, through re-skilling, through recruiting.  Look, we find ourselves in the state of Indiana at peak private sector employment, and that’s because people are getting the skills they need to – and sometimes double or triple their salaries. The jobs are there, and these aren’t just jobs that we’re talking about today.  These are truly careers, and might I say life-saving careers.  And so for a state like Indiana, regionally developed, whether you’re talking about orthopedics or RV production or our five auto OEMs, our ag bioscience, pharmaceuticals – semiconductors play a central role in all of that.  And so this is just a natural extension of the very mature supply chain that we already offer not just Hoosiers for careers, but the world for advancement.</p>
+<p><strong>SENATOR YOUNG:  </strong>So with respect to implementation, Indiana got to work before this legislation was signed into law.  I mean, we have been preparing for years for this moment, setting the table for an opportunity to receive federal investment in these cutting-edge technology projects to ensure that Indiana’s longstanding talent in making things is recognized when it comes time to make these next-generation technologies and ensuring we have the workforce development pipeline to support those private sector industry sectors.</p>
+<p>And so I commend our state leadership going back a number of years, our university partners, and all the way down to the local government level and, of course, our private sector leaders as well.  They’ve all been collaborating so that we can seize on a moment like this, and we’re in the process of implementation.</p>
+<p>In terms of brass tacks, that is going from my standpoint to mean continuing to work with the Department of Commerce, Department of State on ensuring that we’re interpreting the law in a way that’s consistent with legislative wishes but also doing whatever we can to remove obstacles so there are – if there are additional requests along the way, to ensure that the goals of this initiative are met and we’ll certainly get the revenue to assist.</p>
+<p><strong>MR PATEL:</strong>  We have time for one more.  We’ll go to CNN.</p>
+<p><strong>QUESTION:</strong>  Sure.  Governor Holcomb, you were recently in Taiwan to discuss cooperation on things like semiconductor production.  Are you concerned that rising tensions between the U.S. and China could imperil that cooperation?</p>
+<p>And then Secretary Blinken, on the Armenia-Azerbaijan tensions, you spoke with both leaders overnight.  How were those calls?  And Russia has claimed they’ve brokered some sort of ceasefire.  Are you concerned about their role in trying to end these hostilities?  Thank you.</p>
+<p><strong>GOVERNOR HOLCOMB:</strong>  Well, what I heard in both Taiwan and South Korea was that they are ready to invest, and part of our objective as a state is to not just grow our own here and expand but also to attract – attract more foreign direct investment, and that’s true with those two governments but also true around the world.  So when you look at a state like Indiana that’s poised for this exact kind of growth, we’re in a catbirt seat, as you might say, to lead.  They’re ready to invest and we’re ready to welcome them into our – or onto our fertile soil.</p>
+<p><strong>SECRETARY BLINKEN:</strong>  And as to Armenia and Azerbaijan, yes, I spoke to Prime Minister Pashinyan of Armenia and President Aliyev of Azerbaijan last night; pretty early in the morning for them.  We’d seen the outbreak of hostilities again, something that is in no one’s interest.  It’s not in the interest of the people of Azerbaijan, it’s not in the interest of the people of Armenia, it’s certainly not in the interest of the larger region.  And I spoke to both, urged them to do everything possible to pull back from the conflict and to get back to talking about building a lasting peace between their countries.</p>
+<p>We have our special envoy in the region right now working with both countries.  I’ll be in close touch with them going forward, and my hope is that we can move this from conflict back to the negotiating table and back to trying to build a peace.</p>
+<p><strong>QUESTION:</strong>  Any concerns about Russia’s involvement?</p>
+<p><strong>SECRETARY BLINKEN:</strong>  Well, always, always concerned, because whether Russia tries in some fashion to stir the pot, to create a distraction from Ukraine, is something that we’re always concerned about.  But if Russia can actually use its own influence for good, which is to, again, calm the waters, end the violence, and urge people to engage in good faith on building peace, that would be a positive thing.</p>
+<p><strong>MR PATEL:</strong>  Thank you, everybody.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>West Lafayette, Indiana</p>
+<p>Birck Nanotechnology Center, Purdue University</p>
+<p><strong>SECRETARY BLINKEN:</strong>  Well, good morning, everyone.  It is incredibly exciting to be here at Purdue at the Birck Center.  It’s – what we’ve seen this morning is for me an incredible source of optimism, optimism about the future of our country, optimism about the leadership of our country around the world on the most important technology that’s going to power this century and beyond.  And I really just want to say mostly thank you to President Daniels, who was with us earlier, to the governor, the senator, for – not just for today, but I have to say for your remarkable leadership across the board in making sure here at Purdue that the United States remains the great technology leader in the world.</p>
+<p>This place is maybe one of the most inspiring human fabs that I’ve ever seen.  And we know that some of the students that we met today are going to go on to do extraordinary things in the years ahead.</p>
+<p>The last thing I’ll say is this:  Why am I here as Secretary of State?  Simply because what we’re doing at home, and particularly what is happening here, goes directly to our standing and leadership in the world.  And what we’ve seen in American technological leadership in general and what we’ve seen just in recent weeks with the passage of the CHIPS Act, that is resonating around the world.  And I really want to applaud in particular Senator Young for his extraordinary leadership from the takeoff to the landing of the CHIPS Act.  This is one of the most significant things that we’ve done as a country, and just speaking as someone who has the responsibility of representing our country around the world, it is making a big difference around the world as well as here at home in the jobs of the future that we’re going to be creating too.  Thank you.  Gina.</p>
+<p><strong>SECRETARY RAIMONDO:</strong>  Thank you and good morning.  Thank you all, Boilermakers, who welcomed us today.  We had a fantastic tour this morning, and thank you to President Daniels, who welcomed us.  Thank you to my colleagues – fantastic partner in Tony Blinken.  Thank you to the governor, who has helped us get the CHIPS Act over the finish line.  But big thank you to Senator Young.  Truly without whom CHIPS would not have happened.  He was an early sponsor and stuck with it all the way through.  So thank you.  It was a bipartisan effort, which I think is a critical thing to point out.</p>
+<p>And the CHIPS Act is a – it’s an investment in America.  It’s actually the biggest investment in kind of industrial policy, research, and development that we’ve seen in a generation in America.  And it will unleash not only R&amp;D, but the opportunity to create hundreds of thousands of high‑paying jobs in the semiconductor industry all over America, including in the heartland, right here in Indiana.  And Purdue, what’s happening here, is at the heart – is at the heart and soul of that, the center of that.  We talked today about going from lab to fab.  It’s about taking research and development that starts in research university and bringing it through to products that power American innovation.</p>
+<p>I also want to announce this morning that the Department of Commerce through NIST, the National Institute of Standards, which is in the Department of Commerce, is announcing a partnership with SkyWater right here in Indiana, a semiconductor company, and Google to provide free-of-cost, open source wafer designs to universities, so that we can do exactly the kind of research that’s happening here in this facility.  By providing these designs for free, open source, this is a public-private federal government collaboration that will help us to fuel this sort of wafer technology in research and development.  So exactly what the CHIPS Act was meant to do, and exactly what you’re doing so well here at Purdue.  So thank you for having us.</p>
+<p><strong>GOVERNOR HOLCOMB:</strong>  Thank you, Madam Secretary, and I think it’s fair to say our longtime friendship has taken us to many places both past, present, and most importantly, maybe most excitingly into the future.</p>
+<p>And Secretary Blinken, it is truly a proud moment for all Hoosiers to welcome you to our state.  President Daniels, thank you for rolling out the red carpet yet again.  This is &#8212;</p>
+<p><strong>MR DANIELS:</strong>  Not red.</p>
+<p>(Laughter.)</p>
+<p><strong>GOVERNOR HOLCOMB:  </strong>Roll out the golden carpet.  (Laughter.)  He makes a habit of correcting me.  But let me just say what this highlights to me, and what the source of my pride is:  just the collaboration and being able to harness the synergy of local (inaudible), state government, all of our institutions, all of our investments – building communities from rural to urban settings and then the federal partnership that has allowed us not just to compete in this new opportunity but also to take a – have a sense of responsibility about where we will end up five years, ten years, 20 years from today.  Indiana won’t look the same; indeed, the country won’t look the same.  We’re not just catching up, we’re leading the way.  Purdue has proven that over the years with the technological advancements that they have discovered and created and shared with the world (inaudible).</p>
+<p><strong>SENATOR YOUNG: </strong> The bipartisan CHIPS and Science Act is the sort of economic and national security win that really only comes together once every couple of generations.  This is a bipartisan initiative.  I’m very excited to have played a leading role in authoring this and getting it through the process, but now it’s time for implementation.  I am so happy that we have our Secretary of State and Secretary of Commerce on the ground here on Hoosier soil to see how Hoosier workers and our universities and our state government and other stakeholders are poised to take advantage of the many provisions in this legislation to ensure that we outgrow, out-innovate, and out-compete the Chinese Communist Party to ensure that American values prevail.</p>
+<p>The technologies that are funded from the research to design to the manufacturing incentive level that are – that’s incorporated in this legislation are going to be technologies that define our 21st-century economy that we work and live but also they’ll define the future of our national security.  And to give rank and file Hoosiers a golden opportunity to participate in that meaningful work during a time when many people are wondering where they fit in economically because of the dynamism of this 21st-century economy is really exciting to me.</p>
+<p>And so having Secretary Blinken and Secretary Raimondo here, who I partnered with very actively as we work together to get this legislation passed, is heartwarming.  Of course, President Daniels, the leadership that you and so many others have shown here at Purdue University is also encouraging as Indiana looks to benefit maximally from this legislation.  And my friend the governor with his continued leadership, there is no stopping Hoosiers as it relates to ensuring that the American taxpayer and rank and file Hoosiers get the maximum possible benefit from this effort.  So thanks, all.</p>
+<p><strong>PARTICIPANT:</strong>  (Inaudible), sir.  (Laughter.)</p>
+<p><strong>MR DANIELS:  </strong>We all know how deeply honored we are to have these two great public servants – these four great public servants with us today.  I’m grateful to the brilliant world-class faculty and the students at Purdue University whose work has attracted them, and we hope to bring them back for kind of status updates in the future.</p>
+<p>Let me just say that as a public university, a land grant university, we feel profoundly our responsibility to turn out as many high-class new talents for this state and nation as we can, and we’ve grown quickly in order to do that here.</p>
+<p>Lastly, I’ll just point out that one of our most, we think, profound responsibilities is to contribute to the economic vitality of the state and the nation through our research and through those young talents I mentioned.  Here all around you, you can see our latest venture.  This will be, I do truly believe, the center of semiconductor advance and production in the decades ahead.</p>
+<p>And finally, we also embrace, as not all universities frankly do, a duty to assist the national security in any way we can in areas like hypersonics, energetics, and now, what we believe is a –very genuinely a national security imperative: to have self-sufficiency and leadership in semiconductors.  We hope to play a role.</p>
+<p>So today I think is emblematic of all those missions that Purdue accepts, and we’ll deepen our resolve to do a good job at all of them.  Thanks for coming.</p>
+<p><strong>MR PATEL:</strong>  All right, we’ll take a couple of questions.  We’ll start with CBS4.</p>
+<p><strong>QUESTION:</strong>  For any of you:  How are you hoping to ensure that Indiana and the United States as a whole has the skilled workforce it will need to fill these jobs?</p>
+<p><strong>SECRETARY RAIMONDO:  </strong>So I’ll begin with that.  Having a skilled workforce is critical.  It’s a rate-limiting factor to growth.  So as we implement the CHIPS Act, there is a component for investing in apprenticeships and workforce development partnerships.  Additionally, as we accept applications from partnerships who want – from companies who want the CHIPS Act funds, we are requiring them to show us that they will be making investments in workforce development partnerships.  And we know from experience – the governor knows this and President Daniels – the best way to do workforce development is in partnership between the companies who hire people and colleges, community colleges, high schools that are training them so that when we are implementing the CHIPS Act, we are going to fund and prioritize exactly those kinds of training partnerships.</p>
+<p><strong>MR PATEL:</strong>  Let’s go to AFP.</p>
+<p><strong>SENATOR YOUNG:</strong>  The only other point &#8212;</p>
+<p><strong>MR PATEL:</strong>  Oh, please.</p>
+<p><strong>SENATOR YOUNG:</strong>  &#8212; I’d add to the Secretary’s is that I want to make clear we are funding workforce training from the associate’s level to the post-doctoral level through this legislation.  So we’re bringing opportunities for all Americans, all Hoosiers who want to meaningfully engage in this effort.</p>
+<p><strong>GOVERNOR HOLCOMB:</strong>  Could I – it’s too important to miss, because it’s such a central part of realizing this CHIPS and Science Act.  This is, fortunately, nothing new to us in Indiana, and I’m sure other states as well.  But we’re making investments very early on – their first steps, you might say – K through 12.  This is about GED to PhD, and making those investments along the way.  And so those pipelines or those pathways that are in place, we seek to further accelerate our advancements and our investments so that we can in fact lead the way.</p>
+<p><strong>MR PATEL:</strong>  Let’s go to (inaudible) with AFP.</p>
+<p><strong>QUESTION:</strong>  Yes, sir.  A question for Secretary Blinken, please.  Sir, you were just in Mexico and you spoke about the semiconductors, and you’re here now visiting this university.  We understand the economic challenges, the technological challenges, but what about the geopolitical challenges?  And of course, the elephant in the room is China, so could you speak to that, please?  Is this really mostly about going after China after the U.S. lost its leadership in semiconductors?</p>
+<p><strong>SECRETARY BLINKEN:</strong>  Look, first and foremost, this is about investing in ourselves.  And the fact is that when we invest in ourselves that has very positive and powerful effects on our standing in the world.  Yes, we’re in a competition with China, among other things, and our ability in that competition to offer the best choice, the best alternative is what ultimately is going to carry the day.  And that’s exactly what these investments will do.</p>
+<p>So we’re seeing more and more countries looking, again, at the United States for our leadership in technology, the fact that, as we’ve just demonstrated, we can bring our country together, we can bring academia, we can bring industry, we bring the federal government, we can bring state government together in order to advance this and create the strongest possible foundation for continuing and even expanding our technological leadership.  That’s incredibly attractive to other countries around the world who want to partner with us.</p>
+<p>At the same time, I think we’ve experienced – for example, through COVID – what disruptions to our supply chain can mean for virtually every single person in this country, not to mention around the world.  We’ve all been talking this morning about how – what we were looking at today, as we look at – as we look at chips, as we look at semiconductors.  Whether it’s your smartphone, whether it’s your dishwasher, whether it’s your automobile, that supply chain gets disrupted and your life is going to be disrupted.</p>
+<p>So the fact that we’re able to build our own resiliency, that we’re able to do that ourselves, that we’re able to do that with many likeminded countries, including Mexico in our region, but also beyond, that makes a big difference.</p>
+<p>And finally, one of the things that we’re working on around the world in different parts of the world is, look, to the extent we’re in a competition, we want to make it a race to the top – the highest possible standards for labor, for the environment, for intellectual property.  And if we make it a race to the top, I’m extremely confident we’re going to do very well.  And again, that is going to bring other countries along.</p>
+<p><strong>MODERATOR:  </strong>We’ll go to Channel 13.</p>
+<p><strong>QUESTION:  </strong>Governor Holcomb, where do you see Indiana in five years?</p>
+<p><strong>GOVERNOR HOLCOMB:  </strong>Even more of a leadership position, occupying that pole position, you might say, and not just looking to the coasts for these type of advancements.  Again, this is a manufacturing powerhouse patch of property in the middle of the country.  And Silicon Heartland is not a stretch to envision in 5,10,15 years.  And to be able to play a part in turning a supply chain pain into a supply chain gain, this is an enormous source of pride as well.</p>
+<p><strong>QUESTION:  </strong>Indiana has had issues with workforce recruitment and workforce retention.  How do you plan on fixing that issue when it comes to keeping people in state?</p>
+<p>And then, Senator Young, you mentioned that it’s time for implementation to happen with the CHIPS Act.  When do you expect that to happen, and how is it going to affect Indiana?</p>
+<p><strong>GOVERNOR HOLCOMB:  </strong>Indiana plans to continue to do what we’re doing in a very – with purpose and intent all along the way from, again, K through 12, through re-skilling, through recruiting.  Look, we find ourselves in the state of Indiana at peak private sector employment, and that’s because people are getting the skills they need to – and sometimes double or triple their salaries. The jobs are there, and these aren’t just jobs that we’re talking about today.  These are truly careers, and might I say life-saving careers.  And so for a state like Indiana, regionally developed, whether you’re talking about orthopedics or RV production or our five auto OEMs, our ag bioscience, pharmaceuticals – semiconductors play a central role in all of that.  And so this is just a natural extension of the very mature supply chain that we already offer not just Hoosiers for careers, but the world for advancement.</p>
+<p><strong>SENATOR YOUNG:  </strong>So with respect to implementation, Indiana got to work before this legislation was signed into law.  I mean, we have been preparing for years for this moment, setting the table for an opportunity to receive federal investment in these cutting-edge technology projects to ensure that Indiana’s longstanding talent in making things is recognized when it comes time to make these next-generation technologies and ensuring we have the workforce development pipeline to support those private sector industry sectors.</p>
+<p>And so I commend our state leadership going back a number of years, our university partners, and all the way down to the local government level and, of course, our private sector leaders as well.  They’ve all been collaborating so that we can seize on a moment like this, and we’re in the process of implementation.</p>
+<p>In terms of brass tacks, that is going from my standpoint to mean continuing to work with the Department of Commerce, Department of State on ensuring that we’re interpreting the law in a way that’s consistent with legislative wishes but also doing whatever we can to remove obstacles so there are – if there are additional requests along the way, to ensure that the goals of this initiative are met and we’ll certainly get the revenue to assist.</p>
+<p><strong>MR PATEL:</strong>  We have time for one more.  We’ll go to CNN.</p>
+<p><strong>QUESTION:</strong>  Sure.  Governor Holcomb, you were recently in Taiwan to discuss cooperation on things like semiconductor production.  Are you concerned that rising tensions between the U.S. and China could imperil that cooperation?</p>
+<p>And then Secretary Blinken, on the Armenia-Azerbaijan tensions, you spoke with both leaders overnight.  How were those calls?  And Russia has claimed they’ve brokered some sort of ceasefire.  Are you concerned about their role in trying to end these hostilities?  Thank you.</p>
+<p><strong>GOVERNOR HOLCOMB:</strong>  Well, what I heard in both Taiwan and South Korea was that they are ready to invest, and part of our objective as a state is to not just grow our own here and expand but also to attract – attract more foreign direct investment, and that’s true with those two governments but also true around the world.  So when you look at a state like Indiana that’s poised for this exact kind of growth, we’re in a catbirt seat, as you might say, to lead.  They’re ready to invest and we’re ready to welcome them into our – or onto our fertile soil.</p>
+<p><strong>SECRETARY BLINKEN:</strong>  And as to Armenia and Azerbaijan, yes, I spoke to Prime Minister Pashinyan of Armenia and President Aliyev of Azerbaijan last night; pretty early in the morning for them.  We’d seen the outbreak of hostilities again, something that is in no one’s interest.  It’s not in the interest of the people of Azerbaijan, it’s not in the interest of the people of Armenia, it’s certainly not in the interest of the larger region.  And I spoke to both, urged them to do everything possible to pull back from the conflict and to get back to talking about building a lasting peace between their countries.</p>
+<p>We have our special envoy in the region right now working with both countries.  I’ll be in close touch with them going forward, and my hope is that we can move this from conflict back to the negotiating table and back to trying to build a peace.</p>
+<p><strong>QUESTION:</strong>  Any concerns about Russia’s involvement?</p>
+<p><strong>SECRETARY BLINKEN:</strong>  Well, always, always concerned, because whether Russia tries in some fashion to stir the pot, to create a distraction from Ukraine, is something that we’re always concerned about.  But if Russia can actually use its own influence for good, which is to, again, calm the waters, end the violence, and urge people to engage in good faith on building peace, that would be a positive thing.</p>
+<p><strong>MR PATEL:</strong>  Thank you, everybody.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Blinken’s Call with Armenian Prime Minister Pashinyan</title>
 		<link>https://www.state.gov/secretary-blinkens-call-with-armenian-prime-minister-pashinyan-7/</link>
 		
@@ -1632,171 +1897,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The bottom line is this:  The HLED provides a framework to engage collaboratively with Mexico on key projects to complement and fortify the foundation of the USMCA.  The HLED helps advance our regional economic integration and our collective prosperity.  Our partnership under the HLED supports the development and implementation of a worker-centered economic policy, a top priority of the Biden-Harris administration.</p>
 <p>For example, we are coordinating joint efforts in a number of areas, including, number one, promoting innovation and our efforts to invest in entrepreneurs and SMEs, who we all know are the backbone of our economies; number two, expanding access to economic opportunities for underrepresented groups; and number three, pursuing strategies for joint workforce development that prioritize the tech skills and training needed to meet the demands and seize the opportunities of the 21st century.</p>
 <p>These objectives can only make us stronger as a region and reflect the values of the Biden-Harris administration to ensure that all citizens can participate in and benefit from our economic policies.  USTR remains committed and ready to help guide this relationship forward along with Secretaries Blinken and Raimondo.  Thank you for your time.  Thanks.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Blinken’s Meeting with Mexican President López Obrador</title>
-		<link>https://www.state.gov/secretary-blinkens-meeting-with-mexican-president-lopez-obrador-2/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Mon, 12 Sep 2022 23:15:40 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=376085</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The following is attributable to Spokesperson Ned Price:</p>
-<p>Secretary of State Antony J. Blinken met today with Mexican President Andrés Manuel López Obrador in Mexico City.</p>
-<p>Secretary Blinken discussed President López Obrador’s July 12 meeting with President Biden and our shared commitment to build a more prosperous and secure future for the people of North America.  Secretary Blinken thanked President López Obrador for the commitments Mexico made at the Summit of the Americas, our joint work to address fentanyl, and our ongoing cooperation and efforts to humanely address irregular migration in the Americas.</p>
-<p>They also spoke about joint efforts to tackle the climate crisis through investments in clean energy and emerging technologies like electric vehicles, solar technologies, and semiconductors.</p>
-<p>Secretary Blinken reiterated our deep appreciation for Mexico’s coordination on economic, security, and migration issues as we seek to advance our shared priorities.  Noting that the United States and Mexico will celebrate 200 years of diplomatic relations in December, Secretary Blinken also spoke about the deep cultural, historical, and economic ties that bind our nations together.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The following is attributable to Spokesperson Ned Price:</p>
-<p>Secretary of State Antony J. Blinken met today with Mexican President Andrés Manuel López Obrador in Mexico City.</p>
-<p>Secretary Blinken discussed President López Obrador’s July 12 meeting with President Biden and our shared commitment to build a more prosperous and secure future for the people of North America.  Secretary Blinken thanked President López Obrador for the commitments Mexico made at the Summit of the Americas, our joint work to address fentanyl, and our ongoing cooperation and efforts to humanely address irregular migration in the Americas.</p>
-<p>They also spoke about joint efforts to tackle the climate crisis through investments in clean energy and emerging technologies like electric vehicles, solar technologies, and semiconductors.</p>
-<p>Secretary Blinken reiterated our deep appreciation for Mexico’s coordination on economic, security, and migration issues as we seek to advance our shared priorities.  Noting that the United States and Mexico will celebrate 200 years of diplomatic relations in December, Secretary Blinken also spoke about the deep cultural, historical, and economic ties that bind our nations together.</p>
 <p><input type="hidden" data-filter="111000000111" /></p>
 ]]></content:encoded>
 					
