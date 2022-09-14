@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 14 Sep 2022 19:52:34 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Sep 2022 23:34:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,163 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Blinken’s Call with Italian Prime Minister Draghi</title>
+		<link>https://www.state.gov/secretary-blinkens-call-with-italian-prime-minister-draghi/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Wed, 14 Sep 2022 23:34:32 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=376859</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Italian Prime Minister Mario Draghi. The Secretary thanked the Prime Minister for his exemplary leadership during one of the most challenging periods in recent history and for Italy’s strong support for Ukraine. The Secretary underscored the importance of maintaining solidarity and resilience in the face of Russia’s efforts to use energy and other means to divide countries that support Ukraine. The Secretary emphasized our commitment to working with the next Italian government on the broad range of our shared interests.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Italian Prime Minister Mario Draghi. The Secretary thanked the Prime Minister for his exemplary leadership during one of the most challenging periods in recent history and for Italy’s strong support for Ukraine. The Secretary underscored the importance of maintaining solidarity and resilience in the face of Russia’s efforts to use energy and other means to divide countries that support Ukraine. The Secretary emphasized our commitment to working with the next Italian government on the broad range of our shared interests.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Deputy Secretary Sherman’s Meeting with Nauru Secretary of Foreign Affairs and Trade Jeremiah</title>
 		<link>https://www.state.gov/deputy-secretary-shermans-meeting-with-nauru-secretary-of-foreign-affairs-and-trade-jeremiah/</link>
 		
@@ -1450,171 +1607,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>The below is attributable to Spokesperson Ned Price:</p>
 <p>Deputy Secretary of State Wendy R. Sherman met yesterday with Cook Islands Secretary, Ministry of Foreign Affairs and Immigration Tepaeru Hermann at the Pacific Islands Conference of Leaders in Honolulu, Hawaii.  The two discussed the recent elections in the Cook Islands, regional challenges, and the important role of the Pacific Islands Forum.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Sanctioning Iranians for Malicious Cyber Acts</title>
-		<link>https://www.state.gov/sanctioning-iranians-for-malicious-cyber-acts/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Wed, 14 Sep 2022 16:51:06 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=376717</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States is sanctioning ten individuals and two entities, all affiliated with Iran’s Islamic Revolutionary Guard Corps, for their roles in conducting malicious cyber acts, including ransomware activity.  These designations are part of a joint action with the Department of Justice, the Department of the Treasury, the Federal Bureau of Investigation, USCYBERCOM, the National Security Agency, and the Cybersecurity and Infrastructure Security Agency.</p>
-<p>Ransomware incidents have disrupted critical services and businesses globally.  Ransomware actors and other cybercriminals target businesses and critical infrastructure and threaten the physical security and economy of the United States and other nations.  The United States is taking actions today to combat and deter ransomware threats.</p>
-<p>Concurrently with these designations, the Department of State’s Rewards for Justice program, which is administered by the Diplomatic Security Service, is highlighting three individuals under its reward offer for information on foreign malicious cyber activity against U.S. critical infrastructure.  Under this reward offer, the Department is offering up to $10 million for information leading to the identification or location of any person who, while acting at the direction or under the control of a foreign government, participates in malicious cyber activities against U.S. critical infrastructure in violation of the Computer Fraud and Abuse Act.</p>
-<p>Today’s actions demonstrate our commitment to disrupting ransomware infrastructure and actors.  The United States will not tolerate malicious cyber activities victimizing the backbone of the U.S. economy and critical infrastructure.</p>
-<p>For more information on today’s actions, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTQuNjM2ODA1MzEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankwOTQ4In0.G--DAOcTkk2nG-cQ54sUZLy-uBry6qFAHl84bYI61Fw/s/1436012980/br/143985972299-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTQuNjM2ODA1MzEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankwOTQ4In0.G--DAOcTkk2nG-cQ54sUZLy-uBry6qFAHl84bYI61Fw%2Fs%2F1436012980%2Fbr%2F143985972299-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C6010b2b83b994936f49008da9667b416%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637987669395211479%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=qyAFai0R0k1Ofn2CMoiqrJNeQXTGN1CCHDgsu%2BUb%2BkM%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a> and RFJ <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTQuNjM2ODA1MzEiLCJ1cmwiOiJodHRwOi8vcmZqLnRpcHMvSXJhbi0yNDYifQ.xJZYR1Kegusj1PXefQSAaQfeSsj1AfNkxmtgQKXIKWU/s/1436012980/br/143985972299-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTQuNjM2ODA1MzEiLCJ1cmwiOiJodHRwOi8vcmZqLnRpcHMvSXJhbi0yNDYifQ.xJZYR1Kegusj1PXefQSAaQfeSsj1AfNkxmtgQKXIKWU%2Fs%2F1436012980%2Fbr%2F143985972299-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C6010b2b83b994936f49008da9667b416%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637987669395211479%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=9q2il7RG8flhqBm8T78ovif8luK6YS3DysgxxHzazjE%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">announcement</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States is sanctioning ten individuals and two entities, all affiliated with Iran’s Islamic Revolutionary Guard Corps, for their roles in conducting malicious cyber acts, including ransomware activity.  These designations are part of a joint action with the Department of Justice, the Department of the Treasury, the Federal Bureau of Investigation, USCYBERCOM, the National Security Agency, and the Cybersecurity and Infrastructure Security Agency.</p>
-<p>Ransomware incidents have disrupted critical services and businesses globally.  Ransomware actors and other cybercriminals target businesses and critical infrastructure and threaten the physical security and economy of the United States and other nations.  The United States is taking actions today to combat and deter ransomware threats.</p>
-<p>Concurrently with these designations, the Department of State’s Rewards for Justice program, which is administered by the Diplomatic Security Service, is highlighting three individuals under its reward offer for information on foreign malicious cyber activity against U.S. critical infrastructure.  Under this reward offer, the Department is offering up to $10 million for information leading to the identification or location of any person who, while acting at the direction or under the control of a foreign government, participates in malicious cyber activities against U.S. critical infrastructure in violation of the Computer Fraud and Abuse Act.</p>
-<p>Today’s actions demonstrate our commitment to disrupting ransomware infrastructure and actors.  The United States will not tolerate malicious cyber activities victimizing the backbone of the U.S. economy and critical infrastructure.</p>
-<p>For more information on today’s actions, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTQuNjM2ODA1MzEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankwOTQ4In0.G--DAOcTkk2nG-cQ54sUZLy-uBry6qFAHl84bYI61Fw/s/1436012980/br/143985972299-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTQuNjM2ODA1MzEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankwOTQ4In0.G--DAOcTkk2nG-cQ54sUZLy-uBry6qFAHl84bYI61Fw%2Fs%2F1436012980%2Fbr%2F143985972299-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C6010b2b83b994936f49008da9667b416%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637987669395211479%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=qyAFai0R0k1Ofn2CMoiqrJNeQXTGN1CCHDgsu%2BUb%2BkM%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a> and RFJ <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTQuNjM2ODA1MzEiLCJ1cmwiOiJodHRwOi8vcmZqLnRpcHMvSXJhbi0yNDYifQ.xJZYR1Kegusj1PXefQSAaQfeSsj1AfNkxmtgQKXIKWU/s/1436012980/br/143985972299-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTQuNjM2ODA1MzEiLCJ1cmwiOiJodHRwOi8vcmZqLnRpcHMvSXJhbi0yNDYifQ.xJZYR1Kegusj1PXefQSAaQfeSsj1AfNkxmtgQKXIKWU%2Fs%2F1436012980%2Fbr%2F143985972299-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C6010b2b83b994936f49008da9667b416%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637987669395211479%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=9q2il7RG8flhqBm8T78ovif8luK6YS3DysgxxHzazjE%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">announcement</a>.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
