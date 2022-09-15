@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 15 Sep 2022 22:21:20 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Sep 2022 22:45:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,161 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Second Anniversary of the Signing of the Abraham Accords</title>
+		<link>https://www.state.gov/second-anniversary-of-the-signing-of-the-abraham-accords/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Thu, 15 Sep 2022 22:45:49 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=377300</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p><span>This week, we celebrate the two-year anniversary of the signing of the Abraham Accords and normalization agreements. These steps have been transformational for Israel, the United Arab Emirates, Bahrain, and Morocco.  They have led to new forms of cooperation and regional integration in the Middle East and beyond, including the historic Negev Forum, which brought us together with Israel and its neighbors.  We are committed to advancing and expanding upon these agreements between Israel and Arab and Muslim-majority countries to enhance regional security, prosperity, and peace.  The United States looks forward to helping strengthen and deepen these partnerships in the years to come.</span></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p><span>This week, we celebrate the two-year anniversary of the signing of the Abraham Accords and normalization agreements. These steps have been transformational for Israel, the United Arab Emirates, Bahrain, and Morocco.  They have led to new forms of cooperation and regional integration in the Middle East and beyond, including the historic Negev Forum, which brought us together with Israel and its neighbors.  We are committed to advancing and expanding upon these agreements between Israel and Arab and Muslim-majority countries to enhance regional security, prosperity, and peace.  The United States looks forward to helping strengthen and deepen these partnerships in the years to come.</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Blinken’s Call with Armenian Prime Minister Pashinyan</title>
 		<link>https://www.state.gov/secretary-blinkens-call-with-armenian-prime-minister-pashinyan-8/</link>
 		
@@ -1129,173 +1284,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Russia has exacerbated a global food security crisis, contributed to significant spikes in the cost of wheat, and forced a scramble to keep hungry and vulnerable populations fed. This summer, the United Nations and Turkey mediated an agreement with Russia and Ukraine to allow safe grain exports from Ukraine’s Black Sea ports. Since August 1, that agreement has reduced global food prices and brought more than 2.7 million metric tons of grain to global markets. But if agricultural infrastructure within Ukraine continues to be damaged in the war, this progress on global food security will be endangered.</p>
 <p>In 2022, Ukraine has become the scene of the worst mass-scale violence that Europe has seen in eight decades. Local hardships are compounded by its farmers’ strained ability to operate during wartime, replenish diminished food supplies, and prepare for planting seasons ahead. The ramifications of Russia’s aggression reverberate far outside Europe, and now affect the health and wellbeing of tens of millions of people worldwide. Since February, the United States has provided over $5.7 billion in humanitarian assistance to scale up emergency food security operations in food-insecure countries.</p>
 <p>The United States will continue to firmly stand with Ukraine as it defends its freedom, for the sake of its own people and of people across the globe who rely on the harvests from Ukraine’s farmlands. Our support for Ukraine remains unwavering.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Targeting Russia’s Senior Officials, Defense Industrial Base, Financial Infrastructure Leaders, and Human Rights Abusers</title>
-		<link>https://www.state.gov/targeting-senior-russian-officials-defense-industrial-base-financial-infrastructure-leaders-and-human-rights-abusers/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Thu, 15 Sep 2022 18:04:53 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=377180</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States continues to hold the Russian government to account for its war against Ukraine.  Today, we are taking actions against major Russian defense entities, key advanced-technology firms that support Russia’s defense industrial base, and financial infrastructure.  We are also taking actions against a Russian military intelligence agency and against individuals connected to human rights abuses, both in the Kremlin’s war against Ukraine and within Russia itself.</p>
-<p>As a part of this action, the Department of State is imposing sanctions on key Russia-installed authority figures in Ukrainian territories currently controlled by the Russian military, and on 31 defense, technology, and electronics entities, to further constrain Russia’s advanced technology industries and their contribution to Russia’s defense industrial base.</p>
-<p>Today’s action includes the designation of 22 Russian proxy officials, including five that have overseen the seizure or theft of hundreds of thousands of tons of Ukrainian grain, exacerbating food insecurity around the globe.</p>
-<p>The Department of the Treasury’s Office of Foreign Assent Control (OFAC) is designating two entities and 22 individuals.  These targets include those connected to human rights abuse, such as Maria Lvova-Belova who has led Russia’s efforts to deport tens of thousands of Ukrainian children.  OFAC is also targeting leaders of key financial institutions such as Russia’s National Payment Card System (NSPK), an entity owned by the Central Bank of Russia that operates the country’s Mir payment card network, and other institutions that play a role in Russia’s financial market infrastructure.  OFAC also is issuing a determination prohibiting U.S. persons, wherever located, from providing quantum computing services to any person located in Russia.  These actions will continue to impose severe costs on Russia-affiliated illicit actors in alignment with actions taken by our allies.</p>
-<p>The Department of Commerce is expanding export controls against Russia and Belarus by adding controls on items potentially useful for Russia’s chemical and biological weapons production capabilities and items needed for advanced manufacturing, production and development capabilities. This action also refines existing controls on Russia and Belarus to more closely align with requirements implemented by our allies.</p>
-<p>Those designated today — from perpetrators of violence to an official facilitating the purposeful removal of children from Ukraine — provide examples of the behavior that has become synonymous with the Government of Russia’s unprovoked war. The United States will continue to take actions against those who support Russia’s defense-industrial base, its violation of human rights, and its attempts to legitimize its occupation of Ukrainian territory, wherever they may be.</p>
-<p>For more information on today’s action, please see the Department of State’s <a href="https://www.state.gov/targeting-russias-senior-officials-defense-industrial-base-and-human-rights-abusers/">fact sheet</a>, the Department of the Treasury’s <a href="https://home.treasury.gov/news/press-releases/jy0954" target="_blank" rel="noopener noreferrer">press release</a>, and the Department of Commerce’s <a class="external-link__pdf" href="https://public-inspection.federalregister.gov/2022-19910.pdf" target="_BLANK" rel="noopener">rule</a>.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States continues to hold the Russian government to account for its war against Ukraine.  Today, we are taking actions against major Russian defense entities, key advanced-technology firms that support Russia’s defense industrial base, and financial infrastructure.  We are also taking actions against a Russian military intelligence agency and against individuals connected to human rights abuses, both in the Kremlin’s war against Ukraine and within Russia itself.</p>
-<p>As a part of this action, the Department of State is imposing sanctions on key Russia-installed authority figures in Ukrainian territories currently controlled by the Russian military, and on 31 defense, technology, and electronics entities, to further constrain Russia’s advanced technology industries and their contribution to Russia’s defense industrial base.</p>
-<p>Today’s action includes the designation of 22 Russian proxy officials, including five that have overseen the seizure or theft of hundreds of thousands of tons of Ukrainian grain, exacerbating food insecurity around the globe.</p>
-<p>The Department of the Treasury’s Office of Foreign Assent Control (OFAC) is designating two entities and 22 individuals.  These targets include those connected to human rights abuse, such as Maria Lvova-Belova who has led Russia’s efforts to deport tens of thousands of Ukrainian children.  OFAC is also targeting leaders of key financial institutions such as Russia’s National Payment Card System (NSPK), an entity owned by the Central Bank of Russia that operates the country’s Mir payment card network, and other institutions that play a role in Russia’s financial market infrastructure.  OFAC also is issuing a determination prohibiting U.S. persons, wherever located, from providing quantum computing services to any person located in Russia.  These actions will continue to impose severe costs on Russia-affiliated illicit actors in alignment with actions taken by our allies.</p>
-<p>The Department of Commerce is expanding export controls against Russia and Belarus by adding controls on items potentially useful for Russia’s chemical and biological weapons production capabilities and items needed for advanced manufacturing, production and development capabilities. This action also refines existing controls on Russia and Belarus to more closely align with requirements implemented by our allies.</p>
-<p>Those designated today — from perpetrators of violence to an official facilitating the purposeful removal of children from Ukraine — provide examples of the behavior that has become synonymous with the Government of Russia’s unprovoked war. The United States will continue to take actions against those who support Russia’s defense-industrial base, its violation of human rights, and its attempts to legitimize its occupation of Ukrainian territory, wherever they may be.</p>
-<p>For more information on today’s action, please see the Department of State’s <a href="https://www.state.gov/targeting-russias-senior-officials-defense-industrial-base-and-human-rights-abusers/">fact sheet</a>, the Department of the Treasury’s <a href="https://home.treasury.gov/news/press-releases/jy0954" target="_blank" rel="noopener noreferrer">press release</a>, and the Department of Commerce’s <a class="external-link__pdf" href="https://public-inspection.federalregister.gov/2022-19910.pdf" target="_BLANK" rel="noopener">rule</a>.</p>
 ]]></content:encoded>
 					
 		
