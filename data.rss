@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 15 Sep 2022 22:45:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Sep 2022 23:18:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,141 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Joint Statement on the Third U.S.-Turkey Strategic Mechanism Dialogue</title>
+		<link>https://www.state.gov/joint-statement-on-the-third-u-s-turkey-strategic-mechanism-dialogue/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Thu, 15 Sep 2022 23:18:04 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=377312</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The text of the following statement was released by the Governments of the United States of America and the Republic of Turkey, on the occasion of the Third U.S.-Turkey Strategic Mechanism Dialogue.</p>
+<p><em>Begin Text.</em></p>
+<p>The Governments of the United States and Turkey held a third meeting of the U.S.-Turkey Strategic Mechanism Dialogue on September 15, 2022, in Washington.  U.S. Deputy Secretary of State Wendy Sherman and Turkish Deputy Minister of Foreign Affairs Sedat Önal chaired the meeting.  U.S. Under Secretary of State for Political Affairs Victoria Nuland also participated in the Dialogue.  Building on their steadfast partnership and previous discussions under the framework of the U.S.-Turkey Strategic Mechanism, the two reaffirmed their strong cooperation as partners and NATO Allies and engaged in substantive dialogue on strategic global and regional issues and areas of bilateral cooperation.</p>
+<p>They reviewed the extensive, security, economic, cultural, and people-to-people ties that underpin the bilateral relationship between the United States and Turkey.  Both sides reaffirmed their commitment to promote peace and stability and to further deepen and strengthen the enduring U.S.- Turkey defense partnership.  They welcomed the recent growth in their bilateral trade relations and reconfirmed their mutual determination to advance their economic cooperation in every possible field.  They also stressed that the United States and Turkey stand together in support of global public health as well as food and energy security.  The delegations also reaffirmed their mutual efforts to work to promote energy supply, access, efficiency, and independence.</p>
+<p>Both sides discussed political developments in the region and consulted on the importance of strengthening Transatlantic relations.  They underscored the need to fight terrorism in all its forms and manifestations.  The delegations reiterated their unwavering support for Ukraine’s sovereignty and territorial integrity and discussed ways to further NATO coordination.  The United States welcomed Turkey’s efforts to broker the Istanbul Black Sea grain deal for safe passage of Ukrainian agricultural goods in the Black Sea.  The two delegations explored possible avenues of cooperation in various parts of the world, including the Middle East and Africa, and underlined the importance of promoting peace in the South Caucasus.</p>
+<p>Both sides welcomed continued robust, candid exchanges on these and other issues and agreed to continued exchange of senior-level visits in the future.</p>
+<p>The United States and Turkey look forward to reviewing progress and exploring new areas of cooperation during the next round of the Dialogue.</p>
+<p><em>End Text.</em></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The text of the following statement was released by the Governments of the United States of America and the Republic of Turkey, on the occasion of the Third U.S.-Turkey Strategic Mechanism Dialogue.</p>
+<p><em>Begin Text.</em></p>
+<p>The Governments of the United States and Turkey held a third meeting of the U.S.-Turkey Strategic Mechanism Dialogue on September 15, 2022, in Washington.  U.S. Deputy Secretary of State Wendy Sherman and Turkish Deputy Minister of Foreign Affairs Sedat Önal chaired the meeting.  U.S. Under Secretary of State for Political Affairs Victoria Nuland also participated in the Dialogue.  Building on their steadfast partnership and previous discussions under the framework of the U.S.-Turkey Strategic Mechanism, the two reaffirmed their strong cooperation as partners and NATO Allies and engaged in substantive dialogue on strategic global and regional issues and areas of bilateral cooperation.</p>
+<p>They reviewed the extensive, security, economic, cultural, and people-to-people ties that underpin the bilateral relationship between the United States and Turkey.  Both sides reaffirmed their commitment to promote peace and stability and to further deepen and strengthen the enduring U.S.- Turkey defense partnership.  They welcomed the recent growth in their bilateral trade relations and reconfirmed their mutual determination to advance their economic cooperation in every possible field.  They also stressed that the United States and Turkey stand together in support of global public health as well as food and energy security.  The delegations also reaffirmed their mutual efforts to work to promote energy supply, access, efficiency, and independence.</p>
+<p>Both sides discussed political developments in the region and consulted on the importance of strengthening Transatlantic relations.  They underscored the need to fight terrorism in all its forms and manifestations.  The delegations reiterated their unwavering support for Ukraine’s sovereignty and territorial integrity and discussed ways to further NATO coordination.  The United States welcomed Turkey’s efforts to broker the Istanbul Black Sea grain deal for safe passage of Ukrainian agricultural goods in the Black Sea.  The two delegations explored possible avenues of cooperation in various parts of the world, including the Middle East and Africa, and underlined the importance of promoting peace in the South Caucasus.</p>
+<p>Both sides welcomed continued robust, candid exchanges on these and other issues and agreed to continued exchange of senior-level visits in the future.</p>
+<p>The United States and Turkey look forward to reviewing progress and exploring new areas of cooperation during the next round of the Dialogue.</p>
+<p><em>End Text.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Second Anniversary of the Signing of the Abraham Accords</title>
 		<link>https://www.state.gov/second-anniversary-of-the-signing-of-the-abraham-accords/</link>
 		
@@ -1605,169 +1740,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <li><strong>JOINT STOCK COMPANY PRODUCTION ASSOCIATION SEVER </strong>is a Russian electronics entity that develops and manufactures a wide range of radio-electrotechnical products, including electric motors and other electrical products.</li>
 <li><strong>JOINT STOCK COMPANY RESEARCH AND DEVELOPMENT ENTERPRISE SAPFIR </strong>conducts research and production related to semiconductor electronics and supplies microprocessors to the Government of the Russian Federation, including producing products for computer systems that are used on Russian missiles. Joint Stock Company Research and Development Enterprise Sapfir describes itself as a leading enterprise in the Russian defense industry.</li>
 </ul>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Notice of Meeting: U.S. Advisory Commission on Public Diplomacy</title>
-		<link>https://www.state.gov/notice-of-meeting-u-s-advisory-commission-on-public-diplomacy-6/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Thu, 15 Sep 2022 16:22:06 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=377059</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The U.S. Advisory Commission on Public Diplomacy (ACPD) will hold an in-person public meeting with optional online viewing on Friday, September 23, 2022, from 12:00 p.m. until 1:15 p.m. During the meeting, a panel of policy and academic experts will discuss public diplomacy efforts to counter disinformation effects in sub-Saharan Africa.</p>
-<p>This meeting is open to the public, including the media and members and staff of governmental and non-governmental organizations. The event will take place at the International Student House of Washington, DC at 1825 R St. NW, Washington, DC.  Please register for the in-person event here: <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTUuNjM3NDAxNjEiLCJ1cmwiOiJodHRwczovL3d3dy5ldmVudGJyaXRlLmNvbS9lL3BkLWFwcHJvYWNoZXMtdG8tY291bnRlcmluZy1kaXNpbmZvcm1hdGlvbi1pbi1zdWItc2FoYXJhbi1hZnJpY2EtdGlja2V0cy00MDAwNzUzODUyNDcifQ.BbOUeQAcu274gB5Z_8jtb5E-CVmBKSkowi0m3V89tug/s/1436012980/br/144056993356-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTUuNjM3NDAxNjEiLCJ1cmwiOiJodHRwczovL3d3dy5ldmVudGJyaXRlLmNvbS9lL3BkLWFwcHJvYWNoZXMtdG8tY291bnRlcmluZy1kaXNpbmZvcm1hdGlvbi1pbi1zdWItc2FoYXJhbi1hZnJpY2EtdGlja2V0cy00MDAwNzUzODUyNDcifQ.BbOUeQAcu274gB5Z_8jtb5E-CVmBKSkowi0m3V89tug%2Fs%2F1436012980%2Fbr%2F144056993356-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Ca18741bd0d1d47410ae108da97316e9c%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637988535807492650%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=Peyd1WlUsstcxQZfZLGaHuzw8cJWArbpHUjutDghuyU%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">https://www.eventbrite.com/e/pd-approaches-to-countering-disinformation-in-sub-saharan-africa-tickets-400075385247</a>.  Doors will open at 11:30 AM.  There will be an option to view the event virtually by accessing the Zoom link in the Eventbrite invitation.</p>
-<p>Congress created the bipartisan ACPD panel in 1948 to appraise U.S. government activities intended to understand, inform, and influence foreign publics.  The Commission conducts research that provides honest assessments of public diplomacy efforts, and disseminates findings through reports, white papers, and other publications.  It also holds public symposia that generate informed discussions on public diplomacy issues.  The Commission reports to the President, Secretary of State, and Congress.</p>
-<p>For more information on the ACPD, its congressionally mandated annual reports, or the upcoming public meeting, please visit <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTUuNjM3NDAxNjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvYnVyZWF1cy1vZmZpY2VzL3VuZGVyLXNlY3JldGFyeS1mb3ItcHVibGljLWRpcGxvbWFjeS1hbmQtcHVibGljLWFmZmFpcnMvdW5pdGVkLXN0YXRlcy1hZHZpc29yeS1jb21taXNzaW9uLW9uLXB1YmxpYy1kaXBsb21hY3kvIn0.EWAgJStYfxZQ0ufVTeH5pnQdBzNJL1kTMHe1OFDTm34/s/1436012980/br/144056993356-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTUuNjM3NDAxNjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvYnVyZWF1cy1vZmZpY2VzL3VuZGVyLXNlY3JldGFyeS1mb3ItcHVibGljLWRpcGxvbWFjeS1hbmQtcHVibGljLWFmZmFpcnMvdW5pdGVkLXN0YXRlcy1hZHZpc29yeS1jb21taXNzaW9uLW9uLXB1YmxpYy1kaXBsb21hY3kvIn0.EWAgJStYfxZQ0ufVTeH5pnQdBzNJL1kTMHe1OFDTm34%2Fs%2F1436012980%2Fbr%2F144056993356-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Ca18741bd0d1d47410ae108da97316e9c%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637988535807492650%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=wTuqV7lng1bgSXURhB%2F5ec1zLTgINMUV51tTqK6EAM4%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/united-states-advisory-commission-on-public-diplomacy/</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The U.S. Advisory Commission on Public Diplomacy (ACPD) will hold an in-person public meeting with optional online viewing on Friday, September 23, 2022, from 12:00 p.m. until 1:15 p.m. During the meeting, a panel of policy and academic experts will discuss public diplomacy efforts to counter disinformation effects in sub-Saharan Africa.</p>
-<p>This meeting is open to the public, including the media and members and staff of governmental and non-governmental organizations. The event will take place at the International Student House of Washington, DC at 1825 R St. NW, Washington, DC.  Please register for the in-person event here: <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTUuNjM3NDAxNjEiLCJ1cmwiOiJodHRwczovL3d3dy5ldmVudGJyaXRlLmNvbS9lL3BkLWFwcHJvYWNoZXMtdG8tY291bnRlcmluZy1kaXNpbmZvcm1hdGlvbi1pbi1zdWItc2FoYXJhbi1hZnJpY2EtdGlja2V0cy00MDAwNzUzODUyNDcifQ.BbOUeQAcu274gB5Z_8jtb5E-CVmBKSkowi0m3V89tug/s/1436012980/br/144056993356-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTUuNjM3NDAxNjEiLCJ1cmwiOiJodHRwczovL3d3dy5ldmVudGJyaXRlLmNvbS9lL3BkLWFwcHJvYWNoZXMtdG8tY291bnRlcmluZy1kaXNpbmZvcm1hdGlvbi1pbi1zdWItc2FoYXJhbi1hZnJpY2EtdGlja2V0cy00MDAwNzUzODUyNDcifQ.BbOUeQAcu274gB5Z_8jtb5E-CVmBKSkowi0m3V89tug%2Fs%2F1436012980%2Fbr%2F144056993356-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Ca18741bd0d1d47410ae108da97316e9c%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637988535807492650%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=Peyd1WlUsstcxQZfZLGaHuzw8cJWArbpHUjutDghuyU%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">https://www.eventbrite.com/e/pd-approaches-to-countering-disinformation-in-sub-saharan-africa-tickets-400075385247</a>.  Doors will open at 11:30 AM.  There will be an option to view the event virtually by accessing the Zoom link in the Eventbrite invitation.</p>
-<p>Congress created the bipartisan ACPD panel in 1948 to appraise U.S. government activities intended to understand, inform, and influence foreign publics.  The Commission conducts research that provides honest assessments of public diplomacy efforts, and disseminates findings through reports, white papers, and other publications.  It also holds public symposia that generate informed discussions on public diplomacy issues.  The Commission reports to the President, Secretary of State, and Congress.</p>
-<p>For more information on the ACPD, its congressionally mandated annual reports, or the upcoming public meeting, please visit <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTUuNjM3NDAxNjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvYnVyZWF1cy1vZmZpY2VzL3VuZGVyLXNlY3JldGFyeS1mb3ItcHVibGljLWRpcGxvbWFjeS1hbmQtcHVibGljLWFmZmFpcnMvdW5pdGVkLXN0YXRlcy1hZHZpc29yeS1jb21taXNzaW9uLW9uLXB1YmxpYy1kaXBsb21hY3kvIn0.EWAgJStYfxZQ0ufVTeH5pnQdBzNJL1kTMHe1OFDTm34/s/1436012980/br/144056993356-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MTUuNjM3NDAxNjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvYnVyZWF1cy1vZmZpY2VzL3VuZGVyLXNlY3JldGFyeS1mb3ItcHVibGljLWRpcGxvbWFjeS1hbmQtcHVibGljLWFmZmFpcnMvdW5pdGVkLXN0YXRlcy1hZHZpc29yeS1jb21taXNzaW9uLW9uLXB1YmxpYy1kaXBsb21hY3kvIn0.EWAgJStYfxZQ0ufVTeH5pnQdBzNJL1kTMHe1OFDTm34%2Fs%2F1436012980%2Fbr%2F144056993356-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Ca18741bd0d1d47410ae108da97316e9c%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637988535807492650%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=wTuqV7lng1bgSXURhB%2F5ec1zLTgINMUV51tTqK6EAM4%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/united-states-advisory-commission-on-public-diplomacy/</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
