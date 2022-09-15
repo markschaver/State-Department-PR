@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 15 Sep 2022 00:18:16 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Sep 2022 00:53:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>United States Announces Additional Humanitarian Assistance for the Syrian People</title>
+		<link>https://www.state.gov/united-states-announces-additional-humanitarian-assistance-for-the-syrian-people/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Thu, 15 Sep 2022 00:53:41 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=376885</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>At today’s Syria Political-Humanitarian Briefing at the UN Security Council, Ambassador Linda Thomas-Greenfield, U.S. Representative to the United Nations, announced more than $756 million in additional humanitarian assistance to continue our unwavering support for the Syrian people. This funding is in addition to the nearly $808 million announced by Ambassador Thomas-Greenfield in Brussels earlier in the year. Through the generosity of the American people, the U.S. government has provided nearly $15.7 billion in humanitarian assistance since the start of the 11-year Syrian crisis. U.S. assistance benefits many of the 14.6 million people inside Syria in need of humanitarian assistance, as well as 5.6 million Syrian refugees and generous host communities in Turkey, Lebanon, Jordan, Iraq, and Egypt.</p>
+<p>The United States has stressed the importance of unimpeded access for humanitarian actors across all of Syria. We firmly support implementation of all aspects of UN Security Council Resolution 2642, including the unimpeded delivery of aid. The UN cross-border humanitarian aid mechanism is a lifeline for millions inside Syria, and its continued operation is paramount to their survival. Cross-border deliveries ensure that life-saving aid including food, medicine, and other relief supplies reach people throughout northwest Syria, who rely on this aid to survive. We appreciate those countries that continue to generously welcome Syrian refugees and highlighted the danger and U.S. policy against premature or coerced refugee returns to Syria prohibited under international law.</p>
+<p>The United States remains the world’s largest humanitarian donor to the Syrian people. The assistance announced today will support humanitarian partners providing clean water, food, hygiene and relief supplies, shelter, protection services, and critical health and nutrition assistance. After more than a decade of conflict, the needs of displaced Syrians remain dire. The international community needs to join in ensuring continuity of funding so life-saving assistance reaches those most vulnerable.</p>
+<p>The United States will continue working with allies and partners to achieve a solution to the Syrian conflict in line with UN Security Council Resolution 2254. Only a political solution can end over a decade of loss and suffering in Syria, and give all Syrians the security, stability, and prosperity they deserve. The United States’ support for the Syrian people remains steadfast.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>At today’s Syria Political-Humanitarian Briefing at the UN Security Council, Ambassador Linda Thomas-Greenfield, U.S. Representative to the United Nations, announced more than $756 million in additional humanitarian assistance to continue our unwavering support for the Syrian people. This funding is in addition to the nearly $808 million announced by Ambassador Thomas-Greenfield in Brussels earlier in the year. Through the generosity of the American people, the U.S. government has provided nearly $15.7 billion in humanitarian assistance since the start of the 11-year Syrian crisis. U.S. assistance benefits many of the 14.6 million people inside Syria in need of humanitarian assistance, as well as 5.6 million Syrian refugees and generous host communities in Turkey, Lebanon, Jordan, Iraq, and Egypt.</p>
+<p>The United States has stressed the importance of unimpeded access for humanitarian actors across all of Syria. We firmly support implementation of all aspects of UN Security Council Resolution 2642, including the unimpeded delivery of aid. The UN cross-border humanitarian aid mechanism is a lifeline for millions inside Syria, and its continued operation is paramount to their survival. Cross-border deliveries ensure that life-saving aid including food, medicine, and other relief supplies reach people throughout northwest Syria, who rely on this aid to survive. We appreciate those countries that continue to generously welcome Syrian refugees and highlighted the danger and U.S. policy against premature or coerced refugee returns to Syria prohibited under international law.</p>
+<p>The United States remains the world’s largest humanitarian donor to the Syrian people. The assistance announced today will support humanitarian partners providing clean water, food, hygiene and relief supplies, shelter, protection services, and critical health and nutrition assistance. After more than a decade of conflict, the needs of displaced Syrians remain dire. The international community needs to join in ensuring continuity of funding so life-saving assistance reaches those most vulnerable.</p>
+<p>The United States will continue working with allies and partners to achieve a solution to the Syrian conflict in line with UN Security Council Resolution 2254. Only a political solution can end over a decade of loss and suffering in Syria, and give all Syrians the security, stability, and prosperity they deserve. The United States’ support for the Syrian people remains steadfast.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Department Press Briefing &#8211; September 14, 2022</title>
 		<link>https://www.state.gov/briefings/department-press-briefing-september-14-2022/</link>
 		
@@ -1881,165 +2042,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>Deputy Secretary of State Wendy R. Sherman met yesterday with Federated States of Micronesia (FSM) President David Panuelo in Honolulu, Hawaii.  The Deputy Secretary and the President discussed ongoing coordination efforts between the United States and FSM, including facilitating the East Micronesia Cable which will increase connectivity through the region, as well as negotiations related to amending and extending certain expiring provisions of the Compact of Free Association, as amended.  Deputy Secretary Sherman offered continued support for FSM’s response to COVID-19.  The leaders also noted regional challenges and reaffirmed the strong partnership between the United States and FSM.</p>
 <p><input type="hidden" data-filter="100000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Deputy Secretary Sherman’s Meeting with Australian Department of Foreign Affairs and Trade Head of the Pacific McDonald</title>
-		<link>https://www.state.gov/deputy-secretary-shermans-meeting-with-australian-department-of-foreign-affairs-and-trade-head-of-the-pacific-mcdonald/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 14 Sep 2022 18:43:50 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=376770</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The below is attributable to Spokesperson Ned Price:</p>
-<p>Deputy Secretary of State Wendy R. Sherman met with Australian Department of Foreign Affairs and Trade Head of the Pacific Ewen McDonald yesterday at the Pacific Islands Conference of Leaders in Hawaii.  The Deputy Secretary and Mr. McDonald spoke about our shared priorities in the Indo-Pacific, the Australian Government’s efforts in the Pacific, and cooperation and partnership across the Pacific.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The below is attributable to Spokesperson Ned Price:</p>
-<p>Deputy Secretary of State Wendy R. Sherman met with Australian Department of Foreign Affairs and Trade Head of the Pacific Ewen McDonald yesterday at the Pacific Islands Conference of Leaders in Hawaii.  The Deputy Secretary and Mr. McDonald spoke about our shared priorities in the Indo-Pacific, the Australian Government’s efforts in the Pacific, and cooperation and partnership across the Pacific.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
