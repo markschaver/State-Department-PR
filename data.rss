@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 16 Sep 2022 12:26:05 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Sep 2022 13:07:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -279,7 +279,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p><b>2:15 p.m. </b>Secretary Blinken attends President Biden’s meeting with South African President Cyril Ramaphosa at the White House.</p>
 <p><b>(MEDIA DETERMINED BY THE WHITE HOUSE) </b></p>
 <p><b>DEPUTY SECRETARY WENDY R. SHERMAN</b></p>
-<p><b>10:30 a.m. </b>Deputy Secretary Sherman participates in a <a href="https://www.washingtonpost.com/washington-post-live/2022/09/16/deputy-secretary-state-wendy-sherman-americans-held-hostage-abroad/" target="_blank" rel="noopener">virtual PostLive event</a> on arbitrary detentions with Jason Rezaian at the Department of State.</p>
+<p><b>10:30 a.m. </b>Deputy Secretary Sherman participates in a <a class="external-link" href="https://www.washingtonpost.com/washington-post-live/2022/09/16/deputy-secretary-state-wendy-sherman-americans-held-hostage-abroad/" target="_BLANK" rel="noopener"><span class="external-link-title">virtual PostLive event</span><span class="icon-external"> </span></a> on arbitrary detentions with Jason Rezaian at the Department of State.</p>
 <p><b>(OPEN PRESS COVERAGE)</b></p>
 <p><b>12:00 p.m.</b> Deputy Secretary Sherman meets with Swiss State Secretary Livia Leu at the Department of State.</p>
 <p><b>(CLOSED PRESS COVERAGE)</b></p>
@@ -390,7 +390,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p><b>2:15 p.m. </b>Secretary Blinken attends President Biden’s meeting with South African President Cyril Ramaphosa at the White House.</p>
 <p><b>(MEDIA DETERMINED BY THE WHITE HOUSE) </b></p>
 <p><b>DEPUTY SECRETARY WENDY R. SHERMAN</b></p>
-<p><b>10:30 a.m. </b>Deputy Secretary Sherman participates in a <a href="https://www.washingtonpost.com/washington-post-live/2022/09/16/deputy-secretary-state-wendy-sherman-americans-held-hostage-abroad/" target="_blank" rel="noopener">virtual PostLive event</a> on arbitrary detentions with Jason Rezaian at the Department of State.</p>
+<p><b>10:30 a.m. </b>Deputy Secretary Sherman participates in a <a class="external-link" href="https://www.washingtonpost.com/washington-post-live/2022/09/16/deputy-secretary-state-wendy-sherman-americans-held-hostage-abroad/" target="_BLANK" rel="noopener"><span class="external-link-title">virtual PostLive event</span><span class="icon-external"> </span></a> on arbitrary detentions with Jason Rezaian at the Department of State.</p>
 <p><b>(OPEN PRESS COVERAGE)</b></p>
 <p><b>12:00 p.m.</b> Deputy Secretary Sherman meets with Swiss State Secretary Livia Leu at the Department of State.</p>
 <p><b>(CLOSED PRESS COVERAGE)</b></p>
