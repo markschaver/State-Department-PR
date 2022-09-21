@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 21 Sep 2022 13:46:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Sep 2022 14:46:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,183 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>U.S. Foreign Affairs Information Technology (FAIT) Fellowship Program Now Open</title>
+		<link>https://www.state.gov/u-s-foreign-affairs-information-technology-fait-fellowship-program-now-open-2/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Wed, 21 Sep 2022 14:46:28 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=379181</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The U.S. Department of State is accepting applications for the Foreign Affairs Information Technology (FAIT) Fellowship Program now through February 3, 2023. The two-year need and merit-based fellowship program, administered in cooperation with The Washington Center for Internships and Academic Seminars (TWC), is intended for talented and diverse students in an IT-related post-secondary degree program, including accredited online degree programs.</p>
+<p>The FAIT Fellowship is part of the Department of State’s continued efforts to diversify the ranks of Information Management Specialists serving in the U.S. Foreign Service. The FAIT program encourages applications from populations traditionally underrepresented in the Foreign Service that reflect the diversity of the United States, as well as those with financial need.  Undergraduates entering their junior year or graduate students entering a two-year master’s degree program in an IT-related field are eligible to apply for this opportunity.</p>
+<p>Students selected for the FAIT Fellowship program will receive academic support of up to $43,500 annually for tuition, room and board, books, mandatory fees, and some travel expenses for the two-year program. They will also receive stipends, housing, and travel allowances for two internship experiences, one in Washington, D.C. at the Department of State, and one at a U.S. Embassy or Consulate abroad. Upon successful completion of the Fellowship program and the State Department’s entry requirements, Fellows will receive an appointment in the Foreign Service as an Information Management Specialist.</p>
+<p>Up to 15 student applicants are chosen annually in a competitive selection process, with special consideration given to those with financial need. Students for the 2023 application cycle must meet all of the following requirements:</p>
+<ul>
+<li>Be a U.S. citizen at the time of application;</li>
+<li>Be enrolled in an IT-related undergraduate degree program and entering junior year in the fall of 2023 OR entering an IT-related master’s degree program beginning in the fall of 2023;</li>
+<li>Hold a minimum 3.2 GPA on a 4.0 scale at the time of the application, and maintain this GPA throughout participation in the program; and</li>
+<li>Be able to pass and retain medical, suitability, and security clearance requirements.</li>
+</ul>
+<p>For more information about this opportunity, please visit: faitfellowship.org.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The U.S. Department of State is accepting applications for the Foreign Affairs Information Technology (FAIT) Fellowship Program now through February 3, 2023. The two-year need and merit-based fellowship program, administered in cooperation with The Washington Center for Internships and Academic Seminars (TWC), is intended for talented and diverse students in an IT-related post-secondary degree program, including accredited online degree programs.</p>
+<p>The FAIT Fellowship is part of the Department of State’s continued efforts to diversify the ranks of Information Management Specialists serving in the U.S. Foreign Service. The FAIT program encourages applications from populations traditionally underrepresented in the Foreign Service that reflect the diversity of the United States, as well as those with financial need.  Undergraduates entering their junior year or graduate students entering a two-year master’s degree program in an IT-related field are eligible to apply for this opportunity.</p>
+<p>Students selected for the FAIT Fellowship program will receive academic support of up to $43,500 annually for tuition, room and board, books, mandatory fees, and some travel expenses for the two-year program. They will also receive stipends, housing, and travel allowances for two internship experiences, one in Washington, D.C. at the Department of State, and one at a U.S. Embassy or Consulate abroad. Upon successful completion of the Fellowship program and the State Department’s entry requirements, Fellows will receive an appointment in the Foreign Service as an Information Management Specialist.</p>
+<p>Up to 15 student applicants are chosen annually in a competitive selection process, with special consideration given to those with financial need. Students for the 2023 application cycle must meet all of the following requirements:</p>
+<ul>
+<li>Be a U.S. citizen at the time of application;</li>
+<li>Be enrolled in an IT-related undergraduate degree program and entering junior year in the fall of 2023 OR entering an IT-related master’s degree program beginning in the fall of 2023;</li>
+<li>Hold a minimum 3.2 GPA on a 4.0 scale at the time of the application, and maintain this GPA throughout participation in the program; and</li>
+<li>Be able to pass and retain medical, suitability, and security clearance requirements.</li>
+</ul>
+<p>For more information about this opportunity, please visit: faitfellowship.org.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Blinken’s Meeting with Lebanese Caretaker Prime Minister Mikati</title>
 		<link>https://www.state.gov/secretary-blinkens-meeting-with-lebanese-caretaker-prime-minister-mikati/</link>
 		
@@ -1513,165 +1690,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>You’re right, today we see reports of further aggressive action by Russia.  And I remember the last time I was here in New York at the United Nations with you in February, the United States of America and the United Kingdom stood shoulder to shoulder in highlighting what we knew to be the imminent aggressive actions of Russia.  And not everyone believed us at the time, and nevertheless those tanks crossed the border.  So I would implore all of those people listening to reports that you’ve just discussed to remember that the aggressive actions of Vladimir Putin against the people of Ukraine have got to be called out.  We have got to highlight the deep injustice of what he&#8217;s doing and we have to remain resolute in support of the Ukrainians as they defend their homeland.</p>
 <p>The UK is very proud of the work that we have done supporting Ukraine.  And indeed, the United States of America has been an unbelievably important friend and ally to the Ukrainians defending their homeland.  It is a genuine pleasure to be able to work with you directly, and I look forward to discussing, of course, the situation in Ukraine, the situation of global food insecurity – which I know the United States is very much taking a lead on – and of course our incredibly important bilateral relationship, one of which we are very, very proud and one that I am determined to continue reinforcing.</p>
 <p><input type="hidden" data-filter="100001000111" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Under Secretary Fernandez’s Meeting with Republic of Korea 2nd Vice Minister of Foreign Affairs Lee</title>
-		<link>https://www.state.gov/under-secretary-fernandezs-meeting-with-republic-of-korea-2nd-vice-minister-of-foreign-affairs-lee/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Tue, 20 Sep 2022 21:08:41 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=378978</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Today, Under Secretary of State Jose W. Fernandez met with Republic of Korea (ROK) 2nd Vice Foreign Minister Lee Do-hoon on the margins of the UN General Assembly in New York, New York.  Under Secretary Fernandez and Vice Foreign Minister Lee affirmed the strength of the U.S.-ROK economic relationship, which contributes to economic prosperity in both our countries.  They also discussed our expanding economic and technology partnership to address the most critical 21st century challenges, including combatting the climate crisis and strengthening global supply chain resilience.</p>
-<p>Under Secretary Fernandez highlighted the ROK’s significant and growing investments in the United States, including in clean energy technologies, which support our shared economic prosperity, clean energy, and supply chain resiliency goals.  These investments help strengthen our economic partnership and improve our ability to confront shared challenges.  The Under Secretary reiterated the United States’ commitment to maintaining open channels of engagement with the ROK on the U.S. Inflation Reduction Act, as the United States works to implement the landmark legislation. They also discussed ways to work together to address other key challenges, including joint efforts on climate change, and opportunities to deepen cooperation in the Indo-Pacific.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Today, Under Secretary of State Jose W. Fernandez met with Republic of Korea (ROK) 2nd Vice Foreign Minister Lee Do-hoon on the margins of the UN General Assembly in New York, New York.  Under Secretary Fernandez and Vice Foreign Minister Lee affirmed the strength of the U.S.-ROK economic relationship, which contributes to economic prosperity in both our countries.  They also discussed our expanding economic and technology partnership to address the most critical 21st century challenges, including combatting the climate crisis and strengthening global supply chain resilience.</p>
-<p>Under Secretary Fernandez highlighted the ROK’s significant and growing investments in the United States, including in clean energy technologies, which support our shared economic prosperity, clean energy, and supply chain resiliency goals.  These investments help strengthen our economic partnership and improve our ability to confront shared challenges.  The Under Secretary reiterated the United States’ commitment to maintaining open channels of engagement with the ROK on the U.S. Inflation Reduction Act, as the United States works to implement the landmark legislation. They also discussed ways to work together to address other key challenges, including joint efforts on climate change, and opportunities to deepen cooperation in the Indo-Pacific.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
 ]]></content:encoded>
 					
 		
