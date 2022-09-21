@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 21 Sep 2022 22:25:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Sep 2022 23:19:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,171 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>U.S. Ratification of the Kigali Amendment</title>
+		<link>https://www.state.gov/u-s-ratification-of-the-kigali-amendment/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Wed, 21 Sep 2022 23:19:33 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=379379</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>Today, the U.S. Senate, with strong bipartisan support, gave advice and consent to ratification of the Kigali Amendment to the Montreal Protocol on Substances that Deplete the Ozone Layer. The United States will soon join 137 other countries that have already ratified the Kigali Amendment.</p>
+<p>The Kigali Amendment calls for a gradual reduction in the consumption and production of hydrofluorocarbons (“HFCs”), which are potent greenhouse gases. Its global implementation should avoid as much as half a degree Celsius of warming by the end of the century.</p>
+<p>The U.S. environmental and business communities strongly support U.S. ratification of the Kigali Amendment, which will help to ensure U.S. industry remains a global leader in the development, manufacturing, production, and deployment of HFC alternatives. Industry estimates indicate that U.S. ratification will support 33,000 new U.S. manufacturing jobs and generate $12.5 billion in new investments in the U.S. economy over the next decade.</p>
+<p>Ratification of the Kigali Amendment will be an asset for innovative American companies that have developed alternatives to HFCs and will help them export U.S. technology to overseas markets.</p>
+<p>The Montreal Protocol, which also regulates the production and consumption of ozone depleting substances, is one of the most successful international environmental agreements. It is expected to restore the stratospheric ozone layer by 2065, avoiding 443 million cases of skin cancer, approximately 2.3 million skin cancer deaths, and more than 63 million cases of cataracts in the United States alone, with even greater benefits worldwide. For additional information, visit the State Department’s website about the Montreal Protocol and Kigali Amendment here.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>Today, the U.S. Senate, with strong bipartisan support, gave advice and consent to ratification of the Kigali Amendment to the Montreal Protocol on Substances that Deplete the Ozone Layer. The United States will soon join 137 other countries that have already ratified the Kigali Amendment.</p>
+<p>The Kigali Amendment calls for a gradual reduction in the consumption and production of hydrofluorocarbons (“HFCs”), which are potent greenhouse gases. Its global implementation should avoid as much as half a degree Celsius of warming by the end of the century.</p>
+<p>The U.S. environmental and business communities strongly support U.S. ratification of the Kigali Amendment, which will help to ensure U.S. industry remains a global leader in the development, manufacturing, production, and deployment of HFC alternatives. Industry estimates indicate that U.S. ratification will support 33,000 new U.S. manufacturing jobs and generate $12.5 billion in new investments in the U.S. economy over the next decade.</p>
+<p>Ratification of the Kigali Amendment will be an asset for innovative American companies that have developed alternatives to HFCs and will help them export U.S. technology to overseas markets.</p>
+<p>The Montreal Protocol, which also regulates the production and consumption of ozone depleting substances, is one of the most successful international environmental agreements. It is expected to restore the stratospheric ozone layer by 2065, avoiding 443 million cases of skin cancer, approximately 2.3 million skin cancer deaths, and more than 63 million cases of cataracts in the United States alone, with even greater benefits worldwide. For additional information, visit the State Department’s website about the Montreal Protocol and Kigali Amendment here.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Welcoming Prisoner Exchanges in Ukraine</title>
 		<link>https://www.state.gov/welcoming-prisoner-exchanges-in-ukraine/</link>
 		
@@ -1481,165 +1646,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>On behalf of the United States of America, I send best wishes to the people of Armenia on your Independence Day. Since Armenia declared independence from the Soviet Union more than 30 years ago, we have seen your commitment to democratic values as well as to developing and strengthening your country’s human rights, rule of law, economy, and justice sector. We are proud to partner with Armenia in these areas as a reflection of our shared values. We will continue to support the Armenian people’s democratic aspirations, sovereignty, and security.</p>
 <p>We appreciate your willingness to support efforts to bring greater stability to the region. We offer our condolences for the lives lost in recent attacks and we remain committed to working with you and other parties to promote a peaceful resolution to the conflict.</p>
 <p>We look forward to continuing to grow our bilateral relationship and economic ties. I wish the Armenian people a prosperous and peaceful year ahead.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Under Secretary Fernandez Convenes I2U2 Counterparts from India, the UAE, and Israel on the Margins of UNGA 77</title>
-		<link>https://www.state.gov/under-secretary-fernandez-convenes-i2u2-counterparts-from-india-the-uae-and-israel-on-the-margins-of-unga-77/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 21 Sep 2022 00:28:24 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=379030</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Under Secretary of State Jose W. Fernandez met today with his I2U2 Group counterparts Indian Minister of External Affairs Economic Relations Secretary Dammu Ravi, Israeli Ministry of Foreign Affairs Director General Alon Ushpiz, and United Arab Emirates Minister of State Ahmed bin Ali Al Sayegh in New York on the margins of the United Nations General Assembly Meeting.</p>
-<p>The group expressed its commitment to deepening the economic partnership among the four countries.  They took stock of current projects in agriculture and clean energy and reviewed potential projects to help further the group’s objectives.  The group looks forward to building on the success of the Leaders’ Summit in July.</p>
-<p><input type="hidden" data-filter="100000000000" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Under Secretary of State Jose W. Fernandez met today with his I2U2 Group counterparts Indian Minister of External Affairs Economic Relations Secretary Dammu Ravi, Israeli Ministry of Foreign Affairs Director General Alon Ushpiz, and United Arab Emirates Minister of State Ahmed bin Ali Al Sayegh in New York on the margins of the United Nations General Assembly Meeting.</p>
-<p>The group expressed its commitment to deepening the economic partnership among the four countries.  They took stock of current projects in agriculture and clean energy and reviewed potential projects to help further the group’s objectives.  The group looks forward to building on the success of the Leaders’ Summit in July.</p>
-<p><input type="hidden" data-filter="100000000000" /></p>
 ]]></content:encoded>
 					
 		
