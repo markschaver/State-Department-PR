@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 21 Sep 2022 19:41:02 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Sep 2022 21:24:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,171 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Joint Statement of Support for Lebanon from the United States, France, and the Kingdom of Saudi Arabia</title>
+		<link>https://www.state.gov/joint-statement-of-support-for-lebanon-from-the-united-states-france-and-the-kingdom-of-saudi-arabia/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Wed, 21 Sep 2022 21:24:22 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=379318</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p><em>Begin Text. </em></p>
+<p>Today, representatives from the United States, France, and the Kingdom of Saudi Arabia met to discuss Lebanon on the margins of the UN General Assembly.  The following statement is attributable to the Ministers of the three countries.</p>
+<p>Our three countries expressed their continuing support for Lebanon’s sovereignty, security, and stability.  As Lebanon’s Parliament prepares to elect a new President, we stress the importance of timely elections in compliance with the constitution.   It is critical to elect a President who can unite the Lebanese people and work with regional and international actors to overcome the current crisis.  We call for the formation of a government capable of implementing the structural and economic reforms urgently needed to address Lebanon’s political and economic crises, specifically those reforms needed to reach an agreement with the International Monetary Fund.</p>
+<p>We are willing to work jointly with Lebanon to support the implementation of these fundamental reform measures, which are critical to the country’s future prosperity, stability, and security.  We acknowledge the critical role the Lebanese Armed Forces and the Internal Security Forces – as the legitimate defenders of Lebanon’s sovereignty and internal stability – continue to play in protecting the Lebanese people in a time of unprecedented crisis.  We affirm the need for the Lebanese government to implement the provisions of UN Security Council resolutions 1559, 1680, 1701, 2650, and other relevant international resolutions, including those issued by the Arab League, and commit to the Taif Agreement which enables the preservation of national unity and civil peace in Lebanon.</p>
+<p><em>End Text.</em></p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p><em>Begin Text. </em></p>
+<p>Today, representatives from the United States, France, and the Kingdom of Saudi Arabia met to discuss Lebanon on the margins of the UN General Assembly.  The following statement is attributable to the Ministers of the three countries.</p>
+<p>Our three countries expressed their continuing support for Lebanon’s sovereignty, security, and stability.  As Lebanon’s Parliament prepares to elect a new President, we stress the importance of timely elections in compliance with the constitution.   It is critical to elect a President who can unite the Lebanese people and work with regional and international actors to overcome the current crisis.  We call for the formation of a government capable of implementing the structural and economic reforms urgently needed to address Lebanon’s political and economic crises, specifically those reforms needed to reach an agreement with the International Monetary Fund.</p>
+<p>We are willing to work jointly with Lebanon to support the implementation of these fundamental reform measures, which are critical to the country’s future prosperity, stability, and security.  We acknowledge the critical role the Lebanese Armed Forces and the Internal Security Forces – as the legitimate defenders of Lebanon’s sovereignty and internal stability – continue to play in protecting the Lebanese people in a time of unprecedented crisis.  We affirm the need for the Lebanese government to implement the provisions of UN Security Council resolutions 1559, 1680, 1701, 2650, and other relevant international resolutions, including those issued by the Arab League, and commit to the Taif Agreement which enables the preservation of national unity and civil peace in Lebanon.</p>
+<p><em>End Text.</em></p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Humanitarian Assistance for Mexico and Central America</title>
 		<link>https://www.state.gov/humanitarian-assistance-for-mexico-and-central-america/</link>
 		
@@ -1485,187 +1650,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p class="x_x_x_western"><strong>PRIME MINISTER MIKATI:</strong> Good evening. Thank you very much, Mr. Secretary, for to give us this opportunity tonight to talk about our problems and to give me this opportunity also to thank the – your administration for all your help and assistance for Lebanon. I know what you are doing directly and indirectly – directly through USAID, through your embassy in Beirut, and all the help done to Lebanon. And indirectly I know that the Lebanese army is in your mind and you are giving great help to the Lebanese army. And the generous, let’s say, donation given by Qatar and other countries that we are looking for (inaudible) for this. So I am, let’s say, delighted to have this meeting and we have certain points to have to raise together, if you don’t mind.</p>
 <p class="x_x_x_western"><strong>SECRETARY BLINKEN:</strong> Thank you.</p>
 <p><input type="hidden" data-filter="100001000101" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Declaration of Leaders’ Summit on Global Food Security</title>
-		<link>https://www.state.gov/declaration-of-leaders-summit-on-global-food-security/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Tue, 20 Sep 2022 23:59:47 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=378927</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>We, the leaders of the Governments of Spain, the United States of America, the African Union, the European Union, Colombia, Germany, Indonesia, and Nigeria, having met on September 20, 2022, affirm our commitment to act with urgency, at scale and in concert, to respond to the urgent food security and nutrition needs of hundreds of millions of people around the world.</p>
-<p>Food systems and global food security are at a critical moment.  The compounded impacts from a global pandemic, growing pressures from the climate crisis, high energy and fertilizer prices, and protracted conflicts, including Russia’s latest invasion of Ukraine have disrupted production and supply chains and dramatically increased global food insecurity, especially for the most vulnerable.</p>
-<p>We can only overcome global food insecurity by working together to create innovative partnerships – including international financial institutions and other key stakeholders – within the global community.  We commit to strengthen international cooperation and partnership initiatives between the United Nations and regional and sub-regional organizations as well as civil society organizations. As of September 20, 2022, over 100 United Nations Member States have endorsed the <a href="https://www.state.gov/chairs-statement-roadmap-for-global-food-security-call-to-action-2/"><em>Roadmap for Global Food Security – Call to Action</em></a>.</p>
-<p>We underscore the need to act with sustained urgency and in coordination to fulfill the goals of the 2021 Food Systems Summit &#8211; as well as to respond to immediate humanitarian needs and build more resilient agriculture and food systems along these seven specific lines of action:</p>
-<ol>
-<li>Make new, additive financial donations to key humanitarian organizations to allow for an increased provision of immediate life-saving humanitarian assistance wherever possible;</li>
-<li>Provide, where possible and as needed, in-kind donations and necessary associated costs to key humanitarian organizations for transportation and delivery of food commodities based on assessed needs by governments of affected countries or humanitarian organizations;</li>
-<li>Keep food, fertilizer, and agricultural markets open and avoid unjustified restrictive measures, such as export bans on food and fertilizer, which increase market volatility and threaten food security and nutrition at a global scale;</li>
-<li>Support an increase of fertilizer production, where possible and as needed, in order to compensate for shortages, accelerate and scale-up fertilizer innovations, support their marketing, and promote methods to maximize fertilizer efficiency</li>
-<li>Accelerate efforts to support sustainable agriculture and food systems, through strengthening agricultural productivity, particularly in the most affected countries to build their resilience and support domestic production, including as appropriate through efforts to support an energy transition that is just and equitable, to make them more resilient and available to producers of all scale, including small holder farmers;</li>
-<li>Increase investments in research and technology to develop and implement science-based and climate-resilient agricultural innovations, including seeds, that contribute to building sustainable and resilient agricultural sectors and food systems; and</li>
-<li>Monitor markets affecting food systems, including futures markets, to ensure full transparency, and to share reliable and timely data and information on global food market developments, especially through the relevant international organizations.</li>
-</ol>
-<p><input type="hidden" data-filter="100001000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>We, the leaders of the Governments of Spain, the United States of America, the African Union, the European Union, Colombia, Germany, Indonesia, and Nigeria, having met on September 20, 2022, affirm our commitment to act with urgency, at scale and in concert, to respond to the urgent food security and nutrition needs of hundreds of millions of people around the world.</p>
-<p>Food systems and global food security are at a critical moment.  The compounded impacts from a global pandemic, growing pressures from the climate crisis, high energy and fertilizer prices, and protracted conflicts, including Russia’s latest invasion of Ukraine have disrupted production and supply chains and dramatically increased global food insecurity, especially for the most vulnerable.</p>
-<p>We can only overcome global food insecurity by working together to create innovative partnerships – including international financial institutions and other key stakeholders – within the global community.  We commit to strengthen international cooperation and partnership initiatives between the United Nations and regional and sub-regional organizations as well as civil society organizations. As of September 20, 2022, over 100 United Nations Member States have endorsed the <a href="https://www.state.gov/chairs-statement-roadmap-for-global-food-security-call-to-action-2/"><em>Roadmap for Global Food Security – Call to Action</em></a>.</p>
-<p>We underscore the need to act with sustained urgency and in coordination to fulfill the goals of the 2021 Food Systems Summit &#8211; as well as to respond to immediate humanitarian needs and build more resilient agriculture and food systems along these seven specific lines of action:</p>
-<ol>
-<li>Make new, additive financial donations to key humanitarian organizations to allow for an increased provision of immediate life-saving humanitarian assistance wherever possible;</li>
-<li>Provide, where possible and as needed, in-kind donations and necessary associated costs to key humanitarian organizations for transportation and delivery of food commodities based on assessed needs by governments of affected countries or humanitarian organizations;</li>
-<li>Keep food, fertilizer, and agricultural markets open and avoid unjustified restrictive measures, such as export bans on food and fertilizer, which increase market volatility and threaten food security and nutrition at a global scale;</li>
-<li>Support an increase of fertilizer production, where possible and as needed, in order to compensate for shortages, accelerate and scale-up fertilizer innovations, support their marketing, and promote methods to maximize fertilizer efficiency</li>
-<li>Accelerate efforts to support sustainable agriculture and food systems, through strengthening agricultural productivity, particularly in the most affected countries to build their resilience and support domestic production, including as appropriate through efforts to support an energy transition that is just and equitable, to make them more resilient and available to producers of all scale, including small holder farmers;</li>
-<li>Increase investments in research and technology to develop and implement science-based and climate-resilient agricultural innovations, including seeds, that contribute to building sustainable and resilient agricultural sectors and food systems; and</li>
-<li>Monitor markets affecting food systems, including futures markets, to ensure full transparency, and to share reliable and timely data and information on global food market developments, especially through the relevant international organizations.</li>
-</ol>
-<p><input type="hidden" data-filter="100001000111" /></p>
 ]]></content:encoded>
 					
 		
