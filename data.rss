@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 22 Sep 2022 15:13:39 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 Sep 2022 16:31:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Humanitarian Assistance to Respond to the Venezuela Regional Crisis</title>
+		<link>https://www.state.gov/humanitarian-assistance-to-respond-to-the-venezuela-regional-crisis/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Thu, 22 Sep 2022 16:31:53 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=379755</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>The United States announced today nearly $376 million in new humanitarian assistance to respond to the needs of vulnerable Venezuelans in Venezuela, Venezuelan refugees and migrants, and their generous host communities across the region.  This announcement makes good on our commitments under the Los Angeles Declaration on Migration and Protection and demonstrates our solidarity with the Venezuelan people and our ongoing commitment to strengthening the international response to this crisis.  This humanitarian assistance includes more than $181 million through the State Department’s Bureau of Population, Refugees, and Migration and more than $194 million through the U.S. Agency for International Development.</p>
+<p>Our assistance supports the most vulnerable among the more than 7 million Venezuelans with critical needs inside Venezuela, the nearly 6.8 million who have sought refuge in 17 countries across the region, and the host communities that have welcomed them.  This new funding brings total U.S. foreign assistance for the response to the Venezuela regional crisis to nearly $2.7 billion since 2017, including more than $2.3 billion in humanitarian assistance, of which nearly $314 million was announced in new humanitarian, health, economic, and development assistance for Venezuelan refugees and vulnerable migrants across the hemisphere at the Ninth Summit of Americas on June 10, 2022.</p>
+<p>With this funding, the United States supports a wide range of life-saving humanitarian programs for Venezuelans, such as food assistance; emergency shelter; access to health care; water, sanitation, and hygiene supplies; support for livelihoods; and protection for vulnerable groups including women, youth, LGBTQI+ individuals, and indigenous people.  U.S. assistance also includes integration support for the communities throughout the region that generously host Venezuelan refugees and migrants.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>The United States announced today nearly $376 million in new humanitarian assistance to respond to the needs of vulnerable Venezuelans in Venezuela, Venezuelan refugees and migrants, and their generous host communities across the region.  This announcement makes good on our commitments under the Los Angeles Declaration on Migration and Protection and demonstrates our solidarity with the Venezuelan people and our ongoing commitment to strengthening the international response to this crisis.  This humanitarian assistance includes more than $181 million through the State Department’s Bureau of Population, Refugees, and Migration and more than $194 million through the U.S. Agency for International Development.</p>
+<p>Our assistance supports the most vulnerable among the more than 7 million Venezuelans with critical needs inside Venezuela, the nearly 6.8 million who have sought refuge in 17 countries across the region, and the host communities that have welcomed them.  This new funding brings total U.S. foreign assistance for the response to the Venezuela regional crisis to nearly $2.7 billion since 2017, including more than $2.3 billion in humanitarian assistance, of which nearly $314 million was announced in new humanitarian, health, economic, and development assistance for Venezuelan refugees and vulnerable migrants across the hemisphere at the Ninth Summit of Americas on June 10, 2022.</p>
+<p>With this funding, the United States supports a wide range of life-saving humanitarian programs for Venezuelans, such as food assistance; emergency shelter; access to health care; water, sanitation, and hygiene supplies; support for livelihoods; and protection for vulnerable groups including women, youth, LGBTQI+ individuals, and indigenous people.  U.S. assistance also includes integration support for the communities throughout the region that generously host Venezuelan refugees and migrants.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Designating Iran’s Morality Police and Seven Officials for Human Rights Abuses in Iran</title>
 		<link>https://www.state.gov/designating-irans-morality-police-and-seven-officials-for-human-rights-abuses-in-iran/</link>
 		
@@ -1488,167 +1649,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
 <p>The United States is providing nearly $200 million in additional humanitarian assistance through international organizations and NGO partners in Mexico and Central America, bringing our total humanitarian assistance for the region since FY 2018 to more than $594 million.</p>
 <p>Our assistance will support the humanitarian and protection needs of refugees, asylum seekers, internally displaced persons, stateless persons, and vulnerable migrants in Mexico and Central America, as well as continuing efforts through international organization and NGO partners to assist governments by providing an array of support across the region.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The United States Publishes Food Security Action Report in Response to Global Food Insecurity</title>
-		<link>https://www.state.gov/the-united-states-publishes-food-security-action-report-in-response-to-global-food-insecurity/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 21 Sep 2022 16:48:31 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=379225</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Today, on the margins of 77th meeting of the UN General Assembly, the White House announced <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjEuNjQwMTg1MzEiLCJ1cmwiOiJodHRwOi8vd3d3LnN0YXRlLmdvdi9Gb29kLVNlY3VyaXR5LUFjdGlvbi1SZXBvcnQifQ.RpTS92iMemkr1emyqQ7Eb275LySAyFbLfWzqABxCkX4/s/1436012980/br/144443181838-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjEuNjQwMTg1MzEiLCJ1cmwiOiJodHRwOi8vd3d3LnN0YXRlLmdvdi9Gb29kLVNlY3VyaXR5LUFjdGlvbi1SZXBvcnQifQ.RpTS92iMemkr1emyqQ7Eb275LySAyFbLfWzqABxCkX4%2Fs%2F1436012980%2Fbr%2F144443181838-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C3a45ba7c8dc54ce4869408da9bece176%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637993738939221925%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=3FDiH1MPhVhnQvPrVSOK07E8A08eSC90Dv3i6aQ9wik%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">the United States’ latest support</a> to strengthen the international response to increased global food insecurity caused by climate change, the supply chain disruptions caused by the pandemic, and armed conflicts, including Russia’s unprovoked war against Ukraine.</p>
-<p>Alongside UN members endorsing the Global Food Security Declaration and the May 2022 <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjEuNjQwMTg1MzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvY2hhaXJzLXN0YXRlbWVudC1yb2FkbWFwLWZvci1nbG9iYWwtZm9vZC1zZWN1cml0eS1jYWxsLXRvLWFjdGlvbi0yLyJ9.rZZRkOqkeEgqaToI2R9FwNo5VM4RBph0EHt8qAV4Av8/s/1436012980/br/144443181838-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjEuNjQwMTg1MzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvY2hhaXJzLXN0YXRlbWVudC1yb2FkbWFwLWZvci1nbG9iYWwtZm9vZC1zZWN1cml0eS1jYWxsLXRvLWFjdGlvbi0yLyJ9.rZZRkOqkeEgqaToI2R9FwNo5VM4RBph0EHt8qAV4Av8%2Fs%2F1436012980%2Fbr%2F144443181838-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C3a45ba7c8dc54ce4869408da9bece176%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637993738939221925%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=OmO6neSrNGQXsMQW9FvnOO8VZvxA4v9ijdOiHJCr8no%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">Global Food Security Roadmap</a>, the United States calls on all governments, non-governmental organizations, and other stakeholders to continue to identify concrete financial, in-kind, or policy contributions that enhance global food security.</p>
-<p>Today, in support of these efforts, the United States released a “Food Security Action Report,” which details actions that the U.S. government has taken since February in support of the actions specified within the Roadmap.  The United States encourages the international community to join in taking stock of the 2022 global food security response.  By voluntarily self-reporting progress in support of the seven actions called for in the Roadmap, the international community may identify additional needs for cooperation on international food security.  By working together, we can increase global food security during this crisis.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Today, on the margins of 77th meeting of the UN General Assembly, the White House announced <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjEuNjQwMTg1MzEiLCJ1cmwiOiJodHRwOi8vd3d3LnN0YXRlLmdvdi9Gb29kLVNlY3VyaXR5LUFjdGlvbi1SZXBvcnQifQ.RpTS92iMemkr1emyqQ7Eb275LySAyFbLfWzqABxCkX4/s/1436012980/br/144443181838-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjEuNjQwMTg1MzEiLCJ1cmwiOiJodHRwOi8vd3d3LnN0YXRlLmdvdi9Gb29kLVNlY3VyaXR5LUFjdGlvbi1SZXBvcnQifQ.RpTS92iMemkr1emyqQ7Eb275LySAyFbLfWzqABxCkX4%2Fs%2F1436012980%2Fbr%2F144443181838-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C3a45ba7c8dc54ce4869408da9bece176%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637993738939221925%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=3FDiH1MPhVhnQvPrVSOK07E8A08eSC90Dv3i6aQ9wik%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">the United States’ latest support</a> to strengthen the international response to increased global food insecurity caused by climate change, the supply chain disruptions caused by the pandemic, and armed conflicts, including Russia’s unprovoked war against Ukraine.</p>
-<p>Alongside UN members endorsing the Global Food Security Declaration and the May 2022 <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjEuNjQwMTg1MzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvY2hhaXJzLXN0YXRlbWVudC1yb2FkbWFwLWZvci1nbG9iYWwtZm9vZC1zZWN1cml0eS1jYWxsLXRvLWFjdGlvbi0yLyJ9.rZZRkOqkeEgqaToI2R9FwNo5VM4RBph0EHt8qAV4Av8/s/1436012980/br/144443181838-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjEuNjQwMTg1MzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvY2hhaXJzLXN0YXRlbWVudC1yb2FkbWFwLWZvci1nbG9iYWwtZm9vZC1zZWN1cml0eS1jYWxsLXRvLWFjdGlvbi0yLyJ9.rZZRkOqkeEgqaToI2R9FwNo5VM4RBph0EHt8qAV4Av8%2Fs%2F1436012980%2Fbr%2F144443181838-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C3a45ba7c8dc54ce4869408da9bece176%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637993738939221925%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=OmO6neSrNGQXsMQW9FvnOO8VZvxA4v9ijdOiHJCr8no%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">Global Food Security Roadmap</a>, the United States calls on all governments, non-governmental organizations, and other stakeholders to continue to identify concrete financial, in-kind, or policy contributions that enhance global food security.</p>
-<p>Today, in support of these efforts, the United States released a “Food Security Action Report,” which details actions that the U.S. government has taken since February in support of the actions specified within the Roadmap.  The United States encourages the international community to join in taking stock of the 2022 global food security response.  By voluntarily self-reporting progress in support of the seven actions called for in the Roadmap, the international community may identify additional needs for cooperation on international food security.  By working together, we can increase global food security during this crisis.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
