@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 23 Sep 2022 21:28:28 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 Sep 2022 21:54:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,173 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Joint Statement on the Situation in Yemen</title>
+		<link>https://www.state.gov/joint-statement-on-the-situation-in-yemen/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Fri, 23 Sep 2022 21:54:14 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=380535</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>On 20 September 2022, ministers and representatives of the Governments of the Kingdom of Saudi Arabia, United Arab Emirates, United States of America and United Kingdom, hereafter referred to as the Quad, met to discuss the situation in Yemen.</p>
+<p>The Quad reaffirmed its strong commitment to the unity, sovereignty, independence, and territorial integrity of Yemen, and its commitment to stand by the people of Yemen through efforts to reach an end to the conflict and the ongoing humanitarian crisis.</p>
+<p>The Quad welcomed the tangible benefits delivered by the truce for the Yemeni people since it commenced on 2 April 2022. They welcomed the continuing implementation of agreed confidence building measures and leadership of the Government of Yemen, including facilitating the flow of fuel into Hudaydah Port despite the Houthis’ order that delayed the established process for clearing ships, and the resumption of flights in and out of Sana’a airport. They called for the implementation of the outstanding measures, including the opening by the Houthis of the main roads around Taiz and an agreement on a joint mechanism for the payment of civil servant salaries. They condemned the Houthis’ large scale military reinforcement and all attacks that threatened to derail the truce including, inter alia, the recent Houthi attacks on Taiz. They also condemned the recent Houthi military parade in Hudaydah, in violation of the Hudaydah Agreement.</p>
+<p>They emphasized the need to consolidate and build on this progress, which requires compromise by all parties. The Quad therefore fully supported the efforts of the UN Special Envoy, Hans Grundberg, to extend and expand the truce on 2 October 2022, in addition to the full implementation of all terms of the truce. The Quad agreed that a permanent ceasefire and a durable political settlement must be the ultimate objectives of the Yemeni-led and Yemeni-owned political process, under UN auspices, and that such a settlement must be based on the agreed references and relevant UN Security Council resolutions.</p>
+<p>The Quad reaffirmed their support to the Presidential Leadership Council (PLC), stressed the importance of PLC cohesion, and welcomed the PLC’s commitment to improving basic services and economic stability.</p>
+<p>The Quad agreed to meet regularly, to discuss both Yemen and broader regional security issues.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>On 20 September 2022, ministers and representatives of the Governments of the Kingdom of Saudi Arabia, United Arab Emirates, United States of America and United Kingdom, hereafter referred to as the Quad, met to discuss the situation in Yemen.</p>
+<p>The Quad reaffirmed its strong commitment to the unity, sovereignty, independence, and territorial integrity of Yemen, and its commitment to stand by the people of Yemen through efforts to reach an end to the conflict and the ongoing humanitarian crisis.</p>
+<p>The Quad welcomed the tangible benefits delivered by the truce for the Yemeni people since it commenced on 2 April 2022. They welcomed the continuing implementation of agreed confidence building measures and leadership of the Government of Yemen, including facilitating the flow of fuel into Hudaydah Port despite the Houthis’ order that delayed the established process for clearing ships, and the resumption of flights in and out of Sana’a airport. They called for the implementation of the outstanding measures, including the opening by the Houthis of the main roads around Taiz and an agreement on a joint mechanism for the payment of civil servant salaries. They condemned the Houthis’ large scale military reinforcement and all attacks that threatened to derail the truce including, inter alia, the recent Houthi attacks on Taiz. They also condemned the recent Houthi military parade in Hudaydah, in violation of the Hudaydah Agreement.</p>
+<p>They emphasized the need to consolidate and build on this progress, which requires compromise by all parties. The Quad therefore fully supported the efforts of the UN Special Envoy, Hans Grundberg, to extend and expand the truce on 2 October 2022, in addition to the full implementation of all terms of the truce. The Quad agreed that a permanent ceasefire and a durable political settlement must be the ultimate objectives of the Yemeni-led and Yemeni-owned political process, under UN auspices, and that such a settlement must be based on the agreed references and relevant UN Security Council resolutions.</p>
+<p>The Quad reaffirmed their support to the Presidential Leadership Council (PLC), stressed the importance of PLC cohesion, and welcomed the PLC’s commitment to improving basic services and economic stability.</p>
+<p>The Quad agreed to meet regularly, to discuss both Yemen and broader regional security issues.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>United States Representative to the United Nations Ambassador Linda Thomas-Greenfield at the COVID Global Action Plan Ministerial Meeting</title>
 		<link>https://www.state.gov/united-states-representative-to-the-united-nations-ambassador-linda-thomas-greenfield-at-the-covid-global-action-plan-ministerial-meeting/</link>
 		
@@ -1675,171 +1842,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The P5+4 underlined their willingness to ramp up their support through additional financial assistance and technical expertise for economic recovery, stabilization and peacebuilding initiatives, as well as improved public service provision across all of Yemen if there is substantial progress towards a political process under UN auspices. They called on others to join them in doing so.</p>
 <p>The P5+4 decided to continue meeting regularly at different levels.</p>
 <p><input type="hidden" data-filter="100001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Blinken With Foreign Ministers of the Gulf Cooperation Council Nations, Egypt, Iraq, Jordan, and Yemen</title>
-		<link>https://www.state.gov/secretary-blinken-with-foreign-ministers-of-the-gulf-cooperation-council-nations-egypt-iraq-jordan-and-yemen/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 23 Sep 2022 15:35:50 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=380265</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>New York, New York</p>
-<p>Palace Hotel</p>
-<p><span><strong>SECRETARY BLINKEN:  </strong></span><span>Well, good morning everyone.  It is wonderful to see so many friends and colleagues here this morning.  I just want to thank everyone for coming.  </span><span></span></p>
-<p><span>Just a couple months ago, the President outlined in the Middle East, in Jeddah, the enduring importance of the Middle East to the United States.  We are working together to solve shared regional and global challenges.  We’re trying to bring enduring peace to Yemen, to dealing with the challenges posed by Iran, to grappling with food insecurity, among many, many other issues.   </span><span></span></p>
-<p><span>As you heard the President say, the United States is invested and committed to our partnerships and to our friendships.  I think this morning is further evidence of that.  We have a broad and deep agenda, and we’ll probably just scratch the surface of the many things that we’re working on together.  But it’s very important that we do so, and I’m grateful to all our colleagues for being here. </span><span></span></p>
-<p><span>Thank you very much.</span></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>New York, New York</p>
-<p>Palace Hotel</p>
-<p><span><strong>SECRETARY BLINKEN:  </strong></span><span>Well, good morning everyone.  It is wonderful to see so many friends and colleagues here this morning.  I just want to thank everyone for coming.  </span><span></span></p>
-<p><span>Just a couple months ago, the President outlined in the Middle East, in Jeddah, the enduring importance of the Middle East to the United States.  We are working together to solve shared regional and global challenges.  We’re trying to bring enduring peace to Yemen, to dealing with the challenges posed by Iran, to grappling with food insecurity, among many, many other issues.   </span><span></span></p>
-<p><span>As you heard the President say, the United States is invested and committed to our partnerships and to our friendships.  I think this morning is further evidence of that.  We have a broad and deep agenda, and we’ll probably just scratch the surface of the many things that we’re working on together.  But it’s very important that we do so, and I’m grateful to all our colleagues for being here. </span><span></span></p>
-<p><span>Thank you very much.</span></p>
 ]]></content:encoded>
 					
 		
