@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 23 Sep 2022 01:03:17 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 Sep 2022 01:12:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Signing Statement for the International Partnership for Information and Democracy</title>
+		<link>https://www.state.gov/signing-statement-for-the-international-partnership-for-information-and-democracy/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Fri, 23 Sep 2022 01:12:41 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=380031</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The United States is pleased to announce that it is joining the International Partnership for Information and Democracy. We look forward to working with the other partners on promoting and implementing democratic principles in the global information and communication space.</p>
+<p>We applaud the International Partnership for Information and Democracy’s emphasis on respecting human rights and the rule of law, including the protection of freedom of expression. The United States recognizes the importance of protecting the freedom of individuals to seek, receive, and impart information through media of their choice. Further, given the immense variation in the character, purpose, and size of the many online service providers around the world, the United States recognizes that their policies will naturally vary across platforms. As a participant in the Partnership, the United States will act consistently with our domestic legal framework, including the Constitutional protections for speech and association under the First Amendment and from unreasonable searches under the Fourth Amendment. We note that our joining the Partnership does not constitute an endorsement of the Declaration on Information and Democracy.<br aria-hidden="true" /><br aria-hidden="true" />We will continue to collaborate with other governments and online service providers on a voluntary basis to support their efforts to counter disinformation online while respecting human rights and fundamental freedoms. We note the responsibility of technology companies to respect human rights, including freedom of expression, and the importance of transparency and equal treatment with regard to the application of their terms of service. We equally note the critical role of civil society in their engagement on these efforts.<br aria-hidden="true" /><br aria-hidden="true" />We welcome the important momentum that the International Partnership for Information and Democracy has generated and look forward to continuing our work with government, technology sector partners, civil society, and other relevant stakeholders to mitigate the exploitation of the Internet while ensuring it remains open, free, global, interoperable, reliable, and secure.</p>
+<p><input type="hidden" data-filter="000000000000" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The United States is pleased to announce that it is joining the International Partnership for Information and Democracy. We look forward to working with the other partners on promoting and implementing democratic principles in the global information and communication space.</p>
+<p>We applaud the International Partnership for Information and Democracy’s emphasis on respecting human rights and the rule of law, including the protection of freedom of expression. The United States recognizes the importance of protecting the freedom of individuals to seek, receive, and impart information through media of their choice. Further, given the immense variation in the character, purpose, and size of the many online service providers around the world, the United States recognizes that their policies will naturally vary across platforms. As a participant in the Partnership, the United States will act consistently with our domestic legal framework, including the Constitutional protections for speech and association under the First Amendment and from unreasonable searches under the Fourth Amendment. We note that our joining the Partnership does not constitute an endorsement of the Declaration on Information and Democracy.<br aria-hidden="true" /><br aria-hidden="true" />We will continue to collaborate with other governments and online service providers on a voluntary basis to support their efforts to counter disinformation online while respecting human rights and fundamental freedoms. We note the responsibility of technology companies to respect human rights, including freedom of expression, and the importance of transparency and equal treatment with regard to the application of their terms of service. We equally note the critical role of civil society in their engagement on these efforts.<br aria-hidden="true" /><br aria-hidden="true" />We welcome the important momentum that the International Partnership for Information and Democracy has generated and look forward to continuing our work with government, technology sector partners, civil society, and other relevant stakeholders to mitigate the exploitation of the Internet while ensuring it remains open, free, global, interoperable, reliable, and secure.</p>
+<p><input type="hidden" data-filter="000000000000" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>High-level FSO Safer Side Event Co-hosted by the Netherlands, the United States and Germany: Funding Gap Closed for First Stage of Salvage Operation</title>
 		<link>https://www.state.gov/high-level-fso-safer-side-event-co-hosted-by-the-netherlands-the-united-states-and-germany-funding-gap-closed-for-first-stage-of-salvage-operation/</link>
 		
@@ -1634,173 +1793,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The Plenipotentiary is held every four years to elect ITU leadership, adopt its four-year strategic and financial plans, and to debate telecommunication and information and communication technology policies and priorities.  Among the leadership positions to be elected at PP-22 is the ITU Secretary-General.  A U.S. delegation priority for PP-22 is to underscore to ITU member states the United States’ strong support for the candidacy of Doreen Bogdan-Martin. Ms. Bogdan-Martin is uniquely qualified for this important role and would bring to the Secretary-General position an unmatched record of inclusive and transformational leadership in bridging digital divides to connect the 2.7 billion people globally who do not have access to the Internet.</p>
 <p>For more information on Ms. Bogdan-Martin&#8217;s campaign, visit <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjIuNjQwODg4NjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvZG9yZWVuLWJvZ2Rhbi1tYXJ0aW4taXR1LXNlY3JldGFyeS1nZW5lcmFsLWNhbmRpZGF0ZS8ifQ.JsExvvMsAE8H_NiooaPZvqM6nJAzECYfLY-hpOOB_1I/s/1436012980/br/144547045623-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjIuNjQwODg4NjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvZG9yZWVuLWJvZ2Rhbi1tYXJ0aW4taXR1LXNlY3JldGFyeS1nZW5lcmFsLWNhbmRpZGF0ZS8ifQ.JsExvvMsAE8H_NiooaPZvqM6nJAzECYfLY-hpOOB_1I%2Fs%2F1436012980%2Fbr%2F144547045623-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C9d2a2ceb21ed473b43f708da9cccb1e3%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637994700220346270%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=II3L9gA3zIcXdDBE0%2B49pII08wHSff0JlFEKArSEg4M%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">https://www.state.gov/doreen-bogdan-martin-itu-secretary-general-candidate/</a></p>
 <p>For updates on PP22, follow @State_IO on Twitter.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Minerals Security Partnership Convening Supports Robust Supply Chains for Clean Energy Technologies</title>
-		<link>https://www.state.gov/minerals-security-partnership-convening-supports-robust-supply-chains-for-clean-energy-technologies/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Thu, 22 Sep 2022 19:55:16 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=379846</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The United States convened Minerals Security Partnership (MSP) partners and key minerals-rich countries to discuss priorities, challenges, and opportunities in responsible mining, processing, and recycling of critical minerals. Secretary Antony Blinken opened the meeting, held in New York City on the margins of the United Nations General Assembly High-Level Week.</p>
-<p>First announced in June 2022, the MSP is a new multilateral initiative to bolster critical mineral supply chains essential for the clean energy transition.  The MSP aims to ensure that critical minerals are produced, processed, and recycled in a manner that supports countries in realizing the full economic development potential of their mineral resources.  The MSP will attract public and private investment, increase transparency, and promote high Environmental, Social, and Governance (ESG) standards throughout critical minerals supply chains.</p>
-<p>MSP partners participating in the meeting included:  Australia, Canada, Finland, France, Japan, the Republic of Korea, Norway, Sweden, the United Kingdom, the United States, and the European Union.  Additional minerals-rich countries in attendance included Argentina, Brazil, the Democratic Republic of the Congo, Mongolia, Mozambique, Namibia, Tanzania, and Zambia.</p>
-<p>The MSP is currently considering promising critical minerals projects that could be of interest to one or more MSP partners, promoting innovation, developing a joint approach on ESG standards, and engaging both project operators and minerals-producing countries.</p>
-<p>Demand for critical minerals, which are essential for clean energy and other technologies, is projected to expand significantly in the coming decades.  Transparent, open, predictable, secure, and sustainable supply chains for critical minerals are vital to deploying these technologies at the speed and scale necessary to combat climate change effectively.</p>
-<p>For further media information, please contact <a href="mailto:ENR-PD-Clearances@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">ENR-PD-Clearances@state.gov</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The United States convened Minerals Security Partnership (MSP) partners and key minerals-rich countries to discuss priorities, challenges, and opportunities in responsible mining, processing, and recycling of critical minerals. Secretary Antony Blinken opened the meeting, held in New York City on the margins of the United Nations General Assembly High-Level Week.</p>
-<p>First announced in June 2022, the MSP is a new multilateral initiative to bolster critical mineral supply chains essential for the clean energy transition.  The MSP aims to ensure that critical minerals are produced, processed, and recycled in a manner that supports countries in realizing the full economic development potential of their mineral resources.  The MSP will attract public and private investment, increase transparency, and promote high Environmental, Social, and Governance (ESG) standards throughout critical minerals supply chains.</p>
-<p>MSP partners participating in the meeting included:  Australia, Canada, Finland, France, Japan, the Republic of Korea, Norway, Sweden, the United Kingdom, the United States, and the European Union.  Additional minerals-rich countries in attendance included Argentina, Brazil, the Democratic Republic of the Congo, Mongolia, Mozambique, Namibia, Tanzania, and Zambia.</p>
-<p>The MSP is currently considering promising critical minerals projects that could be of interest to one or more MSP partners, promoting innovation, developing a joint approach on ESG standards, and engaging both project operators and minerals-producing countries.</p>
-<p>Demand for critical minerals, which are essential for clean energy and other technologies, is projected to expand significantly in the coming decades.  Transparent, open, predictable, secure, and sustainable supply chains for critical minerals are vital to deploying these technologies at the speed and scale necessary to combat climate change effectively.</p>
-<p>For further media information, please contact <a href="mailto:ENR-PD-Clearances@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">ENR-PD-Clearances@state.gov</a>.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
