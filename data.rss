@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Sat, 24 Sep 2022 14:34:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Sep 2022 00:18:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Welcoming the Release of Political Prisoners in Belarus</title>
+		<link>https://www.state.gov/welcoming-the-release-of-political-prisoners-in-belarus/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Mon, 26 Sep 2022 00:18:01 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=380734</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>The United States welcomes the release of several political prisoners in Belarus including Aleh Hurzdzilovich, a Radio Free Europe/Radio Liberty journalist.</p>
+<p>While the release of these political prisoners is a step in the right direction, too many political prisoners remain behind bars in Belarus.  We call for the immediate and unconditional release of all political prisoners.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>The United States welcomes the release of several political prisoners in Belarus including Aleh Hurzdzilovich, a Radio Free Europe/Radio Liberty journalist.</p>
+<p>While the release of these political prisoners is a step in the right direction, too many political prisoners remain behind bars in Belarus.  We call for the immediate and unconditional release of all political prisoners.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Assistant Secretary Stewart Travels to Vienna, September 27-29</title>
 		<link>https://www.state.gov/assistant-secretary-stewart-travels-to-vienna-september-27-29/</link>
 		
@@ -1559,185 +1718,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The Quad reaffirmed their support to the Presidential Leadership Council (PLC), stressed the importance of PLC cohesion, and welcomed the PLC’s commitment to improving basic services and economic stability.</p>
 <p>The Quad agreed to meet regularly, to discuss both Yemen and broader regional security issues.</p>
 <p><input type="hidden" data-filter="100001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>United States Representative to the United Nations Ambassador Linda Thomas-Greenfield at the COVID Global Action Plan Ministerial Meeting</title>
-		<link>https://www.state.gov/united-states-representative-to-the-united-nations-ambassador-linda-thomas-greenfield-at-the-covid-global-action-plan-ministerial-meeting/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 23 Sep 2022 20:49:49 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=380431</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>New York City, New York</p>
-<p>Palace Hotel</p>
-<p><strong>AMBASSADOR THOMAS-GREENFIELD:  </strong>Good afternoon and welcome, everyone, to today’s ministerial on the COVID-19 Global Action Plan.  Sadly, as some of you may know, Secretary Blinken’s father just passed away, so he is not able to join us today.  He very much wanted to be here, and he sends his best.  And I know all of us are sending him our best and our condolences during his time of mourning.  It is really my honor to represent the United States today in his stead.</p>
-<p>To our co-host, Foreign Minister Albares Bueno; Foreign Minister Kwape; and Foreign Minister Momen, thank you for your partnership.  To everyone joining us today, thank you for your continued dedication to ending the acute phase of the COVID-19 pandemic and thank you for working to strengthen our global health systems so we can better prevent, detect, and respond to future health threats.</p>
-<p>Since we launched the Global Action Plan seven months ago, we’ve made significant progress toward our goals.  Consider vaccinations:  Last September, only 13 percent of the people in lower-middle-income countries were vaccinated against COVID-19.  Today, that number has more than quadrupled to 56 percent.  For our part, the United States has provided more than 620 million vaccine doses to 116 countries and economies, all with no strings attached.  So many of you have helped contribute to the vaccination efforts too, but we still have more work to do to address the equity gap in global vaccinations and protect people at risk of severe illness.</p>
-<p>To close that gap, this pandemic taught us the importance of expanding access to critical medical supplies.  We need to shift COVID-19 care from being offered primarily in emergency facilities.  That care should be integrated into routine services.  That will make vaccines, therapeutics, and diagnostics more accessible.  Similarly, we have to close gaps in our global health infrastructure.</p>
-<p>Today, I am proud to announce three new initiatives that will help us close that gap and make more – make care more equitable around the world.  First, I am pleased to announce today that USAID with the Global Fund and other partners will launch test-to-treat pilot programs in ten countries.</p>
-<p>These programs will help people get screened for COVID-19 when they have symptoms and receive antiviral medications if they test positive.  These programs will also help people avoid severe illness, reduce hospitalizations, and save lives.  USAID will work with governments, public health experts, and civil society to make this happen.  As we implement these programs, we will track lessons learned with our foreign partners.  And we’ll share these lessons with countries around the world, including our providers in the United States.</p>
-<p>Second, we’re improving access to medical oxygen.  Medical oxygen is critical for treating patients with severe COVID-19, and it will help to prepare for health crises to come.  Since the pandemic began, oxygen supplies have been put under strain around the world.  And even before the pandemic, only roughly half – half – of inpatient facilities in Africa had reliable access to medical oxygen.</p>
-<p>The United States has committed $50 million to tackle this problem.  That includes purchasing oxygen, installing storage tanks, and upgrading the physical infrastructure for delivering oxygen, like the piping that brings it to the patients’ bedsides.  We’re also helping lower the cost of oxygen for governments across Africa, where prices can be ten times higher than in the United States.  We’re starting with nine governments, supporting their negotiations with the private sector to develop market-based approaches.  Increasing access to affordable oxygen will also support other global health programs like those that address child and adult pneumonia, safe birth, safe surgery, and new infectious disease outbreaks.</p>
-<p>Third and finally, we’re establishing an implementation group to improve global health access to medical supplies and services through the global clearinghouse mechanism.  Our hope is to make supply chains more resilient, efficient, and equitable.  And we’ve seen throughout this pandemic access to these essential supplies can mean the difference between life and death.</p>
-<p>So together with our GAP partners, the public sector, and the private sector, we will set up a new platform.  This platform will bring together countries, medical supply manufacturers, critical components producers, and large procurement agencies.  Our goal will be clear: to match surpluses in supplies with those who need them when they need them.  We’re aiming to launch this platform next year, and we’re hoping other countries will join us.  These efforts are only the latest ways we’re combating COVID-19 and building more resilient global health systems.  So let’s continue to work together and let’s do everything in our power to make the world safer, to make the world healthier, and free from pandemics for all.  Thank you very much.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>New York City, New York</p>
-<p>Palace Hotel</p>
-<p><strong>AMBASSADOR THOMAS-GREENFIELD:  </strong>Good afternoon and welcome, everyone, to today’s ministerial on the COVID-19 Global Action Plan.  Sadly, as some of you may know, Secretary Blinken’s father just passed away, so he is not able to join us today.  He very much wanted to be here, and he sends his best.  And I know all of us are sending him our best and our condolences during his time of mourning.  It is really my honor to represent the United States today in his stead.</p>
-<p>To our co-host, Foreign Minister Albares Bueno; Foreign Minister Kwape; and Foreign Minister Momen, thank you for your partnership.  To everyone joining us today, thank you for your continued dedication to ending the acute phase of the COVID-19 pandemic and thank you for working to strengthen our global health systems so we can better prevent, detect, and respond to future health threats.</p>
-<p>Since we launched the Global Action Plan seven months ago, we’ve made significant progress toward our goals.  Consider vaccinations:  Last September, only 13 percent of the people in lower-middle-income countries were vaccinated against COVID-19.  Today, that number has more than quadrupled to 56 percent.  For our part, the United States has provided more than 620 million vaccine doses to 116 countries and economies, all with no strings attached.  So many of you have helped contribute to the vaccination efforts too, but we still have more work to do to address the equity gap in global vaccinations and protect people at risk of severe illness.</p>
-<p>To close that gap, this pandemic taught us the importance of expanding access to critical medical supplies.  We need to shift COVID-19 care from being offered primarily in emergency facilities.  That care should be integrated into routine services.  That will make vaccines, therapeutics, and diagnostics more accessible.  Similarly, we have to close gaps in our global health infrastructure.</p>
-<p>Today, I am proud to announce three new initiatives that will help us close that gap and make more – make care more equitable around the world.  First, I am pleased to announce today that USAID with the Global Fund and other partners will launch test-to-treat pilot programs in ten countries.</p>
-<p>These programs will help people get screened for COVID-19 when they have symptoms and receive antiviral medications if they test positive.  These programs will also help people avoid severe illness, reduce hospitalizations, and save lives.  USAID will work with governments, public health experts, and civil society to make this happen.  As we implement these programs, we will track lessons learned with our foreign partners.  And we’ll share these lessons with countries around the world, including our providers in the United States.</p>
-<p>Second, we’re improving access to medical oxygen.  Medical oxygen is critical for treating patients with severe COVID-19, and it will help to prepare for health crises to come.  Since the pandemic began, oxygen supplies have been put under strain around the world.  And even before the pandemic, only roughly half – half – of inpatient facilities in Africa had reliable access to medical oxygen.</p>
-<p>The United States has committed $50 million to tackle this problem.  That includes purchasing oxygen, installing storage tanks, and upgrading the physical infrastructure for delivering oxygen, like the piping that brings it to the patients’ bedsides.  We’re also helping lower the cost of oxygen for governments across Africa, where prices can be ten times higher than in the United States.  We’re starting with nine governments, supporting their negotiations with the private sector to develop market-based approaches.  Increasing access to affordable oxygen will also support other global health programs like those that address child and adult pneumonia, safe birth, safe surgery, and new infectious disease outbreaks.</p>
-<p>Third and finally, we’re establishing an implementation group to improve global health access to medical supplies and services through the global clearinghouse mechanism.  Our hope is to make supply chains more resilient, efficient, and equitable.  And we’ve seen throughout this pandemic access to these essential supplies can mean the difference between life and death.</p>
-<p>So together with our GAP partners, the public sector, and the private sector, we will set up a new platform.  This platform will bring together countries, medical supply manufacturers, critical components producers, and large procurement agencies.  Our goal will be clear: to match surpluses in supplies with those who need them when they need them.  We’re aiming to launch this platform next year, and we’re hoping other countries will join us.  These efforts are only the latest ways we’re combating COVID-19 and building more resilient global health systems.  So let’s continue to work together and let’s do everything in our power to make the world safer, to make the world healthier, and free from pandemics for all.  Thank you very much.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
 ]]></content:encoded>
 					
 		
