@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Tue, 27 Sep 2022 02:20:50 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Sep 2022 12:47:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Passport Preparedness for Future Travel</title>
+		<link>https://www.state.gov/passport-preparedness-for-future-travel/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Tue, 27 Sep 2022 12:47:21 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=381438</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>As the busy summer travel season ends, the U.S. Department of State encourages U.S. travelers to assess their passport needs now ahead of any future holiday travel and trips in 2023. Maintaining a valid passport for both adults and children reduces the risk of missing a trip and prepares travelers for last-minute travel opportunities. The Department encourages U.S. citizens to stay prepared by knowing their passport’s expiration date and applying well before travel.</p>
+<p>The Department has issued 17.9 million passport books and cards this year. Applying in the fall or winter allows for faster routine processing due to lower seasonal demand. Travelers should plan ahead and apply for their passports early to avoid the stress and extra cost for expedited processing. With timely effort, applicants also avoid the need for last-minute appointments at regional passport agencies, which become increasingly difficult to obtain when demand is high.</p>
+<p>Many countries require passports to be valid for at least six months after arrival abroad. In most cases, passengers will not be allowed to board an international flight departing the United States if they do not have the required amount of validity remaining on their passports. We recommend renewing a passport when there is one year of validity remaining.</p>
+<p>For more information on how or where to apply, please visit <a href="https://Travel.State.Gov/passports" target="_blank" rel="noopener">Travel.State.Gov</a> and follow @TravelGov on Twitter, Facebook, and Instagram.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>As the busy summer travel season ends, the U.S. Department of State encourages U.S. travelers to assess their passport needs now ahead of any future holiday travel and trips in 2023. Maintaining a valid passport for both adults and children reduces the risk of missing a trip and prepares travelers for last-minute travel opportunities. The Department encourages U.S. citizens to stay prepared by knowing their passport’s expiration date and applying well before travel.</p>
+<p>The Department has issued 17.9 million passport books and cards this year. Applying in the fall or winter allows for faster routine processing due to lower seasonal demand. Travelers should plan ahead and apply for their passports early to avoid the stress and extra cost for expedited processing. With timely effort, applicants also avoid the need for last-minute appointments at regional passport agencies, which become increasingly difficult to obtain when demand is high.</p>
+<p>Many countries require passports to be valid for at least six months after arrival abroad. In most cases, passengers will not be allowed to board an international flight departing the United States if they do not have the required amount of validity remaining on their passports. We recommend renewing a passport when there is one year of validity remaining.</p>
+<p>For more information on how or where to apply, please visit <a href="https://Travel.State.Gov/passports" target="_blank" rel="noopener">Travel.State.Gov</a> and follow @TravelGov on Twitter, Facebook, and Instagram.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Antony J. Blinken with Pakistani Foreign Minister Bilawal Bhutto Zardari to Commemorate the 75th Anniversary of U.S.-Pakistan Relations</title>
 		<link>https://www.state.gov/secretary-antony-j-blinken-with-pakistani-foreign-minister-bilawal-bhutto-zardari-to-commemorate-the-75th-anniversary-of-u-s-pakistan-relations/</link>
 		
@@ -1980,185 +2141,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The United States’ Western Balkans sanctions program targets individuals and entities that undermine or threaten the postwar agreements and institutions established as part of the hard-won peace and Dayton Peace Agreement. BiH is facing its most serious political crisis since 1995, constrained by ethno-nationalist political parties that exploit patronage networks to retain power and wealth. Moreover, the country’s justice system is increasingly captured by, and under the control of, political parties and their patronage networks.</p>
 <p>The United States will continue to use all authorities at its disposal to promote accountability for those who engage in corrupt activities or undermine BiH’s democratic processes and institutions.</p>
 <p>For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjYuNjQyMzg1MTEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankwOTc1In0.v_G01PjPQZcQVCreUJdk0IWocWQIj2o3IatPugV8e0E/s/2576317770/br/144721748315-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MjYuNjQyMzg1MTEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankwOTc1In0.v_G01PjPQZcQVCreUJdk0IWocWQIj2o3IatPugV8e0E%2Fs%2F2576317770%2Fbr%2F144721748315-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7C4fb5b6f6fd014548624908da9fdc54bf%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637998065906729832%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=Lxh80imesgWhWO5%2F3JJMCLxyxw337733y%2FSc2Gpb3UI%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken and Belizean Prime Minister John Briceño Before Their Meeting</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-and-belizean-prime-minister-john-briceno-before-their-meeting/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Mon, 26 Sep 2022 17:00:47 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=380976</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, DC</p>
-<p>Treaty Room</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Good morning, everyone.  It’s a real pleasure to have Prime Minister Briceño here from Belize.  We have a lot to cover, but I’m really gratified that you’ve taken the time to come to the State Department.</p>
-<p>Belize is a strong partner for the United States on so many issues of mutual concern.  We are following up together on the very important meeting that President Biden and Vice President Harris had with CARICOM and the leaders of CARICOM at the Summit of the Americas, working on a strong agenda together on climate, on energy, on food security, on finance.  And I look forward to sharing some of the progress that we’ve made with the prime minister.</p>
-<p>As well I should say congratulations on your recent independence day, September 21st.  But also we appreciate so much Belize’s strong voice on global issues, including, for example, on the Russian aggression against Ukraine, as well as its strong ties to Taiwan.</p>
-<p>So Prime Minister, welcome.  Very good to have you here.</p>
-<p><strong>PRIME MINISTER BRICEÑO:</strong>  Well, thank you very much, Secretary of State Blinken, and thank you very much for inviting us over here at your office.  As we all know that the United States and Belize have had very close, strong, and warm relations over the past 41 years; we just celebrated our 41st anniversary, our independence, on last week, Wednesday.</p>
-<p>And you are right that there are so many issues that both countries, we need to address.  The issue of climate change was – it’s almost, like, an existential threat for small countries like Belize that have a low-lying coastline, but it’s also affecting big countries like yourself, developed countries where in areas you have droughts and other areas you have excessive rains.  And it is something that has to be addressed by all of us, not by individuals.  And Belize continues to have a stellar record when it comes to the protection of its environment.  We have just signed an agreement with The Nature Conservancy, and we are going to protect 30 percent of our ocean space by 2026, four years ahead of schedule.</p>
-<p>And certainly the other issues of migration, of the war in Ukraine – where we strongly condemn the actions of Russia – issues of migration, and also strengthening democracy in our region.</p>
-<p>So thank you, Secretary, for inviting myself and my team to your office.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.  Thanks, everyone.</p>
-<p><strong>PRIME MINISTER BRICEÑO:</strong>  Thanks.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, DC</p>
-<p>Treaty Room</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Good morning, everyone.  It’s a real pleasure to have Prime Minister Briceño here from Belize.  We have a lot to cover, but I’m really gratified that you’ve taken the time to come to the State Department.</p>
-<p>Belize is a strong partner for the United States on so many issues of mutual concern.  We are following up together on the very important meeting that President Biden and Vice President Harris had with CARICOM and the leaders of CARICOM at the Summit of the Americas, working on a strong agenda together on climate, on energy, on food security, on finance.  And I look forward to sharing some of the progress that we’ve made with the prime minister.</p>
-<p>As well I should say congratulations on your recent independence day, September 21st.  But also we appreciate so much Belize’s strong voice on global issues, including, for example, on the Russian aggression against Ukraine, as well as its strong ties to Taiwan.</p>
-<p>So Prime Minister, welcome.  Very good to have you here.</p>
-<p><strong>PRIME MINISTER BRICEÑO:</strong>  Well, thank you very much, Secretary of State Blinken, and thank you very much for inviting us over here at your office.  As we all know that the United States and Belize have had very close, strong, and warm relations over the past 41 years; we just celebrated our 41st anniversary, our independence, on last week, Wednesday.</p>
-<p>And you are right that there are so many issues that both countries, we need to address.  The issue of climate change was – it’s almost, like, an existential threat for small countries like Belize that have a low-lying coastline, but it’s also affecting big countries like yourself, developed countries where in areas you have droughts and other areas you have excessive rains.  And it is something that has to be addressed by all of us, not by individuals.  And Belize continues to have a stellar record when it comes to the protection of its environment.  We have just signed an agreement with The Nature Conservancy, and we are going to protect 30 percent of our ocean space by 2026, four years ahead of schedule.</p>
-<p>And certainly the other issues of migration, of the war in Ukraine – where we strongly condemn the actions of Russia – issues of migration, and also strengthening democracy in our region.</p>
-<p>So thank you, Secretary, for inviting myself and my team to your office.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.  Thanks, everyone.</p>
-<p><strong>PRIME MINISTER BRICEÑO:</strong>  Thanks.</p>
 <p><input type="hidden" data-filter="111000000111" /></p>
 ]]></content:encoded>
 					
