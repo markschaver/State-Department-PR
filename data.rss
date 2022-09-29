@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 29 Sep 2022 16:41:15 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 Sep 2022 17:22:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>TechWomen Gets Underway,  As Second Decade of Mentorship Exchange Begins</title>
+		<link>https://www.state.gov/techwomen-gets-underway-as-second-decade-of-mentorship-exchange-begins/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Thu, 29 Sep 2022 17:07:35 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=382575</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>Leveraging technology as a vehicle for progress and change, the U.S. Department of State’s Bureau of Educational and Cultural Affairs announced today that the newest cohort of 104 international TechWomen have arrived in the United States to begin their mentorship program with professional women leaders at U.S.-based science and technology companies in Silicon Valley and the San Francisco Bay area.  TechWomen, the Department’s premier exchange program for women in STEM, was an answer to former President Barack Obama’s 2009 speech that called for a ‘New Beginning’ between the U.S. and the Muslim world, with a focus on increased engagement in science, technology, engineering, and mathematics (STEM).  Since its inception in 2012, across three presidential administrations and five Secretaries of State, TechWomen has expanded beyond the Middle East and North African region to include Southeast Asian and Sub-Saharan African nations.</p>
+<p>For the next four weeks, these international TechWomen will be paired with U.S. women in STEM fields at technology companies for a mentoring program that results in action plans that are implemented upon their return to their home country.  For example, TechWomen from Lebanon developed science-based groundwater quality management policy and sanitation guidelines for accessing safe water to address the water crisis in parts of the country.  A TechWomen participant from Kenya created a firm that brings green energy products to off-grid communities in the country.  Her company uses innovative roofing tiles that serve a dual function, both roofing and powering homes that did not otherwise have access to electricity.</p>
+<p>In addition to this year’s mentoring program, the Department will utilize the power to convene to bring together nearly 1,000 women in technology on October 20 in San Francisco to celebrate the first 10 years of TechWomen, as well as look forward to the decade ahead.  TechWomen will conclude their five-week mentorship and cultural exchange in Washington, DC, on October 27.</p>
+<p>For more information, please contact the Bureau of Educational and Cultural Affairs at <a href="mailto:ECA-Press@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="0">ECA-Press@state.gov</a> and join the conversation on Twitter at #TechWomen22.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>Leveraging technology as a vehicle for progress and change, the U.S. Department of State’s Bureau of Educational and Cultural Affairs announced today that the newest cohort of 104 international TechWomen have arrived in the United States to begin their mentorship program with professional women leaders at U.S.-based science and technology companies in Silicon Valley and the San Francisco Bay area.  TechWomen, the Department’s premier exchange program for women in STEM, was an answer to former President Barack Obama’s 2009 speech that called for a ‘New Beginning’ between the U.S. and the Muslim world, with a focus on increased engagement in science, technology, engineering, and mathematics (STEM).  Since its inception in 2012, across three presidential administrations and five Secretaries of State, TechWomen has expanded beyond the Middle East and North African region to include Southeast Asian and Sub-Saharan African nations.</p>
+<p>For the next four weeks, these international TechWomen will be paired with U.S. women in STEM fields at technology companies for a mentoring program that results in action plans that are implemented upon their return to their home country.  For example, TechWomen from Lebanon developed science-based groundwater quality management policy and sanitation guidelines for accessing safe water to address the water crisis in parts of the country.  A TechWomen participant from Kenya created a firm that brings green energy products to off-grid communities in the country.  Her company uses innovative roofing tiles that serve a dual function, both roofing and powering homes that did not otherwise have access to electricity.</p>
+<p>In addition to this year’s mentoring program, the Department will utilize the power to convene to bring together nearly 1,000 women in technology on October 20 in San Francisco to celebrate the first 10 years of TechWomen, as well as look forward to the decade ahead.  TechWomen will conclude their five-week mentorship and cultural exchange in Washington, DC, on October 27.</p>
+<p>For more information, please contact the Bureau of Educational and Cultural Affairs at <a href="mailto:ECA-Press@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="0">ECA-Press@state.gov</a> and join the conversation on Twitter at #TechWomen22.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>On the Anniversary of the Massacre at Babyn Yar: Joint Statement from Special Envoys for Holocaust Issues Condemning Russian Actions in Ukraine</title>
 		<link>https://www.state.gov/on-the-anniversary-of-the-massacre-at-babyn-yar-joint-statement-from-special-envoys-for-holocaust-issues-condemning-russian-actions-in-ukraine/</link>
 		
@@ -113,8 +276,18 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>We unequivocally condemn these actions and all of Russia’s crimes and atrocities in Ukraine.  We call on Russia to immediately end its war of aggression against Ukraine.</p>
 <p>We support all efforts to preserve evidence of atrocities, including those conducted by the International Criminal Court, the UN, the Experts Missions under the Moscow Mechanism of the Organization for Security and Cooperation in Europe (OSCE), the OSCE Office for Democratic Institutions and Human Rights (ODIHR), and others.</p>
 <p>History shows that accountability is imperative.  The people of Ukraine need and deserve justice.  Our countries are committed to holding perpetrators of war crimes and other atrocities accountable for their unconscionable actions.</p>
+<ul>
+<li>Canada: Irwin Cotler, Special Envoy on Preserving Holocaust Remembrance and Combatting Antisemitism</li>
+<li>Croatia: Sara Lustig, Special Advisor to the Prime Minister for Holocaust Issues and Combating Antisemitism</li>
+<li>Czech Republic: Robert Rehak, Ambassador and Special Envoy for Holocaust, Interfaith Dialogue and Freedom of Religion</li>
+<li>Germany: Robert Klinke, Special Representative for Relations with Jewish Organisations, Issues Relating to Antisemitism, International Sinti and Roma Affairs, and Holocaust Remembrance</li>
+<li>Greece: Dimitris Yannakakis, Ambassador, Special Envoy of the Ministry of Foreign Affairs for Combating Antisemitism and Promoting Holocaust Remembrance</li>
+<li>Netherlands: Ernst Steigenga, National Delegate on Holocaust remembrance, education and research at the Dutch Ministry of Health, Welfare and Sport</li>
+<li>Romania: Alexandru Muraru, Special Representative for Promoting the Policies of Memory, for Fighting against Antisemitism and Xenophobia</li>
+<li>United Kingdom: Lord Eric Pickles, Special Envoy for Post-Holocaust Issues</li>
+<li>United States: Ellen Germain, Special Envoy for Holocaust Issues</li>
+</ul>
 <p><em>End Text.</em></p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></description>
 					<script type="text/javascript">
 document.addEventListener("DOMContentLoaded", function(event) {
@@ -193,8 +366,18 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>We unequivocally condemn these actions and all of Russia’s crimes and atrocities in Ukraine.  We call on Russia to immediately end its war of aggression against Ukraine.</p>
 <p>We support all efforts to preserve evidence of atrocities, including those conducted by the International Criminal Court, the UN, the Experts Missions under the Moscow Mechanism of the Organization for Security and Cooperation in Europe (OSCE), the OSCE Office for Democratic Institutions and Human Rights (ODIHR), and others.</p>
 <p>History shows that accountability is imperative.  The people of Ukraine need and deserve justice.  Our countries are committed to holding perpetrators of war crimes and other atrocities accountable for their unconscionable actions.</p>
+<ul>
+<li>Canada: Irwin Cotler, Special Envoy on Preserving Holocaust Remembrance and Combatting Antisemitism</li>
+<li>Croatia: Sara Lustig, Special Advisor to the Prime Minister for Holocaust Issues and Combating Antisemitism</li>
+<li>Czech Republic: Robert Rehak, Ambassador and Special Envoy for Holocaust, Interfaith Dialogue and Freedom of Religion</li>
+<li>Germany: Robert Klinke, Special Representative for Relations with Jewish Organisations, Issues Relating to Antisemitism, International Sinti and Roma Affairs, and Holocaust Remembrance</li>
+<li>Greece: Dimitris Yannakakis, Ambassador, Special Envoy of the Ministry of Foreign Affairs for Combating Antisemitism and Promoting Holocaust Remembrance</li>
+<li>Netherlands: Ernst Steigenga, National Delegate on Holocaust remembrance, education and research at the Dutch Ministry of Health, Welfare and Sport</li>
+<li>Romania: Alexandru Muraru, Special Representative for Promoting the Policies of Memory, for Fighting against Antisemitism and Xenophobia</li>
+<li>United Kingdom: Lord Eric Pickles, Special Envoy for Post-Holocaust Issues</li>
+<li>United States: Ellen Germain, Special Envoy for Holocaust Issues</li>
+</ul>
 <p><em>End Text.</em></p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
@@ -2125,167 +2308,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Participants reiterated the importance of engaging in greater cooperation in support of private sector development, climate change action and development of state-of-the-art green technology, sustainable mountain development, water resource management, infrastructure planning, and renewable energy development, as well as training and education opportunities and people-to-people exchanges.  They highlighted the importance of the C5+1 Working Groups on Economy, Energy and Environment, and Security, and that the C5+1 Working Groups will continue to meet regularly.</p>
 <p><em>End text.</em></p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Special Representative for the Democratic People’s Republic of Korea (DPRK) Kim’s Calls with Republic of Korea (ROK) Special Representative Kim and Japanese Director General Funakoshi</title>
-		<link>https://www.state.gov/special-representative-for-the-democratic-peoples-republic-of-korea-dprk-kims-calls-with-republic-of-korea-rok-special-representative-kim-and-japanese-director-general-funakoshi/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 28 Sep 2022 02:06:53 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=381928</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The following is attributable to Spokesperson Ned Price:</p>
-<p>U.S. Special Representative for the DPRK Sung Kim discussed the DPRK’s September 25 ballistic missile launch with ROK Special Representative for Korean Peninsula Peace and Security Affairs Kim Gunn and Japanese Ministry of Foreign Affairs Director General for Asian and Oceanian Affairs Bureau Funakoshi Takehiro in separate calls on September 25.</p>
-<p>Special Representative Kim reaffirmed the U.S. commitment to its allies in the face of continued DPRK escalatory actions and condemned the DPRK ballistic missile launch, which threatened the region and violated multiple UN Security Council resolutions.  He emphasized our shared goal of achieving the complete denuclearization of the Korean Peninsula and stressed the ironclad U.S. commitment to the defense of the ROK and Japan.  Special Representative Kim called on the DPRK to engage in serious and sustained diplomacy, underscoring that the United States remains open to dialogue.</p>
-<p><input type="hidden" data-filter="111000000000" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The following is attributable to Spokesperson Ned Price:</p>
-<p>U.S. Special Representative for the DPRK Sung Kim discussed the DPRK’s September 25 ballistic missile launch with ROK Special Representative for Korean Peninsula Peace and Security Affairs Kim Gunn and Japanese Ministry of Foreign Affairs Director General for Asian and Oceanian Affairs Bureau Funakoshi Takehiro in separate calls on September 25.</p>
-<p>Special Representative Kim reaffirmed the U.S. commitment to its allies in the face of continued DPRK escalatory actions and condemned the DPRK ballistic missile launch, which threatened the region and violated multiple UN Security Council resolutions.  He emphasized our shared goal of achieving the complete denuclearization of the Korean Peninsula and stressed the ironclad U.S. commitment to the defense of the ROK and Japan.  Special Representative Kim called on the DPRK to engage in serious and sustained diplomacy, underscoring that the United States remains open to dialogue.</p>
-<p><input type="hidden" data-filter="111000000000" /></p>
 ]]></content:encoded>
 					
 		
