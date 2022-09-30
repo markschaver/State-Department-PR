@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 30 Sep 2022 21:09:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2022 21:47:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The People’s Republic of China National Day</title>
+		<link>https://www.state.gov/the-peoples-republic-of-china-national-day-2/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 30 Sep 2022 21:47:52 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=383569</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On the occasion of the 73rd People’s Republic of China National Day, I offer my congratulations to the people of China on behalf of the United States of America.</p>
+<p>As the United States works with the international community to tackle the great obstacles the world faces today, we welcome the cooperation of the People’s Republic of China in addressing global challenges in health, climate change, counternarcotics, and other areas where our interests intersect.</p>
+<p>We hope for a peaceful and happy year ahead for the people of China.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On the occasion of the 73rd People’s Republic of China National Day, I offer my congratulations to the people of China on behalf of the United States of America.</p>
+<p>As the United States works with the international community to tackle the great obstacles the world faces today, we welcome the cooperation of the People’s Republic of China in addressing global challenges in health, climate change, counternarcotics, and other areas where our interests intersect.</p>
+<p>We hope for a peaceful and happy year ahead for the people of China.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Briefing on Secretary Blinken&#8217;s Upcoming Travel to Colombia, Chile, and Peru</title>
 		<link>https://www.state.gov/briefing-on-secretary-blinkens-upcoming-travel-to-colombia-chile-and-peru/</link>
 		
@@ -1810,177 +1969,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>A workforce inclusive of persons with disabilities is critical to achieve broad-based economic growth around the world.  An accessible workplace with strong disability policies enables persons with disabilities to fully contribute to an organization’s mission.  Despite the progress we have made through the years, our work is far from over.  In many countries, the work has not yet begun or is only beginning.  Around the world, many individuals still face barriers to inclusion and equitable access.  Employment discrimination based on disability is still pervasive, resulting in unemployment, underemployment, and higher rates of poverty.</p>
 <p>As we advance these rights around the world through our foreign policy, we must continue to advance equity within the Department, too.  We are committed to building a workforce that reflects our nation’s diversity, including individuals with disabilities.  Beginning this month, we are encouraging every Department employee at all levels to learn about and participate in iCount – an agencywide campaign aimed at promoting disability-inclusive management practices and allyship.</p>
 <p>Advancing disability inclusion is the work of all of us, not only employees with disabilities.  Our national security and our shared prosperity depend on it.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Imposing Swift and Severe Costs in Response to Russia’s Violations of Ukraine’s Sovereignty</title>
-		<link>https://www.state.gov/imposing-swift-and-severe-costs-in-response-to-russias-violations-of-ukraines-sovereignty/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 30 Sep 2022 15:57:46 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=383278</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States unequivocally rejects Russia’s fraudulent attempt to change Ukraine’s internationally recognized borders, including by holding sham “referenda” in Ukraine’s Luhansk, Donetsk, Kherson, and Zaporizhzhya regions. This is a clear violation of international law and the United Nations Charter. In response, the United States and our allies and partners are imposing swift and severe costs targeting additional Russian government officials, their family members, Russian and Belarusian military officials, and defense procurement networks, including international suppliers supporting Russia’s military-industrial complex.</p>
-<p>We are also issuing a clear warning supported by G7 Leaders: We will hold to account any individual, entity, or country that provides political or economic support for Russia’s illegal attempts to change the status of Ukrainian territory. In support of this commitment, the Departments of the Treasury and Commerce are releasing new guidance on heightened sanctions and export control risks for entities and individuals inside or outside Russia that support Russia’s sham referenda, purported annexation, and occupation of part of Ukraine.</p>
-<p>The Department of State is taking action to impose visa restrictions on 910 individuals, including members of the Russian Federation military, Belarusian military officials, and Russia’s proxies for violating Ukraine’s sovereignty, territorial integrity, and political independence. The Department is also designating Russian national, Ochur-Suge Mongush, for his involvement in a gross violation of human rights perpetrated against a Ukrainian prisoner of war. Under this authority, Mongush and his immediate family members are ineligible for entry into the United States.</p>
-<p>Additionally, the Department of the Treasury’s Office of Foreign Assets Control (OFAC) is designating 109 additional State Duma members, 169 members of the Federation Council of the Federal Assembly of the Russian Federation, and more members of Russia’s government including Elvira Sakhipzadovna Nabiullina, the Governor of the Central Bank of the Russian Federation (CBR) and a former advisor to Putin; Olga Nikolaevna Skorobogatova, the First Deputy Governor of the CBR; and Aleksandr Valentinovich Novak, a Deputy Prime Minister. OFAC is also designating family members of Russia’s National Security Council, such as Russian Prime Minister Mikhail Vladimirovich Mishustin’s wife and two adult children, Minister of Defense Sergei Kuzhugetovich Shoigu’s wife and adult children and National Guard Head Viktor Vasilievich Zolotov’s wife and adult children, along with the immediate family members of Deputy Chairman of the Russian Federation Security Council Dmitry Anatolievich Medvedev, Speaker of the Federation Council Valentina Ivanovna Matviyenko, and Saint Petersburg Governor Aleksandr Dmitrievich Beglov.</p>
-<p>The Department of State is joining Treasury in targeting family members of Russia’s National Security Council by designating Olga Sergeevna Sobyanina and Anna Sergeevna Ershova pursuant to Executive Order (E.O.) 14024 for being the adult children of Moscow mayor and Russian Security Council member Sergey Sobyanin, a person whose property and interests in property are blocked under E.O. 14024.</p>
-<p>In furtherance of our commitment to cut off Russia’s access to technology critical to its military, OFAC is designating 14 persons, including international suppliers, who have supported Russia’s defense sector. The sanctions that we and our allies and partners imposed have devastated Russia’s ability to access critical components and technology, and forced Russia’s defense-industrial base to resort to third-country intermediaries and suppliers. This action sends a clear message that international suppliers of sanctioned Russian entities and Russia’s defense sector run the risk of being sanctioned.</p>
-<p>Finally, the Department of Commerce is issuing a rule that adds 57 entities located in Russia and the Crimea region of Ukraine to the Entity List—bringing the total to 392. We will continue the United States’ powerful, coordinated efforts to hold Russia to account, cut Russia’s military off from global commerce and severely limit its ability to sustain its aggression and project power.</p>
-<p>For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MzAuNjQ0NzA1MjEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankwOTgxIn0.umdQE5-uyS_iKu1peFZkQYTR_qJH5aaZDCOuLXvtf8k/s/1436012980/br/144990849251-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MzAuNjQ0NzA1MjEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankwOTgxIn0.umdQE5-uyS_iKu1peFZkQYTR_qJH5aaZDCOuLXvtf8k%2Fs%2F1436012980%2Fbr%2F144990849251-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C7e4fbc1e9d94469580d708daa2f448c8%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C1%7C638001467330699193%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=4%2BKRCMUDY7GAY5IqaUYIciD1uz%2FFL%2B%2FjCv2JSttqgX8%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a> and the Department of Commerce&#8217;s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MzAuNjQ0NzA1MjEiLCJ1cmwiOiJodHRwczovL3d3dy5iaXMuZG9jLmdvdi9pbmRleC5waHAvZG9jdW1lbnRzL2Fib3V0LWJpcy8zMTQ1LTIwMjItMDktMzAtYmlzLWZhcS10aGlyZC1jb3VudHJ5LWFwcGxpY2F0aW9uLW9mLWNvbnRyb2xzL2ZpbGUifQ.h2S6dyRcFfFbYlaAM1YlVMio3th2HXQ77qWv6wflcxE/s/1436012980/br/144990849251-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MzAuNjQ0NzA1MjEiLCJ1cmwiOiJodHRwczovL3d3dy5iaXMuZG9jLmdvdi9pbmRleC5waHAvZG9jdW1lbnRzL2Fib3V0LWJpcy8zMTQ1LTIwMjItMDktMzAtYmlzLWZhcS10aGlyZC1jb3VudHJ5LWFwcGxpY2F0aW9uLW9mLWNvbnRyb2xzL2ZpbGUifQ.h2S6dyRcFfFbYlaAM1YlVMio3th2HXQ77qWv6wflcxE%2Fs%2F1436012980%2Fbr%2F144990849251-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C7e4fbc1e9d94469580d708daa2f448c8%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C1%7C638001467330699193%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=jSDqPpI3lNcvRV325wIraO6K2Df9HXMKnxy966o7boI%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">press release</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States unequivocally rejects Russia’s fraudulent attempt to change Ukraine’s internationally recognized borders, including by holding sham “referenda” in Ukraine’s Luhansk, Donetsk, Kherson, and Zaporizhzhya regions. This is a clear violation of international law and the United Nations Charter. In response, the United States and our allies and partners are imposing swift and severe costs targeting additional Russian government officials, their family members, Russian and Belarusian military officials, and defense procurement networks, including international suppliers supporting Russia’s military-industrial complex.</p>
-<p>We are also issuing a clear warning supported by G7 Leaders: We will hold to account any individual, entity, or country that provides political or economic support for Russia’s illegal attempts to change the status of Ukrainian territory. In support of this commitment, the Departments of the Treasury and Commerce are releasing new guidance on heightened sanctions and export control risks for entities and individuals inside or outside Russia that support Russia’s sham referenda, purported annexation, and occupation of part of Ukraine.</p>
-<p>The Department of State is taking action to impose visa restrictions on 910 individuals, including members of the Russian Federation military, Belarusian military officials, and Russia’s proxies for violating Ukraine’s sovereignty, territorial integrity, and political independence. The Department is also designating Russian national, Ochur-Suge Mongush, for his involvement in a gross violation of human rights perpetrated against a Ukrainian prisoner of war. Under this authority, Mongush and his immediate family members are ineligible for entry into the United States.</p>
-<p>Additionally, the Department of the Treasury’s Office of Foreign Assets Control (OFAC) is designating 109 additional State Duma members, 169 members of the Federation Council of the Federal Assembly of the Russian Federation, and more members of Russia’s government including Elvira Sakhipzadovna Nabiullina, the Governor of the Central Bank of the Russian Federation (CBR) and a former advisor to Putin; Olga Nikolaevna Skorobogatova, the First Deputy Governor of the CBR; and Aleksandr Valentinovich Novak, a Deputy Prime Minister. OFAC is also designating family members of Russia’s National Security Council, such as Russian Prime Minister Mikhail Vladimirovich Mishustin’s wife and two adult children, Minister of Defense Sergei Kuzhugetovich Shoigu’s wife and adult children and National Guard Head Viktor Vasilievich Zolotov’s wife and adult children, along with the immediate family members of Deputy Chairman of the Russian Federation Security Council Dmitry Anatolievich Medvedev, Speaker of the Federation Council Valentina Ivanovna Matviyenko, and Saint Petersburg Governor Aleksandr Dmitrievich Beglov.</p>
-<p>The Department of State is joining Treasury in targeting family members of Russia’s National Security Council by designating Olga Sergeevna Sobyanina and Anna Sergeevna Ershova pursuant to Executive Order (E.O.) 14024 for being the adult children of Moscow mayor and Russian Security Council member Sergey Sobyanin, a person whose property and interests in property are blocked under E.O. 14024.</p>
-<p>In furtherance of our commitment to cut off Russia’s access to technology critical to its military, OFAC is designating 14 persons, including international suppliers, who have supported Russia’s defense sector. The sanctions that we and our allies and partners imposed have devastated Russia’s ability to access critical components and technology, and forced Russia’s defense-industrial base to resort to third-country intermediaries and suppliers. This action sends a clear message that international suppliers of sanctioned Russian entities and Russia’s defense sector run the risk of being sanctioned.</p>
-<p>Finally, the Department of Commerce is issuing a rule that adds 57 entities located in Russia and the Crimea region of Ukraine to the Entity List—bringing the total to 392. We will continue the United States’ powerful, coordinated efforts to hold Russia to account, cut Russia’s military off from global commerce and severely limit its ability to sustain its aggression and project power.</p>
-<p>For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MzAuNjQ0NzA1MjEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankwOTgxIn0.umdQE5-uyS_iKu1peFZkQYTR_qJH5aaZDCOuLXvtf8k/s/1436012980/br/144990849251-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MzAuNjQ0NzA1MjEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankwOTgxIn0.umdQE5-uyS_iKu1peFZkQYTR_qJH5aaZDCOuLXvtf8k%2Fs%2F1436012980%2Fbr%2F144990849251-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C7e4fbc1e9d94469580d708daa2f448c8%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C1%7C638001467330699193%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=4%2BKRCMUDY7GAY5IqaUYIciD1uz%2FFL%2B%2FjCv2JSttqgX8%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a> and the Department of Commerce&#8217;s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MzAuNjQ0NzA1MjEiLCJ1cmwiOiJodHRwczovL3d3dy5iaXMuZG9jLmdvdi9pbmRleC5waHAvZG9jdW1lbnRzL2Fib3V0LWJpcy8zMTQ1LTIwMjItMDktMzAtYmlzLWZhcS10aGlyZC1jb3VudHJ5LWFwcGxpY2F0aW9uLW9mLWNvbnRyb2xzL2ZpbGUifQ.h2S6dyRcFfFbYlaAM1YlVMio3th2HXQ77qWv6wflcxE/s/1436012980/br/144990849251-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MzAuNjQ0NzA1MjEiLCJ1cmwiOiJodHRwczovL3d3dy5iaXMuZG9jLmdvdi9pbmRleC5waHAvZG9jdW1lbnRzL2Fib3V0LWJpcy8zMTQ1LTIwMjItMDktMzAtYmlzLWZhcS10aGlyZC1jb3VudHJ5LWFwcGxpY2F0aW9uLW9mLWNvbnRyb2xzL2ZpbGUifQ.h2S6dyRcFfFbYlaAM1YlVMio3th2HXQ77qWv6wflcxE%2Fs%2F1436012980%2Fbr%2F144990849251-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C7e4fbc1e9d94469580d708daa2f448c8%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C1%7C638001467330699193%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=jSDqPpI3lNcvRV325wIraO6K2Df9HXMKnxy966o7boI%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">press release</a>.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
