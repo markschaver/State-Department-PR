@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 30 Sep 2022 15:57:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2022 17:02:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>On National Disability Employment Awareness Month </title>
+		<link>https://www.state.gov/on-national-disability-employment-awareness-month/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 30 Sep 2022 17:02:28 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=383341</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>In October, the United States commemorates National Disability Employment Awareness Month (NDEAM) to herald the contributions and innovations of persons with disabilities to our country’s workforce.  The 2022 NDEAM theme is “Disability: Part of the Equity Equation,” which recognizes the vital role persons with disabilities bring to workforce diversity and inclusion, both in the public and private sector.  Disability is a crucial component of the State Department’s ongoing work to advance diversity, equity, inclusion, and accessibility (DEIA) within our workforce and as part of our foreign policy.</p>
+<p>A workforce inclusive of persons with disabilities is critical to achieve broad-based economic growth around the world.  An accessible workplace with strong disability policies enables persons with disabilities to fully contribute to an organization’s mission.  Despite the progress we have made through the years, our work is far from over.  In many countries, the work has not yet begun or is only beginning.  Around the world, many individuals still face barriers to inclusion and equitable access.  Employment discrimination based on disability is still pervasive, resulting in unemployment, underemployment, and higher rates of poverty.</p>
+<p>As we advance these rights around the world through our foreign policy, we must continue to advance equity within the Department, too.  We are committed to building a workforce that reflects our nation’s diversity, including individuals with disabilities.  Beginning this month, we are encouraging every Department employee at all levels to learn about and participate in iCount – an agencywide campaign aimed at promoting disability-inclusive management practices and allyship.</p>
+<p>Advancing disability inclusion is the work of all of us, not only employees with disabilities.  Our national security and our shared prosperity depend on it.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>In October, the United States commemorates National Disability Employment Awareness Month (NDEAM) to herald the contributions and innovations of persons with disabilities to our country’s workforce.  The 2022 NDEAM theme is “Disability: Part of the Equity Equation,” which recognizes the vital role persons with disabilities bring to workforce diversity and inclusion, both in the public and private sector.  Disability is a crucial component of the State Department’s ongoing work to advance diversity, equity, inclusion, and accessibility (DEIA) within our workforce and as part of our foreign policy.</p>
+<p>A workforce inclusive of persons with disabilities is critical to achieve broad-based economic growth around the world.  An accessible workplace with strong disability policies enables persons with disabilities to fully contribute to an organization’s mission.  Despite the progress we have made through the years, our work is far from over.  In many countries, the work has not yet begun or is only beginning.  Around the world, many individuals still face barriers to inclusion and equitable access.  Employment discrimination based on disability is still pervasive, resulting in unemployment, underemployment, and higher rates of poverty.</p>
+<p>As we advance these rights around the world through our foreign policy, we must continue to advance equity within the Department, too.  We are committed to building a workforce that reflects our nation’s diversity, including individuals with disabilities.  Beginning this month, we are encouraging every Department employee at all levels to learn about and participate in iCount – an agencywide campaign aimed at promoting disability-inclusive management practices and allyship.</p>
+<p>Advancing disability inclusion is the work of all of us, not only employees with disabilities.  Our national security and our shared prosperity depend on it.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Imposing Swift and Severe Costs in Response to Russia’s Violations of Ukraine’s Sovereignty</title>
 		<link>https://www.state.gov/imposing-swift-and-severe-costs-in-response-to-russias-violations-of-ukraines-sovereignty/</link>
 		
@@ -1629,167 +1792,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The State Department continues to make advances in its IT capabilities, to meet the needs of 21<sup>st</sup> century diplomacy, including to leverage cloud, big data, and secure communications.  U.S. diplomats are among the world’s most tech savvy diplomats and their work is supported by a global cadre of IT professionals who convene annually in one location to exchange best practices and ensure cybersecurity for Department networks.</p>
 <p>For further information, please contact Steve Aguzin, Public Affairs Officer for the Bureau of Information Resource Management, at <a href="mailto:AguzinSM@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="2">AguzinSM@state.gov</a>.</p>
 <p><input type="hidden" data-filter="100001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Russia&#8217;s Sham Referenda in Ukraine</title>
-		<link>https://www.state.gov/russias-sham-referenda-in-ukraine/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Thu, 29 Sep 2022 18:24:44 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=382628</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>The Kremlin’s sham referenda are a futile effort to mask what amounts to a further attempt at a land grab in Ukraine.  To be clear: the results were orchestrated in Moscow and do not reflect the will of the people of Ukraine.  The United States does not, and will never, recognize the legitimacy or outcome of these sham referenda or Russia’s purported annexation of Ukrainian territory.  This spectacle conducted by Russia’s proxies is illegitimate and violates international law.  It is an affront to the principles of international peace and security.</p>
-<p>Russia has forced much of the population in areas it seized to flee and compelled Ukraine’s citizens that remained to cast ballots at gunpoint, in fear for their safety, and the safety of their loved ones.  Ukraine’s people have consistently expressed their desire for a free and democratic future.  They want their country to remain independent and sovereign.  Their soldiers are fighting bravely, and citizens in Russia-controlled or occupied areas of Ukraine are resisting Moscow’s efforts to change Ukraine’s internationally recognized borders by brute force.</p>
-<p>The United States and our allies and partners will continue to assist Ukraine in its fight to defend its territory against Russian aggression.  We wholeheartedly support Ukraine’s unity, sovereignty, independence, and territorial integrity within its internationally recognized borders.  As President Biden has said, we will never recognize these areas as part of any country other than Ukraine, and we will support Ukraine for as long as it takes.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>The Kremlin’s sham referenda are a futile effort to mask what amounts to a further attempt at a land grab in Ukraine.  To be clear: the results were orchestrated in Moscow and do not reflect the will of the people of Ukraine.  The United States does not, and will never, recognize the legitimacy or outcome of these sham referenda or Russia’s purported annexation of Ukrainian territory.  This spectacle conducted by Russia’s proxies is illegitimate and violates international law.  It is an affront to the principles of international peace and security.</p>
-<p>Russia has forced much of the population in areas it seized to flee and compelled Ukraine’s citizens that remained to cast ballots at gunpoint, in fear for their safety, and the safety of their loved ones.  Ukraine’s people have consistently expressed their desire for a free and democratic future.  They want their country to remain independent and sovereign.  Their soldiers are fighting bravely, and citizens in Russia-controlled or occupied areas of Ukraine are resisting Moscow’s efforts to change Ukraine’s internationally recognized borders by brute force.</p>
-<p>The United States and our allies and partners will continue to assist Ukraine in its fight to defend its territory against Russian aggression.  We wholeheartedly support Ukraine’s unity, sovereignty, independence, and territorial integrity within its internationally recognized borders.  As President Biden has said, we will never recognize these areas as part of any country other than Ukraine, and we will support Ukraine for as long as it takes.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
 ]]></content:encoded>
 					
 		
