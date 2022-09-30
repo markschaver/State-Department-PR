@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 30 Sep 2022 21:47:52 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Sep 2022 21:57:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Tuvalu National Day</title>
+		<link>https://www.state.gov/tuvalu-national-day-2/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 30 Sep 2022 21:57:51 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=383582</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I offer my congratulations to the people of Tuvalu as you celebrate the 44th anniversary of your nation’s independence on October 1.</p>
+<p>Our shared commitment to democracy and a free, open, prosperous, and resilient Indo-Pacific has guided our relationship for over forty years. The United States greatly appreciates Tuvalu’s principled stance supporting democracy and looks forward to furthering our collaboration on the climate crisis, illegal, unreported, and unregulated fishing, and future challenges that we may face together.</p>
+<p>I congratulate the people of Tuvalu as you celebrate this historic and joyous day.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I offer my congratulations to the people of Tuvalu as you celebrate the 44th anniversary of your nation’s independence on October 1.</p>
+<p>Our shared commitment to democracy and a free, open, prosperous, and resilient Indo-Pacific has guided our relationship for over forty years. The United States greatly appreciates Tuvalu’s principled stance supporting democracy and looks forward to furthering our collaboration on the climate crisis, illegal, unreported, and unregulated fishing, and future challenges that we may face together.</p>
+<p>I congratulate the people of Tuvalu as you celebrate this historic and joyous day.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>The People’s Republic of China National Day</title>
 		<link>https://www.state.gov/the-peoples-republic-of-china-national-day-2/</link>
 		
@@ -1806,169 +1965,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>As we reflect on North Korea Freedom Week, we recognize the courage of the North Korean defector and human rights community, which continues to speak on behalf of the millions of North Koreans suffering deplorable abuses and who are unable to advocate for themselves. Despite the regime’s announcement that it has overcome COVID-19, its borders remain sealed, and the humanitarian situation remains dire. More than 100,000 individuals, including children, remain detained in the country’s vast network of prison camps, while the regime diverts resources from the people and systematically uses forced labor to generate revenue in support of its unlawful weapons of mass destruction and ballistic missile programs.</p>
 <p>For those who have escaped, many remain vulnerable to abuse and are subjected to transnational repression. We remain deeply concerned about the plight of North Korean asylum seekers. North Koreans who are forcibly repatriated are reportedly commonly subjected to summary execution, torture, arbitrary detention, forced abortion, and other forms of gender-based violence.</p>
 <p>The international community must act to hold accountable those responsible for these human rights abuses. The United States remains committed to shining a spotlight on the egregious human rights situation in the DPRK and working with allies and partners to promote accountability and increase the free flow of information into, out of, and within the DPRK.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>On National Disability Employment Awareness Month </title>
-		<link>https://www.state.gov/on-national-disability-employment-awareness-month/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 30 Sep 2022 17:02:28 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=383341</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>In October, the United States commemorates National Disability Employment Awareness Month (NDEAM) to herald the contributions and innovations of persons with disabilities to our country’s workforce.  The 2022 NDEAM theme is “Disability: Part of the Equity Equation,” which recognizes the vital role persons with disabilities bring to workforce diversity and inclusion, both in the public and private sector.  Disability is a crucial component of the State Department’s ongoing work to advance diversity, equity, inclusion, and accessibility (DEIA) within our workforce and as part of our foreign policy.</p>
-<p>A workforce inclusive of persons with disabilities is critical to achieve broad-based economic growth around the world.  An accessible workplace with strong disability policies enables persons with disabilities to fully contribute to an organization’s mission.  Despite the progress we have made through the years, our work is far from over.  In many countries, the work has not yet begun or is only beginning.  Around the world, many individuals still face barriers to inclusion and equitable access.  Employment discrimination based on disability is still pervasive, resulting in unemployment, underemployment, and higher rates of poverty.</p>
-<p>As we advance these rights around the world through our foreign policy, we must continue to advance equity within the Department, too.  We are committed to building a workforce that reflects our nation’s diversity, including individuals with disabilities.  Beginning this month, we are encouraging every Department employee at all levels to learn about and participate in iCount – an agencywide campaign aimed at promoting disability-inclusive management practices and allyship.</p>
-<p>Advancing disability inclusion is the work of all of us, not only employees with disabilities.  Our national security and our shared prosperity depend on it.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>In October, the United States commemorates National Disability Employment Awareness Month (NDEAM) to herald the contributions and innovations of persons with disabilities to our country’s workforce.  The 2022 NDEAM theme is “Disability: Part of the Equity Equation,” which recognizes the vital role persons with disabilities bring to workforce diversity and inclusion, both in the public and private sector.  Disability is a crucial component of the State Department’s ongoing work to advance diversity, equity, inclusion, and accessibility (DEIA) within our workforce and as part of our foreign policy.</p>
-<p>A workforce inclusive of persons with disabilities is critical to achieve broad-based economic growth around the world.  An accessible workplace with strong disability policies enables persons with disabilities to fully contribute to an organization’s mission.  Despite the progress we have made through the years, our work is far from over.  In many countries, the work has not yet begun or is only beginning.  Around the world, many individuals still face barriers to inclusion and equitable access.  Employment discrimination based on disability is still pervasive, resulting in unemployment, underemployment, and higher rates of poverty.</p>
-<p>As we advance these rights around the world through our foreign policy, we must continue to advance equity within the Department, too.  We are committed to building a workforce that reflects our nation’s diversity, including individuals with disabilities.  Beginning this month, we are encouraging every Department employee at all levels to learn about and participate in iCount – an agencywide campaign aimed at promoting disability-inclusive management practices and allyship.</p>
-<p>Advancing disability inclusion is the work of all of us, not only employees with disabilities.  Our national security and our shared prosperity depend on it.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
