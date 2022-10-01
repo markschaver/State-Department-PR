@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Sat, 01 Oct 2022 13:07:03 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 01 Oct 2022 14:41:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nigeria’s National Day</title>
+		<link>https://www.state.gov/nigerias-national-day/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 14:41:36 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=383715</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I extend best wishes to the people of Nigeria on the 62nd anniversary of their independence.</p>
+<p>The partnership between our two countries is strong and is built on our shared values of democracy, diversity, and a spirit of entrepreneurship. The United States is committed to supporting Nigerian efforts to counter terrorism and insecurity, improve health systems, strengthen democratic institutions, promote respect for human rights, and bolster economic growth including through bilateral trade and investment between the United States and Nigeria. We stand with Nigeria as a democratic partner in supporting free and fair elections and value Nigeria’s leadership on global and regional issues including the fight to end the COVID-19 pandemic.</p>
+<p>We look forward to expanding our relationship over the coming year and advancing our mutual interests. The United States joins in your celebration and extends our sincerest congratulations.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I extend best wishes to the people of Nigeria on the 62nd anniversary of their independence.</p>
+<p>The partnership between our two countries is strong and is built on our shared values of democracy, diversity, and a spirit of entrepreneurship. The United States is committed to supporting Nigerian efforts to counter terrorism and insecurity, improve health systems, strengthen democratic institutions, promote respect for human rights, and bolster economic growth including through bilateral trade and investment between the United States and Nigeria. We stand with Nigeria as a democratic partner in supporting free and fair elections and value Nigeria’s leadership on global and regional issues including the fight to end the COVID-19 pandemic.</p>
+<p>We look forward to expanding our relationship over the coming year and advancing our mutual interests. The United States joins in your celebration and extends our sincerest congratulations.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Republic of Cyprus Independence Day</title>
 		<link>https://www.state.gov/republic-of-cyprus-independence-day/</link>
 		
@@ -1573,181 +1734,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The below is attributable to Spokesperson Ned Price:</p>
 <p>Deputy Secretary of State Wendy Sherman spoke with Swedish Foreign Minister Ann Linde today about the apparent sabotage along the Nord Stream 1 and Nord Stream 2 pipelines. The United States is supporting Sweden and other European partners to investigate further. We remain united with our Allies and partners in our commitment to promoting European energy security. The United States and Sweden will continue to strengthen the close cooperation between our countries in the face of regional and global challenges, including Russia’s unprovoked war of aggression in Ukraine.</p>
 <p><input type="hidden" data-filter="100001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>G7 Foreign Ministers’ Statement on the illegal annexation of sovereign Ukrainian territory</title>
-		<link>https://www.state.gov/g7-foreign-ministers-statement-on-the-illegal-annexation-of-sovereign-ukrainian-territory/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 30 Sep 2022 20:48:21 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=383513</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The text of the following statement was released by the G7 foreign ministers of Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States of America, and the High Representative of the European Union.</p>
-<p><i>Begin Text</i></p>
-<p>We, the G7 Foreign Ministers of Canada, France, Germany, Italy, Japan, the United Kingdom, the United States of America, and the High Representative of the European Union, are united in our condemnation in the strongest possible terms of Russia’s war of aggression against Ukraine and its continued violations of Ukraine’s sovereignty, territorial integrity, and Independence.</p>
-<p>President Putin’s efforts to incorporate Donetsk, Luhansk, Kherson and Zaporizhzhya regions into the territory of the Russian Federation constitute a new low point in Russia’s blatant flouting of international law, and yet another example of Russia’s unacceptable violations of Ukraine’s sovereignty, the UN Charter, and the commonly agreed principles and commitments of the Helsinki Final Act and the Paris Charter.</p>
-<p>We will never recognize these purported annexations, nor the sham “referenda” conducted at gunpoint.</p>
-<p>We reiterate our call for all countries to condemn unequivocally Russia’s war of aggression and its attempt to acquire territory by force. We call on the broader international community to reject Russia’s brutal expansionism, its efforts to deny Ukraine&#8217;s existence as an independent state, and its blatant violation of the international norms that guarantee international peace, security, and the territorial integrity and sovereignty of all states.</p>
-<p>We will impose further economic costs on Russia, and on individuals and entities – inside and outside of Russia – that provide political or economic support to these violations of international law. We are unwavering in our support for Ukraine’s right to defend itself against Russia’s war of aggression and its unquestionable right to reclaim its territory from Russia.</p>
-<p>We reiterate our condemnation of Russia’s irresponsible nuclear rhetoric. It will not distract or dissuade us from supporting Ukraine, for as long as necessary.</p>
-<p>Russia must immediately stop its war of aggression, withdraw all of its troops and military equipment from Ukraine, and respect Ukraine’s independence, sovereignty, and territorial integrity within its internationally recognized borders. We reaffirm that the regions of Donetsk, Luhansk, Kherson and Zaporizhzhya as well as Crimea are integral parts of Ukraine.</p>
-<p><i>End Text</i></p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The text of the following statement was released by the G7 foreign ministers of Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States of America, and the High Representative of the European Union.</p>
-<p><i>Begin Text</i></p>
-<p>We, the G7 Foreign Ministers of Canada, France, Germany, Italy, Japan, the United Kingdom, the United States of America, and the High Representative of the European Union, are united in our condemnation in the strongest possible terms of Russia’s war of aggression against Ukraine and its continued violations of Ukraine’s sovereignty, territorial integrity, and Independence.</p>
-<p>President Putin’s efforts to incorporate Donetsk, Luhansk, Kherson and Zaporizhzhya regions into the territory of the Russian Federation constitute a new low point in Russia’s blatant flouting of international law, and yet another example of Russia’s unacceptable violations of Ukraine’s sovereignty, the UN Charter, and the commonly agreed principles and commitments of the Helsinki Final Act and the Paris Charter.</p>
-<p>We will never recognize these purported annexations, nor the sham “referenda” conducted at gunpoint.</p>
-<p>We reiterate our call for all countries to condemn unequivocally Russia’s war of aggression and its attempt to acquire territory by force. We call on the broader international community to reject Russia’s brutal expansionism, its efforts to deny Ukraine&#8217;s existence as an independent state, and its blatant violation of the international norms that guarantee international peace, security, and the territorial integrity and sovereignty of all states.</p>
-<p>We will impose further economic costs on Russia, and on individuals and entities – inside and outside of Russia – that provide political or economic support to these violations of international law. We are unwavering in our support for Ukraine’s right to defend itself against Russia’s war of aggression and its unquestionable right to reclaim its territory from Russia.</p>
-<p>We reiterate our condemnation of Russia’s irresponsible nuclear rhetoric. It will not distract or dissuade us from supporting Ukraine, for as long as necessary.</p>
-<p>Russia must immediately stop its war of aggression, withdraw all of its troops and military equipment from Ukraine, and respect Ukraine’s independence, sovereignty, and territorial integrity within its internationally recognized borders. We reaffirm that the regions of Donetsk, Luhansk, Kherson and Zaporizhzhya as well as Crimea are integral parts of Ukraine.</p>
-<p><i>End Text</i></p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
