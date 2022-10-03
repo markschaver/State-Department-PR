@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Mon, 03 Oct 2022 19:14:30 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Oct 2022 22:48:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>UN Truce Expiration in Yemen</title>
+		<link>https://www.state.gov/un-truce-expiration-in-yemen/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 22:48:46 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=384346</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p align="left">The United States expresses its deep concern that the UN-mediated truce in Yemen expired on October 2 without the parties reaching agreement to extend it.  Yemeni men, women, and children have experienced the tangible benefits provided by the truce: the longest period of calm since the war began, a dramatic reduction in civilian casualties, four times more fuel flowing into Yemen’s northern ports, and commercial flights enabling over 25,000 Yemenis to seek medical care and reunite with loved ones abroad.  Much more is certainly needed, and the expanded truce proposal presented by the UN would provide just that:  providing salaries to tens of thousands of civil servants who have not been paid in years, opening roads across the country, expanding international flights, and easing the clearance process for fuel ships entering Hudaydah port.  Most importantly, the UN proposal would enable the launch of negotiations on a comprehensive ceasefire and an inclusive, Yemeni-led political process that would durably end the war.</p>
+<p align="left">The United States welcomes the support from the Republic of Yemen Government for the UN’s expanded truce proposal, as well as the strong support from countries across the region, the UN Security Council, and other international partners.  The overwhelming consensus in support of the UN-mediated truce is a testament to its potential to put Yemen on the path to peace and recovery.  The United States urges the Houthis to continue negotiations in good faith and work with the UN to come to an agreement to extend the truce and keep Yemen on the path to peace.  We urge all the parties to exercise restraint during this sensitive time. The United States underscores the unacceptability of Houthi rhetoric threatening commercial shipping and oil companies operating in the region.</p>
+<p align="left">The truce represents the best opportunity Yemenis have had for peace in years.  The choice before the parties is simple: peace and a brighter future for Yemen, or a return to pointless destruction and suffering that will further fracture and isolate a country already on the brink.  The only way to truly ease the suffering of Yemenis is through negotiation, not war.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p align="left">The United States expresses its deep concern that the UN-mediated truce in Yemen expired on October 2 without the parties reaching agreement to extend it.  Yemeni men, women, and children have experienced the tangible benefits provided by the truce: the longest period of calm since the war began, a dramatic reduction in civilian casualties, four times more fuel flowing into Yemen’s northern ports, and commercial flights enabling over 25,000 Yemenis to seek medical care and reunite with loved ones abroad.  Much more is certainly needed, and the expanded truce proposal presented by the UN would provide just that:  providing salaries to tens of thousands of civil servants who have not been paid in years, opening roads across the country, expanding international flights, and easing the clearance process for fuel ships entering Hudaydah port.  Most importantly, the UN proposal would enable the launch of negotiations on a comprehensive ceasefire and an inclusive, Yemeni-led political process that would durably end the war.</p>
+<p align="left">The United States welcomes the support from the Republic of Yemen Government for the UN’s expanded truce proposal, as well as the strong support from countries across the region, the UN Security Council, and other international partners.  The overwhelming consensus in support of the UN-mediated truce is a testament to its potential to put Yemen on the path to peace and recovery.  The United States urges the Houthis to continue negotiations in good faith and work with the UN to come to an agreement to extend the truce and keep Yemen on the path to peace.  We urge all the parties to exercise restraint during this sensitive time. The United States underscores the unacceptability of Houthi rhetoric threatening commercial shipping and oil companies operating in the region.</p>
+<p align="left">The truce represents the best opportunity Yemenis have had for peace in years.  The choice before the parties is simple: peace and a brighter future for Yemen, or a return to pointless destruction and suffering that will further fracture and isolate a country already on the brink.  The only way to truly ease the suffering of Yemenis is through negotiation, not war.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>U.S. Department of State Launches Partnership with Google in Indonesia and Vietnam, Pilots Media Literacy and Google Startup Academy Programs at American Spaces</title>
 		<link>https://www.state.gov/u-s-department-of-state-launches-partnership-with-google-in-indonesia-and-vietnam-pilots-media-literacy-and-google-startup-academy-programs-at-american-spaces/</link>
 		
@@ -1505,167 +1664,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Amy Pope is the visionary and inclusive leader IOM needs at this time of unprecedented displacement and migration. She is experienced at working with governments, non-governmental organizations, and community stakeholders to translate policies into reality.  Ms. Pope has successfully led governance and budget reforms at IOM, which have garnered wide support from IOM’s member states.  Ms. Pope has proven her exceptional capacity to achieve results that serve migrants, to lead and support IOM’s workforce, and to collaborate closely with member states.  She envisions an IOM that strengthens member state engagement and invests in human capital.</p>
 <p>The United States strongly supports Amy Pope’s candidacy.  We are confident that under her leadership, IOM will thrive as the premier international organization for migration.</p>
 <p><input type="hidden" data-filter="111001000000" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Assistant Secretary Ramin Toloui’s Travel to Belgium, the Netherlands, and Germany</title>
-		<link>https://www.state.gov/assistant-secretary-ramin-tolouis-travel-to-belgium-the-netherlands-and-germany/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Mon, 03 Oct 2022 13:45:09 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=384003</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Assistant Secretary of State for Economic and Business Affairs Ramin Toloui will travel October 3-7 to Brussels, Belgium; The Hague, Rotterdam, and Eindhoven, Netherlands; and Munich, Germany, to discuss strengthening and diversifying supply chains, especially in semiconductors, including implementation of the CHIPS Act and cooperation in the U.S.-EU Trade and Technology Council. Additionally, he will discuss critical efforts to mitigate global food insecurity, including the United States’ support for the EU Solidarity Lanes and the UN-brokered Black Sea Grain Initiative. He will also discuss U.S.-European cooperation to confront Russia’s continuing aggression against Ukraine, as well as other global challenges.</p>
-<p>In Brussels on October 3 and 4 he will meet with European Union and Belgian senior officials and industry leaders. He will also visit the Interuniversity Microelectronics Centre (IMEC) Headquarters.</p>
-<p>In the Netherlands on October 5-6, he will meet with regional executives from leading companies. In Rotterdam, The Hague, and Eindhoven, he will meet with senior officials from the Netherlands Ministry of Foreign Affairs and Ministry of Economic Affairs and Climate as well as with leaders in industry, academia, and think tanks.</p>
-<p>On October 7, in Munich, Germany, Assistant Secretary Toloui will meet with Bavarian State government officials and business leaders.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Assistant Secretary of State for Economic and Business Affairs Ramin Toloui will travel October 3-7 to Brussels, Belgium; The Hague, Rotterdam, and Eindhoven, Netherlands; and Munich, Germany, to discuss strengthening and diversifying supply chains, especially in semiconductors, including implementation of the CHIPS Act and cooperation in the U.S.-EU Trade and Technology Council. Additionally, he will discuss critical efforts to mitigate global food insecurity, including the United States’ support for the EU Solidarity Lanes and the UN-brokered Black Sea Grain Initiative. He will also discuss U.S.-European cooperation to confront Russia’s continuing aggression against Ukraine, as well as other global challenges.</p>
-<p>In Brussels on October 3 and 4 he will meet with European Union and Belgian senior officials and industry leaders. He will also visit the Interuniversity Microelectronics Centre (IMEC) Headquarters.</p>
-<p>In the Netherlands on October 5-6, he will meet with regional executives from leading companies. In Rotterdam, The Hague, and Eindhoven, he will meet with senior officials from the Netherlands Ministry of Foreign Affairs and Ministry of Economic Affairs and Climate as well as with leaders in industry, academia, and think tanks.</p>
-<p>On October 7, in Munich, Germany, Assistant Secretary Toloui will meet with Bavarian State government officials and business leaders.</p>
 ]]></content:encoded>
 					
 		
