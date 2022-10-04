@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Tue, 04 Oct 2022 22:30:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Oct 2022 22:30:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -1301,7 +1301,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		
 			</item>
 		<item>
-		<title>Secretary Antony J. Blinken  at a Migrant Integration Center</title>
+		<title>Secretary Antony J. Blinken at a Migrant Integration Center</title>
 		<link>https://www.state.gov/secretary-antony-j-blinken-at-a-migrant-integration-center/</link>
 		
 		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
