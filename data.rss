@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 05 Oct 2022 01:18:03 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Oct 2022 14:00:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Celebrating Hispanic Heritage Month</title>
+		<link>https://www.state.gov/celebrating-hispanic-heritage-month/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 14:00:11 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=385049</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>I join my colleagues in the Department of State as we celebrate National Hispanic Heritage Month. This month, we honor the contributions of more than 60 million Americans of Hispanic, Latino, Latina, and Latinx descent to our great nation, and the many ways they make the United States a stronger, more diverse, and vibrant country.</p>
+<p>At the Department of State, many colleagues of Hispanic descent have played, and continue to play, a vital role in advancing U.S. foreign policy, serving as an integral part of our workforce at all levels. The Hispanic Employee Council of Foreign Affairs Agencies (HECFAA) plays a central role in representing this community of employees. As it celebrates its 40th anniversary, I commend HECFAA for its leadership in advancing the recruitment, retention, and career development of Hispanics and promoting a foreign affairs workforce that values diversity.</p>
+<p>While we continue to work to make the Department more inclusive, I am proud of the progress we are making, and I see every day how my Hispanic, Latino, Latina, and Latinx colleagues make the Department stronger and more vibrant. I stand “unido” with all my colleagues in this effort and wish everyone a productive and enjoyable Hispanic Heritage Month.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>I join my colleagues in the Department of State as we celebrate National Hispanic Heritage Month. This month, we honor the contributions of more than 60 million Americans of Hispanic, Latino, Latina, and Latinx descent to our great nation, and the many ways they make the United States a stronger, more diverse, and vibrant country.</p>
+<p>At the Department of State, many colleagues of Hispanic descent have played, and continue to play, a vital role in advancing U.S. foreign policy, serving as an integral part of our workforce at all levels. The Hispanic Employee Council of Foreign Affairs Agencies (HECFAA) plays a central role in representing this community of employees. As it celebrates its 40th anniversary, I commend HECFAA for its leadership in advancing the recruitment, retention, and career development of Hispanics and promoting a foreign affairs workforce that values diversity.</p>
+<p>While we continue to work to make the Department more inclusive, I am proud of the progress we are making, and I see every day how my Hispanic, Latino, Latina, and Latinx colleagues make the Department stronger and more vibrant. I stand “unido” with all my colleagues in this effort and wish everyone a productive and enjoyable Hispanic Heritage Month.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Deputy Secretary Sherman&#8217;s Meeting with Secretary General of the Executive Committee of the PLO AlSheikh</title>
 		<link>https://www.state.gov/deputy-secretary-shermans-meeting-with-secretary-general-of-the-executive-committee-of-the-plo-al-sheikh/</link>
 		
@@ -1976,169 +2135,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Counselor of the Department Derek Chollet will travel to London and Belfast, United Kingdom, from October 5-11.  In London, he will meet with United Kingdom government officials to discuss continued cooperation on a range of security and defense priorities, including Russia’s war on Ukraine, and the Indo-Pacific.  In Belfast, he will meet with political leaders, Northern Ireland Office officials, and the business community to discuss the implementation of the Northern Ireland Protocol and the importance of restoring the devolved government.</p>
 <p>Counselor Chollet will travel to Helsinki, Finland, from October 11 to 12 for consultations with our Finnish partners about their pending membership in NATO, the Arctic, and other regional issues, and support for Ukraine.</p>
 <p>Counselor Chollet will then travel to Reykjavik, Iceland, on October 13-14 to participate in the Arctic Circle Assembly, and will also meet with Icelandic partners to discuss Arctic cooperation, continued support for Ukraine, and bilateral issues.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>$625 Million in Additional U.S. Military Assistance for Ukraine</title>
-		<link>https://www.state.gov/625-million-in-additional-u-s-military-assistance-for-ukraine/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 17:23:41 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=384567</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>At the UN General Assembly, President Biden made it clear yet again that we will support the people of Ukraine for as long as it takes.  Recent developments from Russia’s sham referenda and attempted annexation to new revelations of brutality against civilians in Ukrainian territory formerly controlled by Russia only strengthens our resolve.  United with our Allies and partners from 50 nations, we are delivering the arms and equipment that Ukraine’s forces are utilizing so effectively today in a successful counter-offensive to take back their lands seized illegally by Russia.</p>
-<p>Pursuant to a delegation of authority from the President, I am authorizing our twenty-second drawdown of U.S. arms and equipment for Ukraine since August 2021.  This $625 million drawdown includes additional arms, munitions, and equipment from U.S. Department of Defense inventories.   This drawdown will bring the total U.S. military assistance for Ukraine to more than $17.5 billion<b> </b>since the beginning of this Administration.</p>
-<p>We will continue to stand with the people of Ukraine as they defend their freedom and independence with extraordinary courage and boundless determination.  The capabilities we are delivering are carefully calibrated to make the most difference on the battlefield and strengthen Ukraine’s hand at the negotiating table when the time is right.</p>
-<p>We stand <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMDQuNjQ2NDc4NzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvdW5pdGVkLXdpdGgtdWtyYWluZS8ifQ.JysQzaTAh-R2p9iS15w5kccynpfC3yQ8Goyi_exKmIw/s/1436012980/br/145192184172-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMDQuNjQ2NDc4NzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvdW5pdGVkLXdpdGgtdWtyYWluZS8ifQ.JysQzaTAh-R2p9iS15w5kccynpfC3yQ8Goyi_exKmIw%2Fs%2F1436012980%2Fbr%2F145192184172-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Cda7c36caee9148c0904808daa629a852%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638004995093460886%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=oAIYwxv52dVegV1y36ILQdoqNR2h3LJ3TPksQ%2BVb%2FVg%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">United with Ukraine</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>At the UN General Assembly, President Biden made it clear yet again that we will support the people of Ukraine for as long as it takes.  Recent developments from Russia’s sham referenda and attempted annexation to new revelations of brutality against civilians in Ukrainian territory formerly controlled by Russia only strengthens our resolve.  United with our Allies and partners from 50 nations, we are delivering the arms and equipment that Ukraine’s forces are utilizing so effectively today in a successful counter-offensive to take back their lands seized illegally by Russia.</p>
-<p>Pursuant to a delegation of authority from the President, I am authorizing our twenty-second drawdown of U.S. arms and equipment for Ukraine since August 2021.  This $625 million drawdown includes additional arms, munitions, and equipment from U.S. Department of Defense inventories.   This drawdown will bring the total U.S. military assistance for Ukraine to more than $17.5 billion<b> </b>since the beginning of this Administration.</p>
-<p>We will continue to stand with the people of Ukraine as they defend their freedom and independence with extraordinary courage and boundless determination.  The capabilities we are delivering are carefully calibrated to make the most difference on the battlefield and strengthen Ukraine’s hand at the negotiating table when the time is right.</p>
-<p>We stand <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMDQuNjQ2NDc4NzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvdW5pdGVkLXdpdGgtdWtyYWluZS8ifQ.JysQzaTAh-R2p9iS15w5kccynpfC3yQ8Goyi_exKmIw/s/1436012980/br/145192184172-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMDQuNjQ2NDc4NzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvdW5pdGVkLXdpdGgtdWtyYWluZS8ifQ.JysQzaTAh-R2p9iS15w5kccynpfC3yQ8Goyi_exKmIw%2Fs%2F1436012980%2Fbr%2F145192184172-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Cda7c36caee9148c0904808daa629a852%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638004995093460886%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=oAIYwxv52dVegV1y36ILQdoqNR2h3LJ3TPksQ%2BVb%2FVg%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">United with Ukraine</a>.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
