@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 06 Oct 2022 18:03:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Oct 2022 18:10:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>U.S. Department of State Names Dr. Kelly Fletcher as Chief Information Officer</title>
+		<link>https://www.state.gov/u-s-department-of-state-names-dr-kelly-fletcher-as-chief-information-officer/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 18:10:12 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=385507</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The U.S. Department of State announced today that Dr. Kelly Fletcher will serve as its new Chief Information Officer (CIO).</p>
+<p>In her role as the Department’s Chief Information Officer, Dr. Fletcher will establish the strategic direction of information technology, including oversight for $2.5 billion of programs throughout the Department of State.  Dr. Fletcher brings a wealth of experience in both technological and strategic resourcing domains.  She is a member of the Senior Executive Service, having served as the Principal Deputy Chief Information Officer at the U.S. Department of Defense and as the Deputy Director for Program Analysis &amp; Evaluation at the Department of Homeland Security – among other leadership roles in federal government.  Dr. Fletcher’s appointment as CIO aligns with Secretary of State Antony Blinken’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMDYuNjQ3NzAzNjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3Yvc2VjcmV0YXJ5LWFudG9ueS1qLWJsaW5rZW4tb24tdGhlLW1vZGVybml6YXRpb24tb2YtYW1lcmljYW4tZGlwbG9tYWN5LyJ9._SQvBU-WRK3rtgiRwf4eixRLJcUo1-mI8i4KeLOrLbI/s/2576317770/br/145347819255-l. Click or tap if you trust this link." href="https://www.state.gov/secretary-antony-j-blinken-on-the-modernization-of-american-diplomacy/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">call for modernization</a> of American diplomacy.  Securing top talent to drive technological innovation helps ensure an interconnected, secure, and informed Department for 21<sup>st</sup> century diplomacy.</p>
+<p>For further information, please contact Steve Aguzin, Public Affairs Officer for the Bureau of Information Resource Management, at AguzinSM@state.gov.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The U.S. Department of State announced today that Dr. Kelly Fletcher will serve as its new Chief Information Officer (CIO).</p>
+<p>In her role as the Department’s Chief Information Officer, Dr. Fletcher will establish the strategic direction of information technology, including oversight for $2.5 billion of programs throughout the Department of State.  Dr. Fletcher brings a wealth of experience in both technological and strategic resourcing domains.  She is a member of the Senior Executive Service, having served as the Principal Deputy Chief Information Officer at the U.S. Department of Defense and as the Deputy Director for Program Analysis &amp; Evaluation at the Department of Homeland Security – among other leadership roles in federal government.  Dr. Fletcher’s appointment as CIO aligns with Secretary of State Antony Blinken’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMDYuNjQ3NzAzNjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3Yvc2VjcmV0YXJ5LWFudG9ueS1qLWJsaW5rZW4tb24tdGhlLW1vZGVybml6YXRpb24tb2YtYW1lcmljYW4tZGlwbG9tYWN5LyJ9._SQvBU-WRK3rtgiRwf4eixRLJcUo1-mI8i4KeLOrLbI/s/2576317770/br/145347819255-l. Click or tap if you trust this link." href="https://www.state.gov/secretary-antony-j-blinken-on-the-modernization-of-american-diplomacy/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">call for modernization</a> of American diplomacy.  Securing top talent to drive technological innovation helps ensure an interconnected, secure, and informed Department for 21<sup>st</sup> century diplomacy.</p>
+<p>For further information, please contact Steve Aguzin, Public Affairs Officer for the Bureau of Information Resource Management, at AguzinSM@state.gov.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Sanctioning Iranian Leaders Responsible for Human Rights Abuses or Censorship</title>
 		<link>https://www.state.gov/sanctioning-iranian-leaders-responsible-for-human-rights-abuses-or-censorship/</link>
 		
@@ -1859,163 +2018,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>So, we are working very closely with different businesses.  I was in Spain, met with Spanish businesses.  There’s an open agenda when it comes to investment.  I think that we are well on the right path.  I’d like to say, as well, that we have negotiating teams, this – looking at the modernization agreement with the EU this week.  As the president has said, the idea is to be able to bring those to a close by the end of the year.  We’re on the right path.  And so, everything I’m saying, as well as what Secretary Blinken has said, shows that we are working very strongly on these issues.</p>
 <p><strong>MODERATOR:  </strong>(Via interpreter) We would like to thank you for coming to this press conference.  We request that the national press allow our U.S. colleagues to leave because they must join the Secretary’s delegation.  Thanks very much.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Blinken’s Meeting with Chilean President Boric</title>
-		<link>https://www.state.gov/secretary-blinkens-meeting-with-chilean-president-boric/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 05 Oct 2022 15:11:53 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=385075</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The below is attributable to Spokesperson Ned Price:</p>
-<p>Secretary of State Antony J. Blinken met today with Chilean President Gabriel Boric in Santiago, Chile. Secretary Blinken and President Boric highlighted the importance of the relationship between our two countries as we approach the 200th anniversary of U.S.-Chile relations in 2023. The Secretary and the President discussed the importance of further expanding the responsible flow of trade and investment, as we approach the 20th anniversary of the U.S.-Chile Free Trade Agreement. Secretary Blinken thanked President Boric for Chile’s leadership on climate change and its efforts to reach carbon neutrality by 2050. Secretary Blinken and President Boric also discussed areas of collaboration on strengthening democracy in the region. They also agreed to continue to address the implications of Russia’s unprovoked invasion of Ukraine, which are being felt around the world, including in our Hemisphere.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The below is attributable to Spokesperson Ned Price:</p>
-<p>Secretary of State Antony J. Blinken met today with Chilean President Gabriel Boric in Santiago, Chile. Secretary Blinken and President Boric highlighted the importance of the relationship between our two countries as we approach the 200th anniversary of U.S.-Chile relations in 2023. The Secretary and the President discussed the importance of further expanding the responsible flow of trade and investment, as we approach the 20th anniversary of the U.S.-Chile Free Trade Agreement. Secretary Blinken thanked President Boric for Chile’s leadership on climate change and its efforts to reach carbon neutrality by 2050. Secretary Blinken and President Boric also discussed areas of collaboration on strengthening democracy in the region. They also agreed to continue to address the implications of Russia’s unprovoked invasion of Ukraine, which are being felt around the world, including in our Hemisphere.</p>
 ]]></content:encoded>
 					
 		
