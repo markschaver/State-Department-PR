@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 06 Oct 2022 00:21:37 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Oct 2022 12:33:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -813,7 +813,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 			</item>
 		<item>
 		<title>Secretary Antony J. Blinken And Chilean Foreign Minister Antonia Urrejola At a Joint Press Availability</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-and-chilean-foreign-minister-antonia-urrejola-at-a-joint-press-availability-2/</link>
+		<link>https://www.state.gov/secretary-antony-j-blinken-and-chilean-foreign-minister-antonia-urrejola-at-a-joint-press-availability</link>
 		
 		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
 		<pubDate>Wed, 05 Oct 2022 19:21:49 +0000</pubDate>
@@ -1129,329 +1129,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>So, we are working very closely with different businesses.  I was in Spain, met with Spanish businesses.  There’s an open agenda when it comes to investment.  I think that we are well on the right path.  I’d like to say, as well, that we have negotiating teams, this – looking at the modernization agreement with the EU this week.  As the president has said, the idea is to be able to bring those to a close by the end of the year.  We’re on the right path.  And so, everything I’m saying, as well as what Secretary Blinken has said, shows that we are working very strongly on these issues.</p>
 <p><strong>MODERATOR:  </strong>(Via interpreter) We would like to thank you for coming to this press conference.  We request that the national press allow our U.S. colleagues to leave because they must join the Secretary’s delegation.  Thanks very much.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken and Chilean Foreign Minister Antonia Urrejola at a Joint Press Availability</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-and-chilean-foreign-minister-antonia-urrejola-at-a-joint-press-availability/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Wed, 05 Oct 2022 19:14:19 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=385153</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Santiago, Chile</p>
-<p>Ministry of Foreign Affairs</p>
-<p><strong>FOREIGN MINISTER URREJOLA:</strong>  (Via interpreter) Good – I’m not sure if it’s good afternoon or good morning, but thank you for being here with us today.  First of all, I would like to make a statement, and then Secretary Antony Blinken will have a few remarks.  We’ll then go on to Q&amp;A.</p>
-<p>It has been truly wonderful to receive my counterpart here at the Ministry of Foreign Affairs, Antony Blinken, for his first visit to Chile as the Secretary of State of the United States of America.  As the first activity on our agenda, we had a meeting with His Excellency President Gabriel Boric.  We discussed topics and global challenges for Chile and the United States.  We then were able to talk about a diversity of regional, multilateral topics in a larger meeting with our teams from the Ministry of Foreign Affairs and Undersecretary Ximena Fuentes.</p>
-<p>As allies and friendly countries, we shared directly and frankly our viewpoints.  We noticed that we have areas of agreement and areas where we can move forward in a substantial fashion, in order to help our citizens.  We talked about the priority for our hemisphere that is the protection of the environment and the oceans – a pillar of Chile’s foreign policy, along the lines with the declaration that was signed on the Americas for the protection of the oceans during the ninth Summit of the Americas in Los Angeles, California.</p>
-<p>At the bilateral level, we talked about the opportunity that will be the next celebration of the 200th anniversary of diplomatic relations during 2023, and how we will be able to take stock of our links, learning from lessons of the past, some that have been very harsh.  And we can also talk about the future of a productive bilateral relationship based on our shared values.</p>
-<p>I would like to highlight that gender issues are a priority for both countries. We therefore will seek mechanisms where we can share good practices, and include a gender and inclusion perspective in the wide array of issues that make up our rich and vast bilateral relations. The U.S. Government is working on this issue very much at the domestic level, and we are very interested in learning about that experience.</p>
-<p>Chile, based on its foreign principles, has worked on multilateral issues and international law, looking at the OAS as a relevant institution for the future of our region and a necessary space for dialogue on hemispheric issues. Therefore, we must remember that starting tomorrow we are both preparing for our participation in the 52nd General Assembly of the OAS, which will be held in Lima.</p>
-<p>We are once again happy to receive high-level visitors in Chile, thanks to the health measures and the efforts made to overcome the pandemic.  This basis for dialogue allows us to deal with challenges and difficult topics that we must work on in a collective and coordinated fashion so that we may become strengthened after the pandemic.</p>
-<p>We are living through economic issues that affect us all, as does the war in Ukraine, food security, climate change, and other pressing issues. The theme of the OAS general assembly is “Together against Inequality and Discrimination,” which represents a part of the values that Chile promotes constantly internationally.  We’d like to reiterate Chile’s commitment to the importance of regional issues, with a focus on inclusion, intersectionality, that always includes gender, diversity, indigenous peoples, Afro-descendants, and other minorities who have been seriously affected by the many difficulties that we currently face.</p>
-<p>With that, I will bring an end to my remarks.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Good morning, everyone; and let me first say what a pleasure it is to be back in Santiago. And to Foreign Minister Urrejola, Antonia, thank you so much for this morning, for the very good conversations that we had. I’m grateful to President Boric for his time, for the quality of the exchange that we had.  And just so thankful for the warm welcome that we’ve received from our friends and partners here in Chile.</p>
-<p>I also want to acknowledge Ambassador Meehan. You have no idea how pleased I am to be able to say “Ambassador” Meehan. But it is really thrilling to see you here in this new role. And as the president knows, as the foreign minister knows, there is no stronger partner than Ambassador Meehan.</p>
-<p>We have a relationship that has been bound together fundamentally by shared interests and shared values, and next year, indeed, we’ll celebrate 200 years of partnership.  That partnership spans things that matter most to our people – from economic and security issues, where we have longstanding ties, to new areas of cooperation on climate, on energy, on health, even outer space.</p>
-<p>And as I said, this relationship is based first and foremost on deeply shared values – a commitment to standing up for democracy and humans rights in our own countries, in this region, and indeed around the world.</p>
-<p>We see the strength and vibrancy of Chile’s democracy in the peaceful, inclusive process the country’s engaged in, with regard to charting a new constitution.  We see it in Chile’s leadership in regional organizations dedicated to promoting democracy and advancing human rights, such as co-chairing the OAS working group on Nicaragua and the recent presidency of the Inter-American Commission on Human Rights.  We see it in the position that this government has taken on holding countries – left, right, liberal, conservative – to the same standards on human rights and democracy.  There should be no ideological blocs when it comes to defending the principles that we’ve all agreed to in the UN and its charter, at the OAS, in the Inter-American Democratic Charter.  That’s why we call them universal rights, and we have to stand up wherever they’re being threatened.</p>
-<p>We’re also grateful for Chile’s clear voice in regional and multilateral organizations like the OAS, where we’ll be going tomorrow, and the United Nations, where – among other things – it has consistently condemned Russia’s unjustified war of aggression against Ukraine.</p>
-<p>We’re growing our economic ties.  Since Chile and the United States signed our Free Trade Agreement in 2003, trade between our countries has more than quadrupled, reaching more than $38 billion last year, supporting tens of thousands of jobs in both of our countries.  The United States is Chile’s top source of foreign direct investment, investing more than $25 billion in high growth areas, like Chile’s renewable energy sector.  And we intend to build on those ties, something we talked about today.</p>
-<p>Just to cite an example, the United States has invested $760 million and provided technical assistance across five solar power projects in Chile, several of which are already powering homes and business across the country.  Chile’s renewable energy sector already provides 45 percent of the country’s electricity supply and is helping further Chile’s ambitious clean energy goals, including carbon neutrality by 2050 – something else that we talked about today especially as we head to COP 27 together, in a little over a month’s time.</p>
-<p>Although Chile’s economy has grown over the years, so, too has inequity – here in Chile, but also more broadly across our own hemisphere.  That was worsened by the COVID-19 pandemic, the climate crisis, rising energy and food costs, which has been exacerbated again by the Russian aggression in Ukraine.</p>
-<p>But what we see across the board – in all of these areas, is that those hardest hit are ones who can least afford it.  Under President Biden, the United States has committed to partnering with Chile and other countries in the region to deliver solutions to the challenges that are directly impacting the lives of our people.  It’s a fundamental part of demonstrating that democracies like ours can deliver concrete results for our people: address their needs and advance their aspirations.</p>
-<p>That’s one of the reasons that we launched the Americas Partnership for Economic Prosperity.  We did this at the Summit of the Americas a few months ago.  It’s focused on laying the foundation for economic growth from the bottom up and the middle out by expanding digital connectivity, making our supply chains more resilient, including here in the hemisphere; creating clean energy jobs as we decarbonize; and getting regional economic institutions to mobilize more investment and credit, including in middle-income countries.  We’re looking forward to working with Chile on this initiative.</p>
-<p>We’re also expanding support for those across the region who don’t have access to essential services like health, like education. That’s the idea behind our commitment to work with partners to train and equip 500,000 local health care workers, across the hemisphere, in five years. This initiative, if fully realized, will make a profound practical difference in the lives of millions of people across our hemisphere.</p>
-<p>We discussed, as well, our growing collaboration on migration, and I expressed my appreciation for Chile’s leadership on this issue, including by hosting roughly half a million Venezuelan migrants and refugees and 180,000 Haitians.</p>
-<p>At the Summit of the Americas in June, Chile joined 21 other countries in the hemisphere in supporting the Los Angeles Declaration.  This declaration is an important moment because it recognizes our shared responsibility in meeting the migration challenge; and goes about it in a way that increases stability, creates opportunities for safe and orderly migration, and supports communities that host migrants, while holding criminals and human traffickers accountable.</p>
-<p>But for all the ties between our nations that we discussed today – and we covered many of them, and indeed we probably ran out of time; we could have discussed another dozen topics.  For all of the ties that we talked about today, perhaps none are as deep as the ties between our people.</p>
-<p>A little bit later today, I’ll meet with alumni of the Young Leaders of the Americas Initiative.  That’s an exchange program that has brought together over a thousand young entrepreneurs and business and social leaders across our hemisphere.</p>
-<p>Ultimately, it’s ties like these, especially ties that bind the rising generation of Chileans and Americans that give me the most hope for the future of our relationship and our democracies.  And they’re yet another reason we’re committed to continuing to strengthen the partnership between our governments.</p>
-<p>So again, Antonia, Foreign Minister, thank you very much.  It’s very good to be here today with all of you.</p>
-<p>Thank you.</p>
-<p><strong>MODERATOR</strong>:  Thank you.</p>
-<p>(Via interpreter) First question – Michael Crowley, New York Times.</p>
-<p><strong>QUESTION:  </strong>Thank you so much, Mr. Secretary, Madam Foreign Minister.  I was not expecting to go first, so I apologize my questions are not focused as much on the region as some that will follow, but thank you for your understanding.</p>
-<p>Secretary Blinken, as you must know, OPEC has just agreed to an oil production cut of 2 million barrels a day.  You joined President Biden on what was a somewhat controversial trip to Saudi Arabia recently that the President justified in part on the grounds of working with the Saudis to control oil costs.  What is your reaction to this decision, and are you specifically disappointed in the Saudis?</p>
-<p>Also, Russia has set an October 25th appeal hearing for Brittney Griner.  Could this change the status of negotiations over Griner and Paul Whelan?</p>
-<p>And Madam Minister, President Biden’s policy towards Venezuela has essentially left unchanged Trump administration policies toward the Maduro regime, including very severe economic sanctions.  Do you think this is the correct approach for the United States to Venezuela?  Thank you both.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Michael, thank you very much.  With regard to energy, first, what we’ve been clear about is the need for energy supply to meet demand.  That’s what we’ve been working on across the board, and we’ve done our part.  United States oil production is up by more than 500,000 barrels a day.  As you know, we have tapped into the Strategic Petroleum Reserve as well to make sure that energy is on the market and, also, as a way to stabilize prices. Indeed, energy prices have come down as a result of the efforts that we’ve made.</p>
-<p>And when it comes to OPEC, we’ve made clear our views to OPEC members.  We have a multiplicity of interests with regard to Saudi Arabia.  And I think the President laid those out during his trip, and they include everything from regional relationships, including improving relations between Arab countries and Israel; Yemen, where we’re working very closely with Saudi Arabia to try to continue the truce; and a number of other issues, and those were all reflected in the visit.  But we are working every single day to make sure to the best of our ability that, again, energy supply from wherever is actually meeting demand in order to ensure that energy is on the market and that prices are kept low.</p>
-<p>When it comes to Brittney Griner and Paul Whelan, I can’t speculate on what various court dates may or may not mean.  What I can tell you is this:  This has my full attention.  And as I said before, number one on my list of priorities, around the world, is doing everything we can to bring home any American anywhere who’s being arbitrarily or unjustly detained.  And that certainly applies in the case of Brittney Griner and Paul Whelan.  We, as you know, have been having an ongoing discussion with Russian authorities about this.  We put a substantial proposal on the table some months ago, and we urge Moscow to accept that proposal so that we can resolve at least this issue.  But our imperative is securing their release.  And I don’t want to weigh in on the particulars of where we are.  All I can tell you is we’re focused on it every single day.</p>
-<p><strong>FOREIGN MINISTER URREJOLA:  </strong>I’ll answer in Spanish if you’re okay with that.</p>
-<p>(Via interpreter) When it comes to Venezuela, this was an issue we discussed with Secretary Blinken at our meeting.  Our position is that we hope that the initial contact group, which is in Mexico – we hope that dialogue will start up again with Maduro’s government as well as with the Venezuelan opposition, what we want as a country.   And we are, again – agreement with the U.S. and other countries in the region, as well as other European countries, that dialogue should start up again so that in Venezuela in 2024, there may be free democratic elections.</p>
-<p><strong>MODERATOR:  </strong>(Via interpreter) And then for the Chilean press, Francisco Valenzuela, Channel 13.</p>
-<p><strong>QUESTION:  </strong>(Via interpreter) Good morning, Secretary of State, Madam Minister.  For both of you, I would like to thank you both for being here because there were some issues that were discussed during the – your initial introduction, your remarks, so thanks again for your understanding.</p>
-<p>I would like you to talk in greater detail about the meeting that Secretary Blinken had with President Boric.  What issues did you discuss?  Did you talk about the U.S. vote for Chile as far as its candidacy for the Human Rights Council, and Chile’s role?  As you were mentioning, you talked about negotiations over Venezuela and what the U.S. vision is when it comes to leftist governments whose governments have been historically critical of the U.S., and the relationship that your country has, Secretary Blinken, with Latin America.  Thank you.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Thank you very much for the question.  I don’t want to put any words in President Boric’s mouth.  That would not be appropriate.  But let me just say generally two things.  I think the foreign minister covered most of the issues that we discussed, but we also had a conversation about our shared approach and shared priorities that are reflected in what President Biden is working to do at home in the United States, as well as more broadly, and that I believe President Boric is working to do here in Chile.</p>
-<p>And that goes to building more equitable and inclusive economies.  It goes to dealing with the issues that are front and center in the lives of our people, whether it is – whether it’s security or whether it’s combating the effects of climate change, dealing with health issues, including COVID, and working in ways that meet the needs and aspirations of our people.  And I think we agreed that there’s tremendous commonality in the goals that we share and, indeed, many of the approaches that we’re bringing to bear.</p>
-<p>When it comes to these questions of left, right, and center, here’s what I think is important:  The political context in each country is different throughout our hemisphere, but there is a collective task to see that, as we were saying, our democracies actually deliver for our people, that we produce concrete results.  And my own sense is that what motivates electorates in all of our countries is the desire to see their governments actually address their concerns, and produce concrete results.  And if governments don’t, then chances are they’ll be voted out, someone else will be voted in.</p>
-<p>We have a – I think a shared responsibility, but also an opportunity, working closely together, to do exactly that, to deliver results for our people.  And one of the things that I shared with President Boric – something that I think he and President Biden had also talked about when they met at the Summit of the Americas – is the conviction of the United States that for virtually all of the challenges that our people face, we simply cannot be effective in addressing them alone.  We need partnerships.  We need cooperation.  We need collaboration.  And that starts with the closest of our partners like Chile.  That’s the way we see the world.  That’s the way we’re trying to make progress for our own people, but also for people throughout the hemisphere, and I think that’s something that was very much reflected in the conversation that I was very, very pleased and appreciative of having with President Boric today.</p>
-<p><strong>QUESTION:</strong>  Human Rights Council?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  That did not – it did not come up.</p>
-<p><strong>FOREIGN MINISTER URREJOLA:</strong>  No.</p>
-<p><strong>MODERATOR:</strong>  (Via interpreter) Leon Bruneau from Agence France-Presse.</p>
-<p><strong>QUESTION:</strong>  <em>Hola</em>.  Thanks for having this press conference.  I wanted to ask the question – well, to both of you, actually, but on this – as I understand it, Chile has a special exemption on visas, the U.S. Visa Waiver; and I think Chile is the only country in South America that has that, and that seems to be in jeopardy from what I understand, or is fragile.  And so, I’d like to ask <em>la ministra </em>if this was discussed and if you have given to the United States and Secretary any guarantees on that.</p>
-<p>And Mr. Secretary, so following up on that, I wonder if that is a concern of yours and that you may cancel this exemption visa – of U.S. Visa Waiver Program.  And then I’d like to ask a more general question.  You mentioned a lot – ideological blocks and what have you, but meeting in Colombia, in Chile, on Cuba specifically.  Constantly, the U.S. has been told that you have to change your policy and what have you.  Are you listening to the leaders in Latin America that are telling you the policy right now is not going anywhere?</p>
-<p>And if I may – I’m sorry, but it’s the news of the day – ask you a question on North Korea.  Obviously, the – North Korea fired a IRBM missile; it went over Japan.  The U.S. and South Korea responded by firing missiles during an exercise, a joint exercise.  Do you think that’s escalating or it has a risk of escalating the process against North Korea?  Thank you.</p>
-<p><strong>FOREIGN MINISTER URREJOLA:</strong>  (Via interpreter) When it comes to the Visa Waiver Program, we did not discuss this issue, during my meeting with the Secretary of State.  When it comes to that topic, I’d like to say that there is a plan that has been agreed upon with the U.S. to assess Visa Waiver Programs.  This is something that the U.S. does on an ongoing basis, not just with Chile but with other countries with whom it has this program.  We’re working in a very coordinated fashion.  Actually, the consular team has been in the U.S. talking to Homeland Security to talk about related issues.  We’re on the right path, but I’d like to say again that the assessment of the Visa Waiver Program is not something done only for Chile, but it’s done for all countries that have visa waivers.  It’s very well on its way, and we didn’t talk about it when we met, but – because this is under the purview of Homeland Security and there’s a team in the U.S. talking about this issue right now.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  The minister is exactly right, and we’re working very closely together on this.  Chile is the only country in Latin America that is part of the Visa Waiver Program; and we very much want to sustain that, and our teams are working to do that and I’m confident that we will succeed in doing that.</p>
-<p>On the other questions related to the hemisphere, look, one of the things I emphasize and want to make clear – and this is something that, again, without ascribing views to President Boric, this is also my understanding from listening so carefully to him over these months.  We do not judge countries based on their political orientation, again, whether it’s left, right, center, but simply put, on their commitment to democracy, to human rights, to other shared values.  And it’s important for us in working with countries around the world to uphold those basic values and those basic principles, again irrespective of where a country or a government may fall on the political spectrum; and, for that matter, irrespective of our actual relationship with them.</p>
-<p>Now we may approach this question differently depending on an individual country, but the basic principle is the same.  And when it comes to Cuba, I think you know the longstanding views of the United States, including this administration.  We’ve taken steps recently, including on remittances, on travel, on visas, to try to further help the Cuban people and empower them.  At the same time, we saw as, again, the Cuban people tried to speak up for their rights a year ago, that these protests – peaceful protests – were not only violently put down, but people were thrown in jail, including minors, with usually excessive prison terms – 15, 20, 30 years – just for speaking their minds.</p>
-<p>And so, we have to hold the Cuban Government to account, just as we would any other government, for denying the Cuban people those rights.  Again, we may have different approaches on the best way to do that.  And that’s a very important conversation that we’re always having because we all make our judgments, and certainly no one’s infallible when it comes to that, including us.  And we try to – we listen hard and learn from our partners and friends, but the underlying principle is the same.</p>
-<p>Shifting gears as you did to North Korea, to the Korean Peninsula, because you’ve heard very clearly from us over the last 24 hours, we strongly condemn the DPRK’s dangerous and reckless launch of a long-range missile that flew over Northern Japan, endangering Japanese citizens.  I spoke almost immediately to my Japanese and Korean counterparts; and I think you’ve seen that we are working very closely together, both on a bilateral basis but also on a trilateral basis – the United States, Korea, and Japan – to demonstrate and strengthen our defensive and deterrent capabilities in light of the threat from North Korea.</p>
-<p>We’ve called on the DPRK to refrain from further provocations and engage in a sustained and substantive dialogue.  This is something that we have proposed going back many months.  Unfortunately, the DPRK’s response has been to launch more missiles.  But we are taking appropriate defense and deterrent steps with allies and partners.  We’ve called for a UN Security Council meeting, and we’re consulting with our partners on next steps.</p>
-<p>But I also want to make very clear that our commitment to the defense of our allies and partners, Korea and Japan, is ironclad.  We believe that North Korea would be much better served by not only refraining from these actions but actually engaging in dialogue.  I think what we’re seeing is that if they continue down this road, it will only increase the condemnation, increase the isolation, increase the steps that are taken in response to their actions.</p>
-<p><strong>MODERATOR:</strong>  (Via interpreter) Last question from a Chilean agency, Francisco Valenzuela.</p>
-<p><strong>QUESTION:</strong>  (In Spanish.) Can you hear me, Secretary?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  I can hear you.  I’m just not hearing the translation.</p>
-<p><strong>STAFF:</strong>  (Via interpreter) Yes, the interpreter is waiting to receive audio.</p>
-<p><strong>QUESTION:</strong>  I might be a little bit rusty, but I can try to do it like this.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.</p>
-<p><strong>QUESTION:</strong>  Our second question is pertaining to investment.  How does your country observe the constitutional process going on here in Chile, and if in your judgment does it get – does it give some certainty for the American presence in business in our country under role of Chile and – are you hearing me?  Okay. Good.  Now I will switch back to Spanish because some words I just can’t translate.</p>
-<p>(Via interpreter) The role of Chile – you can ask me if you need me to repeat the question, Mr. Secretary, or I can continue – the role of Chile in multilateral treaties such as with the European Union or the treaty for the transpacific association known as TPP-11 and Chile were not members but – not as members but observers.  How do you see Chile in multilateral treaties at the global level?</p>
-<p>And I will repeat the first part:  If – how do you see investment when it comes to the constitutional process in Chile, as well as lithium in the energy sector?  Thank you very much, Mr. Secretary.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.  And I appreciate the switching to English.  I apologize that my Spanish is not good enough to do this in Spanish; I wish it were.  But thank you.</p>
-<p>First, I’m not going to say anything about the substance of the constitutional process.  We admire in fact the process itself and the way that Chileans are engaging this in a peaceful and constructive manner.  But as to the substance, this is obviously up to the Chilean people.  It’s not an issue for the United States, but here’s what I can say.</p>
-<p>First, as I noted earlier, we’ve already seen over the last couple of decades, since our free trade agreement was signed, a substantial increase in trade between us.  It’s now about 32, almost 33 billion dollars a year.  And the United States is the leading supplier of foreign direct investment in Chile.  So, the relationship is already strong, both on the trade side and on the investment side.</p>
-<p>But we are convinced that it can grow stronger still and that our two countries are natural partners when it comes to this, and our hemisphere should be even more of natural partners together.  And I think you’ll see this play out in a number of ways that we discussed today and that I alluded to.</p>
-<p>First, through the partnership that we put forward at the Summit of the Americas for prosperity in the hemisphere, there are a number of areas where, working together, we can I think significantly increase trade and investment, including in Chile.  For example, the partnership that we’re designing together focuses on things like building strong supply chains in the Western Hemisphere.  We all saw what happened when we had challenges with our supply chains during COVID.  We need to make sure that doesn’t happen again.  But there’s also tremendous opportunity there for business, for investment.</p>
-<p>Similarly, because of Chile’s leadership on climate, we see a future together where we’re working together and investing together, including here in Chile, on clean technology and on green economy jobs.  These are the jobs of the future, and Chile is very, very well placed, I think, to produce many of those jobs.  And we talked about that today, and I think we’re looking at ways to generate more American investment.  We’re already done a lot on solar, as we’ve discussed.  But there’s a lot more to be done.</p>
-<p>At the same time, re-energizing and refocusing the international financial institutions, including the multilateral development banks here in our own hemisphere, in ways that actually address the needs of people and put investment and put loans and put money into projects that will actually make a difference in their lives – that, too, is something that we’re focused on together and that I think can create even more opportunity here in Chile.</p>
-<p>So, I think across the board we have a strong foundation, but there is much more that we can do.  And we bring to it the same perspective, which is the need to do it in a way that is inclusive and that really tries to create growth for everyone – not just some, but for everyone.  That’s a shared focus of both of our governments and it animates what we’re going to be doing together in the years ahead.  Thank you.</p>
-<p><strong>FOREIGN MINISTER URREJOLA:</strong>  (Via interpreter) On the first issue, I’d like to go back to the last thing that Secretary Blinken said about how we are working with the United States on different topics related to investment, but especially from the perspective of the fight against climate change and the importance of renewable energy.  This is something on our agenda with the United States, as well as with European countries and other countries – at the global level, at the UN.  This is a consistent issue.  The president’s bilateral agenda, I’ve discussed it with many foreign ministers.  There is an interest in many countries in investing in renewable energy, and as Secretary Blinken said, supply chains, lithium, are important topics for us as well.  We share the viewpoint that we must review and refocus the work on multilateral banks.</p>
-<p>I would also like to remind you of the president’s visit to Canada when he met with the minister of the economy, Canadian businesses, and they talked specifically about Canadian investments.  It’s a very important partner for Chile.  And as you mentioned, I believe, there was a very important conversation in that regard, and we’re working hand-in-hand with Canadian companies.  Same thing with the United States in the framework of the Summit of the Americas.  The minister and the president met with U.S. businesses as well.  The same thing happened at the UN with Mario Marcel, the Council of the Americas.</p>
-<p>So, we are working very closely with different businesses.  I was in Spain, met with Spanish businesses.  There’s an open agenda when it comes to investment.  I think that we are well on the right path.  I’d like to say, as well, that we have negotiating teams, this – looking at the modernization agreement with the EU this week.  As the president has said, the idea is to be able to bring those to a close by the end of the year.  We’re on the right path.  And so, everything I’m saying, as well as what Secretary Blinken has said, shows that we are working very strongly on these issues.</p>
-<p><strong>MODERATOR:  </strong>(Via interpreter) We would like to thank you for coming to this press conference.  We request that the national press allow our U.S. colleagues to leave because they must join the Secretary’s delegation.  Thanks very much.</p>
-<p><input type="hidden" data-filter="111001000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Santiago, Chile</p>
-<p>Ministry of Foreign Affairs</p>
-<p><strong>FOREIGN MINISTER URREJOLA:</strong>  (Via interpreter) Good – I’m not sure if it’s good afternoon or good morning, but thank you for being here with us today.  First of all, I would like to make a statement, and then Secretary Antony Blinken will have a few remarks.  We’ll then go on to Q&amp;A.</p>
-<p>It has been truly wonderful to receive my counterpart here at the Ministry of Foreign Affairs, Antony Blinken, for his first visit to Chile as the Secretary of State of the United States of America.  As the first activity on our agenda, we had a meeting with His Excellency President Gabriel Boric.  We discussed topics and global challenges for Chile and the United States.  We then were able to talk about a diversity of regional, multilateral topics in a larger meeting with our teams from the Ministry of Foreign Affairs and Undersecretary Ximena Fuentes.</p>
-<p>As allies and friendly countries, we shared directly and frankly our viewpoints.  We noticed that we have areas of agreement and areas where we can move forward in a substantial fashion, in order to help our citizens.  We talked about the priority for our hemisphere that is the protection of the environment and the oceans – a pillar of Chile’s foreign policy, along the lines with the declaration that was signed on the Americas for the protection of the oceans during the ninth Summit of the Americas in Los Angeles, California.</p>
-<p>At the bilateral level, we talked about the opportunity that will be the next celebration of the 200th anniversary of diplomatic relations during 2023, and how we will be able to take stock of our links, learning from lessons of the past, some that have been very harsh.  And we can also talk about the future of a productive bilateral relationship based on our shared values.</p>
-<p>I would like to highlight that gender issues are a priority for both countries. We therefore will seek mechanisms where we can share good practices, and include a gender and inclusion perspective in the wide array of issues that make up our rich and vast bilateral relations. The U.S. Government is working on this issue very much at the domestic level, and we are very interested in learning about that experience.</p>
-<p>Chile, based on its foreign principles, has worked on multilateral issues and international law, looking at the OAS as a relevant institution for the future of our region and a necessary space for dialogue on hemispheric issues. Therefore, we must remember that starting tomorrow we are both preparing for our participation in the 52nd General Assembly of the OAS, which will be held in Lima.</p>
-<p>We are once again happy to receive high-level visitors in Chile, thanks to the health measures and the efforts made to overcome the pandemic.  This basis for dialogue allows us to deal with challenges and difficult topics that we must work on in a collective and coordinated fashion so that we may become strengthened after the pandemic.</p>
-<p>We are living through economic issues that affect us all, as does the war in Ukraine, food security, climate change, and other pressing issues. The theme of the OAS general assembly is “Together against Inequality and Discrimination,” which represents a part of the values that Chile promotes constantly internationally.  We’d like to reiterate Chile’s commitment to the importance of regional issues, with a focus on inclusion, intersectionality, that always includes gender, diversity, indigenous peoples, Afro-descendants, and other minorities who have been seriously affected by the many difficulties that we currently face.</p>
-<p>With that, I will bring an end to my remarks.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Good morning, everyone; and let me first say what a pleasure it is to be back in Santiago. And to Foreign Minister Urrejola, Antonia, thank you so much for this morning, for the very good conversations that we had. I’m grateful to President Boric for his time, for the quality of the exchange that we had.  And just so thankful for the warm welcome that we’ve received from our friends and partners here in Chile.</p>
-<p>I also want to acknowledge Ambassador Meehan. You have no idea how pleased I am to be able to say “Ambassador” Meehan. But it is really thrilling to see you here in this new role. And as the president knows, as the foreign minister knows, there is no stronger partner than Ambassador Meehan.</p>
-<p>We have a relationship that has been bound together fundamentally by shared interests and shared values, and next year, indeed, we’ll celebrate 200 years of partnership.  That partnership spans things that matter most to our people – from economic and security issues, where we have longstanding ties, to new areas of cooperation on climate, on energy, on health, even outer space.</p>
-<p>And as I said, this relationship is based first and foremost on deeply shared values – a commitment to standing up for democracy and humans rights in our own countries, in this region, and indeed around the world.</p>
-<p>We see the strength and vibrancy of Chile’s democracy in the peaceful, inclusive process the country’s engaged in, with regard to charting a new constitution.  We see it in Chile’s leadership in regional organizations dedicated to promoting democracy and advancing human rights, such as co-chairing the OAS working group on Nicaragua and the recent presidency of the Inter-American Commission on Human Rights.  We see it in the position that this government has taken on holding countries – left, right, liberal, conservative – to the same standards on human rights and democracy.  There should be no ideological blocs when it comes to defending the principles that we’ve all agreed to in the UN and its charter, at the OAS, in the Inter-American Democratic Charter.  That’s why we call them universal rights, and we have to stand up wherever they’re being threatened.</p>
-<p>We’re also grateful for Chile’s clear voice in regional and multilateral organizations like the OAS, where we’ll be going tomorrow, and the United Nations, where – among other things – it has consistently condemned Russia’s unjustified war of aggression against Ukraine.</p>
-<p>We’re growing our economic ties.  Since Chile and the United States signed our Free Trade Agreement in 2003, trade between our countries has more than quadrupled, reaching more than $38 billion last year, supporting tens of thousands of jobs in both of our countries.  The United States is Chile’s top source of foreign direct investment, investing more than $25 billion in high growth areas, like Chile’s renewable energy sector.  And we intend to build on those ties, something we talked about today.</p>
-<p>Just to cite an example, the United States has invested $760 million and provided technical assistance across five solar power projects in Chile, several of which are already powering homes and business across the country.  Chile’s renewable energy sector already provides 45 percent of the country’s electricity supply and is helping further Chile’s ambitious clean energy goals, including carbon neutrality by 2050 – something else that we talked about today especially as we head to COP 27 together, in a little over a month’s time.</p>
-<p>Although Chile’s economy has grown over the years, so, too has inequity – here in Chile, but also more broadly across our own hemisphere.  That was worsened by the COVID-19 pandemic, the climate crisis, rising energy and food costs, which has been exacerbated again by the Russian aggression in Ukraine.</p>
-<p>But what we see across the board – in all of these areas, is that those hardest hit are ones who can least afford it.  Under President Biden, the United States has committed to partnering with Chile and other countries in the region to deliver solutions to the challenges that are directly impacting the lives of our people.  It’s a fundamental part of demonstrating that democracies like ours can deliver concrete results for our people: address their needs and advance their aspirations.</p>
-<p>That’s one of the reasons that we launched the Americas Partnership for Economic Prosperity.  We did this at the Summit of the Americas a few months ago.  It’s focused on laying the foundation for economic growth from the bottom up and the middle out by expanding digital connectivity, making our supply chains more resilient, including here in the hemisphere; creating clean energy jobs as we decarbonize; and getting regional economic institutions to mobilize more investment and credit, including in middle-income countries.  We’re looking forward to working with Chile on this initiative.</p>
-<p>We’re also expanding support for those across the region who don’t have access to essential services like health, like education. That’s the idea behind our commitment to work with partners to train and equip 500,000 local health care workers, across the hemisphere, in five years. This initiative, if fully realized, will make a profound practical difference in the lives of millions of people across our hemisphere.</p>
-<p>We discussed, as well, our growing collaboration on migration, and I expressed my appreciation for Chile’s leadership on this issue, including by hosting roughly half a million Venezuelan migrants and refugees and 180,000 Haitians.</p>
-<p>At the Summit of the Americas in June, Chile joined 21 other countries in the hemisphere in supporting the Los Angeles Declaration.  This declaration is an important moment because it recognizes our shared responsibility in meeting the migration challenge; and goes about it in a way that increases stability, creates opportunities for safe and orderly migration, and supports communities that host migrants, while holding criminals and human traffickers accountable.</p>
-<p>But for all the ties between our nations that we discussed today – and we covered many of them, and indeed we probably ran out of time; we could have discussed another dozen topics.  For all of the ties that we talked about today, perhaps none are as deep as the ties between our people.</p>
-<p>A little bit later today, I’ll meet with alumni of the Young Leaders of the Americas Initiative.  That’s an exchange program that has brought together over a thousand young entrepreneurs and business and social leaders across our hemisphere.</p>
-<p>Ultimately, it’s ties like these, especially ties that bind the rising generation of Chileans and Americans that give me the most hope for the future of our relationship and our democracies.  And they’re yet another reason we’re committed to continuing to strengthen the partnership between our governments.</p>
-<p>So again, Antonia, Foreign Minister, thank you very much.  It’s very good to be here today with all of you.</p>
-<p>Thank you.</p>
-<p><strong>MODERATOR</strong>:  Thank you.</p>
-<p>(Via interpreter) First question – Michael Crowley, New York Times.</p>
-<p><strong>QUESTION:  </strong>Thank you so much, Mr. Secretary, Madam Foreign Minister.  I was not expecting to go first, so I apologize my questions are not focused as much on the region as some that will follow, but thank you for your understanding.</p>
-<p>Secretary Blinken, as you must know, OPEC has just agreed to an oil production cut of 2 million barrels a day.  You joined President Biden on what was a somewhat controversial trip to Saudi Arabia recently that the President justified in part on the grounds of working with the Saudis to control oil costs.  What is your reaction to this decision, and are you specifically disappointed in the Saudis?</p>
-<p>Also, Russia has set an October 25th appeal hearing for Brittney Griner.  Could this change the status of negotiations over Griner and Paul Whelan?</p>
-<p>And Madam Minister, President Biden’s policy towards Venezuela has essentially left unchanged Trump administration policies toward the Maduro regime, including very severe economic sanctions.  Do you think this is the correct approach for the United States to Venezuela?  Thank you both.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Michael, thank you very much.  With regard to energy, first, what we’ve been clear about is the need for energy supply to meet demand.  That’s what we’ve been working on across the board, and we’ve done our part.  United States oil production is up by more than 500,000 barrels a day.  As you know, we have tapped into the Strategic Petroleum Reserve as well to make sure that energy is on the market and, also, as a way to stabilize prices. Indeed, energy prices have come down as a result of the efforts that we’ve made.</p>
-<p>And when it comes to OPEC, we’ve made clear our views to OPEC members.  We have a multiplicity of interests with regard to Saudi Arabia.  And I think the President laid those out during his trip, and they include everything from regional relationships, including improving relations between Arab countries and Israel; Yemen, where we’re working very closely with Saudi Arabia to try to continue the truce; and a number of other issues, and those were all reflected in the visit.  But we are working every single day to make sure to the best of our ability that, again, energy supply from wherever is actually meeting demand in order to ensure that energy is on the market and that prices are kept low.</p>
-<p>When it comes to Brittney Griner and Paul Whelan, I can’t speculate on what various court dates may or may not mean.  What I can tell you is this:  This has my full attention.  And as I said before, number one on my list of priorities, around the world, is doing everything we can to bring home any American anywhere who’s being arbitrarily or unjustly detained.  And that certainly applies in the case of Brittney Griner and Paul Whelan.  We, as you know, have been having an ongoing discussion with Russian authorities about this.  We put a substantial proposal on the table some months ago, and we urge Moscow to accept that proposal so that we can resolve at least this issue.  But our imperative is securing their release.  And I don’t want to weigh in on the particulars of where we are.  All I can tell you is we’re focused on it every single day.</p>
-<p><strong>FOREIGN MINISTER URREJOLA:  </strong>I’ll answer in Spanish if you’re okay with that.</p>
-<p>(Via interpreter) When it comes to Venezuela, this was an issue we discussed with Secretary Blinken at our meeting.  Our position is that we hope that the initial contact group, which is in Mexico – we hope that dialogue will start up again with Maduro’s government as well as with the Venezuelan opposition, what we want as a country.   And we are, again – agreement with the U.S. and other countries in the region, as well as other European countries, that dialogue should start up again so that in Venezuela in 2024, there may be free democratic elections.</p>
-<p><strong>MODERATOR:  </strong>(Via interpreter) And then for the Chilean press, Francisco Valenzuela, Channel 13.</p>
-<p><strong>QUESTION:  </strong>(Via interpreter) Good morning, Secretary of State, Madam Minister.  For both of you, I would like to thank you both for being here because there were some issues that were discussed during the – your initial introduction, your remarks, so thanks again for your understanding.</p>
-<p>I would like you to talk in greater detail about the meeting that Secretary Blinken had with President Boric.  What issues did you discuss?  Did you talk about the U.S. vote for Chile as far as its candidacy for the Human Rights Council, and Chile’s role?  As you were mentioning, you talked about negotiations over Venezuela and what the U.S. vision is when it comes to leftist governments whose governments have been historically critical of the U.S., and the relationship that your country has, Secretary Blinken, with Latin America.  Thank you.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Thank you very much for the question.  I don’t want to put any words in President Boric’s mouth.  That would not be appropriate.  But let me just say generally two things.  I think the foreign minister covered most of the issues that we discussed, but we also had a conversation about our shared approach and shared priorities that are reflected in what President Biden is working to do at home in the United States, as well as more broadly, and that I believe President Boric is working to do here in Chile.</p>
-<p>And that goes to building more equitable and inclusive economies.  It goes to dealing with the issues that are front and center in the lives of our people, whether it is – whether it’s security or whether it’s combating the effects of climate change, dealing with health issues, including COVID, and working in ways that meet the needs and aspirations of our people.  And I think we agreed that there’s tremendous commonality in the goals that we share and, indeed, many of the approaches that we’re bringing to bear.</p>
-<p>When it comes to these questions of left, right, and center, here’s what I think is important:  The political context in each country is different throughout our hemisphere, but there is a collective task to see that, as we were saying, our democracies actually deliver for our people, that we produce concrete results.  And my own sense is that what motivates electorates in all of our countries is the desire to see their governments actually address their concerns, and produce concrete results.  And if governments don’t, then chances are they’ll be voted out, someone else will be voted in.</p>
-<p>We have a – I think a shared responsibility, but also an opportunity, working closely together, to do exactly that, to deliver results for our people.  And one of the things that I shared with President Boric – something that I think he and President Biden had also talked about when they met at the Summit of the Americas – is the conviction of the United States that for virtually all of the challenges that our people face, we simply cannot be effective in addressing them alone.  We need partnerships.  We need cooperation.  We need collaboration.  And that starts with the closest of our partners like Chile.  That’s the way we see the world.  That’s the way we’re trying to make progress for our own people, but also for people throughout the hemisphere, and I think that’s something that was very much reflected in the conversation that I was very, very pleased and appreciative of having with President Boric today.</p>
-<p><strong>QUESTION:</strong>  Human Rights Council?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  That did not – it did not come up.</p>
-<p><strong>FOREIGN MINISTER URREJOLA:</strong>  No.</p>
-<p><strong>MODERATOR:</strong>  (Via interpreter) Leon Bruneau from Agence France-Presse.</p>
-<p><strong>QUESTION:</strong>  <em>Hola</em>.  Thanks for having this press conference.  I wanted to ask the question – well, to both of you, actually, but on this – as I understand it, Chile has a special exemption on visas, the U.S. Visa Waiver; and I think Chile is the only country in South America that has that, and that seems to be in jeopardy from what I understand, or is fragile.  And so, I’d like to ask <em>la ministra </em>if this was discussed and if you have given to the United States and Secretary any guarantees on that.</p>
-<p>And Mr. Secretary, so following up on that, I wonder if that is a concern of yours and that you may cancel this exemption visa – of U.S. Visa Waiver Program.  And then I’d like to ask a more general question.  You mentioned a lot – ideological blocks and what have you, but meeting in Colombia, in Chile, on Cuba specifically.  Constantly, the U.S. has been told that you have to change your policy and what have you.  Are you listening to the leaders in Latin America that are telling you the policy right now is not going anywhere?</p>
-<p>And if I may – I’m sorry, but it’s the news of the day – ask you a question on North Korea.  Obviously, the – North Korea fired a IRBM missile; it went over Japan.  The U.S. and South Korea responded by firing missiles during an exercise, a joint exercise.  Do you think that’s escalating or it has a risk of escalating the process against North Korea?  Thank you.</p>
-<p><strong>FOREIGN MINISTER URREJOLA:</strong>  (Via interpreter) When it comes to the Visa Waiver Program, we did not discuss this issue, during my meeting with the Secretary of State.  When it comes to that topic, I’d like to say that there is a plan that has been agreed upon with the U.S. to assess Visa Waiver Programs.  This is something that the U.S. does on an ongoing basis, not just with Chile but with other countries with whom it has this program.  We’re working in a very coordinated fashion.  Actually, the consular team has been in the U.S. talking to Homeland Security to talk about related issues.  We’re on the right path, but I’d like to say again that the assessment of the Visa Waiver Program is not something done only for Chile, but it’s done for all countries that have visa waivers.  It’s very well on its way, and we didn’t talk about it when we met, but – because this is under the purview of Homeland Security and there’s a team in the U.S. talking about this issue right now.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  The minister is exactly right, and we’re working very closely together on this.  Chile is the only country in Latin America that is part of the Visa Waiver Program; and we very much want to sustain that, and our teams are working to do that and I’m confident that we will succeed in doing that.</p>
-<p>On the other questions related to the hemisphere, look, one of the things I emphasize and want to make clear – and this is something that, again, without ascribing views to President Boric, this is also my understanding from listening so carefully to him over these months.  We do not judge countries based on their political orientation, again, whether it’s left, right, center, but simply put, on their commitment to democracy, to human rights, to other shared values.  And it’s important for us in working with countries around the world to uphold those basic values and those basic principles, again irrespective of where a country or a government may fall on the political spectrum; and, for that matter, irrespective of our actual relationship with them.</p>
-<p>Now we may approach this question differently depending on an individual country, but the basic principle is the same.  And when it comes to Cuba, I think you know the longstanding views of the United States, including this administration.  We’ve taken steps recently, including on remittances, on travel, on visas, to try to further help the Cuban people and empower them.  At the same time, we saw as, again, the Cuban people tried to speak up for their rights a year ago, that these protests – peaceful protests – were not only violently put down, but people were thrown in jail, including minors, with usually excessive prison terms – 15, 20, 30 years – just for speaking their minds.</p>
-<p>And so, we have to hold the Cuban Government to account, just as we would any other government, for denying the Cuban people those rights.  Again, we may have different approaches on the best way to do that.  And that’s a very important conversation that we’re always having because we all make our judgments, and certainly no one’s infallible when it comes to that, including us.  And we try to – we listen hard and learn from our partners and friends, but the underlying principle is the same.</p>
-<p>Shifting gears as you did to North Korea, to the Korean Peninsula, because you’ve heard very clearly from us over the last 24 hours, we strongly condemn the DPRK’s dangerous and reckless launch of a long-range missile that flew over Northern Japan, endangering Japanese citizens.  I spoke almost immediately to my Japanese and Korean counterparts; and I think you’ve seen that we are working very closely together, both on a bilateral basis but also on a trilateral basis – the United States, Korea, and Japan – to demonstrate and strengthen our defensive and deterrent capabilities in light of the threat from North Korea.</p>
-<p>We’ve called on the DPRK to refrain from further provocations and engage in a sustained and substantive dialogue.  This is something that we have proposed going back many months.  Unfortunately, the DPRK’s response has been to launch more missiles.  But we are taking appropriate defense and deterrent steps with allies and partners.  We’ve called for a UN Security Council meeting, and we’re consulting with our partners on next steps.</p>
-<p>But I also want to make very clear that our commitment to the defense of our allies and partners, Korea and Japan, is ironclad.  We believe that North Korea would be much better served by not only refraining from these actions but actually engaging in dialogue.  I think what we’re seeing is that if they continue down this road, it will only increase the condemnation, increase the isolation, increase the steps that are taken in response to their actions.</p>
-<p><strong>MODERATOR:</strong>  (Via interpreter) Last question from a Chilean agency, Francisco Valenzuela.</p>
-<p><strong>QUESTION:</strong>  (In Spanish.) Can you hear me, Secretary?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  I can hear you.  I’m just not hearing the translation.</p>
-<p><strong>STAFF:</strong>  (Via interpreter) Yes, the interpreter is waiting to receive audio.</p>
-<p><strong>QUESTION:</strong>  I might be a little bit rusty, but I can try to do it like this.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.</p>
-<p><strong>QUESTION:</strong>  Our second question is pertaining to investment.  How does your country observe the constitutional process going on here in Chile, and if in your judgment does it get – does it give some certainty for the American presence in business in our country under role of Chile and – are you hearing me?  Okay. Good.  Now I will switch back to Spanish because some words I just can’t translate.</p>
-<p>(Via interpreter) The role of Chile – you can ask me if you need me to repeat the question, Mr. Secretary, or I can continue – the role of Chile in multilateral treaties such as with the European Union or the treaty for the transpacific association known as TPP-11 and Chile were not members but – not as members but observers.  How do you see Chile in multilateral treaties at the global level?</p>
-<p>And I will repeat the first part:  If – how do you see investment when it comes to the constitutional process in Chile, as well as lithium in the energy sector?  Thank you very much, Mr. Secretary.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.  And I appreciate the switching to English.  I apologize that my Spanish is not good enough to do this in Spanish; I wish it were.  But thank you.</p>
-<p>First, I’m not going to say anything about the substance of the constitutional process.  We admire in fact the process itself and the way that Chileans are engaging this in a peaceful and constructive manner.  But as to the substance, this is obviously up to the Chilean people.  It’s not an issue for the United States, but here’s what I can say.</p>
-<p>First, as I noted earlier, we’ve already seen over the last couple of decades, since our free trade agreement was signed, a substantial increase in trade between us.  It’s now about 32, almost 33 billion dollars a year.  And the United States is the leading supplier of foreign direct investment in Chile.  So, the relationship is already strong, both on the trade side and on the investment side.</p>
-<p>But we are convinced that it can grow stronger still and that our two countries are natural partners when it comes to this, and our hemisphere should be even more of natural partners together.  And I think you’ll see this play out in a number of ways that we discussed today and that I alluded to.</p>
-<p>First, through the partnership that we put forward at the Summit of the Americas for prosperity in the hemisphere, there are a number of areas where, working together, we can I think significantly increase trade and investment, including in Chile.  For example, the partnership that we’re designing together focuses on things like building strong supply chains in the Western Hemisphere.  We all saw what happened when we had challenges with our supply chains during COVID.  We need to make sure that doesn’t happen again.  But there’s also tremendous opportunity there for business, for investment.</p>
-<p>Similarly, because of Chile’s leadership on climate, we see a future together where we’re working together and investing together, including here in Chile, on clean technology and on green economy jobs.  These are the jobs of the future, and Chile is very, very well placed, I think, to produce many of those jobs.  And we talked about that today, and I think we’re looking at ways to generate more American investment.  We’re already done a lot on solar, as we’ve discussed.  But there’s a lot more to be done.</p>
-<p>At the same time, re-energizing and refocusing the international financial institutions, including the multilateral development banks here in our own hemisphere, in ways that actually address the needs of people and put investment and put loans and put money into projects that will actually make a difference in their lives – that, too, is something that we’re focused on together and that I think can create even more opportunity here in Chile.</p>
-<p>So, I think across the board we have a strong foundation, but there is much more that we can do.  And we bring to it the same perspective, which is the need to do it in a way that is inclusive and that really tries to create growth for everyone – not just some, but for everyone.  That’s a shared focus of both of our governments and it animates what we’re going to be doing together in the years ahead.  Thank you.</p>
-<p><strong>FOREIGN MINISTER URREJOLA:</strong>  (Via interpreter) On the first issue, I’d like to go back to the last thing that Secretary Blinken said about how we are working with the United States on different topics related to investment, but especially from the perspective of the fight against climate change and the importance of renewable energy.  This is something on our agenda with the United States, as well as with European countries and other countries – at the global level, at the UN.  This is a consistent issue.  The president’s bilateral agenda, I’ve discussed it with many foreign ministers.  There is an interest in many countries in investing in renewable energy, and as Secretary Blinken said, supply chains, lithium, are important topics for us as well.  We share the viewpoint that we must review and refocus the work on multilateral banks.</p>
-<p>I would also like to remind you of the president’s visit to Canada when he met with the minister of the economy, Canadian businesses, and they talked specifically about Canadian investments.  It’s a very important partner for Chile.  And as you mentioned, I believe, there was a very important conversation in that regard, and we’re working hand-in-hand with Canadian companies.  Same thing with the United States in the framework of the Summit of the Americas.  The minister and the president met with U.S. businesses as well.  The same thing happened at the UN with Mario Marcel, the Council of the Americas.</p>
-<p>So, we are working very closely with different businesses.  I was in Spain, met with Spanish businesses.  There’s an open agenda when it comes to investment.  I think that we are well on the right path.  I’d like to say, as well, that we have negotiating teams, this – looking at the modernization agreement with the EU this week.  As the president has said, the idea is to be able to bring those to a close by the end of the year.  We’re on the right path.  And so, everything I’m saying, as well as what Secretary Blinken has said, shows that we are working very strongly on these issues.</p>
-<p><strong>MODERATOR:  </strong>(Via interpreter) We would like to thank you for coming to this press conference.  We request that the national press allow our U.S. colleagues to leave because they must join the Secretary’s delegation.  Thanks very much.</p>
-<p><input type="hidden" data-filter="111001000100" /></p>
 ]]></content:encoded>
 					
 		
@@ -2086,6 +1763,635 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The following is attributable to Spokesperson Ned Price:</p>
 <p>Deputy Secretary of State Wendy R. Sherman met with Secretary General of the Executive Committee of the PLO Hussein AlSheikh today in Washington, D.C.  The Deputy Secretary and the Secretary General discussed their commitment to a two-state solution along the pre-1967 lines with mutually agreed land swaps and joint efforts to improve the quality of life for the Palestinian people.  They also discussed current tensions in the West Bank and the urgent need to improve the security environment.  The Deputy Secretary called on all parties to restore calm and desist from unilateral actions.</p>
 <p><input type="hidden" data-filter="100000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Department Press Briefing – October 4, 2022</title>
+		<link>https://www.state.gov/briefings/department-press-briefing-october-4-2022/</link>
+		
+		<dc:creator><![CDATA[Vedant Patel, Principal Deputy Spokesperson]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 22:19:50 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?post_type=state_briefing&#038;p=384756</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Vedant Patel, Principal Deputy Spokesperson</p>
+<p>Washington, DC</p>
+<p>2:19 p.m. EDT</p>
+<p><strong>MR PATEL:</strong> Hey, everybody, and sorry for being a little tardy. Apologies.</p>
+<p>So I have one quick thing for you at the top, and then I’m happy to dive in to your questions.</p>
+<p><a id="post-384756-DEPARTMENT"></a> So I am happy to announce today that the United States is proud to nominate Amy Pope to be the next director general of the International Organization for Migration.</p>
+<p>Amy Pope is an experienced leader that IOM needs at this time of unprecedented displacement and migration. She has extensive experience fostering collaboration between governments, NGOs, and communities to translate their policies into reality. I worked with her closely at the White House, where she was brilliant, and a wonderful colleague.</p>
+<p>She has proven her exceptional capacity to achieve results that serve migrants, to lead and support IOM’s workforce, and to collaborate closely with member states. The U.S. strongly supports her candidacy, and we are confident that under her leadership IOM will thrive.</p>
+<p>With that, Matt, if you want to kick us off.</p>
+<p><strong>QUESTION:</strong> Sure. Just to make sure – I’m pretty sure I know the answer to this – this nomination was actually announced yesterday.</p>
+<p><strong>MR PATEL:</strong> Correct. It was announced &#8212;</p>
+<p><strong>QUESTION:</strong> You wanted to have &#8212;</p>
+<p><strong>MR PATEL:</strong> The Secretary announced it via a statement.</p>
+<p><strong>QUESTION:</strong> You wanted to get it on camera?</p>
+<p><strong>MR PATEL:</strong> We just wanted to &#8212;</p>
+<p><strong>QUESTION:</strong> Reiterate it?</p>
+<p><strong>MR PATEL:</strong> &#8212; again reiterate our proud nomination of Amy.</p>
+<p><strong>QUESTION:</strong> Okay, fair enough. So North – let’s start with North Korea. As we saw, the Secretary spoke overnight, I suppose, or very late last night, with his Japanese and South Korean counterparts. I see the White House announce that the President spoke with Prime Minister Kishida and Jake Sullivan spoke with their national security advisor. So are you aware of any other contacts that there have been since this missile launch? And where does the administration intend to go next with its response?</p>
+<p><a id="post-384756-NORTHKOREAREGION"></a><strong>MR PATEL:</strong> Sure. So Deputy Secretary Sherman and Special Representative Kim had a chance to speak with their counterparts as well. But beyond that, I want to take a little bit of a step back and reiterate what you saw the Secretary and some of the communications coming from the administration have reiterated, which is that we condemn this dangerous and reckless launch of a long-range ballistic missile that flew over Japan, and it posed an unacceptable threat to the Japanese public. This action is a clear violation of multiple resolutions adopted by the UN Security Council, and it again demonstrates the threat that the DPRK holds both as it relates to its unlawful weapons of mass destruction program, but also its ballistic missiles program, and the threat that it poses to its neighbors as well.</p>
+<p>Together with the international community, we call on the DPRK to refrain from further provocations and to engage in sustained and substantive dialogue. We continue to consult closely with our allies, as is evidenced by the number of high-level communications that have happened from across the interagency with their counterparts. And I’d also reiterate that our commitments to Japan and the Republic of Korea are ironclad.</p>
+<p><strong>QUESTION:</strong> Right, but is there any – are there any thoughts about where you take it from here, beyond the consultations? I mean, what do the consultations lead to? What are you consulting about? Presumably it’s a response.</p>
+<p><strong>MR PATEL:</strong> I don’t have any specific actions to preview or read out for you at this time, but again, we condemn this dangerous and reckless launch, and again, are holding close consultations and continue to communicate directly with our allies and partners on this issue, especially with the Republic of Korea and Japan.</p>
+<p><strong>QUESTION:</strong> Thanks.</p>
+<p><strong>QUESTION:</strong> Can I follow up?</p>
+<p><strong>MR PATEL:</strong> Same topic?</p>
+<p><strong>QUESTION:</strong> Sure.</p>
+<p><strong>MR PATEL:</strong> Go ahead, Shaun.</p>
+<p><strong>QUESTION:</strong> Just the secretary-general himself said this was – the UN secretary-general said this was an escalation. But what’s the overall read about this happening now, and how dangerous it is? And with the repeated warnings about a nuclear test, is there any new indication that the United States have that that might be imminent? And any messaging that you want to share?</p>
+<p><strong>MR PATEL:</strong> Sure. So we’re still assessing the specific nature of this recent launch, which, again, posed an unacceptable threat to the Japanese public. As you noted at the beginning of your question, this is the 39th ballistic missile that the DPRK has launched in 2022, and this kind of continued action, not only is it unlawful, it is destabilizing to the region and the whole international community. And we continue to condemn this kind of testing and this kind of activity.</p>
+<p>Anything else on North Korea?</p>
+<p><strong>QUESTION:</strong> Yeah, I have one on North Korea.</p>
+<p><strong>MR PATEL:</strong> Go ahead.</p>
+<p><strong>QUESTION:</strong> You’ve been saying, I guess since the beginning of the administration, that you’ve been asking the North Koreans for dialogue. You mentioned encouraging them to engage in dialogue. Is there still kind of an offer on the table despite what they’re doing? That hasn’t changed that you want them to talk?</p>
+<p><strong>MR PATEL:</strong> Absolutely. So our position on diplomacy and dialogue has not changed, and it remains the same. And frankly, this action underscores the urgent need for dialogue and diplomacy. I’ll also note that our ultimate goal here, which is the complete denuclearization of the Korean Peninsula, has not changed either. And we remain prepared to engage in serious and sustained diplomacy to make tangible progress towards these goals. And we continue to be prepared to meet with the DPRK without preconditions, but it’s unfortunate that these efforts towards diplomacy and outreach has not responded – has not – they have not reacted similarly.</p>
+<p><strong>QUESTION:</strong> So the offer to meet without preconditions, that will remain on the table sort of regardless of the actions that – if they continue taking escalatory actions?</p>
+<p><strong>MR PATEL:</strong> That continues to be our posture. We’re prepared to meet with the DPRK without preconditions. We consider that to be an important step towards meeting our ultimate goal, which is the complete denuclearization of the Korean Peninsula. And we continue to feel that diplomacy and dialogue are a key – a key aspect of achieving that goal.</p>
+<p>Any &#8212;</p>
+<p><strong>QUESTION:</strong> Just one other certain thing.</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> I wonder if you had anything on sort of just – there’s unconfirmed reports just before we came into this briefing, I guess, that there was an explosion, possibly multiple explosions and a fire at a South Korean air force – the South Korean air force’s 18th fighter wing base. At the moment it’s very unconfirmed, but I’m wondering if you guys have any &#8212;</p>
+<p><strong>MR PATEL:</strong> I don’t have anything to offer on that, but we can – we can check and see if we have anything to assess on that.</p>
+<p>Anything else on the region before we move away?</p>
+<p><strong>QUESTION:</strong> Yes.</p>
+<p><strong>MR PATEL:</strong> Go ahead.</p>
+<p><strong>QUESTION:</strong> I’m just wondering how serious the administration is regarding this launch. Like, 4,600 kilometers is long enough to strike Guam, and with more development could enable them to possibly strike Hawaii, Alaska, or even the West Coast. With that, like, how long do you all plan to keep having this door open for, like, a call back? Is there a timeline?</p>
+<p><strong>MR PATEL:</strong> Well, like I – like I answered Matt’s question, I’m not going to speculate on any kind of response or specific actions. As I said, we continue to consult closely with our allies and partners. But since you asked, I will again use this opportunity to say that the U.S. Government condemns this dangerous and reckless launch. We think that it’s unacceptable. It is a clear violation of multiple UN Security Council resolutions, and it again demonstrates the DPRK’s unlawful and destabilizing activities in the region.</p>
+<p>Go ahead, in the back.</p>
+<p><strong>QUESTION:</strong> Could you address anything about the joint air drills, the South Korean-U.S. air drills in response to this launch?</p>
+<p><strong>MR PATEL:</strong> Sure. So I can confirm that we have had a bilateral military exercise with Japan and the Republic of Korea. I will refer you to the Pentagon and let my Pentagon colleagues there speak to those in greater detail. But what I would take away from that is that the United States commitment to the defense of the Republic of Korea and Japan is ironclad. But I will let my colleagues at the Pentagon speak to those in greater specificity.</p>
+<p>Anything else on the region before we move away? Gitte?</p>
+<p><strong>QUESTION:</strong> Thanks, Vedant. Two questions on Iran. Yesterday, President Biden issued a statement in support of the people who are demonstrating in Iran, and in it he says that the Iranian regime has been suppressing people and denying their fundamental rights for decades, and then he promises more sanctions. But the effectiveness of these sanctions is really under question. Would the Biden administration consider deporting the family members of all Iranian authorities who are here in the United States studying, working, and just living, irrespective of their legal status?</p>
+<p><a id="post-384756-IRAN"></a><strong>MR PATEL:</strong> So let me – let me try to – let me answer that in two parts. First, as it relates to the President’s statement yesterday, as he said, we will continue to take action to impose further costs on the perpetrators of the violence against peaceful protesters and other human rights abuses. I don’t have anything to preview. I’m certainly not going to preview any potential actions.</p>
+<p>But as it relates to the second part of your question, deportation and the enforcement of our immigration laws is something that’s handled by the Department of Homeland Security, not the State Department, so I would refer you to DHS. Our viewpoint is that individual deportations are a legal issue and not a political tool. But again, this is something that DHS can speak to. I’m not going to get into it from here.</p>
+<p><strong>QUESTION:</strong>  Well you – the administration keeps saying that they have all sorts of different tools in their – for cases like this or other cases. Couldn’t this be one way of really getting back at the authorities and showing them that the U.S. is serious?</p>
+<p><strong>MR PATEL:</strong>  We do have a number of tools in our arsenal to hold Iran accountable for a lot of their destabilizing activities. I’m not going to read them out necessarily from here. But as it relates to this, as it relates to individual deportations, our view is that they’re a legal issue, not a political tool, and they live within the auspices of the Department of Homeland Security. So I’d refer you to them to speak to that.</p>
+<p><strong>QUESTION:</strong> Okay. Thank you. And &#8212;</p>
+<p><strong>QUESTION:</strong>  Does that mean that there’s no policy implication to this at all?</p>
+<p><strong>MR PATEL:</strong>  No policy implication to what, Matt?</p>
+<p><strong>QUESTION:</strong>  Well, I mean, yes, DHS is the one that takes them to court and then physically picks them up and flies them out of the country. But they don’t just do that on their own.</p>
+<p><strong>MR PATEL:</strong>  I –</p>
+<p><strong>QUESTION:</strong>  There’s a policy – I mean, they can, obviously. But in a situation like this there’s got to be a policy decision made above DHS &#8212;</p>
+<p><strong>MR PATEL:</strong>  Right.</p>
+<p><strong>QUESTION:</strong>  &#8212; that you are going to go after – as she suggested &#8212;</p>
+<p><strong>MR PATEL:</strong>  Sure.</p>
+<p><strong>QUESTION:</strong>  &#8212; the – or may go after the families of Iranian officials who are here.</p>
+<p><strong>MR PATEL:</strong>  Look, I –</p>
+<p><strong>QUESTION:</strong>  DHS isn’t going to make that decision on their own, unless they’ve gotten more powerful than I’m aware of.</p>
+<p><strong>MR PATEL:</strong>  Look, I think what the – what I would reiterate and what I would say is that I’m not going to preview any actions. As the President alluded to his statement, there will be additional actions coming. I’m certainly not going to get into that from here. But I would also agree that there continue to be a number of tools in our toolbelts and items in our arsenal that we can use to continue to hold Iran accountable for its destabilizing actions.</p>
+<p>On your specific question about deportations, they are a legal issue, not a political tool, and they are handled by DHS, not from the State Department. So I don’t have anything else to add on that.</p>
+<p><strong>QUESTION:</strong>  Another question on this.</p>
+<p><strong>MR PATEL:</strong>  Sure.</p>
+<p><strong>QUESTION:</strong>  About Iran and Iraq. A VOA Kurdish investigation has exposed that Iran, through the Iraqi Government, is pressuring the Iraqi Kurdistan officials to tell the Iranian Kurdish groups in Kurdistan to expel them, actually. Officials have told VOA that Iraqi – the Iraqi military delegation warned the Iraqi Kurdistan region they have – we have people who have said that the Iranians have amassed forces on the Iraqi Iran border and that they have threatened to attack these people.</p>
+<p>Now, should Iran conduct such an attack against the opposition group in Iraq, would – number one, has the U.S. administration been told about this from the Iraqi Kurdistan? And would the U.S. get involved? Would it help the Regional Government of Kurdistan to face such attack if it happened?</p>
+<p><strong>MR PATEL:</strong>  So I don’t have any specifics or anything to offer on that. What I will say is that we would take issue with any violation of Iraq’s sovereignty and territorial integrity. But I don’t have any additional assessment to offer on that. Anything else?</p>
+<p><strong>QUESTION:</strong>  You mean that – sorry – post-2003 you mean?</p>
+<p><strong>MR PATEL:</strong>  Pardon?</p>
+<p><strong>QUESTION:</strong>  You would take issue with any violation of Iraq’s sovereignty and territorial integrity post-2003?</p>
+<p><strong>MR PATEL:</strong>  Thank you.</p>
+<p><strong>QUESTION:</strong>  Is that what you mean?</p>
+<p><strong>MR PATEL:</strong>  Thank you, Matt. I – we &#8212;</p>
+<p><strong>QUESTION:</strong>  Right. Okay. Just making sure.</p>
+<p><strong>QUESTION:</strong>  On the Iran deal –</p>
+<p><strong>MR PATEL:</strong>  Hold on, Said. Said, I have to – let me – there are other folks that with their – I will come back to you, Said, I promise.</p>
+<p><strong>QUESTION:</strong>  On Iran, on Iran.</p>
+<p><strong>MR PATEL:</strong>  Go ahead.</p>
+<p><strong>QUESTION:</strong>  This is about Namazi, Baquer Namazi.</p>
+<p><strong>MR PATEL:</strong>  Sure.</p>
+<p><strong>QUESTION:</strong>  Can you confirm if he is at the moment in the USA? And has anyone from State Department met with him and knows about his condition?</p>
+<p><strong>MR PATEL:</strong>  So out of the respect for the family’s privacy, I don’t have any other details to offer. And we request that the media also respect their privacy. But would take a step back, just to make sure folks know what we’re talking about, is that wrongfully detailed U.S. citizen Baquer Namazi has been permitted to depart Iran and his son Siamak, who also was wrongfully detained, has been granted a furlough from prison. But again, out of respect for the family’s privacy, I don’t have any other details to offer on this.</p>
+<p><strong>QUESTION:</strong>  And about the negotiations that has happened for this release, can you give us any details? What sort of negotiations was that? What sort of a deal you broke?</p>
+<p><strong>MR PATEL:</strong>  So we understand that the lifting of this travel ban and Siamak’s furlough were related to medical need. They were not part of any deal or anything like that. So I don’t have anything additional to offer. I would reiterate, though, that Baquer Namazi was wrongfully detained in Iran and then not permitted to leave the country, despite after serving his sentence and despite having urgent medical need. But again, our understanding is that the lifting was related to medical need.</p>
+<p>Said.</p>
+<p><strong>QUESTION:</strong>  There was a payment of $7 billion from South Korea to &#8212;</p>
+<p><strong>MR PATEL:</strong> There has been no facilitation of any funds transferred. That is absolutely false.</p>
+<p><strong>QUESTION:</strong> But you know it’s very hard to believe that Islamic Republic released them based on good faith and – because that has never happened before.</p>
+<p><strong>MR PATEL:</strong> That is a question for Tehran and not for me.</p>
+<p>Said, you had a question.</p>
+<p><strong>QUESTION:</strong> One more on Iran, please.</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> Sorry, Said. Family members of Nika Shakarami said that Iranian security forces stole body of 16-year-old protester after reportedly beating her to death and buried her secretly in a village in Iran. Are you aware of this report that BBC talked about?</p>
+<p><strong>MR PATEL:</strong> So I’m not aware of this specific report, Michel. But since you asked the question, I do want to take an opportunity to reiterate what you’ve seen the President and the Secretary and a number of others say over the past few days, which is that we are gravely concerned that the Iranian Government is intensifying its violent crackdown on peaceful protesters who are demanding their equal rights and demanding basic human rights and human dignity. We’re appalled by some of these crackdowns, especially as it relates to the crackdown on students. And so as the President said, we will continue to take actions to impose further costs. We will continue to monitor and pay close attention and impose costs on these perpetrators of peaceful protesting and human rights abuses as well.</p>
+<p>Said.</p>
+<p><strong>QUESTION:</strong> Can I move on?</p>
+<p><strong>MR PATEL:</strong> Sure. If there’s anything else on the region before we move on? All right, Said. Go ahead.</p>
+<p><strong>QUESTION:</strong> Okay. On the Palestinian issue, first of all, can you update us on the meeting that Hussein al-Sheikh and PA official have had today?</p>
+<p><a id="post-384756-ISPAL"></a><strong>MR PATEL:</strong> Sure. So Secretary General al-Sheikh is in Washington today for meetings. He met today with Deputy Secretary Sherman, and we will have a readout of that later today. He also met with other senior State officials and other interagency officials as well. The – what this is largely about, Said, is this administration’s focus on renewing engagement with Palestinian leadership and deepening diplomatic ties with the Palestinians. And as you saw, this is – President Biden had a meeting with President Abbas in July, and this is an extension of those efforts to deepen relationships, and engagement in Washington is naturally a part of that.</p>
+<p><strong>QUESTION:</strong> Did you guys commit to him in any way about a date, a possible date, for reopening the American consulate in Jerusalem? I know that’s probably one of the issues that, I mean, logically he would have raised.</p>
+<p><strong>MR PATEL:</strong> Right. I don&#8217;t have any specifics to offer yet, Said, but we will have a readout on this meeting later today. Like I said, these are part of efforts to renew and deepen our engagement with Palestinian leadership, and so we’ll have more to offer in the readout of this meeting.</p>
+<p><strong>QUESTION:</strong> A couple more questions.</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> On the issue of administrative detention, rights groups, Israeli and international rights groups are saying that the Israelis are holding somewhere in the neighborhood of 800 Palestinians under administrative detention. Now these detentions or imprisonments can go on forever sometimes. I mean, some people are still under that kind of detention for decades, I mean for 20 years and so on. What is your position – what is the United States position – on holding someone indefinitely without any charges?</p>
+<p><strong>MR PATEL:</strong> Well, Said, the U.S. urges the full respect for human rights both in Israel but also in the West Bank and Gaza. And as we have said many times before, we believe that Palestinians and Israelis alike deserve equal measures of security, prosperity, and freedom.</p>
+<p><strong>QUESTION:</strong> But honestly, with all due respect, I mean, when you say this and then we see, as we saw last week, the Israelis chase a 70-year-old, and then he falls to his death – I mean, these calls ring hollow, with all due respect, I mean, equal measures and all these things – the Palestinians are not holding Israelis under administrative detention. They are not destroying their home; they’re not blowing them up; they’re not removing them and so on. There are no equal measures. There are no equal measures. So my question to you: Will the United States take a position on the administrative detention? I think you would probably do that if it were else. I mean, this is question that I’ve probably raised many, many times over the years in this room.</p>
+<p><strong>MR PATEL:</strong> I certainly appreciate your question, Said. I don&#8217;t have any additional assessments to offer here other than the U.S. urges the full respect for human rights in Israel, in the West Bank, and Gaza. As we have said many times before, Palestinians and Israelis alike deserve equal measures of security, prosperity, and freedom.</p>
+<p><strong>QUESTION:</strong> Okay. And lastly, on the child Rayyan Suleiman, last week you said that you have asked the Israelis for an investigation, a formal investigation. Have they responded to you in any way?</p>
+<p><strong>MR PATEL:</strong> So Said, I want to take a little bit of a step back and clarify my comments from last week’s phone briefing because I think you and a couple others are taking them out of context. We did not ask for an investigation. What we said was we welcome investigation that the IDF had already indicated was underway. I understand from the latest reporting that the child tragically died of heart failure, which of course does not make this &#8212;</p>
+<p><strong>QUESTION:</strong> (Inaudible).</p>
+<p><strong>MR PATEL:</strong> &#8212; which does not make this any less heartbreaking. But statements on this from the IDF made clear that an initial inquiry showed no connection, that this issue continues to be up to review. So I would refer you to them, but I did want to clarify my comments.</p>
+<p><strong>QUESTION: </strong>So you are not &#8212; just to be clear, you are not calling for an investigation into this?</p>
+<p><strong>MR PATEL: </strong>What I said was that we welcome a thorough investigation &#8212;</p>
+<p><strong>QUESTION: </strong>I understand. I’m just saying what you’re saying now &#8212;</p>
+<p><strong>MR PATEL: </strong>I just wanted to &#8212;</p>
+<p><strong>QUESTION: </strong>&#8212; that you are not calling for an investigation &#8212;</p>
+<p><strong>MR PATEL: </strong>What we are –</p>
+<p><strong>QUESTION: </strong>&#8212; at this particular incident.</p>
+<p><strong>MR PATEL: </strong>What I said and what I would reiterate today is that we welcome a thorough and immediate investigation. The IDF is already – that process is underway, and so I will – I will let them speak to that. But really not &#8212;</p>
+<p><strong>QUESTION: </strong>Okay. Well, since you’re going to quibble over his use of words, I’m going to quibble with yours because you didn’t say we would welcome. You said, “We support a thorough and immediate investigation,” unless the transcript that I’m reading off of that I just pulled up on the website is wrong.</p>
+<p><strong>MR PATEL: </strong>No, you are – you are right.</p>
+<p><strong>QUESTION: </strong>So you didn’t say, “We welcome an investigation.” You said, “We support a thorough and immediate investigation into the circumstances surrounding the child’s death.”</p>
+<p><strong>MR PATEL: </strong>That is correct. My &#8212;</p>
+<p><strong>QUESTION: </strong>Is there difference between welcome and support that you’re trying to &#8212;</p>
+<p><strong>MR PATEL: </strong>My intention was just to indicate that this was &#8212;</p>
+<p><strong>QUESTION: </strong>Okay.</p>
+<p><strong>MR PATEL: </strong>&#8212; an investigation that the IDF &#8212;</p>
+<p><strong>QUESTION: </strong>Okay.</p>
+<p><strong>MR PATEL: </strong>&#8212; had already under &#8212;</p>
+<p><strong>QUESTION: </strong>No, no, I don’t think anyone is saying that you’re urging an investigation or calling for an investigation &#8212;</p>
+<p><strong>MR PATEL: </strong>Well &#8212;</p>
+<p><strong>QUESTION: </strong>&#8212; but there is a difference between welcome and support unless &#8212;</p>
+<p><strong>MR PATEL: </strong>I just wanted to clarify that piece.</p>
+<p><strong>QUESTION: </strong>&#8212; you’re trying to say that –</p>
+<p><strong>MR PATEL: </strong>Nope. I wanted to clarify that latter piece, Matt.</p>
+<p><strong>QUESTION: </strong>Okay.</p>
+<p><strong>MR PATEL: </strong>Thank you.</p>
+<p>Shaun.</p>
+<p><strong>QUESTION: </strong>Can I go to &#8212;</p>
+<p><strong>MR PATEL: </strong> On same region or shifting subjects?</p>
+<p><strong>QUESTION: </strong>No, it’s on Russia.</p>
+<p><strong>MR PATEL: </strong>Go ahead.</p>
+<p><strong>QUESTION: </strong>Could I ask you – there is a court in Russia today – talked about another American being sentenced – Robert Gilman. He was identified as – in Russian news agencies as – he was accused of kicking an officer. Do you have anything about this, and if so, whether there’s been consular access?</p>
+<p><a id="post-384756-RUSSIA"></a><strong>MR PATEL: </strong>So due to privacy considerations, there is going to be a limit to what I can offer. But we are aware of Russia’s court’s decisions, and we take seriously our commitment to assist U.S. citizens abroad and are continuing to monitor the situation. We continue to insist that the Russian Federation allow consistent, timely consular access to all U.S. citizens, and we urge the Russian Government to ensure fair treatment to all U.S. citizens detained in Russia. But I don’t have anything else to offer.</p>
+<p><strong>QUESTION: </strong>Sure. I mean, has there been an access in this case? Is that a concern in this case?</p>
+<p><strong>MR PATEL: </strong>Again, due to privacy considerations, there’s a limit to what I can say. I don’t have any additional comments to offer.</p>
+<p><strong>QUESTION: </strong>Sure. And I know you just said nothing more to offer, but just briefly – I mean, is there any indication he was targeted because of his U.S. citizenship?</p>
+<p><strong>MR PATEL: </strong>Again, due to privacy considerations, I don’t have further assessments to provide on this.</p>
+<p><strong>QUESTION: </strong>Sure. I have some stuff on other regions in the world, unless someone else has more on Russia.</p>
+<p><strong>MR PATEL: </strong>Sure. Still on Russia?</p>
+<p><strong>QUESTION:</strong> (Inaudible.)</p>
+<p><strong>MR PATEL:</strong> I’ll come back to you, Shaun. I promise.</p>
+<p><strong>QUESTION:</strong> Have you been in touch with the Russian Government officials on this particular case, or is it too early to talk about?</p>
+<p><strong>MR PATEL: </strong>Again, due to privacy considerations, I don’t have anything to offer additional beyond what I said otherwise.</p>
+<p><strong>QUESTION: </strong>Thank you so much. On Russia, again &#8212;</p>
+<p><strong>QUESTION: </strong>How does that have to do – how does that have anything to do with privacy considerations?</p>
+<p><strong>MR PATEL: </strong>What do you mean, Matt?</p>
+<p><strong>QUESTION: </strong>Well, I think the question was: have you been in touch with Russian officials about this case? You’re confirming that there is a case, that you’re aware of it, but privacy considerations prevent you from saying whether you’ve asked – you’ve gotten in touch with the Russians about it?</p>
+<p><strong>MR PATEL: </strong>Due to privacy considerations, there – I – there are limits to what I can get into.</p>
+<p><strong>QUESTION: </strong>That has nothing to do – yeah, but that has nothing to do with privacy.</p>
+<p><strong>MR PATEL: </strong>As I said at the top of Shaun’s question, we continue to insist consistent consular access.</p>
+<p><strong>QUESTION: </strong>Well, I get it, but you &#8212;</p>
+<p><strong>MR PATEL: </strong>And we’re monitoring the situation, but I don’t have any other assessments.</p>
+<p><strong>QUESTION: </strong>Yeah, but I think you need to come up with a better explanation for why you’re refusing to say anything than privacy considerations about a government-to-government – a government-to-government contact that has nothing to do with the person’s privacy. He’s just – he’s just asking whether you’ve been in touch with them or not.</p>
+<p><strong>MR PATEL: </strong>Well, like I said, we are aware of the Russian’s court’s decision, and we take seriously our commitment to assist U.S. citizens who are abroad.</p>
+<p><strong>QUESTION: </strong>On that line, I have a question about Russians.</p>
+<p><strong>MR PATEL: </strong>Sure.</p>
+<p><strong>QUESTION: </strong>You probably are aware of the reports that the European Union has issued a coordinated efforts that they are summoning Russian ambassadors, most recently I think yesterday in Brussels, to express their concern on annexation. Is the United States going to follow suit? And if not, why not?</p>
+<p><strong>MR PATEL: </strong>We have taken – I don’t have any specific actions to read out specifically, but I will note that we have taken a number of actions since last week to make clear our vehement condemnation and opposition to the efforts around not just the sham referenda but also the annexation.</p>
+<p>You saw today another tranche of security assistance be announced. You saw late last week a robust interagency action between the Treasury Department, the State Department, and the Commerce Department that have imposed imposing actions on Russia’s leaders within the Kremlin and things of that nature. So I don’t have any future actions to preview as it relates to that, but we have made our opposition to these annexations quite, quite clear and quite vocal.</p>
+<p>Shannon.</p>
+<p><strong>QUESTION: </strong>Has there been any progress towards securing the freedom of Brittney Griner or Paul Whelan? And can you characterize any ongoing talks with Russian officials to that aim?</p>
+<p><strong>MR PATEL: </strong>Yeah, so I don’t have any additional updates to provide as it relates to the wrongful detention of Brittney Griner and Paul Whelan. We continue to urge their release. Secretary Blinken spoke to you all a number of weeks ago and spoke about a substantial proposal that was on the table earlier this summer to facilitate their release. Our governments are communicating about that, but the Russians should take the deal that’s on the table. But I don’t have any other updates to provide.</p>
+<p>Shaun, coming back to you.</p>
+<p><strong>QUESTION: </strong>Sure. Could I ask a couple things in Latin America?</p>
+<p><strong>MR PATEL: </strong>Sure.</p>
+<p><strong>QUESTION: </strong>Can we do Russia a little bit more?</p>
+<p><strong>MR PATEL: </strong>Actually – okay, you had a couple questions. Michel, did you have – you had a question on a similar topic?</p>
+<p><strong>QUESTION: </strong>No. On Israel and Lebanon.</p>
+<p><strong>MR PATEL: </strong>Okay. We’ll take your question in the back.</p>
+<p><strong>QUESTION: </strong>Thank you. I’m Mark Stone from Sky News. Just on Russia and Ukraine, there have been some quite confused reporting – there has been some confused reporting about a Russian train, military train that might be connected somehow to its nuclear capabilities moving. I wondered if you could comment on that and simply comment on whether you have seen any change in Russia’s nuclear posture.</p>
+<p><strong>MR PATEL: </strong>So I don’t have any assessment to provide about any updates on the ground or any of that reporting, but I would say is that as Secretary Blinken has said, we have heard a lot of irresponsible rhetoric coming from Russia and coming from Vladimir Putin. And we are focused on making sure that we are all acting responsibly, especially when it comes to this kind of loose rhetoric and saber-rattling. We’ve been very clear with Russia publicly as well as privately to stop its irresponsible rhetoric regarding nuclear weapons, and we’ve addressed this both from the Secretary and the President have spoken to this as well.</p>
+<p><strong>QUESTION: </strong>Just to follow up if I may, some U.S. administration officials have been quite clear over the past few weeks in stressing that they have not seen any change in Russia’s nuclear posture. So as of today, have you seen any change?</p>
+<p><strong>MR PATEL:</strong> Again, I don’t have any new updates to offer or a new assessment to provide on any updates from the ground.</p>
+<p><strong>QUESTION: </strong>Okay. Thank you.</p>
+<p><strong>MR PATEL: </strong>Michel.</p>
+<p><strong>QUESTION:</strong> Yeah, on the U.S. engagement between Lebanon and Israel, the U.S. has delivered a draft agreement to both parties. Have you received any answer or any answers from them?</p>
+<p><a id="post-384756-LEBANONISRAEL"></a><strong>MR PATEL:</strong> Thanks, Michel. So to take a little bit of a step back, so yes, Special Presidential Coordinator Hochstein continues his robust engagement to bring the maritime boundary discussions to a close. As you note, I can confirm we delivered a U.S. proposal for a final agreement on the maritime boundary to both countries and that happened over the weekend. And we continue to welcome the consultative spirit of both parties to reach a resolution.</p>
+<p>Resolving this dispute is a key priority for this administration, and we firmly believe that a deal has the potential to promote lasting stability and economic prosperity for both countries. But I don’t have an update to provide or anything to offer yet in terms of next steps.</p>
+<p><strong>QUESTION:</strong> Did you receive any answers?</p>
+<p><strong>MR PATEL:</strong> I don’t have any new assessment to provide.</p>
+<p><strong>QUESTION:</strong> And do you expect any deal this week?</p>
+<p><strong>MR PATEL:</strong> Again, I’m not going to speculate on timeline here other than this is something that continues to remain a key priority and something that we’re very closely engaged on.</p>
+<p>We’ll go back to Shaun.</p>
+<p><strong>QUESTION:</strong> Nicaragua. The – I know there’s some – there was a reaction to this last week, but the Nicaraguan Government is saying that it’s not accepting the confirmed U.S. ambassador. It’s also declared persona non grata the European Union representative and the Dutch ambassador. Do you have any comment on this, either where the United States is going with this in terms of whether Ambassador Rodriguez will still try to go or more broadly speaking about where you see the direction of diplomacy with Nicaragua?</p>
+<p><strong>MR PATEL:</strong> I will have to get back to you on that. I don’t have anything to offer on that right at this moment.</p>
+<p><strong>QUESTION:</strong> Okay.</p>
+<p><strong>MR PATEL:</strong> But I can – we can check with the team and get back to you.</p>
+<p><strong>QUESTION:</strong> Sure, can I ask something completely unrelated.</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> Burkina Faso.</p>
+<p><strong>MR PATEL:</strong> Okay.</p>
+<p><strong>QUESTION:</strong> The coup there. There’s a demonstration today on which there are some Russian flags. The head of the Wagner Group offered praise for the new junta leader, the new coup leader. Does the United States have any concern about Russia’s role in Burkina Faso or any information on what’s going on?</p>
+<p><a id="post-384756-BURKINAFASO"></a><strong>MR PATEL:</strong> Sure. So first and foremost, I would say that the U.S. is continuing to monitor the situation in Burkina Faso. But specifically as it relates to your question, we have spoken clearly about the destabilizing impact of both Russian disinformation but also the Wagner Group’s activities globally. Countries where the group has been deployed find themselves weaker and less secure, and we’ve seen that in a number of cases in Africa alone.</p>
+<p>So we – our viewpoint is that we condemn any attempt to exacerbate the current situation in Burkina Faso, and we strongly encourage the new transition government to adhere to the agreed‑upon timeline for return to a democratically elected, civilian-led government.</p>
+<p>Nick, you had a question?</p>
+<p><strong>QUESTION:</strong> Could I just briefly follow up?</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> Is there actually a concern that the Wagner Group is actually going to come in, that there is something being cooked between them and the authorities in Burkina Faso?</p>
+<p><strong>MR PATEL:</strong> I’ve not seen anything as it relates to that. But again, we’ve been very clear that the – about the destabilizing impacts both on Russian disinformation but also the Wagner Group as well.</p>
+<p>Nick.</p>
+<p><strong>QUESTION:</strong> Thanks. I wanted to ask about a provision Senator Kaine had inserted into the Taiwan Policy Act &#8212;</p>
+<p><strong>MR PATEL:</strong> Okay.</p>
+<p><strong>QUESTION:</strong> &#8212; that would increase oversight of non-career political-appointed ambassadors, basically allowing embassy staff to complete anonymous annual assessments of these ambassadors and make that easier to report poor performance to the IG. Is that something that State Department would support or not support?</p>
+<p><strong>MR PATEL:</strong> Well, I’m just – I’m not going to get into correspondence with Congress or – on legislation that is still being litigated and negotiated, so I don’t have any assessment to offer on that.</p>
+<p><strong>QUESTION:</strong> But broadly speaking, is State favorable towards the idea of more transparency on politically appointed ambassadors and their performance?</p>
+<p><strong>MR PATEL:</strong> Again, I’m just not going to offer an assessment on this yet.</p>
+<p>Go ahead.</p>
+<p><strong>QUESTION:</strong> I have two questions about Latin America, if possible.</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> The first about the prisoner exchange negotiation between United States and Venezuela announced past weekend.</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> Guaidó said that he was not involved in this negotiation. How does State Department respond to claims that this negotiation brings a diplomatic issue once United States does not recognize Maduro’s regime and at the same time have to negotiate with him this type of matter?</p>
+<p><a id="post-384756-VENEZUELA"></a><strong>MR PATEL:</strong> So to take a little bit of a step back, we are not going to get into the specifics of the diplomatic engagements here due to operational concerns, due to privacy. But more broadly, the important takeaway here is that we want the American people to know that we have no higher priority than their safety and security. Securing their release and reuniting them with their families has been a top priority for this administration, and we’ve engaged on the issue of wrongful detainees at every opportunity as well as engaged directly to release them as soon as possible. And this is something we’re going to continue to work intensively on.</p>
+<p><strong>QUESTION:</strong> Okay. And if possible a second question about Brazil.</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> Past Sunday night, the State Department already released a statement regarding elections in Brazil. Is there anything else that you could add regarding this statement, especially about how the U.S. see electoral process in Brazil?</p>
+<p><a id="post-384756-BRAZIL"></a><strong>MR PATEL:</strong> Sure. So I would just reiterate what the Secretary said over the weekend, which is that the – first and foremost, we congratulate the Brazilian people and its institutions on a successful first round that was conducted with credibility and transparency, and we support the Brazilian people and their democratic right, and we look forward to this next process and it playing out transparently as well.</p>
+<p>I think that’s all the time we have for today, everybody. Thank you.</p>
+<p><strong>QUESTION: </strong>Thanks.</p>
+<p><strong>QUESTION:</strong> Thank you.</p>
+<p>(The briefing was concluded at 2:55 p.m.)</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Vedant Patel, Principal Deputy Spokesperson</p>
+<p>Washington, DC</p>
+<p>2:19 p.m. EDT</p>
+<p><strong>MR PATEL:</strong> Hey, everybody, and sorry for being a little tardy. Apologies.</p>
+<p>So I have one quick thing for you at the top, and then I’m happy to dive in to your questions.</p>
+<p><a id="post-384756-DEPARTMENT"></a> So I am happy to announce today that the United States is proud to nominate Amy Pope to be the next director general of the International Organization for Migration.</p>
+<p>Amy Pope is an experienced leader that IOM needs at this time of unprecedented displacement and migration. She has extensive experience fostering collaboration between governments, NGOs, and communities to translate their policies into reality. I worked with her closely at the White House, where she was brilliant, and a wonderful colleague.</p>
+<p>She has proven her exceptional capacity to achieve results that serve migrants, to lead and support IOM’s workforce, and to collaborate closely with member states. The U.S. strongly supports her candidacy, and we are confident that under her leadership IOM will thrive.</p>
+<p>With that, Matt, if you want to kick us off.</p>
+<p><strong>QUESTION:</strong> Sure. Just to make sure – I’m pretty sure I know the answer to this – this nomination was actually announced yesterday.</p>
+<p><strong>MR PATEL:</strong> Correct. It was announced &#8212;</p>
+<p><strong>QUESTION:</strong> You wanted to have &#8212;</p>
+<p><strong>MR PATEL:</strong> The Secretary announced it via a statement.</p>
+<p><strong>QUESTION:</strong> You wanted to get it on camera?</p>
+<p><strong>MR PATEL:</strong> We just wanted to &#8212;</p>
+<p><strong>QUESTION:</strong> Reiterate it?</p>
+<p><strong>MR PATEL:</strong> &#8212; again reiterate our proud nomination of Amy.</p>
+<p><strong>QUESTION:</strong> Okay, fair enough. So North – let’s start with North Korea. As we saw, the Secretary spoke overnight, I suppose, or very late last night, with his Japanese and South Korean counterparts. I see the White House announce that the President spoke with Prime Minister Kishida and Jake Sullivan spoke with their national security advisor. So are you aware of any other contacts that there have been since this missile launch? And where does the administration intend to go next with its response?</p>
+<p><a id="post-384756-NORTHKOREAREGION"></a><strong>MR PATEL:</strong> Sure. So Deputy Secretary Sherman and Special Representative Kim had a chance to speak with their counterparts as well. But beyond that, I want to take a little bit of a step back and reiterate what you saw the Secretary and some of the communications coming from the administration have reiterated, which is that we condemn this dangerous and reckless launch of a long-range ballistic missile that flew over Japan, and it posed an unacceptable threat to the Japanese public. This action is a clear violation of multiple resolutions adopted by the UN Security Council, and it again demonstrates the threat that the DPRK holds both as it relates to its unlawful weapons of mass destruction program, but also its ballistic missiles program, and the threat that it poses to its neighbors as well.</p>
+<p>Together with the international community, we call on the DPRK to refrain from further provocations and to engage in sustained and substantive dialogue. We continue to consult closely with our allies, as is evidenced by the number of high-level communications that have happened from across the interagency with their counterparts. And I’d also reiterate that our commitments to Japan and the Republic of Korea are ironclad.</p>
+<p><strong>QUESTION:</strong> Right, but is there any – are there any thoughts about where you take it from here, beyond the consultations? I mean, what do the consultations lead to? What are you consulting about? Presumably it’s a response.</p>
+<p><strong>MR PATEL:</strong> I don’t have any specific actions to preview or read out for you at this time, but again, we condemn this dangerous and reckless launch, and again, are holding close consultations and continue to communicate directly with our allies and partners on this issue, especially with the Republic of Korea and Japan.</p>
+<p><strong>QUESTION:</strong> Thanks.</p>
+<p><strong>QUESTION:</strong> Can I follow up?</p>
+<p><strong>MR PATEL:</strong> Same topic?</p>
+<p><strong>QUESTION:</strong> Sure.</p>
+<p><strong>MR PATEL:</strong> Go ahead, Shaun.</p>
+<p><strong>QUESTION:</strong> Just the secretary-general himself said this was – the UN secretary-general said this was an escalation. But what’s the overall read about this happening now, and how dangerous it is? And with the repeated warnings about a nuclear test, is there any new indication that the United States have that that might be imminent? And any messaging that you want to share?</p>
+<p><strong>MR PATEL:</strong> Sure. So we’re still assessing the specific nature of this recent launch, which, again, posed an unacceptable threat to the Japanese public. As you noted at the beginning of your question, this is the 39th ballistic missile that the DPRK has launched in 2022, and this kind of continued action, not only is it unlawful, it is destabilizing to the region and the whole international community. And we continue to condemn this kind of testing and this kind of activity.</p>
+<p>Anything else on North Korea?</p>
+<p><strong>QUESTION:</strong> Yeah, I have one on North Korea.</p>
+<p><strong>MR PATEL:</strong> Go ahead.</p>
+<p><strong>QUESTION:</strong> You’ve been saying, I guess since the beginning of the administration, that you’ve been asking the North Koreans for dialogue. You mentioned encouraging them to engage in dialogue. Is there still kind of an offer on the table despite what they’re doing? That hasn’t changed that you want them to talk?</p>
+<p><strong>MR PATEL:</strong> Absolutely. So our position on diplomacy and dialogue has not changed, and it remains the same. And frankly, this action underscores the urgent need for dialogue and diplomacy. I’ll also note that our ultimate goal here, which is the complete denuclearization of the Korean Peninsula, has not changed either. And we remain prepared to engage in serious and sustained diplomacy to make tangible progress towards these goals. And we continue to be prepared to meet with the DPRK without preconditions, but it’s unfortunate that these efforts towards diplomacy and outreach has not responded – has not – they have not reacted similarly.</p>
+<p><strong>QUESTION:</strong> So the offer to meet without preconditions, that will remain on the table sort of regardless of the actions that – if they continue taking escalatory actions?</p>
+<p><strong>MR PATEL:</strong> That continues to be our posture. We’re prepared to meet with the DPRK without preconditions. We consider that to be an important step towards meeting our ultimate goal, which is the complete denuclearization of the Korean Peninsula. And we continue to feel that diplomacy and dialogue are a key – a key aspect of achieving that goal.</p>
+<p>Any &#8212;</p>
+<p><strong>QUESTION:</strong> Just one other certain thing.</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> I wonder if you had anything on sort of just – there’s unconfirmed reports just before we came into this briefing, I guess, that there was an explosion, possibly multiple explosions and a fire at a South Korean air force – the South Korean air force’s 18th fighter wing base. At the moment it’s very unconfirmed, but I’m wondering if you guys have any &#8212;</p>
+<p><strong>MR PATEL:</strong> I don’t have anything to offer on that, but we can – we can check and see if we have anything to assess on that.</p>
+<p>Anything else on the region before we move away?</p>
+<p><strong>QUESTION:</strong> Yes.</p>
+<p><strong>MR PATEL:</strong> Go ahead.</p>
+<p><strong>QUESTION:</strong> I’m just wondering how serious the administration is regarding this launch. Like, 4,600 kilometers is long enough to strike Guam, and with more development could enable them to possibly strike Hawaii, Alaska, or even the West Coast. With that, like, how long do you all plan to keep having this door open for, like, a call back? Is there a timeline?</p>
+<p><strong>MR PATEL:</strong> Well, like I – like I answered Matt’s question, I’m not going to speculate on any kind of response or specific actions. As I said, we continue to consult closely with our allies and partners. But since you asked, I will again use this opportunity to say that the U.S. Government condemns this dangerous and reckless launch. We think that it’s unacceptable. It is a clear violation of multiple UN Security Council resolutions, and it again demonstrates the DPRK’s unlawful and destabilizing activities in the region.</p>
+<p>Go ahead, in the back.</p>
+<p><strong>QUESTION:</strong> Could you address anything about the joint air drills, the South Korean-U.S. air drills in response to this launch?</p>
+<p><strong>MR PATEL:</strong> Sure. So I can confirm that we have had a bilateral military exercise with Japan and the Republic of Korea. I will refer you to the Pentagon and let my Pentagon colleagues there speak to those in greater detail. But what I would take away from that is that the United States commitment to the defense of the Republic of Korea and Japan is ironclad. But I will let my colleagues at the Pentagon speak to those in greater specificity.</p>
+<p>Anything else on the region before we move away? Gitte?</p>
+<p><strong>QUESTION:</strong> Thanks, Vedant. Two questions on Iran. Yesterday, President Biden issued a statement in support of the people who are demonstrating in Iran, and in it he says that the Iranian regime has been suppressing people and denying their fundamental rights for decades, and then he promises more sanctions. But the effectiveness of these sanctions is really under question. Would the Biden administration consider deporting the family members of all Iranian authorities who are here in the United States studying, working, and just living, irrespective of their legal status?</p>
+<p><a id="post-384756-IRAN"></a><strong>MR PATEL:</strong> So let me – let me try to – let me answer that in two parts. First, as it relates to the President’s statement yesterday, as he said, we will continue to take action to impose further costs on the perpetrators of the violence against peaceful protesters and other human rights abuses. I don’t have anything to preview. I’m certainly not going to preview any potential actions.</p>
+<p>But as it relates to the second part of your question, deportation and the enforcement of our immigration laws is something that’s handled by the Department of Homeland Security, not the State Department, so I would refer you to DHS. Our viewpoint is that individual deportations are a legal issue and not a political tool. But again, this is something that DHS can speak to. I’m not going to get into it from here.</p>
+<p><strong>QUESTION:</strong>  Well you – the administration keeps saying that they have all sorts of different tools in their – for cases like this or other cases. Couldn’t this be one way of really getting back at the authorities and showing them that the U.S. is serious?</p>
+<p><strong>MR PATEL:</strong>  We do have a number of tools in our arsenal to hold Iran accountable for a lot of their destabilizing activities. I’m not going to read them out necessarily from here. But as it relates to this, as it relates to individual deportations, our view is that they’re a legal issue, not a political tool, and they live within the auspices of the Department of Homeland Security. So I’d refer you to them to speak to that.</p>
+<p><strong>QUESTION:</strong> Okay. Thank you. And &#8212;</p>
+<p><strong>QUESTION:</strong>  Does that mean that there’s no policy implication to this at all?</p>
+<p><strong>MR PATEL:</strong>  No policy implication to what, Matt?</p>
+<p><strong>QUESTION:</strong>  Well, I mean, yes, DHS is the one that takes them to court and then physically picks them up and flies them out of the country. But they don’t just do that on their own.</p>
+<p><strong>MR PATEL:</strong>  I –</p>
+<p><strong>QUESTION:</strong>  There’s a policy – I mean, they can, obviously. But in a situation like this there’s got to be a policy decision made above DHS &#8212;</p>
+<p><strong>MR PATEL:</strong>  Right.</p>
+<p><strong>QUESTION:</strong>  &#8212; that you are going to go after – as she suggested &#8212;</p>
+<p><strong>MR PATEL:</strong>  Sure.</p>
+<p><strong>QUESTION:</strong>  &#8212; the – or may go after the families of Iranian officials who are here.</p>
+<p><strong>MR PATEL:</strong>  Look, I –</p>
+<p><strong>QUESTION:</strong>  DHS isn’t going to make that decision on their own, unless they’ve gotten more powerful than I’m aware of.</p>
+<p><strong>MR PATEL:</strong>  Look, I think what the – what I would reiterate and what I would say is that I’m not going to preview any actions. As the President alluded to his statement, there will be additional actions coming. I’m certainly not going to get into that from here. But I would also agree that there continue to be a number of tools in our toolbelts and items in our arsenal that we can use to continue to hold Iran accountable for its destabilizing actions.</p>
+<p>On your specific question about deportations, they are a legal issue, not a political tool, and they are handled by DHS, not from the State Department. So I don’t have anything else to add on that.</p>
+<p><strong>QUESTION:</strong>  Another question on this.</p>
+<p><strong>MR PATEL:</strong>  Sure.</p>
+<p><strong>QUESTION:</strong>  About Iran and Iraq. A VOA Kurdish investigation has exposed that Iran, through the Iraqi Government, is pressuring the Iraqi Kurdistan officials to tell the Iranian Kurdish groups in Kurdistan to expel them, actually. Officials have told VOA that Iraqi – the Iraqi military delegation warned the Iraqi Kurdistan region they have – we have people who have said that the Iranians have amassed forces on the Iraqi Iran border and that they have threatened to attack these people.</p>
+<p>Now, should Iran conduct such an attack against the opposition group in Iraq, would – number one, has the U.S. administration been told about this from the Iraqi Kurdistan? And would the U.S. get involved? Would it help the Regional Government of Kurdistan to face such attack if it happened?</p>
+<p><strong>MR PATEL:</strong>  So I don’t have any specifics or anything to offer on that. What I will say is that we would take issue with any violation of Iraq’s sovereignty and territorial integrity. But I don’t have any additional assessment to offer on that. Anything else?</p>
+<p><strong>QUESTION:</strong>  You mean that – sorry – post-2003 you mean?</p>
+<p><strong>MR PATEL:</strong>  Pardon?</p>
+<p><strong>QUESTION:</strong>  You would take issue with any violation of Iraq’s sovereignty and territorial integrity post-2003?</p>
+<p><strong>MR PATEL:</strong>  Thank you.</p>
+<p><strong>QUESTION:</strong>  Is that what you mean?</p>
+<p><strong>MR PATEL:</strong>  Thank you, Matt. I – we &#8212;</p>
+<p><strong>QUESTION:</strong>  Right. Okay. Just making sure.</p>
+<p><strong>QUESTION:</strong>  On the Iran deal –</p>
+<p><strong>MR PATEL:</strong>  Hold on, Said. Said, I have to – let me – there are other folks that with their – I will come back to you, Said, I promise.</p>
+<p><strong>QUESTION:</strong>  On Iran, on Iran.</p>
+<p><strong>MR PATEL:</strong>  Go ahead.</p>
+<p><strong>QUESTION:</strong>  This is about Namazi, Baquer Namazi.</p>
+<p><strong>MR PATEL:</strong>  Sure.</p>
+<p><strong>QUESTION:</strong>  Can you confirm if he is at the moment in the USA? And has anyone from State Department met with him and knows about his condition?</p>
+<p><strong>MR PATEL:</strong>  So out of the respect for the family’s privacy, I don’t have any other details to offer. And we request that the media also respect their privacy. But would take a step back, just to make sure folks know what we’re talking about, is that wrongfully detailed U.S. citizen Baquer Namazi has been permitted to depart Iran and his son Siamak, who also was wrongfully detained, has been granted a furlough from prison. But again, out of respect for the family’s privacy, I don’t have any other details to offer on this.</p>
+<p><strong>QUESTION:</strong>  And about the negotiations that has happened for this release, can you give us any details? What sort of negotiations was that? What sort of a deal you broke?</p>
+<p><strong>MR PATEL:</strong>  So we understand that the lifting of this travel ban and Siamak’s furlough were related to medical need. They were not part of any deal or anything like that. So I don’t have anything additional to offer. I would reiterate, though, that Baquer Namazi was wrongfully detained in Iran and then not permitted to leave the country, despite after serving his sentence and despite having urgent medical need. But again, our understanding is that the lifting was related to medical need.</p>
+<p>Said.</p>
+<p><strong>QUESTION:</strong>  There was a payment of $7 billion from South Korea to &#8212;</p>
+<p><strong>MR PATEL:</strong> There has been no facilitation of any funds transferred. That is absolutely false.</p>
+<p><strong>QUESTION:</strong> But you know it’s very hard to believe that Islamic Republic released them based on good faith and – because that has never happened before.</p>
+<p><strong>MR PATEL:</strong> That is a question for Tehran and not for me.</p>
+<p>Said, you had a question.</p>
+<p><strong>QUESTION:</strong> One more on Iran, please.</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> Sorry, Said. Family members of Nika Shakarami said that Iranian security forces stole body of 16-year-old protester after reportedly beating her to death and buried her secretly in a village in Iran. Are you aware of this report that BBC talked about?</p>
+<p><strong>MR PATEL:</strong> So I’m not aware of this specific report, Michel. But since you asked the question, I do want to take an opportunity to reiterate what you’ve seen the President and the Secretary and a number of others say over the past few days, which is that we are gravely concerned that the Iranian Government is intensifying its violent crackdown on peaceful protesters who are demanding their equal rights and demanding basic human rights and human dignity. We’re appalled by some of these crackdowns, especially as it relates to the crackdown on students. And so as the President said, we will continue to take actions to impose further costs. We will continue to monitor and pay close attention and impose costs on these perpetrators of peaceful protesting and human rights abuses as well.</p>
+<p>Said.</p>
+<p><strong>QUESTION:</strong> Can I move on?</p>
+<p><strong>MR PATEL:</strong> Sure. If there’s anything else on the region before we move on? All right, Said. Go ahead.</p>
+<p><strong>QUESTION:</strong> Okay. On the Palestinian issue, first of all, can you update us on the meeting that Hussein al-Sheikh and PA official have had today?</p>
+<p><a id="post-384756-ISPAL"></a><strong>MR PATEL:</strong> Sure. So Secretary General al-Sheikh is in Washington today for meetings. He met today with Deputy Secretary Sherman, and we will have a readout of that later today. He also met with other senior State officials and other interagency officials as well. The – what this is largely about, Said, is this administration’s focus on renewing engagement with Palestinian leadership and deepening diplomatic ties with the Palestinians. And as you saw, this is – President Biden had a meeting with President Abbas in July, and this is an extension of those efforts to deepen relationships, and engagement in Washington is naturally a part of that.</p>
+<p><strong>QUESTION:</strong> Did you guys commit to him in any way about a date, a possible date, for reopening the American consulate in Jerusalem? I know that’s probably one of the issues that, I mean, logically he would have raised.</p>
+<p><strong>MR PATEL:</strong> Right. I don&#8217;t have any specifics to offer yet, Said, but we will have a readout on this meeting later today. Like I said, these are part of efforts to renew and deepen our engagement with Palestinian leadership, and so we’ll have more to offer in the readout of this meeting.</p>
+<p><strong>QUESTION:</strong> A couple more questions.</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> On the issue of administrative detention, rights groups, Israeli and international rights groups are saying that the Israelis are holding somewhere in the neighborhood of 800 Palestinians under administrative detention. Now these detentions or imprisonments can go on forever sometimes. I mean, some people are still under that kind of detention for decades, I mean for 20 years and so on. What is your position – what is the United States position – on holding someone indefinitely without any charges?</p>
+<p><strong>MR PATEL:</strong> Well, Said, the U.S. urges the full respect for human rights both in Israel but also in the West Bank and Gaza. And as we have said many times before, we believe that Palestinians and Israelis alike deserve equal measures of security, prosperity, and freedom.</p>
+<p><strong>QUESTION:</strong> But honestly, with all due respect, I mean, when you say this and then we see, as we saw last week, the Israelis chase a 70-year-old, and then he falls to his death – I mean, these calls ring hollow, with all due respect, I mean, equal measures and all these things – the Palestinians are not holding Israelis under administrative detention. They are not destroying their home; they’re not blowing them up; they’re not removing them and so on. There are no equal measures. There are no equal measures. So my question to you: Will the United States take a position on the administrative detention? I think you would probably do that if it were else. I mean, this is question that I’ve probably raised many, many times over the years in this room.</p>
+<p><strong>MR PATEL:</strong> I certainly appreciate your question, Said. I don&#8217;t have any additional assessments to offer here other than the U.S. urges the full respect for human rights in Israel, in the West Bank, and Gaza. As we have said many times before, Palestinians and Israelis alike deserve equal measures of security, prosperity, and freedom.</p>
+<p><strong>QUESTION:</strong> Okay. And lastly, on the child Rayyan Suleiman, last week you said that you have asked the Israelis for an investigation, a formal investigation. Have they responded to you in any way?</p>
+<p><strong>MR PATEL:</strong> So Said, I want to take a little bit of a step back and clarify my comments from last week’s phone briefing because I think you and a couple others are taking them out of context. We did not ask for an investigation. What we said was we welcome investigation that the IDF had already indicated was underway. I understand from the latest reporting that the child tragically died of heart failure, which of course does not make this &#8212;</p>
+<p><strong>QUESTION:</strong> (Inaudible).</p>
+<p><strong>MR PATEL:</strong> &#8212; which does not make this any less heartbreaking. But statements on this from the IDF made clear that an initial inquiry showed no connection, that this issue continues to be up to review. So I would refer you to them, but I did want to clarify my comments.</p>
+<p><strong>QUESTION: </strong>So you are not &#8212; just to be clear, you are not calling for an investigation into this?</p>
+<p><strong>MR PATEL: </strong>What I said was that we welcome a thorough investigation &#8212;</p>
+<p><strong>QUESTION: </strong>I understand. I’m just saying what you’re saying now &#8212;</p>
+<p><strong>MR PATEL: </strong>I just wanted to &#8212;</p>
+<p><strong>QUESTION: </strong>&#8212; that you are not calling for an investigation &#8212;</p>
+<p><strong>MR PATEL: </strong>What we are –</p>
+<p><strong>QUESTION: </strong>&#8212; at this particular incident.</p>
+<p><strong>MR PATEL: </strong>What I said and what I would reiterate today is that we welcome a thorough and immediate investigation. The IDF is already – that process is underway, and so I will – I will let them speak to that. But really not &#8212;</p>
+<p><strong>QUESTION: </strong>Okay. Well, since you’re going to quibble over his use of words, I’m going to quibble with yours because you didn’t say we would welcome. You said, “We support a thorough and immediate investigation,” unless the transcript that I’m reading off of that I just pulled up on the website is wrong.</p>
+<p><strong>MR PATEL: </strong>No, you are – you are right.</p>
+<p><strong>QUESTION: </strong>So you didn’t say, “We welcome an investigation.” You said, “We support a thorough and immediate investigation into the circumstances surrounding the child’s death.”</p>
+<p><strong>MR PATEL: </strong>That is correct. My &#8212;</p>
+<p><strong>QUESTION: </strong>Is there difference between welcome and support that you’re trying to &#8212;</p>
+<p><strong>MR PATEL: </strong>My intention was just to indicate that this was &#8212;</p>
+<p><strong>QUESTION: </strong>Okay.</p>
+<p><strong>MR PATEL: </strong>&#8212; an investigation that the IDF &#8212;</p>
+<p><strong>QUESTION: </strong>Okay.</p>
+<p><strong>MR PATEL: </strong>&#8212; had already under &#8212;</p>
+<p><strong>QUESTION: </strong>No, no, I don’t think anyone is saying that you’re urging an investigation or calling for an investigation &#8212;</p>
+<p><strong>MR PATEL: </strong>Well &#8212;</p>
+<p><strong>QUESTION: </strong>&#8212; but there is a difference between welcome and support unless &#8212;</p>
+<p><strong>MR PATEL: </strong>I just wanted to clarify that piece.</p>
+<p><strong>QUESTION: </strong>&#8212; you’re trying to say that –</p>
+<p><strong>MR PATEL: </strong>Nope. I wanted to clarify that latter piece, Matt.</p>
+<p><strong>QUESTION: </strong>Okay.</p>
+<p><strong>MR PATEL: </strong>Thank you.</p>
+<p>Shaun.</p>
+<p><strong>QUESTION: </strong>Can I go to &#8212;</p>
+<p><strong>MR PATEL: </strong> On same region or shifting subjects?</p>
+<p><strong>QUESTION: </strong>No, it’s on Russia.</p>
+<p><strong>MR PATEL: </strong>Go ahead.</p>
+<p><strong>QUESTION: </strong>Could I ask you – there is a court in Russia today – talked about another American being sentenced – Robert Gilman. He was identified as – in Russian news agencies as – he was accused of kicking an officer. Do you have anything about this, and if so, whether there’s been consular access?</p>
+<p><a id="post-384756-RUSSIA"></a><strong>MR PATEL: </strong>So due to privacy considerations, there is going to be a limit to what I can offer. But we are aware of Russia’s court’s decisions, and we take seriously our commitment to assist U.S. citizens abroad and are continuing to monitor the situation. We continue to insist that the Russian Federation allow consistent, timely consular access to all U.S. citizens, and we urge the Russian Government to ensure fair treatment to all U.S. citizens detained in Russia. But I don’t have anything else to offer.</p>
+<p><strong>QUESTION: </strong>Sure. I mean, has there been an access in this case? Is that a concern in this case?</p>
+<p><strong>MR PATEL: </strong>Again, due to privacy considerations, there’s a limit to what I can say. I don’t have any additional comments to offer.</p>
+<p><strong>QUESTION: </strong>Sure. And I know you just said nothing more to offer, but just briefly – I mean, is there any indication he was targeted because of his U.S. citizenship?</p>
+<p><strong>MR PATEL: </strong>Again, due to privacy considerations, I don’t have further assessments to provide on this.</p>
+<p><strong>QUESTION: </strong>Sure. I have some stuff on other regions in the world, unless someone else has more on Russia.</p>
+<p><strong>MR PATEL: </strong>Sure. Still on Russia?</p>
+<p><strong>QUESTION:</strong> (Inaudible.)</p>
+<p><strong>MR PATEL:</strong> I’ll come back to you, Shaun. I promise.</p>
+<p><strong>QUESTION:</strong> Have you been in touch with the Russian Government officials on this particular case, or is it too early to talk about?</p>
+<p><strong>MR PATEL: </strong>Again, due to privacy considerations, I don’t have anything to offer additional beyond what I said otherwise.</p>
+<p><strong>QUESTION: </strong>Thank you so much. On Russia, again &#8212;</p>
+<p><strong>QUESTION: </strong>How does that have to do – how does that have anything to do with privacy considerations?</p>
+<p><strong>MR PATEL: </strong>What do you mean, Matt?</p>
+<p><strong>QUESTION: </strong>Well, I think the question was: have you been in touch with Russian officials about this case? You’re confirming that there is a case, that you’re aware of it, but privacy considerations prevent you from saying whether you’ve asked – you’ve gotten in touch with the Russians about it?</p>
+<p><strong>MR PATEL: </strong>Due to privacy considerations, there – I – there are limits to what I can get into.</p>
+<p><strong>QUESTION: </strong>That has nothing to do – yeah, but that has nothing to do with privacy.</p>
+<p><strong>MR PATEL: </strong>As I said at the top of Shaun’s question, we continue to insist consistent consular access.</p>
+<p><strong>QUESTION: </strong>Well, I get it, but you &#8212;</p>
+<p><strong>MR PATEL: </strong>And we’re monitoring the situation, but I don’t have any other assessments.</p>
+<p><strong>QUESTION: </strong>Yeah, but I think you need to come up with a better explanation for why you’re refusing to say anything than privacy considerations about a government-to-government – a government-to-government contact that has nothing to do with the person’s privacy. He’s just – he’s just asking whether you’ve been in touch with them or not.</p>
+<p><strong>MR PATEL: </strong>Well, like I said, we are aware of the Russian’s court’s decision, and we take seriously our commitment to assist U.S. citizens who are abroad.</p>
+<p><strong>QUESTION: </strong>On that line, I have a question about Russians.</p>
+<p><strong>MR PATEL: </strong>Sure.</p>
+<p><strong>QUESTION: </strong>You probably are aware of the reports that the European Union has issued a coordinated efforts that they are summoning Russian ambassadors, most recently I think yesterday in Brussels, to express their concern on annexation. Is the United States going to follow suit? And if not, why not?</p>
+<p><strong>MR PATEL: </strong>We have taken – I don’t have any specific actions to read out specifically, but I will note that we have taken a number of actions since last week to make clear our vehement condemnation and opposition to the efforts around not just the sham referenda but also the annexation.</p>
+<p>You saw today another tranche of security assistance be announced. You saw late last week a robust interagency action between the Treasury Department, the State Department, and the Commerce Department that have imposed imposing actions on Russia’s leaders within the Kremlin and things of that nature. So I don’t have any future actions to preview as it relates to that, but we have made our opposition to these annexations quite, quite clear and quite vocal.</p>
+<p>Shannon.</p>
+<p><strong>QUESTION: </strong>Has there been any progress towards securing the freedom of Brittney Griner or Paul Whelan? And can you characterize any ongoing talks with Russian officials to that aim?</p>
+<p><strong>MR PATEL: </strong>Yeah, so I don’t have any additional updates to provide as it relates to the wrongful detention of Brittney Griner and Paul Whelan. We continue to urge their release. Secretary Blinken spoke to you all a number of weeks ago and spoke about a substantial proposal that was on the table earlier this summer to facilitate their release. Our governments are communicating about that, but the Russians should take the deal that’s on the table. But I don’t have any other updates to provide.</p>
+<p>Shaun, coming back to you.</p>
+<p><strong>QUESTION: </strong>Sure. Could I ask a couple things in Latin America?</p>
+<p><strong>MR PATEL: </strong>Sure.</p>
+<p><strong>QUESTION: </strong>Can we do Russia a little bit more?</p>
+<p><strong>MR PATEL: </strong>Actually – okay, you had a couple questions. Michel, did you have – you had a question on a similar topic?</p>
+<p><strong>QUESTION: </strong>No. On Israel and Lebanon.</p>
+<p><strong>MR PATEL: </strong>Okay. We’ll take your question in the back.</p>
+<p><strong>QUESTION: </strong>Thank you. I’m Mark Stone from Sky News. Just on Russia and Ukraine, there have been some quite confused reporting – there has been some confused reporting about a Russian train, military train that might be connected somehow to its nuclear capabilities moving. I wondered if you could comment on that and simply comment on whether you have seen any change in Russia’s nuclear posture.</p>
+<p><strong>MR PATEL: </strong>So I don’t have any assessment to provide about any updates on the ground or any of that reporting, but I would say is that as Secretary Blinken has said, we have heard a lot of irresponsible rhetoric coming from Russia and coming from Vladimir Putin. And we are focused on making sure that we are all acting responsibly, especially when it comes to this kind of loose rhetoric and saber-rattling. We’ve been very clear with Russia publicly as well as privately to stop its irresponsible rhetoric regarding nuclear weapons, and we’ve addressed this both from the Secretary and the President have spoken to this as well.</p>
+<p><strong>QUESTION: </strong>Just to follow up if I may, some U.S. administration officials have been quite clear over the past few weeks in stressing that they have not seen any change in Russia’s nuclear posture. So as of today, have you seen any change?</p>
+<p><strong>MR PATEL:</strong> Again, I don’t have any new updates to offer or a new assessment to provide on any updates from the ground.</p>
+<p><strong>QUESTION: </strong>Okay. Thank you.</p>
+<p><strong>MR PATEL: </strong>Michel.</p>
+<p><strong>QUESTION:</strong> Yeah, on the U.S. engagement between Lebanon and Israel, the U.S. has delivered a draft agreement to both parties. Have you received any answer or any answers from them?</p>
+<p><a id="post-384756-LEBANONISRAEL"></a><strong>MR PATEL:</strong> Thanks, Michel. So to take a little bit of a step back, so yes, Special Presidential Coordinator Hochstein continues his robust engagement to bring the maritime boundary discussions to a close. As you note, I can confirm we delivered a U.S. proposal for a final agreement on the maritime boundary to both countries and that happened over the weekend. And we continue to welcome the consultative spirit of both parties to reach a resolution.</p>
+<p>Resolving this dispute is a key priority for this administration, and we firmly believe that a deal has the potential to promote lasting stability and economic prosperity for both countries. But I don’t have an update to provide or anything to offer yet in terms of next steps.</p>
+<p><strong>QUESTION:</strong> Did you receive any answers?</p>
+<p><strong>MR PATEL:</strong> I don’t have any new assessment to provide.</p>
+<p><strong>QUESTION:</strong> And do you expect any deal this week?</p>
+<p><strong>MR PATEL:</strong> Again, I’m not going to speculate on timeline here other than this is something that continues to remain a key priority and something that we’re very closely engaged on.</p>
+<p>We’ll go back to Shaun.</p>
+<p><strong>QUESTION:</strong> Nicaragua. The – I know there’s some – there was a reaction to this last week, but the Nicaraguan Government is saying that it’s not accepting the confirmed U.S. ambassador. It’s also declared persona non grata the European Union representative and the Dutch ambassador. Do you have any comment on this, either where the United States is going with this in terms of whether Ambassador Rodriguez will still try to go or more broadly speaking about where you see the direction of diplomacy with Nicaragua?</p>
+<p><strong>MR PATEL:</strong> I will have to get back to you on that. I don’t have anything to offer on that right at this moment.</p>
+<p><strong>QUESTION:</strong> Okay.</p>
+<p><strong>MR PATEL:</strong> But I can – we can check with the team and get back to you.</p>
+<p><strong>QUESTION:</strong> Sure, can I ask something completely unrelated.</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> Burkina Faso.</p>
+<p><strong>MR PATEL:</strong> Okay.</p>
+<p><strong>QUESTION:</strong> The coup there. There’s a demonstration today on which there are some Russian flags. The head of the Wagner Group offered praise for the new junta leader, the new coup leader. Does the United States have any concern about Russia’s role in Burkina Faso or any information on what’s going on?</p>
+<p><a id="post-384756-BURKINAFASO"></a><strong>MR PATEL:</strong> Sure. So first and foremost, I would say that the U.S. is continuing to monitor the situation in Burkina Faso. But specifically as it relates to your question, we have spoken clearly about the destabilizing impact of both Russian disinformation but also the Wagner Group’s activities globally. Countries where the group has been deployed find themselves weaker and less secure, and we’ve seen that in a number of cases in Africa alone.</p>
+<p>So we – our viewpoint is that we condemn any attempt to exacerbate the current situation in Burkina Faso, and we strongly encourage the new transition government to adhere to the agreed‑upon timeline for return to a democratically elected, civilian-led government.</p>
+<p>Nick, you had a question?</p>
+<p><strong>QUESTION:</strong> Could I just briefly follow up?</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> Is there actually a concern that the Wagner Group is actually going to come in, that there is something being cooked between them and the authorities in Burkina Faso?</p>
+<p><strong>MR PATEL:</strong> I’ve not seen anything as it relates to that. But again, we’ve been very clear that the – about the destabilizing impacts both on Russian disinformation but also the Wagner Group as well.</p>
+<p>Nick.</p>
+<p><strong>QUESTION:</strong> Thanks. I wanted to ask about a provision Senator Kaine had inserted into the Taiwan Policy Act &#8212;</p>
+<p><strong>MR PATEL:</strong> Okay.</p>
+<p><strong>QUESTION:</strong> &#8212; that would increase oversight of non-career political-appointed ambassadors, basically allowing embassy staff to complete anonymous annual assessments of these ambassadors and make that easier to report poor performance to the IG. Is that something that State Department would support or not support?</p>
+<p><strong>MR PATEL:</strong> Well, I’m just – I’m not going to get into correspondence with Congress or – on legislation that is still being litigated and negotiated, so I don’t have any assessment to offer on that.</p>
+<p><strong>QUESTION:</strong> But broadly speaking, is State favorable towards the idea of more transparency on politically appointed ambassadors and their performance?</p>
+<p><strong>MR PATEL:</strong> Again, I’m just not going to offer an assessment on this yet.</p>
+<p>Go ahead.</p>
+<p><strong>QUESTION:</strong> I have two questions about Latin America, if possible.</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> The first about the prisoner exchange negotiation between United States and Venezuela announced past weekend.</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> Guaidó said that he was not involved in this negotiation. How does State Department respond to claims that this negotiation brings a diplomatic issue once United States does not recognize Maduro’s regime and at the same time have to negotiate with him this type of matter?</p>
+<p><a id="post-384756-VENEZUELA"></a><strong>MR PATEL:</strong> So to take a little bit of a step back, we are not going to get into the specifics of the diplomatic engagements here due to operational concerns, due to privacy. But more broadly, the important takeaway here is that we want the American people to know that we have no higher priority than their safety and security. Securing their release and reuniting them with their families has been a top priority for this administration, and we’ve engaged on the issue of wrongful detainees at every opportunity as well as engaged directly to release them as soon as possible. And this is something we’re going to continue to work intensively on.</p>
+<p><strong>QUESTION:</strong> Okay. And if possible a second question about Brazil.</p>
+<p><strong>MR PATEL:</strong> Sure.</p>
+<p><strong>QUESTION:</strong> Past Sunday night, the State Department already released a statement regarding elections in Brazil. Is there anything else that you could add regarding this statement, especially about how the U.S. see electoral process in Brazil?</p>
+<p><a id="post-384756-BRAZIL"></a><strong>MR PATEL:</strong> Sure. So I would just reiterate what the Secretary said over the weekend, which is that the – first and foremost, we congratulate the Brazilian people and its institutions on a successful first round that was conducted with credibility and transparency, and we support the Brazilian people and their democratic right, and we look forward to this next process and it playing out transparently as well.</p>
+<p>I think that’s all the time we have for today, everybody. Thank you.</p>
+<p><strong>QUESTION: </strong>Thanks.</p>
+<p><strong>QUESTION:</strong> Thank you.</p>
+<p>(The briefing was concluded at 2:55 p.m.)</p>
 ]]></content:encoded>
 					
 		
