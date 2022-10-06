@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 05 Oct 2022 22:38:17 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Oct 2022 00:21:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>On Baquer Namazi’s Departure from Iran</title>
+		<link>https://www.state.gov/on-baquer-namazis-departure-from-iran/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 00:21:36 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=385222</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>Baquer Namazi is now in Abu Dhabi after departing Iran for Muscat; he has been reunited with his family and will soon receive urgently needed medical treatment.  A U.S. citizen and distinguished former United Nations official, Baquer was wrongfully detained in 2016 and then barred from leaving Iran.  He was cruelly detained while working to secure the release of his son Siamak Namazi, who has also been wrongfully detained in Iran for seven years.</p>
+<p>Baquer has asked that we convey his deepest thanks to all of those who worked so tirelessly to secure his release.  I add my own gratitude for all of the friends and partners who helped bring about his freedom.  In particular, we thank the Sultanate of Oman, which worked with Iranian authorities to arrange for his flight out of the country, and the United Arab Emirates, which is generously hosting him and his family during his medical treatment.  We look forward to his full recovery and to welcoming him home to the United States.</p>
+<p>Our work is far from finished, however. We remain committed to securing the freedom of all remaining wrongfully detained U.S. citizens in Iran and around the world.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>Baquer Namazi is now in Abu Dhabi after departing Iran for Muscat; he has been reunited with his family and will soon receive urgently needed medical treatment.  A U.S. citizen and distinguished former United Nations official, Baquer was wrongfully detained in 2016 and then barred from leaving Iran.  He was cruelly detained while working to secure the release of his son Siamak Namazi, who has also been wrongfully detained in Iran for seven years.</p>
+<p>Baquer has asked that we convey his deepest thanks to all of those who worked so tirelessly to secure his release.  I add my own gratitude for all of the friends and partners who helped bring about his freedom.  In particular, we thank the Sultanate of Oman, which worked with Iranian authorities to arrange for his flight out of the country, and the United Arab Emirates, which is generously hosting him and his family during his medical treatment.  We look forward to his full recovery and to welcoming him home to the United States.</p>
+<p>Our work is far from finished, however. We remain committed to securing the freedom of all remaining wrongfully detained U.S. citizens in Iran and around the world.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Antony J. Blinken At a Tour of the Coordinador Eléctrico Nacional</title>
 		<link>https://www.state.gov/secretary-antony-j-blinken-at-a-tour-of-the-coordinador-electrico-nacional/</link>
 		
@@ -1925,635 +2086,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The following is attributable to Spokesperson Ned Price:</p>
 <p>Deputy Secretary of State Wendy R. Sherman met with Secretary General of the Executive Committee of the PLO Hussein AlSheikh today in Washington, D.C.  The Deputy Secretary and the Secretary General discussed their commitment to a two-state solution along the pre-1967 lines with mutually agreed land swaps and joint efforts to improve the quality of life for the Palestinian people.  They also discussed current tensions in the West Bank and the urgent need to improve the security environment.  The Deputy Secretary called on all parties to restore calm and desist from unilateral actions.</p>
 <p><input type="hidden" data-filter="100000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Department Press Briefing – October 4, 2022</title>
-		<link>https://www.state.gov/briefings/department-press-briefing-october-4-2022/</link>
-		
-		<dc:creator><![CDATA[Vedant Patel, Principal Deputy Spokesperson]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 22:19:50 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?post_type=state_briefing&#038;p=384756</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Vedant Patel, Principal Deputy Spokesperson</p>
-<p>Washington, DC</p>
-<p>2:19 p.m. EDT</p>
-<p><strong>MR PATEL:</strong> Hey, everybody, and sorry for being a little tardy. Apologies.</p>
-<p>So I have one quick thing for you at the top, and then I’m happy to dive in to your questions.</p>
-<p><a id="post-384756-DEPARTMENT"></a> So I am happy to announce today that the United States is proud to nominate Amy Pope to be the next director general of the International Organization for Migration.</p>
-<p>Amy Pope is an experienced leader that IOM needs at this time of unprecedented displacement and migration. She has extensive experience fostering collaboration between governments, NGOs, and communities to translate their policies into reality. I worked with her closely at the White House, where she was brilliant, and a wonderful colleague.</p>
-<p>She has proven her exceptional capacity to achieve results that serve migrants, to lead and support IOM’s workforce, and to collaborate closely with member states. The U.S. strongly supports her candidacy, and we are confident that under her leadership IOM will thrive.</p>
-<p>With that, Matt, if you want to kick us off.</p>
-<p><strong>QUESTION:</strong> Sure. Just to make sure – I’m pretty sure I know the answer to this – this nomination was actually announced yesterday.</p>
-<p><strong>MR PATEL:</strong> Correct. It was announced &#8212;</p>
-<p><strong>QUESTION:</strong> You wanted to have &#8212;</p>
-<p><strong>MR PATEL:</strong> The Secretary announced it via a statement.</p>
-<p><strong>QUESTION:</strong> You wanted to get it on camera?</p>
-<p><strong>MR PATEL:</strong> We just wanted to &#8212;</p>
-<p><strong>QUESTION:</strong> Reiterate it?</p>
-<p><strong>MR PATEL:</strong> &#8212; again reiterate our proud nomination of Amy.</p>
-<p><strong>QUESTION:</strong> Okay, fair enough. So North – let’s start with North Korea. As we saw, the Secretary spoke overnight, I suppose, or very late last night, with his Japanese and South Korean counterparts. I see the White House announce that the President spoke with Prime Minister Kishida and Jake Sullivan spoke with their national security advisor. So are you aware of any other contacts that there have been since this missile launch? And where does the administration intend to go next with its response?</p>
-<p><a id="post-384756-NORTHKOREAREGION"></a><strong>MR PATEL:</strong> Sure. So Deputy Secretary Sherman and Special Representative Kim had a chance to speak with their counterparts as well. But beyond that, I want to take a little bit of a step back and reiterate what you saw the Secretary and some of the communications coming from the administration have reiterated, which is that we condemn this dangerous and reckless launch of a long-range ballistic missile that flew over Japan, and it posed an unacceptable threat to the Japanese public. This action is a clear violation of multiple resolutions adopted by the UN Security Council, and it again demonstrates the threat that the DPRK holds both as it relates to its unlawful weapons of mass destruction program, but also its ballistic missiles program, and the threat that it poses to its neighbors as well.</p>
-<p>Together with the international community, we call on the DPRK to refrain from further provocations and to engage in sustained and substantive dialogue. We continue to consult closely with our allies, as is evidenced by the number of high-level communications that have happened from across the interagency with their counterparts. And I’d also reiterate that our commitments to Japan and the Republic of Korea are ironclad.</p>
-<p><strong>QUESTION:</strong> Right, but is there any – are there any thoughts about where you take it from here, beyond the consultations? I mean, what do the consultations lead to? What are you consulting about? Presumably it’s a response.</p>
-<p><strong>MR PATEL:</strong> I don’t have any specific actions to preview or read out for you at this time, but again, we condemn this dangerous and reckless launch, and again, are holding close consultations and continue to communicate directly with our allies and partners on this issue, especially with the Republic of Korea and Japan.</p>
-<p><strong>QUESTION:</strong> Thanks.</p>
-<p><strong>QUESTION:</strong> Can I follow up?</p>
-<p><strong>MR PATEL:</strong> Same topic?</p>
-<p><strong>QUESTION:</strong> Sure.</p>
-<p><strong>MR PATEL:</strong> Go ahead, Shaun.</p>
-<p><strong>QUESTION:</strong> Just the secretary-general himself said this was – the UN secretary-general said this was an escalation. But what’s the overall read about this happening now, and how dangerous it is? And with the repeated warnings about a nuclear test, is there any new indication that the United States have that that might be imminent? And any messaging that you want to share?</p>
-<p><strong>MR PATEL:</strong> Sure. So we’re still assessing the specific nature of this recent launch, which, again, posed an unacceptable threat to the Japanese public. As you noted at the beginning of your question, this is the 39th ballistic missile that the DPRK has launched in 2022, and this kind of continued action, not only is it unlawful, it is destabilizing to the region and the whole international community. And we continue to condemn this kind of testing and this kind of activity.</p>
-<p>Anything else on North Korea?</p>
-<p><strong>QUESTION:</strong> Yeah, I have one on North Korea.</p>
-<p><strong>MR PATEL:</strong> Go ahead.</p>
-<p><strong>QUESTION:</strong> You’ve been saying, I guess since the beginning of the administration, that you’ve been asking the North Koreans for dialogue. You mentioned encouraging them to engage in dialogue. Is there still kind of an offer on the table despite what they’re doing? That hasn’t changed that you want them to talk?</p>
-<p><strong>MR PATEL:</strong> Absolutely. So our position on diplomacy and dialogue has not changed, and it remains the same. And frankly, this action underscores the urgent need for dialogue and diplomacy. I’ll also note that our ultimate goal here, which is the complete denuclearization of the Korean Peninsula, has not changed either. And we remain prepared to engage in serious and sustained diplomacy to make tangible progress towards these goals. And we continue to be prepared to meet with the DPRK without preconditions, but it’s unfortunate that these efforts towards diplomacy and outreach has not responded – has not – they have not reacted similarly.</p>
-<p><strong>QUESTION:</strong> So the offer to meet without preconditions, that will remain on the table sort of regardless of the actions that – if they continue taking escalatory actions?</p>
-<p><strong>MR PATEL:</strong> That continues to be our posture. We’re prepared to meet with the DPRK without preconditions. We consider that to be an important step towards meeting our ultimate goal, which is the complete denuclearization of the Korean Peninsula. And we continue to feel that diplomacy and dialogue are a key – a key aspect of achieving that goal.</p>
-<p>Any &#8212;</p>
-<p><strong>QUESTION:</strong> Just one other certain thing.</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> I wonder if you had anything on sort of just – there’s unconfirmed reports just before we came into this briefing, I guess, that there was an explosion, possibly multiple explosions and a fire at a South Korean air force – the South Korean air force’s 18th fighter wing base. At the moment it’s very unconfirmed, but I’m wondering if you guys have any &#8212;</p>
-<p><strong>MR PATEL:</strong> I don’t have anything to offer on that, but we can – we can check and see if we have anything to assess on that.</p>
-<p>Anything else on the region before we move away?</p>
-<p><strong>QUESTION:</strong> Yes.</p>
-<p><strong>MR PATEL:</strong> Go ahead.</p>
-<p><strong>QUESTION:</strong> I’m just wondering how serious the administration is regarding this launch. Like, 4,600 kilometers is long enough to strike Guam, and with more development could enable them to possibly strike Hawaii, Alaska, or even the West Coast. With that, like, how long do you all plan to keep having this door open for, like, a call back? Is there a timeline?</p>
-<p><strong>MR PATEL:</strong> Well, like I – like I answered Matt’s question, I’m not going to speculate on any kind of response or specific actions. As I said, we continue to consult closely with our allies and partners. But since you asked, I will again use this opportunity to say that the U.S. Government condemns this dangerous and reckless launch. We think that it’s unacceptable. It is a clear violation of multiple UN Security Council resolutions, and it again demonstrates the DPRK’s unlawful and destabilizing activities in the region.</p>
-<p>Go ahead, in the back.</p>
-<p><strong>QUESTION:</strong> Could you address anything about the joint air drills, the South Korean-U.S. air drills in response to this launch?</p>
-<p><strong>MR PATEL:</strong> Sure. So I can confirm that we have had a bilateral military exercise with Japan and the Republic of Korea. I will refer you to the Pentagon and let my Pentagon colleagues there speak to those in greater detail. But what I would take away from that is that the United States commitment to the defense of the Republic of Korea and Japan is ironclad. But I will let my colleagues at the Pentagon speak to those in greater specificity.</p>
-<p>Anything else on the region before we move away? Gitte?</p>
-<p><strong>QUESTION:</strong> Thanks, Vedant. Two questions on Iran. Yesterday, President Biden issued a statement in support of the people who are demonstrating in Iran, and in it he says that the Iranian regime has been suppressing people and denying their fundamental rights for decades, and then he promises more sanctions. But the effectiveness of these sanctions is really under question. Would the Biden administration consider deporting the family members of all Iranian authorities who are here in the United States studying, working, and just living, irrespective of their legal status?</p>
-<p><a id="post-384756-IRAN"></a><strong>MR PATEL:</strong> So let me – let me try to – let me answer that in two parts. First, as it relates to the President’s statement yesterday, as he said, we will continue to take action to impose further costs on the perpetrators of the violence against peaceful protesters and other human rights abuses. I don’t have anything to preview. I’m certainly not going to preview any potential actions.</p>
-<p>But as it relates to the second part of your question, deportation and the enforcement of our immigration laws is something that’s handled by the Department of Homeland Security, not the State Department, so I would refer you to DHS. Our viewpoint is that individual deportations are a legal issue and not a political tool. But again, this is something that DHS can speak to. I’m not going to get into it from here.</p>
-<p><strong>QUESTION:</strong>  Well you – the administration keeps saying that they have all sorts of different tools in their – for cases like this or other cases. Couldn’t this be one way of really getting back at the authorities and showing them that the U.S. is serious?</p>
-<p><strong>MR PATEL:</strong>  We do have a number of tools in our arsenal to hold Iran accountable for a lot of their destabilizing activities. I’m not going to read them out necessarily from here. But as it relates to this, as it relates to individual deportations, our view is that they’re a legal issue, not a political tool, and they live within the auspices of the Department of Homeland Security. So I’d refer you to them to speak to that.</p>
-<p><strong>QUESTION:</strong> Okay. Thank you. And &#8212;</p>
-<p><strong>QUESTION:</strong>  Does that mean that there’s no policy implication to this at all?</p>
-<p><strong>MR PATEL:</strong>  No policy implication to what, Matt?</p>
-<p><strong>QUESTION:</strong>  Well, I mean, yes, DHS is the one that takes them to court and then physically picks them up and flies them out of the country. But they don’t just do that on their own.</p>
-<p><strong>MR PATEL:</strong>  I –</p>
-<p><strong>QUESTION:</strong>  There’s a policy – I mean, they can, obviously. But in a situation like this there’s got to be a policy decision made above DHS &#8212;</p>
-<p><strong>MR PATEL:</strong>  Right.</p>
-<p><strong>QUESTION:</strong>  &#8212; that you are going to go after – as she suggested &#8212;</p>
-<p><strong>MR PATEL:</strong>  Sure.</p>
-<p><strong>QUESTION:</strong>  &#8212; the – or may go after the families of Iranian officials who are here.</p>
-<p><strong>MR PATEL:</strong>  Look, I –</p>
-<p><strong>QUESTION:</strong>  DHS isn’t going to make that decision on their own, unless they’ve gotten more powerful than I’m aware of.</p>
-<p><strong>MR PATEL:</strong>  Look, I think what the – what I would reiterate and what I would say is that I’m not going to preview any actions. As the President alluded to his statement, there will be additional actions coming. I’m certainly not going to get into that from here. But I would also agree that there continue to be a number of tools in our toolbelts and items in our arsenal that we can use to continue to hold Iran accountable for its destabilizing actions.</p>
-<p>On your specific question about deportations, they are a legal issue, not a political tool, and they are handled by DHS, not from the State Department. So I don’t have anything else to add on that.</p>
-<p><strong>QUESTION:</strong>  Another question on this.</p>
-<p><strong>MR PATEL:</strong>  Sure.</p>
-<p><strong>QUESTION:</strong>  About Iran and Iraq. A VOA Kurdish investigation has exposed that Iran, through the Iraqi Government, is pressuring the Iraqi Kurdistan officials to tell the Iranian Kurdish groups in Kurdistan to expel them, actually. Officials have told VOA that Iraqi – the Iraqi military delegation warned the Iraqi Kurdistan region they have – we have people who have said that the Iranians have amassed forces on the Iraqi Iran border and that they have threatened to attack these people.</p>
-<p>Now, should Iran conduct such an attack against the opposition group in Iraq, would – number one, has the U.S. administration been told about this from the Iraqi Kurdistan? And would the U.S. get involved? Would it help the Regional Government of Kurdistan to face such attack if it happened?</p>
-<p><strong>MR PATEL:</strong>  So I don’t have any specifics or anything to offer on that. What I will say is that we would take issue with any violation of Iraq’s sovereignty and territorial integrity. But I don’t have any additional assessment to offer on that. Anything else?</p>
-<p><strong>QUESTION:</strong>  You mean that – sorry – post-2003 you mean?</p>
-<p><strong>MR PATEL:</strong>  Pardon?</p>
-<p><strong>QUESTION:</strong>  You would take issue with any violation of Iraq’s sovereignty and territorial integrity post-2003?</p>
-<p><strong>MR PATEL:</strong>  Thank you.</p>
-<p><strong>QUESTION:</strong>  Is that what you mean?</p>
-<p><strong>MR PATEL:</strong>  Thank you, Matt. I – we &#8212;</p>
-<p><strong>QUESTION:</strong>  Right. Okay. Just making sure.</p>
-<p><strong>QUESTION:</strong>  On the Iran deal –</p>
-<p><strong>MR PATEL:</strong>  Hold on, Said. Said, I have to – let me – there are other folks that with their – I will come back to you, Said, I promise.</p>
-<p><strong>QUESTION:</strong>  On Iran, on Iran.</p>
-<p><strong>MR PATEL:</strong>  Go ahead.</p>
-<p><strong>QUESTION:</strong>  This is about Namazi, Baquer Namazi.</p>
-<p><strong>MR PATEL:</strong>  Sure.</p>
-<p><strong>QUESTION:</strong>  Can you confirm if he is at the moment in the USA? And has anyone from State Department met with him and knows about his condition?</p>
-<p><strong>MR PATEL:</strong>  So out of the respect for the family’s privacy, I don’t have any other details to offer. And we request that the media also respect their privacy. But would take a step back, just to make sure folks know what we’re talking about, is that wrongfully detailed U.S. citizen Baquer Namazi has been permitted to depart Iran and his son Siamak, who also was wrongfully detained, has been granted a furlough from prison. But again, out of respect for the family’s privacy, I don’t have any other details to offer on this.</p>
-<p><strong>QUESTION:</strong>  And about the negotiations that has happened for this release, can you give us any details? What sort of negotiations was that? What sort of a deal you broke?</p>
-<p><strong>MR PATEL:</strong>  So we understand that the lifting of this travel ban and Siamak’s furlough were related to medical need. They were not part of any deal or anything like that. So I don’t have anything additional to offer. I would reiterate, though, that Baquer Namazi was wrongfully detained in Iran and then not permitted to leave the country, despite after serving his sentence and despite having urgent medical need. But again, our understanding is that the lifting was related to medical need.</p>
-<p>Said.</p>
-<p><strong>QUESTION:</strong>  There was a payment of $7 billion from South Korea to &#8212;</p>
-<p><strong>MR PATEL:</strong> There has been no facilitation of any funds transferred. That is absolutely false.</p>
-<p><strong>QUESTION:</strong> But you know it’s very hard to believe that Islamic Republic released them based on good faith and – because that has never happened before.</p>
-<p><strong>MR PATEL:</strong> That is a question for Tehran and not for me.</p>
-<p>Said, you had a question.</p>
-<p><strong>QUESTION:</strong> One more on Iran, please.</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> Sorry, Said. Family members of Nika Shakarami said that Iranian security forces stole body of 16-year-old protester after reportedly beating her to death and buried her secretly in a village in Iran. Are you aware of this report that BBC talked about?</p>
-<p><strong>MR PATEL:</strong> So I’m not aware of this specific report, Michel. But since you asked the question, I do want to take an opportunity to reiterate what you’ve seen the President and the Secretary and a number of others say over the past few days, which is that we are gravely concerned that the Iranian Government is intensifying its violent crackdown on peaceful protesters who are demanding their equal rights and demanding basic human rights and human dignity. We’re appalled by some of these crackdowns, especially as it relates to the crackdown on students. And so as the President said, we will continue to take actions to impose further costs. We will continue to monitor and pay close attention and impose costs on these perpetrators of peaceful protesting and human rights abuses as well.</p>
-<p>Said.</p>
-<p><strong>QUESTION:</strong> Can I move on?</p>
-<p><strong>MR PATEL:</strong> Sure. If there’s anything else on the region before we move on? All right, Said. Go ahead.</p>
-<p><strong>QUESTION:</strong> Okay. On the Palestinian issue, first of all, can you update us on the meeting that Hussein al-Sheikh and PA official have had today?</p>
-<p><a id="post-384756-ISPAL"></a><strong>MR PATEL:</strong> Sure. So Secretary General al-Sheikh is in Washington today for meetings. He met today with Deputy Secretary Sherman, and we will have a readout of that later today. He also met with other senior State officials and other interagency officials as well. The – what this is largely about, Said, is this administration’s focus on renewing engagement with Palestinian leadership and deepening diplomatic ties with the Palestinians. And as you saw, this is – President Biden had a meeting with President Abbas in July, and this is an extension of those efforts to deepen relationships, and engagement in Washington is naturally a part of that.</p>
-<p><strong>QUESTION:</strong> Did you guys commit to him in any way about a date, a possible date, for reopening the American consulate in Jerusalem? I know that’s probably one of the issues that, I mean, logically he would have raised.</p>
-<p><strong>MR PATEL:</strong> Right. I don&#8217;t have any specifics to offer yet, Said, but we will have a readout on this meeting later today. Like I said, these are part of efforts to renew and deepen our engagement with Palestinian leadership, and so we’ll have more to offer in the readout of this meeting.</p>
-<p><strong>QUESTION:</strong> A couple more questions.</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> On the issue of administrative detention, rights groups, Israeli and international rights groups are saying that the Israelis are holding somewhere in the neighborhood of 800 Palestinians under administrative detention. Now these detentions or imprisonments can go on forever sometimes. I mean, some people are still under that kind of detention for decades, I mean for 20 years and so on. What is your position – what is the United States position – on holding someone indefinitely without any charges?</p>
-<p><strong>MR PATEL:</strong> Well, Said, the U.S. urges the full respect for human rights both in Israel but also in the West Bank and Gaza. And as we have said many times before, we believe that Palestinians and Israelis alike deserve equal measures of security, prosperity, and freedom.</p>
-<p><strong>QUESTION:</strong> But honestly, with all due respect, I mean, when you say this and then we see, as we saw last week, the Israelis chase a 70-year-old, and then he falls to his death – I mean, these calls ring hollow, with all due respect, I mean, equal measures and all these things – the Palestinians are not holding Israelis under administrative detention. They are not destroying their home; they’re not blowing them up; they’re not removing them and so on. There are no equal measures. There are no equal measures. So my question to you: Will the United States take a position on the administrative detention? I think you would probably do that if it were else. I mean, this is question that I’ve probably raised many, many times over the years in this room.</p>
-<p><strong>MR PATEL:</strong> I certainly appreciate your question, Said. I don&#8217;t have any additional assessments to offer here other than the U.S. urges the full respect for human rights in Israel, in the West Bank, and Gaza. As we have said many times before, Palestinians and Israelis alike deserve equal measures of security, prosperity, and freedom.</p>
-<p><strong>QUESTION:</strong> Okay. And lastly, on the child Rayyan Suleiman, last week you said that you have asked the Israelis for an investigation, a formal investigation. Have they responded to you in any way?</p>
-<p><strong>MR PATEL:</strong> So Said, I want to take a little bit of a step back and clarify my comments from last week’s phone briefing because I think you and a couple others are taking them out of context. We did not ask for an investigation. What we said was we welcome investigation that the IDF had already indicated was underway. I understand from the latest reporting that the child tragically died of heart failure, which of course does not make this &#8212;</p>
-<p><strong>QUESTION:</strong> (Inaudible).</p>
-<p><strong>MR PATEL:</strong> &#8212; which does not make this any less heartbreaking. But statements on this from the IDF made clear that an initial inquiry showed no connection, that this issue continues to be up to review. So I would refer you to them, but I did want to clarify my comments.</p>
-<p><strong>QUESTION: </strong>So you are not &#8212; just to be clear, you are not calling for an investigation into this?</p>
-<p><strong>MR PATEL: </strong>What I said was that we welcome a thorough investigation &#8212;</p>
-<p><strong>QUESTION: </strong>I understand. I’m just saying what you’re saying now &#8212;</p>
-<p><strong>MR PATEL: </strong>I just wanted to &#8212;</p>
-<p><strong>QUESTION: </strong>&#8212; that you are not calling for an investigation &#8212;</p>
-<p><strong>MR PATEL: </strong>What we are –</p>
-<p><strong>QUESTION: </strong>&#8212; at this particular incident.</p>
-<p><strong>MR PATEL: </strong>What I said and what I would reiterate today is that we welcome a thorough and immediate investigation. The IDF is already – that process is underway, and so I will – I will let them speak to that. But really not &#8212;</p>
-<p><strong>QUESTION: </strong>Okay. Well, since you’re going to quibble over his use of words, I’m going to quibble with yours because you didn’t say we would welcome. You said, “We support a thorough and immediate investigation,” unless the transcript that I’m reading off of that I just pulled up on the website is wrong.</p>
-<p><strong>MR PATEL: </strong>No, you are – you are right.</p>
-<p><strong>QUESTION: </strong>So you didn’t say, “We welcome an investigation.” You said, “We support a thorough and immediate investigation into the circumstances surrounding the child’s death.”</p>
-<p><strong>MR PATEL: </strong>That is correct. My &#8212;</p>
-<p><strong>QUESTION: </strong>Is there difference between welcome and support that you’re trying to &#8212;</p>
-<p><strong>MR PATEL: </strong>My intention was just to indicate that this was &#8212;</p>
-<p><strong>QUESTION: </strong>Okay.</p>
-<p><strong>MR PATEL: </strong>&#8212; an investigation that the IDF &#8212;</p>
-<p><strong>QUESTION: </strong>Okay.</p>
-<p><strong>MR PATEL: </strong>&#8212; had already under &#8212;</p>
-<p><strong>QUESTION: </strong>No, no, I don’t think anyone is saying that you’re urging an investigation or calling for an investigation &#8212;</p>
-<p><strong>MR PATEL: </strong>Well &#8212;</p>
-<p><strong>QUESTION: </strong>&#8212; but there is a difference between welcome and support unless &#8212;</p>
-<p><strong>MR PATEL: </strong>I just wanted to clarify that piece.</p>
-<p><strong>QUESTION: </strong>&#8212; you’re trying to say that –</p>
-<p><strong>MR PATEL: </strong>Nope. I wanted to clarify that latter piece, Matt.</p>
-<p><strong>QUESTION: </strong>Okay.</p>
-<p><strong>MR PATEL: </strong>Thank you.</p>
-<p>Shaun.</p>
-<p><strong>QUESTION: </strong>Can I go to &#8212;</p>
-<p><strong>MR PATEL: </strong> On same region or shifting subjects?</p>
-<p><strong>QUESTION: </strong>No, it’s on Russia.</p>
-<p><strong>MR PATEL: </strong>Go ahead.</p>
-<p><strong>QUESTION: </strong>Could I ask you – there is a court in Russia today – talked about another American being sentenced – Robert Gilman. He was identified as – in Russian news agencies as – he was accused of kicking an officer. Do you have anything about this, and if so, whether there’s been consular access?</p>
-<p><a id="post-384756-RUSSIA"></a><strong>MR PATEL: </strong>So due to privacy considerations, there is going to be a limit to what I can offer. But we are aware of Russia’s court’s decisions, and we take seriously our commitment to assist U.S. citizens abroad and are continuing to monitor the situation. We continue to insist that the Russian Federation allow consistent, timely consular access to all U.S. citizens, and we urge the Russian Government to ensure fair treatment to all U.S. citizens detained in Russia. But I don’t have anything else to offer.</p>
-<p><strong>QUESTION: </strong>Sure. I mean, has there been an access in this case? Is that a concern in this case?</p>
-<p><strong>MR PATEL: </strong>Again, due to privacy considerations, there’s a limit to what I can say. I don’t have any additional comments to offer.</p>
-<p><strong>QUESTION: </strong>Sure. And I know you just said nothing more to offer, but just briefly – I mean, is there any indication he was targeted because of his U.S. citizenship?</p>
-<p><strong>MR PATEL: </strong>Again, due to privacy considerations, I don’t have further assessments to provide on this.</p>
-<p><strong>QUESTION: </strong>Sure. I have some stuff on other regions in the world, unless someone else has more on Russia.</p>
-<p><strong>MR PATEL: </strong>Sure. Still on Russia?</p>
-<p><strong>QUESTION:</strong> (Inaudible.)</p>
-<p><strong>MR PATEL:</strong> I’ll come back to you, Shaun. I promise.</p>
-<p><strong>QUESTION:</strong> Have you been in touch with the Russian Government officials on this particular case, or is it too early to talk about?</p>
-<p><strong>MR PATEL: </strong>Again, due to privacy considerations, I don’t have anything to offer additional beyond what I said otherwise.</p>
-<p><strong>QUESTION: </strong>Thank you so much. On Russia, again &#8212;</p>
-<p><strong>QUESTION: </strong>How does that have to do – how does that have anything to do with privacy considerations?</p>
-<p><strong>MR PATEL: </strong>What do you mean, Matt?</p>
-<p><strong>QUESTION: </strong>Well, I think the question was: have you been in touch with Russian officials about this case? You’re confirming that there is a case, that you’re aware of it, but privacy considerations prevent you from saying whether you’ve asked – you’ve gotten in touch with the Russians about it?</p>
-<p><strong>MR PATEL: </strong>Due to privacy considerations, there – I – there are limits to what I can get into.</p>
-<p><strong>QUESTION: </strong>That has nothing to do – yeah, but that has nothing to do with privacy.</p>
-<p><strong>MR PATEL: </strong>As I said at the top of Shaun’s question, we continue to insist consistent consular access.</p>
-<p><strong>QUESTION: </strong>Well, I get it, but you &#8212;</p>
-<p><strong>MR PATEL: </strong>And we’re monitoring the situation, but I don’t have any other assessments.</p>
-<p><strong>QUESTION: </strong>Yeah, but I think you need to come up with a better explanation for why you’re refusing to say anything than privacy considerations about a government-to-government – a government-to-government contact that has nothing to do with the person’s privacy. He’s just – he’s just asking whether you’ve been in touch with them or not.</p>
-<p><strong>MR PATEL: </strong>Well, like I said, we are aware of the Russian’s court’s decision, and we take seriously our commitment to assist U.S. citizens who are abroad.</p>
-<p><strong>QUESTION: </strong>On that line, I have a question about Russians.</p>
-<p><strong>MR PATEL: </strong>Sure.</p>
-<p><strong>QUESTION: </strong>You probably are aware of the reports that the European Union has issued a coordinated efforts that they are summoning Russian ambassadors, most recently I think yesterday in Brussels, to express their concern on annexation. Is the United States going to follow suit? And if not, why not?</p>
-<p><strong>MR PATEL: </strong>We have taken – I don’t have any specific actions to read out specifically, but I will note that we have taken a number of actions since last week to make clear our vehement condemnation and opposition to the efforts around not just the sham referenda but also the annexation.</p>
-<p>You saw today another tranche of security assistance be announced. You saw late last week a robust interagency action between the Treasury Department, the State Department, and the Commerce Department that have imposed imposing actions on Russia’s leaders within the Kremlin and things of that nature. So I don’t have any future actions to preview as it relates to that, but we have made our opposition to these annexations quite, quite clear and quite vocal.</p>
-<p>Shannon.</p>
-<p><strong>QUESTION: </strong>Has there been any progress towards securing the freedom of Brittney Griner or Paul Whelan? And can you characterize any ongoing talks with Russian officials to that aim?</p>
-<p><strong>MR PATEL: </strong>Yeah, so I don’t have any additional updates to provide as it relates to the wrongful detention of Brittney Griner and Paul Whelan. We continue to urge their release. Secretary Blinken spoke to you all a number of weeks ago and spoke about a substantial proposal that was on the table earlier this summer to facilitate their release. Our governments are communicating about that, but the Russians should take the deal that’s on the table. But I don’t have any other updates to provide.</p>
-<p>Shaun, coming back to you.</p>
-<p><strong>QUESTION: </strong>Sure. Could I ask a couple things in Latin America?</p>
-<p><strong>MR PATEL: </strong>Sure.</p>
-<p><strong>QUESTION: </strong>Can we do Russia a little bit more?</p>
-<p><strong>MR PATEL: </strong>Actually – okay, you had a couple questions. Michel, did you have – you had a question on a similar topic?</p>
-<p><strong>QUESTION: </strong>No. On Israel and Lebanon.</p>
-<p><strong>MR PATEL: </strong>Okay. We’ll take your question in the back.</p>
-<p><strong>QUESTION: </strong>Thank you. I’m Mark Stone from Sky News. Just on Russia and Ukraine, there have been some quite confused reporting – there has been some confused reporting about a Russian train, military train that might be connected somehow to its nuclear capabilities moving. I wondered if you could comment on that and simply comment on whether you have seen any change in Russia’s nuclear posture.</p>
-<p><strong>MR PATEL: </strong>So I don’t have any assessment to provide about any updates on the ground or any of that reporting, but I would say is that as Secretary Blinken has said, we have heard a lot of irresponsible rhetoric coming from Russia and coming from Vladimir Putin. And we are focused on making sure that we are all acting responsibly, especially when it comes to this kind of loose rhetoric and saber-rattling. We’ve been very clear with Russia publicly as well as privately to stop its irresponsible rhetoric regarding nuclear weapons, and we’ve addressed this both from the Secretary and the President have spoken to this as well.</p>
-<p><strong>QUESTION: </strong>Just to follow up if I may, some U.S. administration officials have been quite clear over the past few weeks in stressing that they have not seen any change in Russia’s nuclear posture. So as of today, have you seen any change?</p>
-<p><strong>MR PATEL:</strong> Again, I don’t have any new updates to offer or a new assessment to provide on any updates from the ground.</p>
-<p><strong>QUESTION: </strong>Okay. Thank you.</p>
-<p><strong>MR PATEL: </strong>Michel.</p>
-<p><strong>QUESTION:</strong> Yeah, on the U.S. engagement between Lebanon and Israel, the U.S. has delivered a draft agreement to both parties. Have you received any answer or any answers from them?</p>
-<p><a id="post-384756-LEBANONISRAEL"></a><strong>MR PATEL:</strong> Thanks, Michel. So to take a little bit of a step back, so yes, Special Presidential Coordinator Hochstein continues his robust engagement to bring the maritime boundary discussions to a close. As you note, I can confirm we delivered a U.S. proposal for a final agreement on the maritime boundary to both countries and that happened over the weekend. And we continue to welcome the consultative spirit of both parties to reach a resolution.</p>
-<p>Resolving this dispute is a key priority for this administration, and we firmly believe that a deal has the potential to promote lasting stability and economic prosperity for both countries. But I don’t have an update to provide or anything to offer yet in terms of next steps.</p>
-<p><strong>QUESTION:</strong> Did you receive any answers?</p>
-<p><strong>MR PATEL:</strong> I don’t have any new assessment to provide.</p>
-<p><strong>QUESTION:</strong> And do you expect any deal this week?</p>
-<p><strong>MR PATEL:</strong> Again, I’m not going to speculate on timeline here other than this is something that continues to remain a key priority and something that we’re very closely engaged on.</p>
-<p>We’ll go back to Shaun.</p>
-<p><strong>QUESTION:</strong> Nicaragua. The – I know there’s some – there was a reaction to this last week, but the Nicaraguan Government is saying that it’s not accepting the confirmed U.S. ambassador. It’s also declared persona non grata the European Union representative and the Dutch ambassador. Do you have any comment on this, either where the United States is going with this in terms of whether Ambassador Rodriguez will still try to go or more broadly speaking about where you see the direction of diplomacy with Nicaragua?</p>
-<p><strong>MR PATEL:</strong> I will have to get back to you on that. I don’t have anything to offer on that right at this moment.</p>
-<p><strong>QUESTION:</strong> Okay.</p>
-<p><strong>MR PATEL:</strong> But I can – we can check with the team and get back to you.</p>
-<p><strong>QUESTION:</strong> Sure, can I ask something completely unrelated.</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> Burkina Faso.</p>
-<p><strong>MR PATEL:</strong> Okay.</p>
-<p><strong>QUESTION:</strong> The coup there. There’s a demonstration today on which there are some Russian flags. The head of the Wagner Group offered praise for the new junta leader, the new coup leader. Does the United States have any concern about Russia’s role in Burkina Faso or any information on what’s going on?</p>
-<p><a id="post-384756-BURKINAFASO"></a><strong>MR PATEL:</strong> Sure. So first and foremost, I would say that the U.S. is continuing to monitor the situation in Burkina Faso. But specifically as it relates to your question, we have spoken clearly about the destabilizing impact of both Russian disinformation but also the Wagner Group’s activities globally. Countries where the group has been deployed find themselves weaker and less secure, and we’ve seen that in a number of cases in Africa alone.</p>
-<p>So we – our viewpoint is that we condemn any attempt to exacerbate the current situation in Burkina Faso, and we strongly encourage the new transition government to adhere to the agreed‑upon timeline for return to a democratically elected, civilian-led government.</p>
-<p>Nick, you had a question?</p>
-<p><strong>QUESTION:</strong> Could I just briefly follow up?</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> Is there actually a concern that the Wagner Group is actually going to come in, that there is something being cooked between them and the authorities in Burkina Faso?</p>
-<p><strong>MR PATEL:</strong> I’ve not seen anything as it relates to that. But again, we’ve been very clear that the – about the destabilizing impacts both on Russian disinformation but also the Wagner Group as well.</p>
-<p>Nick.</p>
-<p><strong>QUESTION:</strong> Thanks. I wanted to ask about a provision Senator Kaine had inserted into the Taiwan Policy Act &#8212;</p>
-<p><strong>MR PATEL:</strong> Okay.</p>
-<p><strong>QUESTION:</strong> &#8212; that would increase oversight of non-career political-appointed ambassadors, basically allowing embassy staff to complete anonymous annual assessments of these ambassadors and make that easier to report poor performance to the IG. Is that something that State Department would support or not support?</p>
-<p><strong>MR PATEL:</strong> Well, I’m just – I’m not going to get into correspondence with Congress or – on legislation that is still being litigated and negotiated, so I don’t have any assessment to offer on that.</p>
-<p><strong>QUESTION:</strong> But broadly speaking, is State favorable towards the idea of more transparency on politically appointed ambassadors and their performance?</p>
-<p><strong>MR PATEL:</strong> Again, I’m just not going to offer an assessment on this yet.</p>
-<p>Go ahead.</p>
-<p><strong>QUESTION:</strong> I have two questions about Latin America, if possible.</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> The first about the prisoner exchange negotiation between United States and Venezuela announced past weekend.</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> Guaidó said that he was not involved in this negotiation. How does State Department respond to claims that this negotiation brings a diplomatic issue once United States does not recognize Maduro’s regime and at the same time have to negotiate with him this type of matter?</p>
-<p><a id="post-384756-VENEZUELA"></a><strong>MR PATEL:</strong> So to take a little bit of a step back, we are not going to get into the specifics of the diplomatic engagements here due to operational concerns, due to privacy. But more broadly, the important takeaway here is that we want the American people to know that we have no higher priority than their safety and security. Securing their release and reuniting them with their families has been a top priority for this administration, and we’ve engaged on the issue of wrongful detainees at every opportunity as well as engaged directly to release them as soon as possible. And this is something we’re going to continue to work intensively on.</p>
-<p><strong>QUESTION:</strong> Okay. And if possible a second question about Brazil.</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> Past Sunday night, the State Department already released a statement regarding elections in Brazil. Is there anything else that you could add regarding this statement, especially about how the U.S. see electoral process in Brazil?</p>
-<p><a id="post-384756-BRAZIL"></a><strong>MR PATEL:</strong> Sure. So I would just reiterate what the Secretary said over the weekend, which is that the – first and foremost, we congratulate the Brazilian people and its institutions on a successful first round that was conducted with credibility and transparency, and we support the Brazilian people and their democratic right, and we look forward to this next process and it playing out transparently as well.</p>
-<p>I think that’s all the time we have for today, everybody. Thank you.</p>
-<p><strong>QUESTION: </strong>Thanks.</p>
-<p><strong>QUESTION:</strong> Thank you.</p>
-<p>(The briefing was concluded at 2:55 p.m.)</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Vedant Patel, Principal Deputy Spokesperson</p>
-<p>Washington, DC</p>
-<p>2:19 p.m. EDT</p>
-<p><strong>MR PATEL:</strong> Hey, everybody, and sorry for being a little tardy. Apologies.</p>
-<p>So I have one quick thing for you at the top, and then I’m happy to dive in to your questions.</p>
-<p><a id="post-384756-DEPARTMENT"></a> So I am happy to announce today that the United States is proud to nominate Amy Pope to be the next director general of the International Organization for Migration.</p>
-<p>Amy Pope is an experienced leader that IOM needs at this time of unprecedented displacement and migration. She has extensive experience fostering collaboration between governments, NGOs, and communities to translate their policies into reality. I worked with her closely at the White House, where she was brilliant, and a wonderful colleague.</p>
-<p>She has proven her exceptional capacity to achieve results that serve migrants, to lead and support IOM’s workforce, and to collaborate closely with member states. The U.S. strongly supports her candidacy, and we are confident that under her leadership IOM will thrive.</p>
-<p>With that, Matt, if you want to kick us off.</p>
-<p><strong>QUESTION:</strong> Sure. Just to make sure – I’m pretty sure I know the answer to this – this nomination was actually announced yesterday.</p>
-<p><strong>MR PATEL:</strong> Correct. It was announced &#8212;</p>
-<p><strong>QUESTION:</strong> You wanted to have &#8212;</p>
-<p><strong>MR PATEL:</strong> The Secretary announced it via a statement.</p>
-<p><strong>QUESTION:</strong> You wanted to get it on camera?</p>
-<p><strong>MR PATEL:</strong> We just wanted to &#8212;</p>
-<p><strong>QUESTION:</strong> Reiterate it?</p>
-<p><strong>MR PATEL:</strong> &#8212; again reiterate our proud nomination of Amy.</p>
-<p><strong>QUESTION:</strong> Okay, fair enough. So North – let’s start with North Korea. As we saw, the Secretary spoke overnight, I suppose, or very late last night, with his Japanese and South Korean counterparts. I see the White House announce that the President spoke with Prime Minister Kishida and Jake Sullivan spoke with their national security advisor. So are you aware of any other contacts that there have been since this missile launch? And where does the administration intend to go next with its response?</p>
-<p><a id="post-384756-NORTHKOREAREGION"></a><strong>MR PATEL:</strong> Sure. So Deputy Secretary Sherman and Special Representative Kim had a chance to speak with their counterparts as well. But beyond that, I want to take a little bit of a step back and reiterate what you saw the Secretary and some of the communications coming from the administration have reiterated, which is that we condemn this dangerous and reckless launch of a long-range ballistic missile that flew over Japan, and it posed an unacceptable threat to the Japanese public. This action is a clear violation of multiple resolutions adopted by the UN Security Council, and it again demonstrates the threat that the DPRK holds both as it relates to its unlawful weapons of mass destruction program, but also its ballistic missiles program, and the threat that it poses to its neighbors as well.</p>
-<p>Together with the international community, we call on the DPRK to refrain from further provocations and to engage in sustained and substantive dialogue. We continue to consult closely with our allies, as is evidenced by the number of high-level communications that have happened from across the interagency with their counterparts. And I’d also reiterate that our commitments to Japan and the Republic of Korea are ironclad.</p>
-<p><strong>QUESTION:</strong> Right, but is there any – are there any thoughts about where you take it from here, beyond the consultations? I mean, what do the consultations lead to? What are you consulting about? Presumably it’s a response.</p>
-<p><strong>MR PATEL:</strong> I don’t have any specific actions to preview or read out for you at this time, but again, we condemn this dangerous and reckless launch, and again, are holding close consultations and continue to communicate directly with our allies and partners on this issue, especially with the Republic of Korea and Japan.</p>
-<p><strong>QUESTION:</strong> Thanks.</p>
-<p><strong>QUESTION:</strong> Can I follow up?</p>
-<p><strong>MR PATEL:</strong> Same topic?</p>
-<p><strong>QUESTION:</strong> Sure.</p>
-<p><strong>MR PATEL:</strong> Go ahead, Shaun.</p>
-<p><strong>QUESTION:</strong> Just the secretary-general himself said this was – the UN secretary-general said this was an escalation. But what’s the overall read about this happening now, and how dangerous it is? And with the repeated warnings about a nuclear test, is there any new indication that the United States have that that might be imminent? And any messaging that you want to share?</p>
-<p><strong>MR PATEL:</strong> Sure. So we’re still assessing the specific nature of this recent launch, which, again, posed an unacceptable threat to the Japanese public. As you noted at the beginning of your question, this is the 39th ballistic missile that the DPRK has launched in 2022, and this kind of continued action, not only is it unlawful, it is destabilizing to the region and the whole international community. And we continue to condemn this kind of testing and this kind of activity.</p>
-<p>Anything else on North Korea?</p>
-<p><strong>QUESTION:</strong> Yeah, I have one on North Korea.</p>
-<p><strong>MR PATEL:</strong> Go ahead.</p>
-<p><strong>QUESTION:</strong> You’ve been saying, I guess since the beginning of the administration, that you’ve been asking the North Koreans for dialogue. You mentioned encouraging them to engage in dialogue. Is there still kind of an offer on the table despite what they’re doing? That hasn’t changed that you want them to talk?</p>
-<p><strong>MR PATEL:</strong> Absolutely. So our position on diplomacy and dialogue has not changed, and it remains the same. And frankly, this action underscores the urgent need for dialogue and diplomacy. I’ll also note that our ultimate goal here, which is the complete denuclearization of the Korean Peninsula, has not changed either. And we remain prepared to engage in serious and sustained diplomacy to make tangible progress towards these goals. And we continue to be prepared to meet with the DPRK without preconditions, but it’s unfortunate that these efforts towards diplomacy and outreach has not responded – has not – they have not reacted similarly.</p>
-<p><strong>QUESTION:</strong> So the offer to meet without preconditions, that will remain on the table sort of regardless of the actions that – if they continue taking escalatory actions?</p>
-<p><strong>MR PATEL:</strong> That continues to be our posture. We’re prepared to meet with the DPRK without preconditions. We consider that to be an important step towards meeting our ultimate goal, which is the complete denuclearization of the Korean Peninsula. And we continue to feel that diplomacy and dialogue are a key – a key aspect of achieving that goal.</p>
-<p>Any &#8212;</p>
-<p><strong>QUESTION:</strong> Just one other certain thing.</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> I wonder if you had anything on sort of just – there’s unconfirmed reports just before we came into this briefing, I guess, that there was an explosion, possibly multiple explosions and a fire at a South Korean air force – the South Korean air force’s 18th fighter wing base. At the moment it’s very unconfirmed, but I’m wondering if you guys have any &#8212;</p>
-<p><strong>MR PATEL:</strong> I don’t have anything to offer on that, but we can – we can check and see if we have anything to assess on that.</p>
-<p>Anything else on the region before we move away?</p>
-<p><strong>QUESTION:</strong> Yes.</p>
-<p><strong>MR PATEL:</strong> Go ahead.</p>
-<p><strong>QUESTION:</strong> I’m just wondering how serious the administration is regarding this launch. Like, 4,600 kilometers is long enough to strike Guam, and with more development could enable them to possibly strike Hawaii, Alaska, or even the West Coast. With that, like, how long do you all plan to keep having this door open for, like, a call back? Is there a timeline?</p>
-<p><strong>MR PATEL:</strong> Well, like I – like I answered Matt’s question, I’m not going to speculate on any kind of response or specific actions. As I said, we continue to consult closely with our allies and partners. But since you asked, I will again use this opportunity to say that the U.S. Government condemns this dangerous and reckless launch. We think that it’s unacceptable. It is a clear violation of multiple UN Security Council resolutions, and it again demonstrates the DPRK’s unlawful and destabilizing activities in the region.</p>
-<p>Go ahead, in the back.</p>
-<p><strong>QUESTION:</strong> Could you address anything about the joint air drills, the South Korean-U.S. air drills in response to this launch?</p>
-<p><strong>MR PATEL:</strong> Sure. So I can confirm that we have had a bilateral military exercise with Japan and the Republic of Korea. I will refer you to the Pentagon and let my Pentagon colleagues there speak to those in greater detail. But what I would take away from that is that the United States commitment to the defense of the Republic of Korea and Japan is ironclad. But I will let my colleagues at the Pentagon speak to those in greater specificity.</p>
-<p>Anything else on the region before we move away? Gitte?</p>
-<p><strong>QUESTION:</strong> Thanks, Vedant. Two questions on Iran. Yesterday, President Biden issued a statement in support of the people who are demonstrating in Iran, and in it he says that the Iranian regime has been suppressing people and denying their fundamental rights for decades, and then he promises more sanctions. But the effectiveness of these sanctions is really under question. Would the Biden administration consider deporting the family members of all Iranian authorities who are here in the United States studying, working, and just living, irrespective of their legal status?</p>
-<p><a id="post-384756-IRAN"></a><strong>MR PATEL:</strong> So let me – let me try to – let me answer that in two parts. First, as it relates to the President’s statement yesterday, as he said, we will continue to take action to impose further costs on the perpetrators of the violence against peaceful protesters and other human rights abuses. I don’t have anything to preview. I’m certainly not going to preview any potential actions.</p>
-<p>But as it relates to the second part of your question, deportation and the enforcement of our immigration laws is something that’s handled by the Department of Homeland Security, not the State Department, so I would refer you to DHS. Our viewpoint is that individual deportations are a legal issue and not a political tool. But again, this is something that DHS can speak to. I’m not going to get into it from here.</p>
-<p><strong>QUESTION:</strong>  Well you – the administration keeps saying that they have all sorts of different tools in their – for cases like this or other cases. Couldn’t this be one way of really getting back at the authorities and showing them that the U.S. is serious?</p>
-<p><strong>MR PATEL:</strong>  We do have a number of tools in our arsenal to hold Iran accountable for a lot of their destabilizing activities. I’m not going to read them out necessarily from here. But as it relates to this, as it relates to individual deportations, our view is that they’re a legal issue, not a political tool, and they live within the auspices of the Department of Homeland Security. So I’d refer you to them to speak to that.</p>
-<p><strong>QUESTION:</strong> Okay. Thank you. And &#8212;</p>
-<p><strong>QUESTION:</strong>  Does that mean that there’s no policy implication to this at all?</p>
-<p><strong>MR PATEL:</strong>  No policy implication to what, Matt?</p>
-<p><strong>QUESTION:</strong>  Well, I mean, yes, DHS is the one that takes them to court and then physically picks them up and flies them out of the country. But they don’t just do that on their own.</p>
-<p><strong>MR PATEL:</strong>  I –</p>
-<p><strong>QUESTION:</strong>  There’s a policy – I mean, they can, obviously. But in a situation like this there’s got to be a policy decision made above DHS &#8212;</p>
-<p><strong>MR PATEL:</strong>  Right.</p>
-<p><strong>QUESTION:</strong>  &#8212; that you are going to go after – as she suggested &#8212;</p>
-<p><strong>MR PATEL:</strong>  Sure.</p>
-<p><strong>QUESTION:</strong>  &#8212; the – or may go after the families of Iranian officials who are here.</p>
-<p><strong>MR PATEL:</strong>  Look, I –</p>
-<p><strong>QUESTION:</strong>  DHS isn’t going to make that decision on their own, unless they’ve gotten more powerful than I’m aware of.</p>
-<p><strong>MR PATEL:</strong>  Look, I think what the – what I would reiterate and what I would say is that I’m not going to preview any actions. As the President alluded to his statement, there will be additional actions coming. I’m certainly not going to get into that from here. But I would also agree that there continue to be a number of tools in our toolbelts and items in our arsenal that we can use to continue to hold Iran accountable for its destabilizing actions.</p>
-<p>On your specific question about deportations, they are a legal issue, not a political tool, and they are handled by DHS, not from the State Department. So I don’t have anything else to add on that.</p>
-<p><strong>QUESTION:</strong>  Another question on this.</p>
-<p><strong>MR PATEL:</strong>  Sure.</p>
-<p><strong>QUESTION:</strong>  About Iran and Iraq. A VOA Kurdish investigation has exposed that Iran, through the Iraqi Government, is pressuring the Iraqi Kurdistan officials to tell the Iranian Kurdish groups in Kurdistan to expel them, actually. Officials have told VOA that Iraqi – the Iraqi military delegation warned the Iraqi Kurdistan region they have – we have people who have said that the Iranians have amassed forces on the Iraqi Iran border and that they have threatened to attack these people.</p>
-<p>Now, should Iran conduct such an attack against the opposition group in Iraq, would – number one, has the U.S. administration been told about this from the Iraqi Kurdistan? And would the U.S. get involved? Would it help the Regional Government of Kurdistan to face such attack if it happened?</p>
-<p><strong>MR PATEL:</strong>  So I don’t have any specifics or anything to offer on that. What I will say is that we would take issue with any violation of Iraq’s sovereignty and territorial integrity. But I don’t have any additional assessment to offer on that. Anything else?</p>
-<p><strong>QUESTION:</strong>  You mean that – sorry – post-2003 you mean?</p>
-<p><strong>MR PATEL:</strong>  Pardon?</p>
-<p><strong>QUESTION:</strong>  You would take issue with any violation of Iraq’s sovereignty and territorial integrity post-2003?</p>
-<p><strong>MR PATEL:</strong>  Thank you.</p>
-<p><strong>QUESTION:</strong>  Is that what you mean?</p>
-<p><strong>MR PATEL:</strong>  Thank you, Matt. I – we &#8212;</p>
-<p><strong>QUESTION:</strong>  Right. Okay. Just making sure.</p>
-<p><strong>QUESTION:</strong>  On the Iran deal –</p>
-<p><strong>MR PATEL:</strong>  Hold on, Said. Said, I have to – let me – there are other folks that with their – I will come back to you, Said, I promise.</p>
-<p><strong>QUESTION:</strong>  On Iran, on Iran.</p>
-<p><strong>MR PATEL:</strong>  Go ahead.</p>
-<p><strong>QUESTION:</strong>  This is about Namazi, Baquer Namazi.</p>
-<p><strong>MR PATEL:</strong>  Sure.</p>
-<p><strong>QUESTION:</strong>  Can you confirm if he is at the moment in the USA? And has anyone from State Department met with him and knows about his condition?</p>
-<p><strong>MR PATEL:</strong>  So out of the respect for the family’s privacy, I don’t have any other details to offer. And we request that the media also respect their privacy. But would take a step back, just to make sure folks know what we’re talking about, is that wrongfully detailed U.S. citizen Baquer Namazi has been permitted to depart Iran and his son Siamak, who also was wrongfully detained, has been granted a furlough from prison. But again, out of respect for the family’s privacy, I don’t have any other details to offer on this.</p>
-<p><strong>QUESTION:</strong>  And about the negotiations that has happened for this release, can you give us any details? What sort of negotiations was that? What sort of a deal you broke?</p>
-<p><strong>MR PATEL:</strong>  So we understand that the lifting of this travel ban and Siamak’s furlough were related to medical need. They were not part of any deal or anything like that. So I don’t have anything additional to offer. I would reiterate, though, that Baquer Namazi was wrongfully detained in Iran and then not permitted to leave the country, despite after serving his sentence and despite having urgent medical need. But again, our understanding is that the lifting was related to medical need.</p>
-<p>Said.</p>
-<p><strong>QUESTION:</strong>  There was a payment of $7 billion from South Korea to &#8212;</p>
-<p><strong>MR PATEL:</strong> There has been no facilitation of any funds transferred. That is absolutely false.</p>
-<p><strong>QUESTION:</strong> But you know it’s very hard to believe that Islamic Republic released them based on good faith and – because that has never happened before.</p>
-<p><strong>MR PATEL:</strong> That is a question for Tehran and not for me.</p>
-<p>Said, you had a question.</p>
-<p><strong>QUESTION:</strong> One more on Iran, please.</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> Sorry, Said. Family members of Nika Shakarami said that Iranian security forces stole body of 16-year-old protester after reportedly beating her to death and buried her secretly in a village in Iran. Are you aware of this report that BBC talked about?</p>
-<p><strong>MR PATEL:</strong> So I’m not aware of this specific report, Michel. But since you asked the question, I do want to take an opportunity to reiterate what you’ve seen the President and the Secretary and a number of others say over the past few days, which is that we are gravely concerned that the Iranian Government is intensifying its violent crackdown on peaceful protesters who are demanding their equal rights and demanding basic human rights and human dignity. We’re appalled by some of these crackdowns, especially as it relates to the crackdown on students. And so as the President said, we will continue to take actions to impose further costs. We will continue to monitor and pay close attention and impose costs on these perpetrators of peaceful protesting and human rights abuses as well.</p>
-<p>Said.</p>
-<p><strong>QUESTION:</strong> Can I move on?</p>
-<p><strong>MR PATEL:</strong> Sure. If there’s anything else on the region before we move on? All right, Said. Go ahead.</p>
-<p><strong>QUESTION:</strong> Okay. On the Palestinian issue, first of all, can you update us on the meeting that Hussein al-Sheikh and PA official have had today?</p>
-<p><a id="post-384756-ISPAL"></a><strong>MR PATEL:</strong> Sure. So Secretary General al-Sheikh is in Washington today for meetings. He met today with Deputy Secretary Sherman, and we will have a readout of that later today. He also met with other senior State officials and other interagency officials as well. The – what this is largely about, Said, is this administration’s focus on renewing engagement with Palestinian leadership and deepening diplomatic ties with the Palestinians. And as you saw, this is – President Biden had a meeting with President Abbas in July, and this is an extension of those efforts to deepen relationships, and engagement in Washington is naturally a part of that.</p>
-<p><strong>QUESTION:</strong> Did you guys commit to him in any way about a date, a possible date, for reopening the American consulate in Jerusalem? I know that’s probably one of the issues that, I mean, logically he would have raised.</p>
-<p><strong>MR PATEL:</strong> Right. I don&#8217;t have any specifics to offer yet, Said, but we will have a readout on this meeting later today. Like I said, these are part of efforts to renew and deepen our engagement with Palestinian leadership, and so we’ll have more to offer in the readout of this meeting.</p>
-<p><strong>QUESTION:</strong> A couple more questions.</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> On the issue of administrative detention, rights groups, Israeli and international rights groups are saying that the Israelis are holding somewhere in the neighborhood of 800 Palestinians under administrative detention. Now these detentions or imprisonments can go on forever sometimes. I mean, some people are still under that kind of detention for decades, I mean for 20 years and so on. What is your position – what is the United States position – on holding someone indefinitely without any charges?</p>
-<p><strong>MR PATEL:</strong> Well, Said, the U.S. urges the full respect for human rights both in Israel but also in the West Bank and Gaza. And as we have said many times before, we believe that Palestinians and Israelis alike deserve equal measures of security, prosperity, and freedom.</p>
-<p><strong>QUESTION:</strong> But honestly, with all due respect, I mean, when you say this and then we see, as we saw last week, the Israelis chase a 70-year-old, and then he falls to his death – I mean, these calls ring hollow, with all due respect, I mean, equal measures and all these things – the Palestinians are not holding Israelis under administrative detention. They are not destroying their home; they’re not blowing them up; they’re not removing them and so on. There are no equal measures. There are no equal measures. So my question to you: Will the United States take a position on the administrative detention? I think you would probably do that if it were else. I mean, this is question that I’ve probably raised many, many times over the years in this room.</p>
-<p><strong>MR PATEL:</strong> I certainly appreciate your question, Said. I don&#8217;t have any additional assessments to offer here other than the U.S. urges the full respect for human rights in Israel, in the West Bank, and Gaza. As we have said many times before, Palestinians and Israelis alike deserve equal measures of security, prosperity, and freedom.</p>
-<p><strong>QUESTION:</strong> Okay. And lastly, on the child Rayyan Suleiman, last week you said that you have asked the Israelis for an investigation, a formal investigation. Have they responded to you in any way?</p>
-<p><strong>MR PATEL:</strong> So Said, I want to take a little bit of a step back and clarify my comments from last week’s phone briefing because I think you and a couple others are taking them out of context. We did not ask for an investigation. What we said was we welcome investigation that the IDF had already indicated was underway. I understand from the latest reporting that the child tragically died of heart failure, which of course does not make this &#8212;</p>
-<p><strong>QUESTION:</strong> (Inaudible).</p>
-<p><strong>MR PATEL:</strong> &#8212; which does not make this any less heartbreaking. But statements on this from the IDF made clear that an initial inquiry showed no connection, that this issue continues to be up to review. So I would refer you to them, but I did want to clarify my comments.</p>
-<p><strong>QUESTION: </strong>So you are not &#8212; just to be clear, you are not calling for an investigation into this?</p>
-<p><strong>MR PATEL: </strong>What I said was that we welcome a thorough investigation &#8212;</p>
-<p><strong>QUESTION: </strong>I understand. I’m just saying what you’re saying now &#8212;</p>
-<p><strong>MR PATEL: </strong>I just wanted to &#8212;</p>
-<p><strong>QUESTION: </strong>&#8212; that you are not calling for an investigation &#8212;</p>
-<p><strong>MR PATEL: </strong>What we are –</p>
-<p><strong>QUESTION: </strong>&#8212; at this particular incident.</p>
-<p><strong>MR PATEL: </strong>What I said and what I would reiterate today is that we welcome a thorough and immediate investigation. The IDF is already – that process is underway, and so I will – I will let them speak to that. But really not &#8212;</p>
-<p><strong>QUESTION: </strong>Okay. Well, since you’re going to quibble over his use of words, I’m going to quibble with yours because you didn’t say we would welcome. You said, “We support a thorough and immediate investigation,” unless the transcript that I’m reading off of that I just pulled up on the website is wrong.</p>
-<p><strong>MR PATEL: </strong>No, you are – you are right.</p>
-<p><strong>QUESTION: </strong>So you didn’t say, “We welcome an investigation.” You said, “We support a thorough and immediate investigation into the circumstances surrounding the child’s death.”</p>
-<p><strong>MR PATEL: </strong>That is correct. My &#8212;</p>
-<p><strong>QUESTION: </strong>Is there difference between welcome and support that you’re trying to &#8212;</p>
-<p><strong>MR PATEL: </strong>My intention was just to indicate that this was &#8212;</p>
-<p><strong>QUESTION: </strong>Okay.</p>
-<p><strong>MR PATEL: </strong>&#8212; an investigation that the IDF &#8212;</p>
-<p><strong>QUESTION: </strong>Okay.</p>
-<p><strong>MR PATEL: </strong>&#8212; had already under &#8212;</p>
-<p><strong>QUESTION: </strong>No, no, I don’t think anyone is saying that you’re urging an investigation or calling for an investigation &#8212;</p>
-<p><strong>MR PATEL: </strong>Well &#8212;</p>
-<p><strong>QUESTION: </strong>&#8212; but there is a difference between welcome and support unless &#8212;</p>
-<p><strong>MR PATEL: </strong>I just wanted to clarify that piece.</p>
-<p><strong>QUESTION: </strong>&#8212; you’re trying to say that –</p>
-<p><strong>MR PATEL: </strong>Nope. I wanted to clarify that latter piece, Matt.</p>
-<p><strong>QUESTION: </strong>Okay.</p>
-<p><strong>MR PATEL: </strong>Thank you.</p>
-<p>Shaun.</p>
-<p><strong>QUESTION: </strong>Can I go to &#8212;</p>
-<p><strong>MR PATEL: </strong> On same region or shifting subjects?</p>
-<p><strong>QUESTION: </strong>No, it’s on Russia.</p>
-<p><strong>MR PATEL: </strong>Go ahead.</p>
-<p><strong>QUESTION: </strong>Could I ask you – there is a court in Russia today – talked about another American being sentenced – Robert Gilman. He was identified as – in Russian news agencies as – he was accused of kicking an officer. Do you have anything about this, and if so, whether there’s been consular access?</p>
-<p><a id="post-384756-RUSSIA"></a><strong>MR PATEL: </strong>So due to privacy considerations, there is going to be a limit to what I can offer. But we are aware of Russia’s court’s decisions, and we take seriously our commitment to assist U.S. citizens abroad and are continuing to monitor the situation. We continue to insist that the Russian Federation allow consistent, timely consular access to all U.S. citizens, and we urge the Russian Government to ensure fair treatment to all U.S. citizens detained in Russia. But I don’t have anything else to offer.</p>
-<p><strong>QUESTION: </strong>Sure. I mean, has there been an access in this case? Is that a concern in this case?</p>
-<p><strong>MR PATEL: </strong>Again, due to privacy considerations, there’s a limit to what I can say. I don’t have any additional comments to offer.</p>
-<p><strong>QUESTION: </strong>Sure. And I know you just said nothing more to offer, but just briefly – I mean, is there any indication he was targeted because of his U.S. citizenship?</p>
-<p><strong>MR PATEL: </strong>Again, due to privacy considerations, I don’t have further assessments to provide on this.</p>
-<p><strong>QUESTION: </strong>Sure. I have some stuff on other regions in the world, unless someone else has more on Russia.</p>
-<p><strong>MR PATEL: </strong>Sure. Still on Russia?</p>
-<p><strong>QUESTION:</strong> (Inaudible.)</p>
-<p><strong>MR PATEL:</strong> I’ll come back to you, Shaun. I promise.</p>
-<p><strong>QUESTION:</strong> Have you been in touch with the Russian Government officials on this particular case, or is it too early to talk about?</p>
-<p><strong>MR PATEL: </strong>Again, due to privacy considerations, I don’t have anything to offer additional beyond what I said otherwise.</p>
-<p><strong>QUESTION: </strong>Thank you so much. On Russia, again &#8212;</p>
-<p><strong>QUESTION: </strong>How does that have to do – how does that have anything to do with privacy considerations?</p>
-<p><strong>MR PATEL: </strong>What do you mean, Matt?</p>
-<p><strong>QUESTION: </strong>Well, I think the question was: have you been in touch with Russian officials about this case? You’re confirming that there is a case, that you’re aware of it, but privacy considerations prevent you from saying whether you’ve asked – you’ve gotten in touch with the Russians about it?</p>
-<p><strong>MR PATEL: </strong>Due to privacy considerations, there – I – there are limits to what I can get into.</p>
-<p><strong>QUESTION: </strong>That has nothing to do – yeah, but that has nothing to do with privacy.</p>
-<p><strong>MR PATEL: </strong>As I said at the top of Shaun’s question, we continue to insist consistent consular access.</p>
-<p><strong>QUESTION: </strong>Well, I get it, but you &#8212;</p>
-<p><strong>MR PATEL: </strong>And we’re monitoring the situation, but I don’t have any other assessments.</p>
-<p><strong>QUESTION: </strong>Yeah, but I think you need to come up with a better explanation for why you’re refusing to say anything than privacy considerations about a government-to-government – a government-to-government contact that has nothing to do with the person’s privacy. He’s just – he’s just asking whether you’ve been in touch with them or not.</p>
-<p><strong>MR PATEL: </strong>Well, like I said, we are aware of the Russian’s court’s decision, and we take seriously our commitment to assist U.S. citizens who are abroad.</p>
-<p><strong>QUESTION: </strong>On that line, I have a question about Russians.</p>
-<p><strong>MR PATEL: </strong>Sure.</p>
-<p><strong>QUESTION: </strong>You probably are aware of the reports that the European Union has issued a coordinated efforts that they are summoning Russian ambassadors, most recently I think yesterday in Brussels, to express their concern on annexation. Is the United States going to follow suit? And if not, why not?</p>
-<p><strong>MR PATEL: </strong>We have taken – I don’t have any specific actions to read out specifically, but I will note that we have taken a number of actions since last week to make clear our vehement condemnation and opposition to the efforts around not just the sham referenda but also the annexation.</p>
-<p>You saw today another tranche of security assistance be announced. You saw late last week a robust interagency action between the Treasury Department, the State Department, and the Commerce Department that have imposed imposing actions on Russia’s leaders within the Kremlin and things of that nature. So I don’t have any future actions to preview as it relates to that, but we have made our opposition to these annexations quite, quite clear and quite vocal.</p>
-<p>Shannon.</p>
-<p><strong>QUESTION: </strong>Has there been any progress towards securing the freedom of Brittney Griner or Paul Whelan? And can you characterize any ongoing talks with Russian officials to that aim?</p>
-<p><strong>MR PATEL: </strong>Yeah, so I don’t have any additional updates to provide as it relates to the wrongful detention of Brittney Griner and Paul Whelan. We continue to urge their release. Secretary Blinken spoke to you all a number of weeks ago and spoke about a substantial proposal that was on the table earlier this summer to facilitate their release. Our governments are communicating about that, but the Russians should take the deal that’s on the table. But I don’t have any other updates to provide.</p>
-<p>Shaun, coming back to you.</p>
-<p><strong>QUESTION: </strong>Sure. Could I ask a couple things in Latin America?</p>
-<p><strong>MR PATEL: </strong>Sure.</p>
-<p><strong>QUESTION: </strong>Can we do Russia a little bit more?</p>
-<p><strong>MR PATEL: </strong>Actually – okay, you had a couple questions. Michel, did you have – you had a question on a similar topic?</p>
-<p><strong>QUESTION: </strong>No. On Israel and Lebanon.</p>
-<p><strong>MR PATEL: </strong>Okay. We’ll take your question in the back.</p>
-<p><strong>QUESTION: </strong>Thank you. I’m Mark Stone from Sky News. Just on Russia and Ukraine, there have been some quite confused reporting – there has been some confused reporting about a Russian train, military train that might be connected somehow to its nuclear capabilities moving. I wondered if you could comment on that and simply comment on whether you have seen any change in Russia’s nuclear posture.</p>
-<p><strong>MR PATEL: </strong>So I don’t have any assessment to provide about any updates on the ground or any of that reporting, but I would say is that as Secretary Blinken has said, we have heard a lot of irresponsible rhetoric coming from Russia and coming from Vladimir Putin. And we are focused on making sure that we are all acting responsibly, especially when it comes to this kind of loose rhetoric and saber-rattling. We’ve been very clear with Russia publicly as well as privately to stop its irresponsible rhetoric regarding nuclear weapons, and we’ve addressed this both from the Secretary and the President have spoken to this as well.</p>
-<p><strong>QUESTION: </strong>Just to follow up if I may, some U.S. administration officials have been quite clear over the past few weeks in stressing that they have not seen any change in Russia’s nuclear posture. So as of today, have you seen any change?</p>
-<p><strong>MR PATEL:</strong> Again, I don’t have any new updates to offer or a new assessment to provide on any updates from the ground.</p>
-<p><strong>QUESTION: </strong>Okay. Thank you.</p>
-<p><strong>MR PATEL: </strong>Michel.</p>
-<p><strong>QUESTION:</strong> Yeah, on the U.S. engagement between Lebanon and Israel, the U.S. has delivered a draft agreement to both parties. Have you received any answer or any answers from them?</p>
-<p><a id="post-384756-LEBANONISRAEL"></a><strong>MR PATEL:</strong> Thanks, Michel. So to take a little bit of a step back, so yes, Special Presidential Coordinator Hochstein continues his robust engagement to bring the maritime boundary discussions to a close. As you note, I can confirm we delivered a U.S. proposal for a final agreement on the maritime boundary to both countries and that happened over the weekend. And we continue to welcome the consultative spirit of both parties to reach a resolution.</p>
-<p>Resolving this dispute is a key priority for this administration, and we firmly believe that a deal has the potential to promote lasting stability and economic prosperity for both countries. But I don’t have an update to provide or anything to offer yet in terms of next steps.</p>
-<p><strong>QUESTION:</strong> Did you receive any answers?</p>
-<p><strong>MR PATEL:</strong> I don’t have any new assessment to provide.</p>
-<p><strong>QUESTION:</strong> And do you expect any deal this week?</p>
-<p><strong>MR PATEL:</strong> Again, I’m not going to speculate on timeline here other than this is something that continues to remain a key priority and something that we’re very closely engaged on.</p>
-<p>We’ll go back to Shaun.</p>
-<p><strong>QUESTION:</strong> Nicaragua. The – I know there’s some – there was a reaction to this last week, but the Nicaraguan Government is saying that it’s not accepting the confirmed U.S. ambassador. It’s also declared persona non grata the European Union representative and the Dutch ambassador. Do you have any comment on this, either where the United States is going with this in terms of whether Ambassador Rodriguez will still try to go or more broadly speaking about where you see the direction of diplomacy with Nicaragua?</p>
-<p><strong>MR PATEL:</strong> I will have to get back to you on that. I don’t have anything to offer on that right at this moment.</p>
-<p><strong>QUESTION:</strong> Okay.</p>
-<p><strong>MR PATEL:</strong> But I can – we can check with the team and get back to you.</p>
-<p><strong>QUESTION:</strong> Sure, can I ask something completely unrelated.</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> Burkina Faso.</p>
-<p><strong>MR PATEL:</strong> Okay.</p>
-<p><strong>QUESTION:</strong> The coup there. There’s a demonstration today on which there are some Russian flags. The head of the Wagner Group offered praise for the new junta leader, the new coup leader. Does the United States have any concern about Russia’s role in Burkina Faso or any information on what’s going on?</p>
-<p><a id="post-384756-BURKINAFASO"></a><strong>MR PATEL:</strong> Sure. So first and foremost, I would say that the U.S. is continuing to monitor the situation in Burkina Faso. But specifically as it relates to your question, we have spoken clearly about the destabilizing impact of both Russian disinformation but also the Wagner Group’s activities globally. Countries where the group has been deployed find themselves weaker and less secure, and we’ve seen that in a number of cases in Africa alone.</p>
-<p>So we – our viewpoint is that we condemn any attempt to exacerbate the current situation in Burkina Faso, and we strongly encourage the new transition government to adhere to the agreed‑upon timeline for return to a democratically elected, civilian-led government.</p>
-<p>Nick, you had a question?</p>
-<p><strong>QUESTION:</strong> Could I just briefly follow up?</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> Is there actually a concern that the Wagner Group is actually going to come in, that there is something being cooked between them and the authorities in Burkina Faso?</p>
-<p><strong>MR PATEL:</strong> I’ve not seen anything as it relates to that. But again, we’ve been very clear that the – about the destabilizing impacts both on Russian disinformation but also the Wagner Group as well.</p>
-<p>Nick.</p>
-<p><strong>QUESTION:</strong> Thanks. I wanted to ask about a provision Senator Kaine had inserted into the Taiwan Policy Act &#8212;</p>
-<p><strong>MR PATEL:</strong> Okay.</p>
-<p><strong>QUESTION:</strong> &#8212; that would increase oversight of non-career political-appointed ambassadors, basically allowing embassy staff to complete anonymous annual assessments of these ambassadors and make that easier to report poor performance to the IG. Is that something that State Department would support or not support?</p>
-<p><strong>MR PATEL:</strong> Well, I’m just – I’m not going to get into correspondence with Congress or – on legislation that is still being litigated and negotiated, so I don’t have any assessment to offer on that.</p>
-<p><strong>QUESTION:</strong> But broadly speaking, is State favorable towards the idea of more transparency on politically appointed ambassadors and their performance?</p>
-<p><strong>MR PATEL:</strong> Again, I’m just not going to offer an assessment on this yet.</p>
-<p>Go ahead.</p>
-<p><strong>QUESTION:</strong> I have two questions about Latin America, if possible.</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> The first about the prisoner exchange negotiation between United States and Venezuela announced past weekend.</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> Guaidó said that he was not involved in this negotiation. How does State Department respond to claims that this negotiation brings a diplomatic issue once United States does not recognize Maduro’s regime and at the same time have to negotiate with him this type of matter?</p>
-<p><a id="post-384756-VENEZUELA"></a><strong>MR PATEL:</strong> So to take a little bit of a step back, we are not going to get into the specifics of the diplomatic engagements here due to operational concerns, due to privacy. But more broadly, the important takeaway here is that we want the American people to know that we have no higher priority than their safety and security. Securing their release and reuniting them with their families has been a top priority for this administration, and we’ve engaged on the issue of wrongful detainees at every opportunity as well as engaged directly to release them as soon as possible. And this is something we’re going to continue to work intensively on.</p>
-<p><strong>QUESTION:</strong> Okay. And if possible a second question about Brazil.</p>
-<p><strong>MR PATEL:</strong> Sure.</p>
-<p><strong>QUESTION:</strong> Past Sunday night, the State Department already released a statement regarding elections in Brazil. Is there anything else that you could add regarding this statement, especially about how the U.S. see electoral process in Brazil?</p>
-<p><a id="post-384756-BRAZIL"></a><strong>MR PATEL:</strong> Sure. So I would just reiterate what the Secretary said over the weekend, which is that the – first and foremost, we congratulate the Brazilian people and its institutions on a successful first round that was conducted with credibility and transparency, and we support the Brazilian people and their democratic right, and we look forward to this next process and it playing out transparently as well.</p>
-<p>I think that’s all the time we have for today, everybody. Thank you.</p>
-<p><strong>QUESTION: </strong>Thanks.</p>
-<p><strong>QUESTION:</strong> Thank you.</p>
-<p>(The briefing was concluded at 2:55 p.m.)</p>
 ]]></content:encoded>
 					
 		
