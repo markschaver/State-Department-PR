@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 07 Oct 2022 02:20:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Oct 2022 05:14:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -107,6 +107,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		<p>Office of the Spokesperson</p>
 <p><strong><u>SECRETARY ANTONY J. BLINKEN</u></strong></p>
 <p>Secretary Blinken is on travel to Colombia, Chile, and Peru from October 3-7, 2022. Please click <a href="https://www.state.gov/secretary-blinkens-travel-to-colombia-chile-and-peru-october-3-7-2022/">here</a> for more information.</p>
+<p><strong>8:00 a.m. LOCAL </strong>Secretary Blinken participates in the Organization of American States Nicaragua Working Group Meeting in Lima, Peru.<br />
+<strong>(CLOSED PRESS COVERAGE) </strong></p>
 <p><strong>9:00 a.m. LOCAL </strong>Secretary Blinken participates in a sustainable fishing engagement at Chorrillos Fish Market in Lima, Peru.<strong><br />
 (POOLED PRESS COVERAGE)</strong></p>
 <p><strong>10:30 a.m. LOCAL </strong>Secretary Blinken holds a meet and greet with employees from U.S. Embassy Lima, in Lima, Peru.<br />
@@ -208,6 +210,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p><strong><u>SECRETARY ANTONY J. BLINKEN</u></strong></p>
 <p>Secretary Blinken is on travel to Colombia, Chile, and Peru from October 3-7, 2022. Please click <a href="https://www.state.gov/secretary-blinkens-travel-to-colombia-chile-and-peru-october-3-7-2022/">here</a> for more information.</p>
+<p><strong>8:00 a.m. LOCAL </strong>Secretary Blinken participates in the Organization of American States Nicaragua Working Group Meeting in Lima, Peru.<br />
+<strong>(CLOSED PRESS COVERAGE) </strong></p>
 <p><strong>9:00 a.m. LOCAL </strong>Secretary Blinken participates in a sustainable fishing engagement at Chorrillos Fish Market in Lima, Peru.<strong><br />
 (POOLED PRESS COVERAGE)</strong></p>
 <p><strong>10:30 a.m. LOCAL </strong>Secretary Blinken holds a meet and greet with employees from U.S. Embassy Lima, in Lima, Peru.<br />
