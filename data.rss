@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Press Releases &#8211; United States Department of State</title>
-	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/?" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 07 Oct 2022 19:12:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Oct 2022 20:53:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Assistant Secretary Medina’s Travel to Germany and Belgium</title>
+		<link>https://www.state.gov/assistant-secretary-medinas-travel-to-germany-and-belgium/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Fri, 07 Oct 2022 20:53:15 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=386195</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs Monica Medina will travel to Berlin, Germany, on Monday, October 10, to speak at the Berlin Climate and Security Conference where she will address the impact of global environmental change and the climate crisis on peace and security, focusing on the importance of building resilience and early warning systems.  While in Berlin she will meet with German government counterparts to discuss shared priorities in protecting biodiversity, advancing ocean sustainability, and addressing the climate crisis.</p>
+<p>From Tuesday, October 11 to Thursday, October 13, Assistant Secretary Medina will travel to Brussels, Belgium, to lead the United States delegation to the U.S.-EU Joint Consultative Group meeting on science and technology cooperation.  She will also meet with NGO representatives and government officials on environmental priorities including the climate crisis; illegal, unreported and unregulated fishing; and threats to biodiversity and water insecurity.</p>
+<p>For media inquiries, please contact OES-PA-DG@state.gov.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>Assistant Secretary of State for Oceans and International Environmental and Scientific Affairs Monica Medina will travel to Berlin, Germany, on Monday, October 10, to speak at the Berlin Climate and Security Conference where she will address the impact of global environmental change and the climate crisis on peace and security, focusing on the importance of building resilience and early warning systems.  While in Berlin she will meet with German government counterparts to discuss shared priorities in protecting biodiversity, advancing ocean sustainability, and addressing the climate crisis.</p>
+<p>From Tuesday, October 11 to Thursday, October 13, Assistant Secretary Medina will travel to Brussels, Belgium, to lead the United States delegation to the U.S.-EU Joint Consultative Group meeting on science and technology cooperation.  She will also meet with NGO representatives and government officials on environmental priorities including the climate crisis; illegal, unreported and unregulated fishing; and threats to biodiversity and water insecurity.</p>
+<p>For media inquiries, please contact OES-PA-DG@state.gov.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Assistant Secretary Noyes Travels to Switzerland and Belgium</title>
 		<link>https://www.state.gov/assistant-secretary-noyes-travels-to-switzerland-and-belgium/</link>
 		
@@ -1989,179 +2148,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>During academic year 2020-2021, nearly 300 Gilman participating institutions sent nearly 800 Gilman recipients from 48 U.S. states and territories to study or intern abroad, including virtually, in 77 locations around the world.  For a full list of higher education institutions that sent Gilman Scholars overseas in 2020-2021, please visit the Gilman Scholarship website at <a class="external-link" href="https://www.gilmanscholarship.org/" target="_BLANK" rel="noopener"><span class="external-link-title">www.GilmanScholarship.org</span><span class="icon-external"> </span></a>.</p>
 <p>The State Department’s Bureau of Educational and Cultural Affairs, in collaboration with the Institute of International Education, compiles the list, organized by small, medium, and large four-year institutions, and colleges conferring associate degrees. Since the program’s establishment in 2001, more than 1,400 U.S. colleges and universities have provided access to international opportunities to more than 36,000 Gilman Scholars in more than 155 countries around the globe.</p>
 <p>Interested media should contact the U.S. Department of State’s Bureau of Educational and Cultural Affairs at eca-press@state.gov.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Remarks Before the Canada-Hosted Meeting on Haiti</title>
-		<link>https://www.state.gov/remarks-before-the-canada-hosted-meeting-on-haiti/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Thu, 06 Oct 2022 23:21:08 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=385697</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Lima, Peru</p>
-<p>Lima Convention Center</p>
-<p><strong>SECRETARY BLINKEN</strong>:  We deeply appreciate Canada’s leadership in convening what is an incredibly timely and critical discussion on the situation in Haiti which builds on important discussions that we’ve had on Haiti on the margins of the UN General Assembly and at the senior-level international partners meetings that we’ve held since December of last year.</p>
-<p>We are deeply concerned about the deteriorating situation on the ground.  We strongly condemn the acts of violence, the looting, the destruction of the past weeks, including the gangs’ continuing fuel blockade, which has had a devastating impact across Haiti, undermining the health, undermining the safety, of thousands of people.</p>
-<p>We’ll continue to promote accountability for those responsible for fomenting the violence, particularly economic and political actors instigating these events for their own interests.</p>
-<p>Meanwhile, we commend the efforts of the Haitian National Police, who have been working tirelessly to try to keep the peace.  But they need our help.  They need our continuing support.</p>
-<p>Over the past 18 months, the United States has allocated more than $90 million in security assistance to strengthen the Haitian Police’s capacity to counter the gangs, and we are coordinating closely with our partners to discuss what more we can do.</p>
-<p>We remain committed to working with the international community and the Haitian people as they seek to restore security and democratic order for a more prosperous future, support for the political track which is so critical, as well as the necessary economic and humanitarian support.</p>
-<p>So this is an important discussion today.  We look forward to pursuing it.  But I think you’ve heard from both the foreign minister from Canada and from our Haitian colleague that the magnitude of this challenge is real, and of course, it has been compounded now by the outbreak of cholera that we want to make sure we help our friends get a grip on.</p>
-<p>Let me leave it at that for now.  Thank you.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Lima, Peru</p>
-<p>Lima Convention Center</p>
-<p><strong>SECRETARY BLINKEN</strong>:  We deeply appreciate Canada’s leadership in convening what is an incredibly timely and critical discussion on the situation in Haiti which builds on important discussions that we’ve had on Haiti on the margins of the UN General Assembly and at the senior-level international partners meetings that we’ve held since December of last year.</p>
-<p>We are deeply concerned about the deteriorating situation on the ground.  We strongly condemn the acts of violence, the looting, the destruction of the past weeks, including the gangs’ continuing fuel blockade, which has had a devastating impact across Haiti, undermining the health, undermining the safety, of thousands of people.</p>
-<p>We’ll continue to promote accountability for those responsible for fomenting the violence, particularly economic and political actors instigating these events for their own interests.</p>
-<p>Meanwhile, we commend the efforts of the Haitian National Police, who have been working tirelessly to try to keep the peace.  But they need our help.  They need our continuing support.</p>
-<p>Over the past 18 months, the United States has allocated more than $90 million in security assistance to strengthen the Haitian Police’s capacity to counter the gangs, and we are coordinating closely with our partners to discuss what more we can do.</p>
-<p>We remain committed to working with the international community and the Haitian people as they seek to restore security and democratic order for a more prosperous future, support for the political track which is so critical, as well as the necessary economic and humanitarian support.</p>
-<p>So this is an important discussion today.  We look forward to pursuing it.  But I think you’ve heard from both the foreign minister from Canada and from our Haitian colleague that the magnitude of this challenge is real, and of course, it has been compounded now by the outbreak of cholera that we want to make sure we help our friends get a grip on.</p>
-<p>Let me leave it at that for now.  Thank you.</p>
 ]]></content:encoded>
 					
 		
