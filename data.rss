@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 13 Oct 2022 17:35:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Oct 2022 21:57:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Government Formation in Iraq</title>
+		<link>https://www.state.gov/government-formation-in-iraq/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 21:57:09 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=387968</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>Today, after more than a year of government formation negotiations, the United States welcomes the Iraqi Council of Representatives&#8217; election of Abdul Latif Rashid as the President of Iraq. President Rashid named Mohammed Shia al-Sudani as the Prime Minister-designate. As Iraq’s political leaders form a new government, we encourage them to bear in mind the will of the Iraqi people, who voted for a government responsive to their needs. The United States urges all parties to refrain from violence and to resolve differences amicably and peacefully through the political process.</p>
+<p>The United States reiterates its commitment to partnering with the people and government of Iraq to advance our many shared priorities. We look forward to continuing the strong cooperation between our countries.</p>
+<p><input type="hidden" data-filter="100000000000" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>Today, after more than a year of government formation negotiations, the United States welcomes the Iraqi Council of Representatives&#8217; election of Abdul Latif Rashid as the President of Iraq. President Rashid named Mohammed Shia al-Sudani as the Prime Minister-designate. As Iraq’s political leaders form a new government, we encourage them to bear in mind the will of the Iraqi people, who voted for a government responsive to their needs. The United States urges all parties to refrain from violence and to resolve differences amicably and peacefully through the political process.</p>
+<p>The United States reiterates its commitment to partnering with the people and government of Iraq to advance our many shared priorities. We look forward to continuing the strong cooperation between our countries.</p>
+<p><input type="hidden" data-filter="100000000000" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Remarks at the U.S.-Mexico High-Level Security Dialogue</title>
 		<link>https://www.state.gov/remarks-at-the-u-s-mexico-high-level-security-dialogue/</link>
 		
@@ -2011,269 +2170,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>American diplomacy will continue to leverage our country’s unrivaled networks of allies and partners to build the strongest and broadest possible coalition of nations.  Together, we will advance and defend this vision at a moment when revisionist, authoritarian powers are undermining international peace and stability and we face unprecedented, shared challenges, like the climate crisis and pandemics, that threaten the lives and livelihoods of all our people.</p>
 <p>This is a decisive decade for the United States and the world. I am confident that, as we have done throughout our history, we will seize this moment and rise to the challenge.</p>
 <p><input type="hidden" data-filter="100000000000" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Briefing with Senior Administration Officials on the Administration’s Response to the Situation in Haiti</title>
-		<link>https://www.state.gov/briefing-with-senior-administration-officials-on-the-administrations-response-to-the-situation-in-haiti/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 19:21:50 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=387201</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Via Teleconference</p>
-<p><strong>MODERATOR:  </strong>Good afternoon, everybody.  Welcome to today’s call to discuss the United States Government’s response to the situation in Haiti.  This call is on background and embargoed until it’s concluded.  We are joined by two senior administration officials today.  For your information and not for reporting, our two speakers are  and , who will be referred to hereafter as senior administration official number one and senior administration official number two, respectively, in our transcript.</p>
-<p>We will have some limited time for questions at the end of our opening remarks, but I will start off by turning it over to  to begin with some comments, followed then by .  , or senior administration official number one, please, go ahead.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:  </strong>Great, thank you very much, and good afternoon, everybody.  Thank you for jumping on the call.  Given the developments in Haiti, we wanted to – the opportunity to talk about efforts by the United States and the international community in Haiti.  First, I wanted to mention that we are closely following the evolving health and security situation in Haiti, particularly the threat posed by cholera to the Haitian population, as well as the ongoing actions by criminal actors that impede urgent measures to address it.  And I’m referring to not just gangs, but some of the actors that support and in some cases fund gang activity.</p>
-<p>In that context, I wanted to highlight first of all that during the Secretary of State’s trip to the OAS General Assembly last week, he co-chaired a meeting with Canada and Haiti that focused on this issue and tried to, as OAS members, talk through how best to respond to the needs of the Haitian people.  And then following Prime Minister Henry’s request for assistance, it is something we’re working very closely also through the UN Security Council to put forward specific actions to improve the security situation in the country in coordination with the international community and the Haitian Government.</p>
-<p>I want to mention that the United States strongly condemns those who continue to block the distribution of fuel, which is strangling the country by preventing schools, factories, and businesses from operating, and most importantly, blocking lifesaving humanitarian assistance and support to address the cholera outbreak.</p>
-<p>To this end, and I’ll conclude here, I wanted to mention that today Assistant Secretary of State for Western Hemisphere Affairs Brian Nichols is leading an interagency delegation to Port au Prince.  He is joined by Lieutenant General Andrew Croft, the military deputy commander of SOUTHCOM, as well as senior advisors and personnel from the White House, the Office of the Secretary of Defense, Joint Staff, and the Department of State’s International Narcotics and Law Enforcement Affairs.  And they will be meeting with the government, with the Montana Group, with the private sector leaders and broad all-society groups to really talk about the request that was put forward by the prime minister and ensure that we are engaging actively with all sectors of Haitian society to make sure that the international community is responding to the needs of Haiti.</p>
-<p>Let me I think also just note – and my colleague may enter into more detail here – is that in addition to the security response, we’ve provided since last year over $171 million in lifesaving humanitarian assistance to Haiti, as well as 90 million to strengthen the Haitian National Police.  But we are also looking to expedite further assistance to help the response to the cholera pandemic and to deliver much needed humanitarian support and fuel to organizations and – that need it to be able to operate on the island.</p>
-<p>So let me leave it there and then ask my colleague to speak to a couple of the very specific actions that the Department of State will be taking today.  Thank you.</p>
-<p><strong>MODERATOR:  </strong>Thanks so much.  I’ll turn the floor now to our second speaker, senior administration official number two.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL TWO:  </strong>Thank you very much.  To complement the remarks of , I wanted to add that later today the State Department will be announcing new measures to provide the needed support to the people of Haiti and hold those who continue to promote violence accountable.  Specifically – and I believe this is embargoed until 2:30 p.m.; our colleagues on the call can confirm that – we will be announcing a new visa restriction policy under Section 212(a)(3)(C) of the Immigration and Nationality Act against Haitian officials and other individuals – I should say Haitian officials and former government officials, and other individuals involved in the operation of street gangs and other Haitian criminal organizations that have threatened the livelihoods of the Haitian people and are blocking lifesaving humanitarian support.  These actions may also apply to these individuals’ immediate family members.</p>
-<p>So at this time the department is identifying an initial group of individuals and their family members who may be subject to visa restrictions under this policy.  Our intent in doing so is to demonstrate that there are consequences for those who fund and foment violence in Haiti.</p>
-<p>As my colleague mentioned, of course, building on UN secretary – UN Security Council Resolution 2645, we have drafted with our close partner and co-penholder Mexico a resolution proposing specific sanctions measures and calling for additional security steps to enable the international community to address the many challenges facing the people of Haiti.  This resolution was introduced last week, and we are negotiating with UN Security Council members right now ahead of a vote.</p>
-<p>As my colleague mentioned also, we are looking to increase and deploy in the coming days additional security assistance and also additional humanitarian assistance to provide specifically urgently needed commodities to support the cholera and broader humanitarian response.  So this will include such items as bleach, cholera kits, water jugs, oral rehydration salts, and other supplies that are critically needed.  And of course to underscore, as  mentioned earlier, the critical limiting factor right now of fuel, which is something that we are all urgently focused on.</p>
-<p>Back to you.</p>
-<p><strong>MODERATOR:</strong>  Thank you so much.  Just a quick logistical note:  We are actually going to lift the embargo on the call at 12:30.  So the full call is – will have its embargo lifted at 12:30.</p>
-<p>Operator, could you please repeat the instructions for posing a question?</p>
-<p><strong>OPERATOR:</strong>  Certainly.  Once again, for questions from the phones, please press 1 and then 0 on your touchtone phone.  You will hear an acknowledgment that you’ve been placed in queue, and you can remove yourself from queue by repeating the 1, 0 command.  If you have a speaker phone, please pick up your handset before pressing the numbers.</p>
-<p><strong>MODERATOR:</strong>  Excellent, thank you so much.  Could we please go to the line of Leon Bruneau from the AFP?</p>
-<p><strong>QUESTION:</strong>  Yes, hi.  Thanks for – hi, thanks for taking our questions.  A quick question.  You’ve mentioned there’s talk about a potential taskforce through the UN that could be sent to Haiti.  Could you give us some details as to where the negotiations are on that?  Who would lead that taskforce?  Will it be the United States or other countries, and who is on board?  Any details on that, please.  Thank you.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  Thanks.  So not getting into too details I think right now, as I mentioned, the Secretary of State, Foreign Minister Joly, the Haitian foreign minister, had initial conversations about some of this with OAS members in Lima, and in the context of the conversations with other members of the UN Security Council, really thinking about what – how we can be most responsive to the ask from Prime Minister Henry, but as well I think coming out of Assistant Secretary Nichols’ visit and his conversations with civil society, with Montana Group and with other actors, making sure that we have a – have consulted widely with Haitian society and really try to adjust accordingly.</p>
-<p>So I don’t know, , if there’s anything more you want to add on this.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL TWO:</strong>  Nothing more, thank you.</p>
-<p><strong>MODERATOR:</strong>  Thank you so much.  Could we please go to the line of Michael Wilner from McClatchy?</p>
-<p><strong>QUESTION:</strong>  Thanks for doing this.  So you’re talking about all of this aid that you plan to get into Haiti.  How are you going to move that aid through the streets when these streets are controlled by gangs?  Will you be providing the list of the individuals that you would like to be affected or sanctioned on this new visa restriction policy?  And in terms of the UN secretary general’s request for a rapid strike force, where is the support for that?  Is the United States willing to participate in that?  What would the structure of that be?  Who else is interested in that?  Can you give any details?</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  Thanks.  So Michael, I’ll let my colleague talk about the visa – your visa question.  I’ll say on the delivery assistance, for operational security reasons, I’m not going to preview the details of what, when, how.  But just to underscore again that we are looking to deploy increased humanitarian assistance, particularly focused on addressing the health security situation, also trying to address fuel shortages that are being faced not just by the government but also humanitarian organizations on the ground.</p>
-<p>I think the long-term fix is to improve the security situation.  On that end, we are engaging in active discussions with our international partners.  I know Department of State and the Secretary directly has been discussing this with – not just with Canada and Haiti but with others to try to prepare for what that looks like.</p>
-<p>But I think the United States wants to make sure that we are being responsive as possible to the needs in Haiti.  And obviously we recognize that there are a variety of views about what shape this has taken in the past, including, I think, mixed views on support for MINUSTAH.  I think we are – we are studying that very closely and want to make sure that we’re doing more of the right things to be responsive to the needs of Haiti.</p>
-<p>, anything you want to mention?</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL TWO:</strong>  So on the visa restrictions, just to say once again with these restrictions we’re sending a clear message that those providing support to Haitian street gangs and other criminal organizations through financial and other forms of material support, including the facilitation of illicit arms and narcotics trafficking, are not welcome in the United States.  As I mentioned previously, the restrictions can be applied not only to those individuals, targeted individuals, but also to their immediate family members, specifically their spouses and children of any age.</p>
-<p>To your question specifically, under U.S. law, individual visa records are confidential and so we cannot provide details on who is or will be affected.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  Can I circle back just one quick – I think it just – a very concrete measure of support is – I think is a sign of resolve and support for the people of Haiti.  The U.S. Coast Guard will deploy one of its major cutters to patrol offshore Port-au-Prince at the request of the Government of Haiti and in close coordination with the Department of State.  I think much like our response to the earthquake in Haiti last August is making sure that we have an all-hands-on-deck approach, not just USAID but obviously Department of Defense, Coast Guard, and others that have, I think, a record of just – of providing support to Haiti.</p>
-<p>So we’re pre-deploying assets to make sure that we’re being as responsible – responsive as possible to the – to the threat of the cholera pandemic.  And obviously, as the international community talks about the security response, how best we can really mobilize that response as quickly as possible, whether it’s – frankly, whether it’s the ongoing support that we have provided for special police units of the Haitian National Police, training, equipping programs to reduce violence in affected communities, but also any specific security support that’ll be discussed in the context of the UN Security Council resolution.</p>
-<p><strong>MODERATOR:</strong>  Excellent.  Thank you so much.  Could we please go to the line of Jackie Charles from the <em>Miami Herald</em>.</p>
-<p><strong>QUESTION:</strong>  Hi, good afternoon.  Thanks for doing this.  Two questions.  Why visa restrictions and not sanctions, since that’s been highly anticipated?  Why are we not going that route?  And also, is the reaction that you all have been getting in terms of diaspora – no intervention and we’ve been hearing some of that in Haiti – is that at all influencing the hesitancy here to support some sort of a strike force to go in and take control of the gangs?  Because everything we’re hearing from Haiti is that the situation is really urgent, not just because of cholera but no fuel.  We see the pillaging that’s happened with aid.  And so I’m just wondering, how influenced is the administration in terms of what it’s getting as far as feedback?</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  Yeah.  So no, Jackie, thank you, and really, thank you for your just active and regular coverage of this issue.  Look, what I’ll say is that visas are one action, but we are looking at a number of measures.  As we’d mentioned at the beginning, there are – there are often political and economic actors that are linked to the gangs.  And as you know better than I do, often the violence is linked to kind of political instability in the country.  And so we are not just pulling visas; we’re going to be exploring other measures to make sure that we are holding those that are preventing the delivery of humanitarian assistance and risking the security of Haitian people accountable.  So I don’t want to preview specific actions, but just know that we’re not just looking at visa sanctions.  We’re looking at something much more expansive.</p>
-<p>Secondly, and I’ll ask my colleague to also weigh in on this, is that the question of a security presence is obviously an area where we are treading very carefully to make sure that we are doing the right things and not doing the things in the past that have not worked.  And also, in the context of the UN Security Council, really what is the – what is the mandate that the council will be ready to provide and what countries would be willing to step up doing what.  Certainly the United States is going to be – have a robust support for what comes out of the UN Security Council and what comes out of Assistant Secretary Brian Nichols’ discussions in Haiti.  But we want to make sure that this is an effort of the – of the international community and that it’s fulsome and robust.</p>
-<p><strong>MODERATOR:</strong>  Okay, great.  Thank you so much.  Could we please go to Jennifer Hansler from CNN.</p>
-<p><strong>QUESTION:</strong>  Hi, thanks for doing this.  Just to put a finer point on it, the U.S. has not ruled out sending troops to Haiti to try to control the security situation on the ground there.  And then I know visa restrictions are classified, but can you say roughly how many people have been affected by this new policy?  How many restrictions have you put in place?  Thank you.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  So I would say – thanks for the question.  I’ll say it’s premature to talk about just a U.S. security presence.  We’ve been focusing over the last year on augmenting the capabilities of the Haitian National Police because, ultimately, we want Haitian forces to be able to manage the security situation.  And as I mentioned, right now we are exploring a number of options with the international community.  It’s not – it doesn’t have to be limited to boots on the ground, so to speak, but really looking at areas where we can support other elements of, ultimately, what the UN Security Council thinks it can support and what the Haitian people want.  So – but again, I think it’s premature to really start thinking about whether the United States is going to put – have a physical presence inside of Haiti.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL TWO:</strong>  I would just add with regard to the numbers, we do not have a number to share at this point in time.  But I did want to reinforce my colleague’s comments earlier that we are working steadfastly on an array of different sanctions actions.  Obviously, these visa restrictions are the first step that you are seeing, but we intend to announce additional steps and sanctions in the days and weeks and months to come.</p>
-<p><strong>MODERATOR:</strong>  Thank you.  Could we please go to the line of David Adams from Univision.</p>
-<p><strong>QUESTION:</strong>  Good afternoon and thanks for taking this call or doing this call.  Would it be fair to say, given what – the remarks we’ve heard, that there is a decision now that some kind of security presence, armed security presence, needs to be put in place in Haiti in order to restore a degree of security that can allow humanitarian support to flow?  And could that – could that even possibly involve the foreign – the hiring of foreign contractors as opposed to a United Nations force from member countries?</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  Thank you, David.  So again, I think that not just the request from the prime minister but also, I think, the UN secretary-general has also laid out a number of expectations.  And so we are reviewing the Government of Haiti’s request in coordination with international partners.  So I think we are, just as you mentioned, very focused on ensuring the delivery of vital humanitarian assistance, including the medical support to address the cholera outbreak.  We are going to be trying to expedite that assistance, including the delivery of fuel.  But again, this is something that, before speculating, really you want to make sure that Assistant Secretary Nichols comes back after having spoken with not just Prime Minister Henry but the private sector, civil society, and other groups that there are ongoing conversations, as my colleague mentioned, our efforts to – with Mexico to draft a UN Security Council resolution.  So this is – this will be, I think, the outcome of a number of conversations that we are working quickly to address a lot of those questions and be responsive.</p>
-<p><strong>MODERATOR:</strong>  Thank you.  Could we – we have time, I believe, for one more question.  Could we please go to Danica Coto from the AP.</p>
-<p><strong>QUESTION:</strong>  Yes, hi.  Thank you for this call.  Will the visa restrictions go into effect immediately?  And also, how long will they be in place?  And the other question is, when you mentioned that you will deploy security assistance, if you could provide details.  What does that mean and what does it look like?</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  , do you want to &#8212;</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL TWO:</strong>  On the – sure.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  &#8212; handle the – good.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL TWO:</strong>  Sure.  On the visa restrictions, that is something that we are putting in place immediately.  Once those restrictions are in place, there is a process to remove specific restrictions from an individual, which is quite an onerous one.  So it is something that carries through in perpetuity.  And I’ll defer to my colleague on the security assistance.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  Yeah.  So I mean, as I mentioned at the beginning, over the last 18 months we’ve allocated more than 90 million in security assistance to strengthen the Haitian National Police.  That includes training, equipping, and vetting special units.  And right now, I think it’s premature to give too many details, just that we are talking actively – the international community, as I mentioned, working with Mexico on this UN Security Council resolution.  And again, the assistant secretary for Western Hemisphere Affairs is having a conversation not just with the government, but with other actors, including the Montana Group, to make sure that we’re being responsive to the needs of the Haitian people.</p>
-<p>Look, bottom line, Haiti matters.  The President of the United States, the Vice President, the Secretary of State are very focused on Haiti.  We are focused on avoiding the mistakes of the past, but right now, really the focus is on the humanitarian and health security situation, immediate measures that we are taking to hold those accountable that are behind, a lot of the gang and security activity.  And then, in conjunction with the international community, trying to find a response that helps address the situation on the ground and gives agency to the Haitian people to really be able to exert their right to vote in a free, fair, and secure manner.</p>
-<p><strong>MODERATOR:  </strong>Great.  Thank you so much, everyone.  That concludes today’s call.  As a reminder, today’s call was on background attributable to senior administration official – officials, and it has been – it is embargoed until the conclusion of the call, which is now.</p>
-<p>So, thank you all for joining us and have a great rest of your day.  Thank you so much.</p>
-<p><input type="hidden" data-filter="100001000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Via Teleconference</p>
-<p><strong>MODERATOR:  </strong>Good afternoon, everybody.  Welcome to today’s call to discuss the United States Government’s response to the situation in Haiti.  This call is on background and embargoed until it’s concluded.  We are joined by two senior administration officials today.  For your information and not for reporting, our two speakers are  and , who will be referred to hereafter as senior administration official number one and senior administration official number two, respectively, in our transcript.</p>
-<p>We will have some limited time for questions at the end of our opening remarks, but I will start off by turning it over to  to begin with some comments, followed then by .  , or senior administration official number one, please, go ahead.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:  </strong>Great, thank you very much, and good afternoon, everybody.  Thank you for jumping on the call.  Given the developments in Haiti, we wanted to – the opportunity to talk about efforts by the United States and the international community in Haiti.  First, I wanted to mention that we are closely following the evolving health and security situation in Haiti, particularly the threat posed by cholera to the Haitian population, as well as the ongoing actions by criminal actors that impede urgent measures to address it.  And I’m referring to not just gangs, but some of the actors that support and in some cases fund gang activity.</p>
-<p>In that context, I wanted to highlight first of all that during the Secretary of State’s trip to the OAS General Assembly last week, he co-chaired a meeting with Canada and Haiti that focused on this issue and tried to, as OAS members, talk through how best to respond to the needs of the Haitian people.  And then following Prime Minister Henry’s request for assistance, it is something we’re working very closely also through the UN Security Council to put forward specific actions to improve the security situation in the country in coordination with the international community and the Haitian Government.</p>
-<p>I want to mention that the United States strongly condemns those who continue to block the distribution of fuel, which is strangling the country by preventing schools, factories, and businesses from operating, and most importantly, blocking lifesaving humanitarian assistance and support to address the cholera outbreak.</p>
-<p>To this end, and I’ll conclude here, I wanted to mention that today Assistant Secretary of State for Western Hemisphere Affairs Brian Nichols is leading an interagency delegation to Port au Prince.  He is joined by Lieutenant General Andrew Croft, the military deputy commander of SOUTHCOM, as well as senior advisors and personnel from the White House, the Office of the Secretary of Defense, Joint Staff, and the Department of State’s International Narcotics and Law Enforcement Affairs.  And they will be meeting with the government, with the Montana Group, with the private sector leaders and broad all-society groups to really talk about the request that was put forward by the prime minister and ensure that we are engaging actively with all sectors of Haitian society to make sure that the international community is responding to the needs of Haiti.</p>
-<p>Let me I think also just note – and my colleague may enter into more detail here – is that in addition to the security response, we’ve provided since last year over $171 million in lifesaving humanitarian assistance to Haiti, as well as 90 million to strengthen the Haitian National Police.  But we are also looking to expedite further assistance to help the response to the cholera pandemic and to deliver much needed humanitarian support and fuel to organizations and – that need it to be able to operate on the island.</p>
-<p>So let me leave it there and then ask my colleague to speak to a couple of the very specific actions that the Department of State will be taking today.  Thank you.</p>
-<p><strong>MODERATOR:  </strong>Thanks so much.  I’ll turn the floor now to our second speaker, senior administration official number two.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL TWO:  </strong>Thank you very much.  To complement the remarks of , I wanted to add that later today the State Department will be announcing new measures to provide the needed support to the people of Haiti and hold those who continue to promote violence accountable.  Specifically – and I believe this is embargoed until 2:30 p.m.; our colleagues on the call can confirm that – we will be announcing a new visa restriction policy under Section 212(a)(3)(C) of the Immigration and Nationality Act against Haitian officials and other individuals – I should say Haitian officials and former government officials, and other individuals involved in the operation of street gangs and other Haitian criminal organizations that have threatened the livelihoods of the Haitian people and are blocking lifesaving humanitarian support.  These actions may also apply to these individuals’ immediate family members.</p>
-<p>So at this time the department is identifying an initial group of individuals and their family members who may be subject to visa restrictions under this policy.  Our intent in doing so is to demonstrate that there are consequences for those who fund and foment violence in Haiti.</p>
-<p>As my colleague mentioned, of course, building on UN secretary – UN Security Council Resolution 2645, we have drafted with our close partner and co-penholder Mexico a resolution proposing specific sanctions measures and calling for additional security steps to enable the international community to address the many challenges facing the people of Haiti.  This resolution was introduced last week, and we are negotiating with UN Security Council members right now ahead of a vote.</p>
-<p>As my colleague mentioned also, we are looking to increase and deploy in the coming days additional security assistance and also additional humanitarian assistance to provide specifically urgently needed commodities to support the cholera and broader humanitarian response.  So this will include such items as bleach, cholera kits, water jugs, oral rehydration salts, and other supplies that are critically needed.  And of course to underscore, as  mentioned earlier, the critical limiting factor right now of fuel, which is something that we are all urgently focused on.</p>
-<p>Back to you.</p>
-<p><strong>MODERATOR:</strong>  Thank you so much.  Just a quick logistical note:  We are actually going to lift the embargo on the call at 12:30.  So the full call is – will have its embargo lifted at 12:30.</p>
-<p>Operator, could you please repeat the instructions for posing a question?</p>
-<p><strong>OPERATOR:</strong>  Certainly.  Once again, for questions from the phones, please press 1 and then 0 on your touchtone phone.  You will hear an acknowledgment that you’ve been placed in queue, and you can remove yourself from queue by repeating the 1, 0 command.  If you have a speaker phone, please pick up your handset before pressing the numbers.</p>
-<p><strong>MODERATOR:</strong>  Excellent, thank you so much.  Could we please go to the line of Leon Bruneau from the AFP?</p>
-<p><strong>QUESTION:</strong>  Yes, hi.  Thanks for – hi, thanks for taking our questions.  A quick question.  You’ve mentioned there’s talk about a potential taskforce through the UN that could be sent to Haiti.  Could you give us some details as to where the negotiations are on that?  Who would lead that taskforce?  Will it be the United States or other countries, and who is on board?  Any details on that, please.  Thank you.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  Thanks.  So not getting into too details I think right now, as I mentioned, the Secretary of State, Foreign Minister Joly, the Haitian foreign minister, had initial conversations about some of this with OAS members in Lima, and in the context of the conversations with other members of the UN Security Council, really thinking about what – how we can be most responsive to the ask from Prime Minister Henry, but as well I think coming out of Assistant Secretary Nichols’ visit and his conversations with civil society, with Montana Group and with other actors, making sure that we have a – have consulted widely with Haitian society and really try to adjust accordingly.</p>
-<p>So I don’t know, , if there’s anything more you want to add on this.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL TWO:</strong>  Nothing more, thank you.</p>
-<p><strong>MODERATOR:</strong>  Thank you so much.  Could we please go to the line of Michael Wilner from McClatchy?</p>
-<p><strong>QUESTION:</strong>  Thanks for doing this.  So you’re talking about all of this aid that you plan to get into Haiti.  How are you going to move that aid through the streets when these streets are controlled by gangs?  Will you be providing the list of the individuals that you would like to be affected or sanctioned on this new visa restriction policy?  And in terms of the UN secretary general’s request for a rapid strike force, where is the support for that?  Is the United States willing to participate in that?  What would the structure of that be?  Who else is interested in that?  Can you give any details?</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  Thanks.  So Michael, I’ll let my colleague talk about the visa – your visa question.  I’ll say on the delivery assistance, for operational security reasons, I’m not going to preview the details of what, when, how.  But just to underscore again that we are looking to deploy increased humanitarian assistance, particularly focused on addressing the health security situation, also trying to address fuel shortages that are being faced not just by the government but also humanitarian organizations on the ground.</p>
-<p>I think the long-term fix is to improve the security situation.  On that end, we are engaging in active discussions with our international partners.  I know Department of State and the Secretary directly has been discussing this with – not just with Canada and Haiti but with others to try to prepare for what that looks like.</p>
-<p>But I think the United States wants to make sure that we are being responsive as possible to the needs in Haiti.  And obviously we recognize that there are a variety of views about what shape this has taken in the past, including, I think, mixed views on support for MINUSTAH.  I think we are – we are studying that very closely and want to make sure that we’re doing more of the right things to be responsive to the needs of Haiti.</p>
-<p>, anything you want to mention?</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL TWO:</strong>  So on the visa restrictions, just to say once again with these restrictions we’re sending a clear message that those providing support to Haitian street gangs and other criminal organizations through financial and other forms of material support, including the facilitation of illicit arms and narcotics trafficking, are not welcome in the United States.  As I mentioned previously, the restrictions can be applied not only to those individuals, targeted individuals, but also to their immediate family members, specifically their spouses and children of any age.</p>
-<p>To your question specifically, under U.S. law, individual visa records are confidential and so we cannot provide details on who is or will be affected.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  Can I circle back just one quick – I think it just – a very concrete measure of support is – I think is a sign of resolve and support for the people of Haiti.  The U.S. Coast Guard will deploy one of its major cutters to patrol offshore Port-au-Prince at the request of the Government of Haiti and in close coordination with the Department of State.  I think much like our response to the earthquake in Haiti last August is making sure that we have an all-hands-on-deck approach, not just USAID but obviously Department of Defense, Coast Guard, and others that have, I think, a record of just – of providing support to Haiti.</p>
-<p>So we’re pre-deploying assets to make sure that we’re being as responsible – responsive as possible to the – to the threat of the cholera pandemic.  And obviously, as the international community talks about the security response, how best we can really mobilize that response as quickly as possible, whether it’s – frankly, whether it’s the ongoing support that we have provided for special police units of the Haitian National Police, training, equipping programs to reduce violence in affected communities, but also any specific security support that’ll be discussed in the context of the UN Security Council resolution.</p>
-<p><strong>MODERATOR:</strong>  Excellent.  Thank you so much.  Could we please go to the line of Jackie Charles from the <em>Miami Herald</em>.</p>
-<p><strong>QUESTION:</strong>  Hi, good afternoon.  Thanks for doing this.  Two questions.  Why visa restrictions and not sanctions, since that’s been highly anticipated?  Why are we not going that route?  And also, is the reaction that you all have been getting in terms of diaspora – no intervention and we’ve been hearing some of that in Haiti – is that at all influencing the hesitancy here to support some sort of a strike force to go in and take control of the gangs?  Because everything we’re hearing from Haiti is that the situation is really urgent, not just because of cholera but no fuel.  We see the pillaging that’s happened with aid.  And so I’m just wondering, how influenced is the administration in terms of what it’s getting as far as feedback?</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  Yeah.  So no, Jackie, thank you, and really, thank you for your just active and regular coverage of this issue.  Look, what I’ll say is that visas are one action, but we are looking at a number of measures.  As we’d mentioned at the beginning, there are – there are often political and economic actors that are linked to the gangs.  And as you know better than I do, often the violence is linked to kind of political instability in the country.  And so we are not just pulling visas; we’re going to be exploring other measures to make sure that we are holding those that are preventing the delivery of humanitarian assistance and risking the security of Haitian people accountable.  So I don’t want to preview specific actions, but just know that we’re not just looking at visa sanctions.  We’re looking at something much more expansive.</p>
-<p>Secondly, and I’ll ask my colleague to also weigh in on this, is that the question of a security presence is obviously an area where we are treading very carefully to make sure that we are doing the right things and not doing the things in the past that have not worked.  And also, in the context of the UN Security Council, really what is the – what is the mandate that the council will be ready to provide and what countries would be willing to step up doing what.  Certainly the United States is going to be – have a robust support for what comes out of the UN Security Council and what comes out of Assistant Secretary Brian Nichols’ discussions in Haiti.  But we want to make sure that this is an effort of the – of the international community and that it’s fulsome and robust.</p>
-<p><strong>MODERATOR:</strong>  Okay, great.  Thank you so much.  Could we please go to Jennifer Hansler from CNN.</p>
-<p><strong>QUESTION:</strong>  Hi, thanks for doing this.  Just to put a finer point on it, the U.S. has not ruled out sending troops to Haiti to try to control the security situation on the ground there.  And then I know visa restrictions are classified, but can you say roughly how many people have been affected by this new policy?  How many restrictions have you put in place?  Thank you.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  So I would say – thanks for the question.  I’ll say it’s premature to talk about just a U.S. security presence.  We’ve been focusing over the last year on augmenting the capabilities of the Haitian National Police because, ultimately, we want Haitian forces to be able to manage the security situation.  And as I mentioned, right now we are exploring a number of options with the international community.  It’s not – it doesn’t have to be limited to boots on the ground, so to speak, but really looking at areas where we can support other elements of, ultimately, what the UN Security Council thinks it can support and what the Haitian people want.  So – but again, I think it’s premature to really start thinking about whether the United States is going to put – have a physical presence inside of Haiti.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL TWO:</strong>  I would just add with regard to the numbers, we do not have a number to share at this point in time.  But I did want to reinforce my colleague’s comments earlier that we are working steadfastly on an array of different sanctions actions.  Obviously, these visa restrictions are the first step that you are seeing, but we intend to announce additional steps and sanctions in the days and weeks and months to come.</p>
-<p><strong>MODERATOR:</strong>  Thank you.  Could we please go to the line of David Adams from Univision.</p>
-<p><strong>QUESTION:</strong>  Good afternoon and thanks for taking this call or doing this call.  Would it be fair to say, given what – the remarks we’ve heard, that there is a decision now that some kind of security presence, armed security presence, needs to be put in place in Haiti in order to restore a degree of security that can allow humanitarian support to flow?  And could that – could that even possibly involve the foreign – the hiring of foreign contractors as opposed to a United Nations force from member countries?</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  Thank you, David.  So again, I think that not just the request from the prime minister but also, I think, the UN secretary-general has also laid out a number of expectations.  And so we are reviewing the Government of Haiti’s request in coordination with international partners.  So I think we are, just as you mentioned, very focused on ensuring the delivery of vital humanitarian assistance, including the medical support to address the cholera outbreak.  We are going to be trying to expedite that assistance, including the delivery of fuel.  But again, this is something that, before speculating, really you want to make sure that Assistant Secretary Nichols comes back after having spoken with not just Prime Minister Henry but the private sector, civil society, and other groups that there are ongoing conversations, as my colleague mentioned, our efforts to – with Mexico to draft a UN Security Council resolution.  So this is – this will be, I think, the outcome of a number of conversations that we are working quickly to address a lot of those questions and be responsive.</p>
-<p><strong>MODERATOR:</strong>  Thank you.  Could we – we have time, I believe, for one more question.  Could we please go to Danica Coto from the AP.</p>
-<p><strong>QUESTION:</strong>  Yes, hi.  Thank you for this call.  Will the visa restrictions go into effect immediately?  And also, how long will they be in place?  And the other question is, when you mentioned that you will deploy security assistance, if you could provide details.  What does that mean and what does it look like?</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  , do you want to &#8212;</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL TWO:</strong>  On the – sure.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  &#8212; handle the – good.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL TWO:</strong>  Sure.  On the visa restrictions, that is something that we are putting in place immediately.  Once those restrictions are in place, there is a process to remove specific restrictions from an individual, which is quite an onerous one.  So it is something that carries through in perpetuity.  And I’ll defer to my colleague on the security assistance.</p>
-<p><strong>SENIOR ADMINISTRATION OFFICIAL ONE:</strong>  Yeah.  So I mean, as I mentioned at the beginning, over the last 18 months we’ve allocated more than 90 million in security assistance to strengthen the Haitian National Police.  That includes training, equipping, and vetting special units.  And right now, I think it’s premature to give too many details, just that we are talking actively – the international community, as I mentioned, working with Mexico on this UN Security Council resolution.  And again, the assistant secretary for Western Hemisphere Affairs is having a conversation not just with the government, but with other actors, including the Montana Group, to make sure that we’re being responsive to the needs of the Haitian people.</p>
-<p>Look, bottom line, Haiti matters.  The President of the United States, the Vice President, the Secretary of State are very focused on Haiti.  We are focused on avoiding the mistakes of the past, but right now, really the focus is on the humanitarian and health security situation, immediate measures that we are taking to hold those accountable that are behind, a lot of the gang and security activity.  And then, in conjunction with the international community, trying to find a response that helps address the situation on the ground and gives agency to the Haitian people to really be able to exert their right to vote in a free, fair, and secure manner.</p>
-<p><strong>MODERATOR:  </strong>Great.  Thank you so much, everyone.  That concludes today’s call.  As a reminder, today’s call was on background attributable to senior administration official – officials, and it has been – it is embargoed until the conclusion of the call, which is now.</p>
-<p>So, thank you all for joining us and have a great rest of your day.  Thank you so much.</p>
-<p><input type="hidden" data-filter="100001000111" /></p>
 ]]></content:encoded>
 					
 		
