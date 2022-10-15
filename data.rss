@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 14 Oct 2022 23:53:05 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 15 Oct 2022 02:06:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,163 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Blinken’s Meeting with Human Rights Defenders on Women and Human Rights in Iran</title>
+		<link>https://www.state.gov/secretary-blinkens-meeting-with-human-rights-defenders-on-women-and-human-rights-in-iran/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Sat, 15 Oct 2022 02:06:44 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=388253</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken met today with activists and thought leaders focused on Iran for a discussion on respect for human rights, particularly women’s rights, as well as the Iranian government’s ongoing violent crackdown on peaceful protestors and its disruption of access to telecommunications and the Internet. The Secretary was joined by Deputy Secretary Wendy Sherman, Under Secretary for Civilian Security, Democracy, and Human Rights Uzra Zeya, Special Envoy for Iran Rob Malley, and Acting Assistant Secretary for Near Eastern Affairs Yael Lempert. Secretary Blinken asked civil society partners for their perspectives on what more the United States could do to support the people of Iran, particularly in light of the Iranian government’s state-sponsored violence against women and contempt for human rights. He praised the courage of the Iranian people, especially the women and girls of Iran, and he thanked the activists for continuing their work at this critical moment for the future of all Iranians.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken met today with activists and thought leaders focused on Iran for a discussion on respect for human rights, particularly women’s rights, as well as the Iranian government’s ongoing violent crackdown on peaceful protestors and its disruption of access to telecommunications and the Internet. The Secretary was joined by Deputy Secretary Wendy Sherman, Under Secretary for Civilian Security, Democracy, and Human Rights Uzra Zeya, Special Envoy for Iran Rob Malley, and Acting Assistant Secretary for Near Eastern Affairs Yael Lempert. Secretary Blinken asked civil society partners for their perspectives on what more the United States could do to support the people of Iran, particularly in light of the Iranian government’s state-sponsored violence against women and contempt for human rights. He praised the courage of the Iranian people, especially the women and girls of Iran, and he thanked the activists for continuing their work at this critical moment for the future of all Iranians.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>$725 Million in Additional U.S. Military Assistance for Ukraine</title>
 		<link>https://www.state.gov/725-million-in-additional-u-s-military-assistance-for-ukraine/</link>
 		
@@ -1638,135 +1795,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Special Presidential Envoy for Climate John Kerry will travel to Seattle, Washington, October 17-18, to participate in the Breakthrough Energy Summit and highlight the strong action the United States has taken to accelerate innovation through the passage of the Inflation Reduction Act; the mobilization of $94B in pledges for clean technology demonstration globally – exceeding President Biden’s challenge to other countries; and public-private partnerships like the First Movers Coalition.</p>
 <p>Secretary Kerry will also travel to Hanoi, Vietnam, October 20-22, to engage further in discussions on climate cooperation and the clean energy transition ahead of COP27 in Sharm el-Sheikh, Egypt November 6-18, 2022.</p>
 <p>For media inquiries, please contact ClimateComms@state.gov.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Joint Statement on the 2nd Annual U.S.- ROK Democratic Governance Consultations</title>
-		<link>https://www.state.gov/joint-statement-on-the-2nd-annual-u-s-rok-democratic-governance-consultations/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 14 Oct 2022 14:50:56 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=388045</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p><i>Begin Text:</i><i></i></p>
-<p>On October 13, the United States and the Republic of Korea (ROK) held the 2nd annual U.S.-ROK Democratic Governance Consultations in Washington, DC.</p>
-<p>Under Secretary for Civil Security, Democracy, and Human Rights Uzra Zeya delivered remarks highlighting the strength of the U.S.-ROK alliance, particularly in our shared effort to promote democracy and respect for human rights globally.  ROK Director General for International Organizations Kang Joo-yeon and U.S. Deputy Assistant Secretary in the Bureau of Democracy, Human Rights and Labor Scott Busby were the senior representatives for the consultations.</p>
-<p>At the consultations, the ROK and the United States discussed cooperation to promote respect for human rights and democracy at the global level, including through the Summit for Democracy, and shared efforts to promote respect for human rights and democracy in each country.  Both the United States and the ROK agreed that the interagency consultations were an opportunity to deepen understanding of the policies and activities of both countries for the promotion of respect for human rights and democracy at home and abroad and to continue to explore areas of cooperation.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p><i>Begin Text:</i><i></i></p>
-<p>On October 13, the United States and the Republic of Korea (ROK) held the 2nd annual U.S.-ROK Democratic Governance Consultations in Washington, DC.</p>
-<p>Under Secretary for Civil Security, Democracy, and Human Rights Uzra Zeya delivered remarks highlighting the strength of the U.S.-ROK alliance, particularly in our shared effort to promote democracy and respect for human rights globally.  ROK Director General for International Organizations Kang Joo-yeon and U.S. Deputy Assistant Secretary in the Bureau of Democracy, Human Rights and Labor Scott Busby were the senior representatives for the consultations.</p>
-<p>At the consultations, the ROK and the United States discussed cooperation to promote respect for human rights and democracy at the global level, including through the Summit for Democracy, and shared efforts to promote respect for human rights and democracy in each country.  Both the United States and the ROK agreed that the interagency consultations were an opportunity to deepen understanding of the policies and activities of both countries for the promotion of respect for human rights and democracy at home and abroad and to continue to explore areas of cooperation.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
