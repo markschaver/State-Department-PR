@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 14 Oct 2022 23:27:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Oct 2022 23:53:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>$725 Million in Additional U.S. Military Assistance for Ukraine</title>
+		<link>https://www.state.gov/725-million-in-additional-u-s-military-assistance-for-ukraine/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 14 Oct 2022 23:53:05 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=388242</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>In the wake of Russia’s brutal missile attacks on civilians across Ukraine, the mounting evidence of atrocities by Russia’s forces, and the firm and unequivocal rejection by 143 nations at the United Nations of Russia’s illegal attempted annexation of parts of Ukraine, the United States is offering additional military assistance to help Ukraine’s proud defenders protect their country.</p>
+<p>Pursuant to a delegation of authority from the President, I am authorizing our twenty-third drawdown of U.S. arms and equipment for Ukraine since August 2021. This $725 million drawdown includes additional arms, munitions, and equipment from U.S. Department of Defense inventories. This drawdown will bring the total U.S. military assistance for Ukraine to an unprecedented more than $18.3 billion since the beginning of the Administration.</p>
+<p>We will continue to stand with the people of Ukraine as they defend their freedom and independence with extraordinary courage and boundless determination. The capabilities we are delivering are carefully calibrated to make the most difference on the battlefield for Ukraine.</p>
+<p>We stand <a href="https://www.state.gov/united-with-ukraine/">United with Ukraine</a>.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>In the wake of Russia’s brutal missile attacks on civilians across Ukraine, the mounting evidence of atrocities by Russia’s forces, and the firm and unequivocal rejection by 143 nations at the United Nations of Russia’s illegal attempted annexation of parts of Ukraine, the United States is offering additional military assistance to help Ukraine’s proud defenders protect their country.</p>
+<p>Pursuant to a delegation of authority from the President, I am authorizing our twenty-third drawdown of U.S. arms and equipment for Ukraine since August 2021. This $725 million drawdown includes additional arms, munitions, and equipment from U.S. Department of Defense inventories. This drawdown will bring the total U.S. military assistance for Ukraine to an unprecedented more than $18.3 billion since the beginning of the Administration.</p>
+<p>We will continue to stand with the people of Ukraine as they defend their freedom and independence with extraordinary courage and boundless determination. The capabilities we are delivering are carefully calibrated to make the most difference on the battlefield for Ukraine.</p>
+<p>We stand <a href="https://www.state.gov/united-with-ukraine/">United with Ukraine</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Deputy Secretary Sherman’s Meeting with Australian Minister for Defence Industry, Minister for International Development and the Pacific Conroy</title>
 		<link>https://www.state.gov/deputy-secretary-shermans-meeting-with-australian-minister-for-defence-industry-minister-for-international-development-and-the-pacific-conroy/</link>
 		
@@ -1607,167 +1768,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Under Secretary for Civil Security, Democracy, and Human Rights Uzra Zeya delivered remarks highlighting the strength of the U.S.-ROK alliance, particularly in our shared effort to promote democracy and respect for human rights globally.  ROK Director General for International Organizations Kang Joo-yeon and U.S. Deputy Assistant Secretary in the Bureau of Democracy, Human Rights and Labor Scott Busby were the senior representatives for the consultations.</p>
 <p>At the consultations, the ROK and the United States discussed cooperation to promote respect for human rights and democracy at the global level, including through the Summit for Democracy, and shared efforts to promote respect for human rights and democracy in each country.  Both the United States and the ROK agreed that the interagency consultations were an opportunity to deepen understanding of the policies and activities of both countries for the promotion of respect for human rights and democracy at home and abroad and to continue to explore areas of cooperation.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Blinken Participates in a Conversation with Hoover Institution Director and 66th Secretary of State Condoleezza Rice</title>
-		<link>https://www.state.gov/secretary-blinken-participates-in-a-conversation-with-hoover-institution-director-and-66th-secretary-of-state-condoleezza-rice/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 14 Oct 2022 13:09:18 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=388034</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Secretary of State Antony J. Blinken will participate in a conversation on the evolution and importance of technology, diplomacy, and national security with Hoover Institution Director and 66<sup>th</sup> Secretary of State Condoleezza Rice on Monday, October 17, 2022 at 1:45 p.m. EDT / 10:45 a.m. PDT at the Hoover Institution in Stanford, CA.</p>
-<p>The event will be open press and live streamed on <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMTQuNjUxMjY2NzEiLCJ1cmwiOiJodHRwOi8vd3d3LnN0YXRlLmdvdi8ifQ.AB8XWsoYcjkEn211KN5BbIAl4HyB75y63JIZUlWwoFk/s/2576317770/br/145927717697-l. Click or tap if you trust this link." href="https://www.state.gov/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">www.state.gov</a> and <a class="external-link" href="https://www.youtube.com/statedept" target="_BLANK" rel="noopener"><span class="external-link-title">www.youtube.com/statedept</span><span class="icon-external"> </span></a>.</p>
-<p>For additional information and to RSVP, please contact Jeff Marschner at jmarsch@stanford.edu.</p>
-<p><input type="hidden" data-filter="111001000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Secretary of State Antony J. Blinken will participate in a conversation on the evolution and importance of technology, diplomacy, and national security with Hoover Institution Director and 66<sup>th</sup> Secretary of State Condoleezza Rice on Monday, October 17, 2022 at 1:45 p.m. EDT / 10:45 a.m. PDT at the Hoover Institution in Stanford, CA.</p>
-<p>The event will be open press and live streamed on <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMTQuNjUxMjY2NzEiLCJ1cmwiOiJodHRwOi8vd3d3LnN0YXRlLmdvdi8ifQ.AB8XWsoYcjkEn211KN5BbIAl4HyB75y63JIZUlWwoFk/s/2576317770/br/145927717697-l. Click or tap if you trust this link." href="https://www.state.gov/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">www.state.gov</a> and <a class="external-link" href="https://www.youtube.com/statedept" target="_BLANK" rel="noopener"><span class="external-link-title">www.youtube.com/statedept</span><span class="icon-external"> </span></a>.</p>
-<p>For additional information and to RSVP, please contact Jeff Marschner at jmarsch@stanford.edu.</p>
-<p><input type="hidden" data-filter="111001000100" /></p>
 ]]></content:encoded>
 					
 		
