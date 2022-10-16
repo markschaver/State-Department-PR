@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Sun, 16 Oct 2022 13:46:00 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 16 Oct 2022 13:59:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,171 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>World Food Day</title>
+		<link>https://www.state.gov/world-food-day/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Sun, 16 Oct 2022 13:59:35 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=388335</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On this World Food Day, food systems and global food security are at a critical moment.  The compounded impacts from a global pandemic, growing pressures from the climate crisis, high energy and fertilizer prices, and armed conflicts, including Russia’s brutal war of aggression against Ukraine, have disrupted production and supply chains and dramatically increased global food insecurity, especially for the most vulnerable.</p>
+<p>The human impact is staggering.  At the outset of 2022, more than 190 million people had been driven into acute food insecurity.  The war in Ukraine could add an additional 70 million people on top of that.  Millions are facing hunger and malnutrition.</p>
+<p>Conflicts are driving unconscionable levels of hunger as violence stops food from getting to the neediest.  Pandemic disruptions to supply chains have destabilized food systems.  High prices and availability issues are reducing fertilizer use.  From the droughts in the Horn of Africa to the floods in Pakistan, we are also seeing how climate change poses a critical threat to our food supply.  Parts of Somalia are at risk of famine for the second time in just over a decade.</p>
+<p>The work before us is clear.  Only by working together can we overcome the global food security challenges we face.  Earlier this year, the United States chaired a Food Security Summit at the United Nations, which launched the Roadmap for Global Food Security.  At that meeting, we reaffirmed the commitment for world leaders to act with urgency and at scale to respond to the pressing global food crises and avert extreme hunger for hundreds of millions of people around the world.  More than 100 countries have signed on to the initiative that calls on them to take seven actions, which include increasing fertilizer production and investing in climate-resilient agriculture.</p>
+<p>The United States is leading the way.  Last month, at the United Nations General Assembly, President Biden announced over $2.9 billion in new assistance to address global food insecurity.  That announcement builds on the $6.9 billion in U.S. assistance to support global food security already committed this year.  This assistance will save lives through emergency interventions and invest in medium to long-term food security assistance to protect the world’s most vulnerable population, often women and children, from the escalating global food security crisis.</p>
+<p>There is no longer any doubt that food security is an issue of acute global urgency.  So, on this World Food Day, let us be true to its theme – Leave No One Behind – because the health, the stability, and the wellbeing of all our people depends on the food security that we build together.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On this World Food Day, food systems and global food security are at a critical moment.  The compounded impacts from a global pandemic, growing pressures from the climate crisis, high energy and fertilizer prices, and armed conflicts, including Russia’s brutal war of aggression against Ukraine, have disrupted production and supply chains and dramatically increased global food insecurity, especially for the most vulnerable.</p>
+<p>The human impact is staggering.  At the outset of 2022, more than 190 million people had been driven into acute food insecurity.  The war in Ukraine could add an additional 70 million people on top of that.  Millions are facing hunger and malnutrition.</p>
+<p>Conflicts are driving unconscionable levels of hunger as violence stops food from getting to the neediest.  Pandemic disruptions to supply chains have destabilized food systems.  High prices and availability issues are reducing fertilizer use.  From the droughts in the Horn of Africa to the floods in Pakistan, we are also seeing how climate change poses a critical threat to our food supply.  Parts of Somalia are at risk of famine for the second time in just over a decade.</p>
+<p>The work before us is clear.  Only by working together can we overcome the global food security challenges we face.  Earlier this year, the United States chaired a Food Security Summit at the United Nations, which launched the Roadmap for Global Food Security.  At that meeting, we reaffirmed the commitment for world leaders to act with urgency and at scale to respond to the pressing global food crises and avert extreme hunger for hundreds of millions of people around the world.  More than 100 countries have signed on to the initiative that calls on them to take seven actions, which include increasing fertilizer production and investing in climate-resilient agriculture.</p>
+<p>The United States is leading the way.  Last month, at the United Nations General Assembly, President Biden announced over $2.9 billion in new assistance to address global food insecurity.  That announcement builds on the $6.9 billion in U.S. assistance to support global food security already committed this year.  This assistance will save lives through emergency interventions and invest in medium to long-term food security assistance to protect the world’s most vulnerable population, often women and children, from the escalating global food security crisis.</p>
+<p>There is no longer any doubt that food security is an issue of acute global urgency.  So, on this World Food Day, let us be true to its theme – Leave No One Behind – because the health, the stability, and the wellbeing of all our people depends on the food security that we build together.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Senior Official for Public Diplomacy and Public Affairs Allen  Travels to Costa Rica and Miami</title>
 		<link>https://www.state.gov/senior-official-for-public-diplomacy-and-public-affairs-allen-travels-to-costa-rica-and-miami/</link>
 		
@@ -1703,169 +1868,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>Assistant Secretary of State for Conflict and Stabilization Operations Anne A. Witkowsky will lead a multi-agency delegation including Assistant to the USAID Administrator for Conflict Prevention and Stabilization Robert Jenkins and Deputy Assistant Secretary of Defense for Counternarcotics and Stabilization Policy James Saenz to Coastal West Africa October 16-22.  The delegation will visit Lomé, Togo; Cotonou, Benin; and Abidjan, Côte d’Ivoire, to discuss opportunities for the United States to support regional efforts to build peace and bolster resilience.  In each of the stops, the delegation will meet with government representatives, civil society leaders, and bilateral and multilateral partners critical for implementing the U.S. Strategy to Prevent Conflict and Promote Stability in Coastal West Africa.  This trip reinforces our long-term commitment to partnering with regional leaders to advance peace and security across the region.</p>
 <p>For more information, please contact CSOPublicAffairs1@state.gov or follow <a class="external-link" href="https://twitter.com/StateCSO" target="_BLANK" rel="noopener"><span class="external-link-title">@StateCSO</span><span class="icon-external"> </span></a> on Twitter.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>United States and Laos Hold 10th Comprehensive Bilateral Dialogue</title>
-		<link>https://www.state.gov/united-states-and-laos-hold-10th-comprehensive-bilateral-dialogue/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 14 Oct 2022 21:35:55 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=388185</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The United States and the Lao People’s Democratic Republic (PDR) held their 10th Comprehensive Bilateral Dialogue on October 14, 2022, in Vientiane, in which the two sides discussed their ever-expanding range of cooperation.</p>
-<p>U.S. Assistant Secretary of State Daniel J. Kritenbrink and U.S. Ambassador to the Lao PDR Peter M. Haymond led the U.S. delegation, while Lao Vice Foreign Minister Bounleua Phandanouvong led the Lao delegation.</p>
-<p>The two sides reconfirmed their intention to expand U.S.-Lao cooperation in line with the Comprehensive Partnership announced in Vientiane during former President Obama’s visit in 2016.</p>
-<p>The Assistant Secretary said the United States was proud to be the first international partner to provide COVID-19 assistance to Laos following the outbreak of the pandemic.  He noted the United States works with the Lao people and government in support of its sustainable development goals, including on programs to improve health, education, economic growth, agriculture, and good governance, and the survey and clearance of unexploded ordnance in Laos.</p>
-<p>The two sides also discussed U.S. concerns about global and regional developments, including the Burma regime’s refusal to implement the ASEAN Five-Point Consensus, Russia’s violation of international law, including the UN Charter, in invading and trying to annex parts of Ukraine, and respect for human rights and fundamental freedoms.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The United States and the Lao People’s Democratic Republic (PDR) held their 10th Comprehensive Bilateral Dialogue on October 14, 2022, in Vientiane, in which the two sides discussed their ever-expanding range of cooperation.</p>
-<p>U.S. Assistant Secretary of State Daniel J. Kritenbrink and U.S. Ambassador to the Lao PDR Peter M. Haymond led the U.S. delegation, while Lao Vice Foreign Minister Bounleua Phandanouvong led the Lao delegation.</p>
-<p>The two sides reconfirmed their intention to expand U.S.-Lao cooperation in line with the Comprehensive Partnership announced in Vientiane during former President Obama’s visit in 2016.</p>
-<p>The Assistant Secretary said the United States was proud to be the first international partner to provide COVID-19 assistance to Laos following the outbreak of the pandemic.  He noted the United States works with the Lao people and government in support of its sustainable development goals, including on programs to improve health, education, economic growth, agriculture, and good governance, and the survey and clearance of unexploded ordnance in Laos.</p>
-<p>The two sides also discussed U.S. concerns about global and regional developments, including the Burma regime’s refusal to implement the ASEAN Five-Point Consensus, Russia’s violation of international law, including the UN Charter, in invading and trying to annex parts of Ukraine, and respect for human rights and fundamental freedoms.</p>
 ]]></content:encoded>
 					
 		
