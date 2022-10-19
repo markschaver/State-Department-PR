@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Tue, 18 Oct 2022 20:17:38 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Oct 2022 12:45:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>One Year of Detention for Our Locally Employed Staff in Sana’a</title>
+		<link>https://www.state.gov/one-year-of-detention-for-our-locally-employed-staff-in-sanaa/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 12:45:00 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=389004</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>One year ago today, Houthi forces breached the compound used by the U.S. Embassy in Sana’a, Yemen prior to its suspension of operations in 2015 and began detaining, without justification, Yemeni Locally Employed Staff. As of today, twelve current and former U.S. and UN employees remain detained. Most have had no contact with their families, and one passed away in detention earlier this year.</p>
+<p>The ongoing detention of these Yemeni employees shows gross disregard for diplomatic norms and constitutes an affront to the entire international community. The United States will unceasingly continue diplomatic efforts to secure their release, working with our international partners. These actions continue to call into question Houthi willingness to see Yemen return to peace. The UN Security Council has condemned these Houthi actions in the strongest terms, as has the U.S. Congress and many international partners.</p>
+<p>The United States is committed to advancing a durable resolution to the Yemen conflict and to ensuring the safety of those who serve the U.S. government. I call on the Houthis to release these Yemeni citizens and return them to their families as a demonstration of their commitment to peace for the people of Yemen and willingness to participate in a future government that respects the rule of law.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>One year ago today, Houthi forces breached the compound used by the U.S. Embassy in Sana’a, Yemen prior to its suspension of operations in 2015 and began detaining, without justification, Yemeni Locally Employed Staff. As of today, twelve current and former U.S. and UN employees remain detained. Most have had no contact with their families, and one passed away in detention earlier this year.</p>
+<p>The ongoing detention of these Yemeni employees shows gross disregard for diplomatic norms and constitutes an affront to the entire international community. The United States will unceasingly continue diplomatic efforts to secure their release, working with our international partners. These actions continue to call into question Houthi willingness to see Yemen return to peace. The UN Security Council has condemned these Houthi actions in the strongest terms, as has the U.S. Congress and many international partners.</p>
+<p>The United States is committed to advancing a durable resolution to the Yemen conflict and to ensuring the safety of those who serve the U.S. government. I call on the Houthis to release these Yemeni citizens and return them to their families as a demonstration of their commitment to peace for the people of Yemen and willingness to participate in a future government that respects the rule of law.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>U.S. Support for Hurricane Ian Recovery Efforts in Cuba</title>
 		<link>https://www.state.gov/u-s-support-for-hurricane-ian-recovery-efforts-in-cuba/</link>
 		
@@ -1541,183 +1700,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Special Envoy for Global Food Security Cary Fowler will travel to Des Moines, Iowa October 18-20 to participate in the 2022 Borlaug Dialogue of the World Food Prize Foundation. Special Envoy Fowler will emphasize the United States’ strategy for addressing the global food security crisis and underscore the continuing need to respond to global security challenges caused by the climate crisis, Covid-19 related supply chain disruptions, high fertilizer prices, and armed conflicts, including Russia’s brutal war against Ukraine. He will also underline the U.S. government’s support for climate adaptation advancements for global agriculture.</p>
 <p>On October 18, Special Envoy Fowler will deliver keynote remarks at the opening ceremony for the 2022 Borlaug Dialogue. His remarks will focus on the importance of crop resilience and climate adaptation in the face of the climate crisis. Special Envoy Fowler will also join a panel discussion among government, private sector, and agricultural leaders that will explore the factors impacting the ability to feed the world and explore priorities for fighting rising hunger.</p>
 <p>On October 20, Special Envoy Fowler will co-host a roundtable discussion on the “Triple C’s” of COVID-19, Conflict, and Climate and their effects on world food systems with Assistant Secretary for the Bureau of Economic and Business Affairs Ramin Toloui. This event will underscore the increasing need to enhance agricultural climate resilience to improve global food security. Later, he will give remarks at Iowa State University on crop resilience and climate adaptation. The Special Envoy will also hold discussions with public and private food security experts.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Remarks at SLAC National Accelerator Laboratory</title>
-		<link>https://www.state.gov/remarks-at-slac-national-accelerator-laboratory/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Mon, 17 Oct 2022 20:48:12 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=388573</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Menlo Park, California</p>
-<p>SLAC National Accelerator Laboratory</p>
-<p><strong>SECRETARY BLINKEN:</strong>  It’s really an honor to be here with Congresswoman Eshoo and with the Speaker.  This national lab is a national treasure.  We have U.S.-led, world-class research that is essential to our national security, is essential to our economic competitiveness, is essential to solving the problems of the world, problems that are also having an impact on people’s everyday lives.  And what we saw this morning may not be news to most of the people here and certainly not news to Congresswoman Eshoo and the Speaker, but it will be and already is absolutely essential to tackling the biggest problems of our time, whether it’s climate change, whether it’s basic health, whether it’s understanding the fundamentals of the world around us.</p>
-<p>One of the things I’m so grateful for is that thanks to the leadership of the Speaker, thanks to the leadership of the congresswoman, thanks to the leadership of President Biden, we are reinvesting in ourselves.  We’re reinvesting in basic science.  We’re reinvesting in research and development.  This is how the United States maintains its leadership around the world, its technological leadership, its attractiveness.  There are scientists, researchers, experts from all over here mixing with so many extraordinary students and researchers at Stanford and from the labs.  And that collision of atoms is producing extraordinary insight, extraordinary discovery, and ultimately extraordinary applications.</p>
-<p>But it’s fundamental to what we’re able to do around the world.  It goes directly to our standing.  When I’m traveling around the world, the most powerful thing that connects us to others is American science, innovation, entrepreneurship, and all of that is happening right here, and of course it’s happening in Silicon Valley more broadly.</p>
-<p>So it’s an honor to be here, but beyond that it really connects what we’re doing here at home to what we’re trying to do around the world and making sure that in the State Department we’re helping to foster these collaborations with other countries, with other companies, with other experts.  That’s a fundamental part of our job (inaudible).  So thank you for having us today.</p>
-<p><strong>SPEAKER PELOSI:</strong>  If I just may say just thank you.  Those of us who have watched this for decades know that your leadership fits comfortably, Dr. (inaudible), (inaudible) so many heroes (inaudible). Thank you for your leadership.  And so important is this to the Secretary, that he’s established a new bureau.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  That’s right.  That’s right.  Because it’s so important at the State Department that the United States be at the table around the world when so many of the – for example, the norms, the rules, the standards that go to how technology is used, they get decided often internationally.  We stood up and recognized the new Bureau for Cyberspace and Digital Policy led by Ambassador Nate Fick to make sure that we are – in fact, Nate’s with us today – that we are not only at the table, but we’re leading the way.</p>
-<p>Because one of the challenges that we have is if we’re not doing this, if the United States is not playing the lead role, then one of two things: either someone else is, and probably not in a way that reflects our own interests and our own values; or no one is.  And we know that the world, in so many of its manifestations, doesn’t organize itself.</p>
-<p>So a critical part the State Department is playing is making sure that around the world we are at the table and we’re leading on these issues.  And of course we know they have a direct impact on the lives of virtually every single American.  All of the emergent technology that we’ve seen, including from here, is quite literally shaping our lives and shaping the future of the world.</p>
-<p>We have an incredibly positive agenda for making sure that here in the United States we’re leading the way to figuring out new medical applications to make people’s lives healthier, new applications to make sure that we can power our planet but not in a way that’s reliant on fossil fuels, new ways of dealing with food to make sure we have healthy, sustainable food.  All of that, all of these discoveries, are happening, starting in places like this remarkable place.  We want to make sure the State Department is doing its job in representing the United States around the world.  Thank you.  (Applause.)</p>
-<p><input type="hidden" data-filter="100001000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Menlo Park, California</p>
-<p>SLAC National Accelerator Laboratory</p>
-<p><strong>SECRETARY BLINKEN:</strong>  It’s really an honor to be here with Congresswoman Eshoo and with the Speaker.  This national lab is a national treasure.  We have U.S.-led, world-class research that is essential to our national security, is essential to our economic competitiveness, is essential to solving the problems of the world, problems that are also having an impact on people’s everyday lives.  And what we saw this morning may not be news to most of the people here and certainly not news to Congresswoman Eshoo and the Speaker, but it will be and already is absolutely essential to tackling the biggest problems of our time, whether it’s climate change, whether it’s basic health, whether it’s understanding the fundamentals of the world around us.</p>
-<p>One of the things I’m so grateful for is that thanks to the leadership of the Speaker, thanks to the leadership of the congresswoman, thanks to the leadership of President Biden, we are reinvesting in ourselves.  We’re reinvesting in basic science.  We’re reinvesting in research and development.  This is how the United States maintains its leadership around the world, its technological leadership, its attractiveness.  There are scientists, researchers, experts from all over here mixing with so many extraordinary students and researchers at Stanford and from the labs.  And that collision of atoms is producing extraordinary insight, extraordinary discovery, and ultimately extraordinary applications.</p>
-<p>But it’s fundamental to what we’re able to do around the world.  It goes directly to our standing.  When I’m traveling around the world, the most powerful thing that connects us to others is American science, innovation, entrepreneurship, and all of that is happening right here, and of course it’s happening in Silicon Valley more broadly.</p>
-<p>So it’s an honor to be here, but beyond that it really connects what we’re doing here at home to what we’re trying to do around the world and making sure that in the State Department we’re helping to foster these collaborations with other countries, with other companies, with other experts.  That’s a fundamental part of our job (inaudible).  So thank you for having us today.</p>
-<p><strong>SPEAKER PELOSI:</strong>  If I just may say just thank you.  Those of us who have watched this for decades know that your leadership fits comfortably, Dr. (inaudible), (inaudible) so many heroes (inaudible). Thank you for your leadership.  And so important is this to the Secretary, that he’s established a new bureau.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  That’s right.  That’s right.  Because it’s so important at the State Department that the United States be at the table around the world when so many of the – for example, the norms, the rules, the standards that go to how technology is used, they get decided often internationally.  We stood up and recognized the new Bureau for Cyberspace and Digital Policy led by Ambassador Nate Fick to make sure that we are – in fact, Nate’s with us today – that we are not only at the table, but we’re leading the way.</p>
-<p>Because one of the challenges that we have is if we’re not doing this, if the United States is not playing the lead role, then one of two things: either someone else is, and probably not in a way that reflects our own interests and our own values; or no one is.  And we know that the world, in so many of its manifestations, doesn’t organize itself.</p>
-<p>So a critical part the State Department is playing is making sure that around the world we are at the table and we’re leading on these issues.  And of course we know they have a direct impact on the lives of virtually every single American.  All of the emergent technology that we’ve seen, including from here, is quite literally shaping our lives and shaping the future of the world.</p>
-<p>We have an incredibly positive agenda for making sure that here in the United States we’re leading the way to figuring out new medical applications to make people’s lives healthier, new applications to make sure that we can power our planet but not in a way that’s reliant on fossil fuels, new ways of dealing with food to make sure we have healthy, sustainable food.  All of that, all of these discoveries, are happening, starting in places like this remarkable place.  We want to make sure the State Department is doing its job in representing the United States around the world.  Thank you.  (Applause.)</p>
-<p><input type="hidden" data-filter="100001000111" /></p>
 ]]></content:encoded>
 					
 		
