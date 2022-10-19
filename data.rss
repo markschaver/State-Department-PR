@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 19 Oct 2022 12:45:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Oct 2022 17:00:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Release of the President’s National Biodefense Strategy</title>
+		<link>https://www.state.gov/release-of-the-presidents-national-biodefense-strategy/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 16:59:23 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=389098</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>Today the Administration is releasing its National Biodefense Strategy, which establishes a roadmap to help us plan for and protect against future biological threats, whether naturally occurring, accidental, or deliberate in origin.  It outlines a bold vision by transforming the Federal Government’s ability to prevent, detect, prepare for, respond to, and recover from outbreaks, together with our partners – including our international partners.</p>
+<p>Infectious diseases that cross borders and disrupt societies are a threat to national security and global stability.  Over the last two years, we have seen the impact across America and around the world of diseases like COVID-19, which has resulted in millions of deaths and trillions of dollars of economic losses globally.  Beyond COVID-19, the global community is concurrently fighting outbreaks of monkeypox, polio, Ebola, highly pathogenic avian influenza, and other infectious diseases, stretching thin global resources and demonstrating gaps in our current preparedness – challenges that are aggravated by changes in global travel, land use, and climate.  Despite a nearly universal ban, some nations and groups continue seeking to turn the destructive power of disease to their own ends by developing biological weapons.  Preventing, detecting, and responding to biological threats regardless of source is a significant challenge – but it is one we cannot afford not to meet.</p>
+<p>The National Biodefense Strategy recognizes that domestic action alone is insufficient to protect America’s health and security in an interconnected world.  It directs greater international attention and focus, including expanding sustainable and transparent capacity building, improving country-led and adequately financed health security, as well as actions to prevent the acquisition and use of biological weapons.</p>
+<p>The State Department will play a critical role in advancing these efforts.  In order to achieve these goals, we must work together with our foreign partners to support and strengthen capacities to prevent, detect, and effectively respond to biological threats at their source and encourage prioritization of these issues around the world.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>Today the Administration is releasing its National Biodefense Strategy, which establishes a roadmap to help us plan for and protect against future biological threats, whether naturally occurring, accidental, or deliberate in origin.  It outlines a bold vision by transforming the Federal Government’s ability to prevent, detect, prepare for, respond to, and recover from outbreaks, together with our partners – including our international partners.</p>
+<p>Infectious diseases that cross borders and disrupt societies are a threat to national security and global stability.  Over the last two years, we have seen the impact across America and around the world of diseases like COVID-19, which has resulted in millions of deaths and trillions of dollars of economic losses globally.  Beyond COVID-19, the global community is concurrently fighting outbreaks of monkeypox, polio, Ebola, highly pathogenic avian influenza, and other infectious diseases, stretching thin global resources and demonstrating gaps in our current preparedness – challenges that are aggravated by changes in global travel, land use, and climate.  Despite a nearly universal ban, some nations and groups continue seeking to turn the destructive power of disease to their own ends by developing biological weapons.  Preventing, detecting, and responding to biological threats regardless of source is a significant challenge – but it is one we cannot afford not to meet.</p>
+<p>The National Biodefense Strategy recognizes that domestic action alone is insufficient to protect America’s health and security in an interconnected world.  It directs greater international attention and focus, including expanding sustainable and transparent capacity building, improving country-led and adequately financed health security, as well as actions to prevent the acquisition and use of biological weapons.</p>
+<p>The State Department will play a critical role in advancing these efforts.  In order to achieve these goals, we must work together with our foreign partners to support and strengthen capacities to prevent, detect, and effectively respond to biological threats at their source and encourage prioritization of these issues around the world.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>One Year of Detention for Our Locally Employed Staff in Sana’a</title>
 		<link>https://www.state.gov/one-year-of-detention-for-our-locally-employed-staff-in-sanaa/</link>
 		
@@ -1541,165 +1704,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>In San Francisco, Assistant Secretary Satterfield will deliver keynote remarks at the 10th anniversary celebration of TechWomen, the Department’s premier exchange for women in science and technology, which will be held at the Juniper Aspiration Dome on Thursday, October 20.</p>
 <p>For further information, contact <a href="mailto:ECA-Press@state.gov" target="_blank" rel="noopener">ECA-Press@state.gov</a>. Follow along on Twitter at <a class="external-link" href="https://twitter.com/eca_as" target="_BLANK" rel="noopener"><span class="external-link-title">@ECA_AS</span><span class="icon-external"> </span></a>.</p>
 <p><input type="hidden" data-filter="100000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Special Envoy for Global Food Security Cary Fowler’s Travel to Iowa to Participate in 2022 Borlaug Dialogue of the World Food Prize Foundation</title>
-		<link>https://www.state.gov/special-envoy-for-global-food-security-cary-fowlers-travel-to-iowa-to-participate-in-2022-borlaug-dialogue-of-the-world-food-prize-foundation/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Mon, 17 Oct 2022 21:18:16 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=388577</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Special Envoy for Global Food Security Cary Fowler will travel to Des Moines, Iowa October 18-20 to participate in the 2022 Borlaug Dialogue of the World Food Prize Foundation. Special Envoy Fowler will emphasize the United States’ strategy for addressing the global food security crisis and underscore the continuing need to respond to global security challenges caused by the climate crisis, Covid-19 related supply chain disruptions, high fertilizer prices, and armed conflicts, including Russia’s brutal war against Ukraine. He will also underline the U.S. government’s support for climate adaptation advancements for global agriculture.</p>
-<p>On October 18, Special Envoy Fowler will deliver keynote remarks at the opening ceremony for the 2022 Borlaug Dialogue. His remarks will focus on the importance of crop resilience and climate adaptation in the face of the climate crisis. Special Envoy Fowler will also join a panel discussion among government, private sector, and agricultural leaders that will explore the factors impacting the ability to feed the world and explore priorities for fighting rising hunger.</p>
-<p>On October 20, Special Envoy Fowler will co-host a roundtable discussion on the “Triple C’s” of COVID-19, Conflict, and Climate and their effects on world food systems with Assistant Secretary for the Bureau of Economic and Business Affairs Ramin Toloui. This event will underscore the increasing need to enhance agricultural climate resilience to improve global food security. Later, he will give remarks at Iowa State University on crop resilience and climate adaptation. The Special Envoy will also hold discussions with public and private food security experts.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Special Envoy for Global Food Security Cary Fowler will travel to Des Moines, Iowa October 18-20 to participate in the 2022 Borlaug Dialogue of the World Food Prize Foundation. Special Envoy Fowler will emphasize the United States’ strategy for addressing the global food security crisis and underscore the continuing need to respond to global security challenges caused by the climate crisis, Covid-19 related supply chain disruptions, high fertilizer prices, and armed conflicts, including Russia’s brutal war against Ukraine. He will also underline the U.S. government’s support for climate adaptation advancements for global agriculture.</p>
-<p>On October 18, Special Envoy Fowler will deliver keynote remarks at the opening ceremony for the 2022 Borlaug Dialogue. His remarks will focus on the importance of crop resilience and climate adaptation in the face of the climate crisis. Special Envoy Fowler will also join a panel discussion among government, private sector, and agricultural leaders that will explore the factors impacting the ability to feed the world and explore priorities for fighting rising hunger.</p>
-<p>On October 20, Special Envoy Fowler will co-host a roundtable discussion on the “Triple C’s” of COVID-19, Conflict, and Climate and their effects on world food systems with Assistant Secretary for the Bureau of Economic and Business Affairs Ramin Toloui. This event will underscore the increasing need to enhance agricultural climate resilience to improve global food security. Later, he will give remarks at Iowa State University on crop resilience and climate adaptation. The Special Envoy will also hold discussions with public and private food security experts.</p>
 ]]></content:encoded>
 					
 		
