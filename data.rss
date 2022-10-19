@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 19 Oct 2022 17:00:51 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Oct 2022 21:22:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,171 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Imposing Sanctions on Russia’s Technology Procurement</title>
+		<link>https://www.state.gov/imposing-sanctions-on-russias-technology-procurement/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 21:22:09 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=389205</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>In coordination with the U.S. Department of Justice and the Federal Bureau of Investigation, the Department of the Treasury designated Russian procurement agent <b>Yury </b><b>Yuryevich</b><b> Orekhov</b> (Orekhov) and his companies <b>Nord-Deutsche Industrieanlagenbau GmbH</b> (NDA GmbH) and <b>Opus Energy Trading LLC </b>(Opus Energy Trading) pursuant to Executive Order 14024.</p>
+<p>Orekhov, via NDA GmbH, is responsible for procuring U.S.-origin technologies for Russian end-users, including entities on the U.S. Department of Commerce Bureau of Industry and Security’s Entity List, in violation of U.S. export controls.  These technologies include advanced semiconductors and microprocessors used in fighter aircraft, ballistic and hypersonic missile systems, smart munitions, radar, satellites, and other military applications, components of which have been found in Russian weapons platforms in Ukraine.  As such, Orekhov and his companies have directly contributed to the Kremlin’s unjustified war of aggression against Ukraine.</p>
+<p>This is also a reminder of how the Russian military is suffering from major supply shortages in Ukraine, in part because of our sanctions and export controls. The United States, along with our allies and partners, will continue to hold Russia accountable and vigorously enforce our sanctions and export controls to deprive Russia’s war effort.</p>
+<p>Today’s action builds on last week’s meeting of top officials, representing ministries of finance and other government agencies from 33 countries to discuss the effects of international sanctions and export controls on Russia’s military-industrial complex and critical defense supply chains. The Departments of the Treasury, Commerce, and State released an alert on Friday detailing the impact of international sanctions and export controls. <a class="external-link__pdf" href="https://home.treasury.gov/system/files/126/20221014_russia_alert.pdf" target="_BLANK" rel="noopener"><span class="external-link-title">Read the joint alert</span><span class="filesize icon-pdf"> </span></a>.</p>
+<p>For more information on today’s action, please see the Department of the Treasury’s <a href="https://home.treasury.gov/news/press-releases/jy1035" target="_blank" rel="noopener">press release</a>.  More information on the actions being taken by the Department of Justice and Federal Bureau of Investigation can be found in the Department of Justice <a href="https://www.justice.gov/usao-edny/pr/five-russian-nationals-and-two-oil-traders-charged-global-sanctions-evasion-and-money" target="_blank" rel="noopener">press release</a>.</p>
+<p><input type="hidden" data-filter="110001000000" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>In coordination with the U.S. Department of Justice and the Federal Bureau of Investigation, the Department of the Treasury designated Russian procurement agent <b>Yury </b><b>Yuryevich</b><b> Orekhov</b> (Orekhov) and his companies <b>Nord-Deutsche Industrieanlagenbau GmbH</b> (NDA GmbH) and <b>Opus Energy Trading LLC </b>(Opus Energy Trading) pursuant to Executive Order 14024.</p>
+<p>Orekhov, via NDA GmbH, is responsible for procuring U.S.-origin technologies for Russian end-users, including entities on the U.S. Department of Commerce Bureau of Industry and Security’s Entity List, in violation of U.S. export controls.  These technologies include advanced semiconductors and microprocessors used in fighter aircraft, ballistic and hypersonic missile systems, smart munitions, radar, satellites, and other military applications, components of which have been found in Russian weapons platforms in Ukraine.  As such, Orekhov and his companies have directly contributed to the Kremlin’s unjustified war of aggression against Ukraine.</p>
+<p>This is also a reminder of how the Russian military is suffering from major supply shortages in Ukraine, in part because of our sanctions and export controls. The United States, along with our allies and partners, will continue to hold Russia accountable and vigorously enforce our sanctions and export controls to deprive Russia’s war effort.</p>
+<p>Today’s action builds on last week’s meeting of top officials, representing ministries of finance and other government agencies from 33 countries to discuss the effects of international sanctions and export controls on Russia’s military-industrial complex and critical defense supply chains. The Departments of the Treasury, Commerce, and State released an alert on Friday detailing the impact of international sanctions and export controls. <a class="external-link__pdf" href="https://home.treasury.gov/system/files/126/20221014_russia_alert.pdf" target="_BLANK" rel="noopener"><span class="external-link-title">Read the joint alert</span><span class="filesize icon-pdf"> </span></a>.</p>
+<p>For more information on today’s action, please see the Department of the Treasury’s <a href="https://home.treasury.gov/news/press-releases/jy1035" target="_blank" rel="noopener">press release</a>.  More information on the actions being taken by the Department of Justice and Federal Bureau of Investigation can be found in the Department of Justice <a href="https://www.justice.gov/usao-edny/pr/five-russian-nationals-and-two-oil-traders-charged-global-sanctions-evasion-and-money" target="_blank" rel="noopener">press release</a>.</p>
+<p><input type="hidden" data-filter="110001000000" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Release of the President’s National Biodefense Strategy</title>
 		<link>https://www.state.gov/release-of-the-presidents-national-biodefense-strategy/</link>
 		
@@ -1539,171 +1704,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 </span><b><span data-contrast="auto">(OPEN PRESS COVERAGE) </span></b><span data-ccp-props="{}"> </span></p>
 <p><i><span data-contrast="auto">The Department Press Briefing will be livestreamed on </span></i><a href="http://www.state.gov/"><i><span data-contrast="none">www.state.gov</span></i></a><i><span data-contrast="auto"> and </span></i><a href="http://www.youtube.com/statedept"><i><span data-contrast="none">www.youtube.com/statedept</span></i></a><i><span data-contrast="auto">. </span></i><span data-ccp-props="{}"> </span></p>
 <p><span data-ccp-props="{}"> </span></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Assistant Secretary of State Lee Satterfield Travel to Los Angeles and San Francisco</title>
-		<link>https://www.state.gov/assistant-secretary-of-state-lee-satterfield-travel-to-los-angeles-and-san-francisco/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Tue, 18 Oct 2022 01:40:19 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=388637</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>From October 17-20, 2022, Assistant Secretary of State for Educational and Cultural Affairs Lee Satterfield will travel to Los Angeles and San Francisco, California, to participate in engagements with exchange participants, the private sector, including the international film and entertainment industries, the tech sector, and institutions of higher education. The Assistant Secretary’s trip underscores the United States’ strategic engagement in people-to-people diplomacy, which goes beyond the confines of government to meet people where they are and create opportunities for mutual understanding.</p>
-<p>In Los Angeles, the Assistant Secretary will focus on cultural diplomacy, with an emphasis on film and creative content. She will meet with independent film producers, international entertainment leaders, the Writers Guild, and Global Media Makers fellows to discuss diversifying the film industry, trends in the creative industry, and other cultural diplomacy priorities. Global Media Makers is an initiative of the U.S. Department of State and Film Independent and was launched in 2016 to foster relationships and build mutual understanding between American and international film professionals.</p>
-<p>In addition, she will participate in meetings with senior faculty and leadership from the University of Southern California’s School of Cinematic Arts and the USC Center for Public Diplomacy.  USC’s School of Cinematic Arts implements ECA’s American Film Showcase program.</p>
-<p>In San Francisco, Assistant Secretary Satterfield will deliver keynote remarks at the 10th anniversary celebration of TechWomen, the Department’s premier exchange for women in science and technology, which will be held at the Juniper Aspiration Dome on Thursday, October 20.</p>
-<p>For further information, contact <a href="mailto:ECA-Press@state.gov" target="_blank" rel="noopener">ECA-Press@state.gov</a>. Follow along on Twitter at <a class="external-link" href="https://twitter.com/eca_as" target="_BLANK" rel="noopener"><span class="external-link-title">@ECA_AS</span><span class="icon-external"> </span></a>.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>From October 17-20, 2022, Assistant Secretary of State for Educational and Cultural Affairs Lee Satterfield will travel to Los Angeles and San Francisco, California, to participate in engagements with exchange participants, the private sector, including the international film and entertainment industries, the tech sector, and institutions of higher education. The Assistant Secretary’s trip underscores the United States’ strategic engagement in people-to-people diplomacy, which goes beyond the confines of government to meet people where they are and create opportunities for mutual understanding.</p>
-<p>In Los Angeles, the Assistant Secretary will focus on cultural diplomacy, with an emphasis on film and creative content. She will meet with independent film producers, international entertainment leaders, the Writers Guild, and Global Media Makers fellows to discuss diversifying the film industry, trends in the creative industry, and other cultural diplomacy priorities. Global Media Makers is an initiative of the U.S. Department of State and Film Independent and was launched in 2016 to foster relationships and build mutual understanding between American and international film professionals.</p>
-<p>In addition, she will participate in meetings with senior faculty and leadership from the University of Southern California’s School of Cinematic Arts and the USC Center for Public Diplomacy.  USC’s School of Cinematic Arts implements ECA’s American Film Showcase program.</p>
-<p>In San Francisco, Assistant Secretary Satterfield will deliver keynote remarks at the 10th anniversary celebration of TechWomen, the Department’s premier exchange for women in science and technology, which will be held at the Juniper Aspiration Dome on Thursday, October 20.</p>
-<p>For further information, contact <a href="mailto:ECA-Press@state.gov" target="_blank" rel="noopener">ECA-Press@state.gov</a>. Follow along on Twitter at <a class="external-link" href="https://twitter.com/eca_as" target="_BLANK" rel="noopener"><span class="external-link-title">@ECA_AS</span><span class="icon-external"> </span></a>.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
 ]]></content:encoded>
 					
 		
