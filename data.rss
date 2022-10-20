@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 20 Oct 2022 20:24:00 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Oct 2022 21:35:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Blinken’s Call with UN Secretary-General Guterres</title>
+		<link>https://www.state.gov/secretary-blinkens-call-with-un-secretary-general-guterres-2/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Thu, 20 Oct 2022 21:35:44 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=389694</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with UN Secretary-General Antonio Guterres.  Secretary Blinken and Secretary-General Guterres emphasized the importance of safeguarding UN principles of sovereignty and territorial integrity, especially in light of Russia’s illegal attempted annexation of Ukraine’s territory.  They also discussed the need for continued UN action to address the urgent security and humanitarian crises in Ukraine and in Haiti.  Expressing his grave concern about the intensification of fighting in northern Ethiopia and the risk of mass atrocities, Secretary Blinken underscored the need for an immediate cessation of hostilities, unhindered humanitarian access, good faith engagement in the AU-led talks next week, and for Eritrea to withdraw its forces from northern Ethiopia.  Secretary Blinken reiterated the commitment of the United States to strengthening and modernizing the UN system to ensure the organization is equipped to address the world’s most pressing collective challenges, including global health, climate, and food security.</p>
+<p><input type="hidden" data-filter="000000000000" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with UN Secretary-General Antonio Guterres.  Secretary Blinken and Secretary-General Guterres emphasized the importance of safeguarding UN principles of sovereignty and territorial integrity, especially in light of Russia’s illegal attempted annexation of Ukraine’s territory.  They also discussed the need for continued UN action to address the urgent security and humanitarian crises in Ukraine and in Haiti.  Expressing his grave concern about the intensification of fighting in northern Ethiopia and the risk of mass atrocities, Secretary Blinken underscored the need for an immediate cessation of hostilities, unhindered humanitarian access, good faith engagement in the AU-led talks next week, and for Eritrea to withdraw its forces from northern Ethiopia.  Secretary Blinken reiterated the commitment of the United States to strengthening and modernizing the UN system to ensure the organization is equipped to address the world’s most pressing collective challenges, including global health, climate, and food security.</p>
+<p><input type="hidden" data-filter="000000000000" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>The Impact of Sanctions and Export Controls on the Russian Federation</title>
 		<link>https://www.state.gov/the-impact-of-sanctions-and-export-controls-on-the-russian-federation/</link>
 		
@@ -1705,163 +1864,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>U.S. Deputy Secretary of State Wendy Sherman will travel to Tokyo and Seattle October 24-27. This will be her fourth trip to the Indo-Pacific region since May and demonstrates the United States’ continued commitment to the region and our allies Japan and the Republic of Korea (ROK).</p>
 <p>In Tokyo, Deputy Secretary Sherman will hold meetings with senior Japanese officials, including Minister of Foreign Affairs Hayashi Yoshimasa, Director General of the National Security Secretariat Akiba Takeo, Vice Foreign Minister Mori Takeo, and Vice Minister of Defense Suzuki Atsuo. She will also participate in a trilateral meeting with Japanese Vice Foreign Minister Mori Takeo and ROK First Vice Foreign Minister Cho Hyundong, and she will hold a separate bilateral meeting with ROK First Vice Foreign Minister Cho Hyundong. While in Tokyo, Deputy Secretary Sherman will discuss women’s empowerment with a group of Japanese and ROK university students. She will also participate in a discussion on marriage equality with Japanese LGBTQI+ community leaders.</p>
 <p>In Seattle, the Deputy Secretary will highlight sources of U.S. foreign policy strength at home. She will meet with Washington Governor Jay Inslee and Seattle Mayor Bruce Harrell and visit the Seattle Passport Agency. The Deputy Secretary will also host a roundtable with members of Seattle’s Asian American, Native Hawaiian, and Pacific Islander communities to share perspectives on U.S. foreign policy. The Deputy Secretary and Assistant Secretary for Political-Military Affairs Jessica Lewis will meet with Boeing executives to discuss U.S. competitiveness and the challenges presented by defense production capacity issues. The Deputy Secretary and Ambassador at Large for Cyberspace and Digital Policy Nate Fick will visit the T-Mobile Tech Experience 5G Hub and meet with executives to discuss U.S. technology policy and expanding opportunities for U.S. telecommunications companies. At the University of Washington, Deputy Secretary Sherman and Ambassador Fick will speak with students about the critical role that technology and workforce development play in addressing the foreign policy challenges of the 21st century.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Under Secretary of State for Civilian Security, Democracy, and Human Rights and U.S. Special Coordinator for Tibetan Issues Uzra Zeya Travels to New York City</title>
-		<link>https://www.state.gov/under-secretary-of-state-for-civilian-security-democracy-and-human-rights-and-u-s-special-coordinator-for-tibetan-issues-uzra-zeya-travels-to-new-york-city/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Thu, 20 Oct 2022 00:08:45 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=389281</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Under Secretary of State for Civilian Security, Democracy, and Human Rights and U.S. Special Coordinator for Tibetan Issues Uzra Zeya will travel to New York City October 20-21, 2022. During her trip, Under Secretary Zeya will speak at a U.S. Department of State recruitment event at the City College of New York (CCNY) Colin Powell School for Civic and Global Leadership, an Asian American and Native American Pacific Islander-Serving Institution (AANAPISI) and Hispanic-Serving Institution. Additionally, Under Secretary Zeya will speak at the Tibet Fund’s 12th Annual Gala, an annual event honoring outstanding individuals for their contributions to the preservation of Tibetan culture and identity.</p>
-<p>For further information, please contact J-PD@state.gov.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Under Secretary of State for Civilian Security, Democracy, and Human Rights and U.S. Special Coordinator for Tibetan Issues Uzra Zeya will travel to New York City October 20-21, 2022. During her trip, Under Secretary Zeya will speak at a U.S. Department of State recruitment event at the City College of New York (CCNY) Colin Powell School for Civic and Global Leadership, an Asian American and Native American Pacific Islander-Serving Institution (AANAPISI) and Hispanic-Serving Institution. Additionally, Under Secretary Zeya will speak at the Tibet Fund’s 12th Annual Gala, an annual event honoring outstanding individuals for their contributions to the preservation of Tibetan culture and identity.</p>
-<p>For further information, please contact J-PD@state.gov.</p>
 ]]></content:encoded>
 					
 		
