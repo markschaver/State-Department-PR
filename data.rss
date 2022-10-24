@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Sun, 23 Oct 2022 16:08:58 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Oct 2022 01:25:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,324 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Joint Statement on Ukraine</title>
+		<link>https://www.state.gov/joint-statement-on-ukraine-2/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 01:25:24 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=390125</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The text of the following statement was released by the Governments of the United States of America, France, and the United Kingdom.</p>
+<p>We, the Foreign Ministers of France, the United Kingdom, and the United States, reiterate our steadfast support for Ukraine’s sovereignty and territorial integrity in the face of Russia’s ongoing aggression. We remain committed to continue supporting Ukraine’s efforts to defend its territory for as long as it takes.</p>
+<p>Earlier today, the defense ministers of each of our countries spoke to Russian Defense Minister Sergei Shoygu at his request. Our countries made clear that we all reject Russia’s transparently false allegations that Ukraine is preparing to use a dirty bomb on its own territory. The world would see through any attempt to use this allegation as a pretext for escalation. We further reject any pretext for escalation by Russia.</p>
+<p>The Foreign Ministers also discussed their shared determination to continue supporting Ukraine and the Ukrainian people with security, economic, and humanitarian assistance in the face of President Putin&#8217;s brutal war of aggression.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The text of the following statement was released by the Governments of the United States of America, France, and the United Kingdom.</p>
+<p>We, the Foreign Ministers of France, the United Kingdom, and the United States, reiterate our steadfast support for Ukraine’s sovereignty and territorial integrity in the face of Russia’s ongoing aggression. We remain committed to continue supporting Ukraine’s efforts to defend its territory for as long as it takes.</p>
+<p>Earlier today, the defense ministers of each of our countries spoke to Russian Defense Minister Sergei Shoygu at his request. Our countries made clear that we all reject Russia’s transparently false allegations that Ukraine is preparing to use a dirty bomb on its own territory. The world would see through any attempt to use this allegation as a pretext for escalation. We further reject any pretext for escalation by Russia.</p>
+<p>The Foreign Ministers also discussed their shared determination to continue supporting Ukraine and the Ukrainian people with security, economic, and humanitarian assistance in the face of President Putin&#8217;s brutal war of aggression.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Secretary Blinken’s Call with Ukrainian Foreign Minister Kuleba</title>
+		<link>https://www.state.gov/secretary-blinkens-call-with-ukrainian-foreign-minister-kuleba-32/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 01:12:59 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=390117</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>The following is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Ukrainian Foreign Minister Dmytro Kuleba to reaffirm the United States’ steadfast support for Ukraine’s sovereignty, independence, and territorial integrity.  Secretary Blinken expressed to Foreign Minister Kuleba that the United States rejects Russian Defense Minister Shoygu’s transparently false allegations that Ukraine is preparing to use a dirty bomb on its own territory and that the world would see through any attempt by Russia to use this allegation as a pretext for escalation.  They also discussed the U.S. and international commitment to continue supporting Ukraine with unprecedented security, economic and humanitarian assistance for as long as it takes, as we hold Russia accountable. They further noted our ongoing efforts to manage the broader implications of President Putin’s war.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>The following is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Ukrainian Foreign Minister Dmytro Kuleba to reaffirm the United States’ steadfast support for Ukraine’s sovereignty, independence, and territorial integrity.  Secretary Blinken expressed to Foreign Minister Kuleba that the United States rejects Russian Defense Minister Shoygu’s transparently false allegations that Ukraine is preparing to use a dirty bomb on its own territory and that the world would see through any attempt by Russia to use this allegation as a pretext for escalation.  They also discussed the U.S. and international commitment to continue supporting Ukraine with unprecedented security, economic and humanitarian assistance for as long as it takes, as we hold Russia accountable. They further noted our ongoing efforts to manage the broader implications of President Putin’s war.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Blinken’s Call with South African Minister of International Relations and Cooperation Pandor</title>
 		<link>https://www.state.gov/secretary-blinkens-call-with-south-african-minister-of-international-relations-and-cooperation-pandor-2/</link>
 		
@@ -1464,378 +1782,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>TechWomen increases opportunities for women in tech by pairing emerging leaders with American mentors at technology companies. The emerging leaders work with their mentors to develop action plans that they then implement upon returning to their home country. Since it began in 2011, the program has grown beyond its original focus on the Middle East and North Africa to also include Sub-Saharan Africa, South and Central Asia, and now the Balkans. In the decade since 2011, TechWomen has hosted nearly 1,000 women from 21 countries.</p>
 <p>For more information, please contact the Bureau of Educational and Cultural Affairs at ECA-Press@state.gov.</p>
 <p><input type="hidden" data-filter="111001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Global Emerging Leaders in International Cyberspace Security (GEL-ICS) Fellowship</title>
-		<link>https://www.state.gov/global-emerging-leaders-in-international-cyberspace-security-gel-ics-fellowship-2/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 21 Oct 2022 14:32:28 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=389800</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The U.S. Department of State is proud to announce the launch of the Global Emerging Leaders in International Cyberspace Security (GEL-ICS) Fellowship, in partnership with the Meridian International Center.  The fellowship will support the development of a diverse global network of future cyber policy leaders who share the U.S. and other likeminded partners’ vision for cyberspace.  It is designed to equip emerging leaders from the governments of these foreign partners with the knowledge and global connections to be effective advocates of the non-binding framework of responsible state behavior in cyberspace, which has been affirmed by the UN General Assembly.</p>
-<p>The first cohort of 20-25 government officials will engage in a year-long program on international cyberspace policy in 2023.  Fellows will visit Washington, D.C., New York City, and San Francisco to engage with U.S. and international leaders from government, industry, and civil society.  They will also participate in a series of thematic webinars to support continuing education and foster networking among the fellows and stakeholders.  Additionally, fellows will reconvene on the margins of the 2023 Internet Governance Forum hosted in Japan to mark the end of the program.  With each year, fellowship alumni will form a growing, global network of proponents for a stable and secure cyberspace for future generations.</p>
-<p>The Department selects candidates in coordination with officers at U.S. missions who identify emerging leaders in ministries of foreign affairs or other relevant agencies who have the potential to exert enduring diplomatic influence on international cyberspace issues.</p>
-<p>For further information, please visit the fellowship <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjEuNjU0NzAyNDEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvZ2xvYmFsLWVtZXJnaW5nLWxlYWRlcnMtaW4taW50ZXJuYXRpb25hbC1jeWJlcnNwYWNlLXNlY3VyaXR5LWdlbC1pY3MtZmVsbG93c2hpcC8ifQ.5ZGuJaQdanmrztr4EolEswYG2vw4OazGNiQbW-4I-aQ/s/2576317770/br/146339319060-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjEuNjU0NzAyNDEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvZ2xvYmFsLWVtZXJnaW5nLWxlYWRlcnMtaW4taW50ZXJuYXRpb25hbC1jeWJlcnNwYWNlLXNlY3VyaXR5LWdlbC1pY3MtZmVsbG93c2hpcC8ifQ.5ZGuJaQdanmrztr4EolEswYG2vw4OazGNiQbW-4I-aQ%2Fs%2F2576317770%2Fbr%2F146339319060-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7C86464f88866a4c4b78dc08dab3690fde%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638019561063848353%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=ySFM86rX%2FOLg01tDH2bbQInDIaaSystlhcEz5OABp4o%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">webpage</a>, e-mail <a href="mailto:CDP-Press@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="1">CDP-Press@state.gov￼</a> and follow us on Twitter at <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjEuNjU0NzAyNDEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3N0YXRlY2RwIn0.7YAszioqa2YMFBwBo-D4ixNmqXiXHHPu9tIEzeuDBe4/s/2576317770/br/146339319060-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjEuNjU0NzAyNDEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3N0YXRlY2RwIn0.7YAszioqa2YMFBwBo-D4ixNmqXiXHHPu9tIEzeuDBe4%2Fs%2F2576317770%2Fbr%2F146339319060-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7C86464f88866a4c4b78dc08dab3690fde%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638019561063848353%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=4gLdgc8K1S0LwIB5%2B3Ycv7k9mjHUKqAo7vGdksFN2AQ%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="2">@StateCDP</a>.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The U.S. Department of State is proud to announce the launch of the Global Emerging Leaders in International Cyberspace Security (GEL-ICS) Fellowship, in partnership with the Meridian International Center.  The fellowship will support the development of a diverse global network of future cyber policy leaders who share the U.S. and other likeminded partners’ vision for cyberspace.  It is designed to equip emerging leaders from the governments of these foreign partners with the knowledge and global connections to be effective advocates of the non-binding framework of responsible state behavior in cyberspace, which has been affirmed by the UN General Assembly.</p>
-<p>The first cohort of 20-25 government officials will engage in a year-long program on international cyberspace policy in 2023.  Fellows will visit Washington, D.C., New York City, and San Francisco to engage with U.S. and international leaders from government, industry, and civil society.  They will also participate in a series of thematic webinars to support continuing education and foster networking among the fellows and stakeholders.  Additionally, fellows will reconvene on the margins of the 2023 Internet Governance Forum hosted in Japan to mark the end of the program.  With each year, fellowship alumni will form a growing, global network of proponents for a stable and secure cyberspace for future generations.</p>
-<p>The Department selects candidates in coordination with officers at U.S. missions who identify emerging leaders in ministries of foreign affairs or other relevant agencies who have the potential to exert enduring diplomatic influence on international cyberspace issues.</p>
-<p>For further information, please visit the fellowship <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjEuNjU0NzAyNDEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvZ2xvYmFsLWVtZXJnaW5nLWxlYWRlcnMtaW4taW50ZXJuYXRpb25hbC1jeWJlcnNwYWNlLXNlY3VyaXR5LWdlbC1pY3MtZmVsbG93c2hpcC8ifQ.5ZGuJaQdanmrztr4EolEswYG2vw4OazGNiQbW-4I-aQ/s/2576317770/br/146339319060-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjEuNjU0NzAyNDEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvZ2xvYmFsLWVtZXJnaW5nLWxlYWRlcnMtaW4taW50ZXJuYXRpb25hbC1jeWJlcnNwYWNlLXNlY3VyaXR5LWdlbC1pY3MtZmVsbG93c2hpcC8ifQ.5ZGuJaQdanmrztr4EolEswYG2vw4OazGNiQbW-4I-aQ%2Fs%2F2576317770%2Fbr%2F146339319060-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7C86464f88866a4c4b78dc08dab3690fde%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638019561063848353%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=ySFM86rX%2FOLg01tDH2bbQInDIaaSystlhcEz5OABp4o%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">webpage</a>, e-mail <a href="mailto:CDP-Press@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="1">CDP-Press@state.gov￼</a> and follow us on Twitter at <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjEuNjU0NzAyNDEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3N0YXRlY2RwIn0.7YAszioqa2YMFBwBo-D4ixNmqXiXHHPu9tIEzeuDBe4/s/2576317770/br/146339319060-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjEuNjU0NzAyNDEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3N0YXRlY2RwIn0.7YAszioqa2YMFBwBo-D4ixNmqXiXHHPu9tIEzeuDBe4%2Fs%2F2576317770%2Fbr%2F146339319060-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7C86464f88866a4c4b78dc08dab3690fde%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638019561063848353%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=4gLdgc8K1S0LwIB5%2B3Ycv7k9mjHUKqAo7vGdksFN2AQ%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="2">@StateCDP</a>.</p>
-<p><input type="hidden" data-filter="111000000111" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Joint Statement of the United States of America and Switzerland on Cooperation in Quantum Information Science and Technology</title>
-		<link>https://www.state.gov/joint-statement-of-the-united-states-of-america-and-switzerland-on-cooperation-in-quantum-information-science-and-technology/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 21 Oct 2022 14:22:12 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=389804</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The text of the following statement was released by the Governments of the United States of America and Switzerland on the occasion of an October 19 meeting at the Embassy of Switzerland in Washington, D.C.</p>
-<p><em>Begin Text:</em></p>
-<ul>
-<li>Recognizing that science, technology, and innovation have enabled transformative capabilities across multiple sectors, from energy to health and communications to transportation, and that the foundation of this progress is the global research enterprise, and its constant creation of new knowledge, understanding, and insights;</li>
-<li>Appreciating that quantum information science and technology (QIST) revolutionizes both our understanding of fundamental phenomena as well as the development of powerful computers, secure and rapid communication, and sensors with unprecedented precision, accuracy, and modalities;</li>
-<li>Understanding that the emergence of such robust technologies depends on an intensive effort to expand theoretical and practical understandings of QIST and to develop new tools for characterization, validation, and verification purposes; and</li>
-<li>Acknowledging that international partnerships are key to combine the expertise, ingenuity, creativity and further insights from the innovation ecosystems of our countries to expand our fundamental understanding of QIST and thereby accelerate the realization of innovative technologies for the benefit of humanity,</li>
-</ul>
-<p>The Participants intend to harness the spirit of science, technology, and innovation to pursue cooperation and the mutual respect it confers, and to promote QIST including but not limited to research on quantum computing, quantum networking, and quantum sensing, which underpins the development of society and the economy.  The Participants intend to advance this agenda by:</p>
-<ul>
-<li>Embarking on good-faith cooperation that is underpinned by our shared principles including openness, transparency, honesty, equity, fair competition, freedom of inquiry, and democratic values, and further promoting protection and enforcement of intellectual property and of rigor and integrity in research.</li>
-<li>Committing to create inclusive scientific research communities and tackle cross-cutting issues of common interest such as equity, diversity, inclusion, and accessibility, so that every person is able to fully participate and have an equal opportunity to succeed.</li>
-<li>Utilizing bilateral science and technology cooperation mechanisms and multilateral cooperation frameworks, and pursuing new implementing pathways, as appropriate, to promote cooperative QIST research and development efforts.</li>
-<li>Promoting avenues to encourage a broad and inclusive quantum ecosystem and research environment, to facilitate multidisciplinary research, and the sharing of, on voluntary, mutually agreed terms, research methodologies, infrastructure and data in line with respective national laws.</li>
-<li>Enabling opportunities to build a trusted market and supply chain for QIST research and development, and supporting economic growth, by engaging stakeholders including industry consortia, research leaders, policy makers, and business security stakeholders to grow the future QIST marketplace based on shared engagement principles.</li>
-<li>Supporting the education and development of the next generation of scientists and engineers necessary to expand the field, which could include opportunities for personnel exchanges.</li>
-<li>Leveraging regular multilateral opportunities to discuss QIST matters of international importance and respective policy issues.</li>
-<li>Creating potential economic and social value for both countries through innovative collaborations, based on scientific excellence and mutual interests.</li>
-<li>Exploring other potential activities to be decided upon by participating countries.</li>
-</ul>
-<p>We confirm our mutual understanding that cooperation informed and enabled by this Statement is pursuant to the Agreement between the Government of the United States of America and the Swiss Federal Council for Scientific and Technological Cooperation signed in Washington on April 1, 2009, and that the terms of the S&amp;T Agreement and related agreements govern this cooperation.  The Participants understand that initiatives under this Statement can be developed and carried out by the various autonomous bodies and institutions in the United States of America and Switzerland that aim at reaching the purpose of this Statement.</p>
-<p>The Participants intend to focus on cooperation in QIST as outlined here to advance their shared vision of a vibrant and trusted quantum ecosystem.</p>
-<p><em>End text.</em></p>
-<p>The Joint Statement leverages both countries’ strengths in QIST and QIST-enabling fields to pursue innovative research, grow the future marketplace, build a strong supply chain, and grow the future generation of skills and talent.</p>
-<p>Monica P. Medina, Assistant Secretary of State for the Bureau of Oceans and International Environmental and Scientific Affairs, signed the joint statement for the United States.</p>
-<p>Martina Hirayama, State Secretary for State Secretary for Education, Research and Innovation, signed the joint statement for Switzerland.</p>
-<p>For more information, please see the Quantum.gov <a href="https://www.quantum.gov/the-united-states-and-switzerland-sign-joint-statement-to-strengthen-collaboration-on-quantum/" target="_blank" rel="noopener">press release</a>.</p>
-<p><input type="hidden" data-filter="111001000000" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The text of the following statement was released by the Governments of the United States of America and Switzerland on the occasion of an October 19 meeting at the Embassy of Switzerland in Washington, D.C.</p>
-<p><em>Begin Text:</em></p>
-<ul>
-<li>Recognizing that science, technology, and innovation have enabled transformative capabilities across multiple sectors, from energy to health and communications to transportation, and that the foundation of this progress is the global research enterprise, and its constant creation of new knowledge, understanding, and insights;</li>
-<li>Appreciating that quantum information science and technology (QIST) revolutionizes both our understanding of fundamental phenomena as well as the development of powerful computers, secure and rapid communication, and sensors with unprecedented precision, accuracy, and modalities;</li>
-<li>Understanding that the emergence of such robust technologies depends on an intensive effort to expand theoretical and practical understandings of QIST and to develop new tools for characterization, validation, and verification purposes; and</li>
-<li>Acknowledging that international partnerships are key to combine the expertise, ingenuity, creativity and further insights from the innovation ecosystems of our countries to expand our fundamental understanding of QIST and thereby accelerate the realization of innovative technologies for the benefit of humanity,</li>
-</ul>
-<p>The Participants intend to harness the spirit of science, technology, and innovation to pursue cooperation and the mutual respect it confers, and to promote QIST including but not limited to research on quantum computing, quantum networking, and quantum sensing, which underpins the development of society and the economy.  The Participants intend to advance this agenda by:</p>
-<ul>
-<li>Embarking on good-faith cooperation that is underpinned by our shared principles including openness, transparency, honesty, equity, fair competition, freedom of inquiry, and democratic values, and further promoting protection and enforcement of intellectual property and of rigor and integrity in research.</li>
-<li>Committing to create inclusive scientific research communities and tackle cross-cutting issues of common interest such as equity, diversity, inclusion, and accessibility, so that every person is able to fully participate and have an equal opportunity to succeed.</li>
-<li>Utilizing bilateral science and technology cooperation mechanisms and multilateral cooperation frameworks, and pursuing new implementing pathways, as appropriate, to promote cooperative QIST research and development efforts.</li>
-<li>Promoting avenues to encourage a broad and inclusive quantum ecosystem and research environment, to facilitate multidisciplinary research, and the sharing of, on voluntary, mutually agreed terms, research methodologies, infrastructure and data in line with respective national laws.</li>
-<li>Enabling opportunities to build a trusted market and supply chain for QIST research and development, and supporting economic growth, by engaging stakeholders including industry consortia, research leaders, policy makers, and business security stakeholders to grow the future QIST marketplace based on shared engagement principles.</li>
-<li>Supporting the education and development of the next generation of scientists and engineers necessary to expand the field, which could include opportunities for personnel exchanges.</li>
-<li>Leveraging regular multilateral opportunities to discuss QIST matters of international importance and respective policy issues.</li>
-<li>Creating potential economic and social value for both countries through innovative collaborations, based on scientific excellence and mutual interests.</li>
-<li>Exploring other potential activities to be decided upon by participating countries.</li>
-</ul>
-<p>We confirm our mutual understanding that cooperation informed and enabled by this Statement is pursuant to the Agreement between the Government of the United States of America and the Swiss Federal Council for Scientific and Technological Cooperation signed in Washington on April 1, 2009, and that the terms of the S&amp;T Agreement and related agreements govern this cooperation.  The Participants understand that initiatives under this Statement can be developed and carried out by the various autonomous bodies and institutions in the United States of America and Switzerland that aim at reaching the purpose of this Statement.</p>
-<p>The Participants intend to focus on cooperation in QIST as outlined here to advance their shared vision of a vibrant and trusted quantum ecosystem.</p>
-<p><em>End text.</em></p>
-<p>The Joint Statement leverages both countries’ strengths in QIST and QIST-enabling fields to pursue innovative research, grow the future marketplace, build a strong supply chain, and grow the future generation of skills and talent.</p>
-<p>Monica P. Medina, Assistant Secretary of State for the Bureau of Oceans and International Environmental and Scientific Affairs, signed the joint statement for the United States.</p>
-<p>Martina Hirayama, State Secretary for State Secretary for Education, Research and Innovation, signed the joint statement for Switzerland.</p>
-<p>For more information, please see the Quantum.gov <a href="https://www.quantum.gov/the-united-states-and-switzerland-sign-joint-statement-to-strengthen-collaboration-on-quantum/" target="_blank" rel="noopener">press release</a>.</p>
-<p><input type="hidden" data-filter="111001000000" /></p>
 ]]></content:encoded>
 					
 		
