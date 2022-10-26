@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 26 Oct 2022 12:30:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Oct 2022 13:11:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,10 +28,334 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>On Intersex Awareness Day</title>
+		<link>https://www.state.gov/on-intersex-awareness-day/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 13:03:33 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=390977</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>On October 26, we commemorate Intersex Awareness Day and honor the many contributions intersex voices have made in the global struggle for inclusion, equality, and dignity for all.  The Department of State is committed to promoting and protecting the human rights of all individuals, including intersex persons, who often face discrimination, harmful medical practices, violence, and social stigma solely based on their sex characteristics.</p>
+<p>The Department has made it a priority to include intersex voices and perspectives in U.S. diplomacy and foreign assistance.  This spring, the Department established a historic precedent, offering the X gender marker on U.S. passport application forms, which paves the way for intersex, nonbinary, and gender non-conforming persons to mark unspecified or other gender.  And today, we are announcing that Kimberly Zieselman, a respected intersex expert and advocate, has joined the office of the U.S. Special Envoy to Advance the Human Rights of LGBTQI+ Persons.</p>
+<p>As Secretary Blinken told heads of government and foreign ministers at the United Nations LGBTI Core Group last month, “intersex people, including minors, continue to be subjected to unnecessary surgeries without their consent,” underscoring the important responsibility of governments to ensure LGBTQI+ persons across the globe are able to enjoy the same rights and protections as all other persons.  In the President’s 2021 Memorandum on Advancing the Human Rights of LGBTQI+ Persons Around the World, he stated that it is the policy of the United States to pursue an end to violence and discrimination on the bases of sexual orientation, gender identity or expression, and sex characteristics.  The United States stands in solidarity with intersex persons, honoring the advocacy of activists, organizations, and governments, and remains steadfast in its commitment to promoting and protecting the dignity and human rights of intersex persons around the world.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>On October 26, we commemorate Intersex Awareness Day and honor the many contributions intersex voices have made in the global struggle for inclusion, equality, and dignity for all.  The Department of State is committed to promoting and protecting the human rights of all individuals, including intersex persons, who often face discrimination, harmful medical practices, violence, and social stigma solely based on their sex characteristics.</p>
+<p>The Department has made it a priority to include intersex voices and perspectives in U.S. diplomacy and foreign assistance.  This spring, the Department established a historic precedent, offering the X gender marker on U.S. passport application forms, which paves the way for intersex, nonbinary, and gender non-conforming persons to mark unspecified or other gender.  And today, we are announcing that Kimberly Zieselman, a respected intersex expert and advocate, has joined the office of the U.S. Special Envoy to Advance the Human Rights of LGBTQI+ Persons.</p>
+<p>As Secretary Blinken told heads of government and foreign ministers at the United Nations LGBTI Core Group last month, “intersex people, including minors, continue to be subjected to unnecessary surgeries without their consent,” underscoring the important responsibility of governments to ensure LGBTQI+ persons across the globe are able to enjoy the same rights and protections as all other persons.  In the President’s 2021 Memorandum on Advancing the Human Rights of LGBTQI+ Persons Around the World, he stated that it is the policy of the United States to pursue an end to violence and discrimination on the bases of sexual orientation, gender identity or expression, and sex characteristics.  The United States stands in solidarity with intersex persons, honoring the advocacy of activists, organizations, and governments, and remains steadfast in its commitment to promoting and protecting the dignity and human rights of intersex persons around the world.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Jimmy Lai’s Fraud Case Verdict</title>
+		<link>https://www.state.gov/jimmy-lais-fraud-case-verdict/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 12:48:55 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=390972</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>The United States condemns the October 25 verdict against Hong Kong democracy advocate Jimmy Lai, founder of the Apple Daily newspaper, on spurious fraud charges.</p>
+<p>We remain deeply concerned about the deterioration in protection for human rights and fundamental freedoms and the systematic dismantling of Hong Kong’s autonomy under the National Security Law (NSL).  These include increased efforts to wield the NSL to suppress independent media, to silence dissenting views, and to stifle freedom of speech.</p>
+<p>Though Lai’s fraud trial was not on NSL grounds, local authorities nonetheless imposed the NSL’s more restrictive legal procedures for this non-NSL case.  These actions undermine the PRC’s obligations under the Sino-British Joint Declaration, which is a binding international agreement, to uphold Hong Kong’s high degree of autonomy and protected rights and freedoms.</p>
+<p>We urge PRC authorities to restore respect for press freedom in Hong Kong, where a once-vibrant independent media environment has all but disappeared.  Efforts to stifle press freedom and restrict the free flow of information undermine Hong Kong’s democratic institutions and hurt Hong Kong’s credibility as a business and financial hub.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>The United States condemns the October 25 verdict against Hong Kong democracy advocate Jimmy Lai, founder of the Apple Daily newspaper, on spurious fraud charges.</p>
+<p>We remain deeply concerned about the deterioration in protection for human rights and fundamental freedoms and the systematic dismantling of Hong Kong’s autonomy under the National Security Law (NSL).  These include increased efforts to wield the NSL to suppress independent media, to silence dissenting views, and to stifle freedom of speech.</p>
+<p>Though Lai’s fraud trial was not on NSL grounds, local authorities nonetheless imposed the NSL’s more restrictive legal procedures for this non-NSL case.  These actions undermine the PRC’s obligations under the Sino-British Joint Declaration, which is a binding international agreement, to uphold Hong Kong’s high degree of autonomy and protected rights and freedoms.</p>
+<p>We urge PRC authorities to restore respect for press freedom in Hong Kong, where a once-vibrant independent media environment has all but disappeared.  Efforts to stifle press freedom and restrict the free flow of information undermine Hong Kong’s democratic institutions and hurt Hong Kong’s credibility as a business and financial hub.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Blinken’s Travel to Ottawa and Montreal, Canada</title>
 		<link>https://www.state.gov/secretary-blinkens-travel-to-ottawa-and-montreal-canada/</link>
 		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
 		<pubDate>Wed, 26 Oct 2022 12:30:00 +0000</pubDate>
 				<category><![CDATA[]]></category>
 		<guid isPermaLink="false">https://www.state.gov/?page_id=390968</guid>
@@ -104,7 +428,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		});
 		});
 		</script>
-		<p>Office of the Spokesperson</p>
+		<p>Ned Price, Department Spokesperson</p>
 <p>Secretary of State Antony J. Blinken will travel to Ottawa and Montreal, Canada on October 27 and 28.  This visit will strengthen our vital partnership with Canada to address shared goals, including providing continued support for Ukraine, addressing the humanitarian crisis in Haiti, deepening our cooperation in the Indo-Pacific and Arctic regions, and advancing cooperation on migration and refugee resettlement in the Americas and across the world.  In Ottawa, Secretary Blinken will meet with Prime Minister Justin Trudeau and Foreign Minister Mélanie Joly.  Joined by Deputy Prime Minister Freeland and Foreign Minister Joly, he will also visit a community center that supports Ukrainian refugees.  In Montreal, Secretary Blinken will join Foreign Minister Joly in promoting North American competitiveness and deepening economic and supply chain cooperation, including by visiting a lithium recycling facility in Quebec.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></description>
@@ -176,7 +500,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		});
 		});
 		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
 <p>Secretary of State Antony J. Blinken will travel to Ottawa and Montreal, Canada on October 27 and 28.  This visit will strengthen our vital partnership with Canada to address shared goals, including providing continued support for Ukraine, addressing the humanitarian crisis in Haiti, deepening our cooperation in the Indo-Pacific and Arctic regions, and advancing cooperation on migration and refugee resettlement in the Americas and across the world.  In Ottawa, Secretary Blinken will meet with Prime Minister Justin Trudeau and Foreign Minister Mélanie Joly.  Joined by Deputy Prime Minister Freeland and Foreign Minister Joly, he will also visit a community center that supports Ukrainian refugees.  In Montreal, Secretary Blinken will join Foreign Minister Joly in promoting North American competitiveness and deepening economic and supply chain cooperation, including by visiting a lithium recycling facility in Quebec.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
@@ -1818,352 +2142,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>The following is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken met today with UN Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator Martin Griffiths.  Secretary Blinken and Under-Secretary-General Griffiths spoke about ongoing efforts to address record-high global humanitarian needs driven by a variety of issues, including conflict, climate change, and the pandemic.  The Secretary noted the urgent humanitarian needs in Ukraine stemming from Russia’s illegal war, including the need to renew the Black Sea Grain Initiative.  Secretary Blinken and Under-Secretary-General Griffiths also discussed crises in Afghanistan and Ethiopia, as well as the vital need to prevent deadly famine in Somalia.  Secretary Blinken highlighted U.S. leadership and commitment to providing humanitarian assistance globally.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>State Department Meets with U.S. Diamond Industry to Discuss Sanctions</title>
-		<link>https://www.state.gov/state-department-meets-with-u-s-diamond-industry-to-discuss-sanctions/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Tue, 25 Oct 2022 21:01:22 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=390787</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The State Department’s Head of the Office of Sanctions Coordination, Ambassador James O’Brien, led an interagency discussion October 24 with the U.S. offices of leading diamond retailers, manufacturers, and laboratories.  The meeting focused on the importance of the diamond industry’s robust implementation of Russia-focused sanctions and broader due diligence standards, including as applicable to Russian-backed actors around the globe.  The United States remains committed to imposing economic consequences on Russia for its unprovoked war in Ukraine and destabilizing activities across Africa.</p>
-<p>For further information, visit <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjUuNjU2NjMxODEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvaG9sZGluZy1ydXNzaWEtYW5kLWJlbGFydXMtdG8tYWNjb3VudC8ifQ.CSPWigJUaCwFtX48ZF2TJAscszkqNDj4KHSKuM938s4/s/2576317770/br/146715568605-l. Click or tap if you trust this link." href="https://www.state.gov/holding-russia-and-belarus-to-account/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">https://www.state.gov/holding-russia-and-belarus-to-account/</a>.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The State Department’s Head of the Office of Sanctions Coordination, Ambassador James O’Brien, led an interagency discussion October 24 with the U.S. offices of leading diamond retailers, manufacturers, and laboratories.  The meeting focused on the importance of the diamond industry’s robust implementation of Russia-focused sanctions and broader due diligence standards, including as applicable to Russian-backed actors around the globe.  The United States remains committed to imposing economic consequences on Russia for its unprovoked war in Ukraine and destabilizing activities across Africa.</p>
-<p>For further information, visit <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjUuNjU2NjMxODEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvaG9sZGluZy1ydXNzaWEtYW5kLWJlbGFydXMtdG8tYWNjb3VudC8ifQ.CSPWigJUaCwFtX48ZF2TJAscszkqNDj4KHSKuM938s4/s/2576317770/br/146715568605-l. Click or tap if you trust this link." href="https://www.state.gov/holding-russia-and-belarus-to-account/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">https://www.state.gov/holding-russia-and-belarus-to-account/</a>.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken and Israeli President Isaac Herzog Before Their Meeting</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-and-israeli-president-isaac-herzog-before-their-meeting-2/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Tue, 25 Oct 2022 20:53:15 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=390786</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, DC</p>
-<p><strong>PRESIDENT HERZOG:</strong>  So first of all, thank you, Mr. Secretary.  We hosted you in Israel and we hosted President Biden in Israel, and I want to be – I want to be very – I want to express my gratitude to the administration, to the President, to you, for reciprocating so beautifully.  And with a visit of mine and the invitation to bring me here, we have so much to discuss.</p>
-<p>The relationship between Israel and United States are strong as ever, and I want to thank the administration for its unique support.  And President Biden, who I hope to see tomorrow, is a great friend of Israel, and I will express my gratitude to him.</p>
-<p>I want to thank your administration and yourself and your team for pursuing the border deal, the maritime border deal between Israel and Lebanon.  I want to thank you for your support of Israel in the international foras.</p>
-<p>We will be discussing, you and I as well as my discussions with the administration, the challenges that Iran poses to us and to humanity at large.  Our hearts go out to the people of Iran.  The women of Iran are oppressed and attacked day in, day out, and I will be exposing more of the fact that Iran – that the Iranian weapons are used against civilians, innocent civilians in Ukraine.</p>
-<p>We will discuss the integration of Israel in the region, your support of the implementation of the Abraham Accords, as well as the potential openings for Israel in the region in so many facets, and finally, of course, various challenges that we both face in the international arena regarding the legitimization of Israel and many other things.</p>
-<p>So thank you very much for your friendship, and on behalf of the people of Israel I say to you <i>shalom ve-toda</i>.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, thank you, Mr. President, so much.  It’s wonderful to have you here.  I deeply appreciated your hospitality when I visited with the President, in particular appreciated the hospitality when we needed it, and we wanted to return it, although I think I’m actually your guest today here.  But it’s wonderful to be with you, and your visit is quite simply a powerful symbol of the enduring partnership between Israel and the United States, a partnership that, as you know and as you just said, President Biden has been committed to since his very first days in public service and in elected office.</p>
-<p><strong>PRESIDENT HERZOG:</strong>  True.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  We have done very good and very important work together over the last – for the last couple of years, including the work that you just alluded to.  The truly historic agreement between Lebanon and Israel on the maritime demarcation is something that offers the prospect of profound economic benefits to Israel and to Lebanon alike in terms of the resources that lie under the ocean, but also as a way of making peace and stability an enduring feature of the relationship, not conflict.</p>
-<p>The work that we’ve been doing to try to deepen and expand the Abraham Accords, the normalization of Israel’s relationship with its neighbors and with countries even beyond its immediate neighborhood, is important and powerful, and we’re committed to doing that.  I had the great experience of taking part in the Negev summit not so long ago.  We’ll continue in those efforts.</p>
-<p>And of course, as you said, we are standing together against the dangerous, destabilizing, and terrorizing actions that Iran is taking in the region and, as you’ve noted, well beyond the region.  The provision of drones by Iran to Russia to enable its further aggression against Ukraine and the Ukrainian people is showing horrific results on the ground in Ukraine, and it’s something that we are determined to stand against even as we also work against the other actions that Iran is taking closer to home.</p>
-<p>And of course, we have other matters to talk about, including the real concern that we have about the violence that we’re seeing on the West Bank, and we’re urging everyone to take the necessary steps to try to de-escalate that violence and to avoid actions or statements that may incite it.</p>
-<p>So there’s a lot – lots to be discussed, but mostly we’re delighted to have you here, and I know the President is looking forward to seeing you tomorrow.  Welcome.</p>
-<p><strong>PRESIDENT HERZOG:</strong>  Thank you very much.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.  Thanks, everyone.</p>
-<p><input type="hidden" data-filter="100001000101" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, DC</p>
-<p><strong>PRESIDENT HERZOG:</strong>  So first of all, thank you, Mr. Secretary.  We hosted you in Israel and we hosted President Biden in Israel, and I want to be – I want to be very – I want to express my gratitude to the administration, to the President, to you, for reciprocating so beautifully.  And with a visit of mine and the invitation to bring me here, we have so much to discuss.</p>
-<p>The relationship between Israel and United States are strong as ever, and I want to thank the administration for its unique support.  And President Biden, who I hope to see tomorrow, is a great friend of Israel, and I will express my gratitude to him.</p>
-<p>I want to thank your administration and yourself and your team for pursuing the border deal, the maritime border deal between Israel and Lebanon.  I want to thank you for your support of Israel in the international foras.</p>
-<p>We will be discussing, you and I as well as my discussions with the administration, the challenges that Iran poses to us and to humanity at large.  Our hearts go out to the people of Iran.  The women of Iran are oppressed and attacked day in, day out, and I will be exposing more of the fact that Iran – that the Iranian weapons are used against civilians, innocent civilians in Ukraine.</p>
-<p>We will discuss the integration of Israel in the region, your support of the implementation of the Abraham Accords, as well as the potential openings for Israel in the region in so many facets, and finally, of course, various challenges that we both face in the international arena regarding the legitimization of Israel and many other things.</p>
-<p>So thank you very much for your friendship, and on behalf of the people of Israel I say to you <i>shalom ve-toda</i>.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, thank you, Mr. President, so much.  It’s wonderful to have you here.  I deeply appreciated your hospitality when I visited with the President, in particular appreciated the hospitality when we needed it, and we wanted to return it, although I think I’m actually your guest today here.  But it’s wonderful to be with you, and your visit is quite simply a powerful symbol of the enduring partnership between Israel and the United States, a partnership that, as you know and as you just said, President Biden has been committed to since his very first days in public service and in elected office.</p>
-<p><strong>PRESIDENT HERZOG:</strong>  True.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  We have done very good and very important work together over the last – for the last couple of years, including the work that you just alluded to.  The truly historic agreement between Lebanon and Israel on the maritime demarcation is something that offers the prospect of profound economic benefits to Israel and to Lebanon alike in terms of the resources that lie under the ocean, but also as a way of making peace and stability an enduring feature of the relationship, not conflict.</p>
-<p>The work that we’ve been doing to try to deepen and expand the Abraham Accords, the normalization of Israel’s relationship with its neighbors and with countries even beyond its immediate neighborhood, is important and powerful, and we’re committed to doing that.  I had the great experience of taking part in the Negev summit not so long ago.  We’ll continue in those efforts.</p>
-<p>And of course, as you said, we are standing together against the dangerous, destabilizing, and terrorizing actions that Iran is taking in the region and, as you’ve noted, well beyond the region.  The provision of drones by Iran to Russia to enable its further aggression against Ukraine and the Ukrainian people is showing horrific results on the ground in Ukraine, and it’s something that we are determined to stand against even as we also work against the other actions that Iran is taking closer to home.</p>
-<p>And of course, we have other matters to talk about, including the real concern that we have about the violence that we’re seeing on the West Bank, and we’re urging everyone to take the necessary steps to try to de-escalate that violence and to avoid actions or statements that may incite it.</p>
-<p>So there’s a lot – lots to be discussed, but mostly we’re delighted to have you here, and I know the President is looking forward to seeing you tomorrow.  Welcome.</p>
-<p><strong>PRESIDENT HERZOG:</strong>  Thank you very much.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.  Thanks, everyone.</p>
-<p><input type="hidden" data-filter="100001000101" /></p>
 ]]></content:encoded>
 					
 		
