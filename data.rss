@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 26 Oct 2022 20:31:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Oct 2022 20:57:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>United States and Japan Announce Partnership with Ghana</title>
+		<link>https://www.state.gov/united-states-and-japan-announce-partnership-with-ghana/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 20:57:10 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=391259</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>At the International Atomic Energy Agency Nuclear Power Ministerial Conference in Washington, DC, Under Secretary of State for Arms Control and International Security Bonnie Jenkins, Assistant Secretary for Nuclear Energy Kathryn Huff, Ghana’s Deputy Minister of Energy Hon. William Owuraku Aidoo, and Japan’s State Minister of Economy, Trade and Industry Ota Fusae today announced a strategic collaboration to support the deployment of small modular reactor (SMR) technology in Ghana, considering the current state of technology neutrality of Ghana’s nuclear power program. The collaboration to support the deployment of SMRs in Ghana is subject to Ghana’s nuclear regulation and U.S. export controls.  In line with IAEA Milestones Approach for building a nuclear power program, the three countries committed to upholding the highest standards of nuclear safety, security, and nonproliferation.</p>
+<p>The announcement follows the October 6-7 visit to Ghana of Deputy Secretary of Energy Turk and an interagency team, including the State Department, for consultations on enhancing cooperation on civil nuclear energy with the Government of Ghana and its agencies including Nuclear Power Ghana and the Ghana Atomic Energy Commission.  The countries in the trilateral cooperation recognize that the final decision on which technology to deploy in Ghana rest with the Government of Ghana.</p>
+<p>Through these joint efforts, Ghana has the opportunity not only to demonstrate leadership in advancing energy security and climate action globally, but also establish itself as a regional center of excellence in Africa for the deployment of innovative nuclear technologies.</p>
+<p>As an initial step, to support the deployment of SMRs and establish Ghana as a regional SMR hub, the Government of Japan is supporting an SMR feasibility study to be carried out by Japanese and U.S. industry &#8212; IHI Corp., JGC Corp., Regnum Technology Group, and NuScale Power &#8212; in collaboration with Government of Ghana through its agencies &#8212; Nuclear Power Ghana, Nuclear Regulatory Authority, and the Nuclear Power Institute of the Ghana Atomic Energy Commission.  The study carries out a survey for the potential deployment of a NuScale VOYGR<sup>TM</sup> SMR nuclear power plant, including existing infrastructure assessments, as well as evaluate supply chain opportunities in the Ghanaian market.</p>
+<p>The United States is supporting a targeted Ghana SMR Workforce Development Initiative under the Foundational Infrastructure for the Responsible Use of SMR Technology capacity building program. Through trilateral efforts on workforce and supply chain development, Ghana will be well positioned to provide SMR project support in Ghana as well as the broader African region.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>At the International Atomic Energy Agency Nuclear Power Ministerial Conference in Washington, DC, Under Secretary of State for Arms Control and International Security Bonnie Jenkins, Assistant Secretary for Nuclear Energy Kathryn Huff, Ghana’s Deputy Minister of Energy Hon. William Owuraku Aidoo, and Japan’s State Minister of Economy, Trade and Industry Ota Fusae today announced a strategic collaboration to support the deployment of small modular reactor (SMR) technology in Ghana, considering the current state of technology neutrality of Ghana’s nuclear power program. The collaboration to support the deployment of SMRs in Ghana is subject to Ghana’s nuclear regulation and U.S. export controls.  In line with IAEA Milestones Approach for building a nuclear power program, the three countries committed to upholding the highest standards of nuclear safety, security, and nonproliferation.</p>
+<p>The announcement follows the October 6-7 visit to Ghana of Deputy Secretary of Energy Turk and an interagency team, including the State Department, for consultations on enhancing cooperation on civil nuclear energy with the Government of Ghana and its agencies including Nuclear Power Ghana and the Ghana Atomic Energy Commission.  The countries in the trilateral cooperation recognize that the final decision on which technology to deploy in Ghana rest with the Government of Ghana.</p>
+<p>Through these joint efforts, Ghana has the opportunity not only to demonstrate leadership in advancing energy security and climate action globally, but also establish itself as a regional center of excellence in Africa for the deployment of innovative nuclear technologies.</p>
+<p>As an initial step, to support the deployment of SMRs and establish Ghana as a regional SMR hub, the Government of Japan is supporting an SMR feasibility study to be carried out by Japanese and U.S. industry &#8212; IHI Corp., JGC Corp., Regnum Technology Group, and NuScale Power &#8212; in collaboration with Government of Ghana through its agencies &#8212; Nuclear Power Ghana, Nuclear Regulatory Authority, and the Nuclear Power Institute of the Ghana Atomic Energy Commission.  The study carries out a survey for the potential deployment of a NuScale VOYGR<sup>TM</sup> SMR nuclear power plant, including existing infrastructure assessments, as well as evaluate supply chain opportunities in the Ghanaian market.</p>
+<p>The United States is supporting a targeted Ghana SMR Workforce Development Initiative under the Foundational Infrastructure for the Responsible Use of SMR Technology capacity building program. Through trilateral efforts on workforce and supply chain development, Ghana will be well positioned to provide SMR project support in Ghana as well as the broader African region.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>United States and Japan Announce Partnership with Ghana to Support its Goal of Being the Mover in Africa for Small Modular Reactor Deployment</title>
 		<link>https://www.state.gov/united-states-and-japan-announce-partnership-with-ghana-to-support-its-goal-of-being-the-mover-in-africa-for-small-modular-reactor-deployment/</link>
 		
@@ -1498,163 +1661,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>We remain deeply concerned about the deterioration in protection for human rights and fundamental freedoms and the systematic dismantling of Hong Kong’s autonomy under the National Security Law (NSL).  These include increased efforts to wield the NSL to suppress independent media, to silence dissenting views, and to stifle freedom of speech.</p>
 <p>Though Lai’s fraud trial was not on NSL grounds, local authorities nonetheless imposed the NSL’s more restrictive legal procedures for this non-NSL case.  These actions undermine the PRC’s obligations under the Sino-British Joint Declaration, which is a binding international agreement, to uphold Hong Kong’s high degree of autonomy and protected rights and freedoms.</p>
 <p>We urge PRC authorities to restore respect for press freedom in Hong Kong, where a once-vibrant independent media environment has all but disappeared.  Efforts to stifle press freedom and restrict the free flow of information undermine Hong Kong’s democratic institutions and hurt Hong Kong’s credibility as a business and financial hub.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Blinken’s Travel to Ottawa and Montreal, Canada</title>
-		<link>https://www.state.gov/secretary-blinkens-travel-to-ottawa-and-montreal-canada/</link>
-		
-		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
-		<pubDate>Wed, 26 Oct 2022 12:30:00 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=390968</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Ned Price, Department Spokesperson</p>
-<p>Secretary of State Antony J. Blinken will travel to Ottawa and Montreal, Canada on October 27 and 28.  This visit will strengthen our vital partnership with Canada to address shared goals, including providing continued support for Ukraine, addressing the humanitarian crisis in Haiti, deepening our cooperation in the Indo-Pacific and Arctic regions, and advancing cooperation on migration and refugee resettlement in the Americas and across the world.  In Ottawa, Secretary Blinken will meet with Prime Minister Justin Trudeau and Foreign Minister Mélanie Joly.  Joined by Deputy Prime Minister Freeland and Foreign Minister Joly, he will also visit a community center that supports Ukrainian refugees.  In Montreal, Secretary Blinken will join Foreign Minister Joly in promoting North American competitiveness and deepening economic and supply chain cooperation, including by visiting a lithium recycling facility in Quebec.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
-<p>Secretary of State Antony J. Blinken will travel to Ottawa and Montreal, Canada on October 27 and 28.  This visit will strengthen our vital partnership with Canada to address shared goals, including providing continued support for Ukraine, addressing the humanitarian crisis in Haiti, deepening our cooperation in the Indo-Pacific and Arctic regions, and advancing cooperation on migration and refugee resettlement in the Americas and across the world.  In Ottawa, Secretary Blinken will meet with Prime Minister Justin Trudeau and Foreign Minister Mélanie Joly.  Joined by Deputy Prime Minister Freeland and Foreign Minister Joly, he will also visit a community center that supports Ukrainian refugees.  In Montreal, Secretary Blinken will join Foreign Minister Joly in promoting North American competitiveness and deepening economic and supply chain cooperation, including by visiting a lithium recycling facility in Quebec.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
