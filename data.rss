@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 26 Oct 2022 15:15:51 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Oct 2022 16:31:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Under Secretary Zeya’s Travel to the Dominican Republic</title>
+		<link>https://www.state.gov/under-secretary-zeyas-travel-to-the-dominican-republic/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Wed, 26 Oct 2022 16:31:17 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=391052</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>Under Secretary for Civilian Security, Democracy, and Human Rights Uzra Zeya will travel to Santo Domingo, Dominican Republic, from October 26-28, 2022.  Her trip underscores the United States’ strategic commitment to fighting corruption and advancing human rights as foundational components of U.S. foreign policy, including enforcing labor rights and resolving statelessness.</p>
+<p>While in Santo Domingo, Under Secretary Zeya will lead the U.S. delegation to the Third High-Level Dialogue on Institutional Reform.  Additionally, the Under Secretary will meet with President Luis Abinader to discuss issues of mutual concern between the United States and the Dominican Republic.  In her additional meetings with government officials, U.S. exchange program alumni, and journalists, Under Secretary Zeya will reinforce the U.S. commitment to respecting human rights, fighting corruption, ensuring labor rights, combating trafficking in persons, addressing statelessness, promoting climate adaptation and resilience, and assisting the people of Haiti.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>Under Secretary for Civilian Security, Democracy, and Human Rights Uzra Zeya will travel to Santo Domingo, Dominican Republic, from October 26-28, 2022.  Her trip underscores the United States’ strategic commitment to fighting corruption and advancing human rights as foundational components of U.S. foreign policy, including enforcing labor rights and resolving statelessness.</p>
+<p>While in Santo Domingo, Under Secretary Zeya will lead the U.S. delegation to the Third High-Level Dialogue on Institutional Reform.  Additionally, the Under Secretary will meet with President Luis Abinader to discuss issues of mutual concern between the United States and the Dominican Republic.  In her additional meetings with government officials, U.S. exchange program alumni, and journalists, Under Secretary Zeya will reinforce the U.S. commitment to respecting human rights, fighting corruption, ensuring labor rights, combating trafficking in persons, addressing statelessness, promoting climate adaptation and resilience, and assisting the people of Haiti.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Designation of Iranian Officials and Entities Connected to Ongoing Protest Repression, Censorship, and Prison Abuses</title>
 		<link>https://www.state.gov/designation-of-iranian-officials-and-entities-connected-to-ongoing-protest-repression-censorship-and-prison-abuses/</link>
 		
@@ -1475,165 +1634,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>The following is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken spoke today with NATO Secretary General Jens Stoltenberg.  The Secretary called for continued Allied unity and support for Ukraine in the face of ongoing Russian aggression, atrocities, and false rhetoric surrounding a so-called “dirty bomb” in Ukraine.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>On the Start of Northern Ethiopia Peace Talks</title>
-		<link>https://www.state.gov/on-the-start-of-northern-ethiopia-peace-talks/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Tue, 25 Oct 2022 23:19:24 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=390819</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States welcomes the start of African Union (AU)-led peace negotiations between the government of Ethiopia and Tigrayan regional authorities in South Africa today.  We urge the delegations to engage seriously in these talks to reach a lasting resolution to this conflict.  As a first priority, it is essential to achieve an immediate cessation of hostilities.  We also call on the delegations to agree on unhindered delivery of humanitarian assistance to all those in need, measures to protect civilians, and Eritrea’s withdrawal from northern Ethiopia.</p>
-<p>We commend South Africa for hosting the talks and support AU High Representative Obasanjo, former South African Deputy President Mlambo-Ngcuka, and former Kenyan President Kenyatta as mediators.  I have spoken with Kenyan President Ruto, South African Minister of International Relations and Cooperation Pandor, and Ethiopian Prime Minister Abiy to convey the urgency of ending this conflict now.  I will continue to consult with the AU on forging a political resolution to this destabilizing conflict.</p>
-<p>There is no military solution to this conflict, and these talks represent the most promising way to achieve lasting peace and prosperity for all Ethiopians.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States welcomes the start of African Union (AU)-led peace negotiations between the government of Ethiopia and Tigrayan regional authorities in South Africa today.  We urge the delegations to engage seriously in these talks to reach a lasting resolution to this conflict.  As a first priority, it is essential to achieve an immediate cessation of hostilities.  We also call on the delegations to agree on unhindered delivery of humanitarian assistance to all those in need, measures to protect civilians, and Eritrea’s withdrawal from northern Ethiopia.</p>
-<p>We commend South Africa for hosting the talks and support AU High Representative Obasanjo, former South African Deputy President Mlambo-Ngcuka, and former Kenyan President Kenyatta as mediators.  I have spoken with Kenyan President Ruto, South African Minister of International Relations and Cooperation Pandor, and Ethiopian Prime Minister Abiy to convey the urgency of ending this conflict now.  I will continue to consult with the AU on forging a political resolution to this destabilizing conflict.</p>
-<p>There is no military solution to this conflict, and these talks represent the most promising way to achieve lasting peace and prosperity for all Ethiopians.</p>
 ]]></content:encoded>
 					
 		
