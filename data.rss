@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 27 Oct 2022 16:55:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Oct 2022 17:26:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>International Religious Freedom Day</title>
+		<link>https://www.state.gov/international-religious-freedom-day-2/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 17:26:42 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=391599</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>The United States joins the international community in marking the 24th occasion of International Religious Freedom Day.  Freedom of religion or belief is a founding principle of our nation, enshrined in our Constitution.  Americans cherish the right to worship, or not worship, as they see fit.  The International Religious Freedom Act of 1998 further codified this fundamental right in U.S. law.  Each year on October 27, we renew our focus on a human right that must never be taken for granted.  We commit to redoubling our efforts to see that everyone everywhere can enjoy this human right as we do.</p>
+<p>The U.S. government partners with civil society and governments in advocacy for religious freedom.  These vital partners include the members of the International Religious Freedom or Belief Alliance, now numbering 42 countries – all committed to confronting violations of religious freedom around the world.  Many governments and societies continue to target religious communities using unacceptable tools such as blasphemy and apostasy laws, criminalizing forms of speech and expression, and arbitrary abuses by authorities.  Governments are increasingly imposing excessive and onerous regulation of religion and religious life.  Countless faith communities around the world face intense social pressure and discrimination.  Our united efforts can shine a light on the worst offenders and abuses of religious freedom, as we seek justice for victims and accountability for perpetrators of abuses or violations of religious freedom.</p>
+<p>Today and every day, we must all work together to advance the freedom of religion or belief everywhere.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>The United States joins the international community in marking the 24th occasion of International Religious Freedom Day.  Freedom of religion or belief is a founding principle of our nation, enshrined in our Constitution.  Americans cherish the right to worship, or not worship, as they see fit.  The International Religious Freedom Act of 1998 further codified this fundamental right in U.S. law.  Each year on October 27, we renew our focus on a human right that must never be taken for granted.  We commit to redoubling our efforts to see that everyone everywhere can enjoy this human right as we do.</p>
+<p>The U.S. government partners with civil society and governments in advocacy for religious freedom.  These vital partners include the members of the International Religious Freedom or Belief Alliance, now numbering 42 countries – all committed to confronting violations of religious freedom around the world.  Many governments and societies continue to target religious communities using unacceptable tools such as blasphemy and apostasy laws, criminalizing forms of speech and expression, and arbitrary abuses by authorities.  Governments are increasingly imposing excessive and onerous regulation of religion and religious life.  Countless faith communities around the world face intense social pressure and discrimination.  Our united efforts can shine a light on the worst offenders and abuses of religious freedom, as we seek justice for victims and accountability for perpetrators of abuses or violations of religious freedom.</p>
+<p>Today and every day, we must all work together to advance the freedom of religion or belief everywhere.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Securing and Safeguarding Arms in Ukraine</title>
 		<link>https://www.state.gov/securing-and-safeguarding-arms-in-ukraine/</link>
 		
@@ -1795,177 +1956,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Through these joint efforts, Ghana has the opportunity not only to demonstrate leadership in advancing energy security and climate action globally, but also establish itself as a regional center of excellence in Africa for the deployment of innovative nuclear technologies.</p>
 <p>As an initial step, to support the deployment of SMRs and establish Ghana as a regional SMR hub, the Government of Japan is supporting an SMR feasibility study to be carried out by Japanese and U.S. industry &#8212; IHI Corp., JGC Corp., Regnum Technology Group, and NuScale Power &#8212; in collaboration with Government of Ghana through its agencies &#8212; Nuclear Power Ghana, Nuclear Regulatory Authority, and the Nuclear Power Institute of the Ghana Atomic Energy Commission.  The study carries out a survey for the potential deployment of a NuScale VOYGR<sup>TM</sup> SMR nuclear power plant, including existing infrastructure assessments, as well as evaluate supply chain opportunities in the Ghanaian market.</p>
 <p>The United States is supporting a targeted Ghana SMR Workforce Development Initiative under the Foundational Infrastructure for the Responsible Use of SMR Technology capacity building program. Through trilateral efforts on workforce and supply chain development, Ghana will be well positioned to provide SMR project support in Ghana as well as the broader African region.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>United States and Japan Announce Partnership with Ghana to Support its Goal of Being the Mover in Africa for Small Modular Reactor Deployment</title>
-		<link>https://www.state.gov/united-states-and-japan-announce-partnership-with-ghana-to-support-its-goal-of-being-the-mover-in-africa-for-small-modular-reactor-deployment/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 26 Oct 2022 20:31:59 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=391252</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>At the International Atomic Energy Agency Nuclear Power Ministerial Conference in Washington, DC, Under Secretary of State for Arms Control and International Security Bonnie Jenkins, Assistant Secretary for Nuclear Energy Kathryn Huff, Ghana’s Deputy Minister of Energy Hon. William Owuraku Aidoo, and Japan’s State Minister of Economy, Trade and Industry Ota Fusae today announced a strategic collaboration to support the deployment of small modular reactor (SMR) technology in Ghana, considering the current state of technology neutrality of Ghana’s nuclear power program. The collaboration to support the deployment of SMRs in Ghana is subject to Ghana’s nuclear regulation and U.S. export controls.  In line with IAEA Milestones Approach for building a nuclear power program, the three countries committed to upholding the highest standards of nuclear safety, security, and nonproliferation.</p>
-<p>The announcement follows the October 6-7 visit to Ghana of Deputy Secretary of Energy Turk and an interagency team, including the State Department, for consultations on enhancing cooperation on civil nuclear energy with the Government of Ghana and its agencies including Nuclear Power Ghana and the Ghana Atomic Energy Commission.  The countries in the trilateral cooperation recognize that the final decision on which technology to deploy in Ghana rest with the Government of Ghana.</p>
-<p>Through these joint efforts, Ghana has the opportunity not only to demonstrate leadership in advancing energy security and climate action globally, but also establish itself as a regional center of excellence in Africa for the deployment of innovative nuclear technologies.</p>
-<p>As an initial step, to support the deployment of SMRs and establish Ghana as a regional SMR hub, the Government of Japan is supporting an SMR feasibility study to be carried out by Japanese and U.S. industry &#8212; IHI Corp., JGC Corp., Regnum Technology Group, and NuScale Power &#8212; in collaboration with Government of Ghana through its agencies &#8212; Nuclear Power Ghana, Nuclear Regulatory Authority, and the Nuclear Power Institute of the Ghana Atomic Energy Commission.  The study carries out a survey for the potential deployment of a NuScale VOYGR<sup>TM</sup> SMR nuclear power plant, including existing infrastructure assessments, as well as evaluate supply chain opportunities in the Ghanaian market.</p>
-<p>The United States is supporting a targeted Ghana SMR Workforce Development Initiative under the Foundational Infrastructure for the Responsible Use of SMR Technology capacity building program. Through trilateral efforts on workforce and supply chain development, Ghana will be well positioned to provide SMR project support in Ghana as well as the broader African region.</p>
-<div id="x_mail_footer">
-<hr />
-</div>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>At the International Atomic Energy Agency Nuclear Power Ministerial Conference in Washington, DC, Under Secretary of State for Arms Control and International Security Bonnie Jenkins, Assistant Secretary for Nuclear Energy Kathryn Huff, Ghana’s Deputy Minister of Energy Hon. William Owuraku Aidoo, and Japan’s State Minister of Economy, Trade and Industry Ota Fusae today announced a strategic collaboration to support the deployment of small modular reactor (SMR) technology in Ghana, considering the current state of technology neutrality of Ghana’s nuclear power program. The collaboration to support the deployment of SMRs in Ghana is subject to Ghana’s nuclear regulation and U.S. export controls.  In line with IAEA Milestones Approach for building a nuclear power program, the three countries committed to upholding the highest standards of nuclear safety, security, and nonproliferation.</p>
-<p>The announcement follows the October 6-7 visit to Ghana of Deputy Secretary of Energy Turk and an interagency team, including the State Department, for consultations on enhancing cooperation on civil nuclear energy with the Government of Ghana and its agencies including Nuclear Power Ghana and the Ghana Atomic Energy Commission.  The countries in the trilateral cooperation recognize that the final decision on which technology to deploy in Ghana rest with the Government of Ghana.</p>
-<p>Through these joint efforts, Ghana has the opportunity not only to demonstrate leadership in advancing energy security and climate action globally, but also establish itself as a regional center of excellence in Africa for the deployment of innovative nuclear technologies.</p>
-<p>As an initial step, to support the deployment of SMRs and establish Ghana as a regional SMR hub, the Government of Japan is supporting an SMR feasibility study to be carried out by Japanese and U.S. industry &#8212; IHI Corp., JGC Corp., Regnum Technology Group, and NuScale Power &#8212; in collaboration with Government of Ghana through its agencies &#8212; Nuclear Power Ghana, Nuclear Regulatory Authority, and the Nuclear Power Institute of the Ghana Atomic Energy Commission.  The study carries out a survey for the potential deployment of a NuScale VOYGR<sup>TM</sup> SMR nuclear power plant, including existing infrastructure assessments, as well as evaluate supply chain opportunities in the Ghanaian market.</p>
-<p>The United States is supporting a targeted Ghana SMR Workforce Development Initiative under the Foundational Infrastructure for the Responsible Use of SMR Technology capacity building program. Through trilateral efforts on workforce and supply chain development, Ghana will be well positioned to provide SMR project support in Ghana as well as the broader African region.</p>
-<div id="x_mail_footer">
-<hr />
-</div>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
