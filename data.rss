@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 27 Oct 2022 18:07:19 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Oct 2022 18:37:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>APEC Senior Officials’ and Ministerial Meeting Sites During U.S. Host Year in 2023</title>
+		<link>https://www.state.gov/apec-senior-officials-and-ministerial-meeting-sites-during-u-s-host-year-in-2023/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Thu, 27 Oct 2022 18:37:22 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=391658</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The United States is pleased to announce Honolulu, Palm Springs, Detroit, and Seattle as sites for the first clusters of Asia-Pacific Economic Cooperation (APEC) Senior Officials’ and Ministerial meetings during the U.S. host year in 2023.  The site of the November 2023 APEC Economic Leaders’ Meeting will be announced later this year.  This will be the first time the United States has hosted APEC since 2011.</p>
+<p>Spanning both sides of the Pacific, the 21 APEC member economies account for approximately 47 percent of global trade, and the region is the destination for more than 62 percent of U.S. goods exports.  Through engagement in APEC, the United States helps American companies do business and supports economic prosperity for our workers and our people; expands women’s participation in the economy and our broader economic inclusion goals; supports U.S. innovation and the digital economy; and promotes healthy, resilient, and sustainable economies, including by helping the region’s economies recover from the pandemic and supporting action to address the climate crisis.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The United States is pleased to announce Honolulu, Palm Springs, Detroit, and Seattle as sites for the first clusters of Asia-Pacific Economic Cooperation (APEC) Senior Officials’ and Ministerial meetings during the U.S. host year in 2023.  The site of the November 2023 APEC Economic Leaders’ Meeting will be announced later this year.  This will be the first time the United States has hosted APEC since 2011.</p>
+<p>Spanning both sides of the Pacific, the 21 APEC member economies account for approximately 47 percent of global trade, and the region is the destination for more than 62 percent of U.S. goods exports.  Through engagement in APEC, the United States helps American companies do business and supports economic prosperity for our workers and our people; expands women’s participation in the economy and our broader economic inclusion goals; supports U.S. innovation and the digital economy; and promotes healthy, resilient, and sustainable economies, including by helping the region’s economies recover from the pandemic and supporting action to address the climate crisis.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>United States-Bangladesh Labor Working Group Convenes to Further Shared Economic Prosperity</title>
 		<link>https://www.state.gov/united-states-bangladesh-labor-working-group-convenes-to-further-shared-economic-prosperity/</link>
 		
@@ -1707,189 +1866,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>So we’re working on all of those fronts together.</p>
 <p><strong>MS COLLINS:  </strong>Well, Secretary, we appreciate your time so much.  I think you have a hard stop out at 12:15, so we will say thank you so much.  We’re grateful for your insights and for the generosity of your time today.  I did just want to ask everyone in the audience if you could remain seated while the Secretary exits, and then we’ll have lunch provided for any of you who’d like to stay.  Thank you again.</p>
 <p><input type="hidden" data-filter="111001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>U.S. Government Engagement Principles on Protection from Sexual Exploitation Abuse and Sexual Harassment within International Organizations</title>
-		<link>https://www.state.gov/u-s-government-engagement-principles-on-protection-from-sexual-exploitation-abuse-and-sexual-harassment-within-international-organizations/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Wed, 26 Oct 2022 23:19:00 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=391302</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The United States government has established principles for use by all federal agencies engaging with the United Nations and other International Organizations on the prevention and response to incidents of sexual exploitation and abuse and sexual harassment (SEAH).  These principles reflect our commitment to increase U.S. engagement in a clear and consistent manner on SEAH issues, to promote accountability and transparency in response to SEAH incidents, and to ensure U.S. taxpayer resources are used in an effective and transparent manner.</p>
-<p>These principles have six key components:</p>
-<p><strong>Zero Tolerance</strong></p>
-<p>The United States will continue to promote the full implementation of policies of zero tolerance for sexual exploitation and abuse and sexual harassment, including zero tolerance for inaction in response to allegations, across the United Nations and other International Organizations.  This includes support for policies that prioritize prevention and mitigation efforts, monitor the effectiveness of such efforts, ensure safe access to confidential SEAH reporting mechanisms and appropriate survivor support, and embed survivor-centered principles across all actions in response to reported allegations – including investigations.  The United States recognizes that an absence of reporting does not mean incidents are not being perpetrated, nor does it indicate that zero tolerance policies are being fully implemented.</p>
-<p><strong>A Survivor-centered Approach</strong></p>
-<p>The United States expects all allegations or incidents of sexual exploitation and abuse and sexual harassment to be reviewed and addressed, while respecting principles of due process.  In its engagement with the United Nations and other International Organizations, the United States will continue to advocate for the use of survivor-centered principles and standards – an approach that recognizes and empowers survivors as individuals with agency and unique needs, safeguarding their dignity and wellbeing.</p>
-<p><strong>Prevention and Risk Mitigation</strong></p>
-<p>The United States will work with the United Nations and other International Organizations to institutionalize prevention and mitigation measures that go beyond basic awareness-raising, training, capacity-building or dissemination of codes of conduct, and include a commitment to promote adequate funding, dedicated technical staff, and meaningful risk analysis and mitigation.  The United States will hold the United Nations and other International Organizations to the highest standard, including from the onset of a crisis, conflict or emergency, to mitigate against such risk, especially with highly vulnerable populations.</p>
-<p><strong>Accountability and Transparency</strong></p>
-<p>The United States expects the leadership of the United Nations and other International Organizations to take meaningful action to support accountability and transparency through, among others<em>, </em>the following: the conduct of timely and survivor-centered investigations; response efforts driven by the needs, experiences, and resiliencies of those most at risk of SEAH; clear reporting and response systems, including to inform Member States of allegations or incidents; and accountability measures, including termination of employment or involvement of law enforcement, as needed.</p>
-<p><strong>Organizational Culture Change</strong></p>
-<p>The United States will work to advocate for the development by the United Nations and other International Organizations of evidence-based metrics and standards of practice in the implementation of zero tolerance policies, promote holistic approaches, empower women and girls, and reinforce leadership and organizational accountability.  Policies, statements, and training are essential, but alone are insufficient to produce lasting positive change.  Systems-level change requires a shift in organizational culture, behavior, and the underlying processes and mechanisms to deliver assistance and promote internal accountability.</p>
-<p><strong>Empowerment of Local Communities</strong></p>
-<p>The United States will prioritize, in partnership with the leadership of the United Nations and other International Organizations, the critical importance of locally-led efforts, particularly those led by women and girls, who, when meaningfully supported and engaged, can inform the measures that may mitigate risks and promote safer foreign assistance programming.</p>
-<p><input type="hidden" data-filter="111001000000" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The United States government has established principles for use by all federal agencies engaging with the United Nations and other International Organizations on the prevention and response to incidents of sexual exploitation and abuse and sexual harassment (SEAH).  These principles reflect our commitment to increase U.S. engagement in a clear and consistent manner on SEAH issues, to promote accountability and transparency in response to SEAH incidents, and to ensure U.S. taxpayer resources are used in an effective and transparent manner.</p>
-<p>These principles have six key components:</p>
-<p><strong>Zero Tolerance</strong></p>
-<p>The United States will continue to promote the full implementation of policies of zero tolerance for sexual exploitation and abuse and sexual harassment, including zero tolerance for inaction in response to allegations, across the United Nations and other International Organizations.  This includes support for policies that prioritize prevention and mitigation efforts, monitor the effectiveness of such efforts, ensure safe access to confidential SEAH reporting mechanisms and appropriate survivor support, and embed survivor-centered principles across all actions in response to reported allegations – including investigations.  The United States recognizes that an absence of reporting does not mean incidents are not being perpetrated, nor does it indicate that zero tolerance policies are being fully implemented.</p>
-<p><strong>A Survivor-centered Approach</strong></p>
-<p>The United States expects all allegations or incidents of sexual exploitation and abuse and sexual harassment to be reviewed and addressed, while respecting principles of due process.  In its engagement with the United Nations and other International Organizations, the United States will continue to advocate for the use of survivor-centered principles and standards – an approach that recognizes and empowers survivors as individuals with agency and unique needs, safeguarding their dignity and wellbeing.</p>
-<p><strong>Prevention and Risk Mitigation</strong></p>
-<p>The United States will work with the United Nations and other International Organizations to institutionalize prevention and mitigation measures that go beyond basic awareness-raising, training, capacity-building or dissemination of codes of conduct, and include a commitment to promote adequate funding, dedicated technical staff, and meaningful risk analysis and mitigation.  The United States will hold the United Nations and other International Organizations to the highest standard, including from the onset of a crisis, conflict or emergency, to mitigate against such risk, especially with highly vulnerable populations.</p>
-<p><strong>Accountability and Transparency</strong></p>
-<p>The United States expects the leadership of the United Nations and other International Organizations to take meaningful action to support accountability and transparency through, among others<em>, </em>the following: the conduct of timely and survivor-centered investigations; response efforts driven by the needs, experiences, and resiliencies of those most at risk of SEAH; clear reporting and response systems, including to inform Member States of allegations or incidents; and accountability measures, including termination of employment or involvement of law enforcement, as needed.</p>
-<p><strong>Organizational Culture Change</strong></p>
-<p>The United States will work to advocate for the development by the United Nations and other International Organizations of evidence-based metrics and standards of practice in the implementation of zero tolerance policies, promote holistic approaches, empower women and girls, and reinforce leadership and organizational accountability.  Policies, statements, and training are essential, but alone are insufficient to produce lasting positive change.  Systems-level change requires a shift in organizational culture, behavior, and the underlying processes and mechanisms to deliver assistance and promote internal accountability.</p>
-<p><strong>Empowerment of Local Communities</strong></p>
-<p>The United States will prioritize, in partnership with the leadership of the United Nations and other International Organizations, the critical importance of locally-led efforts, particularly those led by women and girls, who, when meaningfully supported and engaged, can inform the measures that may mitigate risks and promote safer foreign assistance programming.</p>
-<p><input type="hidden" data-filter="111001000000" /></p>
 ]]></content:encoded>
 					
 		
