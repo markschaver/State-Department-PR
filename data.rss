@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 28 Oct 2022 17:21:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Oct 2022 19:28:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,13 +28,182 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>$275 Million in Additional U.S. Military Assistance for Ukraine</title>
-		<link>https://www.state.gov/275-million-in-additional-u-s-military-assistance-for-ukraine/</link>
+		<title>Department of State Dedicates New U.S. Embassy in Colombo, Sri Lanka</title>
+		<link>https://www.state.gov/department-of-state-dedicates-new-u-s-embassy-in-colombo-sri-lanka/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2022 19:27:48 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=392122</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p align="left">In an important symbol of our enduring friendship with Sri Lanka, U.S. Ambassador Julie Chung officially dedicated the new U.S. Embassy in Colombo on October 28.</p>
+<p align="left">The new embassy is situated on the existing, expanded embassy site along the seafront in central Colombo and provides a secure, modern, sustainable, and resilient platform for U.S. diplomacy in Sri Lanka. It models the latest in energy-efficient features and is on target to achieve Leadership in Energy and Environmental Design (LEED<sup>®</sup>) Silver certification—a globally recognized mark of achievement in high-performance, best-in-class, green buildings.</p>
+<p align="left">ZGF of Portland, Oregon, was the design architect and Integrus Architecture of Seattle, Washington, was the architect of record for the project. Caddell Construction Company, LLC of Montgomery, Alabama, constructed the complex, injecting roughly $90 million into the local economy.</p>
+<p align="left">Learn more about the project <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjguNjU4NDM2ODEiLCJ1cmwiOiJodHRwczovL29ib3BvcnRmb2xpby5zdGF0ZS5nb3YvY29sb21iby8ifQ.3s3GpPBwPm55WjlBMcu_f-JXwYgzIoXq2ChwIz10Omo/s/2576317770/br/146940619161-l. Click or tap if you trust this link." href="https://oboportfolio.state.gov/colombo/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">here</a>.</p>
+<p align="left">Since the start of the Department’s Capital Security Construction Program in 1999, the Bureau of Overseas Buildings Operations (OBO) has completed 172 new diplomatic facilities. OBO currently has more than 50 active projects in the design phase or under construction worldwide.</p>
+<p align="left">OBO provides safe, secure, functional, and resilient facilities that represent the U.S. government to the host nation and that support U.S. diplomats in advancing U.S. foreign policy objectives abroad.</p>
+<p align="left">For further information, please contact OBO External Affairs at <a href="mailto:OBO-EA@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="1">OBO-EA@state.gov</a> or visit www.state.gov/obo.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p align="left">In an important symbol of our enduring friendship with Sri Lanka, U.S. Ambassador Julie Chung officially dedicated the new U.S. Embassy in Colombo on October 28.</p>
+<p align="left">The new embassy is situated on the existing, expanded embassy site along the seafront in central Colombo and provides a secure, modern, sustainable, and resilient platform for U.S. diplomacy in Sri Lanka. It models the latest in energy-efficient features and is on target to achieve Leadership in Energy and Environmental Design (LEED<sup>®</sup>) Silver certification—a globally recognized mark of achievement in high-performance, best-in-class, green buildings.</p>
+<p align="left">ZGF of Portland, Oregon, was the design architect and Integrus Architecture of Seattle, Washington, was the architect of record for the project. Caddell Construction Company, LLC of Montgomery, Alabama, constructed the complex, injecting roughly $90 million into the local economy.</p>
+<p align="left">Learn more about the project <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjguNjU4NDM2ODEiLCJ1cmwiOiJodHRwczovL29ib3BvcnRmb2xpby5zdGF0ZS5nb3YvY29sb21iby8ifQ.3s3GpPBwPm55WjlBMcu_f-JXwYgzIoXq2ChwIz10Omo/s/2576317770/br/146940619161-l. Click or tap if you trust this link." href="https://oboportfolio.state.gov/colombo/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">here</a>.</p>
+<p align="left">Since the start of the Department’s Capital Security Construction Program in 1999, the Bureau of Overseas Buildings Operations (OBO) has completed 172 new diplomatic facilities. OBO currently has more than 50 active projects in the design phase or under construction worldwide.</p>
+<p align="left">OBO provides safe, secure, functional, and resilient facilities that represent the U.S. government to the host nation and that support U.S. diplomats in advancing U.S. foreign policy objectives abroad.</p>
+<p align="left">For further information, please contact OBO External Affairs at <a href="mailto:OBO-EA@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="1">OBO-EA@state.gov</a> or visit www.state.gov/obo.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Secretary Antony J. Blinken and Canadian Foreign Minister Mélanie Joly at a Tour of Lithion Recycling</title>
+		<link>https://www.state.gov/secretary-antony-j-blinken-and-canadian-foreign-minister-melanie-joly-at-a-tour-of-lithion-recycling/</link>
 		
 		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 28 Oct 2022 17:21:54 +0000</pubDate>
+		<pubDate>Fri, 28 Oct 2022 19:16:57 +0000</pubDate>
 				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=392024</guid>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=392094</guid>
 
 					<description><![CDATA[		<script type="text/javascript">
 document.addEventListener("DOMContentLoaded", function(event) {
@@ -105,9 +274,154 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		});
 		</script>
 		<p>Antony J. Blinken, Secretary of State</p>
+<p>Montreal, Canada</p>
+<p>Lithion Recycling</p>
+<p><strong>FOREIGN MINISTER JOLY:</strong>  <em>Donc </em>– thank you so much to you, Yves, to Christian, Stefon, who invested in your company and, also, I – there were great folks from Rosine to Maxime.  And I was saying to him in French – and I know you understand, but it’s for your English media – that basically he’s – he must be a good boss, because people are proud of working here.</p>
+<p>So, we know that the green transition is creating a lot of opportunities – definitely around the world, but here at home as well.  And so, the demand when it comes to lithium could increase up to 4,000 percent; and so in these circumstances we saw the opportunity as a government and we invested in a Critical Minerals Strategy $4 billion.  And we think Canada can become that hub for critical minerals, competing with other countries, such as China; and we think that we can attract a lot of investments here.  And Lithion is an example of that.  We invested $4 million in the company.</p>
+<p>And so, you guys in the U.S., you’ve ramped up production of semiconductors, investing $52 billion &#8212;</p>
+<p><strong>SECRETARY BLINKEN:</strong>  That’s right.</p>
+<p><strong>FOREIGN MINISTER JOLY:</strong>  &#8212; in that strategy, which is amazing.  But maybe semiconductors or wind turbines or electric vehicles, they all need critical minerals.</p>
+<p><strong>SECRETARY BLINKEN:  </strong>That’s right.</p>
+<p><strong>FOREIGN MINISTER JOLY:  </strong>So that’s why the world needs critical minerals, but the world needs more Canadian critical minerals.  (Laughter.)</p>
+<p><strong>SECRETARY BLINKEN:</strong>  Well, thank you.  Look, this – this is the future, and it’s right here, and it’s remarkable.  We’re moving toward a world where we have our vehicles powered by electric batteries.  We’ve seen remarkable advances in that technology.  We know the powerful impact that’s going to have in having a sustainable environment, dealing with climate change, and also dealing with our energy needs.  But to have a technology, a process that allows you, as this does, to recycle up to 95 percent of batteries and, in effect, reuse virtually all the materials –and remake the lithium and other critical materials that go into batteries – is extraordinary, and it creates this virtuous circle.</p>
+<p>And what we’re seeing here is also a remarkable partnership between the United States and Canada, between the public sector and the private sector, the incredible innovation that you’re seeing in this company helped significantly by the Canadian Government.  One of our leading American companies, General Motors, making critical investments; and then the recycling that’s done here will wind up in batteries that go into vehicles that are put together in the United States.  And as I said, it creates this very virtual circle.  All of this will be further helped by the Inflation Reduction Act and the provisions in that act that create tax credits for electric vehicle batteries that are made in North America, and particularly in this case using these recycled materials.</p>
+<p>So, it’s incredibly powerful, and to see this as a result of the partnership between our countries, between our companies, gives me tremendous confidence and hope for the future.  So, thank you for sharing it with us today.  Thank you.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>Montreal, Canada</p>
+<p>Lithion Recycling</p>
+<p><strong>FOREIGN MINISTER JOLY:</strong>  <em>Donc </em>– thank you so much to you, Yves, to Christian, Stefon, who invested in your company and, also, I – there were great folks from Rosine to Maxime.  And I was saying to him in French – and I know you understand, but it’s for your English media – that basically he’s – he must be a good boss, because people are proud of working here.</p>
+<p>So, we know that the green transition is creating a lot of opportunities – definitely around the world, but here at home as well.  And so, the demand when it comes to lithium could increase up to 4,000 percent; and so in these circumstances we saw the opportunity as a government and we invested in a Critical Minerals Strategy $4 billion.  And we think Canada can become that hub for critical minerals, competing with other countries, such as China; and we think that we can attract a lot of investments here.  And Lithion is an example of that.  We invested $4 million in the company.</p>
+<p>And so, you guys in the U.S., you’ve ramped up production of semiconductors, investing $52 billion &#8212;</p>
+<p><strong>SECRETARY BLINKEN:</strong>  That’s right.</p>
+<p><strong>FOREIGN MINISTER JOLY:</strong>  &#8212; in that strategy, which is amazing.  But maybe semiconductors or wind turbines or electric vehicles, they all need critical minerals.</p>
+<p><strong>SECRETARY BLINKEN:  </strong>That’s right.</p>
+<p><strong>FOREIGN MINISTER JOLY:  </strong>So that’s why the world needs critical minerals, but the world needs more Canadian critical minerals.  (Laughter.)</p>
+<p><strong>SECRETARY BLINKEN:</strong>  Well, thank you.  Look, this – this is the future, and it’s right here, and it’s remarkable.  We’re moving toward a world where we have our vehicles powered by electric batteries.  We’ve seen remarkable advances in that technology.  We know the powerful impact that’s going to have in having a sustainable environment, dealing with climate change, and also dealing with our energy needs.  But to have a technology, a process that allows you, as this does, to recycle up to 95 percent of batteries and, in effect, reuse virtually all the materials –and remake the lithium and other critical materials that go into batteries – is extraordinary, and it creates this virtuous circle.</p>
+<p>And what we’re seeing here is also a remarkable partnership between the United States and Canada, between the public sector and the private sector, the incredible innovation that you’re seeing in this company helped significantly by the Canadian Government.  One of our leading American companies, General Motors, making critical investments; and then the recycling that’s done here will wind up in batteries that go into vehicles that are put together in the United States.  And as I said, it creates this very virtual circle.  All of this will be further helped by the Inflation Reduction Act and the provisions in that act that create tax credits for electric vehicle batteries that are made in North America, and particularly in this case using these recycled materials.</p>
+<p>So, it’s incredibly powerful, and to see this as a result of the partnership between our countries, between our companies, gives me tremendous confidence and hope for the future.  So, thank you for sharing it with us today.  Thank you.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>$275 Million in Additional U.S. Military Assistance for Ukraine</title>
+		<link>https://www.state.gov/275-million-in-additional-u-s-military-assistance-for-ukraine/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2022 17:21:54 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=392024</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
 <p align="left">The United States continues to support Ukraine’s brave defenders with additional military assistance to help them protect their country.</p>
 <p align="left">Pursuant to a delegation of authority from the President, today I am authorizing our twenty-fourth drawdown of U.S. arms and equipment for Ukraine since August 2021. This $275 million drawdown includes additional arms, munitions, and equipment from U.S. Department of Defense inventories. This drawdown will bring the total U.S. military assistance for Ukraine to an unprecedented level of more than $18.5 billion since the beginning of the Administration.</p>
-<p align="left">The United States will continue to stand with more than 50 allies and partners in support of the people of Ukraine as they defend their freedom and independence with extraordinary courage and boundless determination.  We are also working to provide Ukraine with the air defense capabilities it needs with the two initial U.S.-provided NASAMS ready for delivery to Ukraine next month and we are working with Allies and partners to enable delivery of their own air defense systems to Ukraine.  The capabilities we are delivering are carefully calibrated to make the most difference on the battlefield for Ukraine today.</p>
+<p align="left">The United States will continue to stand with more than 50 allies and partners in support of the people of Ukraine as they defend their freedom and independence with extraordinary courage and boundless determination.  We are also working to provide Ukraine with the air defense capabilities it needs with the two initial U.S.-provided NASAMS ready for delivery to Ukraine next month and we are working with Allies and partners to enable delivery of their own air defense systems to Ukraine. The capabilities we are delivering are carefully calibrated to make the most difference on the battlefield for Ukraine today.</p>
 <p align="left">We stand <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjguNjU4MzMyMDEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvdW5pdGVkLXdpdGgtdWtyYWluZS8ifQ.AEVwo0lFm5HgcXTbE924dyvfepzeG17-07_38yPxzaA/s/2576317770/br/146926816557-l. Click or tap if you trust this link." href="https://www.state.gov/united-with-ukraine/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">United with Ukraine</a>.</p>
 <p><input type="hidden" data-filter="100001000100" /></p>
 ]]></description>
@@ -182,7 +496,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
 <p align="left">The United States continues to support Ukraine’s brave defenders with additional military assistance to help them protect their country.</p>
 <p align="left">Pursuant to a delegation of authority from the President, today I am authorizing our twenty-fourth drawdown of U.S. arms and equipment for Ukraine since August 2021. This $275 million drawdown includes additional arms, munitions, and equipment from U.S. Department of Defense inventories. This drawdown will bring the total U.S. military assistance for Ukraine to an unprecedented level of more than $18.5 billion since the beginning of the Administration.</p>
-<p align="left">The United States will continue to stand with more than 50 allies and partners in support of the people of Ukraine as they defend their freedom and independence with extraordinary courage and boundless determination.  We are also working to provide Ukraine with the air defense capabilities it needs with the two initial U.S.-provided NASAMS ready for delivery to Ukraine next month and we are working with Allies and partners to enable delivery of their own air defense systems to Ukraine.  The capabilities we are delivering are carefully calibrated to make the most difference on the battlefield for Ukraine today.</p>
+<p align="left">The United States will continue to stand with more than 50 allies and partners in support of the people of Ukraine as they defend their freedom and independence with extraordinary courage and boundless determination.  We are also working to provide Ukraine with the air defense capabilities it needs with the two initial U.S.-provided NASAMS ready for delivery to Ukraine next month and we are working with Allies and partners to enable delivery of their own air defense systems to Ukraine. The capabilities we are delivering are carefully calibrated to make the most difference on the battlefield for Ukraine today.</p>
 <p align="left">We stand <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjguNjU4MzMyMDEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvdW5pdGVkLXdpdGgtdWtyYWluZS8ifQ.AEVwo0lFm5HgcXTbE924dyvfepzeG17-07_38yPxzaA/s/2576317770/br/146926816557-l. Click or tap if you trust this link." href="https://www.state.gov/united-with-ukraine/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">United with Ukraine</a>.</p>
 <p><input type="hidden" data-filter="100001000100" /></p>
 ]]></content:encoded>
@@ -1397,416 +1711,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>And we’re doing this not only in our own hemisphere, not only in Europe when it comes to Ukraine, but also increasingly in the Indo-Pacific, in the Arctic.  We’re both Indo-Pacific countries, we’re both Arctic countries; we spent some time talking about that because so much of the future in different ways will be written in those places.</p>
 <p>So for us, having this almost permanent day-in, day-out contact as well as the opportunity to have these conversations couldn’t be more important.  And I have to say we could not be more grateful to have a partner in Canada.  Thank you. <b></b></p>
 <p><b>PRIME MINISTER TRUDEAU:  </b>Thank you.  <i>Merci beaucoup</i>.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Formation of Iraqi Government</title>
-		<link>https://www.state.gov/formation-of-iraqi-government/</link>
-		
-		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
-		<pubDate>Thu, 27 Oct 2022 23:02:18 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=391772</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Ned Price, Department Spokesperson</p>
-<p>The United States congratulates Prime Minister Mohammed Shia al-Sudani on forming a new Iraqi government.  We look forward to working with him and his government on the range of our shared interests, from improving services for the Iraqi people to ensuring a safe, stable, and sovereign Iraq as outlined in our Strategic Framework Agreement.</p>
-<p>The Iraqi people deserve economic opportunity, an end to corruption, and improved public services.  The United States welcomes Prime Minister al-Sudani’s commitment to bring weapons under the control of official and legitimate state institutions.  We share the Iraqi government’s interest in preserving stability and security.</p>
-<p>The United States stands ready to work with the Iraqi government and people to confront Iraq’s challenges together, from improving respect for human rights to addressing climate change and improving economic opportunities for a growing population. Iraq has a partner in the United States as it moves forward with reforms.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
-<p>The United States congratulates Prime Minister Mohammed Shia al-Sudani on forming a new Iraqi government.  We look forward to working with him and his government on the range of our shared interests, from improving services for the Iraqi people to ensuring a safe, stable, and sovereign Iraq as outlined in our Strategic Framework Agreement.</p>
-<p>The Iraqi people deserve economic opportunity, an end to corruption, and improved public services.  The United States welcomes Prime Minister al-Sudani’s commitment to bring weapons under the control of official and legitimate state institutions.  We share the Iraqi government’s interest in preserving stability and security.</p>
-<p>The United States stands ready to work with the Iraqi government and people to confront Iraq’s challenges together, from improving respect for human rights to addressing climate change and improving economic opportunities for a growing population. Iraq has a partner in the United States as it moves forward with reforms.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken with Vassy Kapelos of Canadian Broadcasting Corporation (CBC) Power and Politics</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-with-vassy-kapelos-of-canadian-broadcasting-corporation-cbc-power-and-politics/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Thu, 27 Oct 2022 22:48:59 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=391756</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Ottawa, Canada</p>
-<p>U.S. Chief of Mission Residence</p>
-<p><b>QUESTION:</b>  Secretary Blinken, welcome to Canada, and welcome to Power and Politics.</p>
-<p><b>SECRETARY BLINKEN:  </b>Thank you.</p>
-<p><b>QUESTION:  </b>It’s a pleasure to meet you, and thank you for making the time for this.</p>
-<p><b>SECRETARY BLINKEN:</b>  Thanks for having me.</p>
-<p><b>QUESTION:</b>  I want to start off on an area that is – both you and Minister Joly spoke about of primary concern and priority for both our countries, and that is Putin’s aggression in Ukraine, Putin’s war on Ukraine.</p>
-<p><b>SECRETARY BLINKEN:</b>  Yes.</p>
-<p><b>QUESTION:</b>  And first you’re looking ahead to the G20 in a few weeks – does President Biden have any plans to meet with Vladimir Putin there?</p>
-<p><b>SECRETARY BLINKEN:</b>  No, he doesn’t.</p>
-<p><b>QUESTION:</b>  And why is that?</p>
-<p><b>SECRETARY BLINKEN:</b>  What we’ve seen is Russia and President Putin have no interest in any kind of meaningful diplomacy to end the aggression that they have committed against Ukraine; in fact, quite the opposite.  We’ve seen a doubling, a tripling down of that aggression – the mobilization of more Russian forces, the purported annexation of Ukrainian territory, the loose talk about nuclear weapons, and now this horrific campaign against all of the basic infrastructure of Ukraine so that Ukrainians don’t have power, don’t have lights, don’t have heat, as we get into the winter.  So every sign is pointing to a doubling and tripling down, despite the fact that the Ukrainians continue to take territory back from Russia that was seized in the first months of this aggression.</p>
-<p>So if there were a space for meaningful diplomacy, we’d take it.  But we don’t see that.  And in any event, this has to be resolved directly between Russia and Ukraine.  So if Russia actually wants to talk and is serious about it, it should be talking with the Ukrainian Government.</p>
-<p><b>QUESTION:</b>  Does it run counter to all that you’ve said that Russia is even going to be there?</p>
-<p><b>SECRETARY BLINKEN:</b>  We’ve seen around the world that Russia’s actions have created deep opposition and then more.  Just a couple of weeks ago, 143 countries at the United Nations at the General Assembly stood up together to condemn the purported annexations of territory by Russia in Ukraine, 143 countries, so two-thirds of the world.  I think that President Putin is facing this wherever he goes, even from countries that are closer to Russia or have been historically making known their concerns about what Russia is doing.</p>
-<p><b>QUESTION:</b>  True that all – that’s all true.  The reason I ask is simply to get closer to whether or not the position is of your administration that Russia should not be there.  Should they be excluded from the G20?  It’s something the Canadian Government has expressed a desire to see.  Is that a desire you share?</p>
-<p><b>SECRETARY BLINKEN:</b>  Well, it’s hard to see Russia playing a appropriate, positive role in critical institutions, starting with the UN Security Council, when it is right now the number one aggressor against the basic principles that underlie most of these institutions, starting with the UN and including the United Nations Charter.  So I think this is a real – a real problem, a real challenge, and it certainly makes it increasingly hard to do business.  But we’re finding in the G20, at the UN, that other countries continue to work together to try to advance the global good.  Russia, given what it’s doing now, it’s hard to see how it participates effectively in any of that.</p>
-<p><b>QUESTION:</b>  Is there any explicit campaign, though, led by, for example, your administration or your country to exclude them from the G20?</p>
-<p><b>SECRETARY BLINKEN:</b>  Right now what we’re focused on is making sure that we are doing everything we can to support Ukraine and giving it the equipment that it needs to defend itself against the Russian aggression and to take back the land that’s been seized.  To exert pressure on Russia through sanctions, through export controls that are having a real impact on what Russia is able to do going forward, as well as of course, as necessary, to shore up our own defenses in case the Russian aggression moves elsewhere.  That’s what we’re doing through NATO very – in close collaboration with Canada and our other partners.  That’s where our focus is.</p>
-<p><b>QUESTION:</b>  And I understand that focus and I have a few questions about that level of support and the nature of it in just a moment.  I just want to be explicit because I think a lot of people watching have listened to your government and our own government and other Western governments talk about Vladimir Putin and the nature of that aggression.  And I gather from your response that there will be no explicit push to kick them out of the G20.</p>
-<p><b>SECRETARY BLINKEN:</b>  Well, as a practical matter, countries &#8212;</p>
-<p><b>QUESTION:</b>  It’s impossible?</p>
-<p><b>SECRETARY BLINKEN:</b>  Countries have to decide the nature of their relationship with Russia as it pursues this aggression against Ukraine, whether that’s on a bilateral basis or in the context of important international groupings like the G20 or for that matter the Security Council.  Countries need to continue to do the vital work of these organizations and these institutions.  That’s what we’re focused on.</p>
-<p><b>QUESTION:</b>  When you refer to the support that the United States has provided for Ukraine throughout all of this and the pledges for continued support, you’ve characterized it as steadfast.  Can you be sure or can you guarantee that it will remain so if the Democrats lose the House?</p>
-<p><b>SECRETARY BLINKEN:</b>  What we’ve seen to date in the United States is strong bipartisan support for Ukraine.  I’ve been on visits to Ukraine, to surrounding countries, including Poland, with bipartisan delegations from our Congress, from our House, from our Senate.  And what I’ve heard across the board from Republicans and Democrats alike is strong support, determined support, for Ukraine in making sure that it can continue to stand against the Russian aggression.  I don’t see that fundamentally changing.  Now, no one can ever predict the future, but based on what we’ve seen to date I think the support is there, it’s steadfast, and it’s bipartisan.</p>
-<p><b>QUESTION:</b>  If I could respectfully challenge you on that, Secretary, just with the fundamentals of that not changing, I would point to, example, House Minority Leader Kevin McCarthy, poised to potentially take over as speaker if the GOP wins a majority, who said in an interview two weeks ago that Republicans are not going to write a blank check to Ukraine at a time of economic recession.  More than half of all Republicans running for congressional and state offices in the midterm elections deny the legitimacy of your administration by denying the outcome of the last election.  The – your counterpart in Ukraine just yesterday expressed concern over the statements from those individuals and what it could mean for your administration’s support of their country.  Is it fair to say that that support might not be as steadfast as you’re telling your allies it is right now?</p>
-<p><b>SECRETARY BLINKEN:</b>  Well, first, one of the best parts of my job is I don’t do politics.  I certainly don’t do politics at home, and for that matter in other countries.  So all I can look at is the policies we’re pursuing as well as the – what I’m hearing myself from those that we’re working with, starting with members of Congress.  And what I’m hearing at least as of now is ongoing support for Ukraine.  That’s manifesting itself in support that Congress has to provide.  It&#8217;s also in the support that the administration is providing directly.  For example, just this week we did our 24th what we call drawdown of our own defense equipment going to Ukraine, the 24th time we’ve sent to Ukraine the equipment it needs to defend itself.</p>
-<p>But all I can tell you is this:  In my own conversations, what I’m hearing in my consultations with Congress, Republicans and Democrats alike, is the support is strong.</p>
-<p><b>QUESTION:</b>  And I know it’s not – it’s your job not to do politics.  It’s mine to sometimes ask about the risk of it.  Could you admit or would you concede there is a risk?</p>
-<p><b>SECRETARY BLINKEN:</b>  There’s – for all of us, for every country involved in this, one of the questions has been can we effectively sustain the support.  And I think at virtually every step along the road there have been predictions, oh, this – first of all, that the support wouldn’t be there to begin with, that countries won’t take the unprecedented steps that we’ve taken on sanctions, on export controls.  Well, we did.  And then people said, well, that’s not going to be sustained, the support’s going to fade, there’s going to be pressure against it.  Well, it has.  We’re now nine months or so in, and it continues.</p>
-<p>So I’ve heard this pretty much every – as I said, every step along the way.  I’ve seen the support continue and grow, indeed, in many ways even more resolute, because what we’re seeing happening, what the world is seeing happening in Ukraine, is so horrific.  And now with Putin literally trying to take out the entire power system in Ukraine so that people will suffer, that also I think sends a strong message to countries around the world that we need to continue to support the Ukrainians.</p>
-<p><b>QUESTION:</b>  And just quickly before I let you go, converse to that is adversaries to both Canada and the U.S. who are actually – there are signs – actively supporting what Russia is doing.  And more specifically, I’m speaking about Iran.</p>
-<p><b>SECRETARY BLINKEN:</b>  Yeah.</p>
-<p><b>QUESTION:</b>  Given the current context both within Iran and its actions towards Russia, is the JCPOA dead?</p>
-<p><b>SECRETARY BLINKEN:</b>  Right now the world is focused on two things.  The world is focused on the incredibly courageous women of Iran who are out in the streets virtually every day speaking up, speaking out, in incredible danger for their basic rights.  And that’s where our focus is as well.</p>
-<p>At the same time, we also have the Iranians supplying the Russians with drones that are being used to kill innocent people in Ukraine, and the world is increasingly focused on that too.  So we’ve taken steps in both situations; for example, with the protests not only speaking up in support and in solidarity with those who are trying to simply speak out for their own rights, but also trying to make sure that communications technology could get to those people so that they can communicate with themselves and with the rest of the world.  We sanctioned the so-called morality police and others who are responsible for this terrible repression of the Iranian people.  At the same time, we’re going at the drone networks that are producing and trying to move these things to Russia and other actors.  We’ve sanctioned them now for the second time.  We’re looking at ways to disrupt them as well as to harden Ukraine’s defenses.</p>
-<p>As to the JCPOA, we’ve said for some time that there’s no forward movement on that because the Iranians continue to try to inject extraneous, unrelated issues into the conversation.  So as we speak it’s not moving forward.</p>
-<p><b>QUESTION:</b>  But again, with respect, is it dead forever?  And I ask because – not just because of the extraneous things that made it difficult to negotiate in that instance, but what’s happening right now.  I mean, the regime that you would be essentially personally legitimizing by negotiating with is killing people who are protesting against it.  Is that a tenable position for your government?</p>
-<p><b>SECRETARY BLINKEN:</b>  When the original JCPOA was negotiated, Iran was engaged in a variety of profoundly objectionable actions – support for terrorism, destabilizing activities in the Middle East, of course its own abuse of human rights.  And what we said at the time in negotiating the agreement was Iran is taking all of these actions; an Iran with a nuclear weapon is likely to be even worse because it will believe it can act with even greater impunity when it comes to all of the activities it’s engaged in in the region and beyond that we object to.</p>
-<p>So the agreement has always been about itself, taking one problem off the board, putting Iran’s nuclear program in a box.  The agreement did that successfully.  Unfortunately, pulling out of the agreement, Iran then had an excuse to restart the nuclear program and it’s now gotten out of the box that we put it in.  But the very &#8212;</p>
-<p><b>QUESTION:</b>  Can you see, though – sorry, pardon the interruption, can you &#8212;</p>
-<p><b>SECRETARY BLINKEN:</b>  Please.</p>
-<p><b>QUESTION:</b>  I just – I know I’m running out of time.  Can you see how those who are protesting right now would see any positive or any sort of green light towards any kind of negotiation with the regime that is suppressing them as not standing in solidarity with them, as sort of tipping your thumb towards legitimizing the regime?</p>
-<p><b>SECRETARY BLINKEN:</b>  This is not about legitimizing the regime.  It’s about dealing with a very specific problem that this regime poses among, unfortunately, many problems, including this repression of its own people, the provision of weapons to all sorts of destabilizing and bad actors around the world, and an incredibly dangerous nuclear program that actually makes it even more dangerous and more able to act with impunity in repressing its own people and in providing weapons or other things to actors that are going bad things, whether it’s in the Middle East or beyond.</p>
-<p>The bottom line is this when it comes to the JCPOA or anything else:  We’re not going to do anything that we do not believe advances the national security of the United States, first and foremost – that’s my number one responsibility – and make at least a little bit less dangerous a regime that is demonstrating its danger in a multiplicity of places.</p>
-<p><b>QUESTION:</b>  Secretary, I’ll leave it there.  Thank you very much for your time.  I appreciate it.  Pleasure to be with you.</p>
-<p><b>SECRETARY BLINKEN:</b>  Thank you.  Good to be with you.  Thank you.</p>
-<p><input type="hidden" data-filter="100000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Ottawa, Canada</p>
-<p>U.S. Chief of Mission Residence</p>
-<p><b>QUESTION:</b>  Secretary Blinken, welcome to Canada, and welcome to Power and Politics.</p>
-<p><b>SECRETARY BLINKEN:  </b>Thank you.</p>
-<p><b>QUESTION:  </b>It’s a pleasure to meet you, and thank you for making the time for this.</p>
-<p><b>SECRETARY BLINKEN:</b>  Thanks for having me.</p>
-<p><b>QUESTION:</b>  I want to start off on an area that is – both you and Minister Joly spoke about of primary concern and priority for both our countries, and that is Putin’s aggression in Ukraine, Putin’s war on Ukraine.</p>
-<p><b>SECRETARY BLINKEN:</b>  Yes.</p>
-<p><b>QUESTION:</b>  And first you’re looking ahead to the G20 in a few weeks – does President Biden have any plans to meet with Vladimir Putin there?</p>
-<p><b>SECRETARY BLINKEN:</b>  No, he doesn’t.</p>
-<p><b>QUESTION:</b>  And why is that?</p>
-<p><b>SECRETARY BLINKEN:</b>  What we’ve seen is Russia and President Putin have no interest in any kind of meaningful diplomacy to end the aggression that they have committed against Ukraine; in fact, quite the opposite.  We’ve seen a doubling, a tripling down of that aggression – the mobilization of more Russian forces, the purported annexation of Ukrainian territory, the loose talk about nuclear weapons, and now this horrific campaign against all of the basic infrastructure of Ukraine so that Ukrainians don’t have power, don’t have lights, don’t have heat, as we get into the winter.  So every sign is pointing to a doubling and tripling down, despite the fact that the Ukrainians continue to take territory back from Russia that was seized in the first months of this aggression.</p>
-<p>So if there were a space for meaningful diplomacy, we’d take it.  But we don’t see that.  And in any event, this has to be resolved directly between Russia and Ukraine.  So if Russia actually wants to talk and is serious about it, it should be talking with the Ukrainian Government.</p>
-<p><b>QUESTION:</b>  Does it run counter to all that you’ve said that Russia is even going to be there?</p>
-<p><b>SECRETARY BLINKEN:</b>  We’ve seen around the world that Russia’s actions have created deep opposition and then more.  Just a couple of weeks ago, 143 countries at the United Nations at the General Assembly stood up together to condemn the purported annexations of territory by Russia in Ukraine, 143 countries, so two-thirds of the world.  I think that President Putin is facing this wherever he goes, even from countries that are closer to Russia or have been historically making known their concerns about what Russia is doing.</p>
-<p><b>QUESTION:</b>  True that all – that’s all true.  The reason I ask is simply to get closer to whether or not the position is of your administration that Russia should not be there.  Should they be excluded from the G20?  It’s something the Canadian Government has expressed a desire to see.  Is that a desire you share?</p>
-<p><b>SECRETARY BLINKEN:</b>  Well, it’s hard to see Russia playing a appropriate, positive role in critical institutions, starting with the UN Security Council, when it is right now the number one aggressor against the basic principles that underlie most of these institutions, starting with the UN and including the United Nations Charter.  So I think this is a real – a real problem, a real challenge, and it certainly makes it increasingly hard to do business.  But we’re finding in the G20, at the UN, that other countries continue to work together to try to advance the global good.  Russia, given what it’s doing now, it’s hard to see how it participates effectively in any of that.</p>
-<p><b>QUESTION:</b>  Is there any explicit campaign, though, led by, for example, your administration or your country to exclude them from the G20?</p>
-<p><b>SECRETARY BLINKEN:</b>  Right now what we’re focused on is making sure that we are doing everything we can to support Ukraine and giving it the equipment that it needs to defend itself against the Russian aggression and to take back the land that’s been seized.  To exert pressure on Russia through sanctions, through export controls that are having a real impact on what Russia is able to do going forward, as well as of course, as necessary, to shore up our own defenses in case the Russian aggression moves elsewhere.  That’s what we’re doing through NATO very – in close collaboration with Canada and our other partners.  That’s where our focus is.</p>
-<p><b>QUESTION:</b>  And I understand that focus and I have a few questions about that level of support and the nature of it in just a moment.  I just want to be explicit because I think a lot of people watching have listened to your government and our own government and other Western governments talk about Vladimir Putin and the nature of that aggression.  And I gather from your response that there will be no explicit push to kick them out of the G20.</p>
-<p><b>SECRETARY BLINKEN:</b>  Well, as a practical matter, countries &#8212;</p>
-<p><b>QUESTION:</b>  It’s impossible?</p>
-<p><b>SECRETARY BLINKEN:</b>  Countries have to decide the nature of their relationship with Russia as it pursues this aggression against Ukraine, whether that’s on a bilateral basis or in the context of important international groupings like the G20 or for that matter the Security Council.  Countries need to continue to do the vital work of these organizations and these institutions.  That’s what we’re focused on.</p>
-<p><b>QUESTION:</b>  When you refer to the support that the United States has provided for Ukraine throughout all of this and the pledges for continued support, you’ve characterized it as steadfast.  Can you be sure or can you guarantee that it will remain so if the Democrats lose the House?</p>
-<p><b>SECRETARY BLINKEN:</b>  What we’ve seen to date in the United States is strong bipartisan support for Ukraine.  I’ve been on visits to Ukraine, to surrounding countries, including Poland, with bipartisan delegations from our Congress, from our House, from our Senate.  And what I’ve heard across the board from Republicans and Democrats alike is strong support, determined support, for Ukraine in making sure that it can continue to stand against the Russian aggression.  I don’t see that fundamentally changing.  Now, no one can ever predict the future, but based on what we’ve seen to date I think the support is there, it’s steadfast, and it’s bipartisan.</p>
-<p><b>QUESTION:</b>  If I could respectfully challenge you on that, Secretary, just with the fundamentals of that not changing, I would point to, example, House Minority Leader Kevin McCarthy, poised to potentially take over as speaker if the GOP wins a majority, who said in an interview two weeks ago that Republicans are not going to write a blank check to Ukraine at a time of economic recession.  More than half of all Republicans running for congressional and state offices in the midterm elections deny the legitimacy of your administration by denying the outcome of the last election.  The – your counterpart in Ukraine just yesterday expressed concern over the statements from those individuals and what it could mean for your administration’s support of their country.  Is it fair to say that that support might not be as steadfast as you’re telling your allies it is right now?</p>
-<p><b>SECRETARY BLINKEN:</b>  Well, first, one of the best parts of my job is I don’t do politics.  I certainly don’t do politics at home, and for that matter in other countries.  So all I can look at is the policies we’re pursuing as well as the – what I’m hearing myself from those that we’re working with, starting with members of Congress.  And what I’m hearing at least as of now is ongoing support for Ukraine.  That’s manifesting itself in support that Congress has to provide.  It&#8217;s also in the support that the administration is providing directly.  For example, just this week we did our 24th what we call drawdown of our own defense equipment going to Ukraine, the 24th time we’ve sent to Ukraine the equipment it needs to defend itself.</p>
-<p>But all I can tell you is this:  In my own conversations, what I’m hearing in my consultations with Congress, Republicans and Democrats alike, is the support is strong.</p>
-<p><b>QUESTION:</b>  And I know it’s not – it’s your job not to do politics.  It’s mine to sometimes ask about the risk of it.  Could you admit or would you concede there is a risk?</p>
-<p><b>SECRETARY BLINKEN:</b>  There’s – for all of us, for every country involved in this, one of the questions has been can we effectively sustain the support.  And I think at virtually every step along the road there have been predictions, oh, this – first of all, that the support wouldn’t be there to begin with, that countries won’t take the unprecedented steps that we’ve taken on sanctions, on export controls.  Well, we did.  And then people said, well, that’s not going to be sustained, the support’s going to fade, there’s going to be pressure against it.  Well, it has.  We’re now nine months or so in, and it continues.</p>
-<p>So I’ve heard this pretty much every – as I said, every step along the way.  I’ve seen the support continue and grow, indeed, in many ways even more resolute, because what we’re seeing happening, what the world is seeing happening in Ukraine, is so horrific.  And now with Putin literally trying to take out the entire power system in Ukraine so that people will suffer, that also I think sends a strong message to countries around the world that we need to continue to support the Ukrainians.</p>
-<p><b>QUESTION:</b>  And just quickly before I let you go, converse to that is adversaries to both Canada and the U.S. who are actually – there are signs – actively supporting what Russia is doing.  And more specifically, I’m speaking about Iran.</p>
-<p><b>SECRETARY BLINKEN:</b>  Yeah.</p>
-<p><b>QUESTION:</b>  Given the current context both within Iran and its actions towards Russia, is the JCPOA dead?</p>
-<p><b>SECRETARY BLINKEN:</b>  Right now the world is focused on two things.  The world is focused on the incredibly courageous women of Iran who are out in the streets virtually every day speaking up, speaking out, in incredible danger for their basic rights.  And that’s where our focus is as well.</p>
-<p>At the same time, we also have the Iranians supplying the Russians with drones that are being used to kill innocent people in Ukraine, and the world is increasingly focused on that too.  So we’ve taken steps in both situations; for example, with the protests not only speaking up in support and in solidarity with those who are trying to simply speak out for their own rights, but also trying to make sure that communications technology could get to those people so that they can communicate with themselves and with the rest of the world.  We sanctioned the so-called morality police and others who are responsible for this terrible repression of the Iranian people.  At the same time, we’re going at the drone networks that are producing and trying to move these things to Russia and other actors.  We’ve sanctioned them now for the second time.  We’re looking at ways to disrupt them as well as to harden Ukraine’s defenses.</p>
-<p>As to the JCPOA, we’ve said for some time that there’s no forward movement on that because the Iranians continue to try to inject extraneous, unrelated issues into the conversation.  So as we speak it’s not moving forward.</p>
-<p><b>QUESTION:</b>  But again, with respect, is it dead forever?  And I ask because – not just because of the extraneous things that made it difficult to negotiate in that instance, but what’s happening right now.  I mean, the regime that you would be essentially personally legitimizing by negotiating with is killing people who are protesting against it.  Is that a tenable position for your government?</p>
-<p><b>SECRETARY BLINKEN:</b>  When the original JCPOA was negotiated, Iran was engaged in a variety of profoundly objectionable actions – support for terrorism, destabilizing activities in the Middle East, of course its own abuse of human rights.  And what we said at the time in negotiating the agreement was Iran is taking all of these actions; an Iran with a nuclear weapon is likely to be even worse because it will believe it can act with even greater impunity when it comes to all of the activities it’s engaged in in the region and beyond that we object to.</p>
-<p>So the agreement has always been about itself, taking one problem off the board, putting Iran’s nuclear program in a box.  The agreement did that successfully.  Unfortunately, pulling out of the agreement, Iran then had an excuse to restart the nuclear program and it’s now gotten out of the box that we put it in.  But the very &#8212;</p>
-<p><b>QUESTION:</b>  Can you see, though – sorry, pardon the interruption, can you &#8212;</p>
-<p><b>SECRETARY BLINKEN:</b>  Please.</p>
-<p><b>QUESTION:</b>  I just – I know I’m running out of time.  Can you see how those who are protesting right now would see any positive or any sort of green light towards any kind of negotiation with the regime that is suppressing them as not standing in solidarity with them, as sort of tipping your thumb towards legitimizing the regime?</p>
-<p><b>SECRETARY BLINKEN:</b>  This is not about legitimizing the regime.  It’s about dealing with a very specific problem that this regime poses among, unfortunately, many problems, including this repression of its own people, the provision of weapons to all sorts of destabilizing and bad actors around the world, and an incredibly dangerous nuclear program that actually makes it even more dangerous and more able to act with impunity in repressing its own people and in providing weapons or other things to actors that are going bad things, whether it’s in the Middle East or beyond.</p>
-<p>The bottom line is this when it comes to the JCPOA or anything else:  We’re not going to do anything that we do not believe advances the national security of the United States, first and foremost – that’s my number one responsibility – and make at least a little bit less dangerous a regime that is demonstrating its danger in a multiplicity of places.</p>
-<p><b>QUESTION:</b>  Secretary, I’ll leave it there.  Thank you very much for your time.  I appreciate it.  Pleasure to be with you.</p>
-<p><b>SECRETARY BLINKEN:</b>  Thank you.  Good to be with you.  Thank you.</p>
 <p><input type="hidden" data-filter="100000000100" /></p>
 ]]></content:encoded>
 					
