@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Sat, 29 Oct 2022 00:01:23 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 29 Oct 2022 23:03:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,163 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Blinken’s Call with Indian Minister of External Affairs S. Jaishankar</title>
+		<link>https://www.state.gov/secretary-blinkens-call-with-indian-minister-of-external-affairs-s-jaishankar/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Sat, 29 Oct 2022 23:03:14 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=392381</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke with Indian External Affairs Minister Dr. S. Jaishankar today. The two discussed regional and global issues, including counterterrorism cooperation and Russia’s continuing aggression against Ukraine.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke with Indian External Affairs Minister Dr. S. Jaishankar today. The two discussed regional and global issues, including counterterrorism cooperation and Russia’s continuing aggression against Ukraine.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>The Constitutional Court in the Central African Republic</title>
 		<link>https://www.state.gov/the-constitutional-court-in-the-central-african-republic/</link>
 		
@@ -1637,169 +1794,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p><b>QUESTION:  </b>You’ll deploy more alliances and strengthen the – well, we wanted to thank you for being here today.  And your French is perfect.</p>
 <p><b>SECRETARY BLINKEN:</b>  Thank you very much.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Sanctioning the Iranian Entity Responsible for a Bounty on Salman Rushdie</title>
-		<link>https://www.state.gov/sanctioning-the-iranian-entity-responsible-for-a-bounty-on-salman-rushdie/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 28 Oct 2022 14:59:41 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=391968</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p align="left">In response to the attack on author Salman Rushdie, the United States is designating the Iranian entity ‘15 Khordad Foundation.’ Before the attack, this entity had issued and subsequently increased a bounty on Rushdie’s life in support of Ayatollah Ruhollah Khomeini’s order calling for Rushdie’s death.  We are designating it today for providing financial support for an act of terrorism.</p>
-<p align="left">In 1989, following the publication of Rushdie’s novel <i>The Satanic Verses</i>, then-Iranian leader Ayatollah Ruhollah Khomeini issued a fatwa calling for the author’s death, leading to attacks on Rushdie and those associated with him.  The fatwa was reaffirmed by Iran’s current Supreme Leader in 2017 and was republished by Iranian state-controlled media as recently as August 2022.  15 Khordad Foundation issued a bounty on Rushdie in support of Khomeini’s 1989 fatwa, and later, in 2012, increased the bounty.  Several of Rushdie’s translators and business associates involved with the publication of <i>The Satanic Verses</i> in several countries have been killed or severely injured as a result of this incitement, as have dozens of innocent civilians.</p>
-<p align="left">The infamous fatwa was intended to incite terrorism and violence, bring about the death of Rushdie and his associates, and intimidate others.  The United States condemns such incitement and the attack on Rushdie in the strongest terms as a blatant assault on freedom of speech and an act of terrorism.  Today’s action is another clear signal that we will not stand by in the face of it.</p>
-<p align="left">For more information on today’s actions, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjguNjU4MjIxMTEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMDU5In0.IsnXjmlZDCJX-2r521CR2uTEp_EzbE4KIpqIOocNDBI/s/2576317770/br/146921375170-l. Click or tap if you trust this link." href="https://home.treasury.gov/news/press-releases/jy1059" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p align="left">In response to the attack on author Salman Rushdie, the United States is designating the Iranian entity ‘15 Khordad Foundation.’ Before the attack, this entity had issued and subsequently increased a bounty on Rushdie’s life in support of Ayatollah Ruhollah Khomeini’s order calling for Rushdie’s death.  We are designating it today for providing financial support for an act of terrorism.</p>
-<p align="left">In 1989, following the publication of Rushdie’s novel <i>The Satanic Verses</i>, then-Iranian leader Ayatollah Ruhollah Khomeini issued a fatwa calling for the author’s death, leading to attacks on Rushdie and those associated with him.  The fatwa was reaffirmed by Iran’s current Supreme Leader in 2017 and was republished by Iranian state-controlled media as recently as August 2022.  15 Khordad Foundation issued a bounty on Rushdie in support of Khomeini’s 1989 fatwa, and later, in 2012, increased the bounty.  Several of Rushdie’s translators and business associates involved with the publication of <i>The Satanic Verses</i> in several countries have been killed or severely injured as a result of this incitement, as have dozens of innocent civilians.</p>
-<p align="left">The infamous fatwa was intended to incite terrorism and violence, bring about the death of Rushdie and his associates, and intimidate others.  The United States condemns such incitement and the attack on Rushdie in the strongest terms as a blatant assault on freedom of speech and an act of terrorism.  Today’s action is another clear signal that we will not stand by in the face of it.</p>
-<p align="left">For more information on today’s actions, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjguNjU4MjIxMTEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMDU5In0.IsnXjmlZDCJX-2r521CR2uTEp_EzbE4KIpqIOocNDBI/s/2576317770/br/146921375170-l. Click or tap if you trust this link." href="https://home.treasury.gov/news/press-releases/jy1059" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
 ]]></content:encoded>
 					
 		
