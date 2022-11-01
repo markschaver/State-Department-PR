@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Mon, 31 Oct 2022 23:00:55 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Nov 2022 12:31:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,163 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Blinken’s Travel to Germany</title>
+		<link>https://www.state.gov/secretary-blinkens-travel-to-germany-2/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2022 12:31:56 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=392838</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>Secretary of State Antony J. Blinken will travel to Munster, Germany on November 3-4 for the G7 Foreign Ministers’ Meeting and the U.S.-German Futures Forum. The G7 ministers will discuss a range of pressing global challenges, including the G7’s sustained support for a democratic, sovereign, and prosperous Ukraine, strengthened economic and democratic resilience in Africa and the Indo-Pacific, tackling the climate crisis, global health security, and the food and energy crises caused by Russia’s war against Ukraine.  Secretary Blinken will also join German Foreign Minister Annalena Baerbock at the Futures Forum for a moderated discussion on the future of democracy in a digital world.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>Secretary of State Antony J. Blinken will travel to Munster, Germany on November 3-4 for the G7 Foreign Ministers’ Meeting and the U.S.-German Futures Forum. The G7 ministers will discuss a range of pressing global challenges, including the G7’s sustained support for a democratic, sovereign, and prosperous Ukraine, strengthened economic and democratic resilience in Africa and the Indo-Pacific, tackling the climate crisis, global health security, and the food and energy crises caused by Russia’s war against Ukraine.  Secretary Blinken will also join German Foreign Minister Annalena Baerbock at the Futures Forum for a moderated discussion on the future of democracy in a digital world.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Call to End Renewed Violence in Eastern DRC</title>
 		<link>https://www.state.gov/call-to-end-renewed-violence-in-eastern-drc/</link>
 		
@@ -1584,175 +1741,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p align="left">On October 28, 2022, the American Institute in Taiwan (AIT) and the Taipei Economic and Cultural Representative Office in the United States (TECRO) convened high-level representatives of the U.S. Department of State and the Taiwan Ministry of Foreign Affairs for consultations in Washington on expanding Taiwan’s participation at the United Nations and in other international fora.  This discussion focused especially on evaluating this past year’s efforts at the World Health Assembly (WHA) in May and International Civil Aviation Organization (ICAO) Assembly in September, and supporting Taiwan’s meaningful participation in non-UN international and regional organizations as well as in multilateral initiatives.</p>
 <p align="left">Participants exchanged views on addressing global issues, such as global public health, civil aviation safety, climate change, the environment, telecommunications, intellectual property, economic cooperation, and freedom of religion or belief.  U.S. participants applauded Taiwan’s contributions to the international community and reiterated the U.S. commitment to Taiwan’s meaningful participation in international fora, in accordance with long-standing U.S. policy.  All participants agreed on the need to strengthen our engagement with likeminded partners in Geneva, Montreal, New York, Taipei, Washington, and elsewhere to increase awareness of Taiwan’s positive contributions to the international community.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Department of State Dedicates New U.S. Embassy in Colombo, Sri Lanka</title>
-		<link>https://www.state.gov/department-of-state-dedicates-new-u-s-embassy-in-colombo-sri-lanka/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 28 Oct 2022 19:27:48 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=392122</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p align="left">In an important symbol of our enduring friendship with Sri Lanka, U.S. Ambassador Julie Chung officially dedicated the new U.S. Embassy in Colombo on October 28.</p>
-<p align="left">The new embassy is situated on the existing, expanded embassy site along the seafront in central Colombo and provides a secure, modern, sustainable, and resilient platform for U.S. diplomacy in Sri Lanka. It models the latest in energy-efficient features and is on target to achieve Leadership in Energy and Environmental Design (LEED<sup>®</sup>) Silver certification—a globally recognized mark of achievement in high-performance, best-in-class, green buildings.</p>
-<p align="left">ZGF of Portland, Oregon, was the design architect and Integrus Architecture of Seattle, Washington, was the architect of record for the project. Caddell Construction Company, LLC of Montgomery, Alabama, constructed the complex, injecting roughly $90 million into the local economy.</p>
-<p align="left">Learn more about the project <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjguNjU4NDM2ODEiLCJ1cmwiOiJodHRwczovL29ib3BvcnRmb2xpby5zdGF0ZS5nb3YvY29sb21iby8ifQ.3s3GpPBwPm55WjlBMcu_f-JXwYgzIoXq2ChwIz10Omo/s/2576317770/br/146940619161-l. Click or tap if you trust this link." href="https://oboportfolio.state.gov/colombo/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">here</a>.</p>
-<p align="left">Since the start of the Department’s Capital Security Construction Program in 1999, the Bureau of Overseas Buildings Operations (OBO) has completed 172 new diplomatic facilities. OBO currently has more than 50 active projects in the design phase or under construction worldwide.</p>
-<p align="left">OBO provides safe, secure, functional, and resilient facilities that represent the U.S. government to the host nation and that support U.S. diplomats in advancing U.S. foreign policy objectives abroad.</p>
-<p align="left">For further information, please contact OBO External Affairs at <a href="mailto:OBO-EA@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="1">OBO-EA@state.gov</a> or visit www.state.gov/obo.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p align="left">In an important symbol of our enduring friendship with Sri Lanka, U.S. Ambassador Julie Chung officially dedicated the new U.S. Embassy in Colombo on October 28.</p>
-<p align="left">The new embassy is situated on the existing, expanded embassy site along the seafront in central Colombo and provides a secure, modern, sustainable, and resilient platform for U.S. diplomacy in Sri Lanka. It models the latest in energy-efficient features and is on target to achieve Leadership in Energy and Environmental Design (LEED<sup>®</sup>) Silver certification—a globally recognized mark of achievement in high-performance, best-in-class, green buildings.</p>
-<p align="left">ZGF of Portland, Oregon, was the design architect and Integrus Architecture of Seattle, Washington, was the architect of record for the project. Caddell Construction Company, LLC of Montgomery, Alabama, constructed the complex, injecting roughly $90 million into the local economy.</p>
-<p align="left">Learn more about the project <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEwMjguNjU4NDM2ODEiLCJ1cmwiOiJodHRwczovL29ib3BvcnRmb2xpby5zdGF0ZS5nb3YvY29sb21iby8ifQ.3s3GpPBwPm55WjlBMcu_f-JXwYgzIoXq2ChwIz10Omo/s/2576317770/br/146940619161-l. Click or tap if you trust this link." href="https://oboportfolio.state.gov/colombo/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">here</a>.</p>
-<p align="left">Since the start of the Department’s Capital Security Construction Program in 1999, the Bureau of Overseas Buildings Operations (OBO) has completed 172 new diplomatic facilities. OBO currently has more than 50 active projects in the design phase or under construction worldwide.</p>
-<p align="left">OBO provides safe, secure, functional, and resilient facilities that represent the U.S. government to the host nation and that support U.S. diplomats in advancing U.S. foreign policy objectives abroad.</p>
-<p align="left">For further information, please contact OBO External Affairs at <a href="mailto:OBO-EA@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="1">OBO-EA@state.gov</a> or visit www.state.gov/obo.</p>
 <p><input type="hidden" data-filter="100001000100" /></p>
 ]]></content:encoded>
 					
