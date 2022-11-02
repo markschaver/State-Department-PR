@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 02 Nov 2022 16:40:22 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Nov 2022 18:44:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,171 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Poland’s Announcement on Westinghouse Nuclear Technology Selection</title>
+		<link>https://www.state.gov/polands-announcement-on-westinghouse-nuclear-technology-selection/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Wed, 02 Nov 2022 18:44:43 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=393506</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>We welcome the decision by the Government of Poland to select Westinghouse as its technology partner for the construction of three U.S.-designed nuclear reactors. This agreement will ensure a decades-long strategic energy partnership between the United States and Poland and is a watershed moment in advancing European energy security.</p>
+<p>The U.S. commitment to work with Poland to facilitate the production of safe, clean, and reliable nuclear power is a testament to our deep bilateral strategic security and economic relationship. As NATO Allies, the United States and Poland already cooperate closely on a range of security and defense issues. The United States is proud to further expand our energy security partnership through this new venture.</p>
+<p>This project is also a major step forward in our global fight against climate change. When fully operational, the reactors are projected to result in 26 million tons per year of CO2 emissions averted and demonstrate that we can strengthen our energy security and our climate ambition simultaneously.</p>
+<p>The Polish government’s announcement is the culmination of a years-long effort between the United States and Poland, and I thank Foreign Minister Rau for his close cooperation with me on the issue. Through close collaboration, the U.S. and Polish governments developed innovative joint financing and technical solutions to address Polish clean energy needs and ensure the financial viability of the project.</p>
+<p>This robust effort was enabled by the dynamism of the U.S. nuclear industry, and the project will create thousands of good paying jobs in both countries.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>We welcome the decision by the Government of Poland to select Westinghouse as its technology partner for the construction of three U.S.-designed nuclear reactors. This agreement will ensure a decades-long strategic energy partnership between the United States and Poland and is a watershed moment in advancing European energy security.</p>
+<p>The U.S. commitment to work with Poland to facilitate the production of safe, clean, and reliable nuclear power is a testament to our deep bilateral strategic security and economic relationship. As NATO Allies, the United States and Poland already cooperate closely on a range of security and defense issues. The United States is proud to further expand our energy security partnership through this new venture.</p>
+<p>This project is also a major step forward in our global fight against climate change. When fully operational, the reactors are projected to result in 26 million tons per year of CO2 emissions averted and demonstrate that we can strengthen our energy security and our climate ambition simultaneously.</p>
+<p>The Polish government’s announcement is the culmination of a years-long effort between the United States and Poland, and I thank Foreign Minister Rau for his close cooperation with me on the issue. Through close collaboration, the U.S. and Polish governments developed innovative joint financing and technical solutions to address Polish clean energy needs and ensure the financial viability of the project.</p>
+<p>This robust effort was enabled by the dynamism of the U.S. nuclear industry, and the project will create thousands of good paying jobs in both countries.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Assistant Secretary Medina’s Travel to Israel and Egypt</title>
 		<link>https://www.state.gov/assistant-secretary-medinas-travel-to-israel-and-egypt/</link>
 		
@@ -1538,169 +1703,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p align="left">The newly reimagined FTEP, formerly the Franklin Fellows Program, is a professional exchange program that brings private sector participants to the Department to apply their expertise to global challenges, while affording reciprocal opportunities for Civil and Foreign Service employees to gain experience and exposure to U.S. industry in key fields such as emerging technologies and clean energy.</p>
 <p align="left">The Office of Global Partnerships is actively recruiting organizations to join FTEP.  Interested organizations can find more information and can apply by visiting the <a href="https://www.state.gov/franklin-talent-exchange-partnership-ftep/">FTEP webpage</a> or by emailing FTEP@state.gov.  There are no obligations when it comes to joining the partnership consortium, and a diverse array of entities are desired, including organizations that have a U.S. office, non-government organizations, as well as startups and business incubators.</p>
 <p align="left">To learn more about the Office of Global Partnerships please click <a href="https://www.state.gov/about-us-office-of-global-partnerships/">here</a> or visit <a href="https://www.state.gov/s/partnerships">https://www.state.gov/s/partnerships</a>.  You may also email Partnerships@state.gov for more information.  For press inquiries, please contact Melanie Bonner at BonnerML@state.gov.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Designation of ISIS-Somalia Weapons Trafficking Network</title>
-		<link>https://www.state.gov/designation-of-isis-somalia-weapons-trafficking-network/</link>
-		
-		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
-		<pubDate>Tue, 01 Nov 2022 16:08:00 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=392897</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Ned Price, Department Spokesperson</p>
-<p align="left">The United States has designated an Islamic State in Iraq and Syria (ISIS)-Somalia network of weapons traffickers, their associates, and an affiliated business for facilitating weapons transfers to the terrorist group, as well as Osama Abdelmongy Abdalla Bakr, an ISIS supporter in Brazil.  In 2016, senior ISIS leaders directed Bakr to obtain weapons and military equipment for the terrorist group.</p>
-<p align="left">The ISIS-Somalia network operates primarily between Yemen and Somalia and has ties to other terrorist groups, including al-Qa’ida in the Arabian Peninsula and al-Shabaab.  Many of the relevant individuals are also involved in other illegal activities, including piracy and environmental crimes, demonstrating their integration with illicit networks operating in the region.</p>
-<p align="left">The Department of State designated ISIS-Somalia on February 27, 2018, as well as Abdiqadr Mumin, the leader of ISIS-Somalia, on August 11, 2016, as Specially Designated Global Terrorists pursuant to Executive Order 13224.  ISIS has increasingly sought to generate revenue in East Africa.  ISIS-Somalia, which continues to conduct terrorist attacks against civilians, generates much of its funding by extorting local communities for funding and recruits.  The group punishes, intimidates, and assassinates Somali businessmen and civilians who do not support it financially or provide supplies.</p>
-<p align="left">For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMDEuNjU5OTQ4MDEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMDY2In0.IHqU8pMJ-qj3aZwLpE6bTl1giZVCBysHX8BSlj8k31w/s/1436012980/br/147123940071-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMDEuNjU5OTQ4MDEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMDY2In0.IHqU8pMJ-qj3aZwLpE6bTl1giZVCBysHX8BSlj8k31w%2Fs%2F1436012980%2Fbr%2F147123940071-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Cfb3831df3ace4e11cf4808dabc1fb157%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638029141556458963%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=Dmr8JIempQxqz1%2BnRtCNe5BSHocbl7hPeHYx36sIu%2FQ%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
-<p align="left">The United States has designated an Islamic State in Iraq and Syria (ISIS)-Somalia network of weapons traffickers, their associates, and an affiliated business for facilitating weapons transfers to the terrorist group, as well as Osama Abdelmongy Abdalla Bakr, an ISIS supporter in Brazil.  In 2016, senior ISIS leaders directed Bakr to obtain weapons and military equipment for the terrorist group.</p>
-<p align="left">The ISIS-Somalia network operates primarily between Yemen and Somalia and has ties to other terrorist groups, including al-Qa’ida in the Arabian Peninsula and al-Shabaab.  Many of the relevant individuals are also involved in other illegal activities, including piracy and environmental crimes, demonstrating their integration with illicit networks operating in the region.</p>
-<p align="left">The Department of State designated ISIS-Somalia on February 27, 2018, as well as Abdiqadr Mumin, the leader of ISIS-Somalia, on August 11, 2016, as Specially Designated Global Terrorists pursuant to Executive Order 13224.  ISIS has increasingly sought to generate revenue in East Africa.  ISIS-Somalia, which continues to conduct terrorist attacks against civilians, generates much of its funding by extorting local communities for funding and recruits.  The group punishes, intimidates, and assassinates Somali businessmen and civilians who do not support it financially or provide supplies.</p>
-<p align="left">For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMDEuNjU5OTQ4MDEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMDY2In0.IHqU8pMJ-qj3aZwLpE6bTl1giZVCBysHX8BSlj8k31w/s/1436012980/br/147123940071-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMDEuNjU5OTQ4MDEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMDY2In0.IHqU8pMJ-qj3aZwLpE6bTl1giZVCBysHX8BSlj8k31w%2Fs%2F1436012980%2Fbr%2F147123940071-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Cfb3831df3ace4e11cf4808dabc1fb157%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638029141556458963%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=Dmr8JIempQxqz1%2BnRtCNe5BSHocbl7hPeHYx36sIu%2FQ%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
