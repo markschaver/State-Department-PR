@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Press Releases &#8211; United States Department of State</title>
-	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/?" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
 	<lastBuildDate>Mon, 07 Nov 2022 20:42:13 +0000</lastBuildDate>
