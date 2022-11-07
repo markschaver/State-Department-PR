@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Mon, 07 Nov 2022 14:46:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Nov 2022 15:50:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Sanctioning ISIS Members in South Africa</title>
+		<link>https://www.state.gov/sanctioning-isis-members-in-south-africa/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Mon, 07 Nov 2022 15:50:14 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=394566</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>ISIS continues to present a threat across the African continent. A July 2022 United Nations Security Council report highlighted how ISIS has used South Africa-based members to transfer funds from ISIS leadership to ISIS affiliates across Africa. Today, the United States is designating four members of an ISIS cell in South Africa who have provided technical, financial, or material support to the terrorist group, as well as eight companies owned, controlled, or directed by the individuals in this ISIS cell.</p>
+<p>Today’s action builds on the March 2022 designations of four ISIS members in South Africa, who have been involved in attack planning, and organizational and recruitment activities for the group.</p>
+<p>As part of the Global Coalition to Defeat ISIS, the United States will continue to partner with South Africa to deny ISIS the ability to exploit the country’s economy to raise and transfer funds in support of ISIS terrorist activities.</p>
+<p>For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMDcuNjYyOTA1MjEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMDg0In0._lQNI0o8Rr8rOaTug08laq5YoONxYNeuiuwCnSONkJ4/s/2576317770/br/147581093461-l. Click or tap if you trust this link." href="https://home.treasury.gov/news/press-releases/jy1084" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
+<p><input type="hidden" data-filter="101001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>ISIS continues to present a threat across the African continent. A July 2022 United Nations Security Council report highlighted how ISIS has used South Africa-based members to transfer funds from ISIS leadership to ISIS affiliates across Africa. Today, the United States is designating four members of an ISIS cell in South Africa who have provided technical, financial, or material support to the terrorist group, as well as eight companies owned, controlled, or directed by the individuals in this ISIS cell.</p>
+<p>Today’s action builds on the March 2022 designations of four ISIS members in South Africa, who have been involved in attack planning, and organizational and recruitment activities for the group.</p>
+<p>As part of the Global Coalition to Defeat ISIS, the United States will continue to partner with South Africa to deny ISIS the ability to exploit the country’s economy to raise and transfer funds in support of ISIS terrorist activities.</p>
+<p>For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMDcuNjYyOTA1MjEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMDg0In0._lQNI0o8Rr8rOaTug08laq5YoONxYNeuiuwCnSONkJ4/s/2576317770/br/147581093461-l. Click or tap if you trust this link." href="https://home.treasury.gov/news/press-releases/jy1084" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
+<p><input type="hidden" data-filter="101001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>U.S. Announcements Under the Green Shipping Challenge at COP27</title>
 		<link>https://www.state.gov/u-s-announcements-under-the-green-shipping-challenge-at-cop27/</link>
 		
@@ -1701,179 +1864,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Thank you.</p>
 <p><strong>MR PATEL:</strong>  Thank you, everybody.  Thank you.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken With Italian Foreign Minister Antonio Tajani Before Their Meeting</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-with-italian-foreign-minister-antonio-tajani-before-their-meeting/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 04 Nov 2022 20:33:45 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=394266</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Rathaus Münster, Germany</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Well, good morning, everyone.  It is a great pleasure to be able to spend time with Mr. Tajani, Antonio.  We – I think it’s fair to say we’ve really hit the ground running here at the G7.  It’s as if we’ve been working together for months or years, not just a few days or a couple of weeks.  And I think it’s evidence of the very strong partnership between Italy and the United States on all of the urgent issues of the day.  We are grateful for that partnership, grateful for the alliance.</p>
-<p>And we had an opportunity over the last day or so to deepen our collaboration together, and deepen our collaboration with our G7 partners – on everything from Russia’s aggression against Ukraine to our common approach to China, to many efforts to help bring peace and stability to different parts of the world where Italy and the United States are engaged together, working as well on a strong climate future and energy future for our countries and others.</p>
-<p>But on these and on so many other things, Italy and United States are speaking with one voice, and speaking strongly as well for the democratic values that we share.  Our – this partnership could not be more important or more timely.  None of the issues we face are subject to a solution that any of us can do alone.  We need to find ways to collaborate, cooperate even more deeply than before.  That’s exactly what we’re doing.</p>
-<p>So, it’s wonderful to have you, Antonio, and to be able to spend some more time, but over to you.  Welcome.</p>
-<p><strong>FOREIGN MINISTER TAJANI:  </strong>Thank you very much.  Also, for Italy, it is crucial to strengthen the relation with the United States, because the United States is our best friend in the world.  We never forget your engagement for our freedom during World War II.  A lot of young American peoples’ death for our democracy in defense against Nazis – this has been very, very important for us.  It’s impossible to forget it.  But now, it is crucial to work all together, the – among the G7, on blackboards in bilateral meetings for asserting democracy in the world, in defense of rule of law in the world.</p>
-<p>Of course, in this moment it is important to protect Ukraine.  We want to achieve peace, but peace is impossible without justice, and justice is the freedom of Ukraine.  We want also to work together for peace in the Mediterranean Sea.  This is crucial in order to develop common positions.</p>
-<p>On China: it is a partner, but it is also a competitor for us.  We need to protect our economy, (inaudible) financing is crucial, but also the (inaudible) is important to work all together in defense of the democracy in South America, in Africa – it is the cooperation with the United States, also among the NATO Organization is very, very, very important.  The new government is strong engaged on these – Europe, NATO, and strong relations with the United States.</p>
-<p>Thank you very much.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Thanks, everyone.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Rathaus Münster, Germany</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Well, good morning, everyone.  It is a great pleasure to be able to spend time with Mr. Tajani, Antonio.  We – I think it’s fair to say we’ve really hit the ground running here at the G7.  It’s as if we’ve been working together for months or years, not just a few days or a couple of weeks.  And I think it’s evidence of the very strong partnership between Italy and the United States on all of the urgent issues of the day.  We are grateful for that partnership, grateful for the alliance.</p>
-<p>And we had an opportunity over the last day or so to deepen our collaboration together, and deepen our collaboration with our G7 partners – on everything from Russia’s aggression against Ukraine to our common approach to China, to many efforts to help bring peace and stability to different parts of the world where Italy and the United States are engaged together, working as well on a strong climate future and energy future for our countries and others.</p>
-<p>But on these and on so many other things, Italy and United States are speaking with one voice, and speaking strongly as well for the democratic values that we share.  Our – this partnership could not be more important or more timely.  None of the issues we face are subject to a solution that any of us can do alone.  We need to find ways to collaborate, cooperate even more deeply than before.  That’s exactly what we’re doing.</p>
-<p>So, it’s wonderful to have you, Antonio, and to be able to spend some more time, but over to you.  Welcome.</p>
-<p><strong>FOREIGN MINISTER TAJANI:  </strong>Thank you very much.  Also, for Italy, it is crucial to strengthen the relation with the United States, because the United States is our best friend in the world.  We never forget your engagement for our freedom during World War II.  A lot of young American peoples’ death for our democracy in defense against Nazis – this has been very, very important for us.  It’s impossible to forget it.  But now, it is crucial to work all together, the – among the G7, on blackboards in bilateral meetings for asserting democracy in the world, in defense of rule of law in the world.</p>
-<p>Of course, in this moment it is important to protect Ukraine.  We want to achieve peace, but peace is impossible without justice, and justice is the freedom of Ukraine.  We want also to work together for peace in the Mediterranean Sea.  This is crucial in order to develop common positions.</p>
-<p>On China: it is a partner, but it is also a competitor for us.  We need to protect our economy, (inaudible) financing is crucial, but also the (inaudible) is important to work all together in defense of the democracy in South America, in Africa – it is the cooperation with the United States, also among the NATO Organization is very, very, very important.  The new government is strong engaged on these – Europe, NATO, and strong relations with the United States.</p>
-<p>Thank you very much.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Thanks, everyone.</p>
 ]]></content:encoded>
 					
 		
