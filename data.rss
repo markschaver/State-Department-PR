@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Tue, 08 Nov 2022 02:21:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Nov 2022 13:25:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Blinken’s Meeting with Armenian Foreign Minister Mirzoyan and Azerbaijani Foreign Minister Bayramov</title>
+		<link>https://www.state.gov/secretary-blinkens-meeting-with-armenian-foreign-minister-mirzoyan-and-azerbaijani-foreign-minister-bayramov/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Tue, 08 Nov 2022 13:25:13 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=394898</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken hosted Armenia’s Foreign Minister Ararat Mirzoyan and Azerbaijan’s Foreign Minister Jeyhun Bayramov for direct discussions at Blair House November 7 to facilitate progress toward a lasting peace agreement.  The meeting today underscores Armenia’s and Azerbaijan’s serious pursuit of peace through intensified dialogue.</p>
+<p>The United States remains committed to supporting a peaceful South Caucasus region.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken hosted Armenia’s Foreign Minister Ararat Mirzoyan and Azerbaijan’s Foreign Minister Jeyhun Bayramov for direct discussions at Blair House November 7 to facilitate progress toward a lasting peace agreement.  The meeting today underscores Armenia’s and Azerbaijan’s serious pursuit of peace through intensified dialogue.</p>
+<p>The United States remains committed to supporting a peaceful South Caucasus region.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Antony J. Blinken, Armenian Foreign Minister Ararat Mirzoyan, And Azerbaijani Foreign Minister Jeyhun Bayramov Before Their Meeting</title>
 		<link>https://www.state.gov/secretary-antony-j-blinken-armenian-foreign-minister-ararat-mirzoyan-and-azerbaijani-foreign-minister-jeyhun-bayramov-before-their-meeting/</link>
 		
@@ -1951,169 +2112,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 </ul>
 <p>Further details on these announcements, including announcement abstracts, are available at the GreenShipping Challenge <a href="https://greenshippingchallenge.org/" target="_blank" rel="noopener">website</a>.</p>
 <p>For media inquiries, please contact ClimateComms@state.gov.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Acting Assistant Secretary for Global Public Affairs Trudeau Travels to South Africa, Tanzania, Liberia, and Belgium</title>
-		<link>https://www.state.gov/acting-assistant-secretary-for-global-public-affairs-trudeau-travels-to-south-africa-tanzania-liberia-and-belgium/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Mon, 07 Nov 2022 13:17:02 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=394489</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Acting Assistant Secretary for Global Public Affairs Elizabeth Kennedy Trudeau will travel to South Africa, Tanzania, Liberia, and Belgium from November 7 to November 17, 2022. Her 10-day trip will prioritize working with U.S. diplomatic missions on policy and messaging priorities, including the importance of press freedom and countering disinformation, media empowerment and impacts of the COVID-19 pandemic, and government corruption and accountability. Acting Assistant Secretary Trudeau will meet with government officials and civil society organizations, foreign media outlets and press, influencers, students, journalists, and U.S. diplomatic mission staff.</p>
-<p>In South Africa, Acting Assistant Secretary Trudeau will meet with media contacts on how the COVID-19 pandemic, climate, and conflict have impacted the U.S.-Africa relationship. She will also meet with U.S. exchange alumni.</p>
-<p>In Tanzania, Acting Assistant Secretary Trudeau will meet with media contacts and exchange alumni, and speak at the University of Dar es Salaam Journalism School on press freedom and the importance of journalism. She will attend the “Heroes of COVID” event in honor of front-line healthcare workers and vaccine champions who are combatting the pandemic on the ground. She will also participate in the opening ceremony of the American Corner in Unguja as well as visit the M&amp;M products facility in Kwarara.</p>
-<p>In Liberia, Acting Assistant Secretary Trudeau will meet with government officials, civil society actors, U.S. exchange alumni, and local media. She will also hold an Embassy press roundtable and tour the historic Providence Island, a beneficiary of the Ambassador Fund for Cultural Preservation.</p>
-<p>In Belgium, Acting Assistant Secretary Trudeau will attend the NATO Senior Communicators Conference on strategic communications and public diplomacy initiatives. She will participate in a panel on Transatlantic Approaches to Public Diplomacy. She will also meet with government officials and media outlets to discuss her trip.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Acting Assistant Secretary for Global Public Affairs Elizabeth Kennedy Trudeau will travel to South Africa, Tanzania, Liberia, and Belgium from November 7 to November 17, 2022. Her 10-day trip will prioritize working with U.S. diplomatic missions on policy and messaging priorities, including the importance of press freedom and countering disinformation, media empowerment and impacts of the COVID-19 pandemic, and government corruption and accountability. Acting Assistant Secretary Trudeau will meet with government officials and civil society organizations, foreign media outlets and press, influencers, students, journalists, and U.S. diplomatic mission staff.</p>
-<p>In South Africa, Acting Assistant Secretary Trudeau will meet with media contacts on how the COVID-19 pandemic, climate, and conflict have impacted the U.S.-Africa relationship. She will also meet with U.S. exchange alumni.</p>
-<p>In Tanzania, Acting Assistant Secretary Trudeau will meet with media contacts and exchange alumni, and speak at the University of Dar es Salaam Journalism School on press freedom and the importance of journalism. She will attend the “Heroes of COVID” event in honor of front-line healthcare workers and vaccine champions who are combatting the pandemic on the ground. She will also participate in the opening ceremony of the American Corner in Unguja as well as visit the M&amp;M products facility in Kwarara.</p>
-<p>In Liberia, Acting Assistant Secretary Trudeau will meet with government officials, civil society actors, U.S. exchange alumni, and local media. She will also hold an Embassy press roundtable and tour the historic Providence Island, a beneficiary of the Ambassador Fund for Cultural Preservation.</p>
-<p>In Belgium, Acting Assistant Secretary Trudeau will attend the NATO Senior Communicators Conference on strategic communications and public diplomacy initiatives. She will participate in a panel on Transatlantic Approaches to Public Diplomacy. She will also meet with government officials and media outlets to discuss her trip.</p>
 ]]></content:encoded>
 					
 		
