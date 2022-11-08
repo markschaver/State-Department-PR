@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Tue, 08 Nov 2022 13:25:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Nov 2022 14:00:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -106,7 +106,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		</script>
 		<p>Office of the Spokesperson</p>
 <p>The below is attributable to Spokesperson Ned Price:</p>
-<p>Secretary of State Antony J. Blinken hosted Armenia’s Foreign Minister Ararat Mirzoyan and Azerbaijan’s Foreign Minister Jeyhun Bayramov for direct discussions at Blair House November 7 to facilitate progress toward a lasting peace agreement.  The meeting today underscores Armenia’s and Azerbaijan’s serious pursuit of peace through intensified dialogue.</p>
+<p>Secretary of State Antony J. Blinken hosted Armenia’s Foreign Minister Ararat Mirzoyan and Azerbaijan’s Foreign Minister Jeyhun Bayramov for direct discussions at Blair House November 7 to facilitate progress toward a lasting peace agreement.  The meeting <span>yesterday</span> underscores Armenia’s and Azerbaijan’s serious pursuit of peace through intensified dialogue.</p>
 <p>The United States remains committed to supporting a peaceful South Caucasus region.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></description>
@@ -180,7 +180,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		</script>
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>The below is attributable to Spokesperson Ned Price:</p>
-<p>Secretary of State Antony J. Blinken hosted Armenia’s Foreign Minister Ararat Mirzoyan and Azerbaijan’s Foreign Minister Jeyhun Bayramov for direct discussions at Blair House November 7 to facilitate progress toward a lasting peace agreement.  The meeting today underscores Armenia’s and Azerbaijan’s serious pursuit of peace through intensified dialogue.</p>
+<p>Secretary of State Antony J. Blinken hosted Armenia’s Foreign Minister Ararat Mirzoyan and Azerbaijan’s Foreign Minister Jeyhun Bayramov for direct discussions at Blair House November 7 to facilitate progress toward a lasting peace agreement.  The meeting <span>yesterday</span> underscores Armenia’s and Azerbaijan’s serious pursuit of peace through intensified dialogue.</p>
 <p>The United States remains committed to supporting a peaceful South Caucasus region.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
