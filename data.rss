@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Mon, 14 Nov 2022 13:25:52 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Nov 2022 15:00:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,346 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>State Department Launches Afghan Family Reunification Landing Page</title>
+		<link>https://www.state.gov/state-department-launches-afghan-family-reunification-landing-page/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Mon, 14 Nov 2022 15:00:03 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=396460</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The Department of State announces today the launch of an Afghan <a href="https://www.state.gov/afghanistan-family-reunification/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">family reunification landing page</a>, which contains information on how Afghans in the United States can seek to reunify with their family members, depending on their immigration status or method of entry to the United States.</p>
+<p>Since August 2021, the United States has supported the reunification and resettlement of Afghan families. Although the United States has been able to successfully reunify some families, others remain separated, and continue to experience hardship and challenges.  The purpose of this reunification landing page is to help those families which are still separated.</p>
+<p>The United States has an enduring commitment to the people of Afghanistan and is committed to providing individuals seeking to reunite with their family members with the information and tools they need.  Individuals seeking reunification with family members in Afghanistan may have different avenues to pursue reunification depending on their immigration status or method of entry to the United States.  Our family reunification landing page identifies pathways and how individuals can begin the applicable process for:  U.S. citizens, lawful permanent residents (LPRs), refugees, asylees, and Afghan parolees, including those subsequently granted temporary protected status.</p>
+<p>The landing page will be located on a new section of the Department’s <a href="https://www.state.gov/afghanistan-inquiries/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">Afghanistan Inquiries page</a>, and the U.S. Mission to Afghanistan and the USCIS websites which will direct individuals seeking reunification with their family members to the available pathways.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The Department of State announces today the launch of an Afghan <a href="https://www.state.gov/afghanistan-family-reunification/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">family reunification landing page</a>, which contains information on how Afghans in the United States can seek to reunify with their family members, depending on their immigration status or method of entry to the United States.</p>
+<p>Since August 2021, the United States has supported the reunification and resettlement of Afghan families. Although the United States has been able to successfully reunify some families, others remain separated, and continue to experience hardship and challenges.  The purpose of this reunification landing page is to help those families which are still separated.</p>
+<p>The United States has an enduring commitment to the people of Afghanistan and is committed to providing individuals seeking to reunite with their family members with the information and tools they need.  Individuals seeking reunification with family members in Afghanistan may have different avenues to pursue reunification depending on their immigration status or method of entry to the United States.  Our family reunification landing page identifies pathways and how individuals can begin the applicable process for:  U.S. citizens, lawful permanent residents (LPRs), refugees, asylees, and Afghan parolees, including those subsequently granted temporary protected status.</p>
+<p>The landing page will be located on a new section of the Department’s <a href="https://www.state.gov/afghanistan-inquiries/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">Afghanistan Inquiries page</a>, and the U.S. Mission to Afghanistan and the USCIS websites which will direct individuals seeking reunification with their family members to the available pathways.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>2022 AAFSW Secretary of State Award for Outstanding Volunteerism Abroad</title>
+		<link>https://www.state.gov/2022-aafsw-secretary-of-state-award-for-outstanding-volunteerism-abroad/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Mon, 14 Nov 2022 14:50:33 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=396442</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>Eight winners will receive the Associates of the American Foreign Service Worldwide (AAFSW) Secretary of State Award for Outstanding Volunteerism Abroad (SOSA) at a ceremony on Thursday, November 17 at 11:00 a.m. in the Benjamin Franklin Room at the Department of State. Deputy Secretary of State Brian P. McKeon will highlight the winners&#8217; exemplary service and present the awards at the ceremony. Secretary Blinken will deliver a video message of congratulations.</p>
+<p>SOSA awards recognize U.S. government employees, family members, and other members of household at embassies and consulates who performed exceptional volunteer service to their communities, mission, or host country, or rendered outstanding assistance in emergencies.</p>
+<p>This year&#8217;s award winners include:</p>
+<p><strong>Bureau of African Affairs (AF)– Justin Wimpey (Antananarivo, Madagascar)<br aria-hidden="true" /></strong>Recognizing that 97 percent of Madagascar’s population uses charcoal for cooking, Eligible Family Member (EFM) Justin Wimpey sought a better solution that would not only be technologically feasible but also highly affordable, produced locally, and culturally accepted. Starting from the traditional Malagasy pot design, he created a pressure cooker which he offered without compensation to a local metalworker and foundry. He also improved the manufacturing process and helped establish a women-led business to market and distribute the pots across Madagascar. The “Cocotte Minute Gasy” is rapidly gaining in popularity as it reduces charcoal use and therefore deforestation and saves mainly women from spending many hours every day exposed to the health-damaging fumes of charcoal fires.</p>
+<p><strong>Bureau of East Asian and Pacific Affairs (EAP) – Denis Rajic, Michele Rajic Tang, Vicki Daniel, and Ellin R. Lobb (Shanghai, China)<br aria-hidden="true" /></strong>In March 2022, Shanghai imposed one of the harshest lockdowns in the world in response to the PRC’s largest COVID-19 outbreak, leaving the population without easy or regular access to food and other necessities. Through indefatigable networking efforts, the volunteer team of direct hire employees Denis Rajic and Vicki Daniel and Eligible Family Members Michele Rajic Tang and Ellin R. Lobb organized wholesale food deliveries for U.S. direct-hire staff and families and local employees of Consulate General Shanghai, some of whom had not had deliveries in weeks. The team is now assisting other Missions in establishing their own supply chain systems.</p>
+<p><strong>Bureau of European and Eurasian Affairs (EUR) – Meredith Wiedemer (Chisinau, Moldova)</strong><br aria-hidden="true" />In Moldova, as more than 590,000 Ukrainian refugees have streamed across the border, Eligible Family Member Meredith Wiedemer was part of the leadership team at a Donation Center that provided emergency supplies like food, hygiene, and baby items to over 38,000 refugees. One month into the conflict, she realized the need for long-term support for refugees and opened Sunflower Center, which is currently providing children’s programming, psychosocial support for mothers, and employment to Ukrainian women. She has raised more than $200,000 in private contributions and secured partnerships with international organizations in support of Sunflower.</p>
+<p><strong>Bureau of Near Eastern Affairs (NEA) – Debra Stock (Doha, Qatar)</strong><br aria-hidden="true" />Debra Stock arrived at her first overseas post, Doha, around the same time as a large influx of 58,000 Afghan refugees. Debra immediately took the lead in organizing volunteers to help, spending her days and nights for months at the Al Udeid Air Base. Her “Doha Do-Gooders,” as they became known, worked on the receiving lines for incoming refugees and provided warm clothing, hygiene items and other essentials, as well as children’s supplies including over 300 soccer balls. They organized fundraising events for the refugees which brought the Embassy community together, and they even created and furnished a school for the refugee children, where Debra also served as a teacher and mentor.</p>
+<p><strong>Bureau of Western Hemisphere Affairs (WHA) – J. Carlos Valles (Port-au-Prince, Haiti)<br aria-hidden="true" /></strong>In Port-au-Prince, J. Carlos Valles has volunteered over 1,000 hours at the St. Luke’s Foundation Carpenter Training Center of St. Luke’s Foundation, working with at-risk young men who learn under his tutelage to use machinery and tools and work as a team. Their workshop produces desks, chairs, and beds as well as affordable coffins which allow Haiti’s urban poor to provide their loved ones with a dignified traditional burial. Carlos also works with the Embassy community to collect and repurpose packing and shipping materials for use in coffin-making. Carlos’ legacy will include a network of trained carpenters who can earn a decent living and fill a critical need for these skills in the Haitian capital.</p>
+<p>For more information about the award, please visit the <a href="https://www.aafsw.org/sosa/" target="_blank" rel="noopener">AAFSW website</a>.</p>
+<p>The award ceremony is open for press coverage. Members of the press wishing to attend should contact Public Affairs Specialist Brenda Greenberg at 202-647-1679 or GreenbergBL2@state.gov.</p>
+<p>Pre-set time for cameras: 10:00 a.m.<br aria-hidden="true" />Final access time for all press: 10:45 a.m.</p>
+<p>Media representatives may attend this award ceremony upon presentation of one of the following: (1) a U.S. government-issued identification card (Department of State, White House, Congress, Department of Defense, or Foreign Press Center), (2) a media-issued photo identification card, or (3) a letter from the requester’s employer on letterhead verifying his/her employment status as a journalist, accompanied by an official photo identification (driver’s license or passport). Those who do not have a State Department building pass should allow adequate time for security processing at the 21st Street entrance.</p>
+<p><input type="hidden" data-filter="111001000000" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>Eight winners will receive the Associates of the American Foreign Service Worldwide (AAFSW) Secretary of State Award for Outstanding Volunteerism Abroad (SOSA) at a ceremony on Thursday, November 17 at 11:00 a.m. in the Benjamin Franklin Room at the Department of State. Deputy Secretary of State Brian P. McKeon will highlight the winners&#8217; exemplary service and present the awards at the ceremony. Secretary Blinken will deliver a video message of congratulations.</p>
+<p>SOSA awards recognize U.S. government employees, family members, and other members of household at embassies and consulates who performed exceptional volunteer service to their communities, mission, or host country, or rendered outstanding assistance in emergencies.</p>
+<p>This year&#8217;s award winners include:</p>
+<p><strong>Bureau of African Affairs (AF)– Justin Wimpey (Antananarivo, Madagascar)<br aria-hidden="true" /></strong>Recognizing that 97 percent of Madagascar’s population uses charcoal for cooking, Eligible Family Member (EFM) Justin Wimpey sought a better solution that would not only be technologically feasible but also highly affordable, produced locally, and culturally accepted. Starting from the traditional Malagasy pot design, he created a pressure cooker which he offered without compensation to a local metalworker and foundry. He also improved the manufacturing process and helped establish a women-led business to market and distribute the pots across Madagascar. The “Cocotte Minute Gasy” is rapidly gaining in popularity as it reduces charcoal use and therefore deforestation and saves mainly women from spending many hours every day exposed to the health-damaging fumes of charcoal fires.</p>
+<p><strong>Bureau of East Asian and Pacific Affairs (EAP) – Denis Rajic, Michele Rajic Tang, Vicki Daniel, and Ellin R. Lobb (Shanghai, China)<br aria-hidden="true" /></strong>In March 2022, Shanghai imposed one of the harshest lockdowns in the world in response to the PRC’s largest COVID-19 outbreak, leaving the population without easy or regular access to food and other necessities. Through indefatigable networking efforts, the volunteer team of direct hire employees Denis Rajic and Vicki Daniel and Eligible Family Members Michele Rajic Tang and Ellin R. Lobb organized wholesale food deliveries for U.S. direct-hire staff and families and local employees of Consulate General Shanghai, some of whom had not had deliveries in weeks. The team is now assisting other Missions in establishing their own supply chain systems.</p>
+<p><strong>Bureau of European and Eurasian Affairs (EUR) – Meredith Wiedemer (Chisinau, Moldova)</strong><br aria-hidden="true" />In Moldova, as more than 590,000 Ukrainian refugees have streamed across the border, Eligible Family Member Meredith Wiedemer was part of the leadership team at a Donation Center that provided emergency supplies like food, hygiene, and baby items to over 38,000 refugees. One month into the conflict, she realized the need for long-term support for refugees and opened Sunflower Center, which is currently providing children’s programming, psychosocial support for mothers, and employment to Ukrainian women. She has raised more than $200,000 in private contributions and secured partnerships with international organizations in support of Sunflower.</p>
+<p><strong>Bureau of Near Eastern Affairs (NEA) – Debra Stock (Doha, Qatar)</strong><br aria-hidden="true" />Debra Stock arrived at her first overseas post, Doha, around the same time as a large influx of 58,000 Afghan refugees. Debra immediately took the lead in organizing volunteers to help, spending her days and nights for months at the Al Udeid Air Base. Her “Doha Do-Gooders,” as they became known, worked on the receiving lines for incoming refugees and provided warm clothing, hygiene items and other essentials, as well as children’s supplies including over 300 soccer balls. They organized fundraising events for the refugees which brought the Embassy community together, and they even created and furnished a school for the refugee children, where Debra also served as a teacher and mentor.</p>
+<p><strong>Bureau of Western Hemisphere Affairs (WHA) – J. Carlos Valles (Port-au-Prince, Haiti)<br aria-hidden="true" /></strong>In Port-au-Prince, J. Carlos Valles has volunteered over 1,000 hours at the St. Luke’s Foundation Carpenter Training Center of St. Luke’s Foundation, working with at-risk young men who learn under his tutelage to use machinery and tools and work as a team. Their workshop produces desks, chairs, and beds as well as affordable coffins which allow Haiti’s urban poor to provide their loved ones with a dignified traditional burial. Carlos also works with the Embassy community to collect and repurpose packing and shipping materials for use in coffin-making. Carlos’ legacy will include a network of trained carpenters who can earn a decent living and fill a critical need for these skills in the Haitian capital.</p>
+<p>For more information about the award, please visit the <a href="https://www.aafsw.org/sosa/" target="_blank" rel="noopener">AAFSW website</a>.</p>
+<p>The award ceremony is open for press coverage. Members of the press wishing to attend should contact Public Affairs Specialist Brenda Greenberg at 202-647-1679 or GreenbergBL2@state.gov.</p>
+<p>Pre-set time for cameras: 10:00 a.m.<br aria-hidden="true" />Final access time for all press: 10:45 a.m.</p>
+<p>Media representatives may attend this award ceremony upon presentation of one of the following: (1) a U.S. government-issued identification card (Department of State, White House, Congress, Department of Defense, or Foreign Press Center), (2) a media-issued photo identification card, or (3) a letter from the requester’s employer on letterhead verifying his/her employment status as a journalist, accompanied by an official photo identification (driver’s license or passport). Those who do not have a State Department building pass should allow adequate time for security processing at the 21st Street entrance.</p>
+<p><input type="hidden" data-filter="111001000000" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>At COP27, Our Climate Future is Female: A Progress Report on Implementing U.S. Efforts to Advance Women and Girls’ Climate Action</title>
 		<link>https://www.state.gov/at-cop27-our-climate-future-is-female-a-progress-report-on-implementing-u-s-efforts-to-advance-women-and-girls-climate-action/</link>
 		
@@ -1517,330 +1857,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 </ul>
 <p><em>End text.</em></p>
 <p>For media inquiries, please contact <a href="mailto:ClimateComms@state.gov" target="_blank" rel="noopener">ClimateComms@state.gov</a></p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Sint Maarten National Day</title>
-		<link>https://www.state.gov/sint-maarten-national-day/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 11 Nov 2022 05:01:23 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=395721</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>On behalf of the government and the people of the United States of America, I congratulate the people of Sint Maarten on Sint Maarten Day.</p>
-<p>Our two countries share strong commercial, educational, historic, and cultural ties and we look forward to continuing our work together to address the climate crisis, promote entrepreneurship, and encourage economic prosperity in the region. We celebrate the many young people from Sint Maarten who study in the United States each year or participate in exchange programs and return to contribute to the island’s bright future.  Our joint law enforcement efforts continue to make the Western Hemisphere safer for us all.  We are supporting Sint Maarten’s resiliency through the U.S.-Caribbean Partnership to Address the Climate Crisis 2030 (PACC 2030).</p>
-<p>We look forward to our continued collaboration and commitment to strengthening the ties between our two countries in the years to come.  Happy Sint Maarten Day.</p>
-<p><input type="hidden" data-filter="100000000000" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>On behalf of the government and the people of the United States of America, I congratulate the people of Sint Maarten on Sint Maarten Day.</p>
-<p>Our two countries share strong commercial, educational, historic, and cultural ties and we look forward to continuing our work together to address the climate crisis, promote entrepreneurship, and encourage economic prosperity in the region. We celebrate the many young people from Sint Maarten who study in the United States each year or participate in exchange programs and return to contribute to the island’s bright future.  Our joint law enforcement efforts continue to make the Western Hemisphere safer for us all.  We are supporting Sint Maarten’s resiliency through the U.S.-Caribbean Partnership to Address the Climate Crisis 2030 (PACC 2030).</p>
-<p>We look forward to our continued collaboration and commitment to strengthening the ties between our two countries in the years to come.  Happy Sint Maarten Day.</p>
-<p><input type="hidden" data-filter="100000000000" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Angolan National Day</title>
-		<link>https://www.state.gov/angolan-national-day/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 11 Nov 2022 05:01:20 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=395819</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>On behalf of the United States of America, I wish the people of Angola a heartfelt congratulations as you celebrate 47 years of independence.</p>
-<p>The United States values Angola as a strategic partner and leader in global and regional fora. I am proud of the ways we have expanded our bilateral relationship, including working together on regional security, Atlantic cooperation, and combatting corruption. I am optimistic we can continue to expand ties between our great nations, including expanding our economic and trade relationships.</p>
-<p>As we look forward to the U.S.-Africa Leaders Summit in December, I affirm our shared commitment to peace and security.</p>
-<p>Best wishes to the people of Angola as you celebrate this day.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>On behalf of the United States of America, I wish the people of Angola a heartfelt congratulations as you celebrate 47 years of independence.</p>
-<p>The United States values Angola as a strategic partner and leader in global and regional fora. I am proud of the ways we have expanded our bilateral relationship, including working together on regional security, Atlantic cooperation, and combatting corruption. I am optimistic we can continue to expand ties between our great nations, including expanding our economic and trade relationships.</p>
-<p>As we look forward to the U.S.-Africa Leaders Summit in December, I affirm our shared commitment to peace and security.</p>
-<p>Best wishes to the people of Angola as you celebrate this day.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
