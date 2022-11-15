@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Tue, 15 Nov 2022 00:53:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Nov 2022 16:05:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Accelerating Adaptation Action in Africa</title>
+		<link>https://www.state.gov/accelerating-adaptation-action-in-africa/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Tue, 15 Nov 2022 16:05:27 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=396853</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p align="left">The Governments of the United States of America and Egypt co-hosted an event in conjunction with President Biden’s visit to COP27.  COP27 President Sameh Shoukry and U.S. Special Presidential Envoy for Climate John Kerry presided over the event, which focused on the two governments’ efforts to accelerate climate adaptation action and support in Africa.  Secretary Kerry emphasized the United States’ commitment to help vulnerable countries and communities in Africa adapt to and manage the impacts of climate change, as part of the President’s Emergency Plan for Adaptation and Resilience (PREPARE). This includes the United States’ response to the UN Secretary General’s call for Early Warning for All within the next five years, where we will help close the gap in Africa.  This also includes support that will enable the Africa Adaptation Initiative to launch a new Food Security Accelerator, as well as support for the launch of Egypt’s Cairo Center for Learning and Excellence on Adaptation and Resilience.  In addition to President Biden’s announcement of over $150 million to accelerate PREPARE’s work across the African continent, the event also included announcements of over $100 million in pledged contributions from the private sector and philanthropy.</p>
+<p align="left">For media inquiries, please contact <a href="mailto:ClimateComms@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="0">ClimateComms@state.gov.</a></p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p align="left">The Governments of the United States of America and Egypt co-hosted an event in conjunction with President Biden’s visit to COP27.  COP27 President Sameh Shoukry and U.S. Special Presidential Envoy for Climate John Kerry presided over the event, which focused on the two governments’ efforts to accelerate climate adaptation action and support in Africa.  Secretary Kerry emphasized the United States’ commitment to help vulnerable countries and communities in Africa adapt to and manage the impacts of climate change, as part of the President’s Emergency Plan for Adaptation and Resilience (PREPARE). This includes the United States’ response to the UN Secretary General’s call for Early Warning for All within the next five years, where we will help close the gap in Africa.  This also includes support that will enable the Africa Adaptation Initiative to launch a new Food Security Accelerator, as well as support for the launch of Egypt’s Cairo Center for Learning and Excellence on Adaptation and Resilience.  In addition to President Biden’s announcement of over $150 million to accelerate PREPARE’s work across the African continent, the event also included announcements of over $100 million in pledged contributions from the private sector and philanthropy.</p>
+<p align="left">For media inquiries, please contact <a href="mailto:ClimateComms@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="0">ClimateComms@state.gov.</a></p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Public Schedule – November 15, 2022</title>
 		<link>https://www.state.gov/public-schedule-november-15-2022/</link>
 		
@@ -1557,185 +1716,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Since August 2021, the United States has supported the reunification and resettlement of Afghan families. Although the United States has been able to successfully reunify some families, others remain separated, and continue to experience hardship and challenges.  The purpose of this reunification landing page is to help those families which are still separated.</p>
 <p>The United States has an enduring commitment to the people of Afghanistan and is committed to providing individuals seeking to reunite with their family members with the information and tools they need.  Individuals seeking reunification with family members in Afghanistan may have different avenues to pursue reunification depending on their immigration status or method of entry to the United States.  Our family reunification landing page identifies pathways and how individuals can begin the applicable process for:  U.S. citizens, lawful permanent residents (LPRs), refugees, asylees, and Afghan parolees, including those subsequently granted temporary protected status.</p>
 <p>The landing page will be located on a new section of the Department’s <a href="https://www.state.gov/afghanistan-inquiries/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">Afghanistan Inquiries page</a>, and the U.S. Mission to Afghanistan and the USCIS websites which will direct individuals seeking reunification with their family members to the available pathways.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>2022 AAFSW Secretary of State Award for Outstanding Volunteerism Abroad</title>
-		<link>https://www.state.gov/2022-aafsw-secretary-of-state-award-for-outstanding-volunteerism-abroad/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Mon, 14 Nov 2022 14:50:33 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=396442</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Eight winners will receive the Associates of the American Foreign Service Worldwide (AAFSW) Secretary of State Award for Outstanding Volunteerism Abroad (SOSA) at a ceremony on Thursday, November 17 at 11:00 a.m. in the Benjamin Franklin Room at the Department of State. Deputy Secretary of State Brian P. McKeon will highlight the winners&#8217; exemplary service and present the awards at the ceremony. Secretary Blinken will deliver a video message of congratulations.</p>
-<p>SOSA awards recognize U.S. government employees, family members, and other members of household at embassies and consulates who performed exceptional volunteer service to their communities, mission, or host country, or rendered outstanding assistance in emergencies.</p>
-<p>This year&#8217;s award winners include:</p>
-<p><strong>Bureau of African Affairs (AF)– Justin Wimpey (Antananarivo, Madagascar)<br aria-hidden="true" /></strong>Recognizing that 97 percent of Madagascar’s population uses charcoal for cooking, Eligible Family Member (EFM) Justin Wimpey sought a better solution that would not only be technologically feasible but also highly affordable, produced locally, and culturally accepted. Starting from the traditional Malagasy pot design, he created a pressure cooker which he offered without compensation to a local metalworker and foundry. He also improved the manufacturing process and helped establish a women-led business to market and distribute the pots across Madagascar. The “Cocotte Minute Gasy” is rapidly gaining in popularity as it reduces charcoal use and therefore deforestation and saves mainly women from spending many hours every day exposed to the health-damaging fumes of charcoal fires.</p>
-<p><strong>Bureau of East Asian and Pacific Affairs (EAP) – Denis Rajic, Michele Rajic Tang, Vicki Daniel, and Ellin R. Lobb (Shanghai, China)<br aria-hidden="true" /></strong>In March 2022, Shanghai imposed one of the harshest lockdowns in the world in response to the PRC’s largest COVID-19 outbreak, leaving the population without easy or regular access to food and other necessities. Through indefatigable networking efforts, the volunteer team of direct hire employees Denis Rajic and Vicki Daniel and Eligible Family Members Michele Rajic Tang and Ellin R. Lobb organized wholesale food deliveries for U.S. direct-hire staff and families and local employees of Consulate General Shanghai, some of whom had not had deliveries in weeks. The team is now assisting other Missions in establishing their own supply chain systems.</p>
-<p><strong>Bureau of European and Eurasian Affairs (EUR) – Meredith Wiedemer (Chisinau, Moldova)</strong><br aria-hidden="true" />In Moldova, as more than 590,000 Ukrainian refugees have streamed across the border, Eligible Family Member Meredith Wiedemer was part of the leadership team at a Donation Center that provided emergency supplies like food, hygiene, and baby items to over 38,000 refugees. One month into the conflict, she realized the need for long-term support for refugees and opened Sunflower Center, which is currently providing children’s programming, psychosocial support for mothers, and employment to Ukrainian women. She has raised more than $200,000 in private contributions and secured partnerships with international organizations in support of Sunflower.</p>
-<p><strong>Bureau of Near Eastern Affairs (NEA) – Debra Stock (Doha, Qatar)</strong><br aria-hidden="true" />Debra Stock arrived at her first overseas post, Doha, around the same time as a large influx of 58,000 Afghan refugees. Debra immediately took the lead in organizing volunteers to help, spending her days and nights for months at the Al Udeid Air Base. Her “Doha Do-Gooders,” as they became known, worked on the receiving lines for incoming refugees and provided warm clothing, hygiene items and other essentials, as well as children’s supplies including over 300 soccer balls. They organized fundraising events for the refugees which brought the Embassy community together, and they even created and furnished a school for the refugee children, where Debra also served as a teacher and mentor.</p>
-<p><strong>Bureau of Western Hemisphere Affairs (WHA) – J. Carlos Valles (Port-au-Prince, Haiti)<br aria-hidden="true" /></strong>In Port-au-Prince, J. Carlos Valles has volunteered over 1,000 hours at the St. Luke’s Foundation Carpenter Training Center of St. Luke’s Foundation, working with at-risk young men who learn under his tutelage to use machinery and tools and work as a team. Their workshop produces desks, chairs, and beds as well as affordable coffins which allow Haiti’s urban poor to provide their loved ones with a dignified traditional burial. Carlos also works with the Embassy community to collect and repurpose packing and shipping materials for use in coffin-making. Carlos’ legacy will include a network of trained carpenters who can earn a decent living and fill a critical need for these skills in the Haitian capital.</p>
-<p>For more information about the award, please visit the <a href="https://www.aafsw.org/sosa/" target="_blank" rel="noopener">AAFSW website</a>.</p>
-<p>The award ceremony is open for press coverage. Members of the press wishing to attend should contact Public Affairs Specialist Brenda Greenberg at 202-647-1679 or GreenbergBL2@state.gov.</p>
-<p>Pre-set time for cameras: 10:00 a.m.<br aria-hidden="true" />Final access time for all press: 10:45 a.m.</p>
-<p>Media representatives may attend this award ceremony upon presentation of one of the following: (1) a U.S. government-issued identification card (Department of State, White House, Congress, Department of Defense, or Foreign Press Center), (2) a media-issued photo identification card, or (3) a letter from the requester’s employer on letterhead verifying his/her employment status as a journalist, accompanied by an official photo identification (driver’s license or passport). Those who do not have a State Department building pass should allow adequate time for security processing at the 21st Street entrance.</p>
-<p><input type="hidden" data-filter="111001000000" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Eight winners will receive the Associates of the American Foreign Service Worldwide (AAFSW) Secretary of State Award for Outstanding Volunteerism Abroad (SOSA) at a ceremony on Thursday, November 17 at 11:00 a.m. in the Benjamin Franklin Room at the Department of State. Deputy Secretary of State Brian P. McKeon will highlight the winners&#8217; exemplary service and present the awards at the ceremony. Secretary Blinken will deliver a video message of congratulations.</p>
-<p>SOSA awards recognize U.S. government employees, family members, and other members of household at embassies and consulates who performed exceptional volunteer service to their communities, mission, or host country, or rendered outstanding assistance in emergencies.</p>
-<p>This year&#8217;s award winners include:</p>
-<p><strong>Bureau of African Affairs (AF)– Justin Wimpey (Antananarivo, Madagascar)<br aria-hidden="true" /></strong>Recognizing that 97 percent of Madagascar’s population uses charcoal for cooking, Eligible Family Member (EFM) Justin Wimpey sought a better solution that would not only be technologically feasible but also highly affordable, produced locally, and culturally accepted. Starting from the traditional Malagasy pot design, he created a pressure cooker which he offered without compensation to a local metalworker and foundry. He also improved the manufacturing process and helped establish a women-led business to market and distribute the pots across Madagascar. The “Cocotte Minute Gasy” is rapidly gaining in popularity as it reduces charcoal use and therefore deforestation and saves mainly women from spending many hours every day exposed to the health-damaging fumes of charcoal fires.</p>
-<p><strong>Bureau of East Asian and Pacific Affairs (EAP) – Denis Rajic, Michele Rajic Tang, Vicki Daniel, and Ellin R. Lobb (Shanghai, China)<br aria-hidden="true" /></strong>In March 2022, Shanghai imposed one of the harshest lockdowns in the world in response to the PRC’s largest COVID-19 outbreak, leaving the population without easy or regular access to food and other necessities. Through indefatigable networking efforts, the volunteer team of direct hire employees Denis Rajic and Vicki Daniel and Eligible Family Members Michele Rajic Tang and Ellin R. Lobb organized wholesale food deliveries for U.S. direct-hire staff and families and local employees of Consulate General Shanghai, some of whom had not had deliveries in weeks. The team is now assisting other Missions in establishing their own supply chain systems.</p>
-<p><strong>Bureau of European and Eurasian Affairs (EUR) – Meredith Wiedemer (Chisinau, Moldova)</strong><br aria-hidden="true" />In Moldova, as more than 590,000 Ukrainian refugees have streamed across the border, Eligible Family Member Meredith Wiedemer was part of the leadership team at a Donation Center that provided emergency supplies like food, hygiene, and baby items to over 38,000 refugees. One month into the conflict, she realized the need for long-term support for refugees and opened Sunflower Center, which is currently providing children’s programming, psychosocial support for mothers, and employment to Ukrainian women. She has raised more than $200,000 in private contributions and secured partnerships with international organizations in support of Sunflower.</p>
-<p><strong>Bureau of Near Eastern Affairs (NEA) – Debra Stock (Doha, Qatar)</strong><br aria-hidden="true" />Debra Stock arrived at her first overseas post, Doha, around the same time as a large influx of 58,000 Afghan refugees. Debra immediately took the lead in organizing volunteers to help, spending her days and nights for months at the Al Udeid Air Base. Her “Doha Do-Gooders,” as they became known, worked on the receiving lines for incoming refugees and provided warm clothing, hygiene items and other essentials, as well as children’s supplies including over 300 soccer balls. They organized fundraising events for the refugees which brought the Embassy community together, and they even created and furnished a school for the refugee children, where Debra also served as a teacher and mentor.</p>
-<p><strong>Bureau of Western Hemisphere Affairs (WHA) – J. Carlos Valles (Port-au-Prince, Haiti)<br aria-hidden="true" /></strong>In Port-au-Prince, J. Carlos Valles has volunteered over 1,000 hours at the St. Luke’s Foundation Carpenter Training Center of St. Luke’s Foundation, working with at-risk young men who learn under his tutelage to use machinery and tools and work as a team. Their workshop produces desks, chairs, and beds as well as affordable coffins which allow Haiti’s urban poor to provide their loved ones with a dignified traditional burial. Carlos also works with the Embassy community to collect and repurpose packing and shipping materials for use in coffin-making. Carlos’ legacy will include a network of trained carpenters who can earn a decent living and fill a critical need for these skills in the Haitian capital.</p>
-<p>For more information about the award, please visit the <a href="https://www.aafsw.org/sosa/" target="_blank" rel="noopener">AAFSW website</a>.</p>
-<p>The award ceremony is open for press coverage. Members of the press wishing to attend should contact Public Affairs Specialist Brenda Greenberg at 202-647-1679 or GreenbergBL2@state.gov.</p>
-<p>Pre-set time for cameras: 10:00 a.m.<br aria-hidden="true" />Final access time for all press: 10:45 a.m.</p>
-<p>Media representatives may attend this award ceremony upon presentation of one of the following: (1) a U.S. government-issued identification card (Department of State, White House, Congress, Department of Defense, or Foreign Press Center), (2) a media-issued photo identification card, or (3) a letter from the requester’s employer on letterhead verifying his/her employment status as a journalist, accompanied by an official photo identification (driver’s license or passport). Those who do not have a State Department building pass should allow adequate time for security processing at the 21st Street entrance.</p>
-<p><input type="hidden" data-filter="111001000000" /></p>
 ]]></content:encoded>
 					
 		
