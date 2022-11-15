@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Tue, 15 Nov 2022 16:05:28 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Nov 2022 19:46:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Migration Talks with the Government of Cuba</title>
+		<link>https://www.state.gov/migration-talks-with-the-government-of-cuba-2/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Tue, 15 Nov 2022 19:46:49 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=396931</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p align="left">On November 15, U.S. and Cuban officials met in Havana to discuss the implementation of the U.S.-Cuba Migration Accords. This is the second session in 2022 of these semiannual bilateral discussions on migration, reflecting a commitment by both countries to regularly review the implementation of the Accords.  Deputy Assistant Secretary for Western Hemisphere Affairs Emily Mendrala led the U.S. interagency delegation, and Cuba’s Vice Foreign Minister Carlos Fernandez de Cossio led the Cuban delegation.  These migration talks provide an opportunity for discussions on mutual implementation of the Migration Accords, comprised of a series of bilateral agreements between the United States and Cuba done in 1984, 1994, 1995, and 2017.</p>
+<p align="left">The U.S. delegation highlighted areas of successful cooperation on migration, while also identifying issues that have been obstacles to fulfilling the goals of the Accords.  Engaging in these talks underscores our commitment to pursuing constructive discussions with the Government of Cuba where appropriate to advance U.S. interests.  The United States also addressed consular services at U.S. Embassy Havana, to include visa and American citizen services.</p>
+<p align="left">Ensuring safe, regular, and humane migration between Cuba and the United States remains a mutual interest of both countries and is consistent with U.S. interests in fostering family reunification and promoting greater respect for human rights and fundamental freedoms in Cuba.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p align="left">On November 15, U.S. and Cuban officials met in Havana to discuss the implementation of the U.S.-Cuba Migration Accords. This is the second session in 2022 of these semiannual bilateral discussions on migration, reflecting a commitment by both countries to regularly review the implementation of the Accords.  Deputy Assistant Secretary for Western Hemisphere Affairs Emily Mendrala led the U.S. interagency delegation, and Cuba’s Vice Foreign Minister Carlos Fernandez de Cossio led the Cuban delegation.  These migration talks provide an opportunity for discussions on mutual implementation of the Migration Accords, comprised of a series of bilateral agreements between the United States and Cuba done in 1984, 1994, 1995, and 2017.</p>
+<p align="left">The U.S. delegation highlighted areas of successful cooperation on migration, while also identifying issues that have been obstacles to fulfilling the goals of the Accords.  Engaging in these talks underscores our commitment to pursuing constructive discussions with the Government of Cuba where appropriate to advance U.S. interests.  The United States also addressed consular services at U.S. Embassy Havana, to include visa and American citizen services.</p>
+<p align="left">Ensuring safe, regular, and humane migration between Cuba and the United States remains a mutual interest of both countries and is consistent with U.S. interests in fostering family reunification and promoting greater respect for human rights and fundamental freedoms in Cuba.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Accelerating Adaptation Action in Africa</title>
 		<link>https://www.state.gov/accelerating-adaptation-action-in-africa/</link>
 		
@@ -1555,167 +1716,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The United States will continue to crack down on Russia’s attempts to evade international sanctions to fund its war machine.  Businesses worldwide are advised to do their due diligence in order to avoid being targeted for sanctions.</p>
 <p>For more information on today’s action, please see the Department of the Treasury’s <a href="https://home.treasury.gov/news/press-releases/jy1102">press release</a>.</p>
 <p><input type="hidden" data-filter="100000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>State Department Launches Afghan Family Reunification Landing Page</title>
-		<link>https://www.state.gov/state-department-launches-afghan-family-reunification-landing-page/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Mon, 14 Nov 2022 15:00:03 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=396460</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The Department of State announces today the launch of an Afghan <a href="https://www.state.gov/afghanistan-family-reunification/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">family reunification landing page</a>, which contains information on how Afghans in the United States can seek to reunify with their family members, depending on their immigration status or method of entry to the United States.</p>
-<p>Since August 2021, the United States has supported the reunification and resettlement of Afghan families. Although the United States has been able to successfully reunify some families, others remain separated, and continue to experience hardship and challenges.  The purpose of this reunification landing page is to help those families which are still separated.</p>
-<p>The United States has an enduring commitment to the people of Afghanistan and is committed to providing individuals seeking to reunite with their family members with the information and tools they need.  Individuals seeking reunification with family members in Afghanistan may have different avenues to pursue reunification depending on their immigration status or method of entry to the United States.  Our family reunification landing page identifies pathways and how individuals can begin the applicable process for:  U.S. citizens, lawful permanent residents (LPRs), refugees, asylees, and Afghan parolees, including those subsequently granted temporary protected status.</p>
-<p>The landing page will be located on a new section of the Department’s <a href="https://www.state.gov/afghanistan-inquiries/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">Afghanistan Inquiries page</a>, and the U.S. Mission to Afghanistan and the USCIS websites which will direct individuals seeking reunification with their family members to the available pathways.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The Department of State announces today the launch of an Afghan <a href="https://www.state.gov/afghanistan-family-reunification/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">family reunification landing page</a>, which contains information on how Afghans in the United States can seek to reunify with their family members, depending on their immigration status or method of entry to the United States.</p>
-<p>Since August 2021, the United States has supported the reunification and resettlement of Afghan families. Although the United States has been able to successfully reunify some families, others remain separated, and continue to experience hardship and challenges.  The purpose of this reunification landing page is to help those families which are still separated.</p>
-<p>The United States has an enduring commitment to the people of Afghanistan and is committed to providing individuals seeking to reunite with their family members with the information and tools they need.  Individuals seeking reunification with family members in Afghanistan may have different avenues to pursue reunification depending on their immigration status or method of entry to the United States.  Our family reunification landing page identifies pathways and how individuals can begin the applicable process for:  U.S. citizens, lawful permanent residents (LPRs), refugees, asylees, and Afghan parolees, including those subsequently granted temporary protected status.</p>
-<p>The landing page will be located on a new section of the Department’s <a href="https://www.state.gov/afghanistan-inquiries/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">Afghanistan Inquiries page</a>, and the U.S. Mission to Afghanistan and the USCIS websites which will direct individuals seeking reunification with their family members to the available pathways.</p>
 ]]></content:encoded>
 					
 		
