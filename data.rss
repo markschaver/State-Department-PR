@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Mon, 14 Nov 2022 20:07:48 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Nov 2022 00:18:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,161 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Iran Attacks the Iraqi Kurdistan Region</title>
+		<link>https://www.state.gov/iran-attacks-the-iraqi-kurdistan-region/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Tue, 15 Nov 2022 00:18:41 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=396741</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p><span>We strongly condemn Iran’s continued missile and <wbr />drone attacks against the Iraqi Kurdistan Region.  We call on Iran, which has repeatedly and brazenly violated Iraq’s sovereignty, to stop these attacks and refrain from further threats against Iraq’s territorial integrity.  The United States stands with our partners in Baghdad and Erbil and shares the Government of Iraq’s objective to preserve the country’s security, stability, and sovereignty.</span></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p><span>We strongly condemn Iran’s continued missile and <wbr />drone attacks against the Iraqi Kurdistan Region.  We call on Iran, which has repeatedly and brazenly violated Iraq’s sovereignty, to stop these attacks and refrain from further threats against Iraq’s territorial integrity.  The United States stands with our partners in Baghdad and Erbil and shares the Government of Iraq’s objective to preserve the country’s security, stability, and sovereignty.</span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Assistant Secretary Brian A. Nichols Visits Montevideo and Santiago for High-Level Dialogues</title>
 		<link>https://www.state.gov/assistant-secretary-brian-a-nichols-visits-montevideo-and-santiago-for-high-level-dialogues/</link>
 		
@@ -1559,165 +1714,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <li><strong>Clean Energy Ministerial Equality Initiative New Ambassador Cohort ($70,000):</strong> The Clean Energy Ministerial (CEM)&#8217;s Equality in Energy Transitions Initiative&#8217;s Ambassadors Program aims to have at least 4-6 new ambassadors to announce by COP27. Nominations will continue past COP27 with an aim to reach further ambassadors outside of the Equality Initiative membership. <em>(Department of Energy)</em></li>
 </ul>
 <p>For media inquiries, please contact ClimateComms@state.gov.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Resumption of Humanitarian Assistance to Northern Ethiopia</title>
-		<link>https://www.state.gov/resumption-of-humanitarian-assistance-to-northern-ethiopia/</link>
-		
-		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
-		<pubDate>Sat, 12 Nov 2022 21:16:37 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=396329</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Ned Price, Department Spokesperson</p>
-<p>We welcome the commitment to unhindered humanitarian access and clarification of cessation of hostilities implementing arrangements articulated in the Declaration of the Senior Commanders Meeting on the Implementation of the Ethiopia Permanent Cessation of Hostilities Agreement announced today in Nairobi. In addition to more concretely specifying the implementation of the November 2 agreement signed in Pretoria, the parties further committed to cooperate and facilitate the delivery of unhindered humanitarian access in today’s agreement. We welcome the humanitarian access permissions that have already been restored as well as the firm commitments for humanitarian assistance to flow to the Tigray Region and the affected areas of the Afar and Amhara Regions to address the needs of the most vulnerable. The United States is the largest supporter of humanitarian aid to Ethiopia, and we will continue to deliver to those most in need.</p>
-<p>As the parties implement the commitments they made in the November 2 agreement and today’s declaration, they must honor the cessation of hostilities, expedite unhindered humanitarian assistance to all in need, protect all civilians, deliver restoration of basic services throughout northern Ethiopia, and begin investigation of and accountability for human rights abuses.</p>
-<p>We commend the parties for continuing to deliver on their commitments and applaud the determined efforts of AU High Representative former Nigerian President Olusegun Obasanjo and former Kenyan President Uhuru Kenyatta who spearheaded this effort in Nairobi, the government of Kenya for hosting, and the African Union for its leadership. The United States will continue to support the implementation of the November 2 agreement and efforts to achieve a lasting peace. Work remains, but progress is promising and gives the Ethiopian people reason for hope.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
-<p>We welcome the commitment to unhindered humanitarian access and clarification of cessation of hostilities implementing arrangements articulated in the Declaration of the Senior Commanders Meeting on the Implementation of the Ethiopia Permanent Cessation of Hostilities Agreement announced today in Nairobi. In addition to more concretely specifying the implementation of the November 2 agreement signed in Pretoria, the parties further committed to cooperate and facilitate the delivery of unhindered humanitarian access in today’s agreement. We welcome the humanitarian access permissions that have already been restored as well as the firm commitments for humanitarian assistance to flow to the Tigray Region and the affected areas of the Afar and Amhara Regions to address the needs of the most vulnerable. The United States is the largest supporter of humanitarian aid to Ethiopia, and we will continue to deliver to those most in need.</p>
-<p>As the parties implement the commitments they made in the November 2 agreement and today’s declaration, they must honor the cessation of hostilities, expedite unhindered humanitarian assistance to all in need, protect all civilians, deliver restoration of basic services throughout northern Ethiopia, and begin investigation of and accountability for human rights abuses.</p>
-<p>We commend the parties for continuing to deliver on their commitments and applaud the determined efforts of AU High Representative former Nigerian President Olusegun Obasanjo and former Kenyan President Uhuru Kenyatta who spearheaded this effort in Nairobi, the government of Kenya for hosting, and the African Union for its leadership. The United States will continue to support the implementation of the November 2 agreement and efforts to achieve a lasting peace. Work remains, but progress is promising and gives the Ethiopian people reason for hope.</p>
 ]]></content:encoded>
 					
 		
