@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 16 Nov 2022 14:37:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Nov 2022 16:21:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,181 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>International Cooperation in NASA’s Artemis I Program</title>
+		<link>https://www.state.gov/international-cooperation-in-nasas-artemis-i-program/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Wed, 16 Nov 2022 16:21:27 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=397287</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>NASA&#8217;s Artemis program is inspiring the world as it seeks to land the first woman and first person of color on the Moon and conduct a historic first crewed mission to Mars.</p>
+<p>The Artemis program, comprising a series of robotic and crewed science and exploration missions, is intended to be the broadest and most diverse international human space exploration coalition in history.  Key international participation in the Artemis I mission includes:</p>
+<ul>
+<li><a class="external-link" href="https://www.esa.int/" target="_BLANK" rel="noopener"><span class="external-link-title">European Space Agency</span><span class="icon-external"> </span></a> (ESA): The European Space Agency provides the European Service Module (ESM) for the Orion spacecraft, located below the crew module.</li>
+<li><a class="external-link" href="https://www.dlr.de/EN/Home/home_node.html" target="_BLANK" rel="noopener"><span class="external-link-title">German Aerospace Center</span><span class="icon-external"> </span></a> (DLR) &amp; <a class="external-link" href="https://www.space.gov.il/en" target="_BLANK" rel="noopener"><span class="external-link-title">Israel Space Agency</span><span class="icon-external"> </span></a> (ISA): DLR and ISA are providing the MARE (Matroshka AstroRad Radiation Experiment).  Two female phantom torsos equipped with radiation sensors, named Helga and Zohar, are flying in the Orion crew vehicle to measure the effects of radiation.</li>
+<li><a class="external-link" href="https://www.asi.it/en/" target="_BLANK" rel="noopener"><span class="external-link-title">Italian Space Agency</span><span class="icon-external"> </span></a> (ASI): ASI is providing the ArgoMoon CubeSat which will demonstrate performing operations in close proximity of the Interim Cryogenic Propulsion Stage (ICPS) and record images of the ICPS during flight.</li>
+<li><a class="external-link" href="https://global.jaxa.jp/" target="_BLANK" rel="noopener"><span class="external-link-title">Japan Aerospace Exploration Agency</span><span class="icon-external"> </span></a> (JAXA): JAXA is providing two CubeSats: EQUULEUS (Equilibrium Lunar-Earth point 6U Spacecraft), which will measure the radiation environment around Earth, and OMOTENASHI (Outstanding Moon exploration Technologies demonstrated by Nano Semi-Hard Impactor), a lunar impactor that will demonstrate small lunar landing technology. A successful landing will mark Japan as the fourth nation to successfully land on the Moon.</li>
+</ul>
+<p>In addition, the Artemis I mission will receive communications and navigation support through the <a class="external-link" href="https://www.csiro.au/en/about/facilities-collections/international-facilities/cdscc" target="_BLANK" rel="noopener"><span class="external-link-title">Canberra Deep Space Communications Complex</span><span class="icon-external"> </span></a> (CDSCC) in Australia and the <a class="external-link" href="https://www.mdscc.nasa.gov/index.php/en/start/" target="_BLANK" rel="noopener"><span class="external-link-title">Madrid Deep Space Communications Complex</span><span class="icon-external"> </span></a> (MDSCC) in Spain.  Deep space communications have been an international effort since the Apollo program and we’re proud to continue these longstanding relationships with Australia and Spain for the Artemis missions.</p>
+<p>For media inquiries, please contact OES-PA-DG@state.gov.</p>
+<p><input type="hidden" data-filter="111001000111" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>NASA&#8217;s Artemis program is inspiring the world as it seeks to land the first woman and first person of color on the Moon and conduct a historic first crewed mission to Mars.</p>
+<p>The Artemis program, comprising a series of robotic and crewed science and exploration missions, is intended to be the broadest and most diverse international human space exploration coalition in history.  Key international participation in the Artemis I mission includes:</p>
+<ul>
+<li><a class="external-link" href="https://www.esa.int/" target="_BLANK" rel="noopener"><span class="external-link-title">European Space Agency</span><span class="icon-external"> </span></a> (ESA): The European Space Agency provides the European Service Module (ESM) for the Orion spacecraft, located below the crew module.</li>
+<li><a class="external-link" href="https://www.dlr.de/EN/Home/home_node.html" target="_BLANK" rel="noopener"><span class="external-link-title">German Aerospace Center</span><span class="icon-external"> </span></a> (DLR) &amp; <a class="external-link" href="https://www.space.gov.il/en" target="_BLANK" rel="noopener"><span class="external-link-title">Israel Space Agency</span><span class="icon-external"> </span></a> (ISA): DLR and ISA are providing the MARE (Matroshka AstroRad Radiation Experiment).  Two female phantom torsos equipped with radiation sensors, named Helga and Zohar, are flying in the Orion crew vehicle to measure the effects of radiation.</li>
+<li><a class="external-link" href="https://www.asi.it/en/" target="_BLANK" rel="noopener"><span class="external-link-title">Italian Space Agency</span><span class="icon-external"> </span></a> (ASI): ASI is providing the ArgoMoon CubeSat which will demonstrate performing operations in close proximity of the Interim Cryogenic Propulsion Stage (ICPS) and record images of the ICPS during flight.</li>
+<li><a class="external-link" href="https://global.jaxa.jp/" target="_BLANK" rel="noopener"><span class="external-link-title">Japan Aerospace Exploration Agency</span><span class="icon-external"> </span></a> (JAXA): JAXA is providing two CubeSats: EQUULEUS (Equilibrium Lunar-Earth point 6U Spacecraft), which will measure the radiation environment around Earth, and OMOTENASHI (Outstanding Moon exploration Technologies demonstrated by Nano Semi-Hard Impactor), a lunar impactor that will demonstrate small lunar landing technology. A successful landing will mark Japan as the fourth nation to successfully land on the Moon.</li>
+</ul>
+<p>In addition, the Artemis I mission will receive communications and navigation support through the <a class="external-link" href="https://www.csiro.au/en/about/facilities-collections/international-facilities/cdscc" target="_BLANK" rel="noopener"><span class="external-link-title">Canberra Deep Space Communications Complex</span><span class="icon-external"> </span></a> (CDSCC) in Australia and the <a class="external-link" href="https://www.mdscc.nasa.gov/index.php/en/start/" target="_BLANK" rel="noopener"><span class="external-link-title">Madrid Deep Space Communications Complex</span><span class="icon-external"> </span></a> (MDSCC) in Spain.  Deep space communications have been an international effort since the Apollo program and we’re proud to continue these longstanding relationships with Australia and Spain for the Artemis missions.</p>
+<p>For media inquiries, please contact OES-PA-DG@state.gov.</p>
+<p><input type="hidden" data-filter="111001000111" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Blinken’s Call with Azerbaijani President Aliyev</title>
 		<link>https://www.state.gov/secretary-blinkens-call-with-azerbaijani-president-aliyev-9/</link>
 		
@@ -1915,167 +2090,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p align="left">Corrupt acts such as these undermine the integrity of Belize’s democratic institutions and fuel perceptions of corruption and impunity, diminishing confidence in governance.  As part of this action, the Department is also designating Saldivar’s immediate family members, Darlene Karen Saldivar, Johnelle Saldivar, Jevoughn Saldivar, and his minor child.</p>
 <p align="left">These designations reaffirm the commitment of the United States to combat corruption, which harms the public interest, hampers countries’ economic prosperity, and curtails the ability of governments to respond effectively to the needs of their people.  The United States continues to stand with all Belizeans in support of democracy and the rule of law and will continue to promote accountability for those who abuse public power for personal gain, regardless of their position or political affiliation.</p>
 <p><input type="hidden" data-filter="100001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Migration Talks with the Government of Cuba</title>
-		<link>https://www.state.gov/migration-talks-with-the-government-of-cuba-2/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Tue, 15 Nov 2022 19:46:49 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=396931</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p align="left">On November 15, U.S. and Cuban officials met in Havana to discuss the implementation of the U.S.-Cuba Migration Accords. This is the second session in 2022 of these semiannual bilateral discussions on migration, reflecting a commitment by both countries to regularly review the implementation of the Accords.  Deputy Assistant Secretary for Western Hemisphere Affairs Emily Mendrala led the U.S. interagency delegation, and Cuba’s Vice Foreign Minister Carlos Fernandez de Cossio led the Cuban delegation.  These migration talks provide an opportunity for discussions on mutual implementation of the Migration Accords, comprised of a series of bilateral agreements between the United States and Cuba done in 1984, 1994, 1995, and 2017.</p>
-<p align="left">The U.S. delegation highlighted areas of successful cooperation on migration, while also identifying issues that have been obstacles to fulfilling the goals of the Accords.  Engaging in these talks underscores our commitment to pursuing constructive discussions with the Government of Cuba where appropriate to advance U.S. interests.  The United States also addressed consular services at U.S. Embassy Havana, to include visa and American citizen services.</p>
-<p align="left">Ensuring safe, regular, and humane migration between Cuba and the United States remains a mutual interest of both countries and is consistent with U.S. interests in fostering family reunification and promoting greater respect for human rights and fundamental freedoms in Cuba.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p align="left">On November 15, U.S. and Cuban officials met in Havana to discuss the implementation of the U.S.-Cuba Migration Accords. This is the second session in 2022 of these semiannual bilateral discussions on migration, reflecting a commitment by both countries to regularly review the implementation of the Accords.  Deputy Assistant Secretary for Western Hemisphere Affairs Emily Mendrala led the U.S. interagency delegation, and Cuba’s Vice Foreign Minister Carlos Fernandez de Cossio led the Cuban delegation.  These migration talks provide an opportunity for discussions on mutual implementation of the Migration Accords, comprised of a series of bilateral agreements between the United States and Cuba done in 1984, 1994, 1995, and 2017.</p>
-<p align="left">The U.S. delegation highlighted areas of successful cooperation on migration, while also identifying issues that have been obstacles to fulfilling the goals of the Accords.  Engaging in these talks underscores our commitment to pursuing constructive discussions with the Government of Cuba where appropriate to advance U.S. interests.  The United States also addressed consular services at U.S. Embassy Havana, to include visa and American citizen services.</p>
-<p align="left">Ensuring safe, regular, and humane migration between Cuba and the United States remains a mutual interest of both countries and is consistent with U.S. interests in fostering family reunification and promoting greater respect for human rights and fundamental freedoms in Cuba.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
