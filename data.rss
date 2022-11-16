@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 16 Nov 2022 01:52:19 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Nov 2022 03:59:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Blinken’s Call with Ukrainian Foreign Minister Kuleba</title>
+		<link>https://www.state.gov/secretary-blinkens-call-with-ukrainian-foreign-minister-kuleba-34/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Wed, 16 Nov 2022 03:59:56 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=397163</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The following is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Ukrainian Foreign Minister Dmytro Kuleba following multiple waves of Russian missile attacks on November 15 that struck several residential buildings in Kyiv and devastated critical energy infrastructure across Ukraine.  The Secretary and Foreign Minister discussed Ukraine’s needs, including for energy security and air defense. They also discussed ongoing assessments of an explosion that took two lives in Poland, and they pledged to remain closely coordinated in the coming days. The Secretary further affirmed the United States will continue to work closely with Allies and partners to provide Ukraine what it needs to defend itself.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The following is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Ukrainian Foreign Minister Dmytro Kuleba following multiple waves of Russian missile attacks on November 15 that struck several residential buildings in Kyiv and devastated critical energy infrastructure across Ukraine.  The Secretary and Foreign Minister discussed Ukraine’s needs, including for energy security and air defense. They also discussed ongoing assessments of an explosion that took two lives in Poland, and they pledged to remain closely coordinated in the coming days. The Secretary further affirmed the United States will continue to work closely with Allies and partners to provide Ukraine what it needs to defend itself.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>West Bank Violence</title>
 		<link>https://www.state.gov/west-bank-violence/</link>
 		
@@ -1917,225 +2076,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p align="left">The Governments of the United States of America and Egypt co-hosted an event in conjunction with President Biden’s visit to COP27.  COP27 President Sameh Shoukry and U.S. Special Presidential Envoy for Climate John Kerry presided over the event, which focused on the two governments’ efforts to accelerate climate adaptation action and support in Africa.  Secretary Kerry emphasized the United States’ commitment to help vulnerable countries and communities in Africa adapt to and manage the impacts of climate change, as part of the President’s Emergency Plan for Adaptation and Resilience (PREPARE). This includes the United States’ response to the UN Secretary General’s call for Early Warning for All within the next five years, where we will help close the gap in Africa.  This also includes support that will enable the Africa Adaptation Initiative to launch a new Food Security Accelerator, as well as support for the launch of Egypt’s Cairo Center for Learning and Excellence on Adaptation and Resilience.  In addition to President Biden’s announcement of over $150 million to accelerate PREPARE’s work across the African continent, the event also included announcements of over $100 million in pledged contributions from the private sector and philanthropy.</p>
 <p align="left">For media inquiries, please contact <a href="mailto:ClimateComms@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="0">ClimateComms@state.gov.</a></p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Public Schedule – November 15, 2022</title>
-		<link>https://www.state.gov/public-schedule-november-15-2022/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Tue, 15 Nov 2022 00:50:43 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=396749</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p style="text-align: center;"><b>***THE DAILY PUBLIC SCHEDULE IS SUBJECT TO CHANGE***</b></p>
-<p><span style="text-decoration: underline;"><b>SECRETARY ANTONY J. BLINKEN</b></span></p>
-<p>Secretary Blinken is on travel to Egypt, Cambodia, Indonesia, and Thailand from November 11-18, 2022. Please click <a href="https://www.state.gov/secretary-antony-j-blinken-travel-to-sharm-el-sheikh-phnom-penh-bali-and-bangkok/">here</a> for more information.</p>
-<p><span style="text-decoration: underline;"><b>DEPUTY SECRETARY WENDY R. SHERMAN</b></span></p>
-<p>Deputy Secretary Sherman attends meetings and briefing at the Department of State.</p>
-<p><b><span style="text-decoration: underline;">DEPUTY SECRETARY FOR MANAGEMENT AND RESOURCES BRIAN P. MCKEON</span></b></p>
-<p>Deputy Secretary McKeon attends meetings and briefing at the Department of State.</p>
-<p><span style="text-decoration: underline;"><b>UNDER SECRETARY FOR POLITICAL AFFAIRS VICTORIA J. NULAND</b></span></p>
-<p>Under Secretary Nuland is on travel to Jamaica, Ecuador, and Colombia from November 14-18, 2022. Please click <a href="https://www.state.gov/under-secretary-nulands-travel-to-jamaica-ecuador-and-colombia/">here</a> for more information.</p>
-<p><span style="text-decoration: underline;"><b>UNDER SECRETARY FOR ARMS CONTROL AND INTERNATIONAL SECURITY BONNIE D. JENKINS</b></span></p>
-<p>Under Secretary Jenkins is on travel to Belgium and the Netherlands from November 14-16, 2022. Please click <a href="https://www.state.gov/under-secretary-jenkins-travel-to-brussels-and-amsterdam/">here</a> for more information.</p>
-<p><span style="text-decoration: underline;"><b>UNDER SECRETARY FOR CIVILIAN SECURITY, DEMOCRACY, AND HUMAN RIGHTS UZRA ZEYA</b></span></p>
-<p><b>3:30 p.m. </b>Under Secretary Zeya meets with Kazakhstan Deputy Chief of Staff and Special Representative of the President of Kazakhstan for International Cooperation Yerzhan Kazykhan at the Department of State.<br />
-<b>(CLOSED PRESS COVERAGE)</b></p>
-<p><span style="text-decoration: underline;"><b>ASSISTANT SECRETARY FOR EUROPEAN AND EURASIAN AFFAIRS KAREN DONFRIED</b></span></p>
-<p><b>1:00 p.m.</b> Assistant Secretary Donfried meets with Polish Ambassador to the United States Marek Magierowski at the Department of State.<br />
-<b>(CLOSED</b> <b>PRESS COVERAGE)</b></p>
-<p><b>8:30 p.m.  </b>Assistant Secretary Donfried delivers virtual remarks at the Struggle for Freedom Conference in Dallas, Texas.<br />
-<b>(OPEN</b> <b>PRESS COVERAGE)</b></p>
-<p><span style="text-decoration: underline;"><b>ASSISTANT SECRETARY FOR CONFLICT AND STABILIZATION OPERATIONS ANNE WITKOWSKY</b></span></p>
-<p>Assistant Secretary Witkowsky is on travel to Egypt from November 13-14, 2022. Please click <a href="https://www.state.gov/assistant-secretary-witkowskys-travel-to-egypt-for-un-climate-change-conference/">here</a> for more information.</p>
-<p><span style="text-decoration: underline;"><b>ASSISTANT SECRETARY FOR EDUCATIONAL AND CULTURAL AFFAIRS LEE SATTERFIELD</b></span></p>
-<p><b>6:30 p.m.</b> Assistant Secretary Satterfield delivers remarks at a Joint Declaration of Intent Signing Ceremony with the Republic of Germany for the Benjamin A. Gilman International Scholarship Program in Washington, D.C.<br />
-<b>(OPEN PRESS COVERAGE)</b></p>
-<p><span style="text-decoration: underline;"><b>ASSISTANT SECRETARY FOR OCEANS AND INTERNATIONAL ENVIRONMENTAL AND SCIENTIFIC AFFAIRS MONICA P. MEDINA</b></span></p>
-<p>Assistant Secretary Medina is on travel to Israel and Egypt from November 2-17, 2022. Please click <a href="https://www.state.gov/assistant-secretary-medinas-travel-to-israel-and-egypt/">here</a> for more information.</p>
-<p><span style="text-decoration: underline;"><b>ASSISTANT SECRETARY FOR POPULATION, REFUGEES, AND MIGRATION JULIETA VALLS NOYES</b></span></p>
-<p>Assistant Secretary Noyes is on travel to Jordan from November 13-17, 2022. Please click <a href="https://www.state.gov/assistant-secretary-noyes-travels-to-jordan/">here</a> for more information.</p>
-<p><span style="text-decoration: underline;"><b>BRIEFING SCHEDULE</b></span></p>
-<p><b>2:00 p.m. </b>Department Press Briefing with Principal Deputy Spokesperson Vedant Patel.<br />
-<b>(OPEN PRESS COVERAGE)</b></p>
-<p><i>The Department Press Briefing will be livestreamed on </i><a href="http://www.state.gov/"><i>www.state.gov</i></a><i> and </i><a href="http://www.youtube.com/statedept"><i>www.youtube.com/statedept</i></a><i>. </i></p>
-<p><input type="hidden" data-filter="100000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p style="text-align: center;"><b>***THE DAILY PUBLIC SCHEDULE IS SUBJECT TO CHANGE***</b></p>
-<p><span style="text-decoration: underline;"><b>SECRETARY ANTONY J. BLINKEN</b></span></p>
-<p>Secretary Blinken is on travel to Egypt, Cambodia, Indonesia, and Thailand from November 11-18, 2022. Please click <a href="https://www.state.gov/secretary-antony-j-blinken-travel-to-sharm-el-sheikh-phnom-penh-bali-and-bangkok/">here</a> for more information.</p>
-<p><span style="text-decoration: underline;"><b>DEPUTY SECRETARY WENDY R. SHERMAN</b></span></p>
-<p>Deputy Secretary Sherman attends meetings and briefing at the Department of State.</p>
-<p><b><span style="text-decoration: underline;">DEPUTY SECRETARY FOR MANAGEMENT AND RESOURCES BRIAN P. MCKEON</span></b></p>
-<p>Deputy Secretary McKeon attends meetings and briefing at the Department of State.</p>
-<p><span style="text-decoration: underline;"><b>UNDER SECRETARY FOR POLITICAL AFFAIRS VICTORIA J. NULAND</b></span></p>
-<p>Under Secretary Nuland is on travel to Jamaica, Ecuador, and Colombia from November 14-18, 2022. Please click <a href="https://www.state.gov/under-secretary-nulands-travel-to-jamaica-ecuador-and-colombia/">here</a> for more information.</p>
-<p><span style="text-decoration: underline;"><b>UNDER SECRETARY FOR ARMS CONTROL AND INTERNATIONAL SECURITY BONNIE D. JENKINS</b></span></p>
-<p>Under Secretary Jenkins is on travel to Belgium and the Netherlands from November 14-16, 2022. Please click <a href="https://www.state.gov/under-secretary-jenkins-travel-to-brussels-and-amsterdam/">here</a> for more information.</p>
-<p><span style="text-decoration: underline;"><b>UNDER SECRETARY FOR CIVILIAN SECURITY, DEMOCRACY, AND HUMAN RIGHTS UZRA ZEYA</b></span></p>
-<p><b>3:30 p.m. </b>Under Secretary Zeya meets with Kazakhstan Deputy Chief of Staff and Special Representative of the President of Kazakhstan for International Cooperation Yerzhan Kazykhan at the Department of State.<br />
-<b>(CLOSED PRESS COVERAGE)</b></p>
-<p><span style="text-decoration: underline;"><b>ASSISTANT SECRETARY FOR EUROPEAN AND EURASIAN AFFAIRS KAREN DONFRIED</b></span></p>
-<p><b>1:00 p.m.</b> Assistant Secretary Donfried meets with Polish Ambassador to the United States Marek Magierowski at the Department of State.<br />
-<b>(CLOSED</b> <b>PRESS COVERAGE)</b></p>
-<p><b>8:30 p.m.  </b>Assistant Secretary Donfried delivers virtual remarks at the Struggle for Freedom Conference in Dallas, Texas.<br />
-<b>(OPEN</b> <b>PRESS COVERAGE)</b></p>
-<p><span style="text-decoration: underline;"><b>ASSISTANT SECRETARY FOR CONFLICT AND STABILIZATION OPERATIONS ANNE WITKOWSKY</b></span></p>
-<p>Assistant Secretary Witkowsky is on travel to Egypt from November 13-14, 2022. Please click <a href="https://www.state.gov/assistant-secretary-witkowskys-travel-to-egypt-for-un-climate-change-conference/">here</a> for more information.</p>
-<p><span style="text-decoration: underline;"><b>ASSISTANT SECRETARY FOR EDUCATIONAL AND CULTURAL AFFAIRS LEE SATTERFIELD</b></span></p>
-<p><b>6:30 p.m.</b> Assistant Secretary Satterfield delivers remarks at a Joint Declaration of Intent Signing Ceremony with the Republic of Germany for the Benjamin A. Gilman International Scholarship Program in Washington, D.C.<br />
-<b>(OPEN PRESS COVERAGE)</b></p>
-<p><span style="text-decoration: underline;"><b>ASSISTANT SECRETARY FOR OCEANS AND INTERNATIONAL ENVIRONMENTAL AND SCIENTIFIC AFFAIRS MONICA P. MEDINA</b></span></p>
-<p>Assistant Secretary Medina is on travel to Israel and Egypt from November 2-17, 2022. Please click <a href="https://www.state.gov/assistant-secretary-medinas-travel-to-israel-and-egypt/">here</a> for more information.</p>
-<p><span style="text-decoration: underline;"><b>ASSISTANT SECRETARY FOR POPULATION, REFUGEES, AND MIGRATION JULIETA VALLS NOYES</b></span></p>
-<p>Assistant Secretary Noyes is on travel to Jordan from November 13-17, 2022. Please click <a href="https://www.state.gov/assistant-secretary-noyes-travels-to-jordan/">here</a> for more information.</p>
-<p><span style="text-decoration: underline;"><b>BRIEFING SCHEDULE</b></span></p>
-<p><b>2:00 p.m. </b>Department Press Briefing with Principal Deputy Spokesperson Vedant Patel.<br />
-<b>(OPEN PRESS COVERAGE)</b></p>
-<p><i>The Department Press Briefing will be livestreamed on </i><a href="http://www.state.gov/"><i>www.state.gov</i></a><i> and </i><a href="http://www.youtube.com/statedept"><i>www.youtube.com/statedept</i></a><i>. </i></p>
-<p><input type="hidden" data-filter="100000000100" /></p>
 ]]></content:encoded>
 					
 		
