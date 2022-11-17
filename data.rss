@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 17 Nov 2022 21:12:39 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Nov 2022 22:01:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,239 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Addressing U.S. Visitor Visa Wait Times</title>
+		<link>https://www.state.gov/addressing-u-s-visitor-visa-wait-times/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Thu, 17 Nov 2022 22:01:05 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=397750</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The Department of State is committed to facilitating legitimate travel to the United States while safeguarding national security.</p>
+<p>Many applicants for U.S. visas are required by U.S. law to appear in person.  However, local pandemic-era restrictions on public places like our overseas consular sections curbed our ability to see visa applicants.  This reduced the number of visa applications the Department could process.  Now that most countries have lifted restrictions, ninety-six percent of our embassies and consulates can provide routine visa services.  The combination of pent-up demand from the past two years combined with regular seasonal demand has resulted in extended wait times for U.S. visa interview appointments in some locations – most notably for first-time visitor visa applicants and immigrant visa applicants in some countries.</p>
+<p>The Department of State is successfully lowering visa interview wait times worldwide.  We have doubled our hiring of U.S. Foreign Service personnel to do this important work, visa processing is rebounding faster than projected, and in Fiscal Year (FY) 2023 we expect to reach pre‑pandemic visa processing levels.</p>
+<p>As of November 2022, the median worldwide wait time for a tourist visa (B1/B2) interview appointment is about two months, and applicants with urgent travel needs who meet certain criteria can apply for an emergency appointment, usually available within days.  We are committed to continuing our progress and further reducing visa interview appointment wait times as quickly as possible.</p>
+<p>In the past year, we have made great strides in returning to pre-pandemic visa processing levels and in reducing appointment wait times by doing the following:</p>
+<ul>
+<li><strong>We are waiving in-person interviews where possible while safeguarding national security.</strong>
+<ul style="list-style-type: circle;">
+<li>We have significantly reduced wait times at many embassies and consulates by working with the Department of Homeland Security to expand our authority to waive in-person interviews for certain nonimmigrant visa categories and for many renewals while still ensuring national security.</li>
+<li>Almost half of the nearly seven million nonimmigrant visas we issued globally in FY 2022 were adjudicated without an in-person interview.</li>
+</ul>
+</li>
+<li><strong>We have exceeded pre-pandemic levels of processing in key visa categories that support the U.S. economy.</strong>
+<ul style="list-style-type: circle;">
+<li>We issued forty percent (40%) more H-2 visas for seasonal agricultural and nonagricultural workers in FY 2022 than in FY 2019. This effort increases legal immigration pathways, reduces irregular migration to our southern border, improves supply chain issues that contribute to inflation, and safeguards our nation’s food supply.</li>
+<li>We issued more student visas in FY 2022 than in any year since FY 2016. During the 2021 &#8211; 2022 academic year, international students contributed more than $32 billion to the U.S. economy.</li>
+<li>In FY 2022, we issued one hundred and forty-five percent (145%) more employment-based immigrant visas applied for by most healthcare workers when compared to FY 2019.</li>
+<li>We nearly matched pre-pandemic processing rates for the airline and shipping crew members who are essential for maintaining global supply chains.</li>
+</ul>
+</li>
+<li><strong>We are processing more visas with fewer consular officers.</strong>
+<ul style="list-style-type: circle;">
+<li>As of the end of FY 2022, we were already processing ninety-four percent (94%) of the nonimmigrant visas we processed in FY 2019, and one hundred and thirty percent (130%) of immigrant visas compared to FY 2019 monthly processing averages.</li>
+<li>We continue to add more consular staff abroad, but in the meantime, we have implemented efficiencies that allow us to do more work with fewer resources, all while safeguarding national security.</li>
+</ul>
+</li>
+<li><strong>We are working as a global team.</strong>
+<ul style="list-style-type: circle;">
+<li>We have used innovative technological solutions to electronically redistribute nonimmigrant visa workloads from overseas posts with high visa appointment wait times to other posts with additional capacity.</li>
+<li>Each day, for example, U.S. consular officers in different parts of the world remotely adjudicate thousands of nonimmigrant visa applications for applicants from countries with long interview wait times who do not require an interview. This has allowed our consular officers in those countries to focus on first-time and other visa applicants who do require an interview.</li>
+</ul>
+</li>
+<li><strong>We are providing greater transparency to visa applicants.</strong>
+<ul style="list-style-type: circle;">
+<li>To promote greater transparency and improve customer service, we added new tools on travel.state.gov, so the public can view and compare wait times across embassies and consulates for both nonimmigrant visa interviews and interview waiver applications.</li>
+</ul>
+</li>
+</ul>
+<p>These achievements are just the beginning of a new approach to our work. The dedicated staff of the Department of State will continue these and additional efforts to address the unprecedented demand, so the American people and U.S. economy benefit from keeping our doors open to lawful visitors.</p>
+<p><input type="hidden" data-filter="111001000111" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The Department of State is committed to facilitating legitimate travel to the United States while safeguarding national security.</p>
+<p>Many applicants for U.S. visas are required by U.S. law to appear in person.  However, local pandemic-era restrictions on public places like our overseas consular sections curbed our ability to see visa applicants.  This reduced the number of visa applications the Department could process.  Now that most countries have lifted restrictions, ninety-six percent of our embassies and consulates can provide routine visa services.  The combination of pent-up demand from the past two years combined with regular seasonal demand has resulted in extended wait times for U.S. visa interview appointments in some locations – most notably for first-time visitor visa applicants and immigrant visa applicants in some countries.</p>
+<p>The Department of State is successfully lowering visa interview wait times worldwide.  We have doubled our hiring of U.S. Foreign Service personnel to do this important work, visa processing is rebounding faster than projected, and in Fiscal Year (FY) 2023 we expect to reach pre‑pandemic visa processing levels.</p>
+<p>As of November 2022, the median worldwide wait time for a tourist visa (B1/B2) interview appointment is about two months, and applicants with urgent travel needs who meet certain criteria can apply for an emergency appointment, usually available within days.  We are committed to continuing our progress and further reducing visa interview appointment wait times as quickly as possible.</p>
+<p>In the past year, we have made great strides in returning to pre-pandemic visa processing levels and in reducing appointment wait times by doing the following:</p>
+<ul>
+<li><strong>We are waiving in-person interviews where possible while safeguarding national security.</strong>
+<ul style="list-style-type: circle;">
+<li>We have significantly reduced wait times at many embassies and consulates by working with the Department of Homeland Security to expand our authority to waive in-person interviews for certain nonimmigrant visa categories and for many renewals while still ensuring national security.</li>
+<li>Almost half of the nearly seven million nonimmigrant visas we issued globally in FY 2022 were adjudicated without an in-person interview.</li>
+</ul>
+</li>
+<li><strong>We have exceeded pre-pandemic levels of processing in key visa categories that support the U.S. economy.</strong>
+<ul style="list-style-type: circle;">
+<li>We issued forty percent (40%) more H-2 visas for seasonal agricultural and nonagricultural workers in FY 2022 than in FY 2019. This effort increases legal immigration pathways, reduces irregular migration to our southern border, improves supply chain issues that contribute to inflation, and safeguards our nation’s food supply.</li>
+<li>We issued more student visas in FY 2022 than in any year since FY 2016. During the 2021 &#8211; 2022 academic year, international students contributed more than $32 billion to the U.S. economy.</li>
+<li>In FY 2022, we issued one hundred and forty-five percent (145%) more employment-based immigrant visas applied for by most healthcare workers when compared to FY 2019.</li>
+<li>We nearly matched pre-pandemic processing rates for the airline and shipping crew members who are essential for maintaining global supply chains.</li>
+</ul>
+</li>
+<li><strong>We are processing more visas with fewer consular officers.</strong>
+<ul style="list-style-type: circle;">
+<li>As of the end of FY 2022, we were already processing ninety-four percent (94%) of the nonimmigrant visas we processed in FY 2019, and one hundred and thirty percent (130%) of immigrant visas compared to FY 2019 monthly processing averages.</li>
+<li>We continue to add more consular staff abroad, but in the meantime, we have implemented efficiencies that allow us to do more work with fewer resources, all while safeguarding national security.</li>
+</ul>
+</li>
+<li><strong>We are working as a global team.</strong>
+<ul style="list-style-type: circle;">
+<li>We have used innovative technological solutions to electronically redistribute nonimmigrant visa workloads from overseas posts with high visa appointment wait times to other posts with additional capacity.</li>
+<li>Each day, for example, U.S. consular officers in different parts of the world remotely adjudicate thousands of nonimmigrant visa applications for applicants from countries with long interview wait times who do not require an interview. This has allowed our consular officers in those countries to focus on first-time and other visa applicants who do require an interview.</li>
+</ul>
+</li>
+<li><strong>We are providing greater transparency to visa applicants.</strong>
+<ul style="list-style-type: circle;">
+<li>To promote greater transparency and improve customer service, we added new tools on travel.state.gov, so the public can view and compare wait times across embassies and consulates for both nonimmigrant visa interviews and interview waiver applications.</li>
+</ul>
+</li>
+</ul>
+<p>These achievements are just the beginning of a new approach to our work. The dedicated staff of the Department of State will continue these and additional efforts to address the unprecedented demand, so the American people and U.S. economy benefit from keeping our doors open to lawful visitors.</p>
+<p><input type="hidden" data-filter="111001000111" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>U.S.-ROK Joint Symposium on  Countering DPRK Cyber Threats to Cryptocurrency Exchanges</title>
 		<link>https://www.state.gov/u-s-rok-joint-symposium-on-countering-dprk-cyber-threats-to-cryptocurrency-exchanges/</link>
 		
@@ -1613,337 +1846,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The below is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken spoke today with Ukrainian Foreign Minister Dmytro Kuleba about the Kremlin’s latest unconscionable strikes against Ukraine, which again damaged and destroyed civilian infrastructure, as well as the explosion in eastern Poland.</p>
 <p>The Secretary reiterated that Russia bears full responsibility and culpability for its war against Ukraine and that Ukraine has the inviolable right to protect its citizens and sovereign territory against such attacks. He reaffirmed the United States’ firm and unwavering support for Ukraine’s sovereignty and territorial integrity and pledged continued economic, humanitarian, and security assistance for Ukraine to defend itself and provide for its people. The Secretary and Foreign Minister Kuleba agreed to remain in close contact as the Polish investigation into the explosion in eastern Poland unfolds.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Global Methane Pledge: From Moment to Momentum</title>
-		<link>https://www.state.gov/global-methane-pledge-from-moment-to-momentum/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Thu, 17 Nov 2022 15:57:39 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=397573</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p><em>This fact sheet is being jointly released by the United States and European Union as co-conveners of the Global Methane Pledge.</em><em> </em></p>
-<h4>Unprecedented Momentum for Keeping 1.5°C Within Reach while Advancing Energy Security, Food Security, and Sustainable Development</h4>
-<p>Achieving the Global Methane Pledge (GMP) goal of cutting anthropogenic methane emissions at least 30 percent by 2030 from 2020 levels is the fastest way to reduce near-term warming and is necessary to keep a 1.5°C temperature limit within reach.  Achieving this goal will drive significant energy security, food security, health, and development gains.</p>
-<p>In the year since it launched at COP26, the Global Methane Pledge has generated unprecedented momentum for methane action.  Country endorsements of the GMP have grown from just over 100 last year to 150, more than 50 countries have developed national methane action plans or are in the process of doing so, substantial new financial resources are being directed to methane action, and partners have launched “pathways” of policies and initiatives to drive methane reductions in key methane-emitting sectors – a GMP Energy Pathway launched at the June 2022 Major Economies Forum on Energy and Climate and a GMP Food and Agriculture Pathway and GMP Waste Pathway, both launched today at COP27.</p>
-<h4>The United States and European Union convened a Methane Ministerial at COP27 today to highlight this progress and discuss further implementation steps, including enhanced efforts leading up to COP28.</h4>
-<h4>Progress on the GMP Energy Pathway</h4>
-<p>In June 2022, the United States, European Union, and 11 other countries launched the GMP Energy Pathway to accelerate methane emissions reductions in the fossil energy sector, cleaning up our near-term fossil energy consumption as an essential complement to the clean energy transition.  Recent developments in the Energy Pathway include:<strong> </strong></p>
-<ul>
-<li><u>Uniting importers and exporters to cut fossil energy methane</u>: The United States, European Union, Japan, Canada, Norway, Singapore, and the United Kingdom issued a <a href="https://www.state.gov/joint-declaration-from-energy-importers-and-exporters-on-reducing-greenhouse-gas-emissions-from-fossil-fuels/">Joint Declaration from Energy Importers and Exporters on Reducing Greenhouse Gas Emissions from Fossil Fuels</a>, committing to working towards the creation of an international market for fossil energy that minimizes flaring, methane, and CO<sub>2</sub> emissions across the value chain to the fullest extent practicable. This Declaration covers over half of global gas import volumes and over one-third of global gas production.</li>
-</ul>
-<ul>
-<li><u>Leveraging satellite data to respond to super-emitter sources</u>: The UNEP International Methane Emissions Observatory (IMEO), a core implementing partner of the GMP, launched the <a class="external-link" href="https://www.unep.org/news-and-stories/press-release/un-announces-high-tech-satellite-based-global-methane-detection" target="_BLANK" rel="noopener"><span class="external-link-title">Methane Alert and Response System (MARS)</span><span class="icon-external"> </span></a> to scale up detection of major emission events, notify relevant stakeholders, and support and track mitigation progress.</li>
-</ul>
-<ul>
-<li><u>Mobilizing multilateral funding for methane action</u>: The World Bank Global Gas Flaring Reduction Partnership will launch the next phase of its trust fund in 2023 to become the Global Flaring and Methane Reduction (GFMR) Partnership and address all methane emissions across the oil and gas value chain.</li>
-</ul>
-<p><u>New Landmark National Policies and Actions:</u></p>
-<ul>
-<li>The <strong>United States </strong>published a supplemental proposal on reducing harmful emissions and energy waste that will achieve 87 percent reductions in methane emissions from covered sources by 2030 from 2005 levels and will also include the creation of a “super emitter response program.” This is complemented by $1.55 billion in financial and technical assistance from the U.S. Environmental Protection Agency and a “waste emissions charge.</li>
-</ul>
-<ul>
-<li><strong>Nigeria </strong>became the first African country to regulate methane emissions from its oil and gas sector.</li>
-</ul>
-<ul>
-<li><strong>Colombia </strong>became the first South American country to regulate methane emissions from its oil and gas sector. At COP27, Colombia also endorsed the Global Methane Pledge Energy Pathway.</li>
-</ul>
-<ul>
-<li><strong>Ecuador </strong>finalized regulations to support achievement of zero routine flaring commitments and to shut down all flares located near human settlements.</li>
-</ul>
-<ul>
-<li><strong>Canada </strong>has published its proposed regulatory framework to achieve at least a 75 percent reduction from the oil and gas sector by 2030 relative to 2012.</li>
-</ul>
-<ul>
-<li>In <strong>Mexico</strong>, PEMEX will develop and release a plan for methane and flaring reduction activities by the first half of 2023, with technical support from the U.S. Environmental Protection Agency.</li>
-</ul>
-<ul>
-<li><strong>Malaysia’s </strong>national oil company and regulator, PETRONAS, announced a target to reduce methane emissions 50 percent by 2025, as well as its participation in the Oil and Gas Methane Partnership 2.0.<strong> </strong></li>
-</ul>
-<ul>
-<li><strong>Egypt </strong>has launched an Oil and Gas Methane Roadmap framework with core elements of a comprehensive methane reduction approach, and will complete a specific Oil and Gas Methane Roadmap for Egypt in 2023.</li>
-</ul>
-<h4>New GMP Food and Agriculture Pathway</h4>
-<p>Launched today, the GMP Food and Agriculture Pathway advances climate and food security goals through new actions that increase agricultural productivity, reduce food loss and waste, and improve the viability of agriculture in the future.  Initial components of the GMP Food and Agriculture Pathway include:<strong> </strong></p>
-<ul>
-<li><u>Boosting Support for Smallholder Farmers</u>: The Green Climate Fund, in partnership with the International Fund for Agricultural Development (IFAD), the Food and Agriculture Organization, Global Dairy Platform and Global Methane Hub, <a class="external-link" href="https://www.greenclimate.fund/news/pathways-dairy-net-zero-promoting-low-carbon-and-climate-resilient-livestock-east-africa" target="_BLANK" rel="noopener"><span class="external-link-title">approved</span><span class="icon-external"> </span></a> $3.5 million of project preparation funding with the objective of leveraging up to $400 million in financing that will help transition dairy systems to lower emission, climate resilient pathways in Kenya, Rwanda, Tanzania and Uganda. Costa Rica, Uruguay, Colombia, Pakistan, and Vietnam are planning to prepare similar programs through a partnership with Pathways to Dairy Net Zero. IFAD and United States <a class="external-link" href="https://www.ifad.org/en/web/latest/-/ifad-and-the-us-state-department-help-small-scale-farmers-to-further-reduce-methane-emissions" target="_BLANK" rel="noopener"><span class="external-link-title">announced</span><span class="icon-external"> </span></a> a partnership to advance climate resilience and methane mitigation with smallholder farmers including by prioritizing methane mitigation in IFAD&#8217;s pipeline of country and regional projects with combined investment of over $500 million dollars in methane-emitting sectors.  In addition, the United States has announced $5 million for the African Development Bank to advance agriculture and waste methane work within the Africa Climate Change Fund.</li>
-</ul>
-<ul>
-<li><u>Increasing Innovation</u>: The Global Methane Hub announced raising $70 million in support for a new Enteric Methane Research and Development Accelerator to advance critical research on reducing methane emissions from enteric fermentation—the largest single source of methane emissions from agriculture—and has a $200 million fundraising goal by the first quarter of 2023. Under the Agricultural Innovation Mission for Climate (AIM4C), seven methane innovation sprints have been launched related to both livestock and rice methane mitigation with total existing funding of $123 million.</li>
-</ul>
-<ul>
-<li><u>Highlighting Ambitious National Actions</u>: The <strong>United States</strong> Department of Agriculture is investing over $500 million in methane reduction projects via Partnerships for Climate Smart Commodities, up to $90 million for domestic food loss and waste reduction, and last year supported dozens of anaerobic digester projects and a broader range of methane-reducing investments through over $64 million in additional grants and guaranteed loans. In the <strong>European Union,</strong> the new Common Agricultural Policy starting in 2023 increases the emphasis on climate action, including methane from livestock.  In total, 40 percent of the budget will be dedicated to climate-related measures, including improved rules and monitoring requirements, and quantitative targets to reduce food waste, among others. The EU has also published a Biomethane Actions Plan with the goal of doubling production to reach 35 billion cubic meters by 2030.</li>
-</ul>
-<h4>New GMP Waste Pathway</h4>
-<p>Waste is responsible for roughly 20 percent of global methane emissions from human activities, and dramatically scaling up efforts to reduce these emissions can deliver important health and economic development benefits. Launched today, the GMP Waste Pathway will focus initially on reducing emissions across the solid waste value chain, from upstream sources to downstream disposal sites.  Initial components of the GMP Waste Pathway include:</p>
-<ul>
-<li><u>Enhancing Measurement and Tracking</u>: Carbon Mapper will use airborne and space-based instruments to develop a global waste sector methane baseline assessment of over 10,000 landfills and dumpsites. RMI and Clean Air Task Force will develop an open-source Waste Methane Assessment Platform with waste sector information to drive methane action. And the Inter-American Development Bank Group (IDB) is developing a Waste Data Hub for Latin America and the Caribbean.</li>
-</ul>
-<ul>
-<li><u>Scaling up Subnational Action</u>: SCALE-Methane, a new initiative of the Subnational Climate Action Leaders’ Exchange, will support accelerated subnational action on waste methane. This work will complement the Pathway Towards Zero Waste joined by 13 cities at the October 2022 C40 World Mayors Summit.<u> </u></li>
-</ul>
-<ul>
-<li><u>Reducing Food Loss and Waste</u>: To advance both the GMP Waste Pathway and the GMP Food and Agriculture Pathway, a Food Waste Management Accelerator will develop methane mitigation projects in 10 countries in Latin America and the Caribbean, the Global Food Banking Network will launch a new effort to quantify and track food banking methane mitigation, the IDB project #SinDesperdicio is creating projects to reduce food loss, and a new USAID Food Loss and Waste Partnerships Facility will scale efforts in Bangladesh, Kenya, Nepal, Niger, Nigeria, and/or Tanzania.</li>
-</ul>
-<ul>
-<li><u>Regional Platforms:</u> The IDB is funding projects with a high impact on methane reduction across different countries in Latin America and the Caribbean and will be launching the Too Good to Waste facility to implement waste projects related to methane mitigation.</li>
-</ul>
-<ul>
-<li><u>Mobilizing Investment</u>: Several of the initiatives outlined above will focus on removing barriers to and scaling up investment in waste methane abatement. Support for the activities in the GMP Waste Pathway comes from, inter alia, the Government of Canada, the U.S. government, the African Development Bank, the Inter-American Development Bank, the Global Methane Hub, the Grantham Foundation for the Protection of the Environment, and Bloomberg Philanthropies.<strong> </strong></li>
-</ul>
-<h4>Progress on National Methane Planning</h4>
-<p>National methane targets and policies, in standalone action plans and/or as part of Nationally Determined Contributions (NDCs), are critical to achieving the Global Methane Pledge.</p>
-<ul>
-<li><u>With recent commitments by several countries, 95 percent of NDCs now include methane or will by their next revision.</u> In addition, more than 70 GMP-endorsing countries include targeted methane reduction measures in their NDCs.</li>
-</ul>
-<ul>
-<li><u>More than 50 countries have methane action plans or are working to develop one.</u> Since COP26, the European Union has issued a methane action plan covering its 27 member states and national methane plans have been released by Brazil, Canada, Finland, Netherlands, Norway, Sweden, the United Kingdom, and the United States (an update to its 2021 plan), and Vietnam.  Bangladesh, Côte d&#8217;Ivoire, Morocco, and Nigeria have included strong methane components in their Short-Lived Climate Pollutant national action plans. Chile announced its intent to accelerate methane reductions.  Belgium, Cameroon, Colombia, Croatia, Estonia, Ghana, Liberia, Mali, Malta, and Togo have indicated their intent to prepare a national methane action plan by COP28, at least nine other countries have begun developing a plan, and Mexico is planning methane reduction actions under the Global Methane Pledge.</li>
-</ul>
-<ul>
-<li><u>These plans include major new policies and initiatives</u>: Highlights from these action plans include proposed strengthened regulations to reduce oil and gas methane emissions, a methane “waste emissions charge” per ton of methane emitted for applicable oil and gas facilities that exceed statutorily specified waste emissions thresholds, and the deployment of $20 billion of new investments in methane reductions by the United States; a comprehensive set of methane-reducing measures by the European Union; Canada’s goal of reducing economy-wide methane emissions over 35 percent by 2030; and Vietnam’s goal of reducing methane 30 percent by 2030 accompanied by a wide range of policies and measures.</li>
-</ul>
-<ul>
-<li><u>Support for continued national planning and implementation:</u> The Climate and Clean Air Coalition (CCAC), a core implementing partner of the GMP, has launched a Methane Roadmap Action Program and will mobilize over $10 million in 2023 to support national planning and policies, sector-specific and country specific-mitigation needs, and national capacity building and institutional strengthening for short-lived climate pollutant mitigation. In 2022, the CCAC approved methane-related support for 27 countries. And the Global Methane Initiative, a partnership of 46 countries and hundreds of private sector and non-governmental partners, continues to develop and disseminate technical resources and share expertise directly aimed at methane mitigation from key sectors.</li>
-</ul>
-<h4>Foundational Data and Science to Underpin Methane Action</h4>
-<p>Since COP26, CCAC and UNEP IMEO have continued to make strides in developing foundational science and actionable data.  The UNEP/CCAC <a class="external-link" href="https://www.unep.org/resources/report/global-methane-assessment-2030-baseline-report" target="_BLANK" rel="noopener"><span class="external-link-title">Global Methane Assessment 2030: Baseline Report</span><span class="icon-external"> </span></a> underscores the GMP’s potential to deliver cooling benefits much faster than decarbonization alone and finds that global methane emissions are projected to rise up to 13 percent by 2030 under a business-as-usual scenario.  CCAC is making available country Methane Profiles to inform national action plan and roadmap processes.  The <a class="external-link" href="https://www.ogmpartnership.com/" target="_BLANK" rel="noopener"><span class="external-link-title">Oil and Gas Methane Partnership 2.0</span><span class="icon-external"> </span></a> now includes 60 member companies on its “Gold Standard” pathway for sequentially improving the quality of reported data, which is critical to drive credible methane reductions.  Additionally, UNEP IMEO continues to fund and coordinate scientific methane measurement studies across jurisdictions and is available to work with GMP-endorsing countries on multi-scale measurement studies that can inform baselines of methane emission across sectors and guide reductions.</p>
-<h4>Countries Endorsing the Global Methane Pledge</h4>
-<p>The following have endorsed the Global Methane Pledge (* denotes endorsed since COP26):</p>
-<p>Albania, Andorra, Antigua and Barbuda*, Argentina, Armenia, Australia*, Austria*, Bahrain*, Bangladesh*, Barbados, Belgium, Belize, Benin, Bosnia and Herzegovina, Brazil, Bulgaria, Burkina Faso, Cambodia*, Cameroon, Cabo Verde*, Canada, Central African Republic, Chad*, Chile, Colombia, Cook Islands*, Comoros*, Costa Rica, Cote D&#8217;Ivoire, Croatia, Cuba*, Cyprus, Czech Republic*, Democratic Republic of Congo, Denmark, Djibouti, Dominica*, Dominican Republic, Ecuador, Egypt*, El Salvador, Equatorial Guinea*, Estonia, Eswatini*, Ethiopia, European Union, Federated States of Micronesia, Fiji, Finland, France, Gabon, Gambia, Georgia, Germany, Ghana, Greece, Grenada, Guinea*, Guyana, Haiti*, Honduras, Iceland, Indonesia, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kosovo*, Kuwait, Kyrgyzstan, Lebanon*, Lesotho*, Liberia, Libya, Liechtenstein*, Luxembourg, Malawi, Malaysia*, Mali, Malta, Marshall Islands, Mauritania*, Mexico, Moldova*, Monaco, Mongolia*, Montenegro, Morocco , Mozambique*, Namibia*, Nauru, Nepal, Netherlands, New Zealand, Niger*, Nigeria, Niue, North Macedonia, Norway, Oman*, Pakistan, Palau, Panama, Papua New Guinea, Peru, Philippines, Portugal, Qatar*, Republic of Korea, Republic of the Congo, Rwanda, Saint Lucia*, Samoa*, San Marino*, São Tomé and Príncipe*, Saudi Arabia, Senegal, Serbia, Seychelles*, Sierra Leone*, Singapore, Slovakia*, Slovenia, Solomon Islands*, Somalia*, Spain, Sri Lanka*, St. Kitts &amp; Nevis, Sudan*, Suriname, Sweden, Switzerland, Timor Leste*, Togo, Tonga, Trinidad &amp; Tobago*, Tunisia, Tuvalu*, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan*, Vanuatu, Vietnam, Yemen*, Zambia</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p><em>This fact sheet is being jointly released by the United States and European Union as co-conveners of the Global Methane Pledge.</em><em> </em></p>
-<h4>Unprecedented Momentum for Keeping 1.5°C Within Reach while Advancing Energy Security, Food Security, and Sustainable Development</h4>
-<p>Achieving the Global Methane Pledge (GMP) goal of cutting anthropogenic methane emissions at least 30 percent by 2030 from 2020 levels is the fastest way to reduce near-term warming and is necessary to keep a 1.5°C temperature limit within reach.  Achieving this goal will drive significant energy security, food security, health, and development gains.</p>
-<p>In the year since it launched at COP26, the Global Methane Pledge has generated unprecedented momentum for methane action.  Country endorsements of the GMP have grown from just over 100 last year to 150, more than 50 countries have developed national methane action plans or are in the process of doing so, substantial new financial resources are being directed to methane action, and partners have launched “pathways” of policies and initiatives to drive methane reductions in key methane-emitting sectors – a GMP Energy Pathway launched at the June 2022 Major Economies Forum on Energy and Climate and a GMP Food and Agriculture Pathway and GMP Waste Pathway, both launched today at COP27.</p>
-<h4>The United States and European Union convened a Methane Ministerial at COP27 today to highlight this progress and discuss further implementation steps, including enhanced efforts leading up to COP28.</h4>
-<h4>Progress on the GMP Energy Pathway</h4>
-<p>In June 2022, the United States, European Union, and 11 other countries launched the GMP Energy Pathway to accelerate methane emissions reductions in the fossil energy sector, cleaning up our near-term fossil energy consumption as an essential complement to the clean energy transition.  Recent developments in the Energy Pathway include:<strong> </strong></p>
-<ul>
-<li><u>Uniting importers and exporters to cut fossil energy methane</u>: The United States, European Union, Japan, Canada, Norway, Singapore, and the United Kingdom issued a <a href="https://www.state.gov/joint-declaration-from-energy-importers-and-exporters-on-reducing-greenhouse-gas-emissions-from-fossil-fuels/">Joint Declaration from Energy Importers and Exporters on Reducing Greenhouse Gas Emissions from Fossil Fuels</a>, committing to working towards the creation of an international market for fossil energy that minimizes flaring, methane, and CO<sub>2</sub> emissions across the value chain to the fullest extent practicable. This Declaration covers over half of global gas import volumes and over one-third of global gas production.</li>
-</ul>
-<ul>
-<li><u>Leveraging satellite data to respond to super-emitter sources</u>: The UNEP International Methane Emissions Observatory (IMEO), a core implementing partner of the GMP, launched the <a class="external-link" href="https://www.unep.org/news-and-stories/press-release/un-announces-high-tech-satellite-based-global-methane-detection" target="_BLANK" rel="noopener"><span class="external-link-title">Methane Alert and Response System (MARS)</span><span class="icon-external"> </span></a> to scale up detection of major emission events, notify relevant stakeholders, and support and track mitigation progress.</li>
-</ul>
-<ul>
-<li><u>Mobilizing multilateral funding for methane action</u>: The World Bank Global Gas Flaring Reduction Partnership will launch the next phase of its trust fund in 2023 to become the Global Flaring and Methane Reduction (GFMR) Partnership and address all methane emissions across the oil and gas value chain.</li>
-</ul>
-<p><u>New Landmark National Policies and Actions:</u></p>
-<ul>
-<li>The <strong>United States </strong>published a supplemental proposal on reducing harmful emissions and energy waste that will achieve 87 percent reductions in methane emissions from covered sources by 2030 from 2005 levels and will also include the creation of a “super emitter response program.” This is complemented by $1.55 billion in financial and technical assistance from the U.S. Environmental Protection Agency and a “waste emissions charge.</li>
-</ul>
-<ul>
-<li><strong>Nigeria </strong>became the first African country to regulate methane emissions from its oil and gas sector.</li>
-</ul>
-<ul>
-<li><strong>Colombia </strong>became the first South American country to regulate methane emissions from its oil and gas sector. At COP27, Colombia also endorsed the Global Methane Pledge Energy Pathway.</li>
-</ul>
-<ul>
-<li><strong>Ecuador </strong>finalized regulations to support achievement of zero routine flaring commitments and to shut down all flares located near human settlements.</li>
-</ul>
-<ul>
-<li><strong>Canada </strong>has published its proposed regulatory framework to achieve at least a 75 percent reduction from the oil and gas sector by 2030 relative to 2012.</li>
-</ul>
-<ul>
-<li>In <strong>Mexico</strong>, PEMEX will develop and release a plan for methane and flaring reduction activities by the first half of 2023, with technical support from the U.S. Environmental Protection Agency.</li>
-</ul>
-<ul>
-<li><strong>Malaysia’s </strong>national oil company and regulator, PETRONAS, announced a target to reduce methane emissions 50 percent by 2025, as well as its participation in the Oil and Gas Methane Partnership 2.0.<strong> </strong></li>
-</ul>
-<ul>
-<li><strong>Egypt </strong>has launched an Oil and Gas Methane Roadmap framework with core elements of a comprehensive methane reduction approach, and will complete a specific Oil and Gas Methane Roadmap for Egypt in 2023.</li>
-</ul>
-<h4>New GMP Food and Agriculture Pathway</h4>
-<p>Launched today, the GMP Food and Agriculture Pathway advances climate and food security goals through new actions that increase agricultural productivity, reduce food loss and waste, and improve the viability of agriculture in the future.  Initial components of the GMP Food and Agriculture Pathway include:<strong> </strong></p>
-<ul>
-<li><u>Boosting Support for Smallholder Farmers</u>: The Green Climate Fund, in partnership with the International Fund for Agricultural Development (IFAD), the Food and Agriculture Organization, Global Dairy Platform and Global Methane Hub, <a class="external-link" href="https://www.greenclimate.fund/news/pathways-dairy-net-zero-promoting-low-carbon-and-climate-resilient-livestock-east-africa" target="_BLANK" rel="noopener"><span class="external-link-title">approved</span><span class="icon-external"> </span></a> $3.5 million of project preparation funding with the objective of leveraging up to $400 million in financing that will help transition dairy systems to lower emission, climate resilient pathways in Kenya, Rwanda, Tanzania and Uganda. Costa Rica, Uruguay, Colombia, Pakistan, and Vietnam are planning to prepare similar programs through a partnership with Pathways to Dairy Net Zero. IFAD and United States <a class="external-link" href="https://www.ifad.org/en/web/latest/-/ifad-and-the-us-state-department-help-small-scale-farmers-to-further-reduce-methane-emissions" target="_BLANK" rel="noopener"><span class="external-link-title">announced</span><span class="icon-external"> </span></a> a partnership to advance climate resilience and methane mitigation with smallholder farmers including by prioritizing methane mitigation in IFAD&#8217;s pipeline of country and regional projects with combined investment of over $500 million dollars in methane-emitting sectors.  In addition, the United States has announced $5 million for the African Development Bank to advance agriculture and waste methane work within the Africa Climate Change Fund.</li>
-</ul>
-<ul>
-<li><u>Increasing Innovation</u>: The Global Methane Hub announced raising $70 million in support for a new Enteric Methane Research and Development Accelerator to advance critical research on reducing methane emissions from enteric fermentation—the largest single source of methane emissions from agriculture—and has a $200 million fundraising goal by the first quarter of 2023. Under the Agricultural Innovation Mission for Climate (AIM4C), seven methane innovation sprints have been launched related to both livestock and rice methane mitigation with total existing funding of $123 million.</li>
-</ul>
-<ul>
-<li><u>Highlighting Ambitious National Actions</u>: The <strong>United States</strong> Department of Agriculture is investing over $500 million in methane reduction projects via Partnerships for Climate Smart Commodities, up to $90 million for domestic food loss and waste reduction, and last year supported dozens of anaerobic digester projects and a broader range of methane-reducing investments through over $64 million in additional grants and guaranteed loans. In the <strong>European Union,</strong> the new Common Agricultural Policy starting in 2023 increases the emphasis on climate action, including methane from livestock.  In total, 40 percent of the budget will be dedicated to climate-related measures, including improved rules and monitoring requirements, and quantitative targets to reduce food waste, among others. The EU has also published a Biomethane Actions Plan with the goal of doubling production to reach 35 billion cubic meters by 2030.</li>
-</ul>
-<h4>New GMP Waste Pathway</h4>
-<p>Waste is responsible for roughly 20 percent of global methane emissions from human activities, and dramatically scaling up efforts to reduce these emissions can deliver important health and economic development benefits. Launched today, the GMP Waste Pathway will focus initially on reducing emissions across the solid waste value chain, from upstream sources to downstream disposal sites.  Initial components of the GMP Waste Pathway include:</p>
-<ul>
-<li><u>Enhancing Measurement and Tracking</u>: Carbon Mapper will use airborne and space-based instruments to develop a global waste sector methane baseline assessment of over 10,000 landfills and dumpsites. RMI and Clean Air Task Force will develop an open-source Waste Methane Assessment Platform with waste sector information to drive methane action. And the Inter-American Development Bank Group (IDB) is developing a Waste Data Hub for Latin America and the Caribbean.</li>
-</ul>
-<ul>
-<li><u>Scaling up Subnational Action</u>: SCALE-Methane, a new initiative of the Subnational Climate Action Leaders’ Exchange, will support accelerated subnational action on waste methane. This work will complement the Pathway Towards Zero Waste joined by 13 cities at the October 2022 C40 World Mayors Summit.<u> </u></li>
-</ul>
-<ul>
-<li><u>Reducing Food Loss and Waste</u>: To advance both the GMP Waste Pathway and the GMP Food and Agriculture Pathway, a Food Waste Management Accelerator will develop methane mitigation projects in 10 countries in Latin America and the Caribbean, the Global Food Banking Network will launch a new effort to quantify and track food banking methane mitigation, the IDB project #SinDesperdicio is creating projects to reduce food loss, and a new USAID Food Loss and Waste Partnerships Facility will scale efforts in Bangladesh, Kenya, Nepal, Niger, Nigeria, and/or Tanzania.</li>
-</ul>
-<ul>
-<li><u>Regional Platforms:</u> The IDB is funding projects with a high impact on methane reduction across different countries in Latin America and the Caribbean and will be launching the Too Good to Waste facility to implement waste projects related to methane mitigation.</li>
-</ul>
-<ul>
-<li><u>Mobilizing Investment</u>: Several of the initiatives outlined above will focus on removing barriers to and scaling up investment in waste methane abatement. Support for the activities in the GMP Waste Pathway comes from, inter alia, the Government of Canada, the U.S. government, the African Development Bank, the Inter-American Development Bank, the Global Methane Hub, the Grantham Foundation for the Protection of the Environment, and Bloomberg Philanthropies.<strong> </strong></li>
-</ul>
-<h4>Progress on National Methane Planning</h4>
-<p>National methane targets and policies, in standalone action plans and/or as part of Nationally Determined Contributions (NDCs), are critical to achieving the Global Methane Pledge.</p>
-<ul>
-<li><u>With recent commitments by several countries, 95 percent of NDCs now include methane or will by their next revision.</u> In addition, more than 70 GMP-endorsing countries include targeted methane reduction measures in their NDCs.</li>
-</ul>
-<ul>
-<li><u>More than 50 countries have methane action plans or are working to develop one.</u> Since COP26, the European Union has issued a methane action plan covering its 27 member states and national methane plans have been released by Brazil, Canada, Finland, Netherlands, Norway, Sweden, the United Kingdom, and the United States (an update to its 2021 plan), and Vietnam.  Bangladesh, Côte d&#8217;Ivoire, Morocco, and Nigeria have included strong methane components in their Short-Lived Climate Pollutant national action plans. Chile announced its intent to accelerate methane reductions.  Belgium, Cameroon, Colombia, Croatia, Estonia, Ghana, Liberia, Mali, Malta, and Togo have indicated their intent to prepare a national methane action plan by COP28, at least nine other countries have begun developing a plan, and Mexico is planning methane reduction actions under the Global Methane Pledge.</li>
-</ul>
-<ul>
-<li><u>These plans include major new policies and initiatives</u>: Highlights from these action plans include proposed strengthened regulations to reduce oil and gas methane emissions, a methane “waste emissions charge” per ton of methane emitted for applicable oil and gas facilities that exceed statutorily specified waste emissions thresholds, and the deployment of $20 billion of new investments in methane reductions by the United States; a comprehensive set of methane-reducing measures by the European Union; Canada’s goal of reducing economy-wide methane emissions over 35 percent by 2030; and Vietnam’s goal of reducing methane 30 percent by 2030 accompanied by a wide range of policies and measures.</li>
-</ul>
-<ul>
-<li><u>Support for continued national planning and implementation:</u> The Climate and Clean Air Coalition (CCAC), a core implementing partner of the GMP, has launched a Methane Roadmap Action Program and will mobilize over $10 million in 2023 to support national planning and policies, sector-specific and country specific-mitigation needs, and national capacity building and institutional strengthening for short-lived climate pollutant mitigation. In 2022, the CCAC approved methane-related support for 27 countries. And the Global Methane Initiative, a partnership of 46 countries and hundreds of private sector and non-governmental partners, continues to develop and disseminate technical resources and share expertise directly aimed at methane mitigation from key sectors.</li>
-</ul>
-<h4>Foundational Data and Science to Underpin Methane Action</h4>
-<p>Since COP26, CCAC and UNEP IMEO have continued to make strides in developing foundational science and actionable data.  The UNEP/CCAC <a class="external-link" href="https://www.unep.org/resources/report/global-methane-assessment-2030-baseline-report" target="_BLANK" rel="noopener"><span class="external-link-title">Global Methane Assessment 2030: Baseline Report</span><span class="icon-external"> </span></a> underscores the GMP’s potential to deliver cooling benefits much faster than decarbonization alone and finds that global methane emissions are projected to rise up to 13 percent by 2030 under a business-as-usual scenario.  CCAC is making available country Methane Profiles to inform national action plan and roadmap processes.  The <a class="external-link" href="https://www.ogmpartnership.com/" target="_BLANK" rel="noopener"><span class="external-link-title">Oil and Gas Methane Partnership 2.0</span><span class="icon-external"> </span></a> now includes 60 member companies on its “Gold Standard” pathway for sequentially improving the quality of reported data, which is critical to drive credible methane reductions.  Additionally, UNEP IMEO continues to fund and coordinate scientific methane measurement studies across jurisdictions and is available to work with GMP-endorsing countries on multi-scale measurement studies that can inform baselines of methane emission across sectors and guide reductions.</p>
-<h4>Countries Endorsing the Global Methane Pledge</h4>
-<p>The following have endorsed the Global Methane Pledge (* denotes endorsed since COP26):</p>
-<p>Albania, Andorra, Antigua and Barbuda*, Argentina, Armenia, Australia*, Austria*, Bahrain*, Bangladesh*, Barbados, Belgium, Belize, Benin, Bosnia and Herzegovina, Brazil, Bulgaria, Burkina Faso, Cambodia*, Cameroon, Cabo Verde*, Canada, Central African Republic, Chad*, Chile, Colombia, Cook Islands*, Comoros*, Costa Rica, Cote D&#8217;Ivoire, Croatia, Cuba*, Cyprus, Czech Republic*, Democratic Republic of Congo, Denmark, Djibouti, Dominica*, Dominican Republic, Ecuador, Egypt*, El Salvador, Equatorial Guinea*, Estonia, Eswatini*, Ethiopia, European Union, Federated States of Micronesia, Fiji, Finland, France, Gabon, Gambia, Georgia, Germany, Ghana, Greece, Grenada, Guinea*, Guyana, Haiti*, Honduras, Iceland, Indonesia, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kosovo*, Kuwait, Kyrgyzstan, Lebanon*, Lesotho*, Liberia, Libya, Liechtenstein*, Luxembourg, Malawi, Malaysia*, Mali, Malta, Marshall Islands, Mauritania*, Mexico, Moldova*, Monaco, Mongolia*, Montenegro, Morocco , Mozambique*, Namibia*, Nauru, Nepal, Netherlands, New Zealand, Niger*, Nigeria, Niue, North Macedonia, Norway, Oman*, Pakistan, Palau, Panama, Papua New Guinea, Peru, Philippines, Portugal, Qatar*, Republic of Korea, Republic of the Congo, Rwanda, Saint Lucia*, Samoa*, San Marino*, São Tomé and Príncipe*, Saudi Arabia, Senegal, Serbia, Seychelles*, Sierra Leone*, Singapore, Slovakia*, Slovenia, Solomon Islands*, Somalia*, Spain, Sri Lanka*, St. Kitts &amp; Nevis, Sudan*, Suriname, Sweden, Switzerland, Timor Leste*, Togo, Tonga, Trinidad &amp; Tobago*, Tunisia, Tuvalu*, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan*, Vanuatu, Vietnam, Yemen*, Zambia</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
 ]]></content:encoded>
 					
 		
