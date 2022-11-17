@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 17 Nov 2022 17:16:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Nov 2022 17:43:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,328 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Verdict in Dutch Trial Against MH17 Suspects</title>
+		<link>https://www.state.gov/verdict-in-dutch-trial-against-mh17-suspects/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Thu, 17 Nov 2022 17:41:44 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=397631</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>The United States welcomes today’s decision finding three members of Russian proxy forces in eastern Ukraine guilty for their roles in the downing of Malaysia Airlines Flight MH17.  The decision by the District Court of The Hague is an important moment in ongoing efforts to deliver justice for the 298 individuals who lost their lives on July 17, 2014.</p>
+<p>Today’s decision is the result of sustained work by a Joint Investigation Team comprised of authorities from the Netherlands, Australia, Belgium, Malaysia, and Ukraine, and reflects the Netherlands’ firm commitment to establish the truth and pursue accountability in this case.  While this is a solid step towards justice, more work lies ahead to meet the UN Security Council’s demand in resolution 2166 that “those responsible…be held to account.”</p>
+<p><input type="hidden" data-filter="100000000000" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>The United States welcomes today’s decision finding three members of Russian proxy forces in eastern Ukraine guilty for their roles in the downing of Malaysia Airlines Flight MH17.  The decision by the District Court of The Hague is an important moment in ongoing efforts to deliver justice for the 298 individuals who lost their lives on July 17, 2014.</p>
+<p>Today’s decision is the result of sustained work by a Joint Investigation Team comprised of authorities from the Netherlands, Australia, Belgium, Malaysia, and Ukraine, and reflects the Netherlands’ firm commitment to establish the truth and pursue accountability in this case.  While this is a solid step towards justice, more work lies ahead to meet the UN Security Council’s demand in resolution 2166 that “those responsible…be held to account.”</p>
+<p><input type="hidden" data-filter="100000000000" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Designating Sanctions Evaders Involved in Iranian Petrochemical and Petroleum Trade</title>
+		<link>https://www.state.gov/designating-sanctions-evaders-involved-in-iranian-petrochemical-and-petroleum-trade/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Thu, 17 Nov 2022 17:32:59 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=397628</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>The United States is taking further action to disrupt sanctions evasion efforts involving the sale of Iranian petroleum and petrochemical products.  Specifically, the Department of the Treasury is imposing sanctions on companies based in multiple jurisdictions for their involvement in petrochemical sales involving previously designated entities, including Persian Gulf Petrochemical Industries Commercial Co., Triliance Petrochemical Co. Ltd., the National Iranian Oil Company, and Naftiran Intertrade Company.</p>
+<p>The entities targeted today have purchased or enabled Iranian petrochemical and petroleum sales and transferred funds to benefit Iran’s petrochemical sector.  These designations are being taken pursuant to Executive Order 13846, which authorizes the imposition of sanctions with respect to trade in Iranian petroleum, petroleum products, and petrochemical products.</p>
+<p>The United States is committed to enforcing our sanctions against Iran, including those related to the petroleum and petrochemical trade.  Anyone involved in facilitating these sales and transactions risks exposure to U.S. sanctions.</p>
+<p>For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTcuNjY4MzY2MTEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTE1In0.gI04f80byOJGOF-v530wON6Cc56zS3h2MTLTKoZcMJM/s/1436012980/br/148457252830-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTcuNjY4MzY2MTEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTE1In0.gI04f80byOJGOF-v530wON6Cc56zS3h2MTLTKoZcMJM%2Fs%2F1436012980%2Fbr%2F148457252830-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Ccf872591b8a140f8fd9d08dac8bd2480%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638043011934582687%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=SOcA6KQNbb61OcKL1pEeTy5uU%2FHA%2Fpmt%2Fz6xyRExyyc%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>The United States is taking further action to disrupt sanctions evasion efforts involving the sale of Iranian petroleum and petrochemical products.  Specifically, the Department of the Treasury is imposing sanctions on companies based in multiple jurisdictions for their involvement in petrochemical sales involving previously designated entities, including Persian Gulf Petrochemical Industries Commercial Co., Triliance Petrochemical Co. Ltd., the National Iranian Oil Company, and Naftiran Intertrade Company.</p>
+<p>The entities targeted today have purchased or enabled Iranian petrochemical and petroleum sales and transferred funds to benefit Iran’s petrochemical sector.  These designations are being taken pursuant to Executive Order 13846, which authorizes the imposition of sanctions with respect to trade in Iranian petroleum, petroleum products, and petrochemical products.</p>
+<p>The United States is committed to enforcing our sanctions against Iran, including those related to the petroleum and petrochemical trade.  Anyone involved in facilitating these sales and transactions risks exposure to U.S. sanctions.</p>
+<p>For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTcuNjY4MzY2MTEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTE1In0.gI04f80byOJGOF-v530wON6Cc56zS3h2MTLTKoZcMJM/s/1436012980/br/148457252830-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTcuNjY4MzY2MTEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTE1In0.gI04f80byOJGOF-v530wON6Cc56zS3h2MTLTKoZcMJM%2Fs%2F1436012980%2Fbr%2F148457252830-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Ccf872591b8a140f8fd9d08dac8bd2480%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638043011934582687%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=SOcA6KQNbb61OcKL1pEeTy5uU%2FHA%2Fpmt%2Fz6xyRExyyc%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Blinken’s Meeting with Vietnamese Foreign Minister Son</title>
 		<link>https://www.state.gov/secretary-blinkens-meeting-with-vietnamese-foreign-minister-son/</link>
 		
@@ -1484,548 +1806,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
 <p>We welcome the release of U.S. citizen Kyaw Htay Oo from prison in Burma, where he was wrongfully detained for more than 14 months. We extend our deep appreciation to our allies and partners who joined us in pressing Burma’s military regime to release him. We also welcome the release of a number of political prisoners and other foreign detainees and continue to call for the release of the many thousands of political prisoners who remain in Burma.</p>
 <p>The safety and security of Americans worldwide is one of my highest priorities as Secretary of State, and we will never stop working to secure the release of U.S. nationals held hostage or wrongfully detained abroad.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>U.S. Leadership Advances Global Efforts to Conserve Critical Ecosystems and Protect Carbon Sinks: A Progress Report on Implementing U.S. Efforts on the Plan to Conserve Global Forests: Critical Carbon Sinks</title>
-		<link>https://www.state.gov/u-s-leadership-advances-global-efforts-to-conserve-critical-ecosystems-and-protect-carbon-sinks-a-progress-report-on-implementing-u-s-efforts-on-the-plan-to-conserve-global-forests-critical-carbon/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Thu, 17 Nov 2022 13:50:49 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=397512</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>At COP26 during the World Leaders Summit Forest Day session on November 2, 2021, the United States announced the <a class="external-link__pdf" href="https://www.whitehouse.gov/wp-content/uploads/2021/11/Plan_to_Conserve_Global_Forests_final.pdf" target="_BLANK" rel="noopener"><span class="external-link-title">Plan to Conserve Global Forests: Critical Carbon Sinks</span><span class="filesize icon-pdf"> </span></a>. This decade-long, whole-of-government Plan sets forth the U.S. approach to conserving critical global terrestrial carbon sinks, deploying a range of diplomatic, policy, and financing tools. The first-of-its-kind plan for the U.S. government seeks to catalyze the global effort to conserve and restore the forests and other ecosystems that serve as critical carbon sinks. Subject to Congressional appropriations, by 2030, the United States intends to dedicate up to $9 billion of our international climate funding to support the objectives of the Plan.</p>
-<p>The United States recognizes that without halting deforestation and other land conversion, and restoring ecosystems at scale, the world cannot reach net zero emissions by 2050 nor limit warming to 1.5 degrees Celsius. This is not a long-term challenge. It is something we must do immediately in this critical decade.</p>
-<p>Forests and other ecosystems could provide as much as one-third of global mitigation by 2030. The Plan to Conserve Global Forests: Critical Carbon Sinks has been devised to catalyze even more ambitious global action to capture that potential by reducing emissions from deforestation and forest degradation, and enhancing carbon sequestration by restoring and enhancing forests and other ecosystems.</p>
-<p><strong>Progress in 2022 </strong></p>
-<p>The Plan reiterates U.S. support for the collective goals to strive to end natural forest loss by 2030 and to significantly increase the rate of global restoration of degraded landscapes and forestlands to restore at least an additional 200 million hectares by 2030, and the collective aim to slow, halt, and reverse forest cover and carbon loss.</p>
-<p>Since the launch at COP26, the United States has worked to help drive progress forward in each of the Plan’s four key objectives, building on a whole-of-government approach and partnering with key stakeholders. Amongst this work is a new, systematic interagency effort to coordinate engagement and outyear programming in specific geographies. While all activities underway are too extensive to list here, we have included a summary of some of the most relevant advances under each objective below:</p>
-<p><strong>Objective 1: Incentivize forest and ecosystem conservation and forest landscape restoration</strong></p>
-<ul>
-<li><strong>The Support Hub for Forest Finance and Landscape Engagement (SHUFFLE): </strong>The SHUFFLE program is providing technical support to partners in 4 countries to help them meet high-integrity independent standards for national and subnational carbon crediting and results-based payments, and has developed a publicly-available tool designed to assist forest countries to evaluate different results-based payment systems.</li>
-<li><strong>Offset National Emissions through Sustainable Landscapes (ONE-SL):</strong> The ONE-SL program is currently providing technical assistance to 3 countries (Zambia, Colombia and Kenya) to develop robust national and subnational forest and climate programs, including protocols for “nesting” existing projects into this broader scale. ONE-SL is also piloting a newly developed decision-support tool to assist governments in evaluating Article 6-related activities.</li>
-<li><strong>Innovative Finance for Nature: </strong>The U.S. Department of State, in collaboration with USAID and the U.S. International Development Finance Corporation (DFC) jointly developed a new global initiative focusing on accelerating the use of innovative finance mechanisms to promote private investments in critical carbon stocks and sinks and support a green recovery. The program is hosting a series of roundtables to identify barriers, explore potential opportunities, and initiate collaborative efforts to leverage innovative financing mechanisms.</li>
-<li><strong>Central Africa Regional Program for the Environment (CARPE)</strong>: The United States renewed its longstanding commitment to the protection, conservation, and sustainable management of the Congo Basin, the world’s second largest tropical rainforest, with the launch of the fourth phase of USAID’s CARPE initiative. Working closely with and through local, national, and regional institutions, CARPE’s Phase IV Vision is to support a Congo Basin with healthy ecosystems and dynamic local leadership that support stability and prosperity in communities. To date, USAID/CARPE, in partnership with the United States Fish and Wildlife Service (USFWS) and the United States Forest Service (USFS), has invested over $600 million to build inclusive markets, improve law enforcement, support civil society’s role in environmental monitoring and advocacy, and strengthen land use management</li>
-<li><strong>Papua New Guinea Sustainable Landscapes:</strong> At the 12th Pacific Island Conference of Leaders in Honolulu, Hawaii, USAID announced a new five-year, up to $18.5 million activity to combat climate change by conserving forests in Papua New Guinea. The initiative will improve forest governance, increase the environmental sustainability of the forest industry, and protect land and resource rights, thereby reducing deforestation and carbon dioxide emissions. It will also support women’s participation in sustainable agroforestry and the development of businesses that manage ecosystem services.</li>
-<li><strong>Business Case for Collective Landscape Action:</strong> The Business Case activity — which USAID first announced at COP26 in Glasgow as part of President Biden’s Plan to Conserve Global Forests — aims to reduce deforestation produced by agricultural commodities, conserve biodiversity, and promote the well-being of local communities, starting with pilots in Peru, Ecuador, Indonesia, and five jurisdictions in Brazil. In October, USAID launched work in Peru to support multi-stakeholder landscape planning, connect these landscapes to international disclosure and reporting systems, and unlock critical international financing for sustainable commodities and landscapes.</li>
-<li><strong>Forest Value Enhancement Project</strong>: The Millennium Challenge Corporation (MCC)’s $20 million dollar threshold program with Solomon Islands includes a $6.5 million dollar <a id="post-397512-_Hlk118393876"></a>Forest Value Enhancement Project that aims to improve management of natural resources in the forest sector. The project aims to reduce negative environmental impacts, increase and more equitably share the community and national revenues from forestry production, and achieve a more balanced regulatory and enforcement framework between logging and non-logging uses of forests.</li>
-<li><strong>Transfrontier Conservation Areas</strong>: The National Park Service’s Climate Change Response Program, along with South Africa National Parks, hosted a series of monthly webinars throughout 2022 to support climate response decision-making in the Transfrontier Conservation Areas (TFCAs) in southern Africa. The Embassy Science Fellows webinars have focused on tools, approaches, and best practices for assessing climate risks and vulnerabilities, engaging stakeholders, and informing participative decision-making to protect critical ecosystems in protected areas and large landscapes and the services they provide to local communities. One such tool, the Resist-Accept-Direct framework, provides a model to guide decision-making on responses to climate risks to natural resources in the face of uncertain future risk scenarios.</li>
-<li><strong>The Latin America and Caribbean Initiative (LACI),</strong> co-led by the U.S. Geological Survey (USGS) with other U.S. Global Change Research Program agencies, the Inter-American Institute for Global Change Research (IAI), and AmeriGEO, is building partnerships and capacity across the Americas to assess climate risks and vulnerabilities. Several local partners have developed project concepts to build climate information capacity to support ecosystem conservation efforts, engage indigenous communities, and incorporate Indigenous knowledge in climate responses in the Amazon Basin. After reviewing project concepts, LACI partners will work together to identify resources to support priority pilot projects.</li>
-<li><strong>Multinational Species Conservation Programs:</strong> USFWS provides financial assistance awards to conserve international wildlife strongholds and critical habitats, including protected and conserved areas (PCAs) and other sites where conservation of corridors, forests and other wildlife habitats are necessary for effective landscape conservation. In FY 2022, U.S. Fish and Wildlife Service’s Multinational Species Conservation Programs issued $31,746,531 in grants to partners to support conservation of threatened and endangered wildlife species, such as rhinos, elephants, apes and sea turtles. Many of these grants include a focus on building capacity at the local level for effective conservation and management of the forests and other ecosystems in which these high-profile species reside. For example, the African Elephant Conservation Fund supported the local organization, Organization Ecotouristique du Lac Oguemoué (OELO), in Gabon to develop a community forest management plan which also addresses forest elephant conservation.</li>
-<li><strong>Multilateral Funds that Received U.S. Contributions:</strong> The United States supports the World Bank’s $1 billion Forest Carbon Partnership Facility (FCPF) and the $380 million BioCarbon Fund Initiative for Sustainable Forest Landscapes (ISFL), multilateral results-based programs that support conservation and restoration efforts in forests and other lands. Since COP26, the FCPF has provided payments for reducing forest emissions to two countries – Mozambique and Costa Rica – with payments for another 13 countries expected in the coming years. Under ISFL, the first contracts for payments for reduced emissions from land use are expected to be signed in late 2022 or early 2023, complementing up-front support and investment finance.</li>
-</ul>
-<p><strong>Objective 2: Catalyze private sector investment, finance, and action to conserve critical carbon sinks</strong></p>
-<ul>
-<li><strong>ForInvest: </strong>The United States launched the Forest Investment Development Facility (ForInvest) program, which will catalyze investment in Nationally Determined Contribution-aligned land use activities by unlocking a pipeline of investments and linking investors to that pipeline and coordinating activities across relevant institutions.</li>
-<li><strong>Climate Finance for Development Accelerator (CFDA)</strong>: USAID’s Climate Finance for Development Accelerator (CFDA) will mobilize private finance and private sector actions that support the transition to an equitable and resilient net-zero economy. CFDA aims to mobilize $2.5 billion of additional private and public finance for adaptation and mitigation by 2030 by creating incentives and reducing risks for large-scale investments that address the climate finance gap. These investments will support diverse climate change mitigation and adaptation activities, including in high-priority forest landscapes under the Plan, that are aligned with the implementation of country-driven Nationally Determined Contributions (NDCs) and National Adaptation Plans (NAPs) under the Paris Agreement.</li>
-<li><strong>LEAF: </strong>The United States supports the $1.5 billion public-private Lowering Emissions by Accelerating Forest finance (LEAF) coalition to purchase carbon credits and provide results-based payments for reducing emissions and increasing removals from forests to developing countries. Since COP26, LEAF has expanded the coalition to include additional private sector partners and the Republic of South Korea, and reached $1.5 billion in committed demand.</li>
-<li><strong>Engagement with Commodity Traders: </strong>The United States and United Kingdom have been closely following the commitment by 13 of the largest traders of agricultural commodities to deliver a roadmap aligning their sectors to a 1.5 degree C future and exploring opportunities to support the implementation of ambitious plans in the soy, cattle, and palm sectors.</li>
-<li><strong>Amazonia Connect</strong>: To reduce emissions due to the conversion of forests for agriculture, the United States <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-tackling-climate-change-and-creating/">announced at the Summit of the Americas</a> a new initiative to promote deforestation-free and low-carbon approaches to commodity production in Brazil, Colombia, and Peru. The activity will work within entire supply chains to promote Low Carbon Agriculture (LCA) approaches by providing technical assistance and monitoring tools to guarantee the production and verification of low-carbon and deforestation-free products. These verified products will then be purchased by private sector companies that have invested directly into LCA to fulfill their international deforestation-free commitments.</li>
-<li><strong>Amazon Biodiversity Fund (ABF):</strong> This initiative, launched in September 2019, was co-designed with support from USAID and receives private sector funding to support businesses with sustainable development models that benefit biodiversity and the climate. The Fund provides a 50 percent guarantee from the Development Finance Corporation for biodiversity-based impact investments and aims to leverage $50 million in investment by 2023. In May 2022, the Dutch Bank ASN—which has an arm of Impact Investment Funds—invested about €3 million in the Fund. So far, ABF has invested in five Amazonian businesses, including Reforesterra, one of the largest restoration initiatives of natural ecosystems in the Brazilian Amazon linked to the voluntary carbon market. This effort will offer the first payment for ecosystem services (PES) scheme to be created in Brazil from the private sector.</li>
-</ul>
-<p><strong>Objective 3: Build long-term capacity and support the data and monitoring systems that enhance accountability</strong></p>
-<ul>
-<li><strong>Forest Data Partnership:</strong> Announced at COP26, this is a collaboration between the United States, World Resources Institute, Google, and Unilever to address a key barrier to private investment in forests and restoration—the lack of reliable and accessible data on forests and lands. In the last year, Norway announced it would join the partnership, while the United Kingdom conducted an analysis of Transparency and Traceability systems as part of the Forest, Agriculture and Commodity Trade (FACT) Dialogue it hosted at COP26.</li>
-<li><strong>SilvaCarbon: </strong>Since COP26,<strong> t</strong>he SilvaCarbon program has provided support to more than 30 countries to enhance monitoring and MRV efforts for forests and other lands. These efforts support better land use decision-making, enhance enforcement against illegal activities, facilitate access to carbon crediting and results-based payments, and inform reporting on national GHG inventories and NDCs.</li>
-<li><strong>Climate Fellows: </strong>The Climate Fellows Program continues to improve land management, conservation, and restoration in forestry by providing technical support to select developing countries. Currently, there are three Climate Fellows, with the first Climate Fellow placed in Fiji in 2021. In 2022, The Climate Fellows Program continued to expand the program&#8217;s portfolio as two new hires were selected to be Fellows in Vietnam, beginning in August 2022, and Palau, in November 2022. The Climate Fellow based in Palau will be the first to support &#8220;Blue Carbon&#8221; efforts to work regionally in the Pacific Islands to measure, monitor, and manage blue carbon ecosystems, like wetlands and mangroves.</li>
-<li><strong>Engaging Indigenous Communities: </strong>
-<ul>
-<li>In 2022 the Indigenous Peoples Climate Access Facility (IPFAF) launched, with the goal of providing support to indigenous peoples groups around the world to directly access existing finance mechanisms, supporting their efforts to continue to conserve some of the most critical forests on earth.</li>
-<li>Through the Embassy Science Fellows program, DOI’s Bureau of Indian is facilitating exchanges between Native American tribal experts and counterparts from Indigenous communities in the Bolivian and Brazilian Amazon and the Canadian Arctic. The exchanges focus on approaches to protect and conserve the ecosystems on which they depend and incorporating Indigenous knowledge in climate response decision-making.</li>
-</ul>
-</li>
-<li><strong>Combating Nature Crimes</strong>: Illegal deforestation, illegal logging, illegal mining and associated crimes are hindering progress on achieving land-based emissions reductions. The United States continues its leadership on combating deforestation and enhancing investments to mitigate climate change, including through: continued enforcement of the U.S. Lacey Act (2008) to combat illegal logging and associated trade, as well as building networks of law enforcement cooperation to build capacity and take action; co-developing the new Nature Crime Alliance to expand partnerships with other countries and stakeholders to combat transnational crimes and address policy failure across sectors, crime types, and stakeholders; dedicating new agency resources for anti-corruption and law enforcement efforts; and the following regional efforts:
-<ul>
-<li>In 2022, the USFWS coordinated search and seizure warrants and the apprehension of nearly 100 tons of Amazonian hardwoods, in direct cooperation with Brazilian authorities. The transnational investigations triggered by evidence of illegal deforestation on indigenous lands, public corruption, and fraudulent documentation generated in Brazil and presented to U.S. authorities upon import into the United States. The investigations have relied on continued collaboration and expertise provided by Brazilian authorities, including detailed satellite imagery, traceability (origin) studies, and sharing of evidence and internal documents.</li>
-<li>The U.S. Department of Justice Environment and Natural Resources Division (DOJ) and USFS resumed in-country programming to combat illegal timber trafficking in Cameroon and Gabon, which had been on hold for two years due to COVID pandemic travel restrictions. DOJ and the USFS provided in-country programming for law enforcement officers in Cameroon and separate in-country programming for prosecutors in Gabon. In FY 2023, additional in-country programming will be conducted in both countries as well as other countries in Africa, the Americas, and Asia based on available resources.</li>
-<li>In 2022, the U.S. Department of the Interior&#8217;s International Technical Assistance Program (DOI-ITAP), in partnership with the U.S. Fish &amp; Wildlife Service&#8217;s Counter Wildlife Trafficking (USFWS-CWT) Division, supported 14 government officials responsible for CITES implementation from nine countries across Central and East Africa to participate in a rigorous &#8220;CITES Master&#8217;s Course&#8221; program at the International University of Andalucía (UNIA) in Baeza, Spain. The primary objective of the program is to strengthen the technical knowledge and regional collaboration needed for successful global implementation of CITES.</li>
-<li>In 2022, DOI-ITAP, in collaboration with USFWS and the U.S. Forest Service, supported CITES capacity-building for countries participating in the Central America Wildlife Enforcement Network (CAWEN). A significant focus of this effort in 2022 was development of CITES permit digital systems in Costa Rica, El Salvador, Guatemala, Honduras, and Panama. These systems will capture endangered timber species, as well as other endangered species of flora and fauna.</li>
-<li>In 2018, DOI helped establish Guatemala&#8217;s first environmental courts in the Peten, Guatemala, which covers the Maya Biosphere Reserve (MBR). DOI partners with local attorneys who advise the GOG on prosecuting environmental crimes committed in the MBR. With this assistance, in fiscal year 2022 the Government of Guatemala has: recovered 1,193 hectares of MBR usurped lands; another 3,076 hectares in recovery process; sanctioned 10 individuals Q85,000 in environmental fines; and trained 162 technical staff and 115 judiciary staff in Guatemala (e.g., judges and protected area agency legal advisors).</li>
-</ul>
-</li>
-</ul>
-<p><strong>Objective 4: Increase ambition for climate and conservation action</strong></p>
-<ul>
-<li><strong>Bilateral partnerships: </strong>The United States continues to work with partners around the world to support efforts to set and achieve ambitious climate targets, including by addressing drivers of deforestation where applicable. Forests form a core part of our partnerships in countries like Brazil, DRC, India, Indonesia, Mexico, and Vietnam.</li>
-<li><strong>Mobilizing support: </strong>The United States is working with a range of government, private sector, and multilateral institutions to identify opportunities to mobilize investment, technical support, and business opportunities to enhance the efforts of countries that are seeking to take ambitious actions to conserve, manage, and restore forests and other ecosystems with the urgency that a 1.5 degree C future demands.</li>
-</ul>
-<p>To support these efforts, the United States has dedicated substantial financial resources over the past year, and worked with partners to mobilize additional resources through:</p>
-<ul>
-<li><strong>Foreign Assistance to support: </strong>
-<ul>
-<li>Starting in 2022, USAID began implementing projects supporting the Plan to Conserve Global Forests, totaling approximately $499.5 million in 50 countries with FY 2020 and FY 2021 funds.</li>
-<li>In 2022, the Department of State began implementing projects totaling $13 million with FY 2020 funds, and committed an additional $35.05 million in<sup><a id="post-397512-footnote-ref-2" href="#post-397512-footnote-2"></a></sup> FY 2021 funds to support Plan objectives.</li>
-<li>The Department of State committed over $1.5 million to monitor and detect illegal logging, investigate and prosecute forest crimes, support science and technology for wood species identification and forensics, and enhance data on illicit trade routes. Since 2010, the U.S. Department of State has allocated over $13 million to support implementation of the U.S. Lacey Act to prevent the import of illegally harvested forest products and has trained over 2,400 officials in 34 countries.</li>
-</ul>
-</li>
-<li><strong>Investments in Sustainable Forest Management</strong>: The U.S. Development Finance Corporation (DFC) secured five deals to support the conservation, restoration, and/or sustainable use of forests and land in 2022:
-<ul>
-<li>Provided a guarantee for a sustainable landscape fund, ADM Capital Sustainable Landscape, providing $200 million in financing to small and medium-sized enterprises (SMEs) in sustainable agriculture production, land regeneration, and forest protection.</li>
-<li>Provided a guaranty to promote lending for investments designed to reinforce conservation, restoration, and sustainable management of critical ecosystems through CI Ventures.</li>
-<li>Provided a guaranty to support financing of projects related to ecosystem restoration, agroforestry, &amp; rural energy through the Livelihoods Carbon Fund.</li>
-<li>Provided a loan to MCE Empowering Sustainable Agriculture LLC (MESA), a $40 million debt fund providing financing to agribusinesses and rural farmers with a climate lens.</li>
-<li>Provided a second-loss guarantee for $200 million fund, responsAbility Climate-Smart Agriculture and Food Systems Fund, which makes climate-smart investments for global SMEs operating in four themes across the food system: production, processing &amp; logistics, retail and technology. Additionally, DFC funding of sidecar technical assistance facility.</li>
-</ul>
-</li>
-<li><strong>Tropical Forest and Coral Reef Conservation Act (TFCCA)</strong>: Under the TFCCA, Treasury concluded (September 30, 2021) a debt-for-nature swap in El Salvador that will direct more than $20 million to forest conservation over 10 years. Treasury is currently negotiating a TFCCA agreement with Peru that will support conservation in the Amazon.</li>
-</ul>
-<p>Official reporting on U.S. government finance will be provided in our Biennial Transparency Report submitted under the Paris Agreement.</p>
-<p><strong>Advancing Ambition and Action for Ecosystems Through Policy</strong></p>
-<p>Beyond these advances, the United States has put its leadership into action in efforts to end forest loss and restore ecosystems at home and abroad and has worked with partners to maintain this issue at the forefront of global policy. Notable examples of key policy developments include:</p>
-<p><strong><em>United States</em></strong></p>
-<p><a class="external-link" href="https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/22/executive-order-on-strengthening-the-nations-forests-communities-and-local-economies/" target="_blank" rel="noopener"><span class="external-link-title">Executive Order on Strengthening the Nation’s Forests, Communities, and Local Economies</span><span class="icon-external"> </span></a><strong>: </strong>Released on Earth Day, President Biden’s Executive Order expanded this Administration’s historic and bold efforts to tackle the climate crisis, make our nation more resilient to extreme weather, and strengthen local economies by requesting all agencies to develop joint recommendations on:</p>
-<ul>
-<li>Safeguarding mature and old-growth forests on federal lands, as part of a science-based approach to reduce wildfire risk.</li>
-<li>Strengthening reforestation partnerships across the country to support local economies and ensure we retain forest ecosystems and sustainable supplies of forest products for years to come.</li>
-<li>Combating global deforestation to deliver on key COP26 commitments.</li>
-<li>Enlisting nature to address the climate crisis with comprehensive efforts to deploy nature-based solutions that reduce emissions and build resilience.</li>
-</ul>
-<p><strong>Investment in forests and other ecosystems</strong>: Across these efforts, the Administration will leverage historic investments from the Bipartisan Infrastructure Law and the Inflation Reduction Act, as well as the FY 2022 budget, to direct significant resources to conserve and restore the nation’s forests and other ecosystems, and advance the adoption of climate-smart production practices. These bills, and the associated budgets, facilitate work in partnership with states, Tribal Nations, communities, industry, NGOs, labor, scientists, and private landowners to strengthen our forests while creating good-paying jobs. The Inflation Reduction Act alone supports:</p>
-<ul>
-<li>Significant funding for the restoration of National Forest System lands, including for hazardous fuels reduction projects;</li>
-<li>The U.S. Forest Service Forest Legacy Program, which supports conservation easements or land purchases to conserve privately-owned forest land;</li>
-<li>Efforts to enhance carbon sequestration and resilience through climate-smart agriculture and climate-smart forestry programs;</li>
-<li>Urban forestry programs, with a particular focus on underserved populations and areas;</li>
-<li>The Wood Innovation Program, focused on driving innovation in long-lived forest products and bolstering the forest economy.</li>
-</ul>
-<p>Proposed legislation: The U.S. Congress has also proposed draft legislation that would support efforts globally to halt forest loss and degradation and bolster efforts to conserve and restore forests. These include:</p>
-<ul>
-<li>The proposed <a href="https://www.congress.gov/bill/117th-congress/senate-bill/2950/text" target="_blank" rel="noopener">FOREST Act</a> which would address illegal deforestation driven by the production of export commodities;</li>
-<li>The proposed <a href="https://www.congress.gov/bill/117th-congress/house-bill/5830?s=1&amp;r=5" target="_blank" rel="noopener">Amazon21 Act</a>, which would provide results-based payments for national and subnational-scale programs that successfully reduce emissions from forests and other lands, and enhance sequestration.</li>
-</ul>
-<p><strong><em>Multilateral and Plurilateral</em></strong></p>
-<p>The United States also joined other governments in adopting and implementing a series of measures that reinforce the collective aim to halt forest loss and degradation and restore ecosystems. These include:</p>
-<ul>
-<li><a href="https://ukcop26.org/glasgow-leaders-declaration-on-forests-and-land-use/" target="_blank" rel="noopener"><strong>Glasgow Leaders Declaration</strong></a><strong>: </strong>Signed by 145 countries at COP26, the Glasgow Leaders Declaration on Forests and Land Use emphasized the critical and interdependent roles of forests of all types, biodiversity, and sustainable land use in enabling the world to meet its sustainable development goals and committed to enhancing efforts to conserve critical ecosystems to meet the Paris Agreement goals.</li>
-<li><a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/39864/NATURE-BASED%20SOLUTIONS%20FOR%20SUPPORTING%20SUSTAINABLE%20DEVELOPMENT.%20English.pdf?sequence=1&amp;isAllowed=y" target="_blank" rel="noopener"><strong>Nature-Based Solutions Resolution</strong></a><strong>: </strong>Adopted at the 5th United Nations Environment Assembly in February 2022, the Nature-based Solutions (NbS) Resolution provides the first multilaterally agreed definition of NbS, as well as recognition of their ability to contribute to climate action.</li>
-<li><a class="external-link__pdf" href="https://www.bmuv.de/fileadmin/Daten_BMU/Download_PDF/Europa___International/g7_climate_energy_environment_ministers_communique_bf.pdf" target="_BLANK" rel="noopener"><span class="external-link-title">G7 Environment Communique</span><span class="filesize icon-pdf"> </span></a><strong>: </strong>The 2022 G7 Environment Communique highlighted the importance of addressing land use, land-use change, and forestry for achieving climate and biodiversity objectives.</li>
-<li><a class="external-link__pdf" href="http://summit-americas.org/documentos_oficiales_ixsummit/CMBRS02294e02.pdf" target="_BLANK" rel="noopener"><span class="external-link-title">Summit of the Americas “Our Sustainable Green Future Declaration”:</span><span class="filesize icon-pdf"> </span></a> The “Green Future Declaration” announced at the Summit of the Americas, demonstrated Leaders’ efforts to strengthen cooperation and efforts to advance the Glasgow Leaders’ Declaration on Forest and Land Use, national deforestation and conservation commitments, and regional efforts to halt and reverse deforestation and conserve, sustainably manage, and use ecosystems.</li>
-<li><a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/29/declaration-on-u-s-pacific-partnership/" target="_blank" rel="noopener"><strong>Declaration on U.S. &#8211; Pacific Partnership:</strong></a> At the White House U.S.-Pacific Islands Summit, the declaration between the United States and Pacific included commitments to expand cooperation to enhance the development of the sustainable blue economy, including small- and medium-sized enterprises, labor, forestry, fisheries, agriculture, trade, tourism, and addressing supply chains issues and food security.</li>
-</ul>
-<p>For media inquiries, please contact ClimateComms@state.gov.</p>
-<p># # #</p>
-<ol>
-<li id="post-397512-footnote-2">FY21 obligated funds <a href="#post-397512-footnote-ref-2">↑</a></li>
-</ol>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>At COP26 during the World Leaders Summit Forest Day session on November 2, 2021, the United States announced the <a class="external-link__pdf" href="https://www.whitehouse.gov/wp-content/uploads/2021/11/Plan_to_Conserve_Global_Forests_final.pdf" target="_BLANK" rel="noopener"><span class="external-link-title">Plan to Conserve Global Forests: Critical Carbon Sinks</span><span class="filesize icon-pdf"> </span></a>. This decade-long, whole-of-government Plan sets forth the U.S. approach to conserving critical global terrestrial carbon sinks, deploying a range of diplomatic, policy, and financing tools. The first-of-its-kind plan for the U.S. government seeks to catalyze the global effort to conserve and restore the forests and other ecosystems that serve as critical carbon sinks. Subject to Congressional appropriations, by 2030, the United States intends to dedicate up to $9 billion of our international climate funding to support the objectives of the Plan.</p>
-<p>The United States recognizes that without halting deforestation and other land conversion, and restoring ecosystems at scale, the world cannot reach net zero emissions by 2050 nor limit warming to 1.5 degrees Celsius. This is not a long-term challenge. It is something we must do immediately in this critical decade.</p>
-<p>Forests and other ecosystems could provide as much as one-third of global mitigation by 2030. The Plan to Conserve Global Forests: Critical Carbon Sinks has been devised to catalyze even more ambitious global action to capture that potential by reducing emissions from deforestation and forest degradation, and enhancing carbon sequestration by restoring and enhancing forests and other ecosystems.</p>
-<p><strong>Progress in 2022 </strong></p>
-<p>The Plan reiterates U.S. support for the collective goals to strive to end natural forest loss by 2030 and to significantly increase the rate of global restoration of degraded landscapes and forestlands to restore at least an additional 200 million hectares by 2030, and the collective aim to slow, halt, and reverse forest cover and carbon loss.</p>
-<p>Since the launch at COP26, the United States has worked to help drive progress forward in each of the Plan’s four key objectives, building on a whole-of-government approach and partnering with key stakeholders. Amongst this work is a new, systematic interagency effort to coordinate engagement and outyear programming in specific geographies. While all activities underway are too extensive to list here, we have included a summary of some of the most relevant advances under each objective below:</p>
-<p><strong>Objective 1: Incentivize forest and ecosystem conservation and forest landscape restoration</strong></p>
-<ul>
-<li><strong>The Support Hub for Forest Finance and Landscape Engagement (SHUFFLE): </strong>The SHUFFLE program is providing technical support to partners in 4 countries to help them meet high-integrity independent standards for national and subnational carbon crediting and results-based payments, and has developed a publicly-available tool designed to assist forest countries to evaluate different results-based payment systems.</li>
-<li><strong>Offset National Emissions through Sustainable Landscapes (ONE-SL):</strong> The ONE-SL program is currently providing technical assistance to 3 countries (Zambia, Colombia and Kenya) to develop robust national and subnational forest and climate programs, including protocols for “nesting” existing projects into this broader scale. ONE-SL is also piloting a newly developed decision-support tool to assist governments in evaluating Article 6-related activities.</li>
-<li><strong>Innovative Finance for Nature: </strong>The U.S. Department of State, in collaboration with USAID and the U.S. International Development Finance Corporation (DFC) jointly developed a new global initiative focusing on accelerating the use of innovative finance mechanisms to promote private investments in critical carbon stocks and sinks and support a green recovery. The program is hosting a series of roundtables to identify barriers, explore potential opportunities, and initiate collaborative efforts to leverage innovative financing mechanisms.</li>
-<li><strong>Central Africa Regional Program for the Environment (CARPE)</strong>: The United States renewed its longstanding commitment to the protection, conservation, and sustainable management of the Congo Basin, the world’s second largest tropical rainforest, with the launch of the fourth phase of USAID’s CARPE initiative. Working closely with and through local, national, and regional institutions, CARPE’s Phase IV Vision is to support a Congo Basin with healthy ecosystems and dynamic local leadership that support stability and prosperity in communities. To date, USAID/CARPE, in partnership with the United States Fish and Wildlife Service (USFWS) and the United States Forest Service (USFS), has invested over $600 million to build inclusive markets, improve law enforcement, support civil society’s role in environmental monitoring and advocacy, and strengthen land use management</li>
-<li><strong>Papua New Guinea Sustainable Landscapes:</strong> At the 12th Pacific Island Conference of Leaders in Honolulu, Hawaii, USAID announced a new five-year, up to $18.5 million activity to combat climate change by conserving forests in Papua New Guinea. The initiative will improve forest governance, increase the environmental sustainability of the forest industry, and protect land and resource rights, thereby reducing deforestation and carbon dioxide emissions. It will also support women’s participation in sustainable agroforestry and the development of businesses that manage ecosystem services.</li>
-<li><strong>Business Case for Collective Landscape Action:</strong> The Business Case activity — which USAID first announced at COP26 in Glasgow as part of President Biden’s Plan to Conserve Global Forests — aims to reduce deforestation produced by agricultural commodities, conserve biodiversity, and promote the well-being of local communities, starting with pilots in Peru, Ecuador, Indonesia, and five jurisdictions in Brazil. In October, USAID launched work in Peru to support multi-stakeholder landscape planning, connect these landscapes to international disclosure and reporting systems, and unlock critical international financing for sustainable commodities and landscapes.</li>
-<li><strong>Forest Value Enhancement Project</strong>: The Millennium Challenge Corporation (MCC)’s $20 million dollar threshold program with Solomon Islands includes a $6.5 million dollar <a id="post-397512-_Hlk118393876"></a>Forest Value Enhancement Project that aims to improve management of natural resources in the forest sector. The project aims to reduce negative environmental impacts, increase and more equitably share the community and national revenues from forestry production, and achieve a more balanced regulatory and enforcement framework between logging and non-logging uses of forests.</li>
-<li><strong>Transfrontier Conservation Areas</strong>: The National Park Service’s Climate Change Response Program, along with South Africa National Parks, hosted a series of monthly webinars throughout 2022 to support climate response decision-making in the Transfrontier Conservation Areas (TFCAs) in southern Africa. The Embassy Science Fellows webinars have focused on tools, approaches, and best practices for assessing climate risks and vulnerabilities, engaging stakeholders, and informing participative decision-making to protect critical ecosystems in protected areas and large landscapes and the services they provide to local communities. One such tool, the Resist-Accept-Direct framework, provides a model to guide decision-making on responses to climate risks to natural resources in the face of uncertain future risk scenarios.</li>
-<li><strong>The Latin America and Caribbean Initiative (LACI),</strong> co-led by the U.S. Geological Survey (USGS) with other U.S. Global Change Research Program agencies, the Inter-American Institute for Global Change Research (IAI), and AmeriGEO, is building partnerships and capacity across the Americas to assess climate risks and vulnerabilities. Several local partners have developed project concepts to build climate information capacity to support ecosystem conservation efforts, engage indigenous communities, and incorporate Indigenous knowledge in climate responses in the Amazon Basin. After reviewing project concepts, LACI partners will work together to identify resources to support priority pilot projects.</li>
-<li><strong>Multinational Species Conservation Programs:</strong> USFWS provides financial assistance awards to conserve international wildlife strongholds and critical habitats, including protected and conserved areas (PCAs) and other sites where conservation of corridors, forests and other wildlife habitats are necessary for effective landscape conservation. In FY 2022, U.S. Fish and Wildlife Service’s Multinational Species Conservation Programs issued $31,746,531 in grants to partners to support conservation of threatened and endangered wildlife species, such as rhinos, elephants, apes and sea turtles. Many of these grants include a focus on building capacity at the local level for effective conservation and management of the forests and other ecosystems in which these high-profile species reside. For example, the African Elephant Conservation Fund supported the local organization, Organization Ecotouristique du Lac Oguemoué (OELO), in Gabon to develop a community forest management plan which also addresses forest elephant conservation.</li>
-<li><strong>Multilateral Funds that Received U.S. Contributions:</strong> The United States supports the World Bank’s $1 billion Forest Carbon Partnership Facility (FCPF) and the $380 million BioCarbon Fund Initiative for Sustainable Forest Landscapes (ISFL), multilateral results-based programs that support conservation and restoration efforts in forests and other lands. Since COP26, the FCPF has provided payments for reducing forest emissions to two countries – Mozambique and Costa Rica – with payments for another 13 countries expected in the coming years. Under ISFL, the first contracts for payments for reduced emissions from land use are expected to be signed in late 2022 or early 2023, complementing up-front support and investment finance.</li>
-</ul>
-<p><strong>Objective 2: Catalyze private sector investment, finance, and action to conserve critical carbon sinks</strong></p>
-<ul>
-<li><strong>ForInvest: </strong>The United States launched the Forest Investment Development Facility (ForInvest) program, which will catalyze investment in Nationally Determined Contribution-aligned land use activities by unlocking a pipeline of investments and linking investors to that pipeline and coordinating activities across relevant institutions.</li>
-<li><strong>Climate Finance for Development Accelerator (CFDA)</strong>: USAID’s Climate Finance for Development Accelerator (CFDA) will mobilize private finance and private sector actions that support the transition to an equitable and resilient net-zero economy. CFDA aims to mobilize $2.5 billion of additional private and public finance for adaptation and mitigation by 2030 by creating incentives and reducing risks for large-scale investments that address the climate finance gap. These investments will support diverse climate change mitigation and adaptation activities, including in high-priority forest landscapes under the Plan, that are aligned with the implementation of country-driven Nationally Determined Contributions (NDCs) and National Adaptation Plans (NAPs) under the Paris Agreement.</li>
-<li><strong>LEAF: </strong>The United States supports the $1.5 billion public-private Lowering Emissions by Accelerating Forest finance (LEAF) coalition to purchase carbon credits and provide results-based payments for reducing emissions and increasing removals from forests to developing countries. Since COP26, LEAF has expanded the coalition to include additional private sector partners and the Republic of South Korea, and reached $1.5 billion in committed demand.</li>
-<li><strong>Engagement with Commodity Traders: </strong>The United States and United Kingdom have been closely following the commitment by 13 of the largest traders of agricultural commodities to deliver a roadmap aligning their sectors to a 1.5 degree C future and exploring opportunities to support the implementation of ambitious plans in the soy, cattle, and palm sectors.</li>
-<li><strong>Amazonia Connect</strong>: To reduce emissions due to the conversion of forests for agriculture, the United States <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-tackling-climate-change-and-creating/">announced at the Summit of the Americas</a> a new initiative to promote deforestation-free and low-carbon approaches to commodity production in Brazil, Colombia, and Peru. The activity will work within entire supply chains to promote Low Carbon Agriculture (LCA) approaches by providing technical assistance and monitoring tools to guarantee the production and verification of low-carbon and deforestation-free products. These verified products will then be purchased by private sector companies that have invested directly into LCA to fulfill their international deforestation-free commitments.</li>
-<li><strong>Amazon Biodiversity Fund (ABF):</strong> This initiative, launched in September 2019, was co-designed with support from USAID and receives private sector funding to support businesses with sustainable development models that benefit biodiversity and the climate. The Fund provides a 50 percent guarantee from the Development Finance Corporation for biodiversity-based impact investments and aims to leverage $50 million in investment by 2023. In May 2022, the Dutch Bank ASN—which has an arm of Impact Investment Funds—invested about €3 million in the Fund. So far, ABF has invested in five Amazonian businesses, including Reforesterra, one of the largest restoration initiatives of natural ecosystems in the Brazilian Amazon linked to the voluntary carbon market. This effort will offer the first payment for ecosystem services (PES) scheme to be created in Brazil from the private sector.</li>
-</ul>
-<p><strong>Objective 3: Build long-term capacity and support the data and monitoring systems that enhance accountability</strong></p>
-<ul>
-<li><strong>Forest Data Partnership:</strong> Announced at COP26, this is a collaboration between the United States, World Resources Institute, Google, and Unilever to address a key barrier to private investment in forests and restoration—the lack of reliable and accessible data on forests and lands. In the last year, Norway announced it would join the partnership, while the United Kingdom conducted an analysis of Transparency and Traceability systems as part of the Forest, Agriculture and Commodity Trade (FACT) Dialogue it hosted at COP26.</li>
-<li><strong>SilvaCarbon: </strong>Since COP26,<strong> t</strong>he SilvaCarbon program has provided support to more than 30 countries to enhance monitoring and MRV efforts for forests and other lands. These efforts support better land use decision-making, enhance enforcement against illegal activities, facilitate access to carbon crediting and results-based payments, and inform reporting on national GHG inventories and NDCs.</li>
-<li><strong>Climate Fellows: </strong>The Climate Fellows Program continues to improve land management, conservation, and restoration in forestry by providing technical support to select developing countries. Currently, there are three Climate Fellows, with the first Climate Fellow placed in Fiji in 2021. In 2022, The Climate Fellows Program continued to expand the program&#8217;s portfolio as two new hires were selected to be Fellows in Vietnam, beginning in August 2022, and Palau, in November 2022. The Climate Fellow based in Palau will be the first to support &#8220;Blue Carbon&#8221; efforts to work regionally in the Pacific Islands to measure, monitor, and manage blue carbon ecosystems, like wetlands and mangroves.</li>
-<li><strong>Engaging Indigenous Communities: </strong>
-<ul>
-<li>In 2022 the Indigenous Peoples Climate Access Facility (IPFAF) launched, with the goal of providing support to indigenous peoples groups around the world to directly access existing finance mechanisms, supporting their efforts to continue to conserve some of the most critical forests on earth.</li>
-<li>Through the Embassy Science Fellows program, DOI’s Bureau of Indian is facilitating exchanges between Native American tribal experts and counterparts from Indigenous communities in the Bolivian and Brazilian Amazon and the Canadian Arctic. The exchanges focus on approaches to protect and conserve the ecosystems on which they depend and incorporating Indigenous knowledge in climate response decision-making.</li>
-</ul>
-</li>
-<li><strong>Combating Nature Crimes</strong>: Illegal deforestation, illegal logging, illegal mining and associated crimes are hindering progress on achieving land-based emissions reductions. The United States continues its leadership on combating deforestation and enhancing investments to mitigate climate change, including through: continued enforcement of the U.S. Lacey Act (2008) to combat illegal logging and associated trade, as well as building networks of law enforcement cooperation to build capacity and take action; co-developing the new Nature Crime Alliance to expand partnerships with other countries and stakeholders to combat transnational crimes and address policy failure across sectors, crime types, and stakeholders; dedicating new agency resources for anti-corruption and law enforcement efforts; and the following regional efforts:
-<ul>
-<li>In 2022, the USFWS coordinated search and seizure warrants and the apprehension of nearly 100 tons of Amazonian hardwoods, in direct cooperation with Brazilian authorities. The transnational investigations triggered by evidence of illegal deforestation on indigenous lands, public corruption, and fraudulent documentation generated in Brazil and presented to U.S. authorities upon import into the United States. The investigations have relied on continued collaboration and expertise provided by Brazilian authorities, including detailed satellite imagery, traceability (origin) studies, and sharing of evidence and internal documents.</li>
-<li>The U.S. Department of Justice Environment and Natural Resources Division (DOJ) and USFS resumed in-country programming to combat illegal timber trafficking in Cameroon and Gabon, which had been on hold for two years due to COVID pandemic travel restrictions. DOJ and the USFS provided in-country programming for law enforcement officers in Cameroon and separate in-country programming for prosecutors in Gabon. In FY 2023, additional in-country programming will be conducted in both countries as well as other countries in Africa, the Americas, and Asia based on available resources.</li>
-<li>In 2022, the U.S. Department of the Interior&#8217;s International Technical Assistance Program (DOI-ITAP), in partnership with the U.S. Fish &amp; Wildlife Service&#8217;s Counter Wildlife Trafficking (USFWS-CWT) Division, supported 14 government officials responsible for CITES implementation from nine countries across Central and East Africa to participate in a rigorous &#8220;CITES Master&#8217;s Course&#8221; program at the International University of Andalucía (UNIA) in Baeza, Spain. The primary objective of the program is to strengthen the technical knowledge and regional collaboration needed for successful global implementation of CITES.</li>
-<li>In 2022, DOI-ITAP, in collaboration with USFWS and the U.S. Forest Service, supported CITES capacity-building for countries participating in the Central America Wildlife Enforcement Network (CAWEN). A significant focus of this effort in 2022 was development of CITES permit digital systems in Costa Rica, El Salvador, Guatemala, Honduras, and Panama. These systems will capture endangered timber species, as well as other endangered species of flora and fauna.</li>
-<li>In 2018, DOI helped establish Guatemala&#8217;s first environmental courts in the Peten, Guatemala, which covers the Maya Biosphere Reserve (MBR). DOI partners with local attorneys who advise the GOG on prosecuting environmental crimes committed in the MBR. With this assistance, in fiscal year 2022 the Government of Guatemala has: recovered 1,193 hectares of MBR usurped lands; another 3,076 hectares in recovery process; sanctioned 10 individuals Q85,000 in environmental fines; and trained 162 technical staff and 115 judiciary staff in Guatemala (e.g., judges and protected area agency legal advisors).</li>
-</ul>
-</li>
-</ul>
-<p><strong>Objective 4: Increase ambition for climate and conservation action</strong></p>
-<ul>
-<li><strong>Bilateral partnerships: </strong>The United States continues to work with partners around the world to support efforts to set and achieve ambitious climate targets, including by addressing drivers of deforestation where applicable. Forests form a core part of our partnerships in countries like Brazil, DRC, India, Indonesia, Mexico, and Vietnam.</li>
-<li><strong>Mobilizing support: </strong>The United States is working with a range of government, private sector, and multilateral institutions to identify opportunities to mobilize investment, technical support, and business opportunities to enhance the efforts of countries that are seeking to take ambitious actions to conserve, manage, and restore forests and other ecosystems with the urgency that a 1.5 degree C future demands.</li>
-</ul>
-<p>To support these efforts, the United States has dedicated substantial financial resources over the past year, and worked with partners to mobilize additional resources through:</p>
-<ul>
-<li><strong>Foreign Assistance to support: </strong>
-<ul>
-<li>Starting in 2022, USAID began implementing projects supporting the Plan to Conserve Global Forests, totaling approximately $499.5 million in 50 countries with FY 2020 and FY 2021 funds.</li>
-<li>In 2022, the Department of State began implementing projects totaling $13 million with FY 2020 funds, and committed an additional $35.05 million in<sup><a id="post-397512-footnote-ref-2" href="#post-397512-footnote-2"></a></sup> FY 2021 funds to support Plan objectives.</li>
-<li>The Department of State committed over $1.5 million to monitor and detect illegal logging, investigate and prosecute forest crimes, support science and technology for wood species identification and forensics, and enhance data on illicit trade routes. Since 2010, the U.S. Department of State has allocated over $13 million to support implementation of the U.S. Lacey Act to prevent the import of illegally harvested forest products and has trained over 2,400 officials in 34 countries.</li>
-</ul>
-</li>
-<li><strong>Investments in Sustainable Forest Management</strong>: The U.S. Development Finance Corporation (DFC) secured five deals to support the conservation, restoration, and/or sustainable use of forests and land in 2022:
-<ul>
-<li>Provided a guarantee for a sustainable landscape fund, ADM Capital Sustainable Landscape, providing $200 million in financing to small and medium-sized enterprises (SMEs) in sustainable agriculture production, land regeneration, and forest protection.</li>
-<li>Provided a guaranty to promote lending for investments designed to reinforce conservation, restoration, and sustainable management of critical ecosystems through CI Ventures.</li>
-<li>Provided a guaranty to support financing of projects related to ecosystem restoration, agroforestry, &amp; rural energy through the Livelihoods Carbon Fund.</li>
-<li>Provided a loan to MCE Empowering Sustainable Agriculture LLC (MESA), a $40 million debt fund providing financing to agribusinesses and rural farmers with a climate lens.</li>
-<li>Provided a second-loss guarantee for $200 million fund, responsAbility Climate-Smart Agriculture and Food Systems Fund, which makes climate-smart investments for global SMEs operating in four themes across the food system: production, processing &amp; logistics, retail and technology. Additionally, DFC funding of sidecar technical assistance facility.</li>
-</ul>
-</li>
-<li><strong>Tropical Forest and Coral Reef Conservation Act (TFCCA)</strong>: Under the TFCCA, Treasury concluded (September 30, 2021) a debt-for-nature swap in El Salvador that will direct more than $20 million to forest conservation over 10 years. Treasury is currently negotiating a TFCCA agreement with Peru that will support conservation in the Amazon.</li>
-</ul>
-<p>Official reporting on U.S. government finance will be provided in our Biennial Transparency Report submitted under the Paris Agreement.</p>
-<p><strong>Advancing Ambition and Action for Ecosystems Through Policy</strong></p>
-<p>Beyond these advances, the United States has put its leadership into action in efforts to end forest loss and restore ecosystems at home and abroad and has worked with partners to maintain this issue at the forefront of global policy. Notable examples of key policy developments include:</p>
-<p><strong><em>United States</em></strong></p>
-<p><a class="external-link" href="https://www.whitehouse.gov/briefing-room/presidential-actions/2022/04/22/executive-order-on-strengthening-the-nations-forests-communities-and-local-economies/" target="_blank" rel="noopener"><span class="external-link-title">Executive Order on Strengthening the Nation’s Forests, Communities, and Local Economies</span><span class="icon-external"> </span></a><strong>: </strong>Released on Earth Day, President Biden’s Executive Order expanded this Administration’s historic and bold efforts to tackle the climate crisis, make our nation more resilient to extreme weather, and strengthen local economies by requesting all agencies to develop joint recommendations on:</p>
-<ul>
-<li>Safeguarding mature and old-growth forests on federal lands, as part of a science-based approach to reduce wildfire risk.</li>
-<li>Strengthening reforestation partnerships across the country to support local economies and ensure we retain forest ecosystems and sustainable supplies of forest products for years to come.</li>
-<li>Combating global deforestation to deliver on key COP26 commitments.</li>
-<li>Enlisting nature to address the climate crisis with comprehensive efforts to deploy nature-based solutions that reduce emissions and build resilience.</li>
-</ul>
-<p><strong>Investment in forests and other ecosystems</strong>: Across these efforts, the Administration will leverage historic investments from the Bipartisan Infrastructure Law and the Inflation Reduction Act, as well as the FY 2022 budget, to direct significant resources to conserve and restore the nation’s forests and other ecosystems, and advance the adoption of climate-smart production practices. These bills, and the associated budgets, facilitate work in partnership with states, Tribal Nations, communities, industry, NGOs, labor, scientists, and private landowners to strengthen our forests while creating good-paying jobs. The Inflation Reduction Act alone supports:</p>
-<ul>
-<li>Significant funding for the restoration of National Forest System lands, including for hazardous fuels reduction projects;</li>
-<li>The U.S. Forest Service Forest Legacy Program, which supports conservation easements or land purchases to conserve privately-owned forest land;</li>
-<li>Efforts to enhance carbon sequestration and resilience through climate-smart agriculture and climate-smart forestry programs;</li>
-<li>Urban forestry programs, with a particular focus on underserved populations and areas;</li>
-<li>The Wood Innovation Program, focused on driving innovation in long-lived forest products and bolstering the forest economy.</li>
-</ul>
-<p>Proposed legislation: The U.S. Congress has also proposed draft legislation that would support efforts globally to halt forest loss and degradation and bolster efforts to conserve and restore forests. These include:</p>
-<ul>
-<li>The proposed <a href="https://www.congress.gov/bill/117th-congress/senate-bill/2950/text" target="_blank" rel="noopener">FOREST Act</a> which would address illegal deforestation driven by the production of export commodities;</li>
-<li>The proposed <a href="https://www.congress.gov/bill/117th-congress/house-bill/5830?s=1&amp;r=5" target="_blank" rel="noopener">Amazon21 Act</a>, which would provide results-based payments for national and subnational-scale programs that successfully reduce emissions from forests and other lands, and enhance sequestration.</li>
-</ul>
-<p><strong><em>Multilateral and Plurilateral</em></strong></p>
-<p>The United States also joined other governments in adopting and implementing a series of measures that reinforce the collective aim to halt forest loss and degradation and restore ecosystems. These include:</p>
-<ul>
-<li><a href="https://ukcop26.org/glasgow-leaders-declaration-on-forests-and-land-use/" target="_blank" rel="noopener"><strong>Glasgow Leaders Declaration</strong></a><strong>: </strong>Signed by 145 countries at COP26, the Glasgow Leaders Declaration on Forests and Land Use emphasized the critical and interdependent roles of forests of all types, biodiversity, and sustainable land use in enabling the world to meet its sustainable development goals and committed to enhancing efforts to conserve critical ecosystems to meet the Paris Agreement goals.</li>
-<li><a href="https://wedocs.unep.org/bitstream/handle/20.500.11822/39864/NATURE-BASED%20SOLUTIONS%20FOR%20SUPPORTING%20SUSTAINABLE%20DEVELOPMENT.%20English.pdf?sequence=1&amp;isAllowed=y" target="_blank" rel="noopener"><strong>Nature-Based Solutions Resolution</strong></a><strong>: </strong>Adopted at the 5th United Nations Environment Assembly in February 2022, the Nature-based Solutions (NbS) Resolution provides the first multilaterally agreed definition of NbS, as well as recognition of their ability to contribute to climate action.</li>
-<li><a class="external-link__pdf" href="https://www.bmuv.de/fileadmin/Daten_BMU/Download_PDF/Europa___International/g7_climate_energy_environment_ministers_communique_bf.pdf" target="_BLANK" rel="noopener"><span class="external-link-title">G7 Environment Communique</span><span class="filesize icon-pdf"> </span></a><strong>: </strong>The 2022 G7 Environment Communique highlighted the importance of addressing land use, land-use change, and forestry for achieving climate and biodiversity objectives.</li>
-<li><a class="external-link__pdf" href="http://summit-americas.org/documentos_oficiales_ixsummit/CMBRS02294e02.pdf" target="_BLANK" rel="noopener"><span class="external-link-title">Summit of the Americas “Our Sustainable Green Future Declaration”:</span><span class="filesize icon-pdf"> </span></a> The “Green Future Declaration” announced at the Summit of the Americas, demonstrated Leaders’ efforts to strengthen cooperation and efforts to advance the Glasgow Leaders’ Declaration on Forest and Land Use, national deforestation and conservation commitments, and regional efforts to halt and reverse deforestation and conserve, sustainably manage, and use ecosystems.</li>
-<li><a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/29/declaration-on-u-s-pacific-partnership/" target="_blank" rel="noopener"><strong>Declaration on U.S. &#8211; Pacific Partnership:</strong></a> At the White House U.S.-Pacific Islands Summit, the declaration between the United States and Pacific included commitments to expand cooperation to enhance the development of the sustainable blue economy, including small- and medium-sized enterprises, labor, forestry, fisheries, agriculture, trade, tourism, and addressing supply chains issues and food security.</li>
-</ul>
-<p>For media inquiries, please contact ClimateComms@state.gov.</p>
-<p># # #</p>
-<ol>
-<li id="post-397512-footnote-2">FY21 obligated funds <a href="#post-397512-footnote-ref-2">↑</a></li>
-</ol>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Department of State Announces Reward Offer for Unknown Co-conspirators Responsible for Murder of Paraguayan Prosecutor Marcelo Daniel Pecci Albertini</title>
-		<link>https://www.state.gov/department-of-state-announces-reward-offer-for-unknown-co-conspirators-responsible-for-murder-of-paraguayan-prosecutor-marcelo-daniel-pecci-albertini/</link>
-		
-		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
-		<pubDate>Thu, 17 Nov 2022 13:18:56 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=397505</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Ned Price, Department Spokesperson</p>
-<p>Today the U.S. Department of State is announcing a reward offer of up to $5 million for information leading to the arrests and/or convictions of the as yet unknown individuals who conspired or attempted to participate in the May 10, 2022, homicide of Paraguayan prosecutor Marcelo Pecci. This announcement is made in conjunction with a press conference today at the Presidential Palace in Asunción, Paraguay, where U.S. Ambassador Marc Ostfield and Paraguayan President Mario Abdo Benítez announced the reward.</p>
-<p>Paraguayan Prosecutor Marcelo Pecci was a well-respected prosecutor who successfully pursued many high-profile organized crime cases. Pecci was assassinated on May 10, 2022, while on his honeymoon in Cartagena, Colombia. Subsequent investigation by Colombian National Police (CNP) identified six of the coconspirators who carried out the murder. The United States extends a profound thanks for the outstanding investigation by Colombian authorities, which led to the capture of five of the individuals who committed this ruthless assassination. The purpose of this reward offer is to seek information leading the arrest and/or conviction of any additional coconspirators, including those responsible for financing and ordering the assassination.</p>
-<p>The United States supports the efforts of Colombian, Paraguayan, and other law enforcement partners seeking justice for Prosecutor Pecci. Any information regarding this reward offer should be directed to the Paraguayan Public Ministry +595-972-150-800 (phone/text/WhatsApp/Telegram/Signal) or by e-mail to the Drug Enforcement Administration at PecciReward@dea.gov.</p>
-<p>This reward is offered under the Department of State’s Transnational Organized Crime Rewards Program (TOCRP). The TOCRP and the Narcotics Rewards Program (NRP) have helped bring more than 75 transnational criminals and major narcotics traffickers to justice since the inception of the NRP in 1986. The Department has paid more than $155 million in rewards under these programs for information leading to apprehensions and convictions.</p>
-<p>For more information on the individuals listed above and the NRP and TOCRP, please see visit the Bureau of International Narcotics and Law Enforcement Affairs <a class="external-link" href="http://bureau-of-international-narcotics-and-law-enforcement-affairs" target="_BLANK" rel="noopener"><span class="external-link-title">Rewards Program page</span><span class="icon-external"> </span></a>.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
-<p>Today the U.S. Department of State is announcing a reward offer of up to $5 million for information leading to the arrests and/or convictions of the as yet unknown individuals who conspired or attempted to participate in the May 10, 2022, homicide of Paraguayan prosecutor Marcelo Pecci. This announcement is made in conjunction with a press conference today at the Presidential Palace in Asunción, Paraguay, where U.S. Ambassador Marc Ostfield and Paraguayan President Mario Abdo Benítez announced the reward.</p>
-<p>Paraguayan Prosecutor Marcelo Pecci was a well-respected prosecutor who successfully pursued many high-profile organized crime cases. Pecci was assassinated on May 10, 2022, while on his honeymoon in Cartagena, Colombia. Subsequent investigation by Colombian National Police (CNP) identified six of the coconspirators who carried out the murder. The United States extends a profound thanks for the outstanding investigation by Colombian authorities, which led to the capture of five of the individuals who committed this ruthless assassination. The purpose of this reward offer is to seek information leading the arrest and/or conviction of any additional coconspirators, including those responsible for financing and ordering the assassination.</p>
-<p>The United States supports the efforts of Colombian, Paraguayan, and other law enforcement partners seeking justice for Prosecutor Pecci. Any information regarding this reward offer should be directed to the Paraguayan Public Ministry +595-972-150-800 (phone/text/WhatsApp/Telegram/Signal) or by e-mail to the Drug Enforcement Administration at PecciReward@dea.gov.</p>
-<p>This reward is offered under the Department of State’s Transnational Organized Crime Rewards Program (TOCRP). The TOCRP and the Narcotics Rewards Program (NRP) have helped bring more than 75 transnational criminals and major narcotics traffickers to justice since the inception of the NRP in 1986. The Department has paid more than $155 million in rewards under these programs for information leading to apprehensions and convictions.</p>
-<p>For more information on the individuals listed above and the NRP and TOCRP, please see visit the Bureau of International Narcotics and Law Enforcement Affairs <a class="external-link" href="http://bureau-of-international-narcotics-and-law-enforcement-affairs" target="_BLANK" rel="noopener"><span class="external-link-title">Rewards Program page</span><span class="icon-external"> </span></a>.</p>
 ]]></content:encoded>
 					
 		
