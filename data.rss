@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 18 Nov 2022 22:02:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Nov 2022 22:34:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,177 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Winners of the 2022 Secretary of State’s Award for Corporate Excellence</title>
+		<link>https://www.state.gov/winners-of-the-2022-secretary-of-states-award-for-corporate-excellence/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2022 22:34:29 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=398058</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The U.S. Department of State’s Bureau of Economic and Business Affairs is pleased to announce four winners of the 2022 Secretary of State’s Award for Corporate Excellence (ACE).  Secretary of State Antony J. Blinken will present these four American companies, large and small, with the award in a ceremony on December 9, 2022, at 11:00 a.m. EST at the State Department.  The 2022 ACE categories are Responsible Business Operations; Climate Resilience; and Inclusive Economic Growth.</p>
+<ul>
+<li>Two companies were awarded in the category <b>Responsible Business Operations. Anova Technical Services, LLC, </b>a small-sized enterprise in Bali, Indonesia, won this year’s award for offering fully traceable seafood through secure seafood tracking from its point of catch to its point of sale. <b>GAP Inc., India,</b> was awarded for taking care of people during the COVID-19 pandemic: when the pandemic hit and their suppliers were unable to pay their employees, GAP Inc. stepped in, negotiated payment of wages, and ensured financial security for those most vulnerable to the economic impacts of the pandemic.</li>
+<li>In the <b>Climate Resilience </b>category, the 2022 ACE Winner is <b>Drinkwell, Bangladesh</b>.<b> </b>Drinkwell provides safe and affordable water directly to residents of densely packed neighborhoods in Dhaka.</li>
+<li>In <b>Inclusive Economic Growth</b>, the 2022<b> </b>ACE Winner is<b> Intel, Costa Rica </b>for its <i>Skills 4 Life</i> capacity-building training, designed for underserved afro-descendent and indigenous populations in one of the lowest-income regions in Costa Rica.</li>
+</ul>
+<p>This year commemorates the Award for Corporate Excellence’s 23rd year.  Established in 1999, the ACE recognizes the crucial role U.S. companies are playing in elevating higher standards of business conduct.  Together, these companies are leading the way in addressing some of our greatest global challenges.</p>
+<p>The U.S. Department of State is committed to working with companies to further responsible business practices worldwide and to recognize their efforts to improve lives at home and abroad.  For more information, please visit the Secretary&#8217;s <a href="https://www.state.gov/secretary-of-states-award-for-corporate-excellence/">Award for Corporate Excellence webpage</a>.</p>
+<p>The invitation-only 2022 ACE ceremony will be open to credentialed members of the media on a space-available basis.  A separate notice to the press with access details will be issued soon.  For media inquiries, please contact eb-press-inquiry@state.gov.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The U.S. Department of State’s Bureau of Economic and Business Affairs is pleased to announce four winners of the 2022 Secretary of State’s Award for Corporate Excellence (ACE).  Secretary of State Antony J. Blinken will present these four American companies, large and small, with the award in a ceremony on December 9, 2022, at 11:00 a.m. EST at the State Department.  The 2022 ACE categories are Responsible Business Operations; Climate Resilience; and Inclusive Economic Growth.</p>
+<ul>
+<li>Two companies were awarded in the category <b>Responsible Business Operations. Anova Technical Services, LLC, </b>a small-sized enterprise in Bali, Indonesia, won this year’s award for offering fully traceable seafood through secure seafood tracking from its point of catch to its point of sale. <b>GAP Inc., India,</b> was awarded for taking care of people during the COVID-19 pandemic: when the pandemic hit and their suppliers were unable to pay their employees, GAP Inc. stepped in, negotiated payment of wages, and ensured financial security for those most vulnerable to the economic impacts of the pandemic.</li>
+<li>In the <b>Climate Resilience </b>category, the 2022 ACE Winner is <b>Drinkwell, Bangladesh</b>.<b> </b>Drinkwell provides safe and affordable water directly to residents of densely packed neighborhoods in Dhaka.</li>
+<li>In <b>Inclusive Economic Growth</b>, the 2022<b> </b>ACE Winner is<b> Intel, Costa Rica </b>for its <i>Skills 4 Life</i> capacity-building training, designed for underserved afro-descendent and indigenous populations in one of the lowest-income regions in Costa Rica.</li>
+</ul>
+<p>This year commemorates the Award for Corporate Excellence’s 23rd year.  Established in 1999, the ACE recognizes the crucial role U.S. companies are playing in elevating higher standards of business conduct.  Together, these companies are leading the way in addressing some of our greatest global challenges.</p>
+<p>The U.S. Department of State is committed to working with companies to further responsible business practices worldwide and to recognize their efforts to improve lives at home and abroad.  For more information, please visit the Secretary&#8217;s <a href="https://www.state.gov/secretary-of-states-award-for-corporate-excellence/">Award for Corporate Excellence webpage</a>.</p>
+<p>The invitation-only 2022 ACE ceremony will be open to credentialed members of the media on a space-available basis.  A separate notice to the press with access details will be issued soon.  For media inquiries, please contact eb-press-inquiry@state.gov.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Special Representative for Global Partnerships McAuliffe Hosts Connecting Climate Entrepreneurs Pitch Competition at COP27</title>
 		<link>https://www.state.gov/special-representative-for-global-partnerships-mcauliffe-hosts-connecting-climate-entrepreneurs-pitch-competition-at-cop27/</link>
 		
@@ -1515,169 +1686,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>To learn more about the Office of Global Partnerships and our current initiatives, please click<a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDUsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTguNjY5MDAyMTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3Yva2V5LXRvcGljcy1vZmZpY2Utb2YtZ2xvYmFsLXBhcnRuZXJzaGlwcy8ifQ.jCGBmp__pCA3CrgL7n01BqDLu5NLgwKWgLikh0H0EU4/s/1436012980/br/148516164908-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDUsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTguNjY5MDAyMTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3Yva2V5LXRvcGljcy1vZmZpY2Utb2YtZ2xvYmFsLXBhcnRuZXJzaGlwcy8ifQ.jCGBmp__pCA3CrgL7n01BqDLu5NLgwKWgLikh0H0EU4%2Fs%2F1436012980%2Fbr%2F148516164908-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Cbb95121a71dd462b345208dac97cbe21%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638043834858675910%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=AeqFd5w3ei2E2zAIgwXlgEyiv2%2FJQ%2BaA8TYmCxNnkb8%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="5"> </a><a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDYsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTguNjY5MDAyMTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3Yva2V5LXRvcGljcy1vZmZpY2Utb2YtZ2xvYmFsLXBhcnRuZXJzaGlwcy8ifQ.YFnxmMStlS-mi5sfQ_XUKwkE8EcMF06O-agR4lbxV9A/s/1436012980/br/148516164908-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDYsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTguNjY5MDAyMTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3Yva2V5LXRvcGljcy1vZmZpY2Utb2YtZ2xvYmFsLXBhcnRuZXJzaGlwcy8ifQ.YFnxmMStlS-mi5sfQ_XUKwkE8EcMF06O-agR4lbxV9A%2Fs%2F1436012980%2Fbr%2F148516164908-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Cbb95121a71dd462b345208dac97cbe21%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638043834858675910%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=FlSgCIO4yA%2FcfXXpfT4kOFMpWxIfE4XhgkrYGoz7J8k%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="6">here</a> or visit<a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDcsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTguNjY5MDAyMTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3Yvcy9wYXJ0bmVyc2hpcHMifQ.N5GiZ4DR3AqwY5MWYh0nInw1_2z4HlpdlGOwoDesDu4/s/1436012980/br/148516164908-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDcsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTguNjY5MDAyMTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3Yvcy9wYXJ0bmVyc2hpcHMifQ.N5GiZ4DR3AqwY5MWYh0nInw1_2z4HlpdlGOwoDesDu4%2Fs%2F1436012980%2Fbr%2F148516164908-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Cbb95121a71dd462b345208dac97cbe21%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638043834858675910%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=7oGM5EKBZpkDsICIC9yYvOH6WxxqUE%2Bud4oGHDlqRNE%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="7"> </a><a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDgsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTguNjY5MDAyMTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3Yvcy9wYXJ0bmVyc2hpcHMifQ.HvtRur3Ipg74WuLbrOSWDoYXboMt3GxqjsMb80kw_OA/s/1436012980/br/148516164908-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDgsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTguNjY5MDAyMTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3Yvcy9wYXJ0bmVyc2hpcHMifQ.HvtRur3Ipg74WuLbrOSWDoYXboMt3GxqjsMb80kw_OA%2Fs%2F1436012980%2Fbr%2F148516164908-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Cbb95121a71dd462b345208dac97cbe21%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638043834858675910%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=G0A1tsc7OOPL6gmM4Thq2c%2FSb5WHPxDbU4%2Fa7yMHDAQ%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="8">https://www.state.gov/s/partnerships</a>.   You may also email <u>Partnerships@state.gov</u>  for more information.  For press inquiries, please contact Melanie Bonner at <u>BonnerML@state.gov</u>.</p>
 <p>&nbsp;</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>United States Endorses Political Declaration Relating to Protection of Civilians in Armed Conflict</title>
-		<link>https://www.state.gov/united-states-endorses-political-declaration-relating-to-protection-of-civilians-in-armed-conflict/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 18 Nov 2022 16:06:32 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=397916</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Today in Dublin, Ireland, the United States joined more than 50 other States in endorsing the Political Declaration on Strengthening the Protection of Civilians from the Humanitarian Consequences Arising from the Use of Explosive Weapons in Populated Areas. The United States thanks the Government of Ireland for its dedication in leading this important effort. We also express our appreciation to all States, civil society organizations, and international organizations that contributed to the negotiation of this Declaration.</p>
-<p>Protecting civilians from harm in connection with military operations is a moral imperative. It is also critical to preserving civil society and restarting economic growth after the conflict is over. The United States is instituting major changes to our domestic policies and practices in this area, most notably through the Department of Defense Civilian Harm Mitigation and Response Action Plan released on August 25. We are eager to strengthen our collaboration with allies and partners as part of the follow-on mechanism established in the Declaration, through which States will meet on a regular basis to review the implementation of the Declaration and participate in military-to-military exchanges.</p>
-<p>The atrocities committed by Russia’s forces as part of its aggression against Ukraine have made a global unified approach on this issue urgent. Russia’s attacks on civilian infrastructure and cities across Ukraine have destroyed parks, schools, apartment buildings, train stations, hospitals, and other public spaces. All States endorsing this Declaration are unified in their commitment to strengthen the protection of civilians during armed conflict and improve the implementation of international humanitarian law.</p>
-<p>For more information, please consult the Bureau of Political-Military Affairs <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTguNjY5MDAwMjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvYnVyZWF1cy1vZmZpY2VzL3VuZGVyLXNlY3JldGFyeS1mb3ItYXJtcy1jb250cm9sLWFuZC1pbnRlcm5hdGlvbmFsLXNlY3VyaXR5LWFmZmFpcnMvYnVyZWF1LW9mLXBvbGl0aWNhbC1taWxpdGFyeS1hZmZhaXJzLyJ9.LcMaWpV01uOOtM9caMBlSfZWSvvizJnPj4bGvdGUbR4/s/2576317770/br/148516159731-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTguNjY5MDAwMjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvYnVyZWF1cy1vZmZpY2VzL3VuZGVyLXNlY3JldGFyeS1mb3ItYXJtcy1jb250cm9sLWFuZC1pbnRlcm5hdGlvbmFsLXNlY3VyaXR5LWFmZmFpcnMvYnVyZWF1LW9mLXBvbGl0aWNhbC1taWxpdGFyeS1hZmZhaXJzLyJ9.LcMaWpV01uOOtM9caMBlSfZWSvvizJnPj4bGvdGUbR4%2Fs%2F2576317770%2Fbr%2F148516159731-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7Cbebfbc2bf930441ae15d08dac97c4afc%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638043832919250553%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=QUgK%2BGeevbxstHDc5mHXF8MWJTb5MRtchYYi3M2b9r8%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">website</a>, or contact the Bureau of Political-Military Affairs Office of Congressional and Public Affairs, at pm-cpa@state.gov, and follow us on Twitter <em>@StateDeptPM</em>.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Today in Dublin, Ireland, the United States joined more than 50 other States in endorsing the Political Declaration on Strengthening the Protection of Civilians from the Humanitarian Consequences Arising from the Use of Explosive Weapons in Populated Areas. The United States thanks the Government of Ireland for its dedication in leading this important effort. We also express our appreciation to all States, civil society organizations, and international organizations that contributed to the negotiation of this Declaration.</p>
-<p>Protecting civilians from harm in connection with military operations is a moral imperative. It is also critical to preserving civil society and restarting economic growth after the conflict is over. The United States is instituting major changes to our domestic policies and practices in this area, most notably through the Department of Defense Civilian Harm Mitigation and Response Action Plan released on August 25. We are eager to strengthen our collaboration with allies and partners as part of the follow-on mechanism established in the Declaration, through which States will meet on a regular basis to review the implementation of the Declaration and participate in military-to-military exchanges.</p>
-<p>The atrocities committed by Russia’s forces as part of its aggression against Ukraine have made a global unified approach on this issue urgent. Russia’s attacks on civilian infrastructure and cities across Ukraine have destroyed parks, schools, apartment buildings, train stations, hospitals, and other public spaces. All States endorsing this Declaration are unified in their commitment to strengthen the protection of civilians during armed conflict and improve the implementation of international humanitarian law.</p>
-<p>For more information, please consult the Bureau of Political-Military Affairs <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTguNjY5MDAwMjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvYnVyZWF1cy1vZmZpY2VzL3VuZGVyLXNlY3JldGFyeS1mb3ItYXJtcy1jb250cm9sLWFuZC1pbnRlcm5hdGlvbmFsLXNlY3VyaXR5LWFmZmFpcnMvYnVyZWF1LW9mLXBvbGl0aWNhbC1taWxpdGFyeS1hZmZhaXJzLyJ9.LcMaWpV01uOOtM9caMBlSfZWSvvizJnPj4bGvdGUbR4/s/2576317770/br/148516159731-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTguNjY5MDAwMjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvYnVyZWF1cy1vZmZpY2VzL3VuZGVyLXNlY3JldGFyeS1mb3ItYXJtcy1jb250cm9sLWFuZC1pbnRlcm5hdGlvbmFsLXNlY3VyaXR5LWFmZmFpcnMvYnVyZWF1LW9mLXBvbGl0aWNhbC1taWxpdGFyeS1hZmZhaXJzLyJ9.LcMaWpV01uOOtM9caMBlSfZWSvvizJnPj4bGvdGUbR4%2Fs%2F2576317770%2Fbr%2F148516159731-l&amp;data=05%7C01%7CWMMailbox%40state.gov%7Cbebfbc2bf930441ae15d08dac97c4afc%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638043832919250553%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=QUgK%2BGeevbxstHDc5mHXF8MWJTb5MRtchYYi3M2b9r8%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">website</a>, or contact the Bureau of Political-Military Affairs Office of Congressional and Public Affairs, at pm-cpa@state.gov, and follow us on Twitter <em>@StateDeptPM</em>.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
 ]]></content:encoded>
 					
 		
