@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 18 Nov 2022 12:46:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 18 Nov 2022 13:19:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Appointment of Chris Dodd as Special Presidential Advisor for the Americas</title>
+		<link>https://www.state.gov/appointment-of-chris-dodd-as-special-presidential-advisor-for-the-americas/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2022 13:19:14 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=397856</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>Senator Chris Dodd will serve as Special Presidential Advisor for the Americas, following up on his role as Special Advisor for the Ninth Summit of the Americas in Los Angeles in June.  Senator Dodd will help advance the implementation of key initiatives President Biden announced at the Summit of the Americas in Los Angeles, spanning economic cooperation, migration, health, human rights, food security, as well as other priorities. He will also support the work currently being done by Vice President Harris, the Department of State, the Department of Homeland Security, USAID, and others. Additionally, he will support preparations for the upcoming Cities Summit of the Americas in Denver in April 2023.</p>
+<p>In his decades as a dedicated public servant, starting as a Peace Corps volunteer in the Dominican Republic and through his time on the Senate Foreign Relations Subcommittee on the Western Hemisphere, Senator Dodd has built trust with many of our partners in the Western Hemisphere. He is uniquely qualified to continue delivering the message President Biden conveyed at the Summit of the Americas, namely that countries in the hemisphere must tackle our shared challenges together, in a coordinated manner, to build a sustainable, resilient, and equitable future for the people of the Americas.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>Senator Chris Dodd will serve as Special Presidential Advisor for the Americas, following up on his role as Special Advisor for the Ninth Summit of the Americas in Los Angeles in June.  Senator Dodd will help advance the implementation of key initiatives President Biden announced at the Summit of the Americas in Los Angeles, spanning economic cooperation, migration, health, human rights, food security, as well as other priorities. He will also support the work currently being done by Vice President Harris, the Department of State, the Department of Homeland Security, USAID, and others. Additionally, he will support preparations for the upcoming Cities Summit of the Americas in Denver in April 2023.</p>
+<p>In his decades as a dedicated public servant, starting as a Peace Corps volunteer in the Dominican Republic and through his time on the Senate Foreign Relations Subcommittee on the Western Hemisphere, Senator Dodd has built trust with many of our partners in the Western Hemisphere. He is uniquely qualified to continue delivering the message President Biden conveyed at the Summit of the Americas, namely that countries in the hemisphere must tackle our shared challenges together, in a coordinated manner, to build a sustainable, resilient, and equitable future for the people of the Americas.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Under Secretary Jenkins Travels to Halifax, Canada</title>
 		<link>https://www.state.gov/under-secretary-jenkins-travels-to-halifax-canada/</link>
 		
@@ -1733,169 +1892,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The United States welcomes today’s decision finding three members of Russian proxy forces in eastern Ukraine guilty for their roles in the downing of Malaysia Airlines Flight MH17.  The decision by the District Court of The Hague is an important moment in ongoing efforts to deliver justice for the 298 individuals who lost their lives on July 17, 2014.</p>
 <p>Today’s decision is the result of sustained work by a Joint Investigation Team comprised of authorities from the Netherlands, Australia, Belgium, Malaysia, and Ukraine, and reflects the Netherlands’ firm commitment to establish the truth and pursue accountability in this case.  While this is a solid step towards justice, more work lies ahead to meet the UN Security Council’s demand in resolution 2166 that “those responsible…be held to account.”</p>
 <p><input type="hidden" data-filter="100000000000" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Designating Sanctions Evaders Involved in Iranian Petrochemical and Petroleum Trade</title>
-		<link>https://www.state.gov/designating-sanctions-evaders-involved-in-iranian-petrochemical-and-petroleum-trade/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Thu, 17 Nov 2022 17:32:59 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=397628</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States is taking further action to disrupt sanctions evasion efforts involving the sale of Iranian petroleum and petrochemical products.  Specifically, the Department of the Treasury is imposing sanctions on companies based in multiple jurisdictions for their involvement in petrochemical sales involving previously designated entities, including Persian Gulf Petrochemical Industries Commercial Co., Triliance Petrochemical Co. Ltd., the National Iranian Oil Company, and Naftiran Intertrade Company.</p>
-<p>The entities targeted today have purchased or enabled Iranian petrochemical and petroleum sales and transferred funds to benefit Iran’s petrochemical sector.  These designations are being taken pursuant to Executive Order 13846, which authorizes the imposition of sanctions with respect to trade in Iranian petroleum, petroleum products, and petrochemical products.</p>
-<p>The United States is committed to enforcing our sanctions against Iran, including those related to the petroleum and petrochemical trade.  Anyone involved in facilitating these sales and transactions risks exposure to U.S. sanctions.</p>
-<p>For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTcuNjY4MzY2MTEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTE1In0.gI04f80byOJGOF-v530wON6Cc56zS3h2MTLTKoZcMJM/s/1436012980/br/148457252830-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTcuNjY4MzY2MTEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTE1In0.gI04f80byOJGOF-v530wON6Cc56zS3h2MTLTKoZcMJM%2Fs%2F1436012980%2Fbr%2F148457252830-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Ccf872591b8a140f8fd9d08dac8bd2480%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638043011934582687%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=SOcA6KQNbb61OcKL1pEeTy5uU%2FHA%2Fpmt%2Fz6xyRExyyc%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States is taking further action to disrupt sanctions evasion efforts involving the sale of Iranian petroleum and petrochemical products.  Specifically, the Department of the Treasury is imposing sanctions on companies based in multiple jurisdictions for their involvement in petrochemical sales involving previously designated entities, including Persian Gulf Petrochemical Industries Commercial Co., Triliance Petrochemical Co. Ltd., the National Iranian Oil Company, and Naftiran Intertrade Company.</p>
-<p>The entities targeted today have purchased or enabled Iranian petrochemical and petroleum sales and transferred funds to benefit Iran’s petrochemical sector.  These designations are being taken pursuant to Executive Order 13846, which authorizes the imposition of sanctions with respect to trade in Iranian petroleum, petroleum products, and petrochemical products.</p>
-<p>The United States is committed to enforcing our sanctions against Iran, including those related to the petroleum and petrochemical trade.  Anyone involved in facilitating these sales and transactions risks exposure to U.S. sanctions.</p>
-<p>For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTcuNjY4MzY2MTEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTE1In0.gI04f80byOJGOF-v530wON6Cc56zS3h2MTLTKoZcMJM/s/1436012980/br/148457252830-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTcuNjY4MzY2MTEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTE1In0.gI04f80byOJGOF-v530wON6Cc56zS3h2MTLTKoZcMJM%2Fs%2F1436012980%2Fbr%2F148457252830-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Ccf872591b8a140f8fd9d08dac8bd2480%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638043011934582687%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=SOcA6KQNbb61OcKL1pEeTy5uU%2FHA%2Fpmt%2Fz6xyRExyyc%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
