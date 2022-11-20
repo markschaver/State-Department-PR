@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Sun, 20 Nov 2022 13:17:15 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Nov 2022 17:57:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Transgender Day of Remembrance</title>
+		<link>https://www.state.gov/transgender-day-of-remembrance/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Sun, 20 Nov 2022 17:57:14 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=398169</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On Transgender Day of Remembrance, the world pauses to remember the lives of the many transgender, non-binary, and gender non-conforming persons killed in acts of targeted, transphobic violence.  On every continent, transgender, non-binary, and gender non-conforming persons confront violence, harassment, and discrimination that shock the conscience, simply based on their gender identity or expression.  For far too many, their own governments contribute to this stigma by denying access to justice, health, economic self-sufficiency, and community that are the hallmarks of inclusive and prosperous societies.  We recognize Transgender Day of Remembrance because transgender persons are disproportionately represented among victims of violence around the world.</p>
+<p>There are ample ways to prevent discrimination and violence against transgender, non-binary, and gender non-conforming persons, beginning by recognizing their basic humanity and affirming their human rights. In addition, when trans persons are victims of violence and even homicide, it is essential that attacks be investigated, that the perpetrators be brought to justice, and that investigators and media correctly gender the victims and investigate the attack as a possible hate crime. Advancing gender equity and equality advances safety, security and prosperity for all.</p>
+<p>Transgender, non-binary, and gender non-conforming persons have always been a part of our families, cultures, and nations.  History teaches us that gender diversity is not new and that the strongest societies celebrate the intellectual and cultural contributions and creativity that come from diversity.  As we mourn the transgender, non-binary, and gender non-conforming persons who have paid the ultimate price for others’ hatred, we honor their memory by continuing the fight for a world free of transphobic and gender-based violence and discrimination.  Everyone should be able to live a life that reflects and celebrates their truest self.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On Transgender Day of Remembrance, the world pauses to remember the lives of the many transgender, non-binary, and gender non-conforming persons killed in acts of targeted, transphobic violence.  On every continent, transgender, non-binary, and gender non-conforming persons confront violence, harassment, and discrimination that shock the conscience, simply based on their gender identity or expression.  For far too many, their own governments contribute to this stigma by denying access to justice, health, economic self-sufficiency, and community that are the hallmarks of inclusive and prosperous societies.  We recognize Transgender Day of Remembrance because transgender persons are disproportionately represented among victims of violence around the world.</p>
+<p>There are ample ways to prevent discrimination and violence against transgender, non-binary, and gender non-conforming persons, beginning by recognizing their basic humanity and affirming their human rights. In addition, when trans persons are victims of violence and even homicide, it is essential that attacks be investigated, that the perpetrators be brought to justice, and that investigators and media correctly gender the victims and investigate the attack as a possible hate crime. Advancing gender equity and equality advances safety, security and prosperity for all.</p>
+<p>Transgender, non-binary, and gender non-conforming persons have always been a part of our families, cultures, and nations.  History teaches us that gender diversity is not new and that the strongest societies celebrate the intellectual and cultural contributions and creativity that come from diversity.  As we mourn the transgender, non-binary, and gender non-conforming persons who have paid the ultimate price for others’ hatred, we honor their memory by continuing the fight for a world free of transphobic and gender-based violence and discrimination.  Everyone should be able to live a life that reflects and celebrates their truest self.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Deputy Secretary Sherman to Host the State Department’s 2022 FIFA World Cup Reception for the Diplomatic Corps</title>
 		<link>https://www.state.gov/deputy-secretary-sherman-to-host-the-state-departments-2022-fifa-world-cup-reception-for-the-diplomatic-corps/</link>
 		
@@ -1731,161 +1892,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Since its inception in 1984, the program has paid out in excess of $250 million to more than 125 people across the globe who provided actionable information that had helped resolve threats to U.S. national security. Follow us on Twitter at <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTguNjY5MjM0MTEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL1JGSl9VU0EifQ.tJhaxWyfDbsN3N1irgjkUxITqAKuBk6WdAmhUUFLZwA/s/1436012980/br/148535111107-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMTguNjY5MjM0MTEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL1JGSl9VU0EifQ.tJhaxWyfDbsN3N1irgjkUxITqAKuBk6WdAmhUUFLZwA%2Fs%2F1436012980%2Fbr%2F148535111107-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Ca157fc88455348ef8e5608dac9a03d73%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638043987308631858%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=dvvPVO5NzeFUGNGzsHSPcbP1FZE31R4YfrUjjCGZpq0%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">https://twitter.com/RFJ_USA</a>.</p>
 <p>&nbsp;</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Oman National Day</title>
-		<link>https://www.state.gov/oman-national-day-2/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 18 Nov 2022 20:17:17 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=397992</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>On behalf of the United States of America, I want to express our warm wishes to the people of the Sultanate of Oman as you celebrate your National Day. We are grateful for our countries’ long-shared history and cooperation and look forward to our continued partnership. We appreciate Oman’s steadfast support in humanitarian issues, including its role in securing the freedom of American citizen Baquer Namazi from Iran. We also recognize Oman’s important role in working towards a peaceful political solution in Yemen. As you celebrate your National Day, please accept my best wishes on this joyous occasion.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>On behalf of the United States of America, I want to express our warm wishes to the people of the Sultanate of Oman as you celebrate your National Day. We are grateful for our countries’ long-shared history and cooperation and look forward to our continued partnership. We appreciate Oman’s steadfast support in humanitarian issues, including its role in securing the freedom of American citizen Baquer Namazi from Iran. We also recognize Oman’s important role in working towards a peaceful political solution in Yemen. As you celebrate your National Day, please accept my best wishes on this joyous occasion.</p>
 ]]></content:encoded>
 					
 		
