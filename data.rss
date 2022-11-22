@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Tue, 22 Nov 2022 02:37:18 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Nov 2022 13:20:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Presidential Election in Kazakhstan</title>
+		<link>https://www.state.gov/presidential-election-in-kazakhstan/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Tue, 22 Nov 2022 13:20:56 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=398522</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>Following the November 20 presidential elections, we look forward to working with President Tokayev and his government to advance our common objectives.  The United States also reiterates its unwavering support for Kazakhstan’s sovereignty, independence, and territorial integrity, which has been the bedrock of our partnership for over 30 years.</p>
+<p>The United States concurs with the preliminary findings of the OSCE Office of Democratic Institutions and Human Rights (ODIHR) observation mission to the presidential elections and welcomes their presence in Kazakhstan.  ODIHR found that, although the election day was calm and voting procedures largely followed, the election took place in the absence of meaningful political competition and continued limits on the freedoms of expression and peaceful assembly.  The United States calls on the Kazakhstani government to fully implement ODIHR’s recommendations for future elections, including upcoming parliamentary elections in 2023.</p>
+<p>The United States supports the wide-ranging reforms proposed by President Tokayev earlier this year and the stated aims, including growing the private sector, demonopolizing the economy, and combating corruption, while strengthening checks and balances, the rule of law, and human rights protections.  The development of strong democratic institutions and of a vibrant civil society is critical to Kazakhstan fully realizing its goals.  We call on the government to fully implement these reforms for the benefit of all the people of Kazakhstan.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>Following the November 20 presidential elections, we look forward to working with President Tokayev and his government to advance our common objectives.  The United States also reiterates its unwavering support for Kazakhstan’s sovereignty, independence, and territorial integrity, which has been the bedrock of our partnership for over 30 years.</p>
+<p>The United States concurs with the preliminary findings of the OSCE Office of Democratic Institutions and Human Rights (ODIHR) observation mission to the presidential elections and welcomes their presence in Kazakhstan.  ODIHR found that, although the election day was calm and voting procedures largely followed, the election took place in the absence of meaningful political competition and continued limits on the freedoms of expression and peaceful assembly.  The United States calls on the Kazakhstani government to fully implement ODIHR’s recommendations for future elections, including upcoming parliamentary elections in 2023.</p>
+<p>The United States supports the wide-ranging reforms proposed by President Tokayev earlier this year and the stated aims, including growing the private sector, demonopolizing the economy, and combating corruption, while strengthening checks and balances, the rule of law, and human rights protections.  The development of strong democratic institutions and of a vibrant civil society is critical to Kazakhstan fully realizing its goals.  We call on the government to fully implement these reforms for the benefit of all the people of Kazakhstan.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Lebanon National Day</title>
 		<link>https://www.state.gov/lebanon-national-day-2/</link>
 		
@@ -1644,251 +1805,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>We reiterate our demand that the DPRK abandon its nuclear weapons, existing nuclear programs, and any other weapons of mass destruction and ballistic missile programs in a complete, verifiable and irreversible manner and cease immediately all related activities. The DPRK cannot and will never have the status of a nuclear-weapon State in accordance with the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) or any other special status in this regard. We urge the DPRK to return at an early date to, and fully comply with the Non Proliferation Treaty (NPT) and International Atomic Energy Agency (IAEA) safeguards and to fully abide by all legal obligations under relevant UNSCRs.</p>
 <p>The DPRK’s actions demand a united and robust response by the international community, including the need for further significant measures to be taken by the UN Security Council (UNSC). We call on all states to fully and effectively implement all UNSC measures and sanctions against the DPRK and address the risk of weapons of mass destruction proliferation from the DPRK as an urgent priority.</p>
 <p>The G7 expresses its full solidarity with Japan and the Republic of Korea and urges the DPRK to cease its destabilizing actions. We urge the DPRK to resume meaningful dialogue toward denuclearization and accept the repeated offers of dialogue put forward by the United States, Japan and the Republic of Korea. By diverting its resources from providing for the needs of its people into its unlawful weapons of mass destruction and ballistic missile programs the DPRK further aggravates the already dire humanitarian situation in the DPRK. We are committed to working with all relevant partners toward the goal of peace and security on the Korean Peninsula and to upholding the rules-based international order.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The United States and Qatar: Strategic Partners Advancing Peace and Security</title>
-		<link>https://www.state.gov/the-united-states-and-qatar-strategic-partners-advancing-peace-and-security/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Sun, 20 Nov 2022 21:13:11 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=398178</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p><b>The United States and Qatar: Strategic Partners Advancing Peace and Security</b></p>
-<p>For over 50 years, the United States and Qatar have enjoyed a close partnership.  This partnership was further deepened in January when the White House hosted the Emir of Qatar Sheikh Tamim bin Hamad Al Thani, the first Gulf leader to visit Washington since President Biden took office, and the President designated Qatar as a major non-NATO ally.  As Qatar prepared to host the FIFA Men’s World Cup in 2022, the United States and Qatar committed to expanding close interagency cooperation to ensure a safe and successful tournament.</p>
-<p>Secretary Antony J. Blinken will travel to Doha, Qatar where he will advance this cooperation and show his support for the U.S. Men’s Team as they face off against Wales.  The Secretary will meet with senior Qatari officials, including Deputy Prime Minister and Minister of Foreign Affairs Sheikh Mohammed bin Abdulrahman Al Thani, to open the fifth session of the U.S.-Qatar Strategic Dialogue.</p>
-<p><b>The United States and Qatar Advancing Peace and Security in the Middle East</b></p>
-<ul>
-<li>We congratulate Qatar on the historic step of opening direct flights between Tel Aviv and Doha for the duration of the World Cup and commend the efforts that went into this arrangement.  The recent announcement is a historic development and an important step that holds great promise to bolster people-to-people ties and economic relations.</li>
-</ul>
-<ul>
-<li>We are thankful for Qatar’s close collaboration on Afghanistan and its indispensable support in facilitating the transit of U.S. citizens, Embassy Kabul personnel, at-risk Afghans, and other travelers from Afghanistan through Qatar. As the host of the first and largest such transit site in the world, Qatar has been at the forefront of our efforts to shuttle people from Afghanistan to safety.</li>
-</ul>
-<ul>
-<li>Qatar is one of the United States’ closest military partners in the region. Al-Udeid Air Base is home to the Combined Air Operation Center, which hosts 18 nations and is responsible for all Coalition air operations in the Middle East and Central Asia.</li>
-</ul>
-<ul>
-<li>Qatar is an active partner in the Global Coalition to Defeat ISIS and countering violent extremism, particularly through its support to the Global Community Engagement and Resilience Fund.</li>
-</ul>
-<ul>
-<li>The United States greatly appreciates Qatar’s ongoing support for the Palestinian people and the stabilization of Gaza.</li>
-</ul>
-<ul>
-<li>Qatar has demonstrated its commitment to combat the financing of terrorism through efforts to support U.S. sanctions, compliance with international sanctions, and participation in multilateral fora.</li>
-</ul>
-<p><b>The United States and Qatar Increase their Strength in Trade, Education, Sports Diplomacy and Culture</b></p>
-<ul>
-<li>The U.S.-Qatar Strategic Dialogue, last held in November 2021, highlighted our two countries’ close cooperation on the issues that are central to the bilateral relationship and included several new educational, scientific, and cultural initiatives. This year, our two nations celebrate 50 years of bilateral ties.</li>
-</ul>
-<ul>
-<li>Our ongoing high-level discussions address trade and investment, regional security and defense cooperation, law enforcement and counterterrorism, combating human trafficking, and enhancing climate initiatives.</li>
-</ul>
-<ul>
-<li>Since 2015, Qatar’s sovereign wealth fund, the Qatar Investment Authority, has invested more than $30 billion in the United States, with planned investment exceeding $45 billion in total. Over half of this concentrated in the real estate and infrastructure sectors.</li>
-</ul>
-<p><b>Committed to Progress on Labor Rights and Human Trafficking </b></p>
-<ul>
-<li>The United States recognizes Qatar’s progress towards expanding labor rights, implementing labor laws, and combating human trafficking and is in regular dialogue with Qatar on the work that remains.</li>
-</ul>
-<ul>
-<li>Qatar has reopened its a humanitarian care shelter for victims of human trafficking and moved to abolish exit permits for workers, including domestic workers.</li>
-</ul>
-<ul>
-<li>In 2021, under the framework of the U.S.-Qatar Anti-Trafficking MOU signed in 2018 and the U.S.-Qatar Labor MOU signed during the 2019 Strategic Dialogue, Qatar and the United States implemented joint initiatives to build capacity, raise awareness, and promote the rights of migrant workers.</li>
-</ul>
-<ul>
-<li>The Department also recently recognized Qatari Undersecretary of the Ministry of Administrative Development, Labor and Social Affairs Mohammed al-Obaidly as a 2021 Trafficking in Persons Report Hero for his personal leadership in spurring needed reforms to the employer-based visa sponsorship system and addressing ongoing labor abuses in Qatar.</li>
-</ul>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p><b>The United States and Qatar: Strategic Partners Advancing Peace and Security</b></p>
-<p>For over 50 years, the United States and Qatar have enjoyed a close partnership.  This partnership was further deepened in January when the White House hosted the Emir of Qatar Sheikh Tamim bin Hamad Al Thani, the first Gulf leader to visit Washington since President Biden took office, and the President designated Qatar as a major non-NATO ally.  As Qatar prepared to host the FIFA Men’s World Cup in 2022, the United States and Qatar committed to expanding close interagency cooperation to ensure a safe and successful tournament.</p>
-<p>Secretary Antony J. Blinken will travel to Doha, Qatar where he will advance this cooperation and show his support for the U.S. Men’s Team as they face off against Wales.  The Secretary will meet with senior Qatari officials, including Deputy Prime Minister and Minister of Foreign Affairs Sheikh Mohammed bin Abdulrahman Al Thani, to open the fifth session of the U.S.-Qatar Strategic Dialogue.</p>
-<p><b>The United States and Qatar Advancing Peace and Security in the Middle East</b></p>
-<ul>
-<li>We congratulate Qatar on the historic step of opening direct flights between Tel Aviv and Doha for the duration of the World Cup and commend the efforts that went into this arrangement.  The recent announcement is a historic development and an important step that holds great promise to bolster people-to-people ties and economic relations.</li>
-</ul>
-<ul>
-<li>We are thankful for Qatar’s close collaboration on Afghanistan and its indispensable support in facilitating the transit of U.S. citizens, Embassy Kabul personnel, at-risk Afghans, and other travelers from Afghanistan through Qatar. As the host of the first and largest such transit site in the world, Qatar has been at the forefront of our efforts to shuttle people from Afghanistan to safety.</li>
-</ul>
-<ul>
-<li>Qatar is one of the United States’ closest military partners in the region. Al-Udeid Air Base is home to the Combined Air Operation Center, which hosts 18 nations and is responsible for all Coalition air operations in the Middle East and Central Asia.</li>
-</ul>
-<ul>
-<li>Qatar is an active partner in the Global Coalition to Defeat ISIS and countering violent extremism, particularly through its support to the Global Community Engagement and Resilience Fund.</li>
-</ul>
-<ul>
-<li>The United States greatly appreciates Qatar’s ongoing support for the Palestinian people and the stabilization of Gaza.</li>
-</ul>
-<ul>
-<li>Qatar has demonstrated its commitment to combat the financing of terrorism through efforts to support U.S. sanctions, compliance with international sanctions, and participation in multilateral fora.</li>
-</ul>
-<p><b>The United States and Qatar Increase their Strength in Trade, Education, Sports Diplomacy and Culture</b></p>
-<ul>
-<li>The U.S.-Qatar Strategic Dialogue, last held in November 2021, highlighted our two countries’ close cooperation on the issues that are central to the bilateral relationship and included several new educational, scientific, and cultural initiatives. This year, our two nations celebrate 50 years of bilateral ties.</li>
-</ul>
-<ul>
-<li>Our ongoing high-level discussions address trade and investment, regional security and defense cooperation, law enforcement and counterterrorism, combating human trafficking, and enhancing climate initiatives.</li>
-</ul>
-<ul>
-<li>Since 2015, Qatar’s sovereign wealth fund, the Qatar Investment Authority, has invested more than $30 billion in the United States, with planned investment exceeding $45 billion in total. Over half of this concentrated in the real estate and infrastructure sectors.</li>
-</ul>
-<p><b>Committed to Progress on Labor Rights and Human Trafficking </b></p>
-<ul>
-<li>The United States recognizes Qatar’s progress towards expanding labor rights, implementing labor laws, and combating human trafficking and is in regular dialogue with Qatar on the work that remains.</li>
-</ul>
-<ul>
-<li>Qatar has reopened its a humanitarian care shelter for victims of human trafficking and moved to abolish exit permits for workers, including domestic workers.</li>
-</ul>
-<ul>
-<li>In 2021, under the framework of the U.S.-Qatar Anti-Trafficking MOU signed in 2018 and the U.S.-Qatar Labor MOU signed during the 2019 Strategic Dialogue, Qatar and the United States implemented joint initiatives to build capacity, raise awareness, and promote the rights of migrant workers.</li>
-</ul>
-<ul>
-<li>The Department also recently recognized Qatari Undersecretary of the Ministry of Administrative Development, Labor and Social Affairs Mohammed al-Obaidly as a 2021 Trafficking in Persons Report Hero for his personal leadership in spurring needed reforms to the employer-based visa sponsorship system and addressing ongoing labor abuses in Qatar.</li>
-</ul>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
