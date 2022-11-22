@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Tue, 22 Nov 2022 16:44:29 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Nov 2022 17:17:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Australia-U.S. Strategic Policy Dialogue</title>
+		<link>https://www.state.gov/australia-u-s-strategic-policy-dialogue/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Tue, 22 Nov 2022 17:09:22 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=398613</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The Governments of the United States and Australia held their annual Strategic Policy Dialogue (SPD) on November 21–22 in Canberra. The SPD, established in 2019, is a forum for Australia and the United States to deepen collaboration to address growing strategic challenges, including on deterrence, arms control and nonproliferation in the Indo-Pacific region. The U.S. delegation was co-chaired by Ms. Mallory Stewart, Assistant Secretary of the Bureau of Arms Control, Verification and Compliance, Department of State; and Dr. Vipin Narang, Principal Deputy Assistant Secretary of Defense for Space Policy, Office of the Secretary of Defense, Department of Defense. The Australian side was co-chaired by Ms. Ciara Spencer, First Assistant Secretary International Security, Department of Foreign Affairs and Trade; and Dr. Peter Sawczak, First Assistant Secretary Strategic Policy, Department of Defense.</p>
+<p>During this SPD meeting, Australia and the United States discussed the security environment in the Indo-Pacific and ways to enhance multilateral cooperation in the region, and shared perspectives on their respective strategies, including the U.S. National Defense Strategy (NDS), the U.S. Nuclear Posture Review (NPR), the U.S. Missile Defense Review (MDR), and Australia’s defense and foreign policy strategies. The United States and Australia also identified opportunities to work together to deter security threats and coordinate regional messaging.</p>
+<p>The two sides reaffirmed the value of the SPD, the fourth since the dialogue was established, as a policy forum that strengthens our ability to work together in support of regional security in the Indo-Pacific. The SPD will convene again in 2023.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The Governments of the United States and Australia held their annual Strategic Policy Dialogue (SPD) on November 21–22 in Canberra. The SPD, established in 2019, is a forum for Australia and the United States to deepen collaboration to address growing strategic challenges, including on deterrence, arms control and nonproliferation in the Indo-Pacific region. The U.S. delegation was co-chaired by Ms. Mallory Stewart, Assistant Secretary of the Bureau of Arms Control, Verification and Compliance, Department of State; and Dr. Vipin Narang, Principal Deputy Assistant Secretary of Defense for Space Policy, Office of the Secretary of Defense, Department of Defense. The Australian side was co-chaired by Ms. Ciara Spencer, First Assistant Secretary International Security, Department of Foreign Affairs and Trade; and Dr. Peter Sawczak, First Assistant Secretary Strategic Policy, Department of Defense.</p>
+<p>During this SPD meeting, Australia and the United States discussed the security environment in the Indo-Pacific and ways to enhance multilateral cooperation in the region, and shared perspectives on their respective strategies, including the U.S. National Defense Strategy (NDS), the U.S. Nuclear Posture Review (NPR), the U.S. Missile Defense Review (MDR), and Australia’s defense and foreign policy strategies. The United States and Australia also identified opportunities to work together to deter security threats and coordinate regional messaging.</p>
+<p>The two sides reaffirmed the value of the SPD, the fourth since the dialogue was established, as a policy forum that strengthens our ability to work together in support of regional security in the Indo-Pacific. The SPD will convene again in 2023.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Antony J. Blinken Remarks to the Press</title>
 		<link>https://www.state.gov/secretary-antony-j-blinken-remarks-to-the-press-4/</link>
 		
@@ -1649,163 +1810,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>I am a lifelong lover of football – a very mediocre player, but a lover of the sport. And the thing that’s so powerful about it is everywhere that I go in the world, I find other people who love the game. And they love to play it; they love to watch it; they love to argue about it; they love to support a team with all of the joy and heartbreak that that brings. But it’s an incredibly powerful way of bringing people together. And when we see – as some of you talked about – so many of the differences and divisions in the world, it’s just a powerful reminder of what brings us together across geography and across backgrounds, across groups of one kind of another. And it’s just wonderful that all of you are participating in this, not only learning a few new football skills, but also some incredibly powerful life skills that I think are going to stay with you for a long, long time – and especially the friendships, the networks.</p>
 <p>One of the things that we do is we engage in what we call sports diplomacy. We use sports as a way of connecting people, connecting people to our country. We just brought Qatari players and coaches to the United States on an exchange program. We’ll have some American players and coaches coming here in just a few weeks’ time. And this too – for us, whenever I go around the world – whatever, again, our differences may be – sports brings us together, unites us, connects us.</p>
 <p>So it’s wonderful to see all of you. I hope you get a chance to maybe see a few of the games as well while you’re here, and we’re looking forward to seeing you shine on whatever field it is you choose to play on. So thank you.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>19th Meeting of the Conference of the Parties to CITES (COP19)</title>
-		<link>https://www.state.gov/19th-meeting-of-the-conference-of-the-parties-to-cites-cop19/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Mon, 21 Nov 2022 13:25:26 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=398224</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Assistant Secretary for Oceans and International Environmental and Scientific Affairs and Special Envoy for Biodiversity and Water Resources Monica Medina will travel to Panama City, Panama, to attend the 19th meeting of the Conference of the Parties to the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES/COP19), November 21-22. The U.S. delegation is led by the Department of the Interior and includes experts from the Fish and Wildlife Service, the State Department, and interagency partners including USAID. While in Panama, Assistant Secretary Medina will also participate in the Fourth Global Meeting of Wildlife Enforcement Networks – a series of events and dialogues to improve controls surrounding the international trade in endangered and threatened species.</p>
-<p>For media inquiries, please contact OES-PA-DG@state.gov.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Assistant Secretary for Oceans and International Environmental and Scientific Affairs and Special Envoy for Biodiversity and Water Resources Monica Medina will travel to Panama City, Panama, to attend the 19th meeting of the Conference of the Parties to the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES/COP19), November 21-22. The U.S. delegation is led by the Department of the Interior and includes experts from the Fish and Wildlife Service, the State Department, and interagency partners including USAID. While in Panama, Assistant Secretary Medina will also participate in the Fourth Global Meeting of Wildlife Enforcement Networks – a series of events and dialogues to improve controls surrounding the international trade in endangered and threatened species.</p>
-<p>For media inquiries, please contact OES-PA-DG@state.gov.</p>
 ]]></content:encoded>
 					
 		
