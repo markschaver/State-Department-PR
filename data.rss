@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 24 Nov 2022 00:47:19 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Nov 2022 02:54:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Encouraging De-escalation in Syria and Turkey</title>
+		<link>https://www.state.gov/encouraging-de-escalation-in-syria-and-turkey/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Thu, 24 Nov 2022 02:54:19 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=399078</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>The United States urges an immediate de-escalation in northern Syria. We are deeply concerned by recent military action that destabilizes the region, threatens our shared goal to fight ISIS, and endangers civilians and U.S. personnel.</p>
+<p>We understand Turkey has legitimate security concerns regarding terrorism.  At the same time, we have consistently communicated our serious concerns about the impact of escalation in Syria on our D-ISIS goals and on civilians on both sides of the border. We express our sincere condolences for the loss of civilian life that has occurred in Syria and Turkey.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>The United States urges an immediate de-escalation in northern Syria. We are deeply concerned by recent military action that destabilizes the region, threatens our shared goal to fight ISIS, and endangers civilians and U.S. personnel.</p>
+<p>We understand Turkey has legitimate security concerns regarding terrorism.  At the same time, we have consistently communicated our serious concerns about the impact of escalation in Syria on our D-ISIS goals and on civilians on both sides of the border. We express our sincere condolences for the loss of civilian life that has occurred in Syria and Turkey.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Welcoming the Agreement between Kosovo and Serbia</title>
 		<link>https://www.state.gov/welcoming-the-agreement-between-kosovo-and-serbia/</link>
 		
@@ -1600,177 +1759,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The Governments of the United States and Australia held their annual Strategic Policy Dialogue (SPD) on November 21–22 in Canberra. The SPD, established in 2019, is a forum for Australia and the United States to deepen collaboration to address growing strategic challenges, including on deterrence, arms control and nonproliferation in the Indo-Pacific region. The U.S. delegation was co-chaired by Ms. Mallory Stewart, Assistant Secretary of the Bureau of Arms Control, Verification and Compliance, Department of State; and Dr. Vipin Narang, Principal Deputy Assistant Secretary of Defense for Space Policy, Office of the Secretary of Defense, Department of Defense. The Australian side was co-chaired by Ms. Ciara Spencer, First Assistant Secretary International Security, Department of Foreign Affairs and Trade; and Dr. Peter Sawczak, First Assistant Secretary Strategic Policy, Department of Defense.</p>
 <p>During this SPD meeting, Australia and the United States discussed the security environment in the Indo-Pacific and ways to enhance multilateral cooperation in the region, and shared perspectives on their respective strategies, including the U.S. National Defense Strategy (NDS), the U.S. Nuclear Posture Review (NPR), the U.S. Missile Defense Review (MDR), and Australia’s defense and foreign policy strategies. The United States and Australia also identified opportunities to work together to deter security threats and coordinate regional messaging.</p>
 <p>The two sides reaffirmed the value of the SPD, the fourth since the dialogue was established, as a policy forum that strengthens our ability to work together in support of regional security in the Indo-Pacific. The SPD will convene again in 2023.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken Remarks to the Press</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-remarks-to-the-press-4/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Tue, 22 Nov 2022 16:44:28 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=398600</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Doha, Qatar</p>
-<p>Al-Udeid Air Base</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Good afternoon, everyone.  I just had an opportunity to visit Camp As Sayliyah.  This is the joint Department of Defense, State Department operation to help bring Afghans, Afghan allies to the United States.  It’s where we’re working to screen them medically, to vet them for security purposes, and to finish the consular processing that goes with getting their visas to come to the U.S.</p>
-<p>It&#8217;s a remarkable operation that brings together different parts of our government, starting with DOD and State, but also DHS, DOJ, FBI, other agencies.  For me, it was really important to get a chance to see the entire team that’s working on this.  I’ve done this around the world, as well as at Dulles when we were bringing people there, and it’s particularly gratifying too.  I got a chance to spend some time with some children who, while they’re at Camp As Sayliyah, are going to school – learning English, doing math, learning history and geography – kids not a lot older than my own.  And I had a chance to tell them that in my case, at an age not much different than theirs, I moved from my own country, the United States, to another, and I know how scary that can be, how challenging that can be, but also how wonderful it is that there are so many people in the United States who are looking forward to welcoming them.</p>
-<p>At Camp As Sayliyah, since the Afghan evacuation began, we’ve had about 23,000 Afghans come through; 21,000 are already in the United States, and we’re working to continue to bring Afghans out and through here.  We’re grateful to our colleagues in Qatar for supporting this operation and for helping so many Afghans find new lives in the United States.</p>
-<p>At the same time overall, going back to the start of this administration, we have been working to restart, streamline, expedite the entire process for bringing Afghans to the United States who are eligible for special limited visas.  These are the Afghans who worked side by side with us, with the Department of Defense, with the State Department, with others in Afghanistan over 20 years.  From the very beginning of our administration, we’ve put in significant additional resources.  We’ve worked to streamline the process that Congress mandated to quadruple the number of people working on processing SIV visas.  The net result is, among other things, that to make the initial determination of eligibility – a critical step in the process – we’ve cut that time from about 883 days at the start of our administration to 105 days now.  We continue to look for ways to streamline the process of moving through those trying to come to the United States as Special Immigrant Visas.</p>
-<p>I said at the outset, when we did the evacuation from Afghanistan, that it would be an enduring mission to bring to the United States Afghans who stood side by side with us.  That mission continues, that mission endures, and we’re going to see it through.</p>
-<p>Thank you.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Doha, Qatar</p>
-<p>Al-Udeid Air Base</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Good afternoon, everyone.  I just had an opportunity to visit Camp As Sayliyah.  This is the joint Department of Defense, State Department operation to help bring Afghans, Afghan allies to the United States.  It’s where we’re working to screen them medically, to vet them for security purposes, and to finish the consular processing that goes with getting their visas to come to the U.S.</p>
-<p>It&#8217;s a remarkable operation that brings together different parts of our government, starting with DOD and State, but also DHS, DOJ, FBI, other agencies.  For me, it was really important to get a chance to see the entire team that’s working on this.  I’ve done this around the world, as well as at Dulles when we were bringing people there, and it’s particularly gratifying too.  I got a chance to spend some time with some children who, while they’re at Camp As Sayliyah, are going to school – learning English, doing math, learning history and geography – kids not a lot older than my own.  And I had a chance to tell them that in my case, at an age not much different than theirs, I moved from my own country, the United States, to another, and I know how scary that can be, how challenging that can be, but also how wonderful it is that there are so many people in the United States who are looking forward to welcoming them.</p>
-<p>At Camp As Sayliyah, since the Afghan evacuation began, we’ve had about 23,000 Afghans come through; 21,000 are already in the United States, and we’re working to continue to bring Afghans out and through here.  We’re grateful to our colleagues in Qatar for supporting this operation and for helping so many Afghans find new lives in the United States.</p>
-<p>At the same time overall, going back to the start of this administration, we have been working to restart, streamline, expedite the entire process for bringing Afghans to the United States who are eligible for special limited visas.  These are the Afghans who worked side by side with us, with the Department of Defense, with the State Department, with others in Afghanistan over 20 years.  From the very beginning of our administration, we’ve put in significant additional resources.  We’ve worked to streamline the process that Congress mandated to quadruple the number of people working on processing SIV visas.  The net result is, among other things, that to make the initial determination of eligibility – a critical step in the process – we’ve cut that time from about 883 days at the start of our administration to 105 days now.  We continue to look for ways to streamline the process of moving through those trying to come to the United States as Special Immigrant Visas.</p>
-<p>I said at the outset, when we did the evacuation from Afghanistan, that it would be an enduring mission to bring to the United States Afghans who stood side by side with us.  That mission continues, that mission endures, and we’re going to see it through.</p>
-<p>Thank you.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
