@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 24 Nov 2022 02:54:20 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Nov 2022 17:00:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The United Nations Human Rights Council Holds Special Session on Iran</title>
+		<link>https://www.state.gov/the-united-nations-human-rights-council-holds-special-session-on-iran/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Thu, 24 Nov 2022 17:00:37 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=399129</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>Today&#8217;s Special Session at the UN Human Rights Council addressed the deteriorating human rights situation in Iran, with a particular and appropriate focus on the regime’s brutal acts of repression and violence against women and children, especially girls. Following the death of Mahsa Amini in the custody of Iran’s so-called “morality police,” thousands of brave Iranians have risked their lives and their liberty to protest the regime’s long record of oppression and violence. The regime has responded with a ruthless crackdown on peaceful protestors, including the lethal response on November 19 in Mahabad, mass arrests including the preemptive detention of journalists, and use of the death sentence against peaceful protestors. The United States continues to support the people of Iran in the face of this brutal repression. We reiterate our call for the regime to immediately end its harsh crackdown and cease its violence against women and girls.</p>
+<p>The UN Human Rights Council has a crucial role to play in drawing international attention to human rights crises such as the one in Iran, investigating them, and establishing accountability mechanisms to document and respond to the abuses committed. Today’s session leaves no doubt that the HRC’s membership recognizes the gravity of the situation in Iran, and the fact-finding mission established today will help ensure that those engaged in the ongoing violent suppression of Iranian people are identified and their actions documented.</p>
+<p>It is also important that the international community work in partnership to ensure that Iran plays no role on UN or other international bodies charged with protecting and promoting human rights of women. As Vice President Harris recently announced, the United States is working with other nations to remove Iran from the UN Commission on the Status of Women.</p>
+<p>We look forward to the day when all Iranians can enjoy the human rights and fundamental freedoms enshrined in the Universal Declaration of Human Rights. That day is long overdue.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>Today&#8217;s Special Session at the UN Human Rights Council addressed the deteriorating human rights situation in Iran, with a particular and appropriate focus on the regime’s brutal acts of repression and violence against women and children, especially girls. Following the death of Mahsa Amini in the custody of Iran’s so-called “morality police,” thousands of brave Iranians have risked their lives and their liberty to protest the regime’s long record of oppression and violence. The regime has responded with a ruthless crackdown on peaceful protestors, including the lethal response on November 19 in Mahabad, mass arrests including the preemptive detention of journalists, and use of the death sentence against peaceful protestors. The United States continues to support the people of Iran in the face of this brutal repression. We reiterate our call for the regime to immediately end its harsh crackdown and cease its violence against women and girls.</p>
+<p>The UN Human Rights Council has a crucial role to play in drawing international attention to human rights crises such as the one in Iran, investigating them, and establishing accountability mechanisms to document and respond to the abuses committed. Today’s session leaves no doubt that the HRC’s membership recognizes the gravity of the situation in Iran, and the fact-finding mission established today will help ensure that those engaged in the ongoing violent suppression of Iranian people are identified and their actions documented.</p>
+<p>It is also important that the international community work in partnership to ensure that Iran plays no role on UN or other international bodies charged with protecting and promoting human rights of women. As Vice President Harris recently announced, the United States is working with other nations to remove Iran from the UN Commission on the Status of Women.</p>
+<p>We look forward to the day when all Iranians can enjoy the human rights and fundamental freedoms enshrined in the Universal Declaration of Human Rights. That day is long overdue.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Encouraging De-escalation in Syria and Turkey</title>
 		<link>https://www.state.gov/encouraging-de-escalation-in-syria-and-turkey/</link>
 		
@@ -1598,167 +1761,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>The below is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken spoke today with NATO Secretary General Jens Stoltenberg ahead of the November 29-30 NATO Foreign Ministers’ Meeting in Bucharest, Romania. Secretary Blinken and Secretary General Stoltenberg discussed priorities for the meeting, including continued support to Ukraine, strengthening the Alliance&#8217;s deterrence and defense, and enhancing resilience. They also expressed continued support for Finland and Sweden’s NATO Accession process.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Australia-U.S. Strategic Policy Dialogue</title>
-		<link>https://www.state.gov/australia-u-s-strategic-policy-dialogue/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Tue, 22 Nov 2022 17:09:22 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=398613</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The Governments of the United States and Australia held their annual Strategic Policy Dialogue (SPD) on November 21–22 in Canberra. The SPD, established in 2019, is a forum for Australia and the United States to deepen collaboration to address growing strategic challenges, including on deterrence, arms control and nonproliferation in the Indo-Pacific region. The U.S. delegation was co-chaired by Ms. Mallory Stewart, Assistant Secretary of the Bureau of Arms Control, Verification and Compliance, Department of State; and Dr. Vipin Narang, Principal Deputy Assistant Secretary of Defense for Space Policy, Office of the Secretary of Defense, Department of Defense. The Australian side was co-chaired by Ms. Ciara Spencer, First Assistant Secretary International Security, Department of Foreign Affairs and Trade; and Dr. Peter Sawczak, First Assistant Secretary Strategic Policy, Department of Defense.</p>
-<p>During this SPD meeting, Australia and the United States discussed the security environment in the Indo-Pacific and ways to enhance multilateral cooperation in the region, and shared perspectives on their respective strategies, including the U.S. National Defense Strategy (NDS), the U.S. Nuclear Posture Review (NPR), the U.S. Missile Defense Review (MDR), and Australia’s defense and foreign policy strategies. The United States and Australia also identified opportunities to work together to deter security threats and coordinate regional messaging.</p>
-<p>The two sides reaffirmed the value of the SPD, the fourth since the dialogue was established, as a policy forum that strengthens our ability to work together in support of regional security in the Indo-Pacific. The SPD will convene again in 2023.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The Governments of the United States and Australia held their annual Strategic Policy Dialogue (SPD) on November 21–22 in Canberra. The SPD, established in 2019, is a forum for Australia and the United States to deepen collaboration to address growing strategic challenges, including on deterrence, arms control and nonproliferation in the Indo-Pacific region. The U.S. delegation was co-chaired by Ms. Mallory Stewart, Assistant Secretary of the Bureau of Arms Control, Verification and Compliance, Department of State; and Dr. Vipin Narang, Principal Deputy Assistant Secretary of Defense for Space Policy, Office of the Secretary of Defense, Department of Defense. The Australian side was co-chaired by Ms. Ciara Spencer, First Assistant Secretary International Security, Department of Foreign Affairs and Trade; and Dr. Peter Sawczak, First Assistant Secretary Strategic Policy, Department of Defense.</p>
-<p>During this SPD meeting, Australia and the United States discussed the security environment in the Indo-Pacific and ways to enhance multilateral cooperation in the region, and shared perspectives on their respective strategies, including the U.S. National Defense Strategy (NDS), the U.S. Nuclear Posture Review (NPR), the U.S. Missile Defense Review (MDR), and Australia’s defense and foreign policy strategies. The United States and Australia also identified opportunities to work together to deter security threats and coordinate regional messaging.</p>
-<p>The two sides reaffirmed the value of the SPD, the fourth since the dialogue was established, as a policy forum that strengthens our ability to work together in support of regional security in the Indo-Pacific. The SPD will convene again in 2023.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
