@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 25 Nov 2022 14:13:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Nov 2022 14:48:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Under Secretary Jenkins Travels to The Netherlands and Switzerland</title>
+		<link>https://www.state.gov/under-secretary-jenkins-travels-to-the-netherlands-and-switzerland/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Fri, 25 Nov 2022 14:48:03 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=399241</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>Under Secretary of State for Arms Control and International Security Ambassador Bonnie D. Jenkins will travel to The Hague, Netherlands and Geneva, Switzerland on November 28-31.</p>
+<p>In The Hague, the Under Secretary will lead the U.S. Delegation to the Twenty-Seventh Session of the Conference of the States Parties (CSP) to the Chemical Weapons Convention (CWC). As Head of Delegation and with the support of U.S. Permanent Representative to the Organization for the Prohibition of Chemical Weapons (OPCW) Ambassador Joseph Manso, Under Secretary Jenkins will deliver the U.S. National Statement, participate in a Women, Peace, and Security side event, hold bilateral meetings, and engage with counterparts to demonstrate the United States’ continued support of the OPCW.</p>
+<p>In Geneva, the Under Secretary will lead the U.S. Delegation to the Ninth Review Conference of the Biological and Toxin Weapons Convention (BWC). As Head of Delegation and with U.S. Special Representative to the BWC Mr. Ken Ward, Under Secretary Jenkins will deliver the U.S. National Statement and hold bilateral meetings to strengthen the BWC. The Under Secretary will also co-host a side event on the impact of diversity, equity, inclusion, and accessibility in the BWC with the United Nations Under Secretary-General Izumi Nakamitsu.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>Under Secretary of State for Arms Control and International Security Ambassador Bonnie D. Jenkins will travel to The Hague, Netherlands and Geneva, Switzerland on November 28-31.</p>
+<p>In The Hague, the Under Secretary will lead the U.S. Delegation to the Twenty-Seventh Session of the Conference of the States Parties (CSP) to the Chemical Weapons Convention (CWC). As Head of Delegation and with the support of U.S. Permanent Representative to the Organization for the Prohibition of Chemical Weapons (OPCW) Ambassador Joseph Manso, Under Secretary Jenkins will deliver the U.S. National Statement, participate in a Women, Peace, and Security side event, hold bilateral meetings, and engage with counterparts to demonstrate the United States’ continued support of the OPCW.</p>
+<p>In Geneva, the Under Secretary will lead the U.S. Delegation to the Ninth Review Conference of the Biological and Toxin Weapons Convention (BWC). As Head of Delegation and with U.S. Special Representative to the BWC Mr. Ken Ward, Under Secretary Jenkins will deliver the U.S. National Statement and hold bilateral meetings to strengthen the BWC. The Under Secretary will also co-host a side event on the impact of diversity, equity, inclusion, and accessibility in the BWC with the United Nations Under Secretary-General Izumi Nakamitsu.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>First Session of the Intergovernmental Negotiating Committee on Plastic Pollution</title>
 		<link>https://www.state.gov/first-session-of-the-intergovernmental-negotiating-committee-on-plastic-pollution/</link>
 		
@@ -1470,171 +1631,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Specifically, the Department of the Treasury is designating Mohammad Taghi Osanloo, the commander of the IRGC ground forces unit in West Azerbaijan Province in Iran.  The Department of the Treasury is also designating Alireza Moradi, the commander of Iranian Law Enforcement Forces (LEF) in the city of Sanandaj who reportedly ordered the mass arrest of protesters.  During nationwide protests in November 2019, Moradi authorized the use of lethal weapons against unarmed protesters in Sanandaj.  Lastly, the Department of the Treasury is designating Hasan Asgari, the administrator of Sanandaj and a former IRGC commander.  Today’s designations were made pursuant to Executive Order 13553.</p>
 <p>The United States continues to support the Iranian people as they protest nationwide.  The human rights abuses inflicted by Iran’s government on its people must not go without consequence.</p>
 <p>For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMjMuNjcxMzU0MzEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTI1In0.fo-XGsaHBMLlEGnvKRLlQqPgf4iTPNhPETi3_JxBAi0/s/1436012980/br/148826190992-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMjMuNjcxMzU0MzEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTI1In0.fo-XGsaHBMLlEGnvKRLlQqPgf4iTPNhPETi3_JxBAi0%2Fs%2F1436012980%2Fbr%2F148826190992-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Cf839f24c85964cc1317908dacd6ca849%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638048163805909621%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=G92fTa%2FIm5i4SCZk3K15KSvTFRh9Z3qK%2BFu7Ey8aWaw%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>$400 Million in Additional U.S. Military Assistance for Ukraine</title>
-		<link>https://www.state.gov/400-million-in-additional-u-s-military-assistance-for-ukraine-2/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Wed, 23 Nov 2022 15:51:06 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=398894</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States continues to support Ukraine with additional military assistance to help defend itself, including from the Kremlin’s relentless attacks on Ukraine’s critical energy infrastructure.</p>
-<p>Pursuant to a delegation of authority from the President, today I am authorizing our twenty-sixth drawdown of U.S. arms and equipment for Ukraine since August 2021. This $400 million drawdown includes additional arms, munitions, and air defense equipment from U.S. Department of Defense inventories.  This drawdown will bring the total U.S. military assistance for Ukraine to an unprecedented level of approximately $19.7 billion, since the beginning of the Administration.</p>
-<p>The United States will continue to stand with more than 40 allies and partners in support of the people of Ukraine as they defend their freedom and independence with extraordinary courage and boundless determination.  The artillery ammunition, precision fires, air defense missiles, and tactical vehicles that we are providing will best serve Ukraine on the battlefield.  We are joined in our efforts by France and the UK, including the £50 million in air defense systems offered by UK Prime Minister Sunak during his recent visit to Kyiv, and we note Sweden’s recent air defense commitment valued at nearly $300 million.</p>
-<p>We will continue to support Ukraine for as long as it takes, so it can continue to defend itself and be in the strongest possible position at the negotiating table when the time comes.</p>
-<p>We stand <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMjMuNjcxMzEzMjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvdW5pdGVkLXdpdGgtdWtyYWluZS8ifQ.YqDjuuKjjB-i5XiMIit3sjHTsXZhj63j0zLO32gmpfI/s/1436012980/br/148820855317-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMjMuNjcxMzEzMjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvdW5pdGVkLXdpdGgtdWtyYWluZS8ifQ.YqDjuuKjjB-i5XiMIit3sjHTsXZhj63j0zLO32gmpfI%2Fs%2F1436012980%2Fbr%2F148820855317-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C2d4e70cbae8a45f9052008dacd67cab7%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638048142912621634%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=LhAUqCNq792zQqxw3fHJSp6kMfcg%2F7hJ2NZFq3CV70w%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">United with Ukraine</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States continues to support Ukraine with additional military assistance to help defend itself, including from the Kremlin’s relentless attacks on Ukraine’s critical energy infrastructure.</p>
-<p>Pursuant to a delegation of authority from the President, today I am authorizing our twenty-sixth drawdown of U.S. arms and equipment for Ukraine since August 2021. This $400 million drawdown includes additional arms, munitions, and air defense equipment from U.S. Department of Defense inventories.  This drawdown will bring the total U.S. military assistance for Ukraine to an unprecedented level of approximately $19.7 billion, since the beginning of the Administration.</p>
-<p>The United States will continue to stand with more than 40 allies and partners in support of the people of Ukraine as they defend their freedom and independence with extraordinary courage and boundless determination.  The artillery ammunition, precision fires, air defense missiles, and tactical vehicles that we are providing will best serve Ukraine on the battlefield.  We are joined in our efforts by France and the UK, including the £50 million in air defense systems offered by UK Prime Minister Sunak during his recent visit to Kyiv, and we note Sweden’s recent air defense commitment valued at nearly $300 million.</p>
-<p>We will continue to support Ukraine for as long as it takes, so it can continue to defend itself and be in the strongest possible position at the negotiating table when the time comes.</p>
-<p>We stand <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMjMuNjcxMzEzMjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvdW5pdGVkLXdpdGgtdWtyYWluZS8ifQ.YqDjuuKjjB-i5XiMIit3sjHTsXZhj63j0zLO32gmpfI/s/1436012980/br/148820855317-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMjMuNjcxMzEzMjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvdW5pdGVkLXdpdGgtdWtyYWluZS8ifQ.YqDjuuKjjB-i5XiMIit3sjHTsXZhj63j0zLO32gmpfI%2Fs%2F1436012980%2Fbr%2F148820855317-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C2d4e70cbae8a45f9052008dacd67cab7%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638048142912621634%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=LhAUqCNq792zQqxw3fHJSp6kMfcg%2F7hJ2NZFq3CV70w%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">United with Ukraine</a>.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
