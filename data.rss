@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 25 Nov 2022 14:48:04 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Nov 2022 16:47:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Suriname National Day</title>
+		<link>https://www.state.gov/suriname-national-day/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 25 Nov 2022 16:47:02 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=399274</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the government and the people of the United States of America, I congratulate the people of Suriname on your Independence Day.</p>
+<p>Our two countries share strong, educational, historic, economic, and cultural ties and we look forward to continuing our work together to strengthen commercial ties, address the climate crisis, promote accountability in governance, cooperate in the health sector, bolster human rights, and encourage stability in the region. We hope to expand cooperative opportunities in the security and defense arena to jointly fight illicit activity and expand and professionalize the security forces. We celebrate the people-to-people professional exchange programs that strengthen the bonds of friendship between our citizens and look forward to more opportunities in the year ahead. As we work to make continued progress towards challenges such as climate change in the coming year, including through the U.S.-Caribbean Partnership to Address the Climate Crisis (PACC 2030), the United States will remain a committed partner. Our shared values of democracy and resilience will continue to be cornerstones for our shared objectives.</p>
+<p>We look forward to our continued collaboration and commitment to strengthening the ties between our two countries in the years to come. Happy Independence Day.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the government and the people of the United States of America, I congratulate the people of Suriname on your Independence Day.</p>
+<p>Our two countries share strong, educational, historic, economic, and cultural ties and we look forward to continuing our work together to strengthen commercial ties, address the climate crisis, promote accountability in governance, cooperate in the health sector, bolster human rights, and encourage stability in the region. We hope to expand cooperative opportunities in the security and defense arena to jointly fight illicit activity and expand and professionalize the security forces. We celebrate the people-to-people professional exchange programs that strengthen the bonds of friendship between our citizens and look forward to more opportunities in the year ahead. As we work to make continued progress towards challenges such as climate change in the coming year, including through the U.S.-Caribbean Partnership to Address the Climate Crisis (PACC 2030), the United States will remain a committed partner. Our shared values of democracy and resilience will continue to be cornerstones for our shared objectives.</p>
+<p>We look forward to our continued collaboration and commitment to strengthening the ties between our two countries in the years to come. Happy Independence Day.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Under Secretary Jenkins Travels to The Netherlands and Switzerland</title>
 		<link>https://www.state.gov/under-secretary-jenkins-travels-to-the-netherlands-and-switzerland/</link>
 		
@@ -1468,169 +1627,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The letter declared the two governments’ intent to further access for persons with disabilities at World Cup tournaments by engaging organizations of persons with disabilities and civil society, utilizing universal design to ensure accessibility and inclusion, and applying Qatar’s successes in making the 2022 FIFA World Cup accessible to persons with disabilities.</p>
 <p>The letter also affirmed the two governments’ intent to increase technical exchanges and knowledge sharing to combat the crime of human trafficking, including in relation to major sporting events, by improving procedures related to the identification, referral, and care of victims of human trafficking.</p>
 <p>Finally, the letter declared the two governments’ intention to advance and implement fair recruitment practices to protect migrant workers, exchange knowledge in the field of labor protection, including but not limited to occupational safety and health and the prevention of heat stress, and facilitate dialogue on labor issues.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Designating Iranian Officials Connected to Serious Human Rights Abuses in Iran’s Kurdistan and West Azerbaijan Provinces</title>
-		<link>https://www.state.gov/designating-iranian-officials-connected-to-serious-human-rights-abuses-in-irans-kurdistan-and-west-azerbaijan-provinces/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Wed, 23 Nov 2022 16:43:57 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=398912</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States is gravely concerned by reports that Iranian authorities are escalating violence against peaceful protesters.  Today, we are taking additional action as Iranian security forces, including Islamic Revolutionary Guard Corps (IRGC) forces, reportedly are stepping up their violent crackdown on peaceful anti-government protests in Iran’s Kurdistan Province and surrounding areas.</p>
-<p>Specifically, the Department of the Treasury is designating Mohammad Taghi Osanloo, the commander of the IRGC ground forces unit in West Azerbaijan Province in Iran.  The Department of the Treasury is also designating Alireza Moradi, the commander of Iranian Law Enforcement Forces (LEF) in the city of Sanandaj who reportedly ordered the mass arrest of protesters.  During nationwide protests in November 2019, Moradi authorized the use of lethal weapons against unarmed protesters in Sanandaj.  Lastly, the Department of the Treasury is designating Hasan Asgari, the administrator of Sanandaj and a former IRGC commander.  Today’s designations were made pursuant to Executive Order 13553.</p>
-<p>The United States continues to support the Iranian people as they protest nationwide.  The human rights abuses inflicted by Iran’s government on its people must not go without consequence.</p>
-<p>For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMjMuNjcxMzU0MzEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTI1In0.fo-XGsaHBMLlEGnvKRLlQqPgf4iTPNhPETi3_JxBAi0/s/1436012980/br/148826190992-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMjMuNjcxMzU0MzEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTI1In0.fo-XGsaHBMLlEGnvKRLlQqPgf4iTPNhPETi3_JxBAi0%2Fs%2F1436012980%2Fbr%2F148826190992-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Cf839f24c85964cc1317908dacd6ca849%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638048163805909621%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=G92fTa%2FIm5i4SCZk3K15KSvTFRh9Z3qK%2BFu7Ey8aWaw%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States is gravely concerned by reports that Iranian authorities are escalating violence against peaceful protesters.  Today, we are taking additional action as Iranian security forces, including Islamic Revolutionary Guard Corps (IRGC) forces, reportedly are stepping up their violent crackdown on peaceful anti-government protests in Iran’s Kurdistan Province and surrounding areas.</p>
-<p>Specifically, the Department of the Treasury is designating Mohammad Taghi Osanloo, the commander of the IRGC ground forces unit in West Azerbaijan Province in Iran.  The Department of the Treasury is also designating Alireza Moradi, the commander of Iranian Law Enforcement Forces (LEF) in the city of Sanandaj who reportedly ordered the mass arrest of protesters.  During nationwide protests in November 2019, Moradi authorized the use of lethal weapons against unarmed protesters in Sanandaj.  Lastly, the Department of the Treasury is designating Hasan Asgari, the administrator of Sanandaj and a former IRGC commander.  Today’s designations were made pursuant to Executive Order 13553.</p>
-<p>The United States continues to support the Iranian people as they protest nationwide.  The human rights abuses inflicted by Iran’s government on its people must not go without consequence.</p>
-<p>For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMjMuNjcxMzU0MzEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTI1In0.fo-XGsaHBMLlEGnvKRLlQqPgf4iTPNhPETi3_JxBAi0/s/1436012980/br/148826190992-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMjMuNjcxMzU0MzEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTI1In0.fo-XGsaHBMLlEGnvKRLlQqPgf4iTPNhPETi3_JxBAi0%2Fs%2F1436012980%2Fbr%2F148826190992-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Cf839f24c85964cc1317908dacd6ca849%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638048163805909621%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=G92fTa%2FIm5i4SCZk3K15KSvTFRh9Z3qK%2BFu7Ey8aWaw%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
