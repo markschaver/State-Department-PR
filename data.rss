@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 24 Nov 2022 17:19:01 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Nov 2022 12:25:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Bosnia and Herzegovina Statehood Day</title>
+		<link>https://www.state.gov/bosnia-and-herzegovina-statehood-day-2/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 25 Nov 2022 05:01:13 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=398918</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I wish the people of Bosnia and Herzegovina a heartfelt congratulations as you celebrate Statehood Day.</p>
+<p>Bosnia and Herzegovina is at a pivotal moment in its history. In the weeks and months ahead, Bosnia and Herzegovina’s leaders have the opportunity to end the politics of division and to form stable and functioning governments able to pursue the reforms necessary to secure its rightful place in the Euro-Atlantic community of nations. The United States continues to strongly support your sovereignty, territorial integrity, and multiethnic character. I look forward to strengthening our partnership on security, energy diversification, and anticorruption in the months ahead.</p>
+<p>Today is an opportunity to come together as a country and forge a path of reconciliation, partnership, and progress. The United States remains committed to helping advance your goals for a more secure, peaceful, and prosperous future for all.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I wish the people of Bosnia and Herzegovina a heartfelt congratulations as you celebrate Statehood Day.</p>
+<p>Bosnia and Herzegovina is at a pivotal moment in its history. In the weeks and months ahead, Bosnia and Herzegovina’s leaders have the opportunity to end the politics of division and to form stable and functioning governments able to pursue the reforms necessary to secure its rightful place in the Euro-Atlantic community of nations. The United States continues to strongly support your sovereignty, territorial integrity, and multiethnic character. I look forward to strengthening our partnership on security, energy diversification, and anticorruption in the months ahead.</p>
+<p>Today is an opportunity to come together as a country and forge a path of reconciliation, partnership, and progress. The United States remains committed to helping advance your goals for a more secure, peaceful, and prosperous future for all.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Malaysia’s National Elections</title>
 		<link>https://www.state.gov/malaysias-national-elections/</link>
 		
@@ -1467,301 +1628,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		</script>
 									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
 <p>Iran’s violations of Iraqi territorial integrity continue with lethal attacks carried out against the Iraqi Kurdistan Region from November 20 through 22. The United States strongly condemns these repeated and brazen violations of Iraq’s territorial integrity and calls on Iran to refrain from further threats and violence.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken And Qatari Deputy Prime Minister and Foreign Minister Mohammed Bin Abdulrahman Al-Thani at a Joint Press Availability</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-and-qatari-deputy-prime-minister-and-foreign-minister-mohammed-bin-abdulrahman-al-thani-at-a-joint-press-availability/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Tue, 22 Nov 2022 18:10:11 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=398645</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Doha, Qatar</p>
-<p>Diplomatic Club</p>
-<p><strong>FOREIGN MINISTER AL-THANI:</strong>  (Via interpreter) (Inaudible) the most compassionate, may the blessings of God be upon you all.  First of all, I would like to welcome my friend and colleague, His Excellency Mr. Antony Blinken, who visited us yesterday first of all to encourage the American team, and I congratulate you on the performance – American national team – and we wish you luck in the matches to come.  And we look forward for this tournament in Qatar 2022, will be a milestone for peoples and cultures and countries to come together and enjoy the atmosphere here in Qatar, and also to experience our hospitality in Qatar.</p>
-<p>We had the opportunity to hold the fifth round of the Strategic Dialogue between the United States and Qatar, which we consider an important platform to enhance the bilateral relations, which is built on solid grounds and is considered one of the most important strategic partnerships of the state of Qatar.  And this partnership expands from political, economic, defense, diplomatic, developmental aspects to all other aspects.</p>
-<p>We had the opportunity to discuss different topics today regarding regional issues and the challenges faced by the world today, and on our agenda today we discussed the developments of the Iranian nuclear deal and the developments in Iraq, Lebanon, Libya, and the Palestinian issue, which is considered by us to be the central cause, and also the efforts – and we agree with the United States regarding positions vis-à-vis these issues.  And also, so far as the dialogue between our institutions, there was also the opportunity to discuss the response to the challenges – global challenges – jointly, especially when it comes to food security, energy security, and other challenges.</p>
-<p>Here in the state of Qatar we always look forward to consolidate our partnership with the United States, and we look forward to have an open dialogue and the – a relationship based on openness and transparency between our two countries.  And on – I would like to avail myself of this opportunity to commend the efforts by the United States, and we thank United States for all their efforts and help to the state of Qatar in organizing the football tournament when it comes to the security aspect and other aspects.  And we thank you, Your Excellency, for all your help and support.</p>
-<p>And this is part and parcel of our cooperation, which goes beyond the partnership, the multifaceted partnership between us.  And we thank you for being with us and we wish again, with your football team, a – luck, and we also wish you and our national team success in the tournament.  Thank you.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, good afternoon, everyone, and Mr. Minister, Mohammed, thank you.  Thank you for your wonderful hospitality.  Thank you for the very good and detailed conversations that we just had as a part of the Strategic Dialogue.</p>
-<p>I have to say that having proudly hosted the opening of the 4th U.S.-Qatar Strategic Dialogue in Washington last year, I can objectively concede that our hosts have outdone us when it comes to entertainment surrounding the dialogue.</p>
-<p>It was absolutely thrilling to watch Team USA play last night – thrilling as an American, thrilling as a soccer fan, a football fan.  And our team played with so much heart and made our country proud, and we’re anxious to see the rest of the tournament and the games that follow.</p>
-<p>Now, I know that neither of us notched the win that we wanted in our first match.  I’m reminded of the wisdom of a great American philosopher – basketball coach Greg Popovich – who once said, and I quote, “The measure of who we are is how we react to something that doesn’t go our way,” which is true for diplomacy as well as in sports.</p>
-<p>So we meet at what is a high point of the five-decade-long diplomatic relationship between our countries.  On every issue that matters to our nations, our collaboration, I think it’s fair to say, is deeper and our people are better off for it.</p>
-<p>The security ties between us have never been stronger.  Qatar hosts our largest military base in the region, which is an anchor for regional security and regional stability.  In March, President Biden designated Qatar as a major non-NATO ally – several months later, we began delivering F-15 aircraft to the Qatar Emiri Air Force, raising its defense capabilities, making our militaries more interoperable.</p>
-<p>We’re partnering in the region and beyond to enhance stability, to reduce tensions, to end conflicts.  Qatar has provided vital economic assistance to the Palestinian people.  It’s helped pay the salaries of security forces in Lebanon.  It’s brokered peace between Chad’s transitional government and opposition groups.  And Qatar consistently works to mend regional rifts, which is essential to addressing the common challenges that we face.</p>
-<p>We’re also deepening economic ties.  From civil aviation to renewable energy, Qatari and American businesses, innovators are creating new opportunities for people in both of our countries.</p>
-<p>We welcome the emir’s commitment to ramp up Qatar’s production of liquefied natural gas.  That will bolster global energy security.  It will help people around the world who are struggling to keep up with rising costs.  And we recognize Qatar’s efforts to curb emissions like joining the Global Methane Pledge, and its investments in technologies to foster a clean energy transition in the years ahead.</p>
-<p>Where conflicts and deep instability persist, we are working to help people who are suffering as a result.</p>
-<p>When the Taliban forcibly took power in Afghanistan, Qatar played an indispensable role in helping the United States relocate tens of thousands of at-risk Afghans, aid workers, diplomats, and others.  More Afghans came through Doha than any other place in the world.  The work continues, as Qatar continues to provide a transit point for Afghans who are on their way to starting new lives in the United States.</p>
-<p>We’re profoundly grateful for the role that Qatar – and Mohammed, you in particular, your team have played in helping secure the release of U.S. citizen Mark Frerichs after more than two and a half years of captivity in Afghanistan.</p>
-<p>The Strategic Dialogue that we launched today will build on this robust cooperation in all of these areas but also many others, including cultural and educational cooperation, counterterrorism, visa and consular issues, labor issues, human trafficking, all of which we’ve worked on in the run-up to this historic sporting event.</p>
-<p>We congratulate Qatar on hosting the first World Cup in the Middle East.</p>
-<p>The emir’s statement that all are welcome here for the World Cup is an important message for an event that brings together people from all walks of life, nations, faiths, sexual orientations, races, and other forms of diversity.  Now it’s important to make that inclusivity a reality.</p>
-<p>We also applaud the historic step of opening direct flights between Tel Aviv and Doha for the duration of the World Cup, which shows the promise of expanding people-to-people ties and economic ties between countries.</p>
-<p>Now, a massive amount of work goes into hosting an event like this.  We know that without workers, including many migrant workers, this World Cup simply would not have been possible.  Qatar has made meaningful strides in recent years to improve its labor laws, to expand worker rights.  The United States has been and will continue to be a consistent partner in those efforts.</p>
-<p>Of course, real work remains on these issues.  And the United States will continue to work with Qatar on strengthening labor rights and human rights more broadly long after the World Cup is over.  Today, we signed a letter of intent to expand our cooperation on promoting accessibility, combating human trafficking, improving labor practices.</p>
-<p>These efforts align with President Biden’s commitment to making human rights a pillar of our foreign policy and core to our values and our interests.</p>
-<p>Before last night’s game, I had a chance to watch some young players – teenagers from the United States and Qatar, from Canada and Mexico, doing drills on a pitch.  As a lifelong soccer fan – and, it’s charitable to say, a mediocre player – it reminded me of one of the very best things about this sport.  No matter where you go, every corner of the world – this has been my experience the last few years – you find people who love the game.  They love to play it; they love to watch it.  They love to argue about it.  They love rooting and supporting a team with all of the joy and occasional heartbreak that that brings.</p>
-<p>And in a world where we’re so often on a daily basis reminded of what makes us different, what divides us, soccer is a powerful unifying force, a language – a common language – that pretty much the entire world speaks.</p>
-<p>So I wish all of the countries represented here a successful tournament.  And go Team USA.  Thank you.</p>
-<p><strong>MODERATOR:</strong>  (Via interpreter) Now we move to the questions.  We start with Amina.  Please, the floor is yours.</p>
-<p><strong>QUESTION:</strong>  (Via interpreter) <em>Salaam Alaikum</em>.  Amina from Qatar TV.  Question to Your Excellency Secretary of State.  Taking into account the competition at the international level, including the war in the Ukraine and the American strategic presence in the Middle East, how can this impact the Qatari-American partnership in the future?  Thank you.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, thank you.  I think what you’re seeing evidenced here today, throughout all of the strategic dialogues that we’ve done and the new one that we’re launching, is that we have a partnership that is both bilateral, it’s regional, and increasingly it’s global.  And we’ve seen that just in recent months and recent years in a whole variety of places – the cooperation that I mentioned on Afghanistan, for which the United States is genuinely grateful; of course, the longtime hosting of U.S. forces here in Qatar; the status that Qatar has as a major non-NATO ally that President Biden designated just a few months ago; the work that Qatar is doing and doing, in some cases in cooperation with us, to mend regional rifts; the work that Qatar is doing to support the Palestinian people, which is vital and important; the principled stand that Qatar has taken on Ukraine; and, of course, helping to provide for the world’s energy needs.  In these and so many other areas, we’re working ever more closely together, and Qatar is having a very, very significant impact.</p>
-<p>There’s something else that we talked about today that I think is very important, and that is the work that we’re doing and that I hope that we coordinate even more together on providing support and humanitarian assistance to people who need it.  This is something that Qatar has been a leader in, and the needs around the world are great.  We see this in terms of food insecurity, where we are working together; we see it in terms of energy, of course; global health.  One of the efforts that we’re going to be taking through the Strategic Dialogue is heading a working group together to better coordinate and focus our joint efforts on providing this kind of assistance to countries that are in need.</p>
-<p>It is hugely important that even as we’re dealing every day with the consequences of Russian aggression against Ukraine – and we have to do that, not only for the sake of the people of Ukraine but because Russia has committed a terrible aggression as well against the very principles of the United Nations Charter that are vital in trying to keep peace and security and stability around the world – even as we’re doing that, we’re also determined to address the many challenges that people around the world face, some of which have been exacerbated by the Russian aggression.  But in all of these efforts, our countries are working closely together, and that cooperation is deepening.</p>
-<p><strong>MODERATOR:</strong>  (Via interpreter) Thank you, Your Excellency.  Sara Rasheed from Al Jazeera Network.</p>
-<p><strong>QUESTION:</strong>  (Via interpreter) <em>Salaam Alaikum</em>.  My first question (inaudible).  After the success in organizing the World Cup tournament in collaboration with the state of Qatar, the United States and Qatar, how this will impact future relations and the joint mechanisms between the two countries?</p>
-<p>My other question is to the Qatari foreign minister.  On this attack and criticism of the state of Qatar, is it waning now?  Is it getting easier than from the start of the tournament?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.  I think what’s most important to highlight is this:  Our countries have been working closely together, collaborating; dealing with, as I said, both issues between us, regional issues, global issues, well before the World Cup.  We continued that collaboration during the World Cup.  We’re going to pursue it after the World Cup is over.  In fact, the baton has passed to the United States, Mexico, and Canada for 2026.  And the Strategic Dialogue is at the heart of that.  That’s why it was so important for us to launch the latest round, which we did today, but in launching the Strategic Dialogue, that starts a whole process where we have working groups between our countries that in a whole variety of areas that we’ve agreed we’ll pursue deeper collaboration, deeper cooperation.  That’s the work of the coming months.  That’s what we started today.</p>
-<p><strong>FOREIGN MINISTER AL-THANI:</strong>  (Via interpreter) (Inaudible) this attack in the media, first of all, I would like to mention that the state of Qatar (inaudible) organizing the World Cup (inaudible), we were taking this into account.  We thought, were expecting that we will be facing different reactions (inaudible) the organization of (inaudible) was amazing (inaudible) testify to that.</p>
-<p>As for the reforms the state of Qatar carried out, I think there were some quarters who did not take this into consideration.  And, unfortunately, they based their (inaudible) preconceived judgments, even after visiting the state of Qatar and meeting with officials in the state of Qatar.  We always open our doors to everyone.  We always engage in dialogue with everyone concerned since the start of this criticism (inaudible).  We cannot change the opinions of those who just want to attack us and distort our image, and this may have nothing to do with Qatar itself.</p>
-<p>But thankfully the vast majority of people, especially football fans, when they came to Doha, they were surprised and amazed by our preparations.  The people of Qatar is always welcoming and always receive people (inaudible).  And it’s amazing to see the joy in the eyes of people, the fans, and the enjoyment of this event, which was something (inaudible) sees for the first time.  The World Cup in previous sessions (inaudible) usually held in countries which were very advanced European, Western, and African countries.  This is the first time a Middle Eastern country bears this responsibility.</p>
-<p>And as for the reforms which took place (inaudible), many may be of the opinion that the World Cup was the prime reason for that.  But we think the World Cup was (inaudible) catalyst, an agent to accelerate our reform, because we based everything we do on the vision of his highness the emir, which is Qatar national vision, which is in line with the developments of the world around us.  And this is a continuous process and is not linked to a particular event or a particular stage.  This is a journey, a journey which we undertook based on our own experiences and the help of countries like the United States, Canada, Mexico, who will be organizing the next World Cup.  And we wish them, by the way, good luck in their efforts.</p>
-<p>And our message to international world opinion – and the state of Qatar welcomes everybody.  The state of Qatar’s doors are open.  Let’s focus on football, on people, and what takes place in the stadium and on the pitch.  And let’s not forget what Qatar has done.  And if everybody wants to rely on the (inaudible) ideas, this will be only of a temporary impact, but the facts on the ground will remain and speak for themselves.</p>
-<p><strong>MR PRICE:</strong>  Our first question goes to Michel Ghandour.</p>
-<p><strong>QUESTION:</strong>  Thank you.  Mr. Secretary, after resolving the immunity issue for Saudi crown prince in Washington, should we expect him in Washington soon?</p>
-<p>And also, two weeks ago, President Biden said we are going to free Iran.  What has the U.S. been doing in this regard?  And do you have any comments on Iran announcement today that they have begun producing enriched uranium at 60 percent purity, and do you consider the JCPOA dead?</p>
-<p>(In Arabic.)</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.  With regard to MBS, there are no plans for him to travel to Washington.  Let me say just more broadly on this question, the question of immunity, we received a request from a federal court that had litigation before it via the Justice Department to ascertain our opinion on his status, and we conveyed an opinion based on longstanding legal practice that given his position as a head of state, head of government, or foreign minister, that he was as a legal matter entitled to immunity.</p>
-<p>This is a determination that we’ve made in dozens – hundreds – of cases over the years, and in every case we simply follow the law.  And that’s what we did.  The opinion that we provided does not speak in any way to the merits of the case nor the current status of the bilateral relationship.  Our review of that relationship is ongoing.  And again, I would note that this opinion was solicited by the court, and it has been our practice – in fact, I can’t think of a case where we didn’t, when asked by the court, provide an opinion.</p>
-<p>As to Iran, I can’t confirm any reports about their activities.  It’s something that we’re looking at very carefully and very closely, and what we’ve seen and we’ve spoken of many, many times before is that while we continue to believe that the best way to resolve the challenges posed by Iran’s nuclear program are through diplomacy.  Iran, for a variety of reasons, is – has chosen to insert extraneous issues into the effort to revive the JCPOA.  And, of course, meanwhile, the world is rightly focused on what’s happening inside of Iran.  The protests that have arisen since the killing of Mahsa Amini are something that have galvanized the world, and that is where the focus is.</p>
-<p>And, of course, at the same time, the steps that Iran has taken to provide weapons, to provide drones to Russia to aid in its aggression against Ukraine are of deep concern and something that we’re very focused on.</p>
-<p>We are taking steps across the board to push back against both the actions that Iran has taken to repress its own people in terms of sanctioning those who are responsible and also helping companies make sure that the Iranians have the technology that they need to continue to communicate with one another and to be connected to the outside world.  We’re also sanctioning entities that are involved in the provision of weapons, like drones, and looking at whatever means possible to help the Ukrainians defend against the use of these weapons.</p>
-<p>And as we’ve said all along, even as we’ve been engaged in diplomacy to try to see if we can get a mutual return to compliance with the JCPOA, we continue to exert pressure on Iran for steps that it’s taken to strengthen its nuclear program in contravention of the JCPOA itself, as well as the steps that it’s taking in other areas that pose significant challenges, concerns to people around the world.</p>
-<p><strong>FOREIGN MINISTER AL-THANI:</strong>  (Via interpreter) (Inaudible) dealt with in our strategic dialogue.  First of all, we greatly value our partnership with the United States and the cooperation between government entities in the United States and Qatar, whether to do with your ambassador or any other aspect.  As we said previously, the question of human rights in Qatar is the responsibility of the state towards the people – every people of Qatar, everybody who lives here in Qatar – and our leadership was very decisive in these reforms, which were implemented to serve the (inaudible).</p>
-<p>Of course, the question is not just giving pledges by the state towards other countries, and as we said, we value our partnership and dialogue with the United States.  But there is also a problem, an actionable problem, between us and the United States, whether for capacity building between different institutes or law enforcement agencies or in general to benefit from the experience of the United States.  Of course, there are topics upon which we agree and others which we don’t.  This is normal.  We – of course, this has a lot to do with the society in which these measures are implemented, and as we said previously, for us this is both the duty and the responsibility of our government towards its people and towards providing the kind of environment which can protect the lives of everybody who lives (inaudible).</p>
-<p><strong>MR PRICE:</strong>  Our final question goes to John Hudson from <em>The Washington Post</em>.</p>
-<p><strong>QUESTION:</strong>  Thanks very much.  Mr. Secretary, fairly or unfairly, some people have called this the most politicized World Cup in history, due much in part to migrant labor and LGBT issues.  As a longtime soccer fan over decades, do you agree with that historical assessment of Qatar’s place among World Cups?  Did that give you any pause about making this trip?  Separately, what do you think of FIFA’s armband edict, which is discouraging a pro-tolerance message?</p>
-<p>Minister Al-Thani, it was not long ago that your country was subject to an unprecedented blockade by GCC countries, and the U.S. Government under a different administration was largely silent about that act of economic aggression.  Was that experience of isolation what propelled Qatar to deepen its relationship with the current administration on so many fronts that have been discussed, whether it be Ukraine or Afghanistan or any other issue?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  John, thank you.  First, here in Qatar, as we’ve noted, we launched the fifth edition of our strategic dialogue.  That is work that started well before the World Cup.  It’s continuing during the World Cup and it will continue after the World Cup.  And in that, as we’ve discussed, we are working on the broad array of issues that join our countries together, as well as working through areas where we have some differences.</p>
-<p>It also happens that the World Cup is on right now, and I make no bones about having the pleasure to actually come and cheer on Team USA in its opening match, something I was really both proud to do as an American and, yes, pleased to do as a longtime soccer fan and player.  But the main point is this:  The work that we’re doing is something that precedes this World Cup, continues during it, will continue after it.  We’ve already talked about the many areas in which the United States and Qatar are working very closely together through the strategic dialogue to deepen cooperation, to deepen coordination.</p>
-<p>And as I’ve also said, human rights is one of the key pillars of our foreign policy, whether it’s here in the region or, for that matter, all around the world.  We’ve been talking about human rights, labor rights, trafficking in persons with our colleagues from Qatar for a long time, and that, too, is a conversation that continued today and will continue when the spotlight of the World Cup moves on.  We’ve documented real progress.  We’ve documented ongoing challenges, including in our annual reports, and I’d refer you, for example, to the Trafficking in Persons Report that we recently put out.</p>
-<p>We appreciate the work that Qatar has done to improve labor practices, including efforts to investigate, to prosecute, to convict traffickers, staffing the specialized trafficking police unit.  In 2021, under the U.S.-Qatar anti-trafficking MOU and the labor MOU that we signed, we implemented joint initiatives – and you’ve heard the minister refer to these as well – to help Qatar build capacity, to develop the technical expertise, to raise awareness, to promote the rights of migrant workers.  We’re doing this through technical exchanges.  We’re doing it through sharing of different practices.  And we’re helping to actually see reforms implemented.  That is critical.</p>
-<p>One of the things that I mentioned earlier is our hope and expectation that some of the progress that’s been made continues and expands after the World Cup is over.  I also want to commend Qatar for reopening the humanitarian care house.  That will help protect and assist victims of trafficking.  But as I noted, there is still considerable work to be done.  That’s exactly why it’s so important that we have these sessions and we have these discussions.</p>
-<p>So that we could take advantage of having the strategic dialogue while the World Cup is going on – all to the better.  As I said, Qatar has the spotlight on it now.  You’ve heard the minister talk about that.  But much more important is what happens when the spotlight moves on, and what I can tell you will happen is our work together to continue to address challenges with regard to rights, to labor practices, to trafficking.</p>
-<p>When it comes to the armband question, look, as I said earlier, one of the most powerful things about football, about soccer, is its potential to bring the world together – quite literally, as it’s together here in Qatar, but also figuratively in terms of just bringing human beings together and rediscovering everything that they have in common and how that really does fundamentally outweigh the differences that we deal with every day.  That’s the power of sport.  That’s the power of what we see going on.  And the message that we heard from the Emir is hugely important, that all are welcome.  And, of course, it’s important to make that meaningful, to put that into practice.</p>
-<p>It’s always concerning from my perspective when we see any restrictions on freedom of expression.  It’s especially so when the expression is for diversity and for inclusion.  And in my judgment, at least, no one on a football pitch should be forced to choose between supporting these values and playing for their team.</p>
-<p><strong>FOREIGN MINISTER AL-THANI:</strong>  Thank you.  Regarding, actually, the crisis of 2017 and the U.S. response – well, I think that there is some confusion here because of some levels of response to what happened in 2017.  And we believe that the institutional relationship between the two countries has been always the most important safeguard for this relationship. And even during the crisis and the time when we had probably some cloud in understanding between the two countries, the institution has been always serving as a facilitator of dialogue between the two government, making sure that everyone at all the levels, they have the right information about the cooperation and the partnership between our two countries.</p>
-<p>We’ve been determined about this relationship not this year, not last year, not 10 years ago, but 50 years ago.  This relationship has been progressing in a positive direction.  Sometimes we have probably disagreement on maybe certain issues.  We talk, we engage in dialogue, we work together in bringing our differences closer and more important the common areas.  And this has been demonstrated in a lot of relationships.  As the Secretary mentioned, Al Udeid Air Base has been the center to fight terrorism, and this base didn’t start with President Biden administration or with the previous administration.  This started 20 years ago, and this relationship has been nothing but only growing.</p>
-<p>Our political position has been always on different issues, on different causes, very much principled on the international law and the UN Charter, and anything – any country, any cases – violating these principles, Qatar will definitely stand out and (inaudible).  This is what we share with the U.S., a shared vision, a responsibility together to make the world a better place with a lot of other partners.  And I believe that the work that we’ve been doing in the past couple of years, it has been significant, recognized by both countries, that both of us – our partnership – are vital for our countries.  It’s vital for the U.S. to have a partner like Qatar in this region; it’s vital for us globally to have a partner like the U.S.</p>
-<p>And I’ve been saying this repeatingly:  Qatar/U.S. partnership is actually the most important international relationship that Qatar has on the international (inaudible) beyond our region.  So this is something that we are committed to pursuing together with my colleague, Tony, and to continue pursuing this with also the future administration, whoever will come after me or after you.  Thank you.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Doha, Qatar</p>
-<p>Diplomatic Club</p>
-<p><strong>FOREIGN MINISTER AL-THANI:</strong>  (Via interpreter) (Inaudible) the most compassionate, may the blessings of God be upon you all.  First of all, I would like to welcome my friend and colleague, His Excellency Mr. Antony Blinken, who visited us yesterday first of all to encourage the American team, and I congratulate you on the performance – American national team – and we wish you luck in the matches to come.  And we look forward for this tournament in Qatar 2022, will be a milestone for peoples and cultures and countries to come together and enjoy the atmosphere here in Qatar, and also to experience our hospitality in Qatar.</p>
-<p>We had the opportunity to hold the fifth round of the Strategic Dialogue between the United States and Qatar, which we consider an important platform to enhance the bilateral relations, which is built on solid grounds and is considered one of the most important strategic partnerships of the state of Qatar.  And this partnership expands from political, economic, defense, diplomatic, developmental aspects to all other aspects.</p>
-<p>We had the opportunity to discuss different topics today regarding regional issues and the challenges faced by the world today, and on our agenda today we discussed the developments of the Iranian nuclear deal and the developments in Iraq, Lebanon, Libya, and the Palestinian issue, which is considered by us to be the central cause, and also the efforts – and we agree with the United States regarding positions vis-à-vis these issues.  And also, so far as the dialogue between our institutions, there was also the opportunity to discuss the response to the challenges – global challenges – jointly, especially when it comes to food security, energy security, and other challenges.</p>
-<p>Here in the state of Qatar we always look forward to consolidate our partnership with the United States, and we look forward to have an open dialogue and the – a relationship based on openness and transparency between our two countries.  And on – I would like to avail myself of this opportunity to commend the efforts by the United States, and we thank United States for all their efforts and help to the state of Qatar in organizing the football tournament when it comes to the security aspect and other aspects.  And we thank you, Your Excellency, for all your help and support.</p>
-<p>And this is part and parcel of our cooperation, which goes beyond the partnership, the multifaceted partnership between us.  And we thank you for being with us and we wish again, with your football team, a – luck, and we also wish you and our national team success in the tournament.  Thank you.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, good afternoon, everyone, and Mr. Minister, Mohammed, thank you.  Thank you for your wonderful hospitality.  Thank you for the very good and detailed conversations that we just had as a part of the Strategic Dialogue.</p>
-<p>I have to say that having proudly hosted the opening of the 4th U.S.-Qatar Strategic Dialogue in Washington last year, I can objectively concede that our hosts have outdone us when it comes to entertainment surrounding the dialogue.</p>
-<p>It was absolutely thrilling to watch Team USA play last night – thrilling as an American, thrilling as a soccer fan, a football fan.  And our team played with so much heart and made our country proud, and we’re anxious to see the rest of the tournament and the games that follow.</p>
-<p>Now, I know that neither of us notched the win that we wanted in our first match.  I’m reminded of the wisdom of a great American philosopher – basketball coach Greg Popovich – who once said, and I quote, “The measure of who we are is how we react to something that doesn’t go our way,” which is true for diplomacy as well as in sports.</p>
-<p>So we meet at what is a high point of the five-decade-long diplomatic relationship between our countries.  On every issue that matters to our nations, our collaboration, I think it’s fair to say, is deeper and our people are better off for it.</p>
-<p>The security ties between us have never been stronger.  Qatar hosts our largest military base in the region, which is an anchor for regional security and regional stability.  In March, President Biden designated Qatar as a major non-NATO ally – several months later, we began delivering F-15 aircraft to the Qatar Emiri Air Force, raising its defense capabilities, making our militaries more interoperable.</p>
-<p>We’re partnering in the region and beyond to enhance stability, to reduce tensions, to end conflicts.  Qatar has provided vital economic assistance to the Palestinian people.  It’s helped pay the salaries of security forces in Lebanon.  It’s brokered peace between Chad’s transitional government and opposition groups.  And Qatar consistently works to mend regional rifts, which is essential to addressing the common challenges that we face.</p>
-<p>We’re also deepening economic ties.  From civil aviation to renewable energy, Qatari and American businesses, innovators are creating new opportunities for people in both of our countries.</p>
-<p>We welcome the emir’s commitment to ramp up Qatar’s production of liquefied natural gas.  That will bolster global energy security.  It will help people around the world who are struggling to keep up with rising costs.  And we recognize Qatar’s efforts to curb emissions like joining the Global Methane Pledge, and its investments in technologies to foster a clean energy transition in the years ahead.</p>
-<p>Where conflicts and deep instability persist, we are working to help people who are suffering as a result.</p>
-<p>When the Taliban forcibly took power in Afghanistan, Qatar played an indispensable role in helping the United States relocate tens of thousands of at-risk Afghans, aid workers, diplomats, and others.  More Afghans came through Doha than any other place in the world.  The work continues, as Qatar continues to provide a transit point for Afghans who are on their way to starting new lives in the United States.</p>
-<p>We’re profoundly grateful for the role that Qatar – and Mohammed, you in particular, your team have played in helping secure the release of U.S. citizen Mark Frerichs after more than two and a half years of captivity in Afghanistan.</p>
-<p>The Strategic Dialogue that we launched today will build on this robust cooperation in all of these areas but also many others, including cultural and educational cooperation, counterterrorism, visa and consular issues, labor issues, human trafficking, all of which we’ve worked on in the run-up to this historic sporting event.</p>
-<p>We congratulate Qatar on hosting the first World Cup in the Middle East.</p>
-<p>The emir’s statement that all are welcome here for the World Cup is an important message for an event that brings together people from all walks of life, nations, faiths, sexual orientations, races, and other forms of diversity.  Now it’s important to make that inclusivity a reality.</p>
-<p>We also applaud the historic step of opening direct flights between Tel Aviv and Doha for the duration of the World Cup, which shows the promise of expanding people-to-people ties and economic ties between countries.</p>
-<p>Now, a massive amount of work goes into hosting an event like this.  We know that without workers, including many migrant workers, this World Cup simply would not have been possible.  Qatar has made meaningful strides in recent years to improve its labor laws, to expand worker rights.  The United States has been and will continue to be a consistent partner in those efforts.</p>
-<p>Of course, real work remains on these issues.  And the United States will continue to work with Qatar on strengthening labor rights and human rights more broadly long after the World Cup is over.  Today, we signed a letter of intent to expand our cooperation on promoting accessibility, combating human trafficking, improving labor practices.</p>
-<p>These efforts align with President Biden’s commitment to making human rights a pillar of our foreign policy and core to our values and our interests.</p>
-<p>Before last night’s game, I had a chance to watch some young players – teenagers from the United States and Qatar, from Canada and Mexico, doing drills on a pitch.  As a lifelong soccer fan – and, it’s charitable to say, a mediocre player – it reminded me of one of the very best things about this sport.  No matter where you go, every corner of the world – this has been my experience the last few years – you find people who love the game.  They love to play it; they love to watch it.  They love to argue about it.  They love rooting and supporting a team with all of the joy and occasional heartbreak that that brings.</p>
-<p>And in a world where we’re so often on a daily basis reminded of what makes us different, what divides us, soccer is a powerful unifying force, a language – a common language – that pretty much the entire world speaks.</p>
-<p>So I wish all of the countries represented here a successful tournament.  And go Team USA.  Thank you.</p>
-<p><strong>MODERATOR:</strong>  (Via interpreter) Now we move to the questions.  We start with Amina.  Please, the floor is yours.</p>
-<p><strong>QUESTION:</strong>  (Via interpreter) <em>Salaam Alaikum</em>.  Amina from Qatar TV.  Question to Your Excellency Secretary of State.  Taking into account the competition at the international level, including the war in the Ukraine and the American strategic presence in the Middle East, how can this impact the Qatari-American partnership in the future?  Thank you.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, thank you.  I think what you’re seeing evidenced here today, throughout all of the strategic dialogues that we’ve done and the new one that we’re launching, is that we have a partnership that is both bilateral, it’s regional, and increasingly it’s global.  And we’ve seen that just in recent months and recent years in a whole variety of places – the cooperation that I mentioned on Afghanistan, for which the United States is genuinely grateful; of course, the longtime hosting of U.S. forces here in Qatar; the status that Qatar has as a major non-NATO ally that President Biden designated just a few months ago; the work that Qatar is doing and doing, in some cases in cooperation with us, to mend regional rifts; the work that Qatar is doing to support the Palestinian people, which is vital and important; the principled stand that Qatar has taken on Ukraine; and, of course, helping to provide for the world’s energy needs.  In these and so many other areas, we’re working ever more closely together, and Qatar is having a very, very significant impact.</p>
-<p>There’s something else that we talked about today that I think is very important, and that is the work that we’re doing and that I hope that we coordinate even more together on providing support and humanitarian assistance to people who need it.  This is something that Qatar has been a leader in, and the needs around the world are great.  We see this in terms of food insecurity, where we are working together; we see it in terms of energy, of course; global health.  One of the efforts that we’re going to be taking through the Strategic Dialogue is heading a working group together to better coordinate and focus our joint efforts on providing this kind of assistance to countries that are in need.</p>
-<p>It is hugely important that even as we’re dealing every day with the consequences of Russian aggression against Ukraine – and we have to do that, not only for the sake of the people of Ukraine but because Russia has committed a terrible aggression as well against the very principles of the United Nations Charter that are vital in trying to keep peace and security and stability around the world – even as we’re doing that, we’re also determined to address the many challenges that people around the world face, some of which have been exacerbated by the Russian aggression.  But in all of these efforts, our countries are working closely together, and that cooperation is deepening.</p>
-<p><strong>MODERATOR:</strong>  (Via interpreter) Thank you, Your Excellency.  Sara Rasheed from Al Jazeera Network.</p>
-<p><strong>QUESTION:</strong>  (Via interpreter) <em>Salaam Alaikum</em>.  My first question (inaudible).  After the success in organizing the World Cup tournament in collaboration with the state of Qatar, the United States and Qatar, how this will impact future relations and the joint mechanisms between the two countries?</p>
-<p>My other question is to the Qatari foreign minister.  On this attack and criticism of the state of Qatar, is it waning now?  Is it getting easier than from the start of the tournament?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.  I think what’s most important to highlight is this:  Our countries have been working closely together, collaborating; dealing with, as I said, both issues between us, regional issues, global issues, well before the World Cup.  We continued that collaboration during the World Cup.  We’re going to pursue it after the World Cup is over.  In fact, the baton has passed to the United States, Mexico, and Canada for 2026.  And the Strategic Dialogue is at the heart of that.  That’s why it was so important for us to launch the latest round, which we did today, but in launching the Strategic Dialogue, that starts a whole process where we have working groups between our countries that in a whole variety of areas that we’ve agreed we’ll pursue deeper collaboration, deeper cooperation.  That’s the work of the coming months.  That’s what we started today.</p>
-<p><strong>FOREIGN MINISTER AL-THANI:</strong>  (Via interpreter) (Inaudible) this attack in the media, first of all, I would like to mention that the state of Qatar (inaudible) organizing the World Cup (inaudible), we were taking this into account.  We thought, were expecting that we will be facing different reactions (inaudible) the organization of (inaudible) was amazing (inaudible) testify to that.</p>
-<p>As for the reforms the state of Qatar carried out, I think there were some quarters who did not take this into consideration.  And, unfortunately, they based their (inaudible) preconceived judgments, even after visiting the state of Qatar and meeting with officials in the state of Qatar.  We always open our doors to everyone.  We always engage in dialogue with everyone concerned since the start of this criticism (inaudible).  We cannot change the opinions of those who just want to attack us and distort our image, and this may have nothing to do with Qatar itself.</p>
-<p>But thankfully the vast majority of people, especially football fans, when they came to Doha, they were surprised and amazed by our preparations.  The people of Qatar is always welcoming and always receive people (inaudible).  And it’s amazing to see the joy in the eyes of people, the fans, and the enjoyment of this event, which was something (inaudible) sees for the first time.  The World Cup in previous sessions (inaudible) usually held in countries which were very advanced European, Western, and African countries.  This is the first time a Middle Eastern country bears this responsibility.</p>
-<p>And as for the reforms which took place (inaudible), many may be of the opinion that the World Cup was the prime reason for that.  But we think the World Cup was (inaudible) catalyst, an agent to accelerate our reform, because we based everything we do on the vision of his highness the emir, which is Qatar national vision, which is in line with the developments of the world around us.  And this is a continuous process and is not linked to a particular event or a particular stage.  This is a journey, a journey which we undertook based on our own experiences and the help of countries like the United States, Canada, Mexico, who will be organizing the next World Cup.  And we wish them, by the way, good luck in their efforts.</p>
-<p>And our message to international world opinion – and the state of Qatar welcomes everybody.  The state of Qatar’s doors are open.  Let’s focus on football, on people, and what takes place in the stadium and on the pitch.  And let’s not forget what Qatar has done.  And if everybody wants to rely on the (inaudible) ideas, this will be only of a temporary impact, but the facts on the ground will remain and speak for themselves.</p>
-<p><strong>MR PRICE:</strong>  Our first question goes to Michel Ghandour.</p>
-<p><strong>QUESTION:</strong>  Thank you.  Mr. Secretary, after resolving the immunity issue for Saudi crown prince in Washington, should we expect him in Washington soon?</p>
-<p>And also, two weeks ago, President Biden said we are going to free Iran.  What has the U.S. been doing in this regard?  And do you have any comments on Iran announcement today that they have begun producing enriched uranium at 60 percent purity, and do you consider the JCPOA dead?</p>
-<p>(In Arabic.)</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.  With regard to MBS, there are no plans for him to travel to Washington.  Let me say just more broadly on this question, the question of immunity, we received a request from a federal court that had litigation before it via the Justice Department to ascertain our opinion on his status, and we conveyed an opinion based on longstanding legal practice that given his position as a head of state, head of government, or foreign minister, that he was as a legal matter entitled to immunity.</p>
-<p>This is a determination that we’ve made in dozens – hundreds – of cases over the years, and in every case we simply follow the law.  And that’s what we did.  The opinion that we provided does not speak in any way to the merits of the case nor the current status of the bilateral relationship.  Our review of that relationship is ongoing.  And again, I would note that this opinion was solicited by the court, and it has been our practice – in fact, I can’t think of a case where we didn’t, when asked by the court, provide an opinion.</p>
-<p>As to Iran, I can’t confirm any reports about their activities.  It’s something that we’re looking at very carefully and very closely, and what we’ve seen and we’ve spoken of many, many times before is that while we continue to believe that the best way to resolve the challenges posed by Iran’s nuclear program are through diplomacy.  Iran, for a variety of reasons, is – has chosen to insert extraneous issues into the effort to revive the JCPOA.  And, of course, meanwhile, the world is rightly focused on what’s happening inside of Iran.  The protests that have arisen since the killing of Mahsa Amini are something that have galvanized the world, and that is where the focus is.</p>
-<p>And, of course, at the same time, the steps that Iran has taken to provide weapons, to provide drones to Russia to aid in its aggression against Ukraine are of deep concern and something that we’re very focused on.</p>
-<p>We are taking steps across the board to push back against both the actions that Iran has taken to repress its own people in terms of sanctioning those who are responsible and also helping companies make sure that the Iranians have the technology that they need to continue to communicate with one another and to be connected to the outside world.  We’re also sanctioning entities that are involved in the provision of weapons, like drones, and looking at whatever means possible to help the Ukrainians defend against the use of these weapons.</p>
-<p>And as we’ve said all along, even as we’ve been engaged in diplomacy to try to see if we can get a mutual return to compliance with the JCPOA, we continue to exert pressure on Iran for steps that it’s taken to strengthen its nuclear program in contravention of the JCPOA itself, as well as the steps that it’s taking in other areas that pose significant challenges, concerns to people around the world.</p>
-<p><strong>FOREIGN MINISTER AL-THANI:</strong>  (Via interpreter) (Inaudible) dealt with in our strategic dialogue.  First of all, we greatly value our partnership with the United States and the cooperation between government entities in the United States and Qatar, whether to do with your ambassador or any other aspect.  As we said previously, the question of human rights in Qatar is the responsibility of the state towards the people – every people of Qatar, everybody who lives here in Qatar – and our leadership was very decisive in these reforms, which were implemented to serve the (inaudible).</p>
-<p>Of course, the question is not just giving pledges by the state towards other countries, and as we said, we value our partnership and dialogue with the United States.  But there is also a problem, an actionable problem, between us and the United States, whether for capacity building between different institutes or law enforcement agencies or in general to benefit from the experience of the United States.  Of course, there are topics upon which we agree and others which we don’t.  This is normal.  We – of course, this has a lot to do with the society in which these measures are implemented, and as we said previously, for us this is both the duty and the responsibility of our government towards its people and towards providing the kind of environment which can protect the lives of everybody who lives (inaudible).</p>
-<p><strong>MR PRICE:</strong>  Our final question goes to John Hudson from <em>The Washington Post</em>.</p>
-<p><strong>QUESTION:</strong>  Thanks very much.  Mr. Secretary, fairly or unfairly, some people have called this the most politicized World Cup in history, due much in part to migrant labor and LGBT issues.  As a longtime soccer fan over decades, do you agree with that historical assessment of Qatar’s place among World Cups?  Did that give you any pause about making this trip?  Separately, what do you think of FIFA’s armband edict, which is discouraging a pro-tolerance message?</p>
-<p>Minister Al-Thani, it was not long ago that your country was subject to an unprecedented blockade by GCC countries, and the U.S. Government under a different administration was largely silent about that act of economic aggression.  Was that experience of isolation what propelled Qatar to deepen its relationship with the current administration on so many fronts that have been discussed, whether it be Ukraine or Afghanistan or any other issue?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  John, thank you.  First, here in Qatar, as we’ve noted, we launched the fifth edition of our strategic dialogue.  That is work that started well before the World Cup.  It’s continuing during the World Cup and it will continue after the World Cup.  And in that, as we’ve discussed, we are working on the broad array of issues that join our countries together, as well as working through areas where we have some differences.</p>
-<p>It also happens that the World Cup is on right now, and I make no bones about having the pleasure to actually come and cheer on Team USA in its opening match, something I was really both proud to do as an American and, yes, pleased to do as a longtime soccer fan and player.  But the main point is this:  The work that we’re doing is something that precedes this World Cup, continues during it, will continue after it.  We’ve already talked about the many areas in which the United States and Qatar are working very closely together through the strategic dialogue to deepen cooperation, to deepen coordination.</p>
-<p>And as I’ve also said, human rights is one of the key pillars of our foreign policy, whether it’s here in the region or, for that matter, all around the world.  We’ve been talking about human rights, labor rights, trafficking in persons with our colleagues from Qatar for a long time, and that, too, is a conversation that continued today and will continue when the spotlight of the World Cup moves on.  We’ve documented real progress.  We’ve documented ongoing challenges, including in our annual reports, and I’d refer you, for example, to the Trafficking in Persons Report that we recently put out.</p>
-<p>We appreciate the work that Qatar has done to improve labor practices, including efforts to investigate, to prosecute, to convict traffickers, staffing the specialized trafficking police unit.  In 2021, under the U.S.-Qatar anti-trafficking MOU and the labor MOU that we signed, we implemented joint initiatives – and you’ve heard the minister refer to these as well – to help Qatar build capacity, to develop the technical expertise, to raise awareness, to promote the rights of migrant workers.  We’re doing this through technical exchanges.  We’re doing it through sharing of different practices.  And we’re helping to actually see reforms implemented.  That is critical.</p>
-<p>One of the things that I mentioned earlier is our hope and expectation that some of the progress that’s been made continues and expands after the World Cup is over.  I also want to commend Qatar for reopening the humanitarian care house.  That will help protect and assist victims of trafficking.  But as I noted, there is still considerable work to be done.  That’s exactly why it’s so important that we have these sessions and we have these discussions.</p>
-<p>So that we could take advantage of having the strategic dialogue while the World Cup is going on – all to the better.  As I said, Qatar has the spotlight on it now.  You’ve heard the minister talk about that.  But much more important is what happens when the spotlight moves on, and what I can tell you will happen is our work together to continue to address challenges with regard to rights, to labor practices, to trafficking.</p>
-<p>When it comes to the armband question, look, as I said earlier, one of the most powerful things about football, about soccer, is its potential to bring the world together – quite literally, as it’s together here in Qatar, but also figuratively in terms of just bringing human beings together and rediscovering everything that they have in common and how that really does fundamentally outweigh the differences that we deal with every day.  That’s the power of sport.  That’s the power of what we see going on.  And the message that we heard from the Emir is hugely important, that all are welcome.  And, of course, it’s important to make that meaningful, to put that into practice.</p>
-<p>It’s always concerning from my perspective when we see any restrictions on freedom of expression.  It’s especially so when the expression is for diversity and for inclusion.  And in my judgment, at least, no one on a football pitch should be forced to choose between supporting these values and playing for their team.</p>
-<p><strong>FOREIGN MINISTER AL-THANI:</strong>  Thank you.  Regarding, actually, the crisis of 2017 and the U.S. response – well, I think that there is some confusion here because of some levels of response to what happened in 2017.  And we believe that the institutional relationship between the two countries has been always the most important safeguard for this relationship. And even during the crisis and the time when we had probably some cloud in understanding between the two countries, the institution has been always serving as a facilitator of dialogue between the two government, making sure that everyone at all the levels, they have the right information about the cooperation and the partnership between our two countries.</p>
-<p>We’ve been determined about this relationship not this year, not last year, not 10 years ago, but 50 years ago.  This relationship has been progressing in a positive direction.  Sometimes we have probably disagreement on maybe certain issues.  We talk, we engage in dialogue, we work together in bringing our differences closer and more important the common areas.  And this has been demonstrated in a lot of relationships.  As the Secretary mentioned, Al Udeid Air Base has been the center to fight terrorism, and this base didn’t start with President Biden administration or with the previous administration.  This started 20 years ago, and this relationship has been nothing but only growing.</p>
-<p>Our political position has been always on different issues, on different causes, very much principled on the international law and the UN Charter, and anything – any country, any cases – violating these principles, Qatar will definitely stand out and (inaudible).  This is what we share with the U.S., a shared vision, a responsibility together to make the world a better place with a lot of other partners.  And I believe that the work that we’ve been doing in the past couple of years, it has been significant, recognized by both countries, that both of us – our partnership – are vital for our countries.  It’s vital for the U.S. to have a partner like Qatar in this region; it’s vital for us globally to have a partner like the U.S.</p>
-<p>And I’ve been saying this repeatingly:  Qatar/U.S. partnership is actually the most important international relationship that Qatar has on the international (inaudible) beyond our region.  So this is something that we are committed to pursuing together with my colleague, Tony, and to continue pursuing this with also the future administration, whoever will come after me or after you.  Thank you.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
 ]]></content:encoded>
 					
 		
