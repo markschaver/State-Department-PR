@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Press Releases &#8211; United States Department of State</title>
-	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/?" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 25 Nov 2022 21:25:10 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 27 Nov 2022 23:10:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>United States Special Representative for Racial Equity and Justice Desirée Cormier Smith Visits Mexico</title>
+		<link>https://www.state.gov/united-states-special-representative-for-racial-equity-and-justice-desiree-cormier-smith-visits-mexico/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Sun, 27 Nov 2022 23:10:24 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=399406</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>U.S. Special Representative for Racial Equity and Justice <a href="https://www.state.gov/biographies/desiree-cormier-smith/" target="_blank" rel="noopener" shape="rect">Desirée Cormier Smith</a> will travel to Mexico City for the second UN Educational, Scientific, and Cultural Organization (UNESCO) Global Forum against Racism and Discrimination on November 27.  Special Representative Cormier Smith will participate in a series of panel discussions focused on this year’s theme, “The Road towards a Rights-based Recovery from the COVID-19 Pandemic.”</p>
+<p>Forum highlights include an opening ministerial roundtable titled, “Building the UNESCO Roadmap.”  The forum will provide a platform to relevant public, private, and civil society actors currently championing effective strategies against racism and discrimination.  Panel discussions will center on how key stakeholders can comprehensively tackle the disproportionate impact of the COVID-19 pandemic on racial and ethnic minorities and marginalized communities globally.</p>
+<p>The United States is unequivocally committed to addressing racial discrimination, inequity, xenophobia, and intolerance of all forms both within our own borders and around the world.  We strive to promote respect for the rights of individuals who are oppressed due to their race or ethnicity, and create a more just, inclusive, and equitable world where all people have the opportunity to live up to their fullest potential.</p>
+<p>To learn more about Special Representative Cormier Smith’s mandate and work, follow <a href="https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMjcuNjcyNzQ1MzEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3VzX3NycmVqIn0.rSoVsabbWK7adG4Ln9mwSkczSHh5LKgBGr46anahlFw/s/1250718950/br/148979674988-l" target="_blank" rel="noopener" shape="rect">@US_SRREJ</a> on Twitter.  For media inquiries, please contact <a href="mailto:DRL-Press@state.gov." target="_blank" rel="noopener" shape="rect">DRL-Press@state.gov</a>.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>U.S. Special Representative for Racial Equity and Justice <a href="https://www.state.gov/biographies/desiree-cormier-smith/" target="_blank" rel="noopener" shape="rect">Desirée Cormier Smith</a> will travel to Mexico City for the second UN Educational, Scientific, and Cultural Organization (UNESCO) Global Forum against Racism and Discrimination on November 27.  Special Representative Cormier Smith will participate in a series of panel discussions focused on this year’s theme, “The Road towards a Rights-based Recovery from the COVID-19 Pandemic.”</p>
+<p>Forum highlights include an opening ministerial roundtable titled, “Building the UNESCO Roadmap.”  The forum will provide a platform to relevant public, private, and civil society actors currently championing effective strategies against racism and discrimination.  Panel discussions will center on how key stakeholders can comprehensively tackle the disproportionate impact of the COVID-19 pandemic on racial and ethnic minorities and marginalized communities globally.</p>
+<p>The United States is unequivocally committed to addressing racial discrimination, inequity, xenophobia, and intolerance of all forms both within our own borders and around the world.  We strive to promote respect for the rights of individuals who are oppressed due to their race or ethnicity, and create a more just, inclusive, and equitable world where all people have the opportunity to live up to their fullest potential.</p>
+<p>To learn more about Special Representative Cormier Smith’s mandate and work, follow <a href="https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjExMjcuNjcyNzQ1MzEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL3VzX3NycmVqIn0.rSoVsabbWK7adG4Ln9mwSkczSHh5LKgBGr46anahlFw/s/1250718950/br/148979674988-l" target="_blank" rel="noopener" shape="rect">@US_SRREJ</a> on Twitter.  For media inquiries, please contact <a href="mailto:DRL-Press@state.gov." target="_blank" rel="noopener" shape="rect">DRL-Press@state.gov</a>.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>First Session of the Intergovernmental Negotiating Committee on Plastic Pollution</title>
 		<link>https://www.state.gov/first-session-of-the-intergovernmental-negotiating-committee-on-plastic-pollution-2/</link>
 		
@@ -1468,165 +1631,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The UN Human Rights Council has a crucial role to play in drawing international attention to human rights crises such as the one in Iran, investigating them, and establishing accountability mechanisms to document and respond to the abuses committed. Today’s session leaves no doubt that the HRC’s membership recognizes the gravity of the situation in Iran, and the fact-finding mission established today will help ensure that those engaged in the ongoing violent suppression of Iranian people are identified and their actions documented.</p>
 <p>It is also important that the international community work in partnership to ensure that Iran plays no role on UN or other international bodies charged with protecting and promoting human rights of women. As Vice President Harris recently announced, the United States is working with other nations to remove Iran from the UN Commission on the Status of Women.</p>
 <p>We look forward to the day when all Iranians can enjoy the human rights and fundamental freedoms enshrined in the Universal Declaration of Human Rights. That day is long overdue.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Encouraging De-escalation in Syria and Turkey</title>
-		<link>https://www.state.gov/encouraging-de-escalation-in-syria-and-turkey/</link>
-		
-		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
-		<pubDate>Thu, 24 Nov 2022 02:54:19 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=399078</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Ned Price, Department Spokesperson</p>
-<p>The United States urges an immediate de-escalation in northern Syria. We are deeply concerned by recent military action that destabilizes the region, threatens our shared goal to fight ISIS, and endangers civilians and U.S. personnel.</p>
-<p>We understand Turkey has legitimate security concerns regarding terrorism.  At the same time, we have consistently communicated our serious concerns about the impact of escalation in Syria on our D-ISIS goals and on civilians on both sides of the border. We express our sincere condolences for the loss of civilian life that has occurred in Syria and Turkey.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
-<p>The United States urges an immediate de-escalation in northern Syria. We are deeply concerned by recent military action that destabilizes the region, threatens our shared goal to fight ISIS, and endangers civilians and U.S. personnel.</p>
-<p>We understand Turkey has legitimate security concerns regarding terrorism.  At the same time, we have consistently communicated our serious concerns about the impact of escalation in Syria on our D-ISIS goals and on civilians on both sides of the border. We express our sincere condolences for the loss of civilian life that has occurred in Syria and Turkey.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
