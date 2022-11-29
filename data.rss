@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Tue, 29 Nov 2022 16:18:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Nov 2022 16:43:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -111,38 +111,56 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Since 2014, the United States has provided over $160 million in technical support to strengthen Ukraine’s energy security, including to strengthen EU interconnectivity, increase energy supply diversification, and promote investments in energy efficiency, renewable energy, and clean energy technologies and innovation.  Much of this support has helped prepare Ukraine for its eventual interconnection with Europe’s ENTSO-E electricity grid, including the island mode test in February 2022 that not only demonstrated Ukraine’s progress in meeting the EU’s technical requirements, but also proved to be critical considering Russia’s subsequent military activity aimed at disrupting power supplies and distribution in Ukraine.</p>
 <p>Specific examples of U.S. energy security support this year include:</p>
 <p><strong><u>USAID</u></strong></p>
-<ul>
-<li>Based on consultations with Ukrenergo, relevant municipalities, and the Ministries of Energy, Regions, and Infrastructure in Ukraine, USAID is responding to nearly $80 million of high priority energy sector procurement needs, focused on the areas of emergency power generation, electric system repair, natural gas, and heating.</li>
+<ul style="list-style-type: circle;">
+<li>Based on consultations with Ukrenergo, relevant municipalities, and the Ministries of Energy, Regions, and Infrastructure in Ukraine, USAID is responding to nearly $80 million of high priority energy sector procurement needs, focused on the areas of emergency power generation, electric system repair, natural gas, and heating.
+<ul style="list-style-type: circle;">
 <li>Procured and delivered approximately $23 million of items to support Ukraine&#8217;s energy sector. This support includes back-up generators; first aid and body armor equipment for utility workers; mobile boiler houses; and miles of piping and associated equipment for heating networks.</li>
 <li>Currently finalizing procurement of $10.6 million of electrical equipment for the restoration of high-voltage substations as well as heavy equipment for power system repairs in five municipalities.</li>
 <li>Approximately $46 million of additional procurements underway with expected delivery dates in 2023. These procurements are focused on provision of mobile boiler houses and related equipment as well as additional repair materials for the electric power system.  We expect this assistance to provide heating for 7 million civilians in 19 oblasts, beginning later this winter.</li>
-<li>Provided modeling, analytical, and methodological technical assistance to Ukrenergo that helped ensure:</li>
+</ul>
+</li>
+<li>Provided modeling, analytical, and methodological technical assistance to Ukrenergo that helped ensure:
+<ul style="list-style-type: circle;">
 <li>Successful completion of island mode test on Feb 24, 2022.</li>
 <li>Emergency synchronization with European Network of Transmission System Operators for Electricity (ENTSO-E) on March 16, 2022.</li>
 <li>Launch of commercial exports in June 2022.</li>
 <li>Retuning of Ukraine’s generation fleet in order to fulfill Ukraine’s requirement from the ENTSO-E catalog of measures.</li>
-<li>Improved the flexibility and resilience of the gas transmission system by:</li>
+</ul>
+</li>
+<li>Improved the flexibility and resilience of the gas transmission system by:
+<ul style="list-style-type: circle;">
 <li>Procuring and providing training on upgraded national dispatch software.</li>
 <li>Delivering a mobile backup dispatch center.</li>
 <li>Completing a financial stress test and financial model of the impact of the war on GTSO operations and recommendations for remediation.</li>
+</ul>
+</li>
 <li>In cooperation with the Energy Community Secretariat, USAID engaged energy regulator (NEURC) to reconsider emergency measures to suspend the competitive electricity market trading.</li>
-<li>Provided analytical and technical support to the Rada Subcommittee on Energy that resulted in:</li>
+<li>Provided analytical and technical support to the Rada Subcommittee on Energy that resulted in:
+<ul style="list-style-type: circle;">
 <li>Passage of the Law on Energy Storage, creating a market-based regime for energy storage aligned with the European regulations.</li>
 <li>Market monitoring and surveillance legislation (e.g., REMIT) passing its first reading. A second reading expected in December 2022.</li>
 <li>Passage of the law establishing corporate power purchase agreements for renewable energy.</li>
-<li>In support of USAID Administrator Power’s commitment of $55 million to support winter preparation, USAID analyzed winter heating supply and demand and prepared a plan to assist local municipalities with emergency heat systems, including mobile heating units, heating tents, and pipelines and advanced procurement of these systems in close cooperation with the municipal governments. Of that, the following has been delivered:</li>
+</ul>
+</li>
+<li>In support of USAID Administrator Power’s commitment of $55 million to support winter preparation, USAID analyzed winter heating supply and demand and prepared a plan to assist local municipalities with emergency heat systems, including mobile heating units, heating tents, and pipelines and advanced procurement of these systems in close cooperation with the municipal governments. Of that, the following has been delivered:
+<ul style="list-style-type: circle;">
 <li>2,200 generators to communities, district heating companies, and health facilities across the country.</li>
 <li>Equipment to Kyivteploenergo, Kyiv’s district heating company, that allowed them to restore service to 22,000 customers and establish 1,000 emergency heating points across the city.</li>
+</ul>
+</li>
 <li>Serve as procurement authority for the Ukrainian Energy Support Fund, established in April 2022 by the European Union’s Energy Community Secretariat and Ukraine’s Ministry of Energy.</li>
 <li>Developed a financial model for liquidity support to Ukrainian electricity market and key Ukrainian entities Ukrenergo, Guaranteed Buyer, Energoatom and Ukrhydroenergo.</li>
 <li>Continuously analyzed balance sheets and cash flows of electricity and gas transmission system operators and their regulatory tariffs.</li>
 <li>Analyzed financial impact of the war for renewable energy generation and financial liabilities for Ukrainian entities Guaranteed Buyer and Ukrenergo.</li>
-<li>Prepared emergency modeling for electricity and gas sectors:</li>
+<li>Prepared emergency modeling for electricity and gas sectors:
+<ul style="list-style-type: circle;">
 <li>Utilized the detailed ENTSO-E model for static and power flow simulations and system reliability analyses for several contingency scenarios.</li>
 <li>Using the gas system simulator for winter gas need analyses.</li>
 </ul>
+</li>
+</ul>
 <p><strong><u>Department of Energy (DOE)</u></strong></p>
-<ul>
+<ul style="list-style-type: circle;">
 <li>With the increased attacks on Ukraine’s electricity grid and energy infrastructure in October, DOE worked with the Ukrainian Ministry of Energy and DOE national laboratories to collate, vet, and help prioritize lists of emergency electricity equipment for grid repair and stabilization.</li>
 <li>Engaged at the CEO level U.S. private sector and public utilities and equipment manufacturers to identify $35 million of available electricity grid equipment in the United States compatible with the Ukrainian system for emergency delivery. Identified $17.5 million to support purchase and transportation of this equipment.</li>
 <li>With support from Congress, initiated work on full integration of Ukraine with ENTSO-E to support resumption of Ukrainian energy exports to other European countries in the region, including funding for energy infrastructure analysis, collection of satellite data and analysis for system mapping, and work on cyber security.</li>
@@ -150,7 +168,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <li>Delivered emergency diesel fuel and other critical materials needed for safe operation of Ukrainian nuclear power plants, as well as initiated the purchase of three truck-mounted emergency diesel backup generators to be delivered to improve plant safety in the event of the loss of offsite power.</li>
 </ul>
 <p><strong><u>U.S. Department of State</u></strong></p>
-<ul>
+<ul style="list-style-type: circle;">
 <li>Building on eight years of technical engagement, the State Department continued to provide technical support to Naftogaz and UkrGasVydobuvannya to advance corporate governance reform, increase domestic gas production, provide strategic planning, and assess critical sub-surface and above-ground technical issues that impact the company’s core business functions.</li>
 <li>The State Department is developing new programs focused on emissions abatement, decarbonization, and diversification to support Ukraine’s ambitious clean energy and climate goals and address the impacts of reduced supplies of natural gas from Russia.</li>
 <li>The State Department led a decades-long U.S. government engagement to develop and expand natural gas reverse flow (west-to-east) routes to enhance European and Ukrainian energy security. Ukraine is now able to import natural gas from Europe, eliminating the need for Ukraine to purchase natural gas from Gazprom.</li>
@@ -232,38 +250,56 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Since 2014, the United States has provided over $160 million in technical support to strengthen Ukraine’s energy security, including to strengthen EU interconnectivity, increase energy supply diversification, and promote investments in energy efficiency, renewable energy, and clean energy technologies and innovation.  Much of this support has helped prepare Ukraine for its eventual interconnection with Europe’s ENTSO-E electricity grid, including the island mode test in February 2022 that not only demonstrated Ukraine’s progress in meeting the EU’s technical requirements, but also proved to be critical considering Russia’s subsequent military activity aimed at disrupting power supplies and distribution in Ukraine.</p>
 <p>Specific examples of U.S. energy security support this year include:</p>
 <p><strong><u>USAID</u></strong></p>
-<ul>
-<li>Based on consultations with Ukrenergo, relevant municipalities, and the Ministries of Energy, Regions, and Infrastructure in Ukraine, USAID is responding to nearly $80 million of high priority energy sector procurement needs, focused on the areas of emergency power generation, electric system repair, natural gas, and heating.</li>
+<ul style="list-style-type: circle;">
+<li>Based on consultations with Ukrenergo, relevant municipalities, and the Ministries of Energy, Regions, and Infrastructure in Ukraine, USAID is responding to nearly $80 million of high priority energy sector procurement needs, focused on the areas of emergency power generation, electric system repair, natural gas, and heating.
+<ul style="list-style-type: circle;">
 <li>Procured and delivered approximately $23 million of items to support Ukraine&#8217;s energy sector. This support includes back-up generators; first aid and body armor equipment for utility workers; mobile boiler houses; and miles of piping and associated equipment for heating networks.</li>
 <li>Currently finalizing procurement of $10.6 million of electrical equipment for the restoration of high-voltage substations as well as heavy equipment for power system repairs in five municipalities.</li>
 <li>Approximately $46 million of additional procurements underway with expected delivery dates in 2023. These procurements are focused on provision of mobile boiler houses and related equipment as well as additional repair materials for the electric power system.  We expect this assistance to provide heating for 7 million civilians in 19 oblasts, beginning later this winter.</li>
-<li>Provided modeling, analytical, and methodological technical assistance to Ukrenergo that helped ensure:</li>
+</ul>
+</li>
+<li>Provided modeling, analytical, and methodological technical assistance to Ukrenergo that helped ensure:
+<ul style="list-style-type: circle;">
 <li>Successful completion of island mode test on Feb 24, 2022.</li>
 <li>Emergency synchronization with European Network of Transmission System Operators for Electricity (ENTSO-E) on March 16, 2022.</li>
 <li>Launch of commercial exports in June 2022.</li>
 <li>Retuning of Ukraine’s generation fleet in order to fulfill Ukraine’s requirement from the ENTSO-E catalog of measures.</li>
-<li>Improved the flexibility and resilience of the gas transmission system by:</li>
+</ul>
+</li>
+<li>Improved the flexibility and resilience of the gas transmission system by:
+<ul style="list-style-type: circle;">
 <li>Procuring and providing training on upgraded national dispatch software.</li>
 <li>Delivering a mobile backup dispatch center.</li>
 <li>Completing a financial stress test and financial model of the impact of the war on GTSO operations and recommendations for remediation.</li>
+</ul>
+</li>
 <li>In cooperation with the Energy Community Secretariat, USAID engaged energy regulator (NEURC) to reconsider emergency measures to suspend the competitive electricity market trading.</li>
-<li>Provided analytical and technical support to the Rada Subcommittee on Energy that resulted in:</li>
+<li>Provided analytical and technical support to the Rada Subcommittee on Energy that resulted in:
+<ul style="list-style-type: circle;">
 <li>Passage of the Law on Energy Storage, creating a market-based regime for energy storage aligned with the European regulations.</li>
 <li>Market monitoring and surveillance legislation (e.g., REMIT) passing its first reading. A second reading expected in December 2022.</li>
 <li>Passage of the law establishing corporate power purchase agreements for renewable energy.</li>
-<li>In support of USAID Administrator Power’s commitment of $55 million to support winter preparation, USAID analyzed winter heating supply and demand and prepared a plan to assist local municipalities with emergency heat systems, including mobile heating units, heating tents, and pipelines and advanced procurement of these systems in close cooperation with the municipal governments. Of that, the following has been delivered:</li>
+</ul>
+</li>
+<li>In support of USAID Administrator Power’s commitment of $55 million to support winter preparation, USAID analyzed winter heating supply and demand and prepared a plan to assist local municipalities with emergency heat systems, including mobile heating units, heating tents, and pipelines and advanced procurement of these systems in close cooperation with the municipal governments. Of that, the following has been delivered:
+<ul style="list-style-type: circle;">
 <li>2,200 generators to communities, district heating companies, and health facilities across the country.</li>
 <li>Equipment to Kyivteploenergo, Kyiv’s district heating company, that allowed them to restore service to 22,000 customers and establish 1,000 emergency heating points across the city.</li>
+</ul>
+</li>
 <li>Serve as procurement authority for the Ukrainian Energy Support Fund, established in April 2022 by the European Union’s Energy Community Secretariat and Ukraine’s Ministry of Energy.</li>
 <li>Developed a financial model for liquidity support to Ukrainian electricity market and key Ukrainian entities Ukrenergo, Guaranteed Buyer, Energoatom and Ukrhydroenergo.</li>
 <li>Continuously analyzed balance sheets and cash flows of electricity and gas transmission system operators and their regulatory tariffs.</li>
 <li>Analyzed financial impact of the war for renewable energy generation and financial liabilities for Ukrainian entities Guaranteed Buyer and Ukrenergo.</li>
-<li>Prepared emergency modeling for electricity and gas sectors:</li>
+<li>Prepared emergency modeling for electricity and gas sectors:
+<ul style="list-style-type: circle;">
 <li>Utilized the detailed ENTSO-E model for static and power flow simulations and system reliability analyses for several contingency scenarios.</li>
 <li>Using the gas system simulator for winter gas need analyses.</li>
 </ul>
+</li>
+</ul>
 <p><strong><u>Department of Energy (DOE)</u></strong></p>
-<ul>
+<ul style="list-style-type: circle;">
 <li>With the increased attacks on Ukraine’s electricity grid and energy infrastructure in October, DOE worked with the Ukrainian Ministry of Energy and DOE national laboratories to collate, vet, and help prioritize lists of emergency electricity equipment for grid repair and stabilization.</li>
 <li>Engaged at the CEO level U.S. private sector and public utilities and equipment manufacturers to identify $35 million of available electricity grid equipment in the United States compatible with the Ukrainian system for emergency delivery. Identified $17.5 million to support purchase and transportation of this equipment.</li>
 <li>With support from Congress, initiated work on full integration of Ukraine with ENTSO-E to support resumption of Ukrainian energy exports to other European countries in the region, including funding for energy infrastructure analysis, collection of satellite data and analysis for system mapping, and work on cyber security.</li>
@@ -271,7 +307,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <li>Delivered emergency diesel fuel and other critical materials needed for safe operation of Ukrainian nuclear power plants, as well as initiated the purchase of three truck-mounted emergency diesel backup generators to be delivered to improve plant safety in the event of the loss of offsite power.</li>
 </ul>
 <p><strong><u>U.S. Department of State</u></strong></p>
-<ul>
+<ul style="list-style-type: circle;">
 <li>Building on eight years of technical engagement, the State Department continued to provide technical support to Naftogaz and UkrGasVydobuvannya to advance corporate governance reform, increase domestic gas production, provide strategic planning, and assess critical sub-surface and above-ground technical issues that impact the company’s core business functions.</li>
 <li>The State Department is developing new programs focused on emissions abatement, decarbonization, and diversification to support Ukraine’s ambitious clean energy and climate goals and address the impacts of reduced supplies of natural gas from Russia.</li>
 <li>The State Department led a decades-long U.S. government engagement to develop and expand natural gas reverse flow (west-to-east) routes to enhance European and Ukrainian energy security. Ukraine is now able to import natural gas from Europe, eliminating the need for Ukraine to purchase natural gas from Gazprom.</li>
