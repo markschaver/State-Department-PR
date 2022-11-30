@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 30 Nov 2022 14:42:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 30 Nov 2022 15:39:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Blinken’s Meeting with Ukrainian Foreign Minister Kuleba</title>
+		<link>https://www.state.gov/secretary-blinkens-meeting-with-ukrainian-foreign-minister-kuleba-6/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Wed, 30 Nov 2022 15:39:43 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=399985</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The following is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken met today with Ukrainian Foreign Minister Dmytro Kuleba on the margins of the NATO Foreign Ministers’ Meeting in Bucharest.  The Secretary reiterated to Foreign Minister Kuleba the United States’ enduring commitment to Ukraine’s defense and deterrence capabilities, especially the provision of air defense options to combat Russia’s escalating missile strikes against civilian infrastructure in Ukraine.  The two also discussed outcomes of meetings – including with G7-plus partners – on Ukraine’s immediate energy infrastructure needs, as well as building long-term energy security and resilience in Ukraine.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The following is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken met today with Ukrainian Foreign Minister Dmytro Kuleba on the margins of the NATO Foreign Ministers’ Meeting in Bucharest.  The Secretary reiterated to Foreign Minister Kuleba the United States’ enduring commitment to Ukraine’s defense and deterrence capabilities, especially the provision of air defense options to combat Russia’s escalating missile strikes against civilian infrastructure in Ukraine.  The two also discussed outcomes of meetings – including with G7-plus partners – on Ukraine’s immediate energy infrastructure needs, as well as building long-term energy security and resilience in Ukraine.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Overseas Buildings Operations Dedicates New U.S. Embassy in Port Moresby</title>
 		<link>https://www.state.gov/overseas-buildings-operations-dedicates-new-u-s-embassy-in-port-moresby/</link>
 		
@@ -1502,175 +1661,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
 <p>The United States commends the people of Equatorial Guinea who exercised their right to vote on November 20.  We note, however, that international election observers, civil society groups, and opposition parties have made credible allegations of significant election-related irregularities, including documented instances of fraud, intimidation, and coercion.  These allegations include restrictions on the ability of representatives of political parties to access polling stations, repeat voting, pre-filling of Democratic Party of Equatorial Guinea (PDGE) ballots, non-secret voting booths, and heavily armed soldiers within 20 meters of voting booths.  We are also concerned by irregular counting practices that favor the party in power, including the counting of unopened ballots in favor of the PDGE and the counting of ballots without all political parties represented.  These irregularities would violate Equatoguinean law.  Given the scale of irregularities observed and the announced results giving the PDGE 94.9% of the vote, we have serious doubts about the credibility of the announced results.</p>
 <p>Elections are an opportunity for a government and political parties to tangibly demonstrate their commitment to democratic principles.  We urge Equatoguinean authorities to work with all stakeholders – including the full spectrum of political organizations and non-partisan civil society organizations – to fully address these credible allegations of voter fraud and to take steps to permit the expression of diverse political perspectives.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Department of State Dedicates New U.S. Consulate General in Dhahran, Kingdom of Saudi Arabia</title>
-		<link>https://www.state.gov/department-of-state-dedicates-new-u-s-consulate-general-in-dhahran-kingdom-of-saudi-arabia/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Tue, 29 Nov 2022 20:06:53 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=399793</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>In an important symbol of our partnership with the Kingdom of Saudi Arabia, Deputy Assistant Secretary of State for Arabian Peninsula Affairs Daniel Benaim, U.S. Embassy Riyadh Chargé d’Affaires Martina Strong, and U.S. Consul General in Dhahran David Edginton officially dedicated the new U.S. Consulate General campus in Dhahran.</p>
-<p>The new campus is situated on a 10.5-acre site in the Al Andalus District in the city of Al-Khobar and incorporates numerous sustainable features to conserve resources and reduce operating costs, including demand-controlled ventilation, efficient site lighting, and on-site wastewater treatment and reuse. It achieved Leadership in Energy and Environmental Design (LEED<sup>®</sup>) Silver certification—a globally recognized mark of achievement in high-performance, best-in-class, green buildings.</p>
-<p>Skidmore, Owings &amp; Merrill, LLP of Washington, D.C., was the design architect for the project, and Caddell Construction Company, LLC of Montgomery, Alabama, constructed the complex, employing a workforce of roughly 800 U.S., Saudi Arabian, and third-country nationals and injecting approximately $95 million into the local economy.</p>
-<p><a href="https://oboportfolio.state.gov/dhahran/">Learn more about the project</a>.</p>
-<p>Since the start of the Department’s Capital Security Construction Program in 1999, Overseas Buildings Operations (OBO) has completed 173 new diplomatic facilities. OBO currently has more than 50 active projects in the design phase or under construction worldwide.</p>
-<p>OBO provides safe, secure, functional, and resilient facilities that represent the U.S. government to the host nation and that support U.S. diplomats in advancing U.S. foreign policy objectives abroad.</p>
-<p>For further information, please contact OBO External Affairs Director Neda Brown at OBO-External-Affairs@state.gov or visit www.state.gov/obo.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>In an important symbol of our partnership with the Kingdom of Saudi Arabia, Deputy Assistant Secretary of State for Arabian Peninsula Affairs Daniel Benaim, U.S. Embassy Riyadh Chargé d’Affaires Martina Strong, and U.S. Consul General in Dhahran David Edginton officially dedicated the new U.S. Consulate General campus in Dhahran.</p>
-<p>The new campus is situated on a 10.5-acre site in the Al Andalus District in the city of Al-Khobar and incorporates numerous sustainable features to conserve resources and reduce operating costs, including demand-controlled ventilation, efficient site lighting, and on-site wastewater treatment and reuse. It achieved Leadership in Energy and Environmental Design (LEED<sup>®</sup>) Silver certification—a globally recognized mark of achievement in high-performance, best-in-class, green buildings.</p>
-<p>Skidmore, Owings &amp; Merrill, LLP of Washington, D.C., was the design architect for the project, and Caddell Construction Company, LLC of Montgomery, Alabama, constructed the complex, employing a workforce of roughly 800 U.S., Saudi Arabian, and third-country nationals and injecting approximately $95 million into the local economy.</p>
-<p><a href="https://oboportfolio.state.gov/dhahran/">Learn more about the project</a>.</p>
-<p>Since the start of the Department’s Capital Security Construction Program in 1999, Overseas Buildings Operations (OBO) has completed 173 new diplomatic facilities. OBO currently has more than 50 active projects in the design phase or under construction worldwide.</p>
-<p>OBO provides safe, secure, functional, and resilient facilities that represent the U.S. government to the host nation and that support U.S. diplomats in advancing U.S. foreign policy objectives abroad.</p>
-<p>For further information, please contact OBO External Affairs Director Neda Brown at OBO-External-Affairs@state.gov or visit www.state.gov/obo.</p>
 <p><input type="hidden" data-filter="100001000100" /></p>
 ]]></content:encoded>
 					
