@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 01 Dec 2022 14:13:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Dec 2022 14:17:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Laos National Day</title>
+		<link>https://www.state.gov/laos-national-day-2/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Thu, 01 Dec 2022 14:17:03 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=400214</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the people and Government of the United States of America, I extend my warmest regards to the people of Laos on the occasion of the 47th anniversary of the founding of the Lao People’s Democratic Republic.</p>
+<p>The United States is proud of our strong people-to-people ties with Laos and our ongoing work to support Laos’s development goals in public health, education, agriculture, and economic growth. The vibrant Lao-American community in the United States continues to contribute to these efforts.</p>
+<p>I look forward to expanding cooperation under the U.S.-Lao PDR Comprehensive Partnership and deepening our collaboration to build a lasting peaceful, prosperous, and secure Indo-Pacific region.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the people and Government of the United States of America, I extend my warmest regards to the people of Laos on the occasion of the 47th anniversary of the founding of the Lao People’s Democratic Republic.</p>
+<p>The United States is proud of our strong people-to-people ties with Laos and our ongoing work to support Laos’s development goals in public health, education, agriculture, and economic growth. The vibrant Lao-American community in the United States continues to contribute to these efforts.</p>
+<p>I look forward to expanding cooperation under the U.S.-Lao PDR Comprehensive Partnership and deepening our collaboration to build a lasting peaceful, prosperous, and secure Indo-Pacific region.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Third U.S.-EU Trade and Technology Council Ministerial Meeting</title>
 		<link>https://www.state.gov/third-u-s-eu-trade-and-technology-council-ministerial-meeting/</link>
 		
@@ -1588,251 +1747,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>And do we have differences on certain things?  Of course.  We always do, but we always work through them.  And so, for example, when it comes to some concerns that we’ve heard in Europe over some of the provisions in the Inflation Reduction Act that go to creating incentives for investing in the United States – we’ve heard some concerns expressed by our European partners – we immediately set up a task force with the European Union to work through those concerns, and that’s exactly what we’re doing.</p>
 <p><b>QUESTION:  </b>Secretary of State Antony Blinken, thank you so much for joining me.</p>
 <p><b>SECRETARY BLINKEN:  </b>Thanks.  Great to be with you.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken With Andrea Mitchell of NBC</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-with-andrea-mitchell-of-nbc-2/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Wed, 30 Nov 2022 18:36:08 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=400049</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Bucharest, Romania</p>
-<p>Palace of Parliament</p>
-<p><strong>QUESTION:</strong>  Mr. Secretary, thank you so much for being with us today.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  It’s great to be with you, Andrea.</p>
-<p><strong>QUESTION:</strong>  You are an avid soccer fan – I want to ask you about Ukraine, of course, the subject of this meeting, the main subject of this meeting here at NATO – but I want to ask you about soccer, about the game, the importance of the game.  You’ve said that soccer is not geopolitical, but at this world cup it really was.  The Iranian state media was challenging U.S. policies publicly at a news conference, so it was certainly part of the text.  And there was global outrage over what’s happened to women – hundreds arrested, many killed, many others injured – outrage around the world.</p>
-<p>So isn’t there inevitably some significance, some impact of the U.S. victory over Iran?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, first, Andrea, let me just say how proud I am, like so many Americans are, of Team USA – how well they’ve performed in this World Cup, including last night in the game against Iran.  And by the way, I thought the Iranian players performed with incredible valor and heart throughout this tournament, and it was great to see these athletes doing what they do.  And yes, I also believe strongly – because I see it every place I go – that football, as it’s called in most parts of the world – soccer, as we call it – really is a universal language spoken pretty much everywhere.  And it has a powerful way of bringing people together.  People not only play soccer, they watch it, they argue about it, they get passionate about teams, whether it’s a national team or whether it’s a club team.  That’s a powerful thing.</p>
-<p>Of course, when you have countries that are playing against each other that are in a totally different area in a rivalry, a competition, or have a fraught relationship, that can spill over.  And I think the American players were incredibly dignified off the field, just as they were successful on the field.  But our focus was on the game last night, but our focus every day and the world’s focus is what’s happening in the streets of Iran – the extraordinary courage of women in particular who have been standing up, speaking up, speaking out for their basic rights.  And we’ve seen that since the killing of Mahsa Amini some months ago.</p>
-<p>So that’s where the attention is.  We’ve been working to make sure that, to the best of our ability, those who’ve been involved in trying to repress the ability of the Iranian people and women to speak up and speak out, we’ve been sanctioning that.  We’ve also been trying to make sure that Iranians have the ability to be able to communicate with one another and stay connected to the outside world, including through the provision of technology.</p>
-<p>So we’re focused on that.  Sometimes these things blend together, but for the most part we’re trying to do whatever we can do to make clear that we support what Iranians are asking for, demanding in the streets, which is to be heard, to be able to make their views known peacefully, and not to have this terrible repression that we’re seeing.</p>
-<p>(Interruption.)</p>
-<p><strong>QUESTION:</strong>  Mr. Secretary, with so many women arrested, some killed, is there anything – anything – the U.S. Government can do besides sanctions and helping them with internet access?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, Andrea, first it’s really important to make clear that this is about Iranians, this is about the women, the young people who are protesting, trying to – it’s not about us.  It’s not about any other country.  In fact, one of the profound mistakes that the regime makes is in accusing the United States or any other country of somehow being responsible for, instigating what’s happening.  That’s not at all the case.  And to misunderstand their own people is at the heart of the problem that they’re facing.</p>
-<p>But like the most important thing that we can do is first to speak out very clearly ourselves in support of the people’s right to protest peacefully, to make their views known, and as I said, to take what steps we can take to go after those who are actually oppressing those rights, including through sanctions; and also to try to help the Iranian people remain connected to each other and connected to the world.  That’s exactly what we’re doing.</p>
-<p><strong>QUESTION:  </strong>The women tell me that they think that change is now inevitable; that there is no turning back.  Do you agree with that?</p>
-<p><strong>SECRETARY BLINKEN: </strong> It’s very hard for us to judge.  First, we don’t have diplomatic relations.  Our visibility inside Iran is limited.  And again, it’s fundamentally about the Iranian people, their own aspirations, their own desires, their own needs for their futures, for their country.  That’s what will determine what happens and where this goes.</p>
-<p><strong>QUESTION:  </strong>Now that they are accelerating their nuclear program to the point where they’re just below the level of weapons-grade, is there – there’s no diplomacy going on clearly from their side.  They’re not serious about it.  So is the military option now the only option to stop them from having a nuclear weapon?</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Look, we continue to believe that diplomacy is the most effective way to deal with &#8212;</p>
-<p><strong>QUESTION:  </strong>It’s not happening.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>&#8212; with the nuclear program.  That’s why we engaged in it over this – these past couple years.  When there was an agreement, the so-called JCPOA that put Iran’s nuclear program into a box, the decision to pull out of that agreement allowed the program to get out of the box.  And now what we’re seeing is, as you said, Iran continuing to take steps to make that program ever more dangerous, and it is something that we are very concerned about – not just us, but many allies and partners around the world, starting with our European partners.  So we’ve made clear to Iran in a variety of ways that if they continue to take steps to advance their program, we will also have to take steps to oppose that and to deal with that.</p>
-<p><strong>QUESTION:  </strong>Let me ask you about Ukraine.  The secretary general said that Vladimir Putin is weaponizing winter.  People are starving, they’re freezing, they need water.  And Putin is carpet-bombing at this point.  Is there any way to make sure that as we spend millions repairing these substations that he’s not just going to take them out and – it’s playing whack-a-mole.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>So we’re doing two things – because you’re exactly right – but what Putin is not able to do on the battlefield, he’s actually now taking to civilians across the country by trying to deny them heat, deny them electricity, deny them water, to freeze them, to brutalize them in ways that we haven’t seen in Europe in decades.  And that’s playing out across the entire country.  It’s not just the frontlines in eastern and southern Ukraine; it’s literally every part of the country.</p>
-<p>So two things are necessary, two things that are – we’re focused on.  One is, yes, making sure that to the best of our ability we are getting to Ukraine what it needs to repair, to replace, to make more resilient its energy and electricity infrastructure.  But at the same time – you’re exactly right – we also need to make sure, again to the best of our ability, that Ukrainians can defend that infrastructure.  Otherwise, you just get into a cycle where stuff is destroyed, we help them replace it, it gets destroyed again, and that gets repeated.</p>
-<p>So throughout this Russian aggression, we’ve been working to make sure at every stop along the way that Ukraine had in its hands the military equipment and weapons it needed to defend itself, to deter the Russian aggression, to push back.  And the needs for Ukraine have evolved, depending on the nature of what Russia is doing.  Now &#8212;</p>
-<p><strong>QUESTION:  </strong>But they’ve asked for – they’ve asked for bigger, longer, stronger weapons earlier.  Was it a mistake not to give them more air defenses – Patriots – sooner?</p>
-<p><strong>SECRETARY BLINKEN:  </strong>We’ve been doing it all along; in fact, even before day one.  When we saw the Russian aggression mounting, when we warned the world that it was likely to come, we didn’t just say that.  We didn’t just warn people.  Going back more than a year ago, we started to provide the Ukrainians with air defense systems, with things like Stinger missiles, Javelins, to deal with tanks.</p>
-<p><strong>QUESTION:  </strong>What about the Patriots now?</p>
-<p><strong>SECRETARY BLINKEN:  </strong>And then throughout as we’ve seen that the nature of the threat from Russia change, moved to different parts of the country, used different tools, we’ve helped the Ukrainians adapt by making sure that the weapon systems that we were giving them – and many others are giving them – are actually fit for the threat that they’re facing.  It’s not just getting them weapon systems; it’s making sure that they’re trained on them, it’s making sure that they can maintain them.  There’s a whole process that goes into that.  Secretary of Defense Lloyd Austin has convened a group of countries over many months now to make sure that we’re doing that in a coordinated way.  We’ve now just done the same thing on the energy side with G7 countries as well as in coordination with the European Union, making sure that just as we’re doing on the defense side, on the energy and electricity side we’re organized and coordinated.  We’re bringing all of that together to help Ukraine get through the winter.</p>
-<p><strong>QUESTION:</strong>  In China, they are cracking down on the protesters.  In some ways does that give us more leverage?  Has President Xi Jinping been weakened by this?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, I can’t speak to what this says about his standing.  But what I can say is this:  First, the zero-COVID policy that we’ve seen in China is not something that we would do, and we’ve been focused on making sure that people have safe and effective vaccines, that we have testing, that we have treatment, and that has proven effective.  China has to figure out a way forward on dealing with COVID, a way forward that answers the health needs but also answers the needs of the people.  We can’t address that for them.</p>
-<p>I think any country where you see people trying to speak out, trying to speak up, to protest peacefully, to make known their frustrations, whatever the issue is – in any country where we see that happening and then we see the government take massive repressive action to stop it, that’s not a sign of strength, that’s a sign of weakness.</p>
-<p><strong>QUESTION:</strong>  Paul Whelan’s family is so worried about his health, his condition.  They haven’t heard from him; he missed his Thanksgiving call.  The embassy has had no contact.  What can you tell us about what’s happened to Paul Whelan?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  First, one of my number-one concerns anywhere in the world is for Americans who are being arbitrarily detained, and that goes for Paul Whelan, Brittney Griner, and others in Russia; it goes for Americans in a number of other countries who are being imprisoned for political reasons, used as pawns.  We’ve been very focused with Russia on trying to get Paul Whelan home, trying to get Brittney Griner home, get others home.  Part of that goes to making sure that we actually have the ability to have access to them, to have contact with them, which is a requirement under basic international law, basic diplomatic conventions that Russia –</p>
-<p><strong>QUESTION:</strong>  Do we know how he is now?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  So the last time that our own team has had an opportunity to see Paul was I believe November 16th, when we actually had a visit with him.  We spoke on the phone with him I think roughly around the same time.  We’ve not had contact since then; we’ve asked for it.  We’re pursuing it every single day.</p>
-<p><strong>QUESTION:</strong>  We don’t know where or how he is?  Could he be hospitalized?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, I can’t speak to his condition now, his situation now.  We are working every day to make sure that we have contact with him, that we understand what the exact situation is.  Even as we’re working to bring him home, to bring Brittney Griner home, this isn’t the end of what we see Russia doing in terms of abusing very basic understandings that countries have had when it comes to having access to our citizens who are being detained.</p>
-<p><strong>QUESTION:</strong>  I want to ask you, given your family background, your stepfather’s survival through the Holocaust, and what you know about world history, are you concerned we now have these Oath Keepers convicted – some for seditious conspiracy, but there are these – there’s a rise in white nationalism, in anti-Semitism all over the country.  Is anti-Semitism becoming normalized, even with the former president hosting an anti-Semite?  And do you have concerns about what this says to the world about America?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  My focus and my job is on anti-Semitism around the world.  And we know &#8212;</p>
-<p><strong>QUESTION:</strong>  But what about here at home?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, one of the things I stay out of is our own politics.  That’s not my job, that’s not my brief.  My brief is to make sure that our values and interests are advanced around the world.  And one of my real concerns is the rise in anti-Semitism around the world.  And it’s often a canary in the coal mine.  Whenever we see anti-Semitism rise, usually (inaudible) &#8212;</p>
-<p><strong>QUESTION:</strong>  How can we preach to the rest of the world when we see it so rampant in our political life at home?  It’s not politics, it’s American values.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  In a variety of ways, we of course have to deal with our own challenges.  But one of the hallmarks of the United States, one of the things that continues to set us apart, is that we do deal with them – openly, transparently.  We confront them.  We don’t sweep them under the rug.  We actually talk about them, and we don’t pretend that they don’t exist.  Even when we have problems that are painful, that are difficult to deal with that create conflict in our own society, we engage them.  And one of the things that I’m able to say when I go around the world, whether it’s on anti-Semitism or any other issue, is, “Yes, even if we have problems at home, we’re actually dealing with them.  We’re confronting them.  We’re not pretending they don’t exist.  We urge you to do the same thing.”</p>
-<p><strong>QUESTION:</strong>  Mr. Secretary, thank you very much.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thanks.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Bucharest, Romania</p>
-<p>Palace of Parliament</p>
-<p><strong>QUESTION:</strong>  Mr. Secretary, thank you so much for being with us today.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  It’s great to be with you, Andrea.</p>
-<p><strong>QUESTION:</strong>  You are an avid soccer fan – I want to ask you about Ukraine, of course, the subject of this meeting, the main subject of this meeting here at NATO – but I want to ask you about soccer, about the game, the importance of the game.  You’ve said that soccer is not geopolitical, but at this world cup it really was.  The Iranian state media was challenging U.S. policies publicly at a news conference, so it was certainly part of the text.  And there was global outrage over what’s happened to women – hundreds arrested, many killed, many others injured – outrage around the world.</p>
-<p>So isn’t there inevitably some significance, some impact of the U.S. victory over Iran?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, first, Andrea, let me just say how proud I am, like so many Americans are, of Team USA – how well they’ve performed in this World Cup, including last night in the game against Iran.  And by the way, I thought the Iranian players performed with incredible valor and heart throughout this tournament, and it was great to see these athletes doing what they do.  And yes, I also believe strongly – because I see it every place I go – that football, as it’s called in most parts of the world – soccer, as we call it – really is a universal language spoken pretty much everywhere.  And it has a powerful way of bringing people together.  People not only play soccer, they watch it, they argue about it, they get passionate about teams, whether it’s a national team or whether it’s a club team.  That’s a powerful thing.</p>
-<p>Of course, when you have countries that are playing against each other that are in a totally different area in a rivalry, a competition, or have a fraught relationship, that can spill over.  And I think the American players were incredibly dignified off the field, just as they were successful on the field.  But our focus was on the game last night, but our focus every day and the world’s focus is what’s happening in the streets of Iran – the extraordinary courage of women in particular who have been standing up, speaking up, speaking out for their basic rights.  And we’ve seen that since the killing of Mahsa Amini some months ago.</p>
-<p>So that’s where the attention is.  We’ve been working to make sure that, to the best of our ability, those who’ve been involved in trying to repress the ability of the Iranian people and women to speak up and speak out, we’ve been sanctioning that.  We’ve also been trying to make sure that Iranians have the ability to be able to communicate with one another and stay connected to the outside world, including through the provision of technology.</p>
-<p>So we’re focused on that.  Sometimes these things blend together, but for the most part we’re trying to do whatever we can do to make clear that we support what Iranians are asking for, demanding in the streets, which is to be heard, to be able to make their views known peacefully, and not to have this terrible repression that we’re seeing.</p>
-<p>(Interruption.)</p>
-<p><strong>QUESTION:</strong>  Mr. Secretary, with so many women arrested, some killed, is there anything – anything – the U.S. Government can do besides sanctions and helping them with internet access?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, Andrea, first it’s really important to make clear that this is about Iranians, this is about the women, the young people who are protesting, trying to – it’s not about us.  It’s not about any other country.  In fact, one of the profound mistakes that the regime makes is in accusing the United States or any other country of somehow being responsible for, instigating what’s happening.  That’s not at all the case.  And to misunderstand their own people is at the heart of the problem that they’re facing.</p>
-<p>But like the most important thing that we can do is first to speak out very clearly ourselves in support of the people’s right to protest peacefully, to make their views known, and as I said, to take what steps we can take to go after those who are actually oppressing those rights, including through sanctions; and also to try to help the Iranian people remain connected to each other and connected to the world.  That’s exactly what we’re doing.</p>
-<p><strong>QUESTION:  </strong>The women tell me that they think that change is now inevitable; that there is no turning back.  Do you agree with that?</p>
-<p><strong>SECRETARY BLINKEN: </strong> It’s very hard for us to judge.  First, we don’t have diplomatic relations.  Our visibility inside Iran is limited.  And again, it’s fundamentally about the Iranian people, their own aspirations, their own desires, their own needs for their futures, for their country.  That’s what will determine what happens and where this goes.</p>
-<p><strong>QUESTION:  </strong>Now that they are accelerating their nuclear program to the point where they’re just below the level of weapons-grade, is there – there’s no diplomacy going on clearly from their side.  They’re not serious about it.  So is the military option now the only option to stop them from having a nuclear weapon?</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Look, we continue to believe that diplomacy is the most effective way to deal with &#8212;</p>
-<p><strong>QUESTION:  </strong>It’s not happening.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>&#8212; with the nuclear program.  That’s why we engaged in it over this – these past couple years.  When there was an agreement, the so-called JCPOA that put Iran’s nuclear program into a box, the decision to pull out of that agreement allowed the program to get out of the box.  And now what we’re seeing is, as you said, Iran continuing to take steps to make that program ever more dangerous, and it is something that we are very concerned about – not just us, but many allies and partners around the world, starting with our European partners.  So we’ve made clear to Iran in a variety of ways that if they continue to take steps to advance their program, we will also have to take steps to oppose that and to deal with that.</p>
-<p><strong>QUESTION:  </strong>Let me ask you about Ukraine.  The secretary general said that Vladimir Putin is weaponizing winter.  People are starving, they’re freezing, they need water.  And Putin is carpet-bombing at this point.  Is there any way to make sure that as we spend millions repairing these substations that he’s not just going to take them out and – it’s playing whack-a-mole.</p>
-<p><strong>SECRETARY BLINKEN:  </strong>So we’re doing two things – because you’re exactly right – but what Putin is not able to do on the battlefield, he’s actually now taking to civilians across the country by trying to deny them heat, deny them electricity, deny them water, to freeze them, to brutalize them in ways that we haven’t seen in Europe in decades.  And that’s playing out across the entire country.  It’s not just the frontlines in eastern and southern Ukraine; it’s literally every part of the country.</p>
-<p>So two things are necessary, two things that are – we’re focused on.  One is, yes, making sure that to the best of our ability we are getting to Ukraine what it needs to repair, to replace, to make more resilient its energy and electricity infrastructure.  But at the same time – you’re exactly right – we also need to make sure, again to the best of our ability, that Ukrainians can defend that infrastructure.  Otherwise, you just get into a cycle where stuff is destroyed, we help them replace it, it gets destroyed again, and that gets repeated.</p>
-<p>So throughout this Russian aggression, we’ve been working to make sure at every stop along the way that Ukraine had in its hands the military equipment and weapons it needed to defend itself, to deter the Russian aggression, to push back.  And the needs for Ukraine have evolved, depending on the nature of what Russia is doing.  Now &#8212;</p>
-<p><strong>QUESTION:  </strong>But they’ve asked for – they’ve asked for bigger, longer, stronger weapons earlier.  Was it a mistake not to give them more air defenses – Patriots – sooner?</p>
-<p><strong>SECRETARY BLINKEN:  </strong>We’ve been doing it all along; in fact, even before day one.  When we saw the Russian aggression mounting, when we warned the world that it was likely to come, we didn’t just say that.  We didn’t just warn people.  Going back more than a year ago, we started to provide the Ukrainians with air defense systems, with things like Stinger missiles, Javelins, to deal with tanks.</p>
-<p><strong>QUESTION:  </strong>What about the Patriots now?</p>
-<p><strong>SECRETARY BLINKEN:  </strong>And then throughout as we’ve seen that the nature of the threat from Russia change, moved to different parts of the country, used different tools, we’ve helped the Ukrainians adapt by making sure that the weapon systems that we were giving them – and many others are giving them – are actually fit for the threat that they’re facing.  It’s not just getting them weapon systems; it’s making sure that they’re trained on them, it’s making sure that they can maintain them.  There’s a whole process that goes into that.  Secretary of Defense Lloyd Austin has convened a group of countries over many months now to make sure that we’re doing that in a coordinated way.  We’ve now just done the same thing on the energy side with G7 countries as well as in coordination with the European Union, making sure that just as we’re doing on the defense side, on the energy and electricity side we’re organized and coordinated.  We’re bringing all of that together to help Ukraine get through the winter.</p>
-<p><strong>QUESTION:</strong>  In China, they are cracking down on the protesters.  In some ways does that give us more leverage?  Has President Xi Jinping been weakened by this?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, I can’t speak to what this says about his standing.  But what I can say is this:  First, the zero-COVID policy that we’ve seen in China is not something that we would do, and we’ve been focused on making sure that people have safe and effective vaccines, that we have testing, that we have treatment, and that has proven effective.  China has to figure out a way forward on dealing with COVID, a way forward that answers the health needs but also answers the needs of the people.  We can’t address that for them.</p>
-<p>I think any country where you see people trying to speak out, trying to speak up, to protest peacefully, to make known their frustrations, whatever the issue is – in any country where we see that happening and then we see the government take massive repressive action to stop it, that’s not a sign of strength, that’s a sign of weakness.</p>
-<p><strong>QUESTION:</strong>  Paul Whelan’s family is so worried about his health, his condition.  They haven’t heard from him; he missed his Thanksgiving call.  The embassy has had no contact.  What can you tell us about what’s happened to Paul Whelan?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  First, one of my number-one concerns anywhere in the world is for Americans who are being arbitrarily detained, and that goes for Paul Whelan, Brittney Griner, and others in Russia; it goes for Americans in a number of other countries who are being imprisoned for political reasons, used as pawns.  We’ve been very focused with Russia on trying to get Paul Whelan home, trying to get Brittney Griner home, get others home.  Part of that goes to making sure that we actually have the ability to have access to them, to have contact with them, which is a requirement under basic international law, basic diplomatic conventions that Russia –</p>
-<p><strong>QUESTION:</strong>  Do we know how he is now?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  So the last time that our own team has had an opportunity to see Paul was I believe November 16th, when we actually had a visit with him.  We spoke on the phone with him I think roughly around the same time.  We’ve not had contact since then; we’ve asked for it.  We’re pursuing it every single day.</p>
-<p><strong>QUESTION:</strong>  We don’t know where or how he is?  Could he be hospitalized?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, I can’t speak to his condition now, his situation now.  We are working every day to make sure that we have contact with him, that we understand what the exact situation is.  Even as we’re working to bring him home, to bring Brittney Griner home, this isn’t the end of what we see Russia doing in terms of abusing very basic understandings that countries have had when it comes to having access to our citizens who are being detained.</p>
-<p><strong>QUESTION:</strong>  I want to ask you, given your family background, your stepfather’s survival through the Holocaust, and what you know about world history, are you concerned we now have these Oath Keepers convicted – some for seditious conspiracy, but there are these – there’s a rise in white nationalism, in anti-Semitism all over the country.  Is anti-Semitism becoming normalized, even with the former president hosting an anti-Semite?  And do you have concerns about what this says to the world about America?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  My focus and my job is on anti-Semitism around the world.  And we know &#8212;</p>
-<p><strong>QUESTION:</strong>  But what about here at home?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, one of the things I stay out of is our own politics.  That’s not my job, that’s not my brief.  My brief is to make sure that our values and interests are advanced around the world.  And one of my real concerns is the rise in anti-Semitism around the world.  And it’s often a canary in the coal mine.  Whenever we see anti-Semitism rise, usually (inaudible) &#8212;</p>
-<p><strong>QUESTION:</strong>  How can we preach to the rest of the world when we see it so rampant in our political life at home?  It’s not politics, it’s American values.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  In a variety of ways, we of course have to deal with our own challenges.  But one of the hallmarks of the United States, one of the things that continues to set us apart, is that we do deal with them – openly, transparently.  We confront them.  We don’t sweep them under the rug.  We actually talk about them, and we don’t pretend that they don’t exist.  Even when we have problems that are painful, that are difficult to deal with that create conflict in our own society, we engage them.  And one of the things that I’m able to say when I go around the world, whether it’s on anti-Semitism or any other issue, is, “Yes, even if we have problems at home, we’re actually dealing with them.  We’re confronting them.  We’re not pretending they don’t exist.  We urge you to do the same thing.”</p>
-<p><strong>QUESTION:</strong>  Mr. Secretary, thank you very much.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thanks.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
