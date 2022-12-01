@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 01 Dec 2022 05:10:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Dec 2022 13:17:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Appointment of Abby Finkenauer as Special Envoy for Global Youth Issues</title>
+		<link>https://www.state.gov/appointment-of-abby-finkenauer-as-special-envoy-for-global-youth-issues/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Thu, 01 Dec 2022 13:17:13 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=400198</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>Today we welcome Abby Finkenauer to the Department of State, where she will serve as the Department&#8217;s Special Envoy for Global Youth Issues. Special Envoy Finkenauer began her career in public service when she was elected – at age 25 – to the Iowa House of Representatives and later became one of the first women elected to represent Iowa in Congress. As the youngest woman to ever pass a bill in the U.S. House of Representatives, Special Envoy Finkenauer knows from experience the key role youth voices and perspectives play in policymaking and good governance.</p>
+<p>In her new role, Special Envoy Finkenauer will serve as the Department’s principal public representative on youth issues, engaging a variety of stakeholders to channel their good ideas back to the Department. She will encourage youth-related programming around the administration’s foreign policy priorities and existing regional initiatives, while consistently and meaningfully consulting with young people on the formulation and implementation of relevant policies and programs.</p>
+<p>I warmly welcome Special Envoy Finkenauer to the Department and look forward to working with her as we champion global youth issues at the State Department.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>Today we welcome Abby Finkenauer to the Department of State, where she will serve as the Department&#8217;s Special Envoy for Global Youth Issues. Special Envoy Finkenauer began her career in public service when she was elected – at age 25 – to the Iowa House of Representatives and later became one of the first women elected to represent Iowa in Congress. As the youngest woman to ever pass a bill in the U.S. House of Representatives, Special Envoy Finkenauer knows from experience the key role youth voices and perspectives play in policymaking and good governance.</p>
+<p>In her new role, Special Envoy Finkenauer will serve as the Department’s principal public representative on youth issues, engaging a variety of stakeholders to channel their good ideas back to the Department. She will encourage youth-related programming around the administration’s foreign policy priorities and existing regional initiatives, while consistently and meaningfully consulting with young people on the formulation and implementation of relevant policies and programs.</p>
+<p>I warmly welcome Special Envoy Finkenauer to the Department and look forward to working with her as we champion global youth issues at the State Department.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Central African Republic National Day</title>
 		<link>https://www.state.gov/central-african-republic-national-day-2/</link>
 		
@@ -1624,267 +1783,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		</script>
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>On December 1 and 2 in Washington, Deputy Secretary Wendy Sherman and European External Action Service Secretary General Stefano Sannino will participate in the U.S.-EU Dialogue on China and Indo-Pacific Consultations.  This will be the fourth high-level meeting of the U.S.-EU Dialogue on China.  On December 2, Deputy Secretary Sherman and Secretary General Sannino will participate in an event at American University to discuss U.S.-EU shared priorities in the Indo-Pacific.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken  At a Press Availability</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-at-a-press-availability-romania/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Wed, 30 Nov 2022 16:08:33 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=399991</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Bucharest, Romania</p>
-<p>Palace of Parliament</p>
-<p><b>SECRETARY BLINKEN:</b>  Good afternoon, everyone.  Before I speak to what we’ve been doing here for the last couple of days, I just want to first congratulate Team USA on a terrific win last night at the World Cup in what was a very competitive match.  I also want to salute the performance of the Iranian team, which played with so much heart during this tournament.  I’m proud of the American players for all the skills that they demonstrated on the field as well as their dignity off the field.  Having watched our team play in Qatar a week or so ago, then watching the match last night with my colleagues and friends, Foreign Minister Kuleba from Ukraine and Foreign Minister Cleverly from the UK, I’m reminded again of how soccer is such a powerful unifying force.  It’s a common language that virtually the entire world speaks.  I’m looking forward to the exciting round of 16 that’s coming up.  We’ll be watching it closely, and so many others around the world will be doing the same thing.</p>
-<p>Now, we have just concluded two days of very productive meetings here in Bucharest with our NATO Allies.  Let me start by thanking our Romanian hosts for their incredibly warm hospitality and also recognize their many contributions over this difficult past year.  And I especially thank NATO Secretary General Jens Stoltenberg for his leadership – leadership that has proven to be decisive in what is a challenging time for our Alliance.</p>
-<p>We’re meeting at a critical juncture.  As Ukraine continues to seize momentum on the battlefield, President Putin has focused his ire and his fire on Ukraine’s civilian population.  Over the past several weeks, Russia has bombed out more than a third of Ukraine’s energy system, plunging millions into cold, into darkness, as frigid temperatures set in.  Heat, water, electricity – for children, for the elderly, for the sick – these are President Putin’s new targets.  He’s hitting them hard.</p>
-<p>This brutalization of Ukraine’s people is barbaric.  We are clear-eyed about the difficult winter that lies ahead.  We know President Putin’s playbook: freeze and starve Ukrainians, force them from their homes, drive up energy, food, and other household costs, not only across Europe but around the world, and then try to splinter our coalition.  President Putin thinks that if he can just raise the costs high enough, the world will abandon Ukraine, that we’ll leave them to fend for themselves.  His strategy has not and will not work.  We will continue to prove him wrong.  That’s what I heard loudly and clearly from every country here in Bucharest.</p>
-<p>We know that standing up for Ukraine means accepting difficult costs, particularly for our European allies, but the cost of inaction would be far higher.  Caving to Russia’s aggression, accepting its brazen attempts to redraw borders by force, to tear up the rulebook that has made all of us more secure – that would have repercussions not only in Europe but quite literally around the world.</p>
-<p>And so the message coming out of our meeting is this:  Our collective resolve to support Ukraine is and will continue to be ironclad, now, throughout the winter, and for as long as it takes for Ukraine to succeed.  We will maintain and bolster our security, humanitarian, and economic support for Ukraine.  NATO Allies and partners have provided $40 billion in arms to Ukraine; more is on the way.  The United States has contributed more than 19 billion in security assistance and nearly $15 billion in direct economic and humanitarian support.  We’ll also continue to ramp up costs on the Kremlin and those enabling President Putin’s war.  We welcome the European Union moving forward on its ninth sanctions package that will further curtail the Kremlin’s capacity to rage its brutal war when that package is passed.</p>
-<p>When Russia began to accelerate its attacks against Ukraine’s civilian infrastructure, the G7 foreign ministers acted swiftly and acted together.  We agreed to create a new coordination group to synchronize our defense of Ukraine’s energy grid, just as the Ramstein process has coordinated our provision of the weapons that Ukraine needs to defend its territory.</p>
-<p>When we convened that group yesterday here in Bucharest, I announced that the United States will commit over $53 million to send equipment to help stabilize Ukraine’s energy grid and keep Ukraine’s power and electricity running.  We’ve also submitted a request to Congress for $1.1 billion to secure Ukraine and Moldova’s energy sector and restore their energy supply.  And we will take strong, coordinated action to ensure that President Putin cannot hold the rest of the world hostage to weaponized energy.</p>
-<p>In the spring, the European Union committed to fully phasing out Russian natural gas.  The United States is helping to speed up this transition, sending 53 billion cubic meters of LNG to our friends in Europe so far this year – more than double last year’s amount – to help provide a bridge to a clean energy future that’s also free from Russian influence.</p>
-<p>The united response of our allies and partners to Russia’s aggression has given Ukraine momentum in the fight.  We agree with President Zelenskyy: diplomacy is ultimately the only way to definitively end Russia’s war of aggression.  We support the need for a just and durable peace.  Russia’s savage attacks on Ukrainian civilians are the latest demonstration that President Putin currently has no interest in meaningful diplomacy; that short of erasing Ukraine’s independence, he will try to force Ukraine into a frozen conflict, lock in his gains, rest and refit his forces, and then, at some point, reattack again.  That tactic cannot possibly lead to a just and durable peace.  President Putin must be disabused of the notion that it can succeed.</p>
-<p>The best way to actually hasten the prospects for real diplomacy is to sustain our support to Ukraine and continue to tilt the battlefield in its favor.  That will also help ensure that Ukraine has the strongest possible negotiating position and hand to play when a negotiating table emerges.  Short of Russia ending the aggression it started, that is the only path to a peace that is both just and durable.</p>
-<p>The collective strength and resolve of NATO in this crisis have demonstrated that alliances and partnerships are our most important strategic asset, and that strength will soon grow with the addition of Sweden and Finland as our newest NATO Allies.  Their participation in this meeting here in Bucharest shows their readiness to bring their strengths to bear in our Alliance.</p>
-<p>Even as we remain focused on maintaining a unified, coordinated effort to support Ukraine, we’re also working to increase NATO’s resilience for the future as it faces new challenges, including those posed by China.  In June, Allies met in Brussels and agreed that China’s stated ambitions and assertive behavior present systemic challenges to the rules-based international order and to areas relevant to Alliance security.  The members of our Alliance remain concerned by the PRC’s coercive policies, by its use of disinformation, by its rapid, opaque military build‑up, including its cooperation with Russia.  But we also remain committed to maintaining a constructive dialogue with China wherever we can, and we welcome opportunities to work together on common challenges.</p>
-<p>The seven-plus decades since NATO’s founding have proven that, fundamentally, its strength lies in the reality that we’re a living, evolving Alliance, one that is built not merely to endure crises but to use them to emerge stronger, more united, better prepared.  This past year has been a powerful reminder of who we are as an Alliance, of our capacity to adapt and evolve, of our unity in the face of threats, and of the sheer force of our collective commitment to the values and interests that we came together originally to defend.  And seeing that, I’m confident that NATO will continue to meet the challenges of this moment as well as the challenges to come.</p>
-<p>Now, before I close, as we would say back in Washington, a moment of personal privilege.  I’m soon going to be losing from my team Evan Glover, who has been my trip director and very close aide, to an exciting opportunity with our embassy in Jerusalem.  It’s often said of close colleagues that they’re always by your side; in Evan’s case, that happens to be almost literally true.</p>
-<p>Evan’s been by my side essentially all day every day these past two years, whether in Washington or around the world.  He’s a close advisor.  He keeps my team and me prepared, on track, on time – well, on time-ish, anyway.  But his duties have gone well beyond those in the job description.  He’s had to wake me up in the middle of the night, listen to me occasionally strum a guitar – my apologies – and greet me upon returning from all-too-infrequent jogs in various capitals around the world.</p>
-<p>In short, Evan’s been subjected to a lot, but he’s met every challenge with unrelenting determination, smarts, and good humor.  I could not be more grateful.  Evan, if you’re out there somewhere, thank you, my friend.</p>
-<p>And thanks to all of you.</p>
-<p><b>MR PRICE:</b>  For questions, we’ll start with Courtney McBride, Bloomberg.</p>
-<p><b>QUESTION:</b>  Thank you.  Mr. Secretary, how does the U.S. ensure and commit to Ukraine that the energy infrastructure support that you and allies and partners are providing will not just be rapidly destroyed, as we know that those civilian infrastructure elements are among the most vulnerable?  Are the U.S. and your allies and partners pairing the energy assistance with protection, such as Patriots or other air defenses, or are simply conceding that you will have to replace the same infrastructure again?  Thank you.</p>
-<p><b>SECRETARY BLINKEN:</b>  Yeah.  Thank you.  No, you’re exactly right.  These are flip sides of the same coin.  Even as we’re working in a very coordinated way with countries around the world to help Ukraine repair and replace as necessary the infrastructure – the generators, the transformers, the grids that are being destroyed – we’re also trying to be very deliberate, and this is primarily the Pentagon and others, in trying to establish the best possible defense for critical energy infrastructure in Ukraine so that we don’t have a process that keeps repeating itself.  Stuff gets replaced; it gets destroyed; it gets replaced again.</p>
-<p>So we have to do both, and we are doing both.  I’ll leave it to the planners and the strategists on the military defense side to speak more specifically about that.  But yes, a part of this is making sure that not only are we getting Ukraine the weapons that it continues to need to defend itself and ward off the Russian aggression, but that some of that is used in a very deliberate way to, as best as possible, protect the energy infrastructure.</p>
-<p>But it’s also critical that even as we’re doing that, we of course help Ukrainians get things back online that have been taken offline by Russian bombs and missiles.  That’s where this very coordinated effort that we’ve been engaged in comes in, primarily through the G7 and a number of other countries, but also in close coordination with what the European Union is doing and also institutions like the World Bank, European Bank for Reconstruction and Development.</p>
-<p>And what we’ve established is very akin to what was done on the military equipment side in Ramstein.  The same kind of process to make sure that Ukrainians are getting, as quickly as we can possibly get it to them, everything they had to keep their electric grid going.</p>
-<p><b>MR PRICE:</b>  Henry Foy, FT.</p>
-<p><b>QUESTION:</b>  Henry Foy, Financial Times.  Thank you, Secretary of State.  We know that the U.S. and other allies, particularly the UK, are keen for NATO to move on from just assessing the threat and challenge that China poses to actually addressing it.  After the discussion you had this morning, are you confident that all of your allies see the challenge posed by China the same way that your administration does?  And what concrete measures have you asked your allies to think about in terms of addressing that?  Thank you.</p>
-<p><b>SECRETARY BLINKEN:</b>  Thank you.  First, let me step back to say that much of what we’ve done over the last couple of years has been to re-engage, reinvigorate, re-energize our alliances and partnerships, recognizing, as I said earlier, that in many ways, they’re our most powerful strategic asset because the more we can address challenges collectively, the more effective we’re likely to be.  And I think some of the fruits of those labors are evident here at NATO, including with regard to the challenge posed by China.</p>
-<p>What I’ve seen, not only at NATO but also, for example, with the European Union as well as in other parts of the world, is a growing convergence in the approach to the challenges that China poses.  We start with a recognition that the relationship for all of us is complex as well as incredibly consequential.  Complex because we see it as competitive – we’re very much at an inflection point in the world where we’ve moved beyond the post-Cold War world and there’s a competition on to shape what comes next.  There’s a recognition of that.  There’s a recognition that there’s also, in many ways, what the Europeans call a systemic rivalry between China and many of our countries.</p>
-<p>But there’s also a recognition that, wherever possible, we have to find ways to cooperate on the really big issues that affect not just people in our respective countries – in China and the United States or in European countries – but literally people around the world: climate, global health, macro-economics, et cetera.  And so we are acting on all of those fronts.</p>
-<p>And the more we’re able to do that together, again, the more effective we’re going to be.  But evidence of that convergence is that, first, everything that I heard around the table today in Bucharest.  We had a discussion this morning about China and the challenges that it poses.  You saw it before then in a joint statement emanating from our first G7 leaders’ meeting last year in the United Kingdom, and again this year coming out of Germany when the G7 leaders got together.  We’ve restarted a dialogue between the European Union and the United States on China that’s actually meeting again in the coming days.  And here at NATO, the Strategic Concept that the leaders put out at the last summit refers to China for the first time, and it calls out the systemic challenge that it poses and our collective responsibility to address that challenge.</p>
-<p>And again, I heard that convergence loud and clear this morning.  And what we talked about today is, again, making sure that we are working to adapt in concrete ways to meet the challenge.  Let me be very clear, though:  As we’ve said repeatedly, we do not seek conflict with China; on the contrary, we want to avoid it.  We don’t want a new Cold War; we’re not looking to decouple our economies.  We’re simply looking to be clear-eyed about some of the challenges that China poses and, again, as I said, to make sure that in addressing those challenges we’re doing it with others.  Everything that I heard today just reinforces the convergence on that point.</p>
-<p><b>MR PRICE:  </b>Ed Wong, <i>New York Times</i>.</p>
-<p><b>QUESTION:  </b>Hi, thank you, Mr. Secretary.  I’d like to follow up on the China question, and you just mentioned that you talked about the need to address China in concrete ways.  Can you give us some more detail on exactly what that means?  And given the fact that a lot of the issues you and your aides are bringing up – mainly infrastructure issues, port usage, technology issues – these are all trade issues, and how do you expect officials in NATO to discuss very much trade-related issues when those are negotiated in other fora?</p>
-<p><b>SECRETARY BLINKEN:  </b>Sure.  So what we’re seeing and what we’re doing across a number of institutions, as well as in our relationships with individual countries, is to look at the areas where China poses a challenge to our interests and to our values, and to take appropriate steps accordingly.  And so for example, what you’ve seen over the last couple of years is growing convergence and action together on things like investment screening mechanisms to make sure that when China is making investments in our countries – something that, again, we want to sustain – we also need to be careful that in particularly sensitive areas – strategic areas, strategic industries, companies, infrastructure – that we take security considerations fully into account before allowing any investments to go forward.</p>
-<p>We want to make sure – and we are – that when it comes to exporting sensitive technologies to China that could go to further its own military capacity, that we’re cautious about that and that, again, we’re acting wherever possible together to make sure that, if we have export controls, we’re doing it in a coordinated manner.  So that’s a part of what we’re doing.  Countries want to make sure that when products in China are made using forced labor, that they can’t come into our countries.  We’re sharing information and coordinating on that.</p>
-<p>And when it comes to NATO, NATO is of course a military Alliance, but it’s also a political Alliance, where we try to develop common perspectives on challenges, we share information, and, as appropriate in the NATO context, we look at what we can do effectively together.  This is not about taking NATO to Asia or, in the parlance of NATO, acting out of area.  This is about some of the challenges that China poses in-area to countries that are members of NATO and making sure that, for example, we’re building resilience around our infrastructure.</p>
-<p>We’ve seen the fragility of critical infrastructure in a variety of ways, including from the Russian attacks on Ukraine.  We want to make sure that it’s resilient as possible to face all potential future challenges.  In that and many other ways, we’re working, again, not only in NATO but across institutions and in our relationships with individual countries.</p>
-<p><b>MR PRICE:  </b>Veronika Boiko, ICTV Ukraine.</p>
-<p><b>QUESTION:  </b>Thank you.  ICTV Ukraine.  In Ukraine, there is not a single powerplant that was not damaged as a result of Russian attacks, and it will take months to restore it.  However, winter is coming, so how the United States will help Ukraine to protect this infrastructure from future attacks?  And Ukrainians – not only air defense systems, but also other weapons and equipment, as well as rounds of munitions – fighter jets would help to protect Ukraine’s sky and civilians.  So will Ukraine get it, and how quickly can Ukraine get it?</p>
-<p><b>SECRETARY BLINKEN:  </b>Thank you.  First, on the energy infrastructure, as we’ve discussed, what President Putin is focused on right now is trying to destroy as much of that infrastructure as possible literally across the country.  If you look at a map of the attacks that Russia has undertaken since October 10th when it began this very deliberate campaign to destroy the electric grid and the energy infrastructure, that map shows attacks on that infrastructure in every part of Ukraine.  So in many ways, the frontlines are not simply in eastern Ukraine and southern Ukraine – they’re nationwide.</p>
-<p>So we have taken that fully into account in everything that we’re doing.  And as I said before, we’re acting urgently to do two things.  One, to make sure that, in a coordinated way, we are getting to Ukraine as much as we possibly can as fast as we can to repair, to replace, to build resilience in its energy infrastructure.  At the same time, the other side of that coin is trying to make sure that that infrastructure is as effectively defended as it possibly can be so that we don’t get into this cycle of repairing and replacing equipment, having the Russians destroy it, doing the same thing all over again.  And that’s something that the military and other planners are focused on.</p>
-<p>So even as we’re providing and continue to provide Ukraine with air defense systems, Ukraine is thinking about the most effective way to deploy them – not just to protect civilians and cities, but to protect the infrastructure.  And that work is ongoing.  As I mentioned earlier, we have just – the United States has just provided $53 million in new equipment: transformers, generators, spare parts.  That’s going to get to Ukraine not in a matter of months, but in a matter of days or weeks, again, to make sure that we’re helping get the electric grid back and functioning.</p>
-<p>At the same time – and this goes to your second question – what we have done from day one – in fact, before day one, when we saw the aggression mounting and we were warning the world that it was coming – we didn’t simply warn the world; we took action to make sure that Ukraine had in its hands the weapons that it would need to defend itself if the aggression actually happened.  So going back more than a year ago, we did the first drawdown of military equipment, including things like Stingers and Javelins.  There was another very significant drawdown a year ago last Christmas – again, before the Russian aggression – and every week since then, we have continued to adapt to what’s happening to make sure that we could get Ukraine the systems that it needs to deal with the particular threat it was facing at any given time.</p>
-<p>That threat has evolved over these months.  As the initial focus was on Kyiv, it shifted east and south; the nature of the terrain changed, the nature of what the Russian aggression was doing changed, and so we evolved with that.  And that is a process that’s going on every single day.  Throughout, we’ve wanted to make sure that not only are we getting weapons systems to Ukraine, but that Ukrainians can use them effectively – sometimes that requires training – that they can maintain them effectively.  All of that requires work.  But what I can tell you is it’s happening every day and it’s evolving every day, and it’s based on what Ukraine needs to most effectively deal with Russia’s aggression.</p>
-<p><b>MR PRICE:  </b>We have time for one final question.  Missy Ryan with <i>The Washington Post</i>.</p>
-<p><b>QUESTION:  </b>Thanks very much.  Hi, Mr. Secretary.  You and other NATO leaders have stressed the historic cohesion and unity that characterizes the Alliance at this moment.  But at the same time, Alliance countries remain divided on the proposed oil price cap.  And also, despite some progress, they have not been able to finalize the accession of Sweden and Finland despite initial hopes that that could be done by last year’s Madrid Summit.  How do you square that?  And also, given Turkey’s continued reservations about Finland and Sweden and the lack of any apparent substantive resolution on that, would the United States be okay with Turkey holding up those countries’ accession until after the Turkish elections next spring?  Thank you.</p>
-<p><b>SECRETARY BLINKEN:  </b>Thanks, Missy.  So sometimes it’s easy to miss the forest for the trees.  The forest is dense, strong, substantive, and that is convergence among allies and partners on all of the critical issues – and not only convergence, unity of purpose and unity of action.  And we just talked about everything that we’ve been doing and have been doing for months to help Ukraine defend itself and now to help it sustain and defend its energy grid.  And at every step along the way there have been suggestions that that unity would fray, would disappear, would be diminished, and thus far, at least, that’s simply not been the case.</p>
-<p>And as I said earlier, everything I heard here in Bucharest just reaffirms a shared determination when it comes to Ukraine, but not just when it comes to Ukraine – when it comes to many of the other issues that our leaders have been talking about and acting on for the last couple of years, many of which are in the new NATO Strategic Concept.</p>
-<p>When it comes to the accession of Sweden and Finland, first, all NATO countries have ratified the – have – excuse me – signed the protocols of accession.  Twenty-eight of the 30 have actually ratified, so – and that’s happened with remarkable speed.  I think if you go back and look at previous enlargements of NATO when it’s brought in new members, it has taken a lot longer than that to go through this process.  So this is happening in record speed.</p>
-<p>Turkey, Sweden, and Finland are engaging directly, as well as with NATO, to make sure that Turkey’s concerns are fully addressed, including concerns about its security.  That process has been moving forward.  And I’m very confident – and again, based on what I’ve heard these last couple of days – that Finland and Sweden will soon be formally new members of the Alliance.</p>
-<p>Thank you.  Thanks, everyone.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Bucharest, Romania</p>
-<p>Palace of Parliament</p>
-<p><b>SECRETARY BLINKEN:</b>  Good afternoon, everyone.  Before I speak to what we’ve been doing here for the last couple of days, I just want to first congratulate Team USA on a terrific win last night at the World Cup in what was a very competitive match.  I also want to salute the performance of the Iranian team, which played with so much heart during this tournament.  I’m proud of the American players for all the skills that they demonstrated on the field as well as their dignity off the field.  Having watched our team play in Qatar a week or so ago, then watching the match last night with my colleagues and friends, Foreign Minister Kuleba from Ukraine and Foreign Minister Cleverly from the UK, I’m reminded again of how soccer is such a powerful unifying force.  It’s a common language that virtually the entire world speaks.  I’m looking forward to the exciting round of 16 that’s coming up.  We’ll be watching it closely, and so many others around the world will be doing the same thing.</p>
-<p>Now, we have just concluded two days of very productive meetings here in Bucharest with our NATO Allies.  Let me start by thanking our Romanian hosts for their incredibly warm hospitality and also recognize their many contributions over this difficult past year.  And I especially thank NATO Secretary General Jens Stoltenberg for his leadership – leadership that has proven to be decisive in what is a challenging time for our Alliance.</p>
-<p>We’re meeting at a critical juncture.  As Ukraine continues to seize momentum on the battlefield, President Putin has focused his ire and his fire on Ukraine’s civilian population.  Over the past several weeks, Russia has bombed out more than a third of Ukraine’s energy system, plunging millions into cold, into darkness, as frigid temperatures set in.  Heat, water, electricity – for children, for the elderly, for the sick – these are President Putin’s new targets.  He’s hitting them hard.</p>
-<p>This brutalization of Ukraine’s people is barbaric.  We are clear-eyed about the difficult winter that lies ahead.  We know President Putin’s playbook: freeze and starve Ukrainians, force them from their homes, drive up energy, food, and other household costs, not only across Europe but around the world, and then try to splinter our coalition.  President Putin thinks that if he can just raise the costs high enough, the world will abandon Ukraine, that we’ll leave them to fend for themselves.  His strategy has not and will not work.  We will continue to prove him wrong.  That’s what I heard loudly and clearly from every country here in Bucharest.</p>
-<p>We know that standing up for Ukraine means accepting difficult costs, particularly for our European allies, but the cost of inaction would be far higher.  Caving to Russia’s aggression, accepting its brazen attempts to redraw borders by force, to tear up the rulebook that has made all of us more secure – that would have repercussions not only in Europe but quite literally around the world.</p>
-<p>And so the message coming out of our meeting is this:  Our collective resolve to support Ukraine is and will continue to be ironclad, now, throughout the winter, and for as long as it takes for Ukraine to succeed.  We will maintain and bolster our security, humanitarian, and economic support for Ukraine.  NATO Allies and partners have provided $40 billion in arms to Ukraine; more is on the way.  The United States has contributed more than 19 billion in security assistance and nearly $15 billion in direct economic and humanitarian support.  We’ll also continue to ramp up costs on the Kremlin and those enabling President Putin’s war.  We welcome the European Union moving forward on its ninth sanctions package that will further curtail the Kremlin’s capacity to rage its brutal war when that package is passed.</p>
-<p>When Russia began to accelerate its attacks against Ukraine’s civilian infrastructure, the G7 foreign ministers acted swiftly and acted together.  We agreed to create a new coordination group to synchronize our defense of Ukraine’s energy grid, just as the Ramstein process has coordinated our provision of the weapons that Ukraine needs to defend its territory.</p>
-<p>When we convened that group yesterday here in Bucharest, I announced that the United States will commit over $53 million to send equipment to help stabilize Ukraine’s energy grid and keep Ukraine’s power and electricity running.  We’ve also submitted a request to Congress for $1.1 billion to secure Ukraine and Moldova’s energy sector and restore their energy supply.  And we will take strong, coordinated action to ensure that President Putin cannot hold the rest of the world hostage to weaponized energy.</p>
-<p>In the spring, the European Union committed to fully phasing out Russian natural gas.  The United States is helping to speed up this transition, sending 53 billion cubic meters of LNG to our friends in Europe so far this year – more than double last year’s amount – to help provide a bridge to a clean energy future that’s also free from Russian influence.</p>
-<p>The united response of our allies and partners to Russia’s aggression has given Ukraine momentum in the fight.  We agree with President Zelenskyy: diplomacy is ultimately the only way to definitively end Russia’s war of aggression.  We support the need for a just and durable peace.  Russia’s savage attacks on Ukrainian civilians are the latest demonstration that President Putin currently has no interest in meaningful diplomacy; that short of erasing Ukraine’s independence, he will try to force Ukraine into a frozen conflict, lock in his gains, rest and refit his forces, and then, at some point, reattack again.  That tactic cannot possibly lead to a just and durable peace.  President Putin must be disabused of the notion that it can succeed.</p>
-<p>The best way to actually hasten the prospects for real diplomacy is to sustain our support to Ukraine and continue to tilt the battlefield in its favor.  That will also help ensure that Ukraine has the strongest possible negotiating position and hand to play when a negotiating table emerges.  Short of Russia ending the aggression it started, that is the only path to a peace that is both just and durable.</p>
-<p>The collective strength and resolve of NATO in this crisis have demonstrated that alliances and partnerships are our most important strategic asset, and that strength will soon grow with the addition of Sweden and Finland as our newest NATO Allies.  Their participation in this meeting here in Bucharest shows their readiness to bring their strengths to bear in our Alliance.</p>
-<p>Even as we remain focused on maintaining a unified, coordinated effort to support Ukraine, we’re also working to increase NATO’s resilience for the future as it faces new challenges, including those posed by China.  In June, Allies met in Brussels and agreed that China’s stated ambitions and assertive behavior present systemic challenges to the rules-based international order and to areas relevant to Alliance security.  The members of our Alliance remain concerned by the PRC’s coercive policies, by its use of disinformation, by its rapid, opaque military build‑up, including its cooperation with Russia.  But we also remain committed to maintaining a constructive dialogue with China wherever we can, and we welcome opportunities to work together on common challenges.</p>
-<p>The seven-plus decades since NATO’s founding have proven that, fundamentally, its strength lies in the reality that we’re a living, evolving Alliance, one that is built not merely to endure crises but to use them to emerge stronger, more united, better prepared.  This past year has been a powerful reminder of who we are as an Alliance, of our capacity to adapt and evolve, of our unity in the face of threats, and of the sheer force of our collective commitment to the values and interests that we came together originally to defend.  And seeing that, I’m confident that NATO will continue to meet the challenges of this moment as well as the challenges to come.</p>
-<p>Now, before I close, as we would say back in Washington, a moment of personal privilege.  I’m soon going to be losing from my team Evan Glover, who has been my trip director and very close aide, to an exciting opportunity with our embassy in Jerusalem.  It’s often said of close colleagues that they’re always by your side; in Evan’s case, that happens to be almost literally true.</p>
-<p>Evan’s been by my side essentially all day every day these past two years, whether in Washington or around the world.  He’s a close advisor.  He keeps my team and me prepared, on track, on time – well, on time-ish, anyway.  But his duties have gone well beyond those in the job description.  He’s had to wake me up in the middle of the night, listen to me occasionally strum a guitar – my apologies – and greet me upon returning from all-too-infrequent jogs in various capitals around the world.</p>
-<p>In short, Evan’s been subjected to a lot, but he’s met every challenge with unrelenting determination, smarts, and good humor.  I could not be more grateful.  Evan, if you’re out there somewhere, thank you, my friend.</p>
-<p>And thanks to all of you.</p>
-<p><b>MR PRICE:</b>  For questions, we’ll start with Courtney McBride, Bloomberg.</p>
-<p><b>QUESTION:</b>  Thank you.  Mr. Secretary, how does the U.S. ensure and commit to Ukraine that the energy infrastructure support that you and allies and partners are providing will not just be rapidly destroyed, as we know that those civilian infrastructure elements are among the most vulnerable?  Are the U.S. and your allies and partners pairing the energy assistance with protection, such as Patriots or other air defenses, or are simply conceding that you will have to replace the same infrastructure again?  Thank you.</p>
-<p><b>SECRETARY BLINKEN:</b>  Yeah.  Thank you.  No, you’re exactly right.  These are flip sides of the same coin.  Even as we’re working in a very coordinated way with countries around the world to help Ukraine repair and replace as necessary the infrastructure – the generators, the transformers, the grids that are being destroyed – we’re also trying to be very deliberate, and this is primarily the Pentagon and others, in trying to establish the best possible defense for critical energy infrastructure in Ukraine so that we don’t have a process that keeps repeating itself.  Stuff gets replaced; it gets destroyed; it gets replaced again.</p>
-<p>So we have to do both, and we are doing both.  I’ll leave it to the planners and the strategists on the military defense side to speak more specifically about that.  But yes, a part of this is making sure that not only are we getting Ukraine the weapons that it continues to need to defend itself and ward off the Russian aggression, but that some of that is used in a very deliberate way to, as best as possible, protect the energy infrastructure.</p>
-<p>But it’s also critical that even as we’re doing that, we of course help Ukrainians get things back online that have been taken offline by Russian bombs and missiles.  That’s where this very coordinated effort that we’ve been engaged in comes in, primarily through the G7 and a number of other countries, but also in close coordination with what the European Union is doing and also institutions like the World Bank, European Bank for Reconstruction and Development.</p>
-<p>And what we’ve established is very akin to what was done on the military equipment side in Ramstein.  The same kind of process to make sure that Ukrainians are getting, as quickly as we can possibly get it to them, everything they had to keep their electric grid going.</p>
-<p><b>MR PRICE:</b>  Henry Foy, FT.</p>
-<p><b>QUESTION:</b>  Henry Foy, Financial Times.  Thank you, Secretary of State.  We know that the U.S. and other allies, particularly the UK, are keen for NATO to move on from just assessing the threat and challenge that China poses to actually addressing it.  After the discussion you had this morning, are you confident that all of your allies see the challenge posed by China the same way that your administration does?  And what concrete measures have you asked your allies to think about in terms of addressing that?  Thank you.</p>
-<p><b>SECRETARY BLINKEN:</b>  Thank you.  First, let me step back to say that much of what we’ve done over the last couple of years has been to re-engage, reinvigorate, re-energize our alliances and partnerships, recognizing, as I said earlier, that in many ways, they’re our most powerful strategic asset because the more we can address challenges collectively, the more effective we’re likely to be.  And I think some of the fruits of those labors are evident here at NATO, including with regard to the challenge posed by China.</p>
-<p>What I’ve seen, not only at NATO but also, for example, with the European Union as well as in other parts of the world, is a growing convergence in the approach to the challenges that China poses.  We start with a recognition that the relationship for all of us is complex as well as incredibly consequential.  Complex because we see it as competitive – we’re very much at an inflection point in the world where we’ve moved beyond the post-Cold War world and there’s a competition on to shape what comes next.  There’s a recognition of that.  There’s a recognition that there’s also, in many ways, what the Europeans call a systemic rivalry between China and many of our countries.</p>
-<p>But there’s also a recognition that, wherever possible, we have to find ways to cooperate on the really big issues that affect not just people in our respective countries – in China and the United States or in European countries – but literally people around the world: climate, global health, macro-economics, et cetera.  And so we are acting on all of those fronts.</p>
-<p>And the more we’re able to do that together, again, the more effective we’re going to be.  But evidence of that convergence is that, first, everything that I heard around the table today in Bucharest.  We had a discussion this morning about China and the challenges that it poses.  You saw it before then in a joint statement emanating from our first G7 leaders’ meeting last year in the United Kingdom, and again this year coming out of Germany when the G7 leaders got together.  We’ve restarted a dialogue between the European Union and the United States on China that’s actually meeting again in the coming days.  And here at NATO, the Strategic Concept that the leaders put out at the last summit refers to China for the first time, and it calls out the systemic challenge that it poses and our collective responsibility to address that challenge.</p>
-<p>And again, I heard that convergence loud and clear this morning.  And what we talked about today is, again, making sure that we are working to adapt in concrete ways to meet the challenge.  Let me be very clear, though:  As we’ve said repeatedly, we do not seek conflict with China; on the contrary, we want to avoid it.  We don’t want a new Cold War; we’re not looking to decouple our economies.  We’re simply looking to be clear-eyed about some of the challenges that China poses and, again, as I said, to make sure that in addressing those challenges we’re doing it with others.  Everything that I heard today just reinforces the convergence on that point.</p>
-<p><b>MR PRICE:  </b>Ed Wong, <i>New York Times</i>.</p>
-<p><b>QUESTION:  </b>Hi, thank you, Mr. Secretary.  I’d like to follow up on the China question, and you just mentioned that you talked about the need to address China in concrete ways.  Can you give us some more detail on exactly what that means?  And given the fact that a lot of the issues you and your aides are bringing up – mainly infrastructure issues, port usage, technology issues – these are all trade issues, and how do you expect officials in NATO to discuss very much trade-related issues when those are negotiated in other fora?</p>
-<p><b>SECRETARY BLINKEN:  </b>Sure.  So what we’re seeing and what we’re doing across a number of institutions, as well as in our relationships with individual countries, is to look at the areas where China poses a challenge to our interests and to our values, and to take appropriate steps accordingly.  And so for example, what you’ve seen over the last couple of years is growing convergence and action together on things like investment screening mechanisms to make sure that when China is making investments in our countries – something that, again, we want to sustain – we also need to be careful that in particularly sensitive areas – strategic areas, strategic industries, companies, infrastructure – that we take security considerations fully into account before allowing any investments to go forward.</p>
-<p>We want to make sure – and we are – that when it comes to exporting sensitive technologies to China that could go to further its own military capacity, that we’re cautious about that and that, again, we’re acting wherever possible together to make sure that, if we have export controls, we’re doing it in a coordinated manner.  So that’s a part of what we’re doing.  Countries want to make sure that when products in China are made using forced labor, that they can’t come into our countries.  We’re sharing information and coordinating on that.</p>
-<p>And when it comes to NATO, NATO is of course a military Alliance, but it’s also a political Alliance, where we try to develop common perspectives on challenges, we share information, and, as appropriate in the NATO context, we look at what we can do effectively together.  This is not about taking NATO to Asia or, in the parlance of NATO, acting out of area.  This is about some of the challenges that China poses in-area to countries that are members of NATO and making sure that, for example, we’re building resilience around our infrastructure.</p>
-<p>We’ve seen the fragility of critical infrastructure in a variety of ways, including from the Russian attacks on Ukraine.  We want to make sure that it’s resilient as possible to face all potential future challenges.  In that and many other ways, we’re working, again, not only in NATO but across institutions and in our relationships with individual countries.</p>
-<p><b>MR PRICE:  </b>Veronika Boiko, ICTV Ukraine.</p>
-<p><b>QUESTION:  </b>Thank you.  ICTV Ukraine.  In Ukraine, there is not a single powerplant that was not damaged as a result of Russian attacks, and it will take months to restore it.  However, winter is coming, so how the United States will help Ukraine to protect this infrastructure from future attacks?  And Ukrainians – not only air defense systems, but also other weapons and equipment, as well as rounds of munitions – fighter jets would help to protect Ukraine’s sky and civilians.  So will Ukraine get it, and how quickly can Ukraine get it?</p>
-<p><b>SECRETARY BLINKEN:  </b>Thank you.  First, on the energy infrastructure, as we’ve discussed, what President Putin is focused on right now is trying to destroy as much of that infrastructure as possible literally across the country.  If you look at a map of the attacks that Russia has undertaken since October 10th when it began this very deliberate campaign to destroy the electric grid and the energy infrastructure, that map shows attacks on that infrastructure in every part of Ukraine.  So in many ways, the frontlines are not simply in eastern Ukraine and southern Ukraine – they’re nationwide.</p>
-<p>So we have taken that fully into account in everything that we’re doing.  And as I said before, we’re acting urgently to do two things.  One, to make sure that, in a coordinated way, we are getting to Ukraine as much as we possibly can as fast as we can to repair, to replace, to build resilience in its energy infrastructure.  At the same time, the other side of that coin is trying to make sure that that infrastructure is as effectively defended as it possibly can be so that we don’t get into this cycle of repairing and replacing equipment, having the Russians destroy it, doing the same thing all over again.  And that’s something that the military and other planners are focused on.</p>
-<p>So even as we’re providing and continue to provide Ukraine with air defense systems, Ukraine is thinking about the most effective way to deploy them – not just to protect civilians and cities, but to protect the infrastructure.  And that work is ongoing.  As I mentioned earlier, we have just – the United States has just provided $53 million in new equipment: transformers, generators, spare parts.  That’s going to get to Ukraine not in a matter of months, but in a matter of days or weeks, again, to make sure that we’re helping get the electric grid back and functioning.</p>
-<p>At the same time – and this goes to your second question – what we have done from day one – in fact, before day one, when we saw the aggression mounting and we were warning the world that it was coming – we didn’t simply warn the world; we took action to make sure that Ukraine had in its hands the weapons that it would need to defend itself if the aggression actually happened.  So going back more than a year ago, we did the first drawdown of military equipment, including things like Stingers and Javelins.  There was another very significant drawdown a year ago last Christmas – again, before the Russian aggression – and every week since then, we have continued to adapt to what’s happening to make sure that we could get Ukraine the systems that it needs to deal with the particular threat it was facing at any given time.</p>
-<p>That threat has evolved over these months.  As the initial focus was on Kyiv, it shifted east and south; the nature of the terrain changed, the nature of what the Russian aggression was doing changed, and so we evolved with that.  And that is a process that’s going on every single day.  Throughout, we’ve wanted to make sure that not only are we getting weapons systems to Ukraine, but that Ukrainians can use them effectively – sometimes that requires training – that they can maintain them effectively.  All of that requires work.  But what I can tell you is it’s happening every day and it’s evolving every day, and it’s based on what Ukraine needs to most effectively deal with Russia’s aggression.</p>
-<p><b>MR PRICE:  </b>We have time for one final question.  Missy Ryan with <i>The Washington Post</i>.</p>
-<p><b>QUESTION:  </b>Thanks very much.  Hi, Mr. Secretary.  You and other NATO leaders have stressed the historic cohesion and unity that characterizes the Alliance at this moment.  But at the same time, Alliance countries remain divided on the proposed oil price cap.  And also, despite some progress, they have not been able to finalize the accession of Sweden and Finland despite initial hopes that that could be done by last year’s Madrid Summit.  How do you square that?  And also, given Turkey’s continued reservations about Finland and Sweden and the lack of any apparent substantive resolution on that, would the United States be okay with Turkey holding up those countries’ accession until after the Turkish elections next spring?  Thank you.</p>
-<p><b>SECRETARY BLINKEN:  </b>Thanks, Missy.  So sometimes it’s easy to miss the forest for the trees.  The forest is dense, strong, substantive, and that is convergence among allies and partners on all of the critical issues – and not only convergence, unity of purpose and unity of action.  And we just talked about everything that we’ve been doing and have been doing for months to help Ukraine defend itself and now to help it sustain and defend its energy grid.  And at every step along the way there have been suggestions that that unity would fray, would disappear, would be diminished, and thus far, at least, that’s simply not been the case.</p>
-<p>And as I said earlier, everything I heard here in Bucharest just reaffirms a shared determination when it comes to Ukraine, but not just when it comes to Ukraine – when it comes to many of the other issues that our leaders have been talking about and acting on for the last couple of years, many of which are in the new NATO Strategic Concept.</p>
-<p>When it comes to the accession of Sweden and Finland, first, all NATO countries have ratified the – have – excuse me – signed the protocols of accession.  Twenty-eight of the 30 have actually ratified, so – and that’s happened with remarkable speed.  I think if you go back and look at previous enlargements of NATO when it’s brought in new members, it has taken a lot longer than that to go through this process.  So this is happening in record speed.</p>
-<p>Turkey, Sweden, and Finland are engaging directly, as well as with NATO, to make sure that Turkey’s concerns are fully addressed, including concerns about its security.  That process has been moving forward.  And I’m very confident – and again, based on what I’ve heard these last couple of days – that Finland and Sweden will soon be formally new members of the Alliance.</p>
-<p>Thank you.  Thanks, everyone.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
