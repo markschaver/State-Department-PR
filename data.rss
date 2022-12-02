@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 02 Dec 2022 14:30:21 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Dec 2022 16:08:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,328 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>UAE National Day</title>
+		<link>https://www.state.gov/uae-national-day-2/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 02 Dec 2022 16:08:41 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=400730</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I want to convey our sincere warm wishes to the people of the United Arab Emirates as you celebrate your 51st National Day.</p>
+<p>Our partnership is strong, as represented by our troops who have served together in defense of our shared security, the tens of thousands of Emiratis who have studied at American universities, business leaders from each country working together to pursue economic opportunity, and the exceptional and wide-ranging cooperation between our two governments. I commend the United Arab Emirates for the historic cooperation with Israel forged over the past two years through the Abraham Accords. I also commend the work of the Negev Forum, as well as our collective work with India through I2U2, which is striving to deliver tangible benefits to the region and beyond and make real our aspirations for greater regional integration in the Middle East and beyond. I also congratulate you on the success of Expo 2020 Dubai, demonstrating the UAE’s resilience despite COVID’s various mutations. We continue advancing our joint efforts to combat climate change, including through the historic recent launch of a US-UAE climate cooperation partnership, and we will continue to support your efforts when you host COP28 next year. We remain hopeful for an enduring peace throughout the Arabian Peninsula and appreciate your efforts to this end.</p>
+<p>May you enjoy continued peace and prosperity during this National Day celebration and beyond.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>On behalf of the United States of America, I want to convey our sincere warm wishes to the people of the United Arab Emirates as you celebrate your 51st National Day.</p>
+<p>Our partnership is strong, as represented by our troops who have served together in defense of our shared security, the tens of thousands of Emiratis who have studied at American universities, business leaders from each country working together to pursue economic opportunity, and the exceptional and wide-ranging cooperation between our two governments. I commend the United Arab Emirates for the historic cooperation with Israel forged over the past two years through the Abraham Accords. I also commend the work of the Negev Forum, as well as our collective work with India through I2U2, which is striving to deliver tangible benefits to the region and beyond and make real our aspirations for greater regional integration in the Middle East and beyond. I also congratulate you on the success of Expo 2020 Dubai, demonstrating the UAE’s resilience despite COVID’s various mutations. We continue advancing our joint efforts to combat climate change, including through the historic recent launch of a US-UAE climate cooperation partnership, and we will continue to support your efforts when you host COP28 next year. We remain hopeful for an enduring peace throughout the Arabian Peninsula and appreciate your efforts to this end.</p>
+<p>May you enjoy continued peace and prosperity during this National Day celebration and beyond.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Thailand National Day</title>
+		<link>https://www.state.gov/thailand-national-day-2/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 02 Dec 2022 16:07:57 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=400731</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>spokesOn behalf of the United States of America, I congratulate the Kingdom of Thailand as it celebrates Thai National Day.</p>
+<p>This past year, the United States and Thailand have strengthened our partnership and alliance. Thailand successfully hosted the Asia-Pacific Economic Cooperation forum, and we held our first-ever Strategic and Defense Dialogue.  Our cooperation was far reaching, from energy and sustainability to regional security.  As we enter the 190th anniversary of our diplomatic relationship, the United States is committed to deepening the economic, security, health, and people-to-people ties that exist between our two countries.  In the coming year, as we work together to advance our cooperation through the Indo-Pacific Economic Framework and the implementation of the U.S.-Thai Communiqué on Strategic Alliance and Partnership, we welcome Thailand’s leadership in the Indo-Pacific region and beyond.</p>
+<p>Congratulations to all the people of Thailand on this important day.  We are honored to have you as a friend, partner, and ally.  I wish you a peaceful and prosperous year ahead.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>spokesOn behalf of the United States of America, I congratulate the Kingdom of Thailand as it celebrates Thai National Day.</p>
+<p>This past year, the United States and Thailand have strengthened our partnership and alliance. Thailand successfully hosted the Asia-Pacific Economic Cooperation forum, and we held our first-ever Strategic and Defense Dialogue.  Our cooperation was far reaching, from energy and sustainability to regional security.  As we enter the 190th anniversary of our diplomatic relationship, the United States is committed to deepening the economic, security, health, and people-to-people ties that exist between our two countries.  In the coming year, as we work together to advance our cooperation through the Indo-Pacific Economic Framework and the implementation of the U.S.-Thai Communiqué on Strategic Alliance and Partnership, we welcome Thailand’s leadership in the Indo-Pacific region and beyond.</p>
+<p>Congratulations to all the people of Thailand on this important day.  We are honored to have you as a friend, partner, and ally.  I wish you a peaceful and prosperous year ahead.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>International Partnership for Nuclear Disarmament Verification (IPNDV) Sydney Plenary</title>
 		<link>https://www.state.gov/international-partnership-for-nuclear-disarmament-verification-ipndv-sydney-plenary/</link>
 		
@@ -1426,372 +1748,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The ESC applauded major binational border achievements accomplished in 2022, including progress on binational border crossing infrastructure modernization and joint border security operations.  The ESC also adopted 2023 Action Plans to guide bilateral border-related efforts, many of which support initiatives identified through the U.S.-Mexico High-Level Economic Dialogue and U.S.-Mexico High-Level Security Dialogue.</p>
 <p>21CB is a bilateral cooperation mechanism with a clear goal to improve border security and promote the economic competitiveness of North America.  Since 2010, the ESC has held annual plenary meetings spanning three Mexican and U.S. presidential administrations.  The December 1 meeting of the ESC continues binational progress made in 2022, including the July 2022 meeting between President Biden and President López Obrador which affirmed our commitment to greater U.S.-Mexican economic cooperation, accelerating the facilitation of bilateral trade, reducing trade costs, and implementing our multi-year joint U.S.-Mexico border infrastructure modernization efforts. These issues – including our close cooperation on border issues – are interlinked and foundational for the success of our region while also consequential to our own national security and economic interests.</p>
 <p><input type="hidden" data-filter="100001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Designating Three Democratic People’s Republic of Korea Officials in Response to Pyongyang’s November ICBM Launches</title>
-		<link>https://www.state.gov/designating-three-democratic-peoples-republic-of-korea-officials-in-response-to-pyongyangs-november-icbm-launches/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Thu, 01 Dec 2022 20:41:21 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=400375</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States is taking additional actions today as part of our ongoing effort to impede the Democratic People’s Republic of Korea’s (DPRK) ability to advance its unlawful ballistic missile and weapons of mass destruction programs.  These actions follow the DPRK’s unprecedented launch of over 60 ballistic missiles this year, including the test of several intercontinental ballistic missiles (ICBM).  These destabilizing actions pose grave security risks to the region and entire world.</p>
-<p>Today, the Department of the Treasury is designating Jon Il Ho, the chair of the Worker’s Party of Korea (WPK) Committee of the Academy for Defense Research and a member of the WPK Central Committee.  The WPK was blocked in 2016 pursuant to Executive Order (E.O.) 13722.  Treasury is also designating Yu Jin, a member of the WPK Central Committee; and Kim Su Gil, the Chief Secretary of the Kangwo’n WPK Provincial Committee and a member of the WPK Central Committee.  These actions are pursuant to E.O. 13687 for being officials of the WPK.</p>
-<p>All three targets have direct connections to the DPRK’s unlawful ballistic missile program.  The European Union (EU) designated all three earlier this year, noting that Jon and Yu both have played a role in the DPRK’s WMD programs and have participated in multiple ballistic missile launches, while Kim has been responsible for the implementation of WPK decisions related to the development of the DPRK’s unlawful nuclear and ballistic missile programs.</p>
-<p>Today’s actions have been taken in close coordination with the Republic of Korea and Japan and further align our policies with our EU partners on the global DPRK threat.  These steps also underscore our sustained resolve to promote accountability in response to Pyongyang’s pace, scale, and scope of ballistic missile launches.</p>
-<p>For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMDEuNjc1MzA1NjEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTM0In0.P87i_UBiMrv0J5Kk5HgZX235K-ghEkW_eKvyLrvJ6TU/s/1436012980/br/149387997530-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMDEuNjc1MzA1NjEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTM0In0.P87i_UBiMrv0J5Kk5HgZX235K-ghEkW_eKvyLrvJ6TU%2Fs%2F1436012980%2Fbr%2F149387997530-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C31d50f4dc88a40f24a5908dad3da9e35%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638055233172004638%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=RMna96stsfhsyjmIXzrekfTbGaWhXHh%2F%2BgUBlfgL7Zs%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States is taking additional actions today as part of our ongoing effort to impede the Democratic People’s Republic of Korea’s (DPRK) ability to advance its unlawful ballistic missile and weapons of mass destruction programs.  These actions follow the DPRK’s unprecedented launch of over 60 ballistic missiles this year, including the test of several intercontinental ballistic missiles (ICBM).  These destabilizing actions pose grave security risks to the region and entire world.</p>
-<p>Today, the Department of the Treasury is designating Jon Il Ho, the chair of the Worker’s Party of Korea (WPK) Committee of the Academy for Defense Research and a member of the WPK Central Committee.  The WPK was blocked in 2016 pursuant to Executive Order (E.O.) 13722.  Treasury is also designating Yu Jin, a member of the WPK Central Committee; and Kim Su Gil, the Chief Secretary of the Kangwo’n WPK Provincial Committee and a member of the WPK Central Committee.  These actions are pursuant to E.O. 13687 for being officials of the WPK.</p>
-<p>All three targets have direct connections to the DPRK’s unlawful ballistic missile program.  The European Union (EU) designated all three earlier this year, noting that Jon and Yu both have played a role in the DPRK’s WMD programs and have participated in multiple ballistic missile launches, while Kim has been responsible for the implementation of WPK decisions related to the development of the DPRK’s unlawful nuclear and ballistic missile programs.</p>
-<p>Today’s actions have been taken in close coordination with the Republic of Korea and Japan and further align our policies with our EU partners on the global DPRK threat.  These steps also underscore our sustained resolve to promote accountability in response to Pyongyang’s pace, scale, and scope of ballistic missile launches.</p>
-<p>For more information on today’s action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMDEuNjc1MzA1NjEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTM0In0.P87i_UBiMrv0J5Kk5HgZX235K-ghEkW_eKvyLrvJ6TU/s/1436012980/br/149387997530-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMDEuNjc1MzA1NjEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTM0In0.P87i_UBiMrv0J5Kk5HgZX235K-ghEkW_eKvyLrvJ6TU%2Fs%2F1436012980%2Fbr%2F149387997530-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7C31d50f4dc88a40f24a5908dad3da9e35%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638055233172004638%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=RMna96stsfhsyjmIXzrekfTbGaWhXHh%2F%2BgUBlfgL7Zs%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The U.S. Mission to the Organization for Security and Cooperation in Europe (OSCE):  Advancing Security, Prosperity, and Human Rights</title>
-		<link>https://www.state.gov/the-u-s-mission-to-the-organization-for-security-and-cooperation-in-europe-osce-advancing-security-prosperity-and-human-rights-2/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Thu, 01 Dec 2022 16:37:52 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=400280</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The Organization for Security and Cooperation in Europe (OSCE) is the world’s largest regional security organization with 57 participating States from Europe and Eurasia as well as Canada and the United States.  Through political dialogue about shared values and practical work on the ground that aims to make a lasting difference, the OSCE promotes peace, prosperity, and democracy for more than a billion people.  Built on the foundation of the 1975 Helsinki Final Act, the OSCE takes a comprehensive approach to security, encompassing political-military issues, economic and environmental concerns, and human rights and democratic development.</p>
-<p>Russia’s full-scale invasion of Ukraine on February 24 and the Kremlin’s blatant disregard for its OSCE commitments have shattered the region’s collective security and violated every single one of the Helsinki Final Act’s guiding principles.  Despite offering Russia an opportunity to hold an enhanced European security dialogue, Russia has turned its back on the organization.  The United States, in close coordination with other participating States, has focused its efforts since February 24 on holding Russia to account.  On November 1, the OSCE also launched a new Support Programme for Ukraine with $2 million in initial U.S. funding, to address some of the immediate challenges to civilians posed by Russia’s war and to support the long-term democratic and social resilience of Ukrainian institutions and civil society organizations.</p>
-<p><b>Political-Military Dimension</b></p>
-<ul>
-<li>Although Russia’s war of aggression against Ukraine has put a tremendous strain on international arms control regimes, the United States continues to work with like-minded participating States to maintain the existing arms control arrangements and works to promote regional confidence building measures in areas like cyber, countering terrorism, and countering violent extremism.</li>
-<li>The OSCE’s work to combat other transnational security threats continues to be critical in the context of Russia&#8217;s war.  The OSCE presence in the Western Balkans, Moldova, and Central Asia &#8212; including field missions, the Border Management Staff College in Dushanbe, the OSCE Academy in Bishkek, and various extra-budgetary projects &#8212; strengthens countries’ internal capacities while also providing a platform for cooperation.</li>
-</ul>
-<p><b>Economic and Environmental Dimension</b></p>
-<ul>
-<li>The OSCE’s Second Dimension encompasses economic and environmental issues as an integral element of comprehensive security.  The United States supports the OSCE’s work to combat corruption and promote good governance, energy security, and environmental protection, expand consideration of climate-related security risks, and promote women’s economic empowerment.</li>
-<li>The United States supports projects under the Office of the Coordinator of OSCE Economic and Environmental Activities (OCEEA) to build the capacity of participating States to identify climate-security hotspots, combat corruption, and protect energy networks from natural and man-made disasters.  In many cases, environmental and economic projects incorporate support for reconciliation and cross-border cooperation.</li>
-</ul>
-<p><b>Human Dimension</b></p>
-<ul>
-<li>Since its inception, the OSCE has played a pivotal role in holding states accountable for their human rights commitments and pledges to uphold democratic norms.  Most recently, we have used various OSCE tools to hold Russia to account for war crimes and other abuses of human rights. The United States joined 44 other countries in invoking the “Moscow Mechanism” to document Russia’s war crimes, possible crimes against humanity, and egregious abuses of human rights and to contribute to accountability efforts.  The Office of Democratic Institutions and Human Rights has also been monitoring and documenting abuses committed by Russia in Ukraine, including as part of its so-called “filtration” operations.</li>
-<li>Despite Russia’s obstructionism, the United States supported the Polish Chair’s decision to hold a Warsaw Human Dimension Conference in September 2022.  The conference was attended by over 1100 participants, and provided an opportunity for government officials, international experts, civil society representatives and human rights activists to take stock of how states are implementing their OSCE commitments in the human dimension.  The OSCE is also deeply engaged in regional projects to combat trafficking in persons, particularly among Ukrainian refugees and internally displaced persons, and to support marginalized populations.  The Chair-in-Office’s, three personal representatives on Tolerance and Non- Discrimination, Rabbi Andrew Baker, Dr. Regina Polak, and Ambassador Dr. Ismail Hakki Musa, also help promote tolerance and respect for diversity.</li>
-</ul>
-<p><b>The Parliamentary Assembly, Independent Institutions, and Field Missions</b></p>
-<ul>
-<li>The work of the OSCE is complimented by the work of the OSCE Parliamentary Assembly (OSCE PA).  Comprised of 323 members from across the region, the OSCE PA seeks to advance the region’s comprehensive security including through parliamentary diplomacy, drafting thematic reports, issuing joint declarations, the work of Special Representatives, and observing elections.</li>
-<li>The United States strongly supports the work of the three independent OSCE institutions – the Office for Democratic Institutions and Human Rights (ODIHR), the Representative on Freedom of the Media (RFoM), and the High Commissioner on National Minorities (HCNM). We also support the work of the OSCE Special Representatives who work on fighting corruption, combating trafficking in persons, fostering gender equality, and promoting respect for the human rights of Roma and Sinti.</li>
-</ul>
-<p>Finally, the OSCE’s 13 field missions help host countries put their OSCE commitments into practice and foster local capacities.  These include initiatives to support law enforcement, minority rights, legislative reform, the rule of law and media freedom, promotion of tolerance and non-discrimination, and combat corruption and trafficking-in-persons.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The Organization for Security and Cooperation in Europe (OSCE) is the world’s largest regional security organization with 57 participating States from Europe and Eurasia as well as Canada and the United States.  Through political dialogue about shared values and practical work on the ground that aims to make a lasting difference, the OSCE promotes peace, prosperity, and democracy for more than a billion people.  Built on the foundation of the 1975 Helsinki Final Act, the OSCE takes a comprehensive approach to security, encompassing political-military issues, economic and environmental concerns, and human rights and democratic development.</p>
-<p>Russia’s full-scale invasion of Ukraine on February 24 and the Kremlin’s blatant disregard for its OSCE commitments have shattered the region’s collective security and violated every single one of the Helsinki Final Act’s guiding principles.  Despite offering Russia an opportunity to hold an enhanced European security dialogue, Russia has turned its back on the organization.  The United States, in close coordination with other participating States, has focused its efforts since February 24 on holding Russia to account.  On November 1, the OSCE also launched a new Support Programme for Ukraine with $2 million in initial U.S. funding, to address some of the immediate challenges to civilians posed by Russia’s war and to support the long-term democratic and social resilience of Ukrainian institutions and civil society organizations.</p>
-<p><b>Political-Military Dimension</b></p>
-<ul>
-<li>Although Russia’s war of aggression against Ukraine has put a tremendous strain on international arms control regimes, the United States continues to work with like-minded participating States to maintain the existing arms control arrangements and works to promote regional confidence building measures in areas like cyber, countering terrorism, and countering violent extremism.</li>
-<li>The OSCE’s work to combat other transnational security threats continues to be critical in the context of Russia&#8217;s war.  The OSCE presence in the Western Balkans, Moldova, and Central Asia &#8212; including field missions, the Border Management Staff College in Dushanbe, the OSCE Academy in Bishkek, and various extra-budgetary projects &#8212; strengthens countries’ internal capacities while also providing a platform for cooperation.</li>
-</ul>
-<p><b>Economic and Environmental Dimension</b></p>
-<ul>
-<li>The OSCE’s Second Dimension encompasses economic and environmental issues as an integral element of comprehensive security.  The United States supports the OSCE’s work to combat corruption and promote good governance, energy security, and environmental protection, expand consideration of climate-related security risks, and promote women’s economic empowerment.</li>
-<li>The United States supports projects under the Office of the Coordinator of OSCE Economic and Environmental Activities (OCEEA) to build the capacity of participating States to identify climate-security hotspots, combat corruption, and protect energy networks from natural and man-made disasters.  In many cases, environmental and economic projects incorporate support for reconciliation and cross-border cooperation.</li>
-</ul>
-<p><b>Human Dimension</b></p>
-<ul>
-<li>Since its inception, the OSCE has played a pivotal role in holding states accountable for their human rights commitments and pledges to uphold democratic norms.  Most recently, we have used various OSCE tools to hold Russia to account for war crimes and other abuses of human rights. The United States joined 44 other countries in invoking the “Moscow Mechanism” to document Russia’s war crimes, possible crimes against humanity, and egregious abuses of human rights and to contribute to accountability efforts.  The Office of Democratic Institutions and Human Rights has also been monitoring and documenting abuses committed by Russia in Ukraine, including as part of its so-called “filtration” operations.</li>
-<li>Despite Russia’s obstructionism, the United States supported the Polish Chair’s decision to hold a Warsaw Human Dimension Conference in September 2022.  The conference was attended by over 1100 participants, and provided an opportunity for government officials, international experts, civil society representatives and human rights activists to take stock of how states are implementing their OSCE commitments in the human dimension.  The OSCE is also deeply engaged in regional projects to combat trafficking in persons, particularly among Ukrainian refugees and internally displaced persons, and to support marginalized populations.  The Chair-in-Office’s, three personal representatives on Tolerance and Non- Discrimination, Rabbi Andrew Baker, Dr. Regina Polak, and Ambassador Dr. Ismail Hakki Musa, also help promote tolerance and respect for diversity.</li>
-</ul>
-<p><b>The Parliamentary Assembly, Independent Institutions, and Field Missions</b></p>
-<ul>
-<li>The work of the OSCE is complimented by the work of the OSCE Parliamentary Assembly (OSCE PA).  Comprised of 323 members from across the region, the OSCE PA seeks to advance the region’s comprehensive security including through parliamentary diplomacy, drafting thematic reports, issuing joint declarations, the work of Special Representatives, and observing elections.</li>
-<li>The United States strongly supports the work of the three independent OSCE institutions – the Office for Democratic Institutions and Human Rights (ODIHR), the Representative on Freedom of the Media (RFoM), and the High Commissioner on National Minorities (HCNM). We also support the work of the OSCE Special Representatives who work on fighting corruption, combating trafficking in persons, fostering gender equality, and promoting respect for the human rights of Roma and Sinti.</li>
-</ul>
-<p>Finally, the OSCE’s 13 field missions help host countries put their OSCE commitments into practice and foster local capacities.  These include initiatives to support law enforcement, minority rights, legislative reform, the rule of law and media freedom, promotion of tolerance and non-discrimination, and combat corruption and trafficking-in-persons.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
