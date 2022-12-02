@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 01 Dec 2022 23:36:33 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Dec 2022 00:19:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,171 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>34th Commemoration of World AIDS Day</title>
+		<link>https://www.state.gov/34th-commemoration-of-world-aids-day/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 02 Dec 2022 00:19:48 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=400513</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>World AIDS Day reminds us that HIV/AIDS continues to pose a threat to global health and global health security. With 650,000 people having lost their lives to AIDS-related illnesses last year, the United States government remains committed to working with our global partners to end the HIV/AIDS pandemic.</p>
+<p>The data released today by the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR) indicates that we are making steady progress to address the gaps that continue to put people at risk, particularly the most vulnerable populations. Over the nearly 20 years since the program began, PEPFAR has saved 25 million lives. PEPFAR&#8217;s success is the result of close to two decades of bipartisan support across presidential administrations and from the U.S. Congress. That unwavering support is evidenced by the more than $100 billion investment in the global fight to end HIV/AIDS through PEPFAR. We will continue our commitment to sustained support of these efforts to help reach the goal of ending AIDS by 2030.</p>
+<p>PEPFAR also relies on partnership. Since inception, the program has built global partnerships with multilateral and public-private organizations, communities, governments and the private sector. Together, we have taken the bold action required to protect and advance global HIV/AIDS gains and we will continue our focus on these targeted efforts in the midst of the needs to address other health crises around the world. Since 2020, our effort has included supporting COVID-19 responses in PEPFAR countries by leveraging the robust public health and clinical platforms established by PEPFAR.</p>
+<p>This year’s theme for World AIDS Day is “Putting Ourselves to the Test: Achieving Equity to End HIV.” It emphasizes accountability and action and affirms the Administration’s dedication to ending HIV/AIDS, domestically and abroad, through an approach that centers on fighting inequities, advancing equality, and rallying the world to end HIV as a global health threat by 2030.</p>
+<p>As we approach the 20<sup>th</sup> anniversary of PEPFAR, guided by the PEPFAR five-year strategy released today, the United States government will continue to support the global HIV/AIDS response with great determination and in close collaboration with our partners, who share our commitment to saving lives and ending this pandemic.</p>
+<p><input type="hidden" data-filter="100000000000" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>World AIDS Day reminds us that HIV/AIDS continues to pose a threat to global health and global health security. With 650,000 people having lost their lives to AIDS-related illnesses last year, the United States government remains committed to working with our global partners to end the HIV/AIDS pandemic.</p>
+<p>The data released today by the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR) indicates that we are making steady progress to address the gaps that continue to put people at risk, particularly the most vulnerable populations. Over the nearly 20 years since the program began, PEPFAR has saved 25 million lives. PEPFAR&#8217;s success is the result of close to two decades of bipartisan support across presidential administrations and from the U.S. Congress. That unwavering support is evidenced by the more than $100 billion investment in the global fight to end HIV/AIDS through PEPFAR. We will continue our commitment to sustained support of these efforts to help reach the goal of ending AIDS by 2030.</p>
+<p>PEPFAR also relies on partnership. Since inception, the program has built global partnerships with multilateral and public-private organizations, communities, governments and the private sector. Together, we have taken the bold action required to protect and advance global HIV/AIDS gains and we will continue our focus on these targeted efforts in the midst of the needs to address other health crises around the world. Since 2020, our effort has included supporting COVID-19 responses in PEPFAR countries by leveraging the robust public health and clinical platforms established by PEPFAR.</p>
+<p>This year’s theme for World AIDS Day is “Putting Ourselves to the Test: Achieving Equity to End HIV.” It emphasizes accountability and action and affirms the Administration’s dedication to ending HIV/AIDS, domestically and abroad, through an approach that centers on fighting inequities, advancing equality, and rallying the world to end HIV as a global health threat by 2030.</p>
+<p>As we approach the 20<sup>th</sup> anniversary of PEPFAR, guided by the PEPFAR five-year strategy released today, the United States government will continue to support the global HIV/AIDS response with great determination and in close collaboration with our partners, who share our commitment to saving lives and ending this pandemic.</p>
+<p><input type="hidden" data-filter="100000000000" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Assistant Secretary Medina’s Travel to Boston</title>
 		<link>https://www.state.gov/assistant-secretary-medinas-travel-to-boston/</link>
 		
@@ -1619,165 +1784,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		</script>
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>Special Envoy for Global Food Security Cary Fowler will travel to Oslo, Norway December 1-6. While in Norway, Special Envoy Fowler will deliver keynote remarks at a food security event at the Norwegian University of Life Sciences. His remarks will highlight the global food security challenges we face with a focus on the importance of crop resilience and climate adaptation in the face of the climate crisis. The Special Envoy will also discuss the role universities can play in addressing these challenges. Special Envoy Fowler will also meet with Norwegian Minister of International Development Anne Beathe Tvinnereim and Minister of Climate &amp; Environment Espen Barth Eide to discuss food security cooperation, agricultural climate resilience, and the impact of conflict on food security.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Laos National Day</title>
-		<link>https://www.state.gov/laos-national-day-2/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Thu, 01 Dec 2022 14:17:03 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=400214</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>On behalf of the people and Government of the United States of America, I extend my warmest regards to the people of Laos on the occasion of the 47th anniversary of the founding of the Lao People’s Democratic Republic.</p>
-<p>The United States is proud of our strong people-to-people ties with Laos and our ongoing work to support Laos’s development goals in public health, education, agriculture, and economic growth. The vibrant Lao-American community in the United States continues to contribute to these efforts.</p>
-<p>I look forward to expanding cooperation under the U.S.-Lao PDR Comprehensive Partnership and deepening our collaboration to build a lasting peaceful, prosperous, and secure Indo-Pacific region.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>On behalf of the people and Government of the United States of America, I extend my warmest regards to the people of Laos on the occasion of the 47th anniversary of the founding of the Lao People’s Democratic Republic.</p>
-<p>The United States is proud of our strong people-to-people ties with Laos and our ongoing work to support Laos’s development goals in public health, education, agriculture, and economic growth. The vibrant Lao-American community in the United States continues to contribute to these efforts.</p>
-<p>I look forward to expanding cooperation under the U.S.-Lao PDR Comprehensive Partnership and deepening our collaboration to build a lasting peaceful, prosperous, and secure Indo-Pacific region.</p>
 ]]></content:encoded>
 					
 		
