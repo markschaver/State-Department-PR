@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 02 Dec 2022 17:28:23 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Dec 2022 17:48:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Religious Freedom Designations</title>
+		<link>https://www.state.gov/religious-freedom-designations-2/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 02 Dec 2022 17:48:08 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=400754</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>Around the world, governments and non-state actors harass, threaten, jail, and even kill individuals on account of their beliefs.  In some instances, they stifle individuals’ freedom of religion or belief to exploit opportunities for political gain.  These actions sow division, undermine economic security, and threaten political stability and peace.  The United States will not stand by in the face of these abuses.</p>
+<p>Today, I am announcing designations against Burma, the People’s Republic of China, Cuba, Eritrea, Iran, Nicaragua, the DPRK, Pakistan, Russia, Saudi Arabia, Tajikistan, and Turkmenistan as Countries of Particular Concern under the International Religious Freedom Act of 1998 for having engaged in or tolerated particularly severe violations of religious freedom.  I am also placing Algeria, the Central African Republic, Comoros, and Vietnam on the Special Watch List for engaging in or tolerating severe violations of religious freedom.  Finally, I am designating al-Shabab, Boko Haram, Hayat Tahrir al-Sham, the Houthis, ISIS-Greater Sahara, ISIS-West Africa, Jama’at Nusrat al-Islam wal-Muslimin, the Taliban, and the Wagner Group based on its actions in the Central African Republic as Entities of Particular Concern.</p>
+<p>Our announcement of these designations is in keeping with our values and interests to protect national security and to advance human rights around the globe.  Countries that effectively safeguard this and other human rights are more peaceful, stable, prosperous and more reliable partners of the United States than those that do not.</p>
+<p>We will continue to carefully monitor the status of freedom of religion or belief in every country around the world and advocate for those facing religious persecution or discrimination.  We will also regularly engage countries about our concerns regarding limitations on freedom of religion or belief, regardless of whether those countries have been designated.  We welcome the opportunity to meet with all governments to address laws and practices that do not meet international standards and commitments, and to outline concrete steps in a pathway to removal from these lists.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>Around the world, governments and non-state actors harass, threaten, jail, and even kill individuals on account of their beliefs.  In some instances, they stifle individuals’ freedom of religion or belief to exploit opportunities for political gain.  These actions sow division, undermine economic security, and threaten political stability and peace.  The United States will not stand by in the face of these abuses.</p>
+<p>Today, I am announcing designations against Burma, the People’s Republic of China, Cuba, Eritrea, Iran, Nicaragua, the DPRK, Pakistan, Russia, Saudi Arabia, Tajikistan, and Turkmenistan as Countries of Particular Concern under the International Religious Freedom Act of 1998 for having engaged in or tolerated particularly severe violations of religious freedom.  I am also placing Algeria, the Central African Republic, Comoros, and Vietnam on the Special Watch List for engaging in or tolerating severe violations of religious freedom.  Finally, I am designating al-Shabab, Boko Haram, Hayat Tahrir al-Sham, the Houthis, ISIS-Greater Sahara, ISIS-West Africa, Jama’at Nusrat al-Islam wal-Muslimin, the Taliban, and the Wagner Group based on its actions in the Central African Republic as Entities of Particular Concern.</p>
+<p>Our announcement of these designations is in keeping with our values and interests to protect national security and to advance human rights around the globe.  Countries that effectively safeguard this and other human rights are more peaceful, stable, prosperous and more reliable partners of the United States than those that do not.</p>
+<p>We will continue to carefully monitor the status of freedom of religion or belief in every country around the world and advocate for those facing religious persecution or discrimination.  We will also regularly engage countries about our concerns regarding limitations on freedom of religion or belief, regardless of whether those countries have been designated.  We welcome the opportunity to meet with all governments to address laws and practices that do not meet international standards and commitments, and to outline concrete steps in a pathway to removal from these lists.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Antony J. Blinken with Thomas Sotto of France 2</title>
 		<link>https://www.state.gov/secretary-antony-j-blinken-with-thomas-sotto-of-france-2/</link>
 		
@@ -1783,173 +1946,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Today’s actions are pursuant to Executive Order 13224, as amended, which targets terrorists, terrorist organizations, leaders and officials of terrorist groups, and those providing support to terrorists or acts of terrorism.</p>
 <p>Hizballah remains a terrorist organization that undermines Lebanon’s stability and security, as well as regional stability, even as the Lebanese people suffer through a dire financial crisis.  For more information on this action, please see the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMDEuNjc1MzEzNjEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTM1In0.u0aYHsPQftUdytK96YuZyP_alndnTCcksXIRFA_iXl8/s/1436012980/br/149388209038-l. Click or tap if you trust this link." href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMDEuNjc1MzEzNjEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTM1In0.u0aYHsPQftUdytK96YuZyP_alndnTCcksXIRFA_iXl8%2Fs%2F1436012980%2Fbr%2F149388209038-l&amp;data=05%7C01%7CSimmonsJX%40state.gov%7Ccd13f31e103e4f6b239808dad3db2adb%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638055235523264309%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=2ltnsmPfoy7c%2Fo7W2Qz5YOrJ%2BULKPd8vfWYHw1SQ1Hk%3D&amp;reserved=0" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">press release</a>.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Blinken to Deliver Remarks at the Business Council for International Understanding (BCIU) World AIDS Day Commemoration</title>
-		<link>https://www.state.gov/secretary-blinken-to-deliver-remarks-at-the-business-council-for-international-understanding-bciu-world-aids-day-commemoration/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Thu, 01 Dec 2022 20:47:54 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=400395</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p class="x_s4">Secretary of State Antony J. Blinken will deliver remarks at the BCIU World AIDS Day Commemoration on Friday, December 2 at 9:30 a.m. EST in Washington, DC.</p>
-<p class="x_s4">The Secretary’s remarks will be covered by a press pool and live-streamed on <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMDEuNjc1MjQ4OTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YifQ.bEvYyITE4fVMngbhIRAesVGDmDheiOiO71Ovvp5Ecb8/s/2576317770/br/149380910668-l. Click or tap if you trust this link." href="https://www.state.gov/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">www.state.gov </a>and <a class="external-link" href="https://www.youtube.com/statedept" target="_BLANK" rel="noopener"><span class="external-link-title">https://www.youtube.com/statedept</span><span class="icon-external"> </span></a>.</p>
-<p class="x_s4">For nearly two decades, the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR) has helped more than 50 countries around the world fight the AIDS epidemic all while improving the health and well-being of millions of people. HIV/AIDS is still a serious threat to people’s livelihood, global health security, and economic development. At the BCIU World AIDS Day Commemoration, the Secretary will celebrate the progress that has been made through PEPFAR, celebrate the contributions of its leaders, and mark the launch of a new PEPFAR Strategy: Fulfilling America’s Promise to End the HIV/AIDS Pandemic by 2030.</p>
-<p class="x_s4">Every year, World AIDS Day is marked across the globe on December 1.  The United States government’s theme for World AIDS Day 2022 is “Putting Ourselves to the Test: Achieving Equity to End HIV,” which reflects the United States’ continued bipartisan commitment to ending the HIV/AIDS pandemic both globally and in the United States.</p>
-<p class="x_s4">For more information about PEPFAR, visit  <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMDEuNjc1MjQ4OTEiLCJ1cmwiOiJodHRwOi8vd3d3LnN0YXRlLmdvdi9wZXBmYXIifQ.u-iC361Z3q2EY5OjREg21qoIVUU3LCQyreim6AKg24k/s/2576317770/br/149380910668-l. Click or tap if you trust this link." href="https://www.state.gov/pepfar/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="2">www.state.gov/pepfar.</a></p>
-<p class="x_s4">Please submit any media inquiries via the web form located on the ‘<a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDMsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMDEuNjc1MjQ4OTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvaW5mb3JtYXRpb24tZm9yLWpvdXJuYWxpc3RzIn0.ogtli1xgkAqsv8OcEmakjEEACk_f44px8TJK-tgg97A/s/2576317770/br/149380910668-l. Click or tap if you trust this link." href="https://www.state.gov/information-for-journalists" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="3">Information for Journalists</a>’ page on <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDQsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMDEuNjc1MjQ4OTEiLCJ1cmwiOiJodHRwOi8vd3d3LnN0YXRlLmdvdiJ9.AOmVpHiMJ3KgRzO03Etyj_50g9OvBC2YHw9h3DAIDoE/s/2576317770/br/149380910668-l. Click or tap if you trust this link." href="https://www.state.gov/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="4">www.state.gov</a>.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p class="x_s4">Secretary of State Antony J. Blinken will deliver remarks at the BCIU World AIDS Day Commemoration on Friday, December 2 at 9:30 a.m. EST in Washington, DC.</p>
-<p class="x_s4">The Secretary’s remarks will be covered by a press pool and live-streamed on <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMDEuNjc1MjQ4OTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YifQ.bEvYyITE4fVMngbhIRAesVGDmDheiOiO71Ovvp5Ecb8/s/2576317770/br/149380910668-l. Click or tap if you trust this link." href="https://www.state.gov/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">www.state.gov </a>and <a class="external-link" href="https://www.youtube.com/statedept" target="_BLANK" rel="noopener"><span class="external-link-title">https://www.youtube.com/statedept</span><span class="icon-external"> </span></a>.</p>
-<p class="x_s4">For nearly two decades, the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR) has helped more than 50 countries around the world fight the AIDS epidemic all while improving the health and well-being of millions of people. HIV/AIDS is still a serious threat to people’s livelihood, global health security, and economic development. At the BCIU World AIDS Day Commemoration, the Secretary will celebrate the progress that has been made through PEPFAR, celebrate the contributions of its leaders, and mark the launch of a new PEPFAR Strategy: Fulfilling America’s Promise to End the HIV/AIDS Pandemic by 2030.</p>
-<p class="x_s4">Every year, World AIDS Day is marked across the globe on December 1.  The United States government’s theme for World AIDS Day 2022 is “Putting Ourselves to the Test: Achieving Equity to End HIV,” which reflects the United States’ continued bipartisan commitment to ending the HIV/AIDS pandemic both globally and in the United States.</p>
-<p class="x_s4">For more information about PEPFAR, visit  <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMDEuNjc1MjQ4OTEiLCJ1cmwiOiJodHRwOi8vd3d3LnN0YXRlLmdvdi9wZXBmYXIifQ.u-iC361Z3q2EY5OjREg21qoIVUU3LCQyreim6AKg24k/s/2576317770/br/149380910668-l. Click or tap if you trust this link." href="https://www.state.gov/pepfar/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="2">www.state.gov/pepfar.</a></p>
-<p class="x_s4">Please submit any media inquiries via the web form located on the ‘<a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDMsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMDEuNjc1MjQ4OTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvaW5mb3JtYXRpb24tZm9yLWpvdXJuYWxpc3RzIn0.ogtli1xgkAqsv8OcEmakjEEACk_f44px8TJK-tgg97A/s/2576317770/br/149380910668-l. Click or tap if you trust this link." href="https://www.state.gov/information-for-journalists" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="3">Information for Journalists</a>’ page on <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDQsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMDEuNjc1MjQ4OTEiLCJ1cmwiOiJodHRwOi8vd3d3LnN0YXRlLmdvdiJ9.AOmVpHiMJ3KgRzO03Etyj_50g9OvBC2YHw9h3DAIDoE/s/2576317770/br/149380910668-l. Click or tap if you trust this link." href="https://www.state.gov/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="4">www.state.gov</a>.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
 ]]></content:encoded>
 					
 		
