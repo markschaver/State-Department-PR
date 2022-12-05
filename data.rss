@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Mon, 05 Dec 2022 17:38:30 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Dec 2022 19:05:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,173 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Antony J. Blinken At a Stakeholders Roundtable</title>
+		<link>https://www.state.gov/secretary-antony-j-blinken-at-a-stakeholders-roundtable/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Mon, 05 Dec 2022 19:05:41 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=401242</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>College Park, MD</p>
+<p>Third U.S.-EU Trade and Technology Council</p>
+<p><b>SECRETARY BLINKEN:</b>  Gina, thanks very much.  Margrethe, Valdis, so wonderful to have you here with the three of us, with Katherine, with Gina.  And I’ll add very little because we’re most anxious to get into this conversation and to hear from all of you.</p>
+<p>But as Gina said, the events of the past couple of years especially have, I think, emphasized to all of us the critical importance of having resilient supply chains.  And we’re seeing this play out in our respective economies, among our respective companies, and among our workers, and virtually all of our – all of our citizens.</p>
+<p>These resilient supply chains are critical to tackling virtually every global challenge we face.  We’ve made, I think, real progress in the TTC in strengthening our cooperation, for example, in semiconductor supply chains, establishing an early warning system on semiconductor bottlenecks, promoting transparency in our incentive programs.  These kinds of arrangements are going to help us secure more diverse and resilient supply chains for semiconductors for both of our industries going forward.  And that in and of itself is important progress.</p>
+<p>But, having said that, we still have a long way to go and we very much welcome this opportunity to hear from all of our stakeholders on the challenges that they’re facing, that we’re facing, and the priorities that we should set as we’re looking forward to building ever more resilient supply chains.</p>
+<p>So let me – let me stop with that.  Let me simply say, though, to President Pines of the University of Maryland, thank you so much for having us here today.  We’re grateful.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>College Park, MD</p>
+<p>Third U.S.-EU Trade and Technology Council</p>
+<p><b>SECRETARY BLINKEN:</b>  Gina, thanks very much.  Margrethe, Valdis, so wonderful to have you here with the three of us, with Katherine, with Gina.  And I’ll add very little because we’re most anxious to get into this conversation and to hear from all of you.</p>
+<p>But as Gina said, the events of the past couple of years especially have, I think, emphasized to all of us the critical importance of having resilient supply chains.  And we’re seeing this play out in our respective economies, among our respective companies, and among our workers, and virtually all of our – all of our citizens.</p>
+<p>These resilient supply chains are critical to tackling virtually every global challenge we face.  We’ve made, I think, real progress in the TTC in strengthening our cooperation, for example, in semiconductor supply chains, establishing an early warning system on semiconductor bottlenecks, promoting transparency in our incentive programs.  These kinds of arrangements are going to help us secure more diverse and resilient supply chains for semiconductors for both of our industries going forward.  And that in and of itself is important progress.</p>
+<p>But, having said that, we still have a long way to go and we very much welcome this opportunity to hear from all of our stakeholders on the challenges that they’re facing, that we’re facing, and the priorities that we should set as we’re looking forward to building ever more resilient supply chains.</p>
+<p>So let me – let me stop with that.  Let me simply say, though, to President Pines of the University of Maryland, thank you so much for having us here today.  We’re grateful.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Special Envoy for Afghan Women, Girls, and Human Rights Amiri’s Travel to Indonesia, Switzerland, and Turkey</title>
 		<link>https://www.state.gov/special-envoy-for-afghan-women-girls-and-human-rights-amiris-travel-to-indonesia-switzerland-and-turkey/</link>
 		
@@ -1627,183 +1794,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The below is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken met today with Sri Lankan Foreign Minister Ali Sabry.  The Secretary congratulated Foreign Minister Sabry on the approaching 75th anniversary of Sri Lanka’s independence. The two discussed the United States’ support for Sri Lanka during its economic crisis, including nearly $240 million in new U.S. government assistance, and the importance of comparable treatment for all creditors as critical to debt restructuring and securing an IMF program.</p>
 <p>Secretary Blinken urged the Government of Sri Lanka to continue its ongoing efforts toward economic and political reforms focused on transparency, inclusion, and good governance.  The Secretary also welcomed Sri Lanka’s agreement to join the Global Methane Pledge.  Both sides affirmed their common interest in tackling the climate crisis by accelerating the reduction of greenhouse gas emissions, transitioning to clean energy, and strengthening resilience to climate impacts.  In addition, the leaders discussed the two countries’ shared commitment to advance democratic principles, including respect for human rights.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken And Sri Lankan Foreign Minister Ali Sabry Before Their Meeting</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-and-sri-lankan-foreign-minister-ali-sabry-before-their-meeting-2/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Sat, 03 Dec 2022 00:15:44 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=400929</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, D.C.</p>
-<p>Treaty Room</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Good afternoon, everyone.  I’m very pleased to have Foreign Minister Sabry here.  We had a chance to meet on the margins of the ASEAN &#8212;</p>
-<p><strong>FOREIGN MINISTER SABRY:</strong>  Yes.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  &#8212; meetings, so second time we’re able to get together in person.  We’ve had almost 75 years of partnership with Sri Lanka.  We’ll celebrate that next year, and of course we are working very closely together on issues of global import, including the climate crisis, where Sri Lanka has been taking some important steps to help the world address it.  And of course the United States has been working closely with Sri Lanka in the midst of the serious economic challenges that Sri Lanka is facing.  We provided some $240 million in assistance and loans, and we’re also working together both to support economic stability but also political stability and progress.</p>
-<p>So I’m looking forward to continuing our discussions here today.  Welcome.  It’s really good to have you here.</p>
-<p><strong>FOREIGN MINISTER SABRY:</strong>  Thank you very much, Secretary Blinken, for inviting me, and it’s a pleasure being here.  Sri Lanka and the U.S. have been long-term partners – 75 years of diplomatic relationship that – almost the period of independence.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Yeah.</p>
-<p><strong>FOREIGN MINISTER SABRY:</strong>  So one of the first countries to recognize us.  We were very happy.  And then we have had a very good relationship.  I must take this opportunity, Secretary, to pay my gratitude for American people and your administration, Biden administration, for a lot of support during a very testing time for Sri Lankans.  So we are grateful particularly for your humanitarian support – loans, grants – and technical support.  We are extremely grateful, and we are looking forward to work for even better relationship and particularly in the Indian Ocean and eastern Pacific.  And I must make this opportunity to also thank you and the Treasury for playing a leading role in allowing us and facilitating us to approach the IMF, restructure our debt, and to go to the board sooner than later in order to get our EFF as soon as possible.</p>
-<p>Thank you very much, my friend.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.  Come on in.  Thanks, everyone.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, D.C.</p>
-<p>Treaty Room</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Good afternoon, everyone.  I’m very pleased to have Foreign Minister Sabry here.  We had a chance to meet on the margins of the ASEAN &#8212;</p>
-<p><strong>FOREIGN MINISTER SABRY:</strong>  Yes.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  &#8212; meetings, so second time we’re able to get together in person.  We’ve had almost 75 years of partnership with Sri Lanka.  We’ll celebrate that next year, and of course we are working very closely together on issues of global import, including the climate crisis, where Sri Lanka has been taking some important steps to help the world address it.  And of course the United States has been working closely with Sri Lanka in the midst of the serious economic challenges that Sri Lanka is facing.  We provided some $240 million in assistance and loans, and we’re also working together both to support economic stability but also political stability and progress.</p>
-<p>So I’m looking forward to continuing our discussions here today.  Welcome.  It’s really good to have you here.</p>
-<p><strong>FOREIGN MINISTER SABRY:</strong>  Thank you very much, Secretary Blinken, for inviting me, and it’s a pleasure being here.  Sri Lanka and the U.S. have been long-term partners – 75 years of diplomatic relationship that – almost the period of independence.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Yeah.</p>
-<p><strong>FOREIGN MINISTER SABRY:</strong>  So one of the first countries to recognize us.  We were very happy.  And then we have had a very good relationship.  I must take this opportunity, Secretary, to pay my gratitude for American people and your administration, Biden administration, for a lot of support during a very testing time for Sri Lankans.  So we are grateful particularly for your humanitarian support – loans, grants – and technical support.  We are extremely grateful, and we are looking forward to work for even better relationship and particularly in the Indian Ocean and eastern Pacific.  And I must make this opportunity to also thank you and the Treasury for playing a leading role in allowing us and facilitating us to approach the IMF, restructure our debt, and to go to the board sooner than later in order to get our EFF as soon as possible.</p>
-<p>Thank you very much, my friend.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.  Come on in.  Thanks, everyone.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
