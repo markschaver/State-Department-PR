@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 09 Dec 2022 18:58:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 Dec 2022 19:03:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The United States Imposes Sanctions on Russian Entities Involved in UAV Deal With Iran</title>
+		<link>https://www.state.gov/the-united-states-imposes-sanctions-on-russian-entities-involved-in-uav-deal-with-iran/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 09 Dec 2022 19:03:42 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=402577</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p align="left">Today, we are imposing sanctions on three Russian entities connected to Moscow’s growing military relationship with Tehran – a relationship that includes the transfer of unmanned aerial vehicles (UAV) from Iran. The Kremlin is deploying these UAVs against Ukraine, including in large-scale attacks on civilian infrastructure.</p>
+<p align="left">The Department of State is designating the Russian Aerospace Forces (VKS), 924th State Center for Unmanned Aviation, and the Command of the Military Transport Aviation (VTA) pursuant to Section 1(a)(i) of Executive Order 14024 for operating or having operated in the defense and related materiel sector of the Russian Federation’s economy.  VKS was the intended beneficiary of the Russia-Iran agreement on transferring UAVs; the 924th State Center for Unmanned Aviation sent personnel to Iran for training on operating Iranian UAVs; and VTA was involved in the transfer of UAVs from Iran to Russia.</p>
+<p align="left">Russia’s acquisition and Iran’s provision of these certain UAVs are in violation of UN Security Council Resolution 2231 and further fuels the conflict in Ukraine.  The United States will continue to use every tool at our disposal to disrupt these transfers and impose consequences on those engaged in this activity.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p align="left">Today, we are imposing sanctions on three Russian entities connected to Moscow’s growing military relationship with Tehran – a relationship that includes the transfer of unmanned aerial vehicles (UAV) from Iran. The Kremlin is deploying these UAVs against Ukraine, including in large-scale attacks on civilian infrastructure.</p>
+<p align="left">The Department of State is designating the Russian Aerospace Forces (VKS), 924th State Center for Unmanned Aviation, and the Command of the Military Transport Aviation (VTA) pursuant to Section 1(a)(i) of Executive Order 14024 for operating or having operated in the defense and related materiel sector of the Russian Federation’s economy.  VKS was the intended beneficiary of the Russia-Iran agreement on transferring UAVs; the 924th State Center for Unmanned Aviation sent personnel to Iran for training on operating Iranian UAVs; and VTA was involved in the transfer of UAVs from Iran to Russia.</p>
+<p align="left">Russia’s acquisition and Iran’s provision of these certain UAVs are in violation of UN Security Council Resolution 2231 and further fuels the conflict in Ukraine.  The United States will continue to use every tool at our disposal to disrupt these transfers and impose consequences on those engaged in this activity.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Blinken’s Meeting with Polish Foreign Minister Rau</title>
 		<link>https://www.state.gov/secretary-blinkens-meeting-with-polish-foreign-minister-rau-2/</link>
 		
@@ -1908,167 +2069,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p align="left">Today, we have taken coordinated sanctions actions against Iranian officials connected to human rights abuses, including those committed as part of the ongoing brutal crackdown aimed at denying the Iranian people their human rights and fundamental freedoms.  Our sanctions come as Iran’s leadership continues to perpetrate violence against its people without relent.  Security forces reportedly have killed hundreds of peaceful protestors, including dozens of children, and have arbitrarily detained thousands of Iranians in their effort to silence the people of Iran.  We are gravely alarmed by recent reports that Iranian authorities are using sexual violence as a heinous means of protest suppression.  Iranian courts have also now begun issuing harsh sentences to advocates and protestors ranging from lengthy prison sentences to the death penalty.</p>
 <p align="left">We are united in our support for the brave people of Iran.  Together, we remain committed to finding more ways to impose costs on the perpetrators of human rights abuses against Iranians.  Everyone in Iran should have the right to freedoms of expression and peaceful assembly, and the Iranian regime must end its use of violence against its own people simply for exercising those rights.</p>
 <p align="left"><i>End text.</i></p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>A Day of Remembrance and Call to Action</title>
-		<link>https://www.state.gov/a-day-of-remembrance-and-call-to-action/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 09 Dec 2022 16:05:03 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=402489</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p align="left">On the International Day of Commemoration and Dignity of Victims of the Crime of Genocide and the Prevention of this Crime, the world must pause not only to remember the lives lost to and torn apart by genocide, but also to recognize those that remain threatened by it.  This day of reflection and remembrance provides a reminder to recommit ourselves to the prevention of and response to genocide and other atrocity crimes, and to the noble struggle to seek accountability for those responsible.</p>
-<p align="left">Genocide is heinous; it brutalizes, terrorizes, and dehumanizes communities.  It is our duty to speak up, raise awareness, and take purposeful steps forward in demanding justice.  We must value and lift up the stories of victims and survivors as we address genocide and other atrocity crimes.  The voices and legacies of those subjected to genocide will guide us in ensuring that these efforts are victim-centered and trauma-informed.</p>
-<p align="left">The threat of genocide persists, while scars of genocide linger across the globe.  As we mark this day, we denounce the hatred, hostility, and discrimination that fuels genocide, and reaffirm our commitment to seek justice and accountability for those who would commit it.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p align="left">On the International Day of Commemoration and Dignity of Victims of the Crime of Genocide and the Prevention of this Crime, the world must pause not only to remember the lives lost to and torn apart by genocide, but also to recognize those that remain threatened by it.  This day of reflection and remembrance provides a reminder to recommit ourselves to the prevention of and response to genocide and other atrocity crimes, and to the noble struggle to seek accountability for those responsible.</p>
-<p align="left">Genocide is heinous; it brutalizes, terrorizes, and dehumanizes communities.  It is our duty to speak up, raise awareness, and take purposeful steps forward in demanding justice.  We must value and lift up the stories of victims and survivors as we address genocide and other atrocity crimes.  The voices and legacies of those subjected to genocide will guide us in ensuring that these efforts are victim-centered and trauma-informed.</p>
-<p align="left">The threat of genocide persists, while scars of genocide linger across the globe.  As we mark this day, we denounce the hatred, hostility, and discrimination that fuels genocide, and reaffirm our commitment to seek justice and accountability for those who would commit it.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
