@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Tue, 13 Dec 2022 17:50:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Dec 2022 18:15:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Plans for a Bureau of Global Health Security and Diplomacy</title>
+		<link>https://www.state.gov/plans-for-a-bureau-of-global-health-security-and-diplomacy/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Tue, 13 Dec 2022 18:15:18 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=403675</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>Health threats such as COVID-19, Ebola, HIV/AIDS, and many others continue to demonstrate that health security is national security. A virus can spread quickly across borders and around the globe, endangering lives, disrupting how countries and communities function every day, and impacting our safety, security, and stability – here at home and in every part of the world. Recognizing the scope and potential scale of these challenges, after careful review, I notified Congress today of my intention to establish the Bureau of Global Health Security and Diplomacy to ensure the Department is well-organized to strengthen global health security and to address the growing national security challenges presented by global health crises. I intend to ask our current U.S. Global AIDS Coordinator, renowned public health leader Ambassador Dr. John Nkengasong, to be the first head of the new bureau.</p>
+<p>Specifically, the establishment of the new Bureau would bring together the Office of International Health and Biodefense in the Bureau of Oceans and International Environmental and Scientific Affairs (OES/IHB) and the functions of the Coordinator for Global COVID-19 Response and Health Security (S/CRHS) with the Office of the U.S. Global AIDS Coordinator (S/GAC), which leads and coordinates the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR) and is home to the Office of Global Health Diplomacy. These teams, along with critical partners throughout the government, are already leading our international global health security efforts, and their indispensable functions will continue. This new structure would allow our health security experts and diplomats to work more effectively together to prevent, detect, and respond to existing and future health threats.</p>
+<p>I look forward to working with Congress on our plans for establishing the Department’s Bureau of Global Health Security and Diplomacy.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>Health threats such as COVID-19, Ebola, HIV/AIDS, and many others continue to demonstrate that health security is national security. A virus can spread quickly across borders and around the globe, endangering lives, disrupting how countries and communities function every day, and impacting our safety, security, and stability – here at home and in every part of the world. Recognizing the scope and potential scale of these challenges, after careful review, I notified Congress today of my intention to establish the Bureau of Global Health Security and Diplomacy to ensure the Department is well-organized to strengthen global health security and to address the growing national security challenges presented by global health crises. I intend to ask our current U.S. Global AIDS Coordinator, renowned public health leader Ambassador Dr. John Nkengasong, to be the first head of the new bureau.</p>
+<p>Specifically, the establishment of the new Bureau would bring together the Office of International Health and Biodefense in the Bureau of Oceans and International Environmental and Scientific Affairs (OES/IHB) and the functions of the Coordinator for Global COVID-19 Response and Health Security (S/CRHS) with the Office of the U.S. Global AIDS Coordinator (S/GAC), which leads and coordinates the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR) and is home to the Office of Global Health Diplomacy. These teams, along with critical partners throughout the government, are already leading our international global health security efforts, and their indispensable functions will continue. This new structure would allow our health security experts and diplomats to work more effectively together to prevent, detect, and respond to existing and future health threats.</p>
+<p>I look forward to working with Congress on our plans for establishing the Department’s Bureau of Global Health Security and Diplomacy.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Nigeria and Rwanda: First African Nations Sign the Artemis Accords</title>
 		<link>https://www.state.gov/nigeria-and-rwanda-first-african-nations-sign-the-artemis-accords/</link>
 		
@@ -2051,171 +2212,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The Tent Partnership for Refugees, founded by Chobani CEO Hamdi Ulukaya, is a business coalition made up of more than 300 multinational companies committed to supporting refugees through hiring, training, and mentorship.</p>
 <p>Secretary Blinken signed a memorandum of understanding with Tent Partnership for Refugees today. This partnership seeks to mobilize U.S. and international businesses and corporations to connect refugees to work opportunities – a critical pathway to the long-term economic and social resilience of both refugees themselves and the communities which host them.</p>
 <p>For further information, please contact prmpressrequest@state.gov. To find out more about Tent, please contact info@tent.org.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Updates to the Zimbabwean Sanctions Program</title>
-		<link>https://www.state.gov/updates-to-the-zimbabwean-sanctions-program/</link>
-		
-		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
-		<pubDate>Mon, 12 Dec 2022 20:34:57 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=403196</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Ned Price, Department Spokesperson</p>
-<p>Today, the United States is removing 17 individuals from the Specially Designated Nationals and Blocked Persons (SDN) List.  We are also designating four Zimbabwean individuals and two entities.  The Zimbabwe sanctions program targets human rights abusers and those who undermine democratic processes or facilitate corruption.  The 17 individuals being removed today were found no longer to undermine Zimbabwe’s democratic processes and institutions or to otherwise meet the criteria for designation.</p>
-<p>Sanctions are not intended to be permanent but to incentivize changes in behavior.  Each removal is based on a thorough review and is part of an ongoing effort to keep the sanctions program current, focused, and relevant.  Maintaining the integrity of U.S. sanctions is the driving principle behind a rigorous review process that evaluates every request for removal individually on its merits and applies consistent standards to all of them.</p>
-<p>The U.S. Department of the Treasury’s Office of foreign Assets Control (OFAC) is designating Sandra Mpunga, Nqobile Magwizi, Obey Chimuka, and two entities, Fossil Agro, and Fossil Contracting, pursuant to Executive Order (E.O.) 13469, for their ties to previously designated Kudakwashe Tagwirei and his company, Sakunda Holdings.  Additionally, OFAC is designating Emmerson Mnangagwa, Jr., the Zimbabwean president’s son, pursuant to E.O. 13391.</p>
-<p>Today’s actions demonstrate the United States’ continued commitment to act in support of a transparent and prosperous Zimbabwe.  U.S. sanctions do not target the Zimbabwean people, the country of Zimbabwe, or Zimbabwe’s banking sector.</p>
-<p>We again call on the Zimbabwean government to take meaningful steps towards addressing the root causes of many of Zimbabwe’s ills, including corrupt elite and their abuse of the country’s institutions for their personal gain.  Ahead of the 2023 elections, it is imperative to ensure Zimbabweans have the opportunity to vote elections that are free from violence, repression, and electoral manipulation.</p>
-<p>For more information on today’s action, please see the Department of the Treasury’s <a href="https://home.treasury.gov/news/press-releases/jy1158" target="_blank" rel="noopener">press release</a>.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
-<p>Today, the United States is removing 17 individuals from the Specially Designated Nationals and Blocked Persons (SDN) List.  We are also designating four Zimbabwean individuals and two entities.  The Zimbabwe sanctions program targets human rights abusers and those who undermine democratic processes or facilitate corruption.  The 17 individuals being removed today were found no longer to undermine Zimbabwe’s democratic processes and institutions or to otherwise meet the criteria for designation.</p>
-<p>Sanctions are not intended to be permanent but to incentivize changes in behavior.  Each removal is based on a thorough review and is part of an ongoing effort to keep the sanctions program current, focused, and relevant.  Maintaining the integrity of U.S. sanctions is the driving principle behind a rigorous review process that evaluates every request for removal individually on its merits and applies consistent standards to all of them.</p>
-<p>The U.S. Department of the Treasury’s Office of foreign Assets Control (OFAC) is designating Sandra Mpunga, Nqobile Magwizi, Obey Chimuka, and two entities, Fossil Agro, and Fossil Contracting, pursuant to Executive Order (E.O.) 13469, for their ties to previously designated Kudakwashe Tagwirei and his company, Sakunda Holdings.  Additionally, OFAC is designating Emmerson Mnangagwa, Jr., the Zimbabwean president’s son, pursuant to E.O. 13391.</p>
-<p>Today’s actions demonstrate the United States’ continued commitment to act in support of a transparent and prosperous Zimbabwe.  U.S. sanctions do not target the Zimbabwean people, the country of Zimbabwe, or Zimbabwe’s banking sector.</p>
-<p>We again call on the Zimbabwean government to take meaningful steps towards addressing the root causes of many of Zimbabwe’s ills, including corrupt elite and their abuse of the country’s institutions for their personal gain.  Ahead of the 2023 elections, it is imperative to ensure Zimbabweans have the opportunity to vote elections that are free from violence, repression, and electoral manipulation.</p>
-<p>For more information on today’s action, please see the Department of the Treasury’s <a href="https://home.treasury.gov/news/press-releases/jy1158" target="_blank" rel="noopener">press release</a>.</p>
 ]]></content:encoded>
 					
 		
