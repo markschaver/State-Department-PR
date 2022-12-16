@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 16 Dec 2022 00:31:32 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Dec 2022 00:41:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Judgment in the Appeal of Dominic Ongwen at the International Criminal Court</title>
+		<link>https://www.state.gov/judgment-in-the-appeal-of-dominic-ongwen-at-the-international-criminal-court/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Fri, 16 Dec 2022 00:41:49 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=405306</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p class="x_paragraph">The United States welcomes the International Criminal Court (ICC) judgment affirming the conviction of former Lord’s Resistance Army (LRA) commander Dominic Ongwen for war crimes and crimes against humanity.  The conclusion of Ongwen’s appeal, filed against the February 2021 verdict that sentenced him to a 25-year prison term, confirms his culpability for violence resulting in the horrific and irreversible destruction of thousands of lives and scars upon multiple generations.  This is the ICC’s first appeals judgment related to crimes committed in Uganda.</p>
+<p class="x_paragraph">For the thousands of abducted young women and girls subjected to horrific sexual violence, torture, and forced labor in the Lord’s Resistance Army, and all the victims and survivors of LRA violence and abuse, we hope this judgment demonstrates that justice must and will be done.</p>
+<p class="x_paragraph">The United States played a key role in ensuring the transfer of Dominic Ongwen to the ICC, and we continue to offer a reward of up to $5 million for information leading to the arrest, transfer, or conviction of Joseph Kony, founding leader of the LRA.  Anyone with information about his whereabouts is encouraged to email wcrp@state.gov or send a WhatsApp message to +1-202-975-5468; your identity will remain confidential.</p>
+<p><input type="hidden" data-filter="100000000000" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p class="x_paragraph">The United States welcomes the International Criminal Court (ICC) judgment affirming the conviction of former Lord’s Resistance Army (LRA) commander Dominic Ongwen for war crimes and crimes against humanity.  The conclusion of Ongwen’s appeal, filed against the February 2021 verdict that sentenced him to a 25-year prison term, confirms his culpability for violence resulting in the horrific and irreversible destruction of thousands of lives and scars upon multiple generations.  This is the ICC’s first appeals judgment related to crimes committed in Uganda.</p>
+<p class="x_paragraph">For the thousands of abducted young women and girls subjected to horrific sexual violence, torture, and forced labor in the Lord’s Resistance Army, and all the victims and survivors of LRA violence and abuse, we hope this judgment demonstrates that justice must and will be done.</p>
+<p class="x_paragraph">The United States played a key role in ensuring the transfer of Dominic Ongwen to the ICC, and we continue to offer a reward of up to $5 million for information leading to the arrest, transfer, or conviction of Joseph Kony, founding leader of the LRA.  Anyone with information about his whereabouts is encouraged to email wcrp@state.gov or send a WhatsApp message to +1-202-975-5468; your identity will remain confidential.</p>
+<p><input type="hidden" data-filter="100000000000" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Secretary Antony J. Blinken and Kenyan President Ruto Before Their Meeting</title>
 		<link>https://www.state.gov/secretary-antony-j-blinken-and-kenyan-president-ruto-before-their-meeting/</link>
 		
@@ -1641,175 +1802,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The United States and Kenya have an enduring diplomatic relationship and long-standing cooperation in the fields of security, energy, and commerce.  Our cooperation in nuclear energy, science, and technology also has the potential to make a significant contribution to clean energy goals, agricultural efforts, the availability of clean water, medical treatments, and more.</p>
 <p>NCMOUs are diplomatic mechanisms that strengthen and expand strategic ties between the United States and a partner country by providing a framework for cooperation on civil nuclear issues and for engagement between experts from government, industry, national laboratories, and academic institutions.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Continuing to Hold Russia to Account for its War against Ukraine</title>
-		<link>https://www.state.gov/continuing-to-hold-russia-to-account-for-its-war-against-ukraine/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Thu, 15 Dec 2022 15:57:30 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=404882</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States continues to impose costs on Russia for its war of aggression against Ukraine.  Russia’s attacks have devastated Ukraine’s critical infrastructure and caused extraordinary death and destruction.  Today, we are announcing additional sanctions measures on the Russian Federation and its enablers.  Pursuant to Executive Order (E.O.) 14024, the Departments of State and the Treasury are taking actions against major actors in Russia’s financial sector, senior government officials connected to mobilization efforts, and proxy authorities installed in Ukraine.</p>
-<p>Specifically, the Department of State is imposing sanctions on Vladimir Potanin, one of Russia’s wealthiest oligarchs and a close associate of President Putin, as well as three members of his immediate family and his company, Interros.  We are also identifying his yacht, Nirvana, as blocked property.  The Department of the Treasury’s Office of Foreign Assets Control (OFAC) is designating Public Joint Stock Company Rosbank, a bank acquired by Potanin earlier this year, for operating or having operated in the financial services sector of the Russian Federation economy.  Similar actions have been taken by the United Kingdom and Canada.</p>
-<p>The Department of State is also designating officials helping to advance Russia’s invasion and control of Ukrainian territory, including 29 Russian heads of regions and governors, two of their family members, and an entity owned by one of the family members.  These governors oversee and enforce the conscription of citizens in response to Russia’s recent mobilization order.  We also are designating six proxy authorities and an entity operating on behalf of the Kremlin in Ukraine.  This includes the former “Minister of Internal Affairs” of the so-called Donetsk People’s Republic, who led a battalion that fought in Mariupol and oversees the operations of filtration camps that facilitate the forced relocation of Ukraine’s citizens to Russia.</p>
-<p>The State Department is further holding accountable the corporate leadership of Russian state-owned companies by designating five individuals serving on the Board of Directors of Russian Railways, including two Deputy Prime Ministers of Russia, Andrey Removich Belousov and Dmitriy Nikolaevich Chernyshenko.</p>
-<p>In coordination with these designations, OFAC is also designating 17 subsidiaries of VTB Bank, which was designated pursuant to E.O. 14024 on February 24, 2022.</p>
-<p>Our actions today are a clear message that the United States will not hesitate to continue to use the tools at our disposal to promote an end to, and accountability for, President Putin’s unconscionable war.</p>
-<p>For more information on today’s action, please see the Department of State’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMTUuNjgyODk2NzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvZnVydGhlcmluZy10aGUtdW5pdGVkLXN0YXRlcy1lZmZvcnQtdG8taG9sZC1ydXNzaWEtdG8tYWNjb3VudC1mb3ItaXRzLXdhci1hZ2FpbnN0LXVrcmFpbmUvIn0.Jkn_a2ij_GATr9vXkvdABKylDaBWD5p_xPYIYvcq2gI/s/2576317770/br/150613200496-l. Click or tap if you trust this link." href="https://www.state.gov/furthering-the-united-states-effort-to-hold-russia-to-account-for-its-war-against-ukraine/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">fact sheet</a> and the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMTUuNjgyODk2NzEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTYzIn0.Bq4TPW1cvtrD6-X5RYhpylo9Cg9yKgjGoT8Z4VZFVC8/s/2576317770/br/150613200496-l. Click or tap if you trust this link." href="https://home.treasury.gov/news/press-releases/jy1163" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">press release</a>.</p>
-<p><input type="hidden" data-filter="111001000000" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>The United States continues to impose costs on Russia for its war of aggression against Ukraine.  Russia’s attacks have devastated Ukraine’s critical infrastructure and caused extraordinary death and destruction.  Today, we are announcing additional sanctions measures on the Russian Federation and its enablers.  Pursuant to Executive Order (E.O.) 14024, the Departments of State and the Treasury are taking actions against major actors in Russia’s financial sector, senior government officials connected to mobilization efforts, and proxy authorities installed in Ukraine.</p>
-<p>Specifically, the Department of State is imposing sanctions on Vladimir Potanin, one of Russia’s wealthiest oligarchs and a close associate of President Putin, as well as three members of his immediate family and his company, Interros.  We are also identifying his yacht, Nirvana, as blocked property.  The Department of the Treasury’s Office of Foreign Assets Control (OFAC) is designating Public Joint Stock Company Rosbank, a bank acquired by Potanin earlier this year, for operating or having operated in the financial services sector of the Russian Federation economy.  Similar actions have been taken by the United Kingdom and Canada.</p>
-<p>The Department of State is also designating officials helping to advance Russia’s invasion and control of Ukrainian territory, including 29 Russian heads of regions and governors, two of their family members, and an entity owned by one of the family members.  These governors oversee and enforce the conscription of citizens in response to Russia’s recent mobilization order.  We also are designating six proxy authorities and an entity operating on behalf of the Kremlin in Ukraine.  This includes the former “Minister of Internal Affairs” of the so-called Donetsk People’s Republic, who led a battalion that fought in Mariupol and oversees the operations of filtration camps that facilitate the forced relocation of Ukraine’s citizens to Russia.</p>
-<p>The State Department is further holding accountable the corporate leadership of Russian state-owned companies by designating five individuals serving on the Board of Directors of Russian Railways, including two Deputy Prime Ministers of Russia, Andrey Removich Belousov and Dmitriy Nikolaevich Chernyshenko.</p>
-<p>In coordination with these designations, OFAC is also designating 17 subsidiaries of VTB Bank, which was designated pursuant to E.O. 14024 on February 24, 2022.</p>
-<p>Our actions today are a clear message that the United States will not hesitate to continue to use the tools at our disposal to promote an end to, and accountability for, President Putin’s unconscionable war.</p>
-<p>For more information on today’s action, please see the Department of State’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMTUuNjgyODk2NzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvZnVydGhlcmluZy10aGUtdW5pdGVkLXN0YXRlcy1lZmZvcnQtdG8taG9sZC1ydXNzaWEtdG8tYWNjb3VudC1mb3ItaXRzLXdhci1hZ2FpbnN0LXVrcmFpbmUvIn0.Jkn_a2ij_GATr9vXkvdABKylDaBWD5p_xPYIYvcq2gI/s/2576317770/br/150613200496-l. Click or tap if you trust this link." href="https://www.state.gov/furthering-the-united-states-effort-to-hold-russia-to-account-for-its-war-against-ukraine/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">fact sheet</a> and the Department of the Treasury’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMTUuNjgyODk2NzEiLCJ1cmwiOiJodHRwczovL2hvbWUudHJlYXN1cnkuZ292L25ld3MvcHJlc3MtcmVsZWFzZXMvankxMTYzIn0.Bq4TPW1cvtrD6-X5RYhpylo9Cg9yKgjGoT8Z4VZFVC8/s/2576317770/br/150613200496-l. Click or tap if you trust this link." href="https://home.treasury.gov/news/press-releases/jy1163" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="1">press release</a>.</p>
-<p><input type="hidden" data-filter="111001000000" /></p>
 ]]></content:encoded>
 					
 		
