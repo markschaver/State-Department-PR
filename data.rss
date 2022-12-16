@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 16 Dec 2022 02:54:41 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Dec 2022 13:29:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,169 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Welcoming Japan’s New National Security Strategy, National Defense Strategy, and Defense Buildup Program</title>
+		<link>https://www.state.gov/welcoming-japans-new-national-security-strategy-national-defense-strategy-and-defense-buildup-program/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 16 Dec 2022 13:29:48 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=405454</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>The United States of America and U.S. Department of State welcome Japan’s new National Security Strategy, National Defense Strategy, and Defense Buildup Program, which were announced on December 16.  As President Biden laid out in our own National Security Strategy, our alliances and partnerships are our most important strategic asset, and Japan’s new documents reshape the ability of our Alliance to promote peace and protect the rules-based order in the Indo-Pacific region and around the world.  We applaud Japan’s commitment to modernize our Alliance through increased investment in enhanced roles, missions, and capabilities and closer defense cooperation with the United States and other Allies and partners, as outlined in these new documents.</p>
+<p>Japan’s strategy converges with our own in recognizing that closer linkages among likeminded nations are paramount to protect shared interests and values and address shared challenges.  We welcome the importance Japan places on coordinating with a wider range of partners in the Indo-Pacific and around the globe.</p>
+<p>From Afghanistan to Ukraine, Japan is our indispensable partner in addressing the most pressing challenges to global stability and in supporting all nations that cherish a rules-based international order.</p>
+<p>Congratulations to Japan on this foundational new step in modernizing our Alliance and enhancing our collective capacity to tackle global challenges.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>The United States of America and U.S. Department of State welcome Japan’s new National Security Strategy, National Defense Strategy, and Defense Buildup Program, which were announced on December 16.  As President Biden laid out in our own National Security Strategy, our alliances and partnerships are our most important strategic asset, and Japan’s new documents reshape the ability of our Alliance to promote peace and protect the rules-based order in the Indo-Pacific region and around the world.  We applaud Japan’s commitment to modernize our Alliance through increased investment in enhanced roles, missions, and capabilities and closer defense cooperation with the United States and other Allies and partners, as outlined in these new documents.</p>
+<p>Japan’s strategy converges with our own in recognizing that closer linkages among likeminded nations are paramount to protect shared interests and values and address shared challenges.  We welcome the importance Japan places on coordinating with a wider range of partners in the Indo-Pacific and around the globe.</p>
+<p>From Afghanistan to Ukraine, Japan is our indispensable partner in addressing the most pressing challenges to global stability and in supporting all nations that cherish a rules-based international order.</p>
+<p>Congratulations to Japan on this foundational new step in modernizing our Alliance and enhancing our collective capacity to tackle global challenges.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Bahrain National Day</title>
 		<link>https://www.state.gov/bahrain-national-day-2/</link>
 		
@@ -1784,171 +1947,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <li>The United States is a strong supporter of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) and was instrumental in its establishment in 2012. We are celebrating IPBES’ 10-year anniversary by reaffirming our commitment to advancing science and the role of science in decision-making.  The United States has also worked in IPBES to advance the inclusion of indigenous peoples and local communities and incorporation, with their consent, of indigenous and local knowledge into the IPBES assessments.</li>
 </ul>
 <p>For media inquiries, please contact <a href="mailto:OES-PA-DG@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="12">OES-PA-DG@state.gov</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>U.S. Department of State Announces Nearly 1,500 Benjamin Gilman Scholars, Expanding Access to Study Abroad for American Undergraduate Students</title>
-		<link>https://www.state.gov/u-s-department-of-state-announces-nearly-1500-benjamin-gilman-scholars-expanding-access-to-study-abroad-for-american-undergraduate-students/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Thu, 15 Dec 2022 18:46:13 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=405013</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The U.S. Department of State’s Bureau of Educational and Cultural Affairs (ECA) announced that it awarded to nearly 1,500 American undergraduate students from all 50 states the Benjamin A. Gilman International Scholarship.  Gilman Scholars are U.S. undergraduate students who qualify and receive Pell Grants to cover the costs of their higher education.  On average seventy percent of Gilman recipients self-identify as racial or ethnic minorities, 60 percent are from rural America, and half are first generation college or university students.  The Gilman Scholarship contributes to the Department’s diversity, equity, inclusion, and accessibility efforts to engage all of U.S. society in foreign policy.</p>
-<p>This cohort of Gilman scholars will study or intern in over 80 countries and represents over 450 U.S. colleges and universities in all 50 U.S. states, the District of Columbia, and Puerto Rico.</p>
-<p>This new cohort of Gilman Scholars includes 23 recipients of the John McCain International Scholarship for the Children of Military Families (Gilman-McCain Scholarship), which are awarded to the children and spousal dependents of active or activated U.S. military personnel during the application period.  In addition, Gilman Scholars receive support from the governments of France, Germany through the German Academic Exchange Service (DAAD), Israel, New Zealand, and Wales, and the Luso-American Development Foundation (FLAD) in Portugal, and the Taipei Economic and Cultural Representative Office in the United States (TECRO).</p>
-<p>Since the program’s inception in 2001, more than 36,000 Gilman Scholars from all U.S. states, the District of Columbia, Puerto Rico, and other U.S. territories have studied or interned in more than 155 countries around the globe.</p>
-<p>The Gilman Scholarship is an initiative of the U.S. Department of State’s Bureau of Educational and Cultural Affairs (ECA) and is supported in its implementation by the Institute of International Education (IIE).  To learn more about the Gilman scholarship, and its recipients, including this newest cohort, visit: gilmanscholarship.org.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The U.S. Department of State’s Bureau of Educational and Cultural Affairs (ECA) announced that it awarded to nearly 1,500 American undergraduate students from all 50 states the Benjamin A. Gilman International Scholarship.  Gilman Scholars are U.S. undergraduate students who qualify and receive Pell Grants to cover the costs of their higher education.  On average seventy percent of Gilman recipients self-identify as racial or ethnic minorities, 60 percent are from rural America, and half are first generation college or university students.  The Gilman Scholarship contributes to the Department’s diversity, equity, inclusion, and accessibility efforts to engage all of U.S. society in foreign policy.</p>
-<p>This cohort of Gilman scholars will study or intern in over 80 countries and represents over 450 U.S. colleges and universities in all 50 U.S. states, the District of Columbia, and Puerto Rico.</p>
-<p>This new cohort of Gilman Scholars includes 23 recipients of the John McCain International Scholarship for the Children of Military Families (Gilman-McCain Scholarship), which are awarded to the children and spousal dependents of active or activated U.S. military personnel during the application period.  In addition, Gilman Scholars receive support from the governments of France, Germany through the German Academic Exchange Service (DAAD), Israel, New Zealand, and Wales, and the Luso-American Development Foundation (FLAD) in Portugal, and the Taipei Economic and Cultural Representative Office in the United States (TECRO).</p>
-<p>Since the program’s inception in 2001, more than 36,000 Gilman Scholars from all U.S. states, the District of Columbia, Puerto Rico, and other U.S. territories have studied or interned in more than 155 countries around the globe.</p>
-<p>The Gilman Scholarship is an initiative of the U.S. Department of State’s Bureau of Educational and Cultural Affairs (ECA) and is supported in its implementation by the Institute of International Education (IIE).  To learn more about the Gilman scholarship, and its recipients, including this newest cohort, visit: gilmanscholarship.org.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
