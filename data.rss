@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Sun, 18 Dec 2022 14:50:56 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 18 Dec 2022 16:09:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,336 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>International Migrants Day</title>
+		<link>https://www.state.gov/international-migrants-day/</link>
+		
+		<dc:creator><![CDATA[The Secretary of State]]></dc:creator>
+		<pubDate>Sun, 18 Dec 2022 16:09:50 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=405905</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>The Secretary of State</p>
+<p>On International Migrants Day, we recognize the contributions of individual migrants, as well as their rights and struggles, and reiterate the United States’ actions to support safe, orderly, and humane migration around the world.</p>
+<p>There are hundreds of millions of international migrants globally, each a person with a name, a unique story, and a reason for leaving their home. People migrate for work or education, to reunite with families, and to seek new opportunities for themselves as well as their families. Some migrate temporarily and return home, while others seek to immigrate safely and lawfully to other countries.</p>
+<p>Migration is also happening in a context of significant forced displacement. While most people move by choice, some 100 million people have also tragically been forcibly displaced worldwide, including by failing authoritarian regimes.  Climate change has caused millions to leave their homes.  Disasters alone led to 23.7 million internal displacements in 2021.</p>
+<p>Conflict, violence, persecution, human rights violations and abuses, economic hardship, as well as climate change push people to undertake dangerous journeys in search of safety and better opportunities. The challenges of irregular migration exacerbated by COVID-19 and climate impacts are difficult, but they are not impossible to address if all nations face them together. No single country can address and resolve migration issues on its own.</p>
+<p>The United States recognizes that to achieve safe, orderly, humane, and regular migration, we need comprehensive regional and global plans that address these complex issues. For example, since June, 21 countries, including the United States, have endorsed the <a href="https://www.state.gov/los-angeles-declaration-on-migration-and-protection-lima-ministerial-meeting/" target="_blank" rel="noopener" shape="rect">Los Angeles Declaration on Migration and Protection</a> to strengthen our shared response to irregular migration and forced displacement throughout the Western Hemisphere. We are now joining with our partners to turn the Declaration’s principles into joint action.</p>
+<p>The United States is proud to be the largest single provider of humanitarian assistance worldwide reaching people in need, including refugees, conflict victims, internally displaced persons, stateless persons, and vulnerable migrants. In FY 2022, the United States provided more than $17 billion in humanitarian assistance – an increase of more than 30 percent over the prior year.</p>
+<p>The United States is committed to working collaboratively with governments, civil society, international organizations, and other partners to address the root causes of irregular migration and to manage migration humanely.</p>
+<p>For further information about America’s leadership in humanitarian affairs follow @StatePRM on Twitter and Instagram and @State.PRM on Facebook.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>The Secretary of State</p>
+<p>On International Migrants Day, we recognize the contributions of individual migrants, as well as their rights and struggles, and reiterate the United States’ actions to support safe, orderly, and humane migration around the world.</p>
+<p>There are hundreds of millions of international migrants globally, each a person with a name, a unique story, and a reason for leaving their home. People migrate for work or education, to reunite with families, and to seek new opportunities for themselves as well as their families. Some migrate temporarily and return home, while others seek to immigrate safely and lawfully to other countries.</p>
+<p>Migration is also happening in a context of significant forced displacement. While most people move by choice, some 100 million people have also tragically been forcibly displaced worldwide, including by failing authoritarian regimes.  Climate change has caused millions to leave their homes.  Disasters alone led to 23.7 million internal displacements in 2021.</p>
+<p>Conflict, violence, persecution, human rights violations and abuses, economic hardship, as well as climate change push people to undertake dangerous journeys in search of safety and better opportunities. The challenges of irregular migration exacerbated by COVID-19 and climate impacts are difficult, but they are not impossible to address if all nations face them together. No single country can address and resolve migration issues on its own.</p>
+<p>The United States recognizes that to achieve safe, orderly, humane, and regular migration, we need comprehensive regional and global plans that address these complex issues. For example, since June, 21 countries, including the United States, have endorsed the <a href="https://www.state.gov/los-angeles-declaration-on-migration-and-protection-lima-ministerial-meeting/" target="_blank" rel="noopener" shape="rect">Los Angeles Declaration on Migration and Protection</a> to strengthen our shared response to irregular migration and forced displacement throughout the Western Hemisphere. We are now joining with our partners to turn the Declaration’s principles into joint action.</p>
+<p>The United States is proud to be the largest single provider of humanitarian assistance worldwide reaching people in need, including refugees, conflict victims, internally displaced persons, stateless persons, and vulnerable migrants. In FY 2022, the United States provided more than $17 billion in humanitarian assistance – an increase of more than 30 percent over the prior year.</p>
+<p>The United States is committed to working collaboratively with governments, civil society, international organizations, and other partners to address the root causes of irregular migration and to manage migration humanely.</p>
+<p>For further information about America’s leadership in humanitarian affairs follow @StatePRM on Twitter and Instagram and @State.PRM on Facebook.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tunisian Parliamentary Elections</title>
+		<link>https://www.state.gov/tunisian-parliamentary-elections/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Sun, 18 Dec 2022 15:59:59 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=405902</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>The parliamentary elections that took place in Tunisia on December 17 represent an essential initial step toward restoring the country’s democratic trajectory.  However, the low voter turnout reinforces the need to further expand political participation over the coming months.  As the electoral process continues into 2023, we reiterate the importance of adopting inclusive and transparent reforms, including empowering an elected legislature, establishing the Constitutional Court, and protecting human rights and fundamental freedoms for all Tunisians.</p>
+<p>The United States remains committed to the long-standing U.S.-Tunisia partnership.  We will continue to support the Tunisian people’s aspirations for a democratic and accountable government that protects free expression and dissent and that supports civil society. We also urge the Tunisian government to take the necessary steps to address the current economic crisis and achieve long-term stability and prosperity for all Tunisians.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>The parliamentary elections that took place in Tunisia on December 17 represent an essential initial step toward restoring the country’s democratic trajectory.  However, the low voter turnout reinforces the need to further expand political participation over the coming months.  As the electoral process continues into 2023, we reiterate the importance of adopting inclusive and transparent reforms, including empowering an elected legislature, establishing the Constitutional Court, and protecting human rights and fundamental freedoms for all Tunisians.</p>
+<p>The United States remains committed to the long-standing U.S.-Tunisia partnership.  We will continue to support the Tunisian people’s aspirations for a democratic and accountable government that protects free expression and dissent and that supports civil society. We also urge the Tunisian government to take the necessary steps to address the current economic crisis and achieve long-term stability and prosperity for all Tunisians.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Qatar National Day</title>
 		<link>https://www.state.gov/qatar-national-day-2/</link>
 		
@@ -1592,338 +1922,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The U.S. delegation included representatives from the Department of State, the National Aeronautics and Space Administration (NASA), the National Oceanic and Atmospheric Administration (NOAA), the Federal Aviation Administration, the Department of Commerce, the Naval Research Lab, the National Maritime Intelligence Integration Office, and the U.S. Geological Survey (USGS).  The ROK delegation included representatives from MSIT, MOFA, the Ministry of Trade, Industry, and Energy, the Korea Coast Guard, the Korea Meteorological Administration, the Korea Hydrographic and Oceanographic Agency, and the National Institute of Environmental Research.</p>
 <p>For media inquiries, please contact <a href="mailto:OES-PA-DG@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="2">OES-PA-DG@state.gov</a>.</p>
 <p><input type="hidden" data-filter="100001001100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>New Engineering and Diplomacy Fellowship with American Society of Mechanical Engineers (ASME)</title>
-		<link>https://www.state.gov/new-engineering-and-diplomacy-fellowship-with-american-society-of-mechanical-engineers-asme/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 16 Dec 2022 21:58:35 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=405794</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The U.S. Department of State is pleased to announce a new Engineering and Diplomacy Fellowship in partnership with the <a class="external-link" href="https://www.asme.org/" target="_BLANK" rel="noopener"><span class="external-link-title">American Society of Mechanical Engineers</span><span class="icon-external"> </span></a> (ASME).   This new fellowship program will complement four other science and technology targeted fellowship programs at the Department, all of which bring scientific and technical experts into the foreign policy process.  This fellowship further strengthens ties between the Department and the domestic scientific community and is the first new Engineering and Diplomacy Fellowship at the Department of State since 2003.</p>
-<p>The new fellowship program with ASME is based on the premise that advancements in science and technology are poised to define the geopolitical landscape of the 21st century.  Through participation in foreign policy discussions, the fellows will help increase understanding of complex, cutting-edge scientific and engineering fields, and provide advice on the wider international implications of important emerging scientific issues.  In this capacity, they will bring valuable knowledge from their technical expertise and professional networks to bear on the work of the Department and, through the Department, to the broader science and technology community.</p>
-<p>The Department of State continues to make science and technology a cornerstone of US policy.</p>
-<p>For further information, please inquire with the Office of the Science and Technology Adviser to the Secretary and email STAS_Office@groups.state.gov.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The U.S. Department of State is pleased to announce a new Engineering and Diplomacy Fellowship in partnership with the <a class="external-link" href="https://www.asme.org/" target="_BLANK" rel="noopener"><span class="external-link-title">American Society of Mechanical Engineers</span><span class="icon-external"> </span></a> (ASME).   This new fellowship program will complement four other science and technology targeted fellowship programs at the Department, all of which bring scientific and technical experts into the foreign policy process.  This fellowship further strengthens ties between the Department and the domestic scientific community and is the first new Engineering and Diplomacy Fellowship at the Department of State since 2003.</p>
-<p>The new fellowship program with ASME is based on the premise that advancements in science and technology are poised to define the geopolitical landscape of the 21st century.  Through participation in foreign policy discussions, the fellows will help increase understanding of complex, cutting-edge scientific and engineering fields, and provide advice on the wider international implications of important emerging scientific issues.  In this capacity, they will bring valuable knowledge from their technical expertise and professional networks to bear on the work of the Department and, through the Department, to the broader science and technology community.</p>
-<p>The Department of State continues to make science and technology a cornerstone of US policy.</p>
-<p>For further information, please inquire with the Office of the Science and Technology Adviser to the Secretary and email STAS_Office@groups.state.gov.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken and Mexican Foreign Secretary Marcelo Ebrard  Before Their Meeting</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-and-mexican-foreign-secretary-marcelo-ebrard-before-their-meeting-3/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Fri, 16 Dec 2022 21:26:26 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=405766</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, D.C.</p>
-<p>Treaty Room </p>
-<p><strong>SECRETARY BLINKEN:</strong>  Good afternoon, everyone.  It’s a great pleasure to have my friend Marcelo Ebrard here at the State Department, and we have a lot of work that we’re doing almost every single day between us, but it’s particularly good to get the chance to catch up in person.  We are preparing for the North American Leaders’ Summit early next year, and so we’re going to be talking about that; our ongoing cooperation and collaboration on migration, on citizen security; but also the work that we’ve been doing between our governments, between our countries to build out and strengthen North American competitiveness.  It’s something that we’ve spent a lot of time working on between us, as well as the many regional challenges that we face.</p>
-<p>So Marcelo, great to have you here as always.</p>
-<p><strong>FOREIGN SECRETARY EBRARD:</strong>  Thank you very much, Antony.  It’s a pleasure to see you again, pleasure to work with you, and as you said that we are going to have a conversation about the next summit; the bilateral agenda, which is very extended.  Antony’s paying attention to every issue that we share – migration, security, high-level economic dialogue, and other initiatives; prosperity for our countries, mainly.  So we are going to have several conversations right now in order to advance on those issues, and we are really happy to be here.  Thank you very much for having us.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you, my friend.  Thanks, everyone.</p>
-<p><strong>FOREIGN SECRETARY EBRARD:</strong>  <em>Gracias.</em></p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, D.C.</p>
-<p>Treaty Room </p>
-<p><strong>SECRETARY BLINKEN:</strong>  Good afternoon, everyone.  It’s a great pleasure to have my friend Marcelo Ebrard here at the State Department, and we have a lot of work that we’re doing almost every single day between us, but it’s particularly good to get the chance to catch up in person.  We are preparing for the North American Leaders’ Summit early next year, and so we’re going to be talking about that; our ongoing cooperation and collaboration on migration, on citizen security; but also the work that we’ve been doing between our governments, between our countries to build out and strengthen North American competitiveness.  It’s something that we’ve spent a lot of time working on between us, as well as the many regional challenges that we face.</p>
-<p>So Marcelo, great to have you here as always.</p>
-<p><strong>FOREIGN SECRETARY EBRARD:</strong>  Thank you very much, Antony.  It’s a pleasure to see you again, pleasure to work with you, and as you said that we are going to have a conversation about the next summit; the bilateral agenda, which is very extended.  Antony’s paying attention to every issue that we share – migration, security, high-level economic dialogue, and other initiatives; prosperity for our countries, mainly.  So we are going to have several conversations right now in order to advance on those issues, and we are really happy to be here.  Thank you very much for having us.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you, my friend.  Thanks, everyone.</p>
-<p><strong>FOREIGN SECRETARY EBRARD:</strong>  <em>Gracias.</em></p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
