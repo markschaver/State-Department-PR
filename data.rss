@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Sat, 17 Dec 2022 00:36:26 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 18 Dec 2022 01:44:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The 17th Meeting of the U.S.-Swiss Joint Economic Commission  And Under Secretary Fernandez’s Engagement with the Swiss Delegation</title>
+		<link>https://www.state.gov/the-17th-meeting-of-the-u-s-swiss-joint-economic-commission-and-under-secretary-fernandezs-engagement-with-the-swiss-delegation/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Sun, 18 Dec 2022 01:44:38 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=405878</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>Assistant Secretary of State for European Affairs Karen Donfried and Principal Deputy Assistant Secretary for Economic and Business Affairs Whitney Baird participated in the 17th meeting of the U.S.-Swiss Joint Economic Commission (JEC) with Swiss counterparts at the U.S. Department of State on December 15.</p>
+<p>The meeting reaffirmed the strong and growing bilateral economic relationship between the United States and Switzerland, with Swiss State Secretary for Economic Affairs Helene Budliger Artieda leading the Swiss delegation.  The principals discussed current and future bilateral trade, security impacts on the trade relationship, securing supply chains, workforce development programs, the digital economy, and financial and tax affairs.</p>
+<p>On December 16, Under Secretary of State for Economic Growth, Energy, and the Environment Jose W. Fernandez met with State Secretary Budliger Artieda to expand upon the dialogue and reiterate the U.S. commitment to deepening the U.S.-Swiss economic relationship.  Under Secretary Fernandez underscored the importance of working closely to advance shared economic goals between the United States and Switzerland.  He congratulated the Swiss on completing another successful U.S.-Swiss JEC meeting.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>Assistant Secretary of State for European Affairs Karen Donfried and Principal Deputy Assistant Secretary for Economic and Business Affairs Whitney Baird participated in the 17th meeting of the U.S.-Swiss Joint Economic Commission (JEC) with Swiss counterparts at the U.S. Department of State on December 15.</p>
+<p>The meeting reaffirmed the strong and growing bilateral economic relationship between the United States and Switzerland, with Swiss State Secretary for Economic Affairs Helene Budliger Artieda leading the Swiss delegation.  The principals discussed current and future bilateral trade, security impacts on the trade relationship, securing supply chains, workforce development programs, the digital economy, and financial and tax affairs.</p>
+<p>On December 16, Under Secretary of State for Economic Growth, Energy, and the Environment Jose W. Fernandez met with State Secretary Budliger Artieda to expand upon the dialogue and reiterate the U.S. commitment to deepening the U.S.-Swiss economic relationship.  Under Secretary Fernandez underscored the importance of working closely to advance shared economic goals between the United States and Switzerland.  He congratulated the Swiss on completing another successful U.S.-Swiss JEC meeting.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Verdict in the Trial of Salih Mustafa at the Kosovo Specialist Chambers</title>
 		<link>https://www.state.gov/verdict-in-the-trial-of-salih-mustafa-at-the-kosovo-specialist-chambers/</link>
 		
@@ -1771,173 +1932,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>We call on all sides to abide by the conditions set out in the 2018 Revitalized Peace Agreement. Each missed implementation benchmark further calls into question the political commitment of South Sudan’s leaders to end the transitional period in two years. Inaction now will lead to more innocent South Sudanese lives lost and a humanitarian situation that continues to worsen with each month. An enduring, nation-wide peace is the only way to address South Sudan’s appalling human rights and humanitarian situation.</p>
 <p><em>End Text.</em></p>
 <p><input type="hidden" data-filter="100001001000" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Blinken Launches the Office of China Coordination</title>
-		<link>https://www.state.gov/secretary-blinken-launches-the-office-of-china-coordination/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 16 Dec 2022 15:28:24 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=405512</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>Today Secretary of State Antony J. Blinken presided over the launch of the new Office of China Coordination, informally known as China House.</p>
-<p>China House will ensure the U.S. government is able to responsibly manage our competition with the People’s Republic of China (PRC) and advance our vision for an open, inclusive international system.  Our goal in creating China House is to help deliver on elements of the Administration’s approach to the PRC.</p>
-<p>China House is a key component of the Secretary’s modernization agenda, which is focused on equipping the Department to meet the challenges and seize the opportunities of the decade ahead.  The Secretary and Department leadership are committed to ensuring we have the talent, tools, and resources to successfully execute U.S. policy and strategy towards the PRC as the most complex and consequential geopolitical challenge we face.</p>
-<p>As the Secretary noted in his remarks this morning, China House brings together a group of China experts from throughout the Department and beyond it to work shoulder to shoulder with colleagues from every regional bureau and experts in international security, economics, technology, multilateral diplomacy, and strategic communications.  It will serve the entire Department.</p>
-<p>Improved coordination means nimbler and more consistent policy from the State Department.  It means we are better positioned to work with our allies and partners and to engage even more deeply with every country with which the Department works.</p>
-<p>For inquiries on this new office, please contact:  <a href="mailto:EAP-Press@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="0">EAP-Press@state.gov</a></p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>Today Secretary of State Antony J. Blinken presided over the launch of the new Office of China Coordination, informally known as China House.</p>
-<p>China House will ensure the U.S. government is able to responsibly manage our competition with the People’s Republic of China (PRC) and advance our vision for an open, inclusive international system.  Our goal in creating China House is to help deliver on elements of the Administration’s approach to the PRC.</p>
-<p>China House is a key component of the Secretary’s modernization agenda, which is focused on equipping the Department to meet the challenges and seize the opportunities of the decade ahead.  The Secretary and Department leadership are committed to ensuring we have the talent, tools, and resources to successfully execute U.S. policy and strategy towards the PRC as the most complex and consequential geopolitical challenge we face.</p>
-<p>As the Secretary noted in his remarks this morning, China House brings together a group of China experts from throughout the Department and beyond it to work shoulder to shoulder with colleagues from every regional bureau and experts in international security, economics, technology, multilateral diplomacy, and strategic communications.  It will serve the entire Department.</p>
-<p>Improved coordination means nimbler and more consistent policy from the State Department.  It means we are better positioned to work with our allies and partners and to engage even more deeply with every country with which the Department works.</p>
-<p>For inquiries on this new office, please contact:  <a href="mailto:EAP-Press@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="0">EAP-Press@state.gov</a></p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
