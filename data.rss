@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 21 Dec 2022 13:28:13 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Dec 2022 17:09:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,336 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The 2022 U.S.-EU Cyber Dialogue</title>
+		<link>https://www.state.gov/the-2022-u-s-eu-cyber-dialogue/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Wed, 21 Dec 2022 17:09:06 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=406698</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The 2022 U.S.-European Union Cyber Dialogue was held in Washington, DC, on December 15 and 16.  The United States and EU discussed their shared commitment to a resilient cybersecurity partnership; an open, interoperable, secure, and reliable Internet; and stability in cyberspace.</p>
+<p>Officials from the United States and EU covered a range of topics, including updates on respective cyber policy frameworks; cooperation in multilateral fora, cyber diplomacy and deterrence, collaboration on crisis response, resilience, capacity building in the Western Balkans, Ukraine, Georgia, and Moldova, and cybersecurity in space.  Officials discussed ongoing support for Ukraine’s cyber defense and the desire to engage further on tailored support for Albania following the July and September cyberattacks by Iran.  U.S. and EU officials were also joined by representatives from the U.S. and European private sectors for panel discussions on the protection of critical infrastructure.</p>
+<p>The dialogue was chaired by Jennifer Bachus, Senior Bureau Official for Cyberspace and Digital Policy, Liesyl Franz, Acting Deputy Assistant Secretary for International Cyberspace Stability, Joanneke Balfoort, Director for Security and Defense, European External Action Service (EEAS), and Lorena Boix Alonso, Director for Digital Society, Trust and Cybersecurity, Directorate General for Communications Networks, Content and Technology (DG CONNECT), European Commission.  The United States was also represented by the National Security Council, Office of the National Cyber Director, the Departments of State, Homeland Security, Commerce, Justice, and Treasury, the Cybersecurity and Infrastructure Security Agency, and the Federal Bureau of Investigation.  The EU was represented by the European External Action Service, Directorate General for Communications Networks, Content &amp; Technology, Directorate General for Defense Industry &amp; Space, EU Agency for Cybersecurity, the Computer Emergency Response Team for the EU, the EU delegation to the United States, and representatives from EU member states.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The 2022 U.S.-European Union Cyber Dialogue was held in Washington, DC, on December 15 and 16.  The United States and EU discussed their shared commitment to a resilient cybersecurity partnership; an open, interoperable, secure, and reliable Internet; and stability in cyberspace.</p>
+<p>Officials from the United States and EU covered a range of topics, including updates on respective cyber policy frameworks; cooperation in multilateral fora, cyber diplomacy and deterrence, collaboration on crisis response, resilience, capacity building in the Western Balkans, Ukraine, Georgia, and Moldova, and cybersecurity in space.  Officials discussed ongoing support for Ukraine’s cyber defense and the desire to engage further on tailored support for Albania following the July and September cyberattacks by Iran.  U.S. and EU officials were also joined by representatives from the U.S. and European private sectors for panel discussions on the protection of critical infrastructure.</p>
+<p>The dialogue was chaired by Jennifer Bachus, Senior Bureau Official for Cyberspace and Digital Policy, Liesyl Franz, Acting Deputy Assistant Secretary for International Cyberspace Stability, Joanneke Balfoort, Director for Security and Defense, European External Action Service (EEAS), and Lorena Boix Alonso, Director for Digital Society, Trust and Cybersecurity, Directorate General for Communications Networks, Content and Technology (DG CONNECT), European Commission.  The United States was also represented by the National Security Council, Office of the National Cyber Director, the Departments of State, Homeland Security, Commerce, Justice, and Treasury, the Cybersecurity and Infrastructure Security Agency, and the Federal Bureau of Investigation.  The EU was represented by the European External Action Service, Directorate General for Communications Networks, Content &amp; Technology, Directorate General for Defense Industry &amp; Space, EU Agency for Cybersecurity, the Computer Emergency Response Team for the EU, the EU delegation to the United States, and representatives from EU member states.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>$1.85 Billion in Additional U.S. Military Assistance, Including the First Transfer of Patriot Air Defense System</title>
+		<link>https://www.state.gov/1-85-billion-in-additional-u-s-military-assistance-including-the-first-transfer-of-patriot-air-defense-system/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Wed, 21 Dec 2022 17:04:05 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=406693</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>As Russia continues its brutal attacks against critical infrastructure in Ukraine, the United States welcomes President Volodymyr Zelenskyy to Washington, D.C. today to underscore our enduring commitment to the people of Ukraine.  Over the past three hundred days, the Kremlin has tried and failed to wipe Ukraine off the map. Now, Russia is trying to weaponize winter by freezing and starving Ukrainian civilians and forcing families from their homes.  In response, President Biden will announce today that the United States is providing critical new and additional military capabilities to help Ukraine defend itself from Russia’s ongoing brutal and unprovoked assault.</p>
+<p>Pursuant to a delegation of authority from the President, today I am authorizing our twenty-eighth drawdown of U.S. arms and equipment for Ukraine since August 2021.  This $1 billion drawdown will provide Ukraine with expanded air defense and precision-strike capabilities, as well as additional munitions and critical equipment that Ukraine is using so effectively to defend itself on the battlefield.</p>
+<p>The Department of Defense is also announcing an additional $850 million of security assistance for Ukraine today under its Ukraine Security Assistance Initiative.</p>
+<p>This will bring total U.S. military assistance for Ukraine to an unprecedented $21.9 billion since the beginning of the Administration.</p>
+<p>Today’s assistance for the first time includes the Patriot Air Defense System, capable of bringing down cruise missiles, short range ballistic missiles, and aircraft at a significantly higher ceiling than previously provided air defense systems.</p>
+<p>The United States will continue to work closely with more than 50 allies and partners worldwide in support of the people of Ukraine as they defend their freedom and independence with extraordinary courage and boundless determination.  We will continue to support Ukraine for as long as it takes, so that Kyiv can continue to defend itself and be in the strongest possible position at the negotiating table when the time comes.</p>
+<p>Russia alone could end this war today.  Until it does so, we stand <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMjEuNjg2MjI2NzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvdW5pdGVkLXdpdGgtdWtyYWluZS8ifQ.ltOVfC3u3Tuoue0dlT2Um2KF67Smf_GyIoJwDQaFPHE/s/2576317770/br/151044365363-l. Click or tap if you trust this link." href="https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&amp;originalUrl=https%3A%2F%2Fgcc02.safelinks.protection.outlook.com.mcas.ms%2F%3Furl%3Dhttps%253A%252F%252Flnks.gd%252Fl%252FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMjEuNjg2MjI2NzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvdW5pdGVkLXdpdGgtdWtyYWluZS8ifQ.ltOVfC3u3Tuoue0dlT2Um2KF67Smf_GyIoJwDQaFPHE%252Fs%252F2576317770%252Fbr%252F151044365363-l%26data%3D05%257C01%257CWMMailbox%2540state.gov%257Cad7514c74e3b4f10fc4d08dae37428f0%257C66cf50745afe48d1a691a12b2121f44b%257C0%257C1%257C638072385291860919%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C3000%257C%257C%257C%26sdata%3DCzzw4nfkM4siXGoKOdgnmbKhvaxuNWlMResknHO3F8U%253D%26reserved%3D0%26McasTsid%3D20893&amp;McasCSRF=0c4730233e5f289fc0f934157b88a58180cbc398936112df953a6d8f8a12371e" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">United with Ukraine</a>.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>As Russia continues its brutal attacks against critical infrastructure in Ukraine, the United States welcomes President Volodymyr Zelenskyy to Washington, D.C. today to underscore our enduring commitment to the people of Ukraine.  Over the past three hundred days, the Kremlin has tried and failed to wipe Ukraine off the map. Now, Russia is trying to weaponize winter by freezing and starving Ukrainian civilians and forcing families from their homes.  In response, President Biden will announce today that the United States is providing critical new and additional military capabilities to help Ukraine defend itself from Russia’s ongoing brutal and unprovoked assault.</p>
+<p>Pursuant to a delegation of authority from the President, today I am authorizing our twenty-eighth drawdown of U.S. arms and equipment for Ukraine since August 2021.  This $1 billion drawdown will provide Ukraine with expanded air defense and precision-strike capabilities, as well as additional munitions and critical equipment that Ukraine is using so effectively to defend itself on the battlefield.</p>
+<p>The Department of Defense is also announcing an additional $850 million of security assistance for Ukraine today under its Ukraine Security Assistance Initiative.</p>
+<p>This will bring total U.S. military assistance for Ukraine to an unprecedented $21.9 billion since the beginning of the Administration.</p>
+<p>Today’s assistance for the first time includes the Patriot Air Defense System, capable of bringing down cruise missiles, short range ballistic missiles, and aircraft at a significantly higher ceiling than previously provided air defense systems.</p>
+<p>The United States will continue to work closely with more than 50 allies and partners worldwide in support of the people of Ukraine as they defend their freedom and independence with extraordinary courage and boundless determination.  We will continue to support Ukraine for as long as it takes, so that Kyiv can continue to defend itself and be in the strongest possible position at the negotiating table when the time comes.</p>
+<p>Russia alone could end this war today.  Until it does so, we stand <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMjEuNjg2MjI2NzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvdW5pdGVkLXdpdGgtdWtyYWluZS8ifQ.ltOVfC3u3Tuoue0dlT2Um2KF67Smf_GyIoJwDQaFPHE/s/2576317770/br/151044365363-l. Click or tap if you trust this link." href="https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&amp;originalUrl=https%3A%2F%2Fgcc02.safelinks.protection.outlook.com.mcas.ms%2F%3Furl%3Dhttps%253A%252F%252Flnks.gd%252Fl%252FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMjEuNjg2MjI2NzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvdW5pdGVkLXdpdGgtdWtyYWluZS8ifQ.ltOVfC3u3Tuoue0dlT2Um2KF67Smf_GyIoJwDQaFPHE%252Fs%252F2576317770%252Fbr%252F151044365363-l%26data%3D05%257C01%257CWMMailbox%2540state.gov%257Cad7514c74e3b4f10fc4d08dae37428f0%257C66cf50745afe48d1a691a12b2121f44b%257C0%257C1%257C638072385291860919%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C3000%257C%257C%257C%26sdata%3DCzzw4nfkM4siXGoKOdgnmbKhvaxuNWlMResknHO3F8U%253D%26reserved%3D0%26McasTsid%3D20893&amp;McasCSRF=0c4730233e5f289fc0f934157b88a58180cbc398936112df953a6d8f8a12371e" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">United with Ukraine</a>.</p>
+<p><input type="hidden" data-filter="100001000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>On the Iranian People’s Observance of Shab-e Yalda</title>
 		<link>https://www.state.gov/on-the-iranian-peoples-observance-of-shab-e-yalda/</link>
 		
@@ -1598,320 +1928,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The framework also calls for a substantial increase in resources from all sources devoted to nature conservation. The United States has already been making progress towards supporting such efforts in the first two years of the Biden-Harris Administration, with for the U.S.’s largest pledge ever to the Global Environment Facility and a 20 percent increase in its spending on biodiversity foreign assistance.</p>
 <p>With the adoption of the Global Biodiversity Framework, governments at all levels and all of society have a common set of goals to address the biodiversity crisis &#8211; for people and the planet.</p>
 <p>For media inquiries, please contact OES-PA-DG@state.gov.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>U.S. Support for the Philippines in the South China Sea</title>
-		<link>https://www.state.gov/u-s-support-for-the-philippines-in-the-south-china-sea-2/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Mon, 19 Dec 2022 23:33:23 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=406336</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The United States supports the Philippines’ continued calls upon the People’s Republic of China (PRC) to respect the international law of the sea in the South China Sea, as reflected in the UN Convention on the Law of the Sea, and its legal obligations pursuant to the 2016 arbitral ruling. The reported escalating swarms of PRC vessels in the vicinity of Iroquois Reef and Sabina Shoal in the Spratly Islands interfere with the livelihoods of Philippine fishing communities, and also reflect continuing disregard for other South China Sea claimants and states lawfully operating in the region. Furthermore, we share the Philippines’ concerns regarding the unsafe encounter that the PRC Coast Guard initiated with Philippines naval forces in the South China Sea, as documented before the Senate of the Philippines on December 14.</p>
-<p>The United States stands with our ally, the Philippines, in upholding the rules-based international order and freedom of navigation in the South China Sea as guaranteed under international law.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The United States supports the Philippines’ continued calls upon the People’s Republic of China (PRC) to respect the international law of the sea in the South China Sea, as reflected in the UN Convention on the Law of the Sea, and its legal obligations pursuant to the 2016 arbitral ruling. The reported escalating swarms of PRC vessels in the vicinity of Iroquois Reef and Sabina Shoal in the Spratly Islands interfere with the livelihoods of Philippine fishing communities, and also reflect continuing disregard for other South China Sea claimants and states lawfully operating in the region. Furthermore, we share the Philippines’ concerns regarding the unsafe encounter that the PRC Coast Guard initiated with Philippines naval forces in the South China Sea, as documented before the Senate of the Philippines on December 14.</p>
-<p>The United States stands with our ally, the Philippines, in upholding the rules-based international order and freedom of navigation in the South China Sea as guaranteed under international law.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Blinken’s Meeting with Maltese Foreign Minister Borg</title>
-		<link>https://www.state.gov/secretary-blinkens-meeting-with-maltese-foreign-minister-borg/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Mon, 19 Dec 2022 20:18:26 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=406255</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The below is attributable to Spokesperson Ned Price:</p>
-<p>Secretary of State Antony J. Blinken met today with Maltese Foreign Minister Ian Borg in Washington, D.C. Secretary Blinken and Foreign Minister Borg discussed opportunities to build upon the already strong U.S.-Malta relationship, and they emphasized the importance of maintaining unity in efforts to support Ukraine. The Secretary and the Foreign Minister discussed their commitment to promoting peace, stability, and prosperity in the Mediterranean region. The Secretary noted that the United States looks forward to working closely with Malta to promote global peace and security, in accordance with our shared democratic principles, when it joins the United Nations Security Council for a two-year term in January.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The below is attributable to Spokesperson Ned Price:</p>
-<p>Secretary of State Antony J. Blinken met today with Maltese Foreign Minister Ian Borg in Washington, D.C. Secretary Blinken and Foreign Minister Borg discussed opportunities to build upon the already strong U.S.-Malta relationship, and they emphasized the importance of maintaining unity in efforts to support Ukraine. The Secretary and the Foreign Minister discussed their commitment to promoting peace, stability, and prosperity in the Mediterranean region. The Secretary noted that the United States looks forward to working closely with Malta to promote global peace and security, in accordance with our shared democratic principles, when it joins the United Nations Security Council for a two-year term in January.</p>
 ]]></content:encoded>
 					
 		
