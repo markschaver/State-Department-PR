@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Wed, 21 Dec 2022 01:28:12 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Dec 2022 13:28:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>On the Iranian People’s Observance of Shab-e Yalda</title>
+		<link>https://www.state.gov/on-the-iranian-peoples-observance-of-shab-e-yalda/</link>
+		
+		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
+		<pubDate>Wed, 21 Dec 2022 13:28:12 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=406590</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Ned Price, Department Spokesperson</p>
+<p>The Winter Solstice, or Shab-e Yalda as it is known in Iran, would normally be a festive time for many Iranians. It is a time for celebrating at home with loved ones as the longest night of the year gives way to light – a symbolic triumph of good over evil. Instead, many families face empty chairs tonight. Iranian authorities have killed hundreds of protestors since peaceful protests erupted across the country three months ago, including dozens of children, and have arrested more than 18,000 people, according to credible human rights organizations. Iran’s leadership has used executions, arbitrary detention, forced disappearances, and sexual violence to stifle peaceful protests by the Iranian people. It appears no act is beneath the Islamic Republic’s leadership in their attempts to silence dissent.</p>
+<p>Tonight on Shab-e Yalda, we mourn with the people of Iran, and we reiterate our commitment to the Iranian people: the United States will continue to confront Iranian authorities’ human rights abuses and hold the perpetrators accountable for employing violence against their own population through unilateral and multilateral measures, together with our allies and partners. We will continue to support the Iranian people as they stand up to their government’s state-sponsored violence against women and girls.</p>
+<p>The eyes of the world are on Iran. We once again take this opportunity to implore Iran’s leadership to listen to its people rather than violently suppress them.</p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Ned Price, Department Spokesperson</p>
+<p>The Winter Solstice, or Shab-e Yalda as it is known in Iran, would normally be a festive time for many Iranians. It is a time for celebrating at home with loved ones as the longest night of the year gives way to light – a symbolic triumph of good over evil. Instead, many families face empty chairs tonight. Iranian authorities have killed hundreds of protestors since peaceful protests erupted across the country three months ago, including dozens of children, and have arrested more than 18,000 people, according to credible human rights organizations. Iran’s leadership has used executions, arbitrary detention, forced disappearances, and sexual violence to stifle peaceful protests by the Iranian people. It appears no act is beneath the Islamic Republic’s leadership in their attempts to silence dissent.</p>
+<p>Tonight on Shab-e Yalda, we mourn with the people of Iran, and we reiterate our commitment to the Iranian people: the United States will continue to confront Iranian authorities’ human rights abuses and hold the perpetrators accountable for employing violence against their own population through unilateral and multilateral measures, together with our allies and partners. We will continue to support the Iranian people as they stand up to their government’s state-sponsored violence against women and girls.</p>
+<p>The eyes of the world are on Iran. We once again take this opportunity to implore Iran’s leadership to listen to its people rather than violently suppress them.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Standing with Afghanistan’s Women and Girls</title>
 		<link>https://www.state.gov/standing-with-afghanistans-women-and-girls/</link>
 		
@@ -1753,135 +1912,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>The below is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken met today with Maltese Foreign Minister Ian Borg in Washington, D.C. Secretary Blinken and Foreign Minister Borg discussed opportunities to build upon the already strong U.S.-Malta relationship, and they emphasized the importance of maintaining unity in efforts to support Ukraine. The Secretary and the Foreign Minister discussed their commitment to promoting peace, stability, and prosperity in the Mediterranean region. The Secretary noted that the United States looks forward to working closely with Malta to promote global peace and security, in accordance with our shared democratic principles, when it joins the United Nations Security Council for a two-year term in January.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Application Period Open for Department of State and Environmental Protection Agency Virtual Air Quality Fellowship</title>
-		<link>https://www.state.gov/application-period-open-for-department-of-state-and-environmental-protection-agency-virtual-air-quality-fellowship-2/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Mon, 19 Dec 2022 18:15:28 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=406208</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p align="left">Applications are now being accepted for the U.S. Department of State (DOS) and U.S. Environmental Protection Agency (EPA) Virtual Air Quality Fellowship program through January 11, 2023. This fellowship is a vital component of DOS and EPA’s collaborative efforts to improve access to, and application of, continuous air quality data worldwide. The fellowship is open to air quality experts from universities, government agencies, or non-profit institutions. Applicants must be U.S. citizens. For more information, see <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMTkuNjg0OTc2MTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvZ2xvYmFsLWFpci1xdWFsaXR5LWZlbGxvd3NoaXAvIn0.EzP4KZuJbyr1yUqfkvAhGIkI30qVdf13tmXsVqGos0M/s/2576317770/br/150851815852-l. Click or tap if you trust this link." href="https://www.state.gov/global-air-quality-fellowship/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">https://www.state.gov/global-air-quality-fellowship/</a>.</p>
-<p align="left">The Fellows will volunteer 10-20 hours each month for one year to provide technical and/or policy support for a U.S. embassy or consulate. While the fellowship is virtual, some posts have sponsored visits by their Fellows to their country to help advance management and diplomatic objectives.</p>
-<p align="left">In the first six years of the program, over 100 Fellows matched with U.S. embassies and consulates have performed a wide variety of activities, including: using models to estimate concentrations of fine particles, or PM2.5; using satellite data in areas where monitoring data is unavailable to identify pollution trends; meeting with local government officials to discuss air quality reporting best practices; developing local air quality forecasting tools; helping U.S. diplomatic posts conduct maintenance on reference-grade air quality monitors; and assisting posts in understanding how to leverage data for decision-making.</p>
-<p align="left">Air quality data helps U.S. citizens and government personnel overseas make informed decisions to mitigate health risks from air pollution, advance air quality policy-making, as well as enhance scientific capacity around the world. For further information, please contact <a href="mailto:DOSAir@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="1">DOSAir@state.gov</a> and visit <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMTkuNjg0OTc2MTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvZW52aXJvbm1lbnRhbC1pbm5vdmF0aW9uLyNhaXJxdWFsaXR5In0.rb3kwppu625QCcklQxzSkfVsHmQsG_hiuklQRouzpR0/s/2576317770/br/150851815852-l. Click or tap if you trust this link." href="https://www.state.gov/environmental-innovation/#airquality" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="2">https://www.state.gov/environmental-innovation/#airquality</a>.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p align="left">Applications are now being accepted for the U.S. Department of State (DOS) and U.S. Environmental Protection Agency (EPA) Virtual Air Quality Fellowship program through January 11, 2023. This fellowship is a vital component of DOS and EPA’s collaborative efforts to improve access to, and application of, continuous air quality data worldwide. The fellowship is open to air quality experts from universities, government agencies, or non-profit institutions. Applicants must be U.S. citizens. For more information, see <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMTkuNjg0OTc2MTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvZ2xvYmFsLWFpci1xdWFsaXR5LWZlbGxvd3NoaXAvIn0.EzP4KZuJbyr1yUqfkvAhGIkI30qVdf13tmXsVqGos0M/s/2576317770/br/150851815852-l. Click or tap if you trust this link." href="https://www.state.gov/global-air-quality-fellowship/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="0">https://www.state.gov/global-air-quality-fellowship/</a>.</p>
-<p align="left">The Fellows will volunteer 10-20 hours each month for one year to provide technical and/or policy support for a U.S. embassy or consulate. While the fellowship is virtual, some posts have sponsored visits by their Fellows to their country to help advance management and diplomatic objectives.</p>
-<p align="left">In the first six years of the program, over 100 Fellows matched with U.S. embassies and consulates have performed a wide variety of activities, including: using models to estimate concentrations of fine particles, or PM2.5; using satellite data in areas where monitoring data is unavailable to identify pollution trends; meeting with local government officials to discuss air quality reporting best practices; developing local air quality forecasting tools; helping U.S. diplomatic posts conduct maintenance on reference-grade air quality monitors; and assisting posts in understanding how to leverage data for decision-making.</p>
-<p align="left">Air quality data helps U.S. citizens and government personnel overseas make informed decisions to mitigate health risks from air pollution, advance air quality policy-making, as well as enhance scientific capacity around the world. For further information, please contact <a href="mailto:DOSAir@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="1">DOSAir@state.gov</a> and visit <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMTkuNjg0OTc2MTEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvZW52aXJvbm1lbnRhbC1pbm5vdmF0aW9uLyNhaXJxdWFsaXR5In0.rb3kwppu625QCcklQxzSkfVsHmQsG_hiuklQRouzpR0/s/2576317770/br/150851815852-l. Click or tap if you trust this link." href="https://www.state.gov/environmental-innovation/#airquality" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="2">https://www.state.gov/environmental-innovation/#airquality</a>.</p>
-<p><input type="hidden" data-filter="100001000100" /></p>
 ]]></content:encoded>
 					
 		
