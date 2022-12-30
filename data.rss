@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 29 Dec 2022 11:35:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Dec 2022 01:25:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,163 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Israel’s New Government</title>
+		<link>https://www.state.gov/israels-new-government/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 30 Dec 2022 01:25:10 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=407718</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>Today, Israel’s Knesset voted to ratify a new Israeli government under the leadership of Prime Minister Benjamin Netanyahu.  I look forward to working with the new Israeli government to promote peace, security, and prosperity in the region, and to advance the interests and values that have been at the heart of our relationship for decades.  The deep bonds between the United States and Israel have long been based upon an unwavering commitment to Israel’s security and certain shared ideals, including democratic principles and a vision of Israel at peace with its neighbors.  As President Biden said, we will work with the new government to jointly address the many challenges and opportunities facing Israel and the Middle East region, including the threat from Iran, and will continue to support a two-state solution and oppose policies that endanger its viability or contradict our mutual interests and values.  The United States will remain committed to promoting equal measures of freedom, justice, security, and prosperity for Israelis and Palestinians alike.</p>
+<p><input type="hidden" data-filter="111000000000" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>Today, Israel’s Knesset voted to ratify a new Israeli government under the leadership of Prime Minister Benjamin Netanyahu.  I look forward to working with the new Israeli government to promote peace, security, and prosperity in the region, and to advance the interests and values that have been at the heart of our relationship for decades.  The deep bonds between the United States and Israel have long been based upon an unwavering commitment to Israel’s security and certain shared ideals, including democratic principles and a vision of Israel at peace with its neighbors.  As President Biden said, we will work with the new government to jointly address the many challenges and opportunities facing Israel and the Middle East region, including the threat from Iran, and will continue to support a two-state solution and oppose policies that endanger its viability or contradict our mutual interests and values.  The United States will remain committed to promoting equal measures of freedom, justice, security, and prosperity for Israelis and Palestinians alike.</p>
+<p><input type="hidden" data-filter="111000000000" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Turkish Court Upholds Conviction of Osman Kavala</title>
 		<link>https://www.state.gov/turkish-court-upholds-conviction-of-osman-kavala/</link>
 		
@@ -1549,165 +1706,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The United States, through its Conventional Weapons Destruction program, has funded work in the Pacific since 2009.  Since 1993, the United States has invested more than $4.7 billion for the safe clearance of landmines and explosive weapons of war as well as the securing and safe disposal of excess small arms and light weapons and munitions in more than 100 countries and territories.  The United States is the world’s single largest financial supporter of conventional weapons destruction.</p>
 <p>For more information, please consult the PM <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMjIuNjg3MDEwNjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvYnVyZWF1cy1vZmZpY2VzL3VuZGVyLXNlY3JldGFyeS1mb3ItYXJtcy1jb250cm9sLWFuZC1pbnRlcm5hdGlvbmFsLXNlY3VyaXR5LWFmZmFpcnMvYnVyZWF1LW9mLXBvbGl0aWNhbC1taWxpdGFyeS1hZmZhaXJzLyJ9.NP7Vhr4EGItV5kJuZj08ozcDDizdblAy1WaDiBsBRts/s/2576317770/br/151153506878-l. Click or tap if you trust this link." href="https://www.state.gov/bureaus-offices/under-secretary-for-arms-control-and-international-security-affairs/bureau-of-political-military-affairs/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="2">website,</a> the annual report <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDMsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMjIuNjg3MDEwNjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3YvdG8td2Fsay10aGUtZWFydGgtaW4tc2FmZXR5LyM6fjp0ZXh0PVJlbW92YWwlMjBhbmQlMjBBYmF0ZW1lbnQtLFRvJTIwV2FsayUyMHRoZSUyMEVhcnRoJTIwaW4lMjBTYWZldHksQWZmYWlycyUyMChQTSUyRldSQSkuIn0.9YZKDcE0FGy7ZzyM54pMQQOhafqhcGtnwJv_GlJRZYQ/s/2576317770/br/151153506878-l. Click or tap if you trust this link." href="https://www.state.gov/to-walk-the-earth-in-safety/#:~:text=Removal%20and%20Abatement-,To%20Walk%20the%20Earth%20in%20Safety,Affairs%20(PM%2FWRA)." target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="3"><em>To Walk the Earth in Safety</em></a> from PM’s <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDQsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMjIuNjg3MDEwNjEiLCJ1cmwiOiJodHRwczovL3d3dy5zdGF0ZS5nb3Yva2V5LXRvcGljcy1vZmZpY2Utb2Ytd2VhcG9ucy1yZW1vdmFsLWFuZC1hYmF0ZW1lbnQifQ.hJT-nj9LobsJ2dV5zbus6MNtui4Faa8dB_qroZ-wv6E/s/2576317770/br/151153506878-l. Click or tap if you trust this link." href="https://www.state.gov/key-topics-office-of-weapons-removal-and-abatement/" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="4"><em>Office of Weapons Removal and Abatement</em></a>, or contact the Bureau of Political-Military Affairs Office of Congressional and Public Affairs, at <a href="mailto:pm-cpa@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="5">pm-cpa@state.gov</a>. Follow us on Twitter <a title="Original URL: https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDUsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMjIuNjg3MDEwNjEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL1N0YXRlRGVwdFBNIn0.di4oHLHXDMeam8u5obgcUhs_bkAyV9kOFBgEsQFiEOs/s/2576317770/br/151153506878-l. Click or tap if you trust this link." href="https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&amp;originalUrl=https%3A%2F%2Fgcc02.safelinks.protection.outlook.com.mcas.ms%2F%3Furl%3Dhttps%253A%252F%252Flnks.gd%252Fl%252FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDUsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjEyMjIuNjg3MDEwNjEiLCJ1cmwiOiJodHRwczovL3R3aXR0ZXIuY29tL1N0YXRlRGVwdFBNIn0.di4oHLHXDMeam8u5obgcUhs_bkAyV9kOFBgEsQFiEOs%252Fs%252F2576317770%252Fbr%252F151153506878-l%26data%3D05%257C01%257CWMMailbox%2540state.gov%257Ccd1912a0d60348314b0b08dae445e3e0%257C66cf50745afe48d1a691a12b2121f44b%257C0%257C0%257C638073286093421082%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C3000%257C%257C%257C%26sdata%3DgiuEukJnt9NtMaLVV9JAWy2goJqx4oBzLh9ALrr9kMo%253D%26reserved%3D0%26McasTsid%3D20893&amp;McasCSRF=0c4730233e5f289fc0f934157b88a58180cbc398936112df953a6d8f8a12371e" target="_blank" rel="noopener noreferrer" data-auth="Verified" data-linkindex="6">@StateDeptPM</a>.</p>
 <p><input type="hidden" data-filter="100001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>The United States Imposes Sanctions on Russian Naval Entities</title>
-		<link>https://www.state.gov/the-united-states-imposes-sanctions-on-russian-naval-entities-2/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Thu, 22 Dec 2022 15:38:42 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=406902</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>We are committed to imposing additional severe consequences on President Putin and his enablers for Russia’s unconscionable war against Ukraine. In the wake of Russian naval operations against Ukrainian ports, including those that are providing much-needed food and grain to the world, the United States today is imposing sanctions on Russian naval entities.</p>
-<p>Specifically, the Department of State is designating 10 Russian naval entities pursuant to Executive Order 14024. More information on each sanctioned entity is available in this <a href="https://www.state.gov/the-united-states-imposes-sanctions-on-russian-naval-entities/">fact sheet</a>.</p>
-<p>The United States remains determined to use all appropriate measures to deter Russia’s attacks on Ukraine – whether those attacks be from the air, land, or sea. These accountability measures underscore a simple message: the Kremlin must end its brutal campaign against Ukraine.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>We are committed to imposing additional severe consequences on President Putin and his enablers for Russia’s unconscionable war against Ukraine. In the wake of Russian naval operations against Ukrainian ports, including those that are providing much-needed food and grain to the world, the United States today is imposing sanctions on Russian naval entities.</p>
-<p>Specifically, the Department of State is designating 10 Russian naval entities pursuant to Executive Order 14024. More information on each sanctioned entity is available in this <a href="https://www.state.gov/the-united-states-imposes-sanctions-on-russian-naval-entities/">fact sheet</a>.</p>
-<p>The United States remains determined to use all appropriate measures to deter Russia’s attacks on Ukraine – whether those attacks be from the air, land, or sea. These accountability measures underscore a simple message: the Kremlin must end its brutal campaign against Ukraine.</p>
 ]]></content:encoded>
 					
 		
