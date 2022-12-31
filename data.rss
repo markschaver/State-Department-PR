@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 30 Dec 2022 23:12:50 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 31 Dec 2022 13:31:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,167 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Haiti National Day</title>
+		<link>https://www.state.gov/haiti-national-day/</link>
+		
+		<dc:creator><![CDATA[The Secretary of State]]></dc:creator>
+		<pubDate>Sat, 31 Dec 2022 13:31:30 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=407962</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>The Secretary of State</p>
+<p>On behalf of the Government of the United States of America, I congratulate the Haitian people as you commemorate your country’s long history of independence and celebrate the start of a new year.</p>
+<p>This year has seen many challenges for the Haitian people.  It is a testament to our two nations’ close partnership that our humanitarian organizations, faith-based organizations, and individual American and Haitian citizens have collaborated to address the challenges facing Haiti.  Together, we have delivered humanitarian assistance to tens-of-thousands of Haitians facing food insecurity as well as medical supplies and logistical support to combat the spread of cholera.</p>
+<p>Haiti faces a difficult road ahead in the new year, but the United States stands firmly with Haiti as it works to restore security, the rule of law, democratic institutions, and economic stability.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>The Secretary of State</p>
+<p>On behalf of the Government of the United States of America, I congratulate the Haitian people as you commemorate your country’s long history of independence and celebrate the start of a new year.</p>
+<p>This year has seen many challenges for the Haitian people.  It is a testament to our two nations’ close partnership that our humanitarian organizations, faith-based organizations, and individual American and Haitian citizens have collaborated to address the challenges facing Haiti.  Together, we have delivered humanitarian assistance to tens-of-thousands of Haitians facing food insecurity as well as medical supplies and logistical support to combat the spread of cholera.</p>
+<p>Haiti faces a difficult road ahead in the new year, but the United States stands firmly with Haiti as it works to restore security, the rule of law, democratic institutions, and economic stability.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Launch of the AU Monitoring, Verification and Compliance Mission in Ethiopia</title>
 		<link>https://www.state.gov/launch-of-the-au-monitoring-verification-and-compliance-mission-in-ethiopia/</link>
 		
@@ -1227,411 +1388,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The below is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken spoke today with Turkish Foreign Minister Mevlut Cavusoglu.  Secretary Blinken thanked the Foreign Minister for his government’s efforts to ensure the continuation of the UN-brokered Black Sea Grain Initiative.  Secretary Blinken and Foreign Minister Cavusoglu underscored the importance of NATO unity in supporting Ukraine’s defense against Russia’s unprovoked war.  Secretary Blinken also expressed concern over the situation in Syria.</p>
 <p><input type="hidden" data-filter="100001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Secretary Antony J. Blinken at a Press Availability</title>
-		<link>https://www.state.gov/secretary-antony-j-blinken-at-a-press-availability-27/</link>
-		
-		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
-		<pubDate>Thu, 22 Dec 2022 20:50:01 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=406992</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, DC</p>
-<p>Press Briefing Room</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Very good to see everyone here this afternoon.</p>
-<p>In the first year of our administration, we focused on rebuilding and revitalizing America’s alliances and partnerships, weaving them together as well in new coalitions of common purpose.  As you all saw, we reinvigorated our engagement with NATO, with the European Union, the United Nations, the G7, ASEAN, the OECD.  We elevated and strengthened the Quad.  We created AUKUS, the U.S.-EU Trade and Technology Council, among many other groupings.</p>
-<p>The logic here was simple and straightforward:  We’re in a fundamentally stronger position to address the issues that actually affect the lives of the American people when we do so alongside the many countries that share our fundamental interests and values.</p>
-<p>In year two, we showed why this was a smart and important investment.  Whether we were addressing threats and risks posed by strategic competitors, combating global challenges like the climate crisis and the pandemic, or seizing opportunities to improve Americans’ lives in tangible ways, our alliances and our partnerships proved the vital difference.</p>
-<p>We kept up a pretty relentless pace of broadening and deepening our engagement across the world, hosting the Summit of the Americas, the U.S.-Africa Leaders Summit, the first-ever U.S.-Pacific Island Country Summit, the U.S.-ASEAN Special Summit.</p>
-<p>We drew enormous power as well as credibility from unprecedented investments in our economic strength and technological edge here at home – the Bipartisan Infrastructure Law, the CHIPS Act, the Inflation Reduction Act.</p>
-<p>So, today, what I wanted to spend a few minutes doing, with your tolerance, is to highlight four of the most consequential areas where diplomacy delivered in 2022.</p>
-<p>First, we rallied the world to ensure that Russia’s war on Ukraine is a strategic failure.  Since February 24th, we’ve brought together dozens of allies and partners to promote security, economic and humanitarian support to the Ukrainian people as they stand up for their country’s democracy, its sovereignty, and its independence.  Our collective support – including now an additional $1.85 billion in U.S. military assistance the President announced yesterday – has enabled Ukraine’s fighters to go on the counter-offensive, liberating their people, retaking more of their territory.</p>
-<p>NATO has never been stronger or more united.  The Alliance adopted a new Strategic Concept and added more forces and resources to our collective defense.  We doubled the number of battlegroups along NATO’s eastern flank.  We’ve increased deployments in the Baltics.  We’re on the cusp of adding Finland and Sweden as new members of the Alliance.</p>
-<p>We worked with allies and partners to impose the strongest-ever sanctions and export controls on President Putin and those enabling his war of aggression – significantly diminishing the Russian military’s access to funds, to goods, to technologies that are critical to the war effort.  By any measure, the Russian war machine is in dire straits.  U.S. diplomatic leadership has been indispensable in building and maintaining this unity of purpose and also this unity of action.  Meanwhile, we brought our diplomatic muscle to bear on isolating Russia at the United Nations and other international organizations, and to reaffirming global support for the core principles of the UN Charter that President Putin is trying to shed.</p>
-<p>Now, we know that a tough winter lies ahead for Ukrainians, as President Putin pursues his new strategy of trying to freeze Ukrainian men, women, children, the elderly to death.  We’re working with the G7 and other allies and partners to repair, to replace, and defend Ukraine’s energy infrastructure, including bolstering its advanced air defense through precision systems like the Patriot missile battery that President Biden announced yesterday.</p>
-<p>We are with Ukraine for as long as it takes.  That’s the message President Biden delivered personally to President Zelenskyy when he hosted him at the White House.  It’s a commitment backed up by robust and enthusiastic bipartisan support in Congress, which was on full display last night.</p>
-<p>Maintaining that support is crucial, because President Putin continues to show no interest in meaningful diplomacy.  We agree with President Zelenskyy that diplomacy is the only way to definitively end Russia’s war.  Until President Putin changes course, the best way to improve the prospects of a just and durable peace, to actually advance the prospects for meaningful diplomacy, is sustaining our strong support for Ukraine.</p>
-<p>Second, we accelerated strategic convergence with our allies and partners on the People’s Republic of China.  This is crucial, for while Russia poses an immediate threat to the free and open international system, the PRC is our only competitor with both the intent to reshape the international order and, increasingly, the economic, diplomatic, military, and technological power to advance that objective.</p>
-<p>Back in May, I set out our strategy to meet the challenge posed by the PRC: invest in the foundations of our strength at home; align with our partners and allies; compete with China so that we can defend our interests and realize our vision for the future.  Our diplomacy has played a key role in carrying out that strategy.</p>
-<p>We set out an affirmative approach for a free and open Indo-Pacific that draws on the views of many of our partners inside and outside the region, and that has in turn informed their own strategies.  Together with the European Union we strengthened our complementary toolkits on key challenges posed by the PRC, from economic coercion to human rights.  We’ve deepened our cooperation on investment screening and export controls of sensitive and emerging technologies.</p>
-<p>For the first time, NATO’s Strategic Concept committed to address the PRC’s systemic challenges to transatlantic security.  We deepened the Alliance’s coordination with Australia, Japan, the Republic of Korea, New Zealand, and our other Pacific allies.</p>
-<p>We’re united in our commitment to preserve peace and stability across the Taiwan Strait, and we continue to raise concerns and take joint action around the PRC’s human rights abuses in Xinjiang and Tibet, the erosion of freedom of speech and the press in Hong Kong.</p>
-<p>Even as we competed vigorously with the PRC, we’ve worked carefully to prevent our competition from veering into conflict.  We’ll continue to manage this relationship responsibly, building on the candid and productive discussion President Biden and President Xi had in Bali – a conversation I look forward to advancing when I visit the PRC early next year.  And we’ll continue to pursue cooperation on issues that demand that the United States and China work together – for the good of our people, but also for the good of people around the world.</p>
-<p>Third, we mobilized broad-based coalitions to deliver solutions to the shared global challenges that so many of us face, including on food security, on health, energy and climate, inclusive economic growth – challenges that have a real impact on the lives and the livelihoods of the American people, and that we cannot solve effectively alone.</p>
-<p>We led the global response to an unprecedented global food security crisis – driven by COVID, climate, and conflict – worsened significantly by President Putin’s war.</p>
-<p>In 2022 alone, we contributed $11 billion in humanitarian and food security assistance.  We hosted a Food Security Ministerial and summit with the African Union and the European Union to marshal the resources needed to save lives in the immediate, but also to help countries build their own capacity for resilient, sustainable agricultural production.</p>
-<p>We made significant strides in ending the acute phase of the COVID-19 pandemic – providing nearly $20 billion for the global response, distributing more than 670 million doses of safe, effective vaccines to over 115 countries.</p>
-<p>We launched and led the Global Action Plan, which brought together dozens of countries to get shots in arms, to bolster health supply systems, to combat misinformation and disinformation.</p>
-<p>We also took steps to ensure that the world is better prepared to prevent, to detect, and respond to future outbreaks.  We worked with the G20 to create a new World Bank fund to help countries strengthen their pandemic preparedness.  We will train 500,000 health workers over the next five years across our own hemisphere in Latin America.  We’ll invest $4 billion in health workers in Africa by 2025.</p>
-<p>On climate, we leveraged historic investments at home and abroad to accelerate the clean energy transition and adapt to the effects of a warming climate.  This is not just our responsibility; we also see it as a once-in-generations opportunity to create good-paying jobs for Americans.</p>
-<p>We forged new regional partnerships to make our economies more resilient, more sustainable, more prosperous, more inclusive – including the Indo-Pacific Economic Framework for Prosperity, whose members represent 40 percent of global GDP, and the Americas Partnership for Economic Prosperity.</p>
-<p>Together with the G7, we launched the $600 billion Partnership for Global Infrastructure and Investment, or PGII, to develop a high-standard, transparent alternative for infrastructure investment in low- and middle-income countries.</p>
-<p>Fourth, we used the power of American diplomacy to advance peace and prevent and mitigate conflict.  Together with my counterparts from Israel, Morocco, Bahrain, the United Arab Emirates, and Egypt, I took part in the historic Negev Summit to advance integration and normalization in the Middle East.</p>
-<p>We brokered a historic agreement between Israel and Lebanon to resolve their long-standing maritime boundary dispute.  We supported African-led talks that led to the cessation of hostilities between Ethiopia and Tigrayan forces.  We helped bring about a framework agreement to put Sudan back on the path toward civilian-led democracy.  We helped secure – and later extend – a truce in the Yemen conflict.</p>
-<p>And we brought home unjustly detained Americans from Russia, Iran, Venezuela, Burma, Afghanistan, Haiti, and other countries.  We will keep working every single day to bring home Americans who are wrongfully detained around the world, while taking steps to deter and prevent this abhorrent practice going forward.</p>
-<p>As we look ahead to 2023, we will continue to use all of our diplomatic tools to drive these priorities, and many others – including maintaining our commitment to the people of Afghanistan, particularly those who supported the U.S. mission there over 20 years, as well as to stand up for the rights of women and girls.</p>
-<p>We will also be intensely focused on coordinating international efforts to combat the scourge of fentanyl and other synthetic drugs.</p>
-<p>Now, I focused a lot on how we’ve worked with allies and partners in 2022 to confront today’s biggest challenges.  But even as we did that, we also took major steps here in this building to ensure that the State Department is positioned and empowered to meet today’s challenges, and tomorrow’s.</p>
-<p>We launched a new Bureau for Cyberspace and Digital Policy.  We notified Congress of our intent to create a new Bureau on Global Health Security and Diplomacy.  We stood up a China House to lead the development and coordination of our policy toward the PRC.  We expanded our diplomatic presence in the Indo-Pacific, and brought on the biggest cohort of Foreign and Civil Service officers in over a decade.  And we made significant strides toward attracting and retaining a workforce that reflects one of our nation’s greatest strengths – our diversity.</p>
-<p>Before I conclude, I want to acknowledge the “we” behind all of the hard-earned progress that we’ve made. That starts with the individuals who make up the Department of State, particularly our Foreign and Civil Service officers, our locally employed staff.  They’re the ones who executed on this vision – day in, day out.  And not just on the issues I highlighted today, but across every facet of our foreign policy – working together with our colleagues from across the U.S. Government, working as well with our foreign partners.</p>
-<p>I could not be prouder of my teammates.  I also couldn’t be more humbled by the opportunity to serve alongside them. To all of them, to their families, whose love and support and sacrifice allows them to provide this service, I simply want to say thank you.</p>
-<p>I also want to thank Congress for its partnership.  By our count, the department had more than 3,200 briefings, meetings, and calls with Congress over the past year.  I personally participated in more than 60 of those.</p>
-<p>I’m especially grateful to members of both parties who have worked with us to confirm 91 nominees this year – a tally we hope to add to in the weeks ahead.  Because when we have our team on the field, we deliver.</p>
-<p>Finally, I’d like to thank all of you, the members of our press corps.  The work that you do is indispensable to our democracy.  And while it’s not always easy answering your questions, the accurate information that you provide is a public good.  It’s as basic and as simple as that.  It helps our citizens understand the forces that are shaping their lives.  It empowers them to engage meaningfully in their communities, their country, the world.  It’s one of the reasons that we fight so hard for a free and independent media around the globe, and it’s why I’m deeply grateful to you for the work that you do.</p>
-<p>When I first started in this job, many people were asking if America would – or even could – lead again around the world.  Or, for that matter, whether the world wanted us to.</p>
-<p>In 2022, I think we answered those questions. We showed that the United States is ready and able to lead on the fundamental challenges of our time.  And countries around the world demonstrated why they want to be our partners in building a world that’s more free, more open, more secure, and more prosperous.</p>
-<p>With that, I thank you.  I’m happy to take some questions.</p>
-<p><strong>MR PRICE:</strong>  Matt.</p>
-<p><strong>QUESTION:</strong>  Thank you, Ned.  Thanks, Mr. Secretary.  Merry Christmas and &#8212;</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Thank you.</p>
-<p><strong>QUESTION:  </strong>&#8212; happy holidays, and I hope the lovely weather doesn’t interfere with any travel plans that you might have.  You – in honor of the new year I have 23 questions.  (Laughter.)  But in deference to everyone, I’ll condense it to one so.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  So your question’s 23 parts.  Is that it?</p>
-<p><strong>QUESTION:</strong>  No, no, no.  Not even 23 parts.  But you’ll see.  So in your year-end review of 2022, you mentioned a number of issues – Russia, China, Afghanistan.  You didn’t mention Iran and North Korea, which are – which were big issues this year and will continue to be, along with those other three.  So when you talk about these challenges which we’re facing, which you’re going to face in the upcoming year, you often say that the ball is in their court, that you’ve made a proposal, they need to respond.  I’m wondering if there are any – Russia, China, Iran, North Korea, Afghanistan – in which you could see the ball being in your court.  In other words, any – are there any of them in which you can see the administration making fresh, new initiatives or proposing new ideas to resolve some of these problems, which are dramatic, to say the least?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank, Matt, very much.  First, I think it’s fair to say – to atrociously mix a metaphor – that the ball’s been in our court and we’ve been running with it, by which I mean this – take Russia, Ukraine.  From the outset of this aggression, from even before the conflict, we were very clear, including with the Russians, that if they proceeded with the aggression we would do three things.  We would work day in, day to support Ukraine and rally the world to do the same; we would impose severe costs on Russia for its actions; we would strengthen the Alliance that we have to defend us and defend our partners in Europe, NATO.</p>
-<p>We have done and we continue to do day in, day out, exactly what we said.  And that’s not sitting back and waiting for someone to hit the ball at us.  It is us, every single day, with our diplomacy – because this stuff doesn’t just happen – making good on those commitments.</p>
-<p>When it comes to China, one of the things that we set out to do – and it’s laid out in our strategy, as I said – was both to invest in ourselves, to align with our allies and partners, and then to compete vigorously where we disagree.  And that’s exactly what we’ve done and what we continue to do every single day.  The convergence that we built, the convergence that is stronger and greater than any time that I’ve seen it between the United States and Europe, the United States and Asia, and increasingly countries around the world on how to approach the challenge that China poses – that’s what we’re working on every single day.</p>
-<p>And as I mentioned a few minutes ago, in area after area, we are more aligned than we’ve been.  We’re approaching this in similar ways, often the same ways.  And again, that is the product of active, proactive, engaged American diplomacy.</p>
-<p>I can go down the board.  The common denominator here is that all of these areas we have been running with the ball.  But it started with something that remains to me foundational, and that was the decision that we made, at the President’s instruction on day one, to reinvigorate, to re-energize, to rejuvenate, to re-engage, and in some cases to reinvent these alliances and partnerships.  The fundamental premise that we have is, one, as I’ve – and you’ve heard me say this a bunch of times, but it bears repeating – one, the world doesn’t organize itself.  And if we are not out there – if the United States is not out there leading, engaging, helping to do the organizing, then either someone else is going to do it or no one does it – either way, probably not good for us.</p>
-<p>But second, and the flip side of the same coin, is that virtually all these problems to be effectively resolved require other countries in on the deal, require us to coordinate, to cooperate.  That’s where American diplomacy has been playing a leading role.  Every single one of these issues – and again, when it comes to other issues that you’ve mentioned – Iran, North Korea, et cetera – we’ve not been sitting back.  We’ve been leaning in, but ultimately other countries have to make decisions about what they’re going to do or not do.</p>
-<p>We continue to believe, for example, on Iran’s nuclear program that the best way to deal with this challenge, to deal with this threat is through diplomacy.  We’ve been engaged in intense diplomacy.  But if Iran is not willing or able to do what’s necessary to get back into compliance, well, that’s part of the equation too.</p>
-<p><strong>MR PRICE:  </strong>Michele.</p>
-<p><strong>QUESTION:  </strong>Yeah, I want to pick up on this issue of alliances.  Because the Biden administration came under a lot of criticism, including from allies, for its handling of the withdrawal from Afghanistan.  I wonder if there were lessons learned that are – that have been useful to you in managing these alliances, now in dealing with Russia and China.  And then also, just briefly, what, if anything, can the U.S. do now to support the women of Afghanistan?</p>
-<p><strong>SECRETARY BLINKEN:  </strong>So second part first.  The decision that we just heard come from the Taliban on denying opportunities for women to go to universities, girls to go to school – I think what you’ve already heard is a course of condemnation from around the world, and not only from us but from countries – virtually every continent, including Muslim countries, which, I think is, in and of itself, important and powerful.  What they’ve done is to try to sentence Afghan women and girls to a dark future without opportunity.  And the bottom line is that no country is going to be able to succeed, much less thrive, if it denies half its population the opportunity to contribute.</p>
-<p>And to be clear – and we are engaged with other countries on this right now – there are going to be costs if this is not reversed, if this is not changed.  I’m not going to detail them today, but we will pursue them in coordination with allies and partners.  And I can tell you as well that any prospect that the Taliban seeks for improved relations with the world, with the international community, which is something that they want and we know that they need – that is not going to happen if they continue on this course.</p>
-<p>More broadly when it comes to Afghanistan, of course, as we’ve said, we have to learn the lessons of Afghanistan over the 20 years of the mission there, as well as the last year.  I have to say – and if you go back and look at, for example, what the NATO Secretary General said and others have said, our consultation with allies and partners on Afghanistan in the moment were sustained, they were intense, and we strongly took note of everything that we heard from allies and partners in advance of the decisions that President Biden made and that we made.  So I think this notion that we hear from some about a lack of consultation is actually not born out by the facts and also not born out by what many of our allies and partners have said.</p>
-<p>I’ll also say this: we ended America’s longest war.  For the first time in 20 years, Americans will not be coming home from Afghanistan in a body bag or grievously injured.  We brought more than 120,000 people out of the country.  When it comes to Russia’s war against Ukraine, if we were still in Afghanistan, it would have, I think, made much more complicated the support that we’ve been able to give and that others have been able to give Ukraine to resist and push back against the Russian aggression. We heard predictions that leaving Afghanistan would result in a tsunami of refugees of Afghanistan.  That, to date, has not happened.  We’ve heard that it would result in more terrorism.  That to date has not happened.  And on the contrary, we were able to take out one of the leading terrorists, Mr. al-Zawahiri.</p>
-<p>And so I think putting all of this in perspective is very important.  Putting it in the perspective of 20 years, putting it in the perspective of the last year, putting in the perspective of what has happened since – that does not take away from our enduring commitment to make sure that we help those who helped us in Afghanistan.  It doesn’t take away from our enduring commitment to stand up for the rights of women and girls, and more broadly for the rights of people in Afghanistan.  It doesn’t take away from our enduring commitment to help as the leading provider of humanitarian assistance to Afghanistan.  All that remains very much on our plates as we go forward.</p>
-<p><strong>MR PRICE:</strong>  Kylie.</p>
-<p><strong>QUESTION:  </strong>Thank you.  Thanks for doing this, Secretary.  I wanted to point to something that you said earlier this month on Ukraine.  You said the Biden administration is working to make sure that Ukraine has what it needs to take back its territory that’s been seized since February 24th.  I’m wondering if you had a sense in the private discussions with President Zelenskyy yesterday if that’s something that Ukraine could agree to as an end state, because it does seem at odds with what Zelenskyy stated as what a just peace would look like.</p>
-<p>And then we just heard from the NSC’s John Kirby that Biden’s team is going to work with President Zelenskyy’s team on looking at that peace proposal that they put forth.  I’m wondering what the goal of that review is.  Do you want to put forth a renewed peace plan that has the backing of the U.S. alongside Ukraine?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Good.  Thanks, Kylie, very much.  First, what’s clear from all of our conversations with Ukraine, including the conversations just yesterday between President Biden and President Zelenskyy, is that we have the same objectives, the same goals: a free, an independent, a prosperous and democratic Ukraine, one that demonstrates that the principles of the United Nations Charter are being upheld, including on territorial integrity and sovereignty and independence.  And that’s something the President reiterated yesterday.</p>
-<p>We’ve also been very clear that fundamentally these decisions are for Ukrainians to make.  They have to decide where they’re going, how they’re trying to get there, when they’re trying to get there, of course with our very, very strong support.  So fundamentally, they’re the ones who are going to be making these decisions.  What we’ve heard from the Ukrainians in recent months is the intense focus on getting back territory in the east and in the south that was principally seized since February.  That’s where their focus has been.  But that doesn’t prejudge in any way where this goes, where it settles.  Again, these are decisions for them to make.</p>
-<p>What we want and what many other countries around the world want is a peace, ultimately, that, as we’ve said, is just and durable.  And by “just,” one that doesn’t simply ratify another country seizing by force the territory of another; “durable” in the sense that we want to make sure that it holds and that we’re not simply putting Ukraine in a position where Russia is going to repeat what it did a month, six months, a year later.  All of those elements are very important to what we factor in.</p>
-<p>When it comes to the peace proposal, I think here’s what’s important:  President Zelenskyy has made repeatedly clear that this is going to end when it ends through diplomacy, through a negotiation, and he’s put forward some ideas, some principles, some particular issues around which hopefully countries can come together to try to advance that proposition.  But fundamentally, right now Russia has shown no interest in meaningful diplomacy, in meaningfully engaging to bring this war to an end.  As President Biden said, that could happen tomorrow if Putin withdrew his forces, but that’s not going to happen.  And in the absence of that, we have to see some meaningful evidence that Russia is prepared to actually negotiate and negotiate, again, a just and durable peace.  We just haven’t seen that.</p>
-<p>In our judgment, the best way to actually advance getting to that day is to sustain our support for Ukraine, to make sure that it does well on the battlefield; that it continues to have the support it needs to sustain itself against the Russian onslaught, including against its energy infrastructure; as well as economic support.  That is what is most likely to speed up the day when President Putin comes to the conclusion that what he’s engaged in is futile and that it’s time for a genuine negotiation.  I think President Zelenskyy’s proposals are a good start at that.  We’re talking to countries around about those proposals.  They’re things that everyone should be able to – in one way or another to rally to.</p>
-<p><strong>QUESTION:</strong>  But what’s the goal of reviewing that peace plan they put forward, and how long will that take?</p>
-<p><strong>MR PRICE:</strong>  Kylie, we’ll move around a bit.  Humeyra, go ahead.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  I’m sorry, what’s &#8212;</p>
-<p><strong>QUESTION:</strong>  How long is it going to take for Biden administration officials to work with Zelenskyy’s team to review that proposal that he’s put forward?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, I don’t want to put a timeline on anything, but I can just tell you that we’re looking at what he’s put forward.  I was just on the – I was going to say on the phone – on the video with our G7 partners this morning, and this is one of the things that we talked about.  So I think countries around the world are looking at this and they’re seeing that, again, the Ukrainians want – look, no one wants peace more than President Zelenskyy and the people of Ukraine.  They’re the ones who are suffering from the aggression.  But it has to be just and it has to be durable.</p>
-<p><strong>MR PRICE:</strong>  Humeyra.</p>
-<p><strong>QUESTION:</strong>  Thank you, Ned.  Hello, Mr. Secretary.  I just want to go to China.  So at the moment, there is an uncontrolled COVID outbreak there since the reversal of their “Zero COVID” policy, and many countries, including the United States, have expressed concern over it and they said they could help.  I just want to zero in on that.  Has the United States in recent weeks or since the reversal of policy offered China to provide them with vaccines?  What was their response?  And since the authorities there have changed the criteria to calculate COVID deaths, how accurate do you find China’s official figures on casualties?  Thanks.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  First, let me say this.  We want to see China get this outbreak under control for three reasons.  First, we don’t want to see people anywhere suffering from COVID.  Whether it’s illness, whether it’s death, we want to see that come to an end wherever it’s happening, including in China.</p>
-<p>Second, any time the virus is spreading or is moving around, there is the possibility that a new variant develops, that variant spreads even further, and it comes and hits us or hits other countries around the world.  So we have a clear interest in that.</p>
-<p>And then, as we’ve seen, there are clear implications for the global economy with China being shut down because of COVID.</p>
-<p>So on all of those levels – a basic humanitarian level, the concern for everyone’s health, as well as for the global economy – it’s profoundly in our interest that China do what’s necessary to get ahead of this.  At the same time, it’s also very important for all countries, including China, to focus on people getting vaccinated, making testing and treatment available, and, importantly, sharing information with the world about what they’re experiencing – again, because it has implications not just for China but for the entire world.  So we would like to see that happening.</p>
-<p>We’re the largest donor of vaccines, as you know.  We’re prepared to continue to support people around the world, including in China, with this and with other COVID-related health support.  China has not asked to date for that help, but, again, we’re fully prepared to provide assistance to anyone who asks for it if they think it’s useful.</p>
-<p><strong>MR PRICE:</strong>  Farhad.</p>
-<p><strong>QUESTION:</strong>  Thank you.  Thank you, Secretary, for taking our questions.  You just mentioned right now that for the Iran nuclear deal, diplomacy is still the best option, while at the same time you are saying that the focus is the Iranian people asking or seeking their right.  How can you – like, what sort of message are you sending to the Iranian people who are being repressed right now?  And then the U.S. is going for a deal with a government that was the only government outside Russia that was yesterday mentioned by President Zelenskyy, a few meters away from here, saying that they are doing a terrorist action by providing drones.  How can you add this up for the people of Iran?</p>
-<p>And also, what message do you have for the families of Emad Shargi, Morad Tahbaz, Siamak Namazi, and the green card holder Shahab Dalili?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  So a couple of things on this.  First, I think the world has been intensely focused on what’s happening throughout Iran.  We remain gravely concerned about Iranian authorities firing on peaceful protestors, notably on women, on children.  We’ve seen mass arrests.  We’ve seen sham trials.  We’ve seen executions.  We’ve seen use of sexual violence as a tool for protest suppression.  Not only us, the eyes of the world have seen this.  And these human rights abuses are not going and will not go without consequence.</p>
-<p>We’ve been working from even before the – this repression to sanction those who are engaged in trying to repress the Iranian people, and just yesterday, I believe, we issued new sanctions, including on the prosecutor general of Iran.  At the same time, as you’ve heard me discuss, we’ve been working to try to make sure that Iranians have in their hands the ability to communicate with each other, to remain connected with the outside world.  We’ve been working on that and with partners, with allies, with countries around the world, including at the United Nations, we have worked to continue to hold Iran accountable and to condemn it for its actions.</p>
-<p>So that is happening.  That is ongoing.  And that is the focus of so many countries around the world.  At the same time, we’re intensely focused on the fact that Iran has provided UAVs to Russia to prosecute its aggression against Ukraine, and in particular, to attack civilian infrastructure.  These Iranian drones are what is being used, among other things, to try to turn off the lights, turn off the heat, turn off the water for Ukrainians as they head into winter.  And we’re putting a spotlight on that and, again, trying to take actions wherever we can to disrupt that, including sanctioning the various UAV networks that Iran is engaged in.</p>
-<p>Other countries also are focused on this.  We’ve shared information at the United Nations on Iran’s actions, which we see as a violation of UN Security Council Resolution 2231.  We think it’s a clear violation and we’re urging an investigation of that.</p>
-<p>So on all of these fronts as well as the many other areas where Iran is engaging in destabilizing activities, dangerous activities, support for terrorist groups, destabilizing actions throughout the region, we’ve been focused and engaged.  That also does not take away from the proposition that it is profoundly in our interest that Iran not acquire a nuclear weapon.  And President Biden is committed to ensuring that Iran not acquire a nuclear weapon.  We’ve continued to believe that the most effective way, the most durable way to do that was through diplomacy.</p>
-<p>And when the JCPOA, the Iran nuclear deal, was actually enforced, it did exactly what it was designed to do.  It put Iran’s nuclear program in a box.  It was verified not only by international inspectors, it was verified by our own people, Iran’s compliance with that, including by the previous administration.  And in our judgment, it was a grievous mistake to pull out of that agreement and to let Iran’s nuclear program out of the box.  But that’s the reality that we inherited and that we’ve had to deal with.</p>
-<p>So on the diplomacy, again, as I said, we think that’s the best solution.  But despite the efforts that we’ve made, even as we’ve been pushing back against Iran’s other egregious actions, despite the efforts that we’ve made and our partners in Europe have made, Iran has not been willing or able to do what’s necessary to come back into compliance with the agreement.  So we will continue to look and act on ways to make sure that, one way or another, Iran does not acquire a nuclear weapon.</p>
-<p><strong>MR PRICE:</strong>  Sean.</p>
-<p><strong>QUESTION:</strong>  And the families?</p>
-<p><strong>QUESTION:</strong>  Sure.  Could I ask you about the Middle East, elsewhere in the Middle East?  There’s a formation of the government in Israel to – Benjamin Netanyahu is going to be the prime minister again.  You, yourself, gave a speech to J Street where you mentioned concerns about some potential actions, such as annexation, such as settlements.  You mentioned that you – that you’re going to deal with policies, not with personalities.  Nonetheless, some of the personalities in the government have called for measures like this.</p>
-<p>But how is the United States going to deal with that?  Is there going to be – are you going to deal with these specific players in the government who may have backgrounds that are problematic?  And in terms of the Arab world, through the Abraham Accords – you mentioned the Negev Summit.  To what extent can you leverage that to – perhaps to send a message to the new Israeli government?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Right.  So first I want to extend congratulations to Prime Minister Netanyahu on announcing the formation of a new government.  The Knesset still has to approve it, as you know, before it can be formally sworn in.  But we look forward to working with Israel to advance both the interests and the values that have been – long been at the heart of our relationship, and also to promoting a broader approach to try to bring equal measures of security, of opportunity, of prosperity, of dignity to Israelis and Palestinians alike.</p>
-<p>There’s been no secret about our approach.  And again, I reiterated that in the remarks I made to J Street just a few weeks ago.  And as you noted, what I said then, what I repeat now, is that going forward – just as in the past previous administrations on the Israeli side, on the American side, what previous American administrations have done – we will engage with and judge our partners in Israel on the basis of the policies they pursue, not the personalities that happen to form the government.</p>
-<p>I think we’ve demonstrated over successive Israeli governments and over successive American administrations, precisely because we have a rock-solid partnership and one that is committed to Israel’s security, that we can have very candid conversations when we disagree.  That’s not going to change, either.</p>
-<p><strong>QUESTION:</strong>  May I follow up, Ned?</p>
-<p><strong>MR PRICE:</strong>  Courtney.</p>
-<p><strong>QUESTION:</strong>  Thank you.  Mr. Secretary, happy holidays.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.</p>
-<p><strong>QUESTION:</strong>  The administration has maintained its position on diplomacy with North Korea over its missile program even as Pyongyang’s provocations have increased in both frequency and severity.  And now the White House has confirmed North Korea’s transfer of weapons to Wagner Group.  I’m just wondering, what does running with the ball look like in 2023?  What is the outlook for the new year?  Are you seeing it as being time to change course?  And are – when you talk about alliances, are the U.S., Republic of Korea, and Japan agreed on how to proceed?  Thanks.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  We’re in not only close communication and coordination, I think we’re in very tight synchronization with the Republic of Korea and with Japan on the approach to North Korea.  In fact, I think that alignment’s not been stronger in recent years.  So we’re working together every single day.</p>
-<p>And when it comes to running with the ball, this is not only a question of condemning what North Korea’s done and continues to do – the egregious violations of UN Security Council resolutions, the provocative actions, the threat to peace and security – not only sanctioning these acts, as we continue to do, and bringing them to the United Nations, we continue to take actions to shore up our own defensive and deterrent capabilities and capacities, including working ever more closely with Japan, with Korea on exercises, on preparedness, making sure that we and they have the systems in place to deter and ultimately defend against any North Korean aggression.  All of that is ongoing.</p>
-<p>And I’d also note that the sanctions that we have put in place and that we’re working to strongly enforce have put some constraints on North Korea’s ability to continue to advance its missile and nuclear programs.  Nonetheless, they are – we’re – I’m not going to predict or preview where this is going in 2023, except to say that quite literally every single day we are working with our allies and partners to make sure that not only are we putting pressure on North Korea to end these practices, but we’re making sure that we’re putting in place what is needed to deter aggression directly against any of our partners, as well as against us, and if necessary defend against it.</p>
-<p>Let me just add that China has an important role to play in this.  It has the strongest, deepest relationship of any country in the world with North Korea.  I think it’s in China’s interest not to see these kind of provocative actions continue.  And we have conversations with China; this is something President Xi and President Biden talked about.  I expect I’ll continue that conversation when I get to China early next year, about what we hope that China will do to try to convince North Korea to move in another direction.</p>
-<p>We have said very clearly, and it remains the case, that we’re open to diplomacy without any preconditions.  We remain committed to seeing the denuclearization of the Korean Peninsula.  To date, North Korea’s not engaged on that basis, but that remains a possibility.  And I think China can play a role in helping to move things in that direction.</p>
-<p><strong>MR PRICE:</strong>  One final question.  Missy.</p>
-<p><strong>QUESTION:</strong>  Thanks, Mr. Secretary.  The Biden administration has promised to put human rights at the center of its foreign policy, and I understand I’ve heard from you and from other senior members of the Biden administration that human rights is always part of the conversation but is obviously not the only concern when the United States deals with its partners and another – any country.  Looking back at the last two years, how well do you think the administration has done in getting the mix right and effectively using American leverage and influence to actually get results when it comes to human rights?  And if there are any specific examples of where you think the United States has done well or not so well, that would be helpful.  Thank you.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Sure.  As you said, very rightly, first, it’s something that President Biden felt very strongly about putting back at the center of our foreign policy, and we’ve done that.  We’ve done that in shining a spotlight on human rights abuses.  We’ve done that in rallying other countries to speak out, stand up, and take action against these abuses.  We’ve done that in the actions that we’ve taken ourselves.</p>
-<p>At the same time, again, as you rightly said, it’s at the heart of our foreign policy; it’s not the totality of our foreign policy.  It’s one of the critical elements that we look at and try to advance, but in every instance we have to balance a multiplicity of interests.  And at the same time, we have to make judgments about what is ultimately the most effective way to try and advance our commitment to human rights.  And most of this, as with a lot of the things we do, are not like flipping a light switch.  A lot of this is turning an aircraft carrier, and it takes time and it takes relentless effort.</p>
-<p>I mentioned earlier that we have greater convergence than I’ve seen in my experience with our closest allies and partners in Europe, as well as in Asia, on China.  I think you see that playing out, for example, when it comes to human rights abuses that are being committed by China, whether it’s in Xinjiang, Tibet, other places, including for example in growing convergence on export controls not only going to the most sensitive technologies that might help China advance its military capacity, but also technology that could be used for the surveillance of people and other tools of repression against the rights of minorities and others in China.</p>
-<p>Same thing in a number of other countries.  Similarly, we’ve taken steps – and others have taken steps with us – to try to help ensure that products that are made with forced labor in countries don’t come into our own country or to other countries.</p>
-<p>There are lots of places where we’ve seen human rights abuses committed in the context of larger conflicts.  One way to make sure that we’re actually getting at the upholding of human rights and the end of abuse is to try to resolve those conflicts.  Yemen is an example of a place where we’ve invested tremendously in support of diplomacy to try to end the conflict.  And for all of the fragility, we had a ceasefire that was extended.  And even though it’s now not been formally extended another time, in practice it’s holding.  That’s a lot of humanitarian assistance to get to people.  It’s also seen, I think, a reduction in abuses committed against civilians.</p>
-<p>Similarly in Ethiopia, where we’ve labored in close partnership with African countries, including the African Union, but also including countries like Kenya, the practical effect of getting a cessation of hostilities, of getting the guns quiet, of getting humanitarian assistance into Tigray has also been to reduce, if not eliminate, the human rights abuses that were being committed as the conflict was raging.  And we’re focused now on making sure that we can get independent human rights monitors into Tigray to verify that there are no ongoing atrocities, even as we’re looking for accountability for what’s already taken place.</p>
-<p>In Ukraine, where we see human rights abuses being committed on an almost daily basis by Russian forces, we’ve put a bright spotlight on that.  Not only have we put a spotlight on it, we’ve been working overtime to help collect the evidence and gather the information of these abuses.  We’re engaged across the international community, whether it’s with the UN, whether it’s with the International Criminal Court, whether it’s looking at other mechanisms to make sure that not only is that information and evidence gathered, but that at the end of the day there will be accountability for these human rights abuses.  And that’s one way, as we put a spotlight on it, to deter it.</p>
-<p>So I think there are many other places where, in one way or another, the combination of putting a spotlight on something, taking concrete action, getting others to do the same is making a difference.  But the reality, of course, is that we continue to see abusive practices in many places.  We will remain relentless in trying to stop it, to put a spotlight on it.  And there’s no one-size-fits-all approach.  We’re looking at each case, each instance, each place on its own terms, trying to make judgements each time about how we can actually be most effective in bringing these abuses to an end.</p>
-<p>Thank you.  Thank you, everyone.</p>
-<p><strong>QUESTION:</strong>  Thank you.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  I really hope everyone gets a break, has time with family, with friends, and that we see you fully energized in 2023.  Look forward to seeing you then.  Thanks.</p>
-<p><input type="hidden" data-filter="100001000111" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>Washington, DC</p>
-<p>Press Briefing Room</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Very good to see everyone here this afternoon.</p>
-<p>In the first year of our administration, we focused on rebuilding and revitalizing America’s alliances and partnerships, weaving them together as well in new coalitions of common purpose.  As you all saw, we reinvigorated our engagement with NATO, with the European Union, the United Nations, the G7, ASEAN, the OECD.  We elevated and strengthened the Quad.  We created AUKUS, the U.S.-EU Trade and Technology Council, among many other groupings.</p>
-<p>The logic here was simple and straightforward:  We’re in a fundamentally stronger position to address the issues that actually affect the lives of the American people when we do so alongside the many countries that share our fundamental interests and values.</p>
-<p>In year two, we showed why this was a smart and important investment.  Whether we were addressing threats and risks posed by strategic competitors, combating global challenges like the climate crisis and the pandemic, or seizing opportunities to improve Americans’ lives in tangible ways, our alliances and our partnerships proved the vital difference.</p>
-<p>We kept up a pretty relentless pace of broadening and deepening our engagement across the world, hosting the Summit of the Americas, the U.S.-Africa Leaders Summit, the first-ever U.S.-Pacific Island Country Summit, the U.S.-ASEAN Special Summit.</p>
-<p>We drew enormous power as well as credibility from unprecedented investments in our economic strength and technological edge here at home – the Bipartisan Infrastructure Law, the CHIPS Act, the Inflation Reduction Act.</p>
-<p>So, today, what I wanted to spend a few minutes doing, with your tolerance, is to highlight four of the most consequential areas where diplomacy delivered in 2022.</p>
-<p>First, we rallied the world to ensure that Russia’s war on Ukraine is a strategic failure.  Since February 24th, we’ve brought together dozens of allies and partners to promote security, economic and humanitarian support to the Ukrainian people as they stand up for their country’s democracy, its sovereignty, and its independence.  Our collective support – including now an additional $1.85 billion in U.S. military assistance the President announced yesterday – has enabled Ukraine’s fighters to go on the counter-offensive, liberating their people, retaking more of their territory.</p>
-<p>NATO has never been stronger or more united.  The Alliance adopted a new Strategic Concept and added more forces and resources to our collective defense.  We doubled the number of battlegroups along NATO’s eastern flank.  We’ve increased deployments in the Baltics.  We’re on the cusp of adding Finland and Sweden as new members of the Alliance.</p>
-<p>We worked with allies and partners to impose the strongest-ever sanctions and export controls on President Putin and those enabling his war of aggression – significantly diminishing the Russian military’s access to funds, to goods, to technologies that are critical to the war effort.  By any measure, the Russian war machine is in dire straits.  U.S. diplomatic leadership has been indispensable in building and maintaining this unity of purpose and also this unity of action.  Meanwhile, we brought our diplomatic muscle to bear on isolating Russia at the United Nations and other international organizations, and to reaffirming global support for the core principles of the UN Charter that President Putin is trying to shed.</p>
-<p>Now, we know that a tough winter lies ahead for Ukrainians, as President Putin pursues his new strategy of trying to freeze Ukrainian men, women, children, the elderly to death.  We’re working with the G7 and other allies and partners to repair, to replace, and defend Ukraine’s energy infrastructure, including bolstering its advanced air defense through precision systems like the Patriot missile battery that President Biden announced yesterday.</p>
-<p>We are with Ukraine for as long as it takes.  That’s the message President Biden delivered personally to President Zelenskyy when he hosted him at the White House.  It’s a commitment backed up by robust and enthusiastic bipartisan support in Congress, which was on full display last night.</p>
-<p>Maintaining that support is crucial, because President Putin continues to show no interest in meaningful diplomacy.  We agree with President Zelenskyy that diplomacy is the only way to definitively end Russia’s war.  Until President Putin changes course, the best way to improve the prospects of a just and durable peace, to actually advance the prospects for meaningful diplomacy, is sustaining our strong support for Ukraine.</p>
-<p>Second, we accelerated strategic convergence with our allies and partners on the People’s Republic of China.  This is crucial, for while Russia poses an immediate threat to the free and open international system, the PRC is our only competitor with both the intent to reshape the international order and, increasingly, the economic, diplomatic, military, and technological power to advance that objective.</p>
-<p>Back in May, I set out our strategy to meet the challenge posed by the PRC: invest in the foundations of our strength at home; align with our partners and allies; compete with China so that we can defend our interests and realize our vision for the future.  Our diplomacy has played a key role in carrying out that strategy.</p>
-<p>We set out an affirmative approach for a free and open Indo-Pacific that draws on the views of many of our partners inside and outside the region, and that has in turn informed their own strategies.  Together with the European Union we strengthened our complementary toolkits on key challenges posed by the PRC, from economic coercion to human rights.  We’ve deepened our cooperation on investment screening and export controls of sensitive and emerging technologies.</p>
-<p>For the first time, NATO’s Strategic Concept committed to address the PRC’s systemic challenges to transatlantic security.  We deepened the Alliance’s coordination with Australia, Japan, the Republic of Korea, New Zealand, and our other Pacific allies.</p>
-<p>We’re united in our commitment to preserve peace and stability across the Taiwan Strait, and we continue to raise concerns and take joint action around the PRC’s human rights abuses in Xinjiang and Tibet, the erosion of freedom of speech and the press in Hong Kong.</p>
-<p>Even as we competed vigorously with the PRC, we’ve worked carefully to prevent our competition from veering into conflict.  We’ll continue to manage this relationship responsibly, building on the candid and productive discussion President Biden and President Xi had in Bali – a conversation I look forward to advancing when I visit the PRC early next year.  And we’ll continue to pursue cooperation on issues that demand that the United States and China work together – for the good of our people, but also for the good of people around the world.</p>
-<p>Third, we mobilized broad-based coalitions to deliver solutions to the shared global challenges that so many of us face, including on food security, on health, energy and climate, inclusive economic growth – challenges that have a real impact on the lives and the livelihoods of the American people, and that we cannot solve effectively alone.</p>
-<p>We led the global response to an unprecedented global food security crisis – driven by COVID, climate, and conflict – worsened significantly by President Putin’s war.</p>
-<p>In 2022 alone, we contributed $11 billion in humanitarian and food security assistance.  We hosted a Food Security Ministerial and summit with the African Union and the European Union to marshal the resources needed to save lives in the immediate, but also to help countries build their own capacity for resilient, sustainable agricultural production.</p>
-<p>We made significant strides in ending the acute phase of the COVID-19 pandemic – providing nearly $20 billion for the global response, distributing more than 670 million doses of safe, effective vaccines to over 115 countries.</p>
-<p>We launched and led the Global Action Plan, which brought together dozens of countries to get shots in arms, to bolster health supply systems, to combat misinformation and disinformation.</p>
-<p>We also took steps to ensure that the world is better prepared to prevent, to detect, and respond to future outbreaks.  We worked with the G20 to create a new World Bank fund to help countries strengthen their pandemic preparedness.  We will train 500,000 health workers over the next five years across our own hemisphere in Latin America.  We’ll invest $4 billion in health workers in Africa by 2025.</p>
-<p>On climate, we leveraged historic investments at home and abroad to accelerate the clean energy transition and adapt to the effects of a warming climate.  This is not just our responsibility; we also see it as a once-in-generations opportunity to create good-paying jobs for Americans.</p>
-<p>We forged new regional partnerships to make our economies more resilient, more sustainable, more prosperous, more inclusive – including the Indo-Pacific Economic Framework for Prosperity, whose members represent 40 percent of global GDP, and the Americas Partnership for Economic Prosperity.</p>
-<p>Together with the G7, we launched the $600 billion Partnership for Global Infrastructure and Investment, or PGII, to develop a high-standard, transparent alternative for infrastructure investment in low- and middle-income countries.</p>
-<p>Fourth, we used the power of American diplomacy to advance peace and prevent and mitigate conflict.  Together with my counterparts from Israel, Morocco, Bahrain, the United Arab Emirates, and Egypt, I took part in the historic Negev Summit to advance integration and normalization in the Middle East.</p>
-<p>We brokered a historic agreement between Israel and Lebanon to resolve their long-standing maritime boundary dispute.  We supported African-led talks that led to the cessation of hostilities between Ethiopia and Tigrayan forces.  We helped bring about a framework agreement to put Sudan back on the path toward civilian-led democracy.  We helped secure – and later extend – a truce in the Yemen conflict.</p>
-<p>And we brought home unjustly detained Americans from Russia, Iran, Venezuela, Burma, Afghanistan, Haiti, and other countries.  We will keep working every single day to bring home Americans who are wrongfully detained around the world, while taking steps to deter and prevent this abhorrent practice going forward.</p>
-<p>As we look ahead to 2023, we will continue to use all of our diplomatic tools to drive these priorities, and many others – including maintaining our commitment to the people of Afghanistan, particularly those who supported the U.S. mission there over 20 years, as well as to stand up for the rights of women and girls.</p>
-<p>We will also be intensely focused on coordinating international efforts to combat the scourge of fentanyl and other synthetic drugs.</p>
-<p>Now, I focused a lot on how we’ve worked with allies and partners in 2022 to confront today’s biggest challenges.  But even as we did that, we also took major steps here in this building to ensure that the State Department is positioned and empowered to meet today’s challenges, and tomorrow’s.</p>
-<p>We launched a new Bureau for Cyberspace and Digital Policy.  We notified Congress of our intent to create a new Bureau on Global Health Security and Diplomacy.  We stood up a China House to lead the development and coordination of our policy toward the PRC.  We expanded our diplomatic presence in the Indo-Pacific, and brought on the biggest cohort of Foreign and Civil Service officers in over a decade.  And we made significant strides toward attracting and retaining a workforce that reflects one of our nation’s greatest strengths – our diversity.</p>
-<p>Before I conclude, I want to acknowledge the “we” behind all of the hard-earned progress that we’ve made. That starts with the individuals who make up the Department of State, particularly our Foreign and Civil Service officers, our locally employed staff.  They’re the ones who executed on this vision – day in, day out.  And not just on the issues I highlighted today, but across every facet of our foreign policy – working together with our colleagues from across the U.S. Government, working as well with our foreign partners.</p>
-<p>I could not be prouder of my teammates.  I also couldn’t be more humbled by the opportunity to serve alongside them. To all of them, to their families, whose love and support and sacrifice allows them to provide this service, I simply want to say thank you.</p>
-<p>I also want to thank Congress for its partnership.  By our count, the department had more than 3,200 briefings, meetings, and calls with Congress over the past year.  I personally participated in more than 60 of those.</p>
-<p>I’m especially grateful to members of both parties who have worked with us to confirm 91 nominees this year – a tally we hope to add to in the weeks ahead.  Because when we have our team on the field, we deliver.</p>
-<p>Finally, I’d like to thank all of you, the members of our press corps.  The work that you do is indispensable to our democracy.  And while it’s not always easy answering your questions, the accurate information that you provide is a public good.  It’s as basic and as simple as that.  It helps our citizens understand the forces that are shaping their lives.  It empowers them to engage meaningfully in their communities, their country, the world.  It’s one of the reasons that we fight so hard for a free and independent media around the globe, and it’s why I’m deeply grateful to you for the work that you do.</p>
-<p>When I first started in this job, many people were asking if America would – or even could – lead again around the world.  Or, for that matter, whether the world wanted us to.</p>
-<p>In 2022, I think we answered those questions. We showed that the United States is ready and able to lead on the fundamental challenges of our time.  And countries around the world demonstrated why they want to be our partners in building a world that’s more free, more open, more secure, and more prosperous.</p>
-<p>With that, I thank you.  I’m happy to take some questions.</p>
-<p><strong>MR PRICE:</strong>  Matt.</p>
-<p><strong>QUESTION:</strong>  Thank you, Ned.  Thanks, Mr. Secretary.  Merry Christmas and &#8212;</p>
-<p><strong>SECRETARY BLINKEN:  </strong>Thank you.</p>
-<p><strong>QUESTION:  </strong>&#8212; happy holidays, and I hope the lovely weather doesn’t interfere with any travel plans that you might have.  You – in honor of the new year I have 23 questions.  (Laughter.)  But in deference to everyone, I’ll condense it to one so.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  So your question’s 23 parts.  Is that it?</p>
-<p><strong>QUESTION:</strong>  No, no, no.  Not even 23 parts.  But you’ll see.  So in your year-end review of 2022, you mentioned a number of issues – Russia, China, Afghanistan.  You didn’t mention Iran and North Korea, which are – which were big issues this year and will continue to be, along with those other three.  So when you talk about these challenges which we’re facing, which you’re going to face in the upcoming year, you often say that the ball is in their court, that you’ve made a proposal, they need to respond.  I’m wondering if there are any – Russia, China, Iran, North Korea, Afghanistan – in which you could see the ball being in your court.  In other words, any – are there any of them in which you can see the administration making fresh, new initiatives or proposing new ideas to resolve some of these problems, which are dramatic, to say the least?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank, Matt, very much.  First, I think it’s fair to say – to atrociously mix a metaphor – that the ball’s been in our court and we’ve been running with it, by which I mean this – take Russia, Ukraine.  From the outset of this aggression, from even before the conflict, we were very clear, including with the Russians, that if they proceeded with the aggression we would do three things.  We would work day in, day to support Ukraine and rally the world to do the same; we would impose severe costs on Russia for its actions; we would strengthen the Alliance that we have to defend us and defend our partners in Europe, NATO.</p>
-<p>We have done and we continue to do day in, day out, exactly what we said.  And that’s not sitting back and waiting for someone to hit the ball at us.  It is us, every single day, with our diplomacy – because this stuff doesn’t just happen – making good on those commitments.</p>
-<p>When it comes to China, one of the things that we set out to do – and it’s laid out in our strategy, as I said – was both to invest in ourselves, to align with our allies and partners, and then to compete vigorously where we disagree.  And that’s exactly what we’ve done and what we continue to do every single day.  The convergence that we built, the convergence that is stronger and greater than any time that I’ve seen it between the United States and Europe, the United States and Asia, and increasingly countries around the world on how to approach the challenge that China poses – that’s what we’re working on every single day.</p>
-<p>And as I mentioned a few minutes ago, in area after area, we are more aligned than we’ve been.  We’re approaching this in similar ways, often the same ways.  And again, that is the product of active, proactive, engaged American diplomacy.</p>
-<p>I can go down the board.  The common denominator here is that all of these areas we have been running with the ball.  But it started with something that remains to me foundational, and that was the decision that we made, at the President’s instruction on day one, to reinvigorate, to re-energize, to rejuvenate, to re-engage, and in some cases to reinvent these alliances and partnerships.  The fundamental premise that we have is, one, as I’ve – and you’ve heard me say this a bunch of times, but it bears repeating – one, the world doesn’t organize itself.  And if we are not out there – if the United States is not out there leading, engaging, helping to do the organizing, then either someone else is going to do it or no one does it – either way, probably not good for us.</p>
-<p>But second, and the flip side of the same coin, is that virtually all these problems to be effectively resolved require other countries in on the deal, require us to coordinate, to cooperate.  That’s where American diplomacy has been playing a leading role.  Every single one of these issues – and again, when it comes to other issues that you’ve mentioned – Iran, North Korea, et cetera – we’ve not been sitting back.  We’ve been leaning in, but ultimately other countries have to make decisions about what they’re going to do or not do.</p>
-<p>We continue to believe, for example, on Iran’s nuclear program that the best way to deal with this challenge, to deal with this threat is through diplomacy.  We’ve been engaged in intense diplomacy.  But if Iran is not willing or able to do what’s necessary to get back into compliance, well, that’s part of the equation too.</p>
-<p><strong>MR PRICE:  </strong>Michele.</p>
-<p><strong>QUESTION:  </strong>Yeah, I want to pick up on this issue of alliances.  Because the Biden administration came under a lot of criticism, including from allies, for its handling of the withdrawal from Afghanistan.  I wonder if there were lessons learned that are – that have been useful to you in managing these alliances, now in dealing with Russia and China.  And then also, just briefly, what, if anything, can the U.S. do now to support the women of Afghanistan?</p>
-<p><strong>SECRETARY BLINKEN:  </strong>So second part first.  The decision that we just heard come from the Taliban on denying opportunities for women to go to universities, girls to go to school – I think what you’ve already heard is a course of condemnation from around the world, and not only from us but from countries – virtually every continent, including Muslim countries, which, I think is, in and of itself, important and powerful.  What they’ve done is to try to sentence Afghan women and girls to a dark future without opportunity.  And the bottom line is that no country is going to be able to succeed, much less thrive, if it denies half its population the opportunity to contribute.</p>
-<p>And to be clear – and we are engaged with other countries on this right now – there are going to be costs if this is not reversed, if this is not changed.  I’m not going to detail them today, but we will pursue them in coordination with allies and partners.  And I can tell you as well that any prospect that the Taliban seeks for improved relations with the world, with the international community, which is something that they want and we know that they need – that is not going to happen if they continue on this course.</p>
-<p>More broadly when it comes to Afghanistan, of course, as we’ve said, we have to learn the lessons of Afghanistan over the 20 years of the mission there, as well as the last year.  I have to say – and if you go back and look at, for example, what the NATO Secretary General said and others have said, our consultation with allies and partners on Afghanistan in the moment were sustained, they were intense, and we strongly took note of everything that we heard from allies and partners in advance of the decisions that President Biden made and that we made.  So I think this notion that we hear from some about a lack of consultation is actually not born out by the facts and also not born out by what many of our allies and partners have said.</p>
-<p>I’ll also say this: we ended America’s longest war.  For the first time in 20 years, Americans will not be coming home from Afghanistan in a body bag or grievously injured.  We brought more than 120,000 people out of the country.  When it comes to Russia’s war against Ukraine, if we were still in Afghanistan, it would have, I think, made much more complicated the support that we’ve been able to give and that others have been able to give Ukraine to resist and push back against the Russian aggression. We heard predictions that leaving Afghanistan would result in a tsunami of refugees of Afghanistan.  That, to date, has not happened.  We’ve heard that it would result in more terrorism.  That to date has not happened.  And on the contrary, we were able to take out one of the leading terrorists, Mr. al-Zawahiri.</p>
-<p>And so I think putting all of this in perspective is very important.  Putting it in the perspective of 20 years, putting it in the perspective of the last year, putting in the perspective of what has happened since – that does not take away from our enduring commitment to make sure that we help those who helped us in Afghanistan.  It doesn’t take away from our enduring commitment to stand up for the rights of women and girls, and more broadly for the rights of people in Afghanistan.  It doesn’t take away from our enduring commitment to help as the leading provider of humanitarian assistance to Afghanistan.  All that remains very much on our plates as we go forward.</p>
-<p><strong>MR PRICE:</strong>  Kylie.</p>
-<p><strong>QUESTION:  </strong>Thank you.  Thanks for doing this, Secretary.  I wanted to point to something that you said earlier this month on Ukraine.  You said the Biden administration is working to make sure that Ukraine has what it needs to take back its territory that’s been seized since February 24th.  I’m wondering if you had a sense in the private discussions with President Zelenskyy yesterday if that’s something that Ukraine could agree to as an end state, because it does seem at odds with what Zelenskyy stated as what a just peace would look like.</p>
-<p>And then we just heard from the NSC’s John Kirby that Biden’s team is going to work with President Zelenskyy’s team on looking at that peace proposal that they put forth.  I’m wondering what the goal of that review is.  Do you want to put forth a renewed peace plan that has the backing of the U.S. alongside Ukraine?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Good.  Thanks, Kylie, very much.  First, what’s clear from all of our conversations with Ukraine, including the conversations just yesterday between President Biden and President Zelenskyy, is that we have the same objectives, the same goals: a free, an independent, a prosperous and democratic Ukraine, one that demonstrates that the principles of the United Nations Charter are being upheld, including on territorial integrity and sovereignty and independence.  And that’s something the President reiterated yesterday.</p>
-<p>We’ve also been very clear that fundamentally these decisions are for Ukrainians to make.  They have to decide where they’re going, how they’re trying to get there, when they’re trying to get there, of course with our very, very strong support.  So fundamentally, they’re the ones who are going to be making these decisions.  What we’ve heard from the Ukrainians in recent months is the intense focus on getting back territory in the east and in the south that was principally seized since February.  That’s where their focus has been.  But that doesn’t prejudge in any way where this goes, where it settles.  Again, these are decisions for them to make.</p>
-<p>What we want and what many other countries around the world want is a peace, ultimately, that, as we’ve said, is just and durable.  And by “just,” one that doesn’t simply ratify another country seizing by force the territory of another; “durable” in the sense that we want to make sure that it holds and that we’re not simply putting Ukraine in a position where Russia is going to repeat what it did a month, six months, a year later.  All of those elements are very important to what we factor in.</p>
-<p>When it comes to the peace proposal, I think here’s what’s important:  President Zelenskyy has made repeatedly clear that this is going to end when it ends through diplomacy, through a negotiation, and he’s put forward some ideas, some principles, some particular issues around which hopefully countries can come together to try to advance that proposition.  But fundamentally, right now Russia has shown no interest in meaningful diplomacy, in meaningfully engaging to bring this war to an end.  As President Biden said, that could happen tomorrow if Putin withdrew his forces, but that’s not going to happen.  And in the absence of that, we have to see some meaningful evidence that Russia is prepared to actually negotiate and negotiate, again, a just and durable peace.  We just haven’t seen that.</p>
-<p>In our judgment, the best way to actually advance getting to that day is to sustain our support for Ukraine, to make sure that it does well on the battlefield; that it continues to have the support it needs to sustain itself against the Russian onslaught, including against its energy infrastructure; as well as economic support.  That is what is most likely to speed up the day when President Putin comes to the conclusion that what he’s engaged in is futile and that it’s time for a genuine negotiation.  I think President Zelenskyy’s proposals are a good start at that.  We’re talking to countries around about those proposals.  They’re things that everyone should be able to – in one way or another to rally to.</p>
-<p><strong>QUESTION:</strong>  But what’s the goal of reviewing that peace plan they put forward, and how long will that take?</p>
-<p><strong>MR PRICE:</strong>  Kylie, we’ll move around a bit.  Humeyra, go ahead.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  I’m sorry, what’s &#8212;</p>
-<p><strong>QUESTION:</strong>  How long is it going to take for Biden administration officials to work with Zelenskyy’s team to review that proposal that he’s put forward?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Well, I don’t want to put a timeline on anything, but I can just tell you that we’re looking at what he’s put forward.  I was just on the – I was going to say on the phone – on the video with our G7 partners this morning, and this is one of the things that we talked about.  So I think countries around the world are looking at this and they’re seeing that, again, the Ukrainians want – look, no one wants peace more than President Zelenskyy and the people of Ukraine.  They’re the ones who are suffering from the aggression.  But it has to be just and it has to be durable.</p>
-<p><strong>MR PRICE:</strong>  Humeyra.</p>
-<p><strong>QUESTION:</strong>  Thank you, Ned.  Hello, Mr. Secretary.  I just want to go to China.  So at the moment, there is an uncontrolled COVID outbreak there since the reversal of their “Zero COVID” policy, and many countries, including the United States, have expressed concern over it and they said they could help.  I just want to zero in on that.  Has the United States in recent weeks or since the reversal of policy offered China to provide them with vaccines?  What was their response?  And since the authorities there have changed the criteria to calculate COVID deaths, how accurate do you find China’s official figures on casualties?  Thanks.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  First, let me say this.  We want to see China get this outbreak under control for three reasons.  First, we don’t want to see people anywhere suffering from COVID.  Whether it’s illness, whether it’s death, we want to see that come to an end wherever it’s happening, including in China.</p>
-<p>Second, any time the virus is spreading or is moving around, there is the possibility that a new variant develops, that variant spreads even further, and it comes and hits us or hits other countries around the world.  So we have a clear interest in that.</p>
-<p>And then, as we’ve seen, there are clear implications for the global economy with China being shut down because of COVID.</p>
-<p>So on all of those levels – a basic humanitarian level, the concern for everyone’s health, as well as for the global economy – it’s profoundly in our interest that China do what’s necessary to get ahead of this.  At the same time, it’s also very important for all countries, including China, to focus on people getting vaccinated, making testing and treatment available, and, importantly, sharing information with the world about what they’re experiencing – again, because it has implications not just for China but for the entire world.  So we would like to see that happening.</p>
-<p>We’re the largest donor of vaccines, as you know.  We’re prepared to continue to support people around the world, including in China, with this and with other COVID-related health support.  China has not asked to date for that help, but, again, we’re fully prepared to provide assistance to anyone who asks for it if they think it’s useful.</p>
-<p><strong>MR PRICE:</strong>  Farhad.</p>
-<p><strong>QUESTION:</strong>  Thank you.  Thank you, Secretary, for taking our questions.  You just mentioned right now that for the Iran nuclear deal, diplomacy is still the best option, while at the same time you are saying that the focus is the Iranian people asking or seeking their right.  How can you – like, what sort of message are you sending to the Iranian people who are being repressed right now?  And then the U.S. is going for a deal with a government that was the only government outside Russia that was yesterday mentioned by President Zelenskyy, a few meters away from here, saying that they are doing a terrorist action by providing drones.  How can you add this up for the people of Iran?</p>
-<p>And also, what message do you have for the families of Emad Shargi, Morad Tahbaz, Siamak Namazi, and the green card holder Shahab Dalili?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  So a couple of things on this.  First, I think the world has been intensely focused on what’s happening throughout Iran.  We remain gravely concerned about Iranian authorities firing on peaceful protestors, notably on women, on children.  We’ve seen mass arrests.  We’ve seen sham trials.  We’ve seen executions.  We’ve seen use of sexual violence as a tool for protest suppression.  Not only us, the eyes of the world have seen this.  And these human rights abuses are not going and will not go without consequence.</p>
-<p>We’ve been working from even before the – this repression to sanction those who are engaged in trying to repress the Iranian people, and just yesterday, I believe, we issued new sanctions, including on the prosecutor general of Iran.  At the same time, as you’ve heard me discuss, we’ve been working to try to make sure that Iranians have in their hands the ability to communicate with each other, to remain connected with the outside world.  We’ve been working on that and with partners, with allies, with countries around the world, including at the United Nations, we have worked to continue to hold Iran accountable and to condemn it for its actions.</p>
-<p>So that is happening.  That is ongoing.  And that is the focus of so many countries around the world.  At the same time, we’re intensely focused on the fact that Iran has provided UAVs to Russia to prosecute its aggression against Ukraine, and in particular, to attack civilian infrastructure.  These Iranian drones are what is being used, among other things, to try to turn off the lights, turn off the heat, turn off the water for Ukrainians as they head into winter.  And we’re putting a spotlight on that and, again, trying to take actions wherever we can to disrupt that, including sanctioning the various UAV networks that Iran is engaged in.</p>
-<p>Other countries also are focused on this.  We’ve shared information at the United Nations on Iran’s actions, which we see as a violation of UN Security Council Resolution 2231.  We think it’s a clear violation and we’re urging an investigation of that.</p>
-<p>So on all of these fronts as well as the many other areas where Iran is engaging in destabilizing activities, dangerous activities, support for terrorist groups, destabilizing actions throughout the region, we’ve been focused and engaged.  That also does not take away from the proposition that it is profoundly in our interest that Iran not acquire a nuclear weapon.  And President Biden is committed to ensuring that Iran not acquire a nuclear weapon.  We’ve continued to believe that the most effective way, the most durable way to do that was through diplomacy.</p>
-<p>And when the JCPOA, the Iran nuclear deal, was actually enforced, it did exactly what it was designed to do.  It put Iran’s nuclear program in a box.  It was verified not only by international inspectors, it was verified by our own people, Iran’s compliance with that, including by the previous administration.  And in our judgment, it was a grievous mistake to pull out of that agreement and to let Iran’s nuclear program out of the box.  But that’s the reality that we inherited and that we’ve had to deal with.</p>
-<p>So on the diplomacy, again, as I said, we think that’s the best solution.  But despite the efforts that we’ve made, even as we’ve been pushing back against Iran’s other egregious actions, despite the efforts that we’ve made and our partners in Europe have made, Iran has not been willing or able to do what’s necessary to come back into compliance with the agreement.  So we will continue to look and act on ways to make sure that, one way or another, Iran does not acquire a nuclear weapon.</p>
-<p><strong>MR PRICE:</strong>  Sean.</p>
-<p><strong>QUESTION:</strong>  And the families?</p>
-<p><strong>QUESTION:</strong>  Sure.  Could I ask you about the Middle East, elsewhere in the Middle East?  There’s a formation of the government in Israel to – Benjamin Netanyahu is going to be the prime minister again.  You, yourself, gave a speech to J Street where you mentioned concerns about some potential actions, such as annexation, such as settlements.  You mentioned that you – that you’re going to deal with policies, not with personalities.  Nonetheless, some of the personalities in the government have called for measures like this.</p>
-<p>But how is the United States going to deal with that?  Is there going to be – are you going to deal with these specific players in the government who may have backgrounds that are problematic?  And in terms of the Arab world, through the Abraham Accords – you mentioned the Negev Summit.  To what extent can you leverage that to – perhaps to send a message to the new Israeli government?</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Right.  So first I want to extend congratulations to Prime Minister Netanyahu on announcing the formation of a new government.  The Knesset still has to approve it, as you know, before it can be formally sworn in.  But we look forward to working with Israel to advance both the interests and the values that have been – long been at the heart of our relationship, and also to promoting a broader approach to try to bring equal measures of security, of opportunity, of prosperity, of dignity to Israelis and Palestinians alike.</p>
-<p>There’s been no secret about our approach.  And again, I reiterated that in the remarks I made to J Street just a few weeks ago.  And as you noted, what I said then, what I repeat now, is that going forward – just as in the past previous administrations on the Israeli side, on the American side, what previous American administrations have done – we will engage with and judge our partners in Israel on the basis of the policies they pursue, not the personalities that happen to form the government.</p>
-<p>I think we’ve demonstrated over successive Israeli governments and over successive American administrations, precisely because we have a rock-solid partnership and one that is committed to Israel’s security, that we can have very candid conversations when we disagree.  That’s not going to change, either.</p>
-<p><strong>QUESTION:</strong>  May I follow up, Ned?</p>
-<p><strong>MR PRICE:</strong>  Courtney.</p>
-<p><strong>QUESTION:</strong>  Thank you.  Mr. Secretary, happy holidays.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Thank you.</p>
-<p><strong>QUESTION:</strong>  The administration has maintained its position on diplomacy with North Korea over its missile program even as Pyongyang’s provocations have increased in both frequency and severity.  And now the White House has confirmed North Korea’s transfer of weapons to Wagner Group.  I’m just wondering, what does running with the ball look like in 2023?  What is the outlook for the new year?  Are you seeing it as being time to change course?  And are – when you talk about alliances, are the U.S., Republic of Korea, and Japan agreed on how to proceed?  Thanks.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  We’re in not only close communication and coordination, I think we’re in very tight synchronization with the Republic of Korea and with Japan on the approach to North Korea.  In fact, I think that alignment’s not been stronger in recent years.  So we’re working together every single day.</p>
-<p>And when it comes to running with the ball, this is not only a question of condemning what North Korea’s done and continues to do – the egregious violations of UN Security Council resolutions, the provocative actions, the threat to peace and security – not only sanctioning these acts, as we continue to do, and bringing them to the United Nations, we continue to take actions to shore up our own defensive and deterrent capabilities and capacities, including working ever more closely with Japan, with Korea on exercises, on preparedness, making sure that we and they have the systems in place to deter and ultimately defend against any North Korean aggression.  All of that is ongoing.</p>
-<p>And I’d also note that the sanctions that we have put in place and that we’re working to strongly enforce have put some constraints on North Korea’s ability to continue to advance its missile and nuclear programs.  Nonetheless, they are – we’re – I’m not going to predict or preview where this is going in 2023, except to say that quite literally every single day we are working with our allies and partners to make sure that not only are we putting pressure on North Korea to end these practices, but we’re making sure that we’re putting in place what is needed to deter aggression directly against any of our partners, as well as against us, and if necessary defend against it.</p>
-<p>Let me just add that China has an important role to play in this.  It has the strongest, deepest relationship of any country in the world with North Korea.  I think it’s in China’s interest not to see these kind of provocative actions continue.  And we have conversations with China; this is something President Xi and President Biden talked about.  I expect I’ll continue that conversation when I get to China early next year, about what we hope that China will do to try to convince North Korea to move in another direction.</p>
-<p>We have said very clearly, and it remains the case, that we’re open to diplomacy without any preconditions.  We remain committed to seeing the denuclearization of the Korean Peninsula.  To date, North Korea’s not engaged on that basis, but that remains a possibility.  And I think China can play a role in helping to move things in that direction.</p>
-<p><strong>MR PRICE:</strong>  One final question.  Missy.</p>
-<p><strong>QUESTION:</strong>  Thanks, Mr. Secretary.  The Biden administration has promised to put human rights at the center of its foreign policy, and I understand I’ve heard from you and from other senior members of the Biden administration that human rights is always part of the conversation but is obviously not the only concern when the United States deals with its partners and another – any country.  Looking back at the last two years, how well do you think the administration has done in getting the mix right and effectively using American leverage and influence to actually get results when it comes to human rights?  And if there are any specific examples of where you think the United States has done well or not so well, that would be helpful.  Thank you.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  Sure.  As you said, very rightly, first, it’s something that President Biden felt very strongly about putting back at the center of our foreign policy, and we’ve done that.  We’ve done that in shining a spotlight on human rights abuses.  We’ve done that in rallying other countries to speak out, stand up, and take action against these abuses.  We’ve done that in the actions that we’ve taken ourselves.</p>
-<p>At the same time, again, as you rightly said, it’s at the heart of our foreign policy; it’s not the totality of our foreign policy.  It’s one of the critical elements that we look at and try to advance, but in every instance we have to balance a multiplicity of interests.  And at the same time, we have to make judgments about what is ultimately the most effective way to try and advance our commitment to human rights.  And most of this, as with a lot of the things we do, are not like flipping a light switch.  A lot of this is turning an aircraft carrier, and it takes time and it takes relentless effort.</p>
-<p>I mentioned earlier that we have greater convergence than I’ve seen in my experience with our closest allies and partners in Europe, as well as in Asia, on China.  I think you see that playing out, for example, when it comes to human rights abuses that are being committed by China, whether it’s in Xinjiang, Tibet, other places, including for example in growing convergence on export controls not only going to the most sensitive technologies that might help China advance its military capacity, but also technology that could be used for the surveillance of people and other tools of repression against the rights of minorities and others in China.</p>
-<p>Same thing in a number of other countries.  Similarly, we’ve taken steps – and others have taken steps with us – to try to help ensure that products that are made with forced labor in countries don’t come into our own country or to other countries.</p>
-<p>There are lots of places where we’ve seen human rights abuses committed in the context of larger conflicts.  One way to make sure that we’re actually getting at the upholding of human rights and the end of abuse is to try to resolve those conflicts.  Yemen is an example of a place where we’ve invested tremendously in support of diplomacy to try to end the conflict.  And for all of the fragility, we had a ceasefire that was extended.  And even though it’s now not been formally extended another time, in practice it’s holding.  That’s a lot of humanitarian assistance to get to people.  It’s also seen, I think, a reduction in abuses committed against civilians.</p>
-<p>Similarly in Ethiopia, where we’ve labored in close partnership with African countries, including the African Union, but also including countries like Kenya, the practical effect of getting a cessation of hostilities, of getting the guns quiet, of getting humanitarian assistance into Tigray has also been to reduce, if not eliminate, the human rights abuses that were being committed as the conflict was raging.  And we’re focused now on making sure that we can get independent human rights monitors into Tigray to verify that there are no ongoing atrocities, even as we’re looking for accountability for what’s already taken place.</p>
-<p>In Ukraine, where we see human rights abuses being committed on an almost daily basis by Russian forces, we’ve put a bright spotlight on that.  Not only have we put a spotlight on it, we’ve been working overtime to help collect the evidence and gather the information of these abuses.  We’re engaged across the international community, whether it’s with the UN, whether it’s with the International Criminal Court, whether it’s looking at other mechanisms to make sure that not only is that information and evidence gathered, but that at the end of the day there will be accountability for these human rights abuses.  And that’s one way, as we put a spotlight on it, to deter it.</p>
-<p>So I think there are many other places where, in one way or another, the combination of putting a spotlight on something, taking concrete action, getting others to do the same is making a difference.  But the reality, of course, is that we continue to see abusive practices in many places.  We will remain relentless in trying to stop it, to put a spotlight on it.  And there’s no one-size-fits-all approach.  We’re looking at each case, each instance, each place on its own terms, trying to make judgements each time about how we can actually be most effective in bringing these abuses to an end.</p>
-<p>Thank you.  Thank you, everyone.</p>
-<p><strong>QUESTION:</strong>  Thank you.</p>
-<p><strong>SECRETARY BLINKEN:</strong>  I really hope everyone gets a break, has time with family, with friends, and that we see you fully energized in 2023.  Look forward to seeing you then.  Thanks.</p>
-<p><input type="hidden" data-filter="100001000111" /></p>
 ]]></content:encoded>
 					
 		
