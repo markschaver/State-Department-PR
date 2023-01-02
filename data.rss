@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Sat, 31 Dec 2022 18:45:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Jan 2023 16:23:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,165 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Secretary Blinken’s Call with Israeli Foreign Minister Cohen</title>
+		<link>https://www.state.gov/secretary-blinkens-call-with-israeli-foreign-minister-cohen/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Mon, 02 Jan 2023 16:23:47 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=408003</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>The following is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Israeli Foreign Minister Eli Cohen to congratulate him on his appointment and underscore the United States’ abiding commitment to the U.S.-Israel partnership and to Israel’s security.  Secretary Blinken discussed continued U.S. efforts to advance mutual interests such as Israel’s further regional integration, including through the Negev Forum; address shared challenges, including the threat from Iran; and promote the values that have been at the heart of the bilateral relationship for decades.  The Secretary emphasized the continued U.S. commitment to a two-state solution and opposition to policies that endanger its viability.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>The following is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Israeli Foreign Minister Eli Cohen to congratulate him on his appointment and underscore the United States’ abiding commitment to the U.S.-Israel partnership and to Israel’s security.  Secretary Blinken discussed continued U.S. efforts to advance mutual interests such as Israel’s further regional integration, including through the Negev Forum; address shared challenges, including the threat from Iran; and promote the values that have been at the heart of the bilateral relationship for decades.  The Secretary emphasized the continued U.S. commitment to a two-state solution and opposition to policies that endanger its viability.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Sudan National Day</title>
 		<link>https://www.state.gov/sudan-national-day/</link>
 		
@@ -1295,135 +1454,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>The United States congratulates the people of Nepal on a successful democratic election and Pushpa Kamal Dahal and coalition partners on their formation of a new government. We are proud to have robust and longstanding ties with Nepal and will continue to stand with the Government of Nepal to promote issues of mutual importance including achieving sustainable and inclusive economic growth, strengthening Nepal’s climate resilience, and upholding democracy and respect for human rights.</p>
 <p>Nepal’s commitment to democracy is an example to countries around the world.  We look forward to supporting Nepal as it continues to deepen its democratic traditions in accordance with the will of the Nepali people.</p>
 <p><input type="hidden" data-filter="100001000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Extension of Interview Waivers for Certain Nonimmigrant Visa Applicants</title>
-		<link>https://www.state.gov/extension-of-interview-waivers-for-certain-nonimmigrant-visa-applicants/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Fri, 23 Dec 2022 17:09:05 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=407148</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p>The Department of State recognizes the positive impact of travel to the United States by foreign student and temporary work visa holders on the U.S. economy and is committed to facilitating nonimmigrant travel and further reducing visa wait times. We are pleased to announce that the Secretary of State has made a determination extending the authority of consular officers to waive in-person interviews for certain nonimmigrant visa categories through December 31, 2023.</p>
-<p>Consular officers are authorized, through December 31, 2023, to continue to waive in-person interviews on a case-by-case basis for certain first-time and/or renewing applicants. These categories of visas are for Temporary Agricultural and Non-Agricultural Workers (H-2 visas), Students (F and M visas), and Academic Exchange Visitors (academic J visas), and certain beneficiaries of approved individual petitions for nonimmigrant temporary worker visas in the following categories: Persons in Specialty Occupations (H-1B visas), Trainee or Special Education Visitors (H-3 visas), Intracompany Transferees (L visas), Individuals with Extraordinary Ability or Achievement (O visas), Athletes, Artists, and Entertainers (P visas), and Participants in International Cultural Exchange Programs (Q visas); and qualifying derivatives. These waivers are authorized by a determination of the Secretary of State with the concurrence of the Department of Homeland Security.</p>
-<p>The authorization to waive the in-person interview for applicants renewing a visa in the same classification within 48 months of the prior visa’s expiration was previously authorized to remain in place until further notice.</p>
-<p>These interview waiver authorities have reduced visa appointment wait times at many embassies and consulates by freeing up in-person interview appointments for other applicants who require an interview. Nearly half of the almost seven million nonimmigrant visas the Department issued in Fiscal Year 2022 were adjudicated without an in-person interview. We are successfully lowering visa wait times worldwide, following closures during the pandemic, and making every effort to further reduce those wait times as quickly as possible, including for first-time tourist visa applicants.</p>
-<p>Embassies and consulates may still require an in-person interview on a case-by-case basis and dependent upon local conditions. We encourage applicants to check embassy and consulate websites for more detailed information about this development, as well as current operating status and services. For more information, visit the Bureau of Consular affairs <a href="https://travel.state.gov/content/travel.html">travel site</a>.</p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p>The Department of State recognizes the positive impact of travel to the United States by foreign student and temporary work visa holders on the U.S. economy and is committed to facilitating nonimmigrant travel and further reducing visa wait times. We are pleased to announce that the Secretary of State has made a determination extending the authority of consular officers to waive in-person interviews for certain nonimmigrant visa categories through December 31, 2023.</p>
-<p>Consular officers are authorized, through December 31, 2023, to continue to waive in-person interviews on a case-by-case basis for certain first-time and/or renewing applicants. These categories of visas are for Temporary Agricultural and Non-Agricultural Workers (H-2 visas), Students (F and M visas), and Academic Exchange Visitors (academic J visas), and certain beneficiaries of approved individual petitions for nonimmigrant temporary worker visas in the following categories: Persons in Specialty Occupations (H-1B visas), Trainee or Special Education Visitors (H-3 visas), Intracompany Transferees (L visas), Individuals with Extraordinary Ability or Achievement (O visas), Athletes, Artists, and Entertainers (P visas), and Participants in International Cultural Exchange Programs (Q visas); and qualifying derivatives. These waivers are authorized by a determination of the Secretary of State with the concurrence of the Department of Homeland Security.</p>
-<p>The authorization to waive the in-person interview for applicants renewing a visa in the same classification within 48 months of the prior visa’s expiration was previously authorized to remain in place until further notice.</p>
-<p>These interview waiver authorities have reduced visa appointment wait times at many embassies and consulates by freeing up in-person interview appointments for other applicants who require an interview. Nearly half of the almost seven million nonimmigrant visas the Department issued in Fiscal Year 2022 were adjudicated without an in-person interview. We are successfully lowering visa wait times worldwide, following closures during the pandemic, and making every effort to further reduce those wait times as quickly as possible, including for first-time tourist visa applicants.</p>
-<p>Embassies and consulates may still require an in-person interview on a case-by-case basis and dependent upon local conditions. We encourage applicants to check embassy and consulate websites for more detailed information about this development, as well as current operating status and services. For more information, visit the Bureau of Consular affairs <a href="https://travel.state.gov/content/travel.html">travel site</a>.</p>
 ]]></content:encoded>
 					
 		
