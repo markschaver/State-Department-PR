@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Thu, 05 Jan 2023 01:34:07 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Jan 2023 14:09:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,8 +28,8 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Statement on UN Group of Experts</title>
-		<link>https://www.state.gov/statement-on-un-group-of-experts/</link>
+		<title>Statement on Report by UN Group of Experts</title>
+		<link>https://www.state.gov/statement-on-report-by-un-group-of-experts/</link>
 		
 		<dc:creator><![CDATA[Ned Price, Department Spokesperson]]></dc:creator>
 		<pubDate>Thu, 05 Jan 2023 01:34:06 +0000</pubDate>
