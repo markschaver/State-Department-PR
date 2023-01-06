@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Fri, 06 Jan 2023 19:02:04 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Jan 2023 21:22:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -70,42 +70,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		});
 		});
 		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
 		<p>Antony J. Blinken, Secretary of State</p>
-<p>In this first week of 2023, the United States continues to stand strongly behind Ukraine and our European allies and partners by announcing more than $3.75 billion in new military assistance.  This assistance includes a $2.85 billion drawdown from stocks of the Department of Defense to be provided immediately to Ukraine and $225 million in Foreign Military Financing to build the long-term capacity and support modernization of Ukraine’s military.  It also includes $682 million in Foreign Military Financing for European partners and allies to help incentivize and backfill donations of military equipment to Ukraine.</p>
+<p>In this first week of 2023, the United States continues to stand strongly behind Ukraine and our European allies and partners by announcing more than $3.75 billion in new military assistance.  This assistance includes a $2.85 billion drawdown from stocks of the Department of Defense to be provided immediately to Ukraine and $225 million in Foreign Military Financing to build the long-term capacity and support modernization of Ukraine’s military.  It also includes $682 million in Foreign Military Financing for European partners and allies to help incentivize and backfill donations of military equipment to Ukraine.</p>
 <p>Pursuant to a delegation of authority from the President, today I am authorizing our 29<sup>th</sup> drawdown of U.S. arms and equipment for Ukraine since August 2021.  This $2.85 billion drawdown will provide Ukraine with Bradley infantry fighting vehicles, artillery systems, armored personnel carriers, surface to air missiles, ammunition, and other items to support Ukraine as it bravely defends its people, its sovereignty, and its territorial integrity.  I am grateful to Congress for continuing to provide this increased drawdown authority, most recently under the Additional Ukraine Supplemental Appropriations Act, 2023 that was signed into law by the President last month.</p>
 <p>I am also announcing that, working with Congress, we plan to provide an additional $907 million of Foreign Military Financing under the Additional Ukraine Supplemental Appropriations Act, 2022.  Funds will support Ukraine and countries impacted by Russia’s war in Ukraine.  $225 million for Ukraine will be used to cover wartime requirements of the Armed Forces of Ukraine to provide them with means necessary to defend against Russia’s aggression and may also be used to support the sustainment of equipment previously provided to Ukraine under the Department of Defense’s Ukraine Security Assistance Initiative and under previous drawdowns.  In the longer term, this Foreign Military Financing funding may be used to rebuild Ukraine&#8217;s capacity to provide for its own defense through development and modernization of its armed forces.</p>
 <p>This will bring total U.S. military assistance for Ukraine to an unprecedented approximately $24.9 billion since the beginning of the Administration.</p>
@@ -182,7 +148,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		});
 		</script>
 									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
-<p>In this first week of 2023, the United States continues to stand strongly behind Ukraine and our European allies and partners by announcing more than $3.75 billion in new military assistance.  This assistance includes a $2.85 billion drawdown from stocks of the Department of Defense to be provided immediately to Ukraine and $225 million in Foreign Military Financing to build the long-term capacity and support modernization of Ukraine’s military.  It also includes $682 million in Foreign Military Financing for European partners and allies to help incentivize and backfill donations of military equipment to Ukraine.</p>
+<p>In this first week of 2023, the United States continues to stand strongly behind Ukraine and our European allies and partners by announcing more than $3.75 billion in new military assistance.  This assistance includes a $2.85 billion drawdown from stocks of the Department of Defense to be provided immediately to Ukraine and $225 million in Foreign Military Financing to build the long-term capacity and support modernization of Ukraine’s military.  It also includes $682 million in Foreign Military Financing for European partners and allies to help incentivize and backfill donations of military equipment to Ukraine.</p>
 <p>Pursuant to a delegation of authority from the President, today I am authorizing our 29<sup>th</sup> drawdown of U.S. arms and equipment for Ukraine since August 2021.  This $2.85 billion drawdown will provide Ukraine with Bradley infantry fighting vehicles, artillery systems, armored personnel carriers, surface to air missiles, ammunition, and other items to support Ukraine as it bravely defends its people, its sovereignty, and its territorial integrity.  I am grateful to Congress for continuing to provide this increased drawdown authority, most recently under the Additional Ukraine Supplemental Appropriations Act, 2023 that was signed into law by the President last month.</p>
 <p>I am also announcing that, working with Congress, we plan to provide an additional $907 million of Foreign Military Financing under the Additional Ukraine Supplemental Appropriations Act, 2022.  Funds will support Ukraine and countries impacted by Russia’s war in Ukraine.  $225 million for Ukraine will be used to cover wartime requirements of the Armed Forces of Ukraine to provide them with means necessary to defend against Russia’s aggression and may also be used to support the sustainment of equipment previously provided to Ukraine under the Department of Defense’s Ukraine Security Assistance Initiative and under previous drawdowns.  In the longer term, this Foreign Military Financing funding may be used to rebuild Ukraine&#8217;s capacity to provide for its own defense through development and modernization of its armed forces.</p>
 <p>This will bring total U.S. military assistance for Ukraine to an unprecedented approximately $24.9 billion since the beginning of the Administration.</p>
