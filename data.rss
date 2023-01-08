@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Sun, 08 Jan 2023 19:09:33 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 07 Jan 2023 23:10:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,165 +28,6 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Special Presidential Envoy for Climate Kerry’s Travel to Mexico</title>
-		<link>https://www.state.gov/special-presidential-envoy-for-climate-kerrys-travel-to-mexico-5/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Sun, 08 Jan 2023 19:09:32 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=409223</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p align="left">Special Presidential Envoy for Climate John Kerry will travel to Mexico City, Mexico, January 9-10 to participate in the 10th North American Leaders’ Summit, where he will engage in trilateral conversations regarding climate and clean energy action and cooperation.</p>
-<p align="left">For media inquiries, please contact <a href="mailto:ClimateComms@state.gov" target="_blank" rel="noopener" shape="rect">ClimateComms@state.gov</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p align="left">Special Presidential Envoy for Climate John Kerry will travel to Mexico City, Mexico, January 9-10 to participate in the 10th North American Leaders’ Summit, where he will engage in trilateral conversations regarding climate and clean energy action and cooperation.</p>
-<p align="left">For media inquiries, please contact <a href="mailto:ClimateComms@state.gov" target="_blank" rel="noopener" shape="rect">ClimateComms@state.gov</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Counselor Chollet’s Travel to the United Arab Emirates, North Macedonia, Kosovo, and Serbia </title>
 		<link>https://www.state.gov/counselor-chollets-travel-to-the-united-arab-emirates-north-macedonia-kosovo-and-serbia</link>
 		
@@ -1608,6 +1449,171 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Media representatives may attend upon presentation of one of the following: (1) a U.S. government-issued identification card (Department of State, White House, Congress, Department of Defense, or Foreign Press Center), (2) a media-issued photo identification card, or (3) a letter from the requester’s employer on letterhead verifying his/her employment status as a journalist, accompanied by an official photo identification (driver’s license or passport).  Those who do not have a State Department building pass should allow adequate time for security processing.</p>
 <p>For more information, please contact the Bureau of East Asian and Pacific Affairs at EAP-Press@state.gov.</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Under Secretary Fernandez&#8217;s Travel to Seoul and Tokyo</title>
+		<link>https://www.state.gov/under-secretary-fernandezs-travel-to-seoul-and-tokyo/</link>
+		
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
+		<pubDate>Fri, 06 Jan 2023 02:30:21 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=408774</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Office of the Spokesperson</p>
+<p>Under Secretary of State for Economic Growth, Energy, and the Environment Jose W. Fernandez will travel to Seoul, the Republic of Korea (ROK), January 9-11, and to Tokyo, Japan, January 11-12.  During his visits, Under Secretary Fernandez will meet with senior government officials and other stakeholders to discuss cooperation on some of the most pressing global challenges, including supply chain resilience, the clean energy transition and climate change, and protecting and promoting critical and emerging technologies.  In both Seoul and Tokyo, the Under Secretary will advance cooperation on a positive economic agenda for the Indo-Pacific that increases prosperity for U.S., ROK, and Japanese citizens as well as for people across the region.  Under Secretary Fernandez will also highlight the role U.S., ROK, and Japanese companies play in building local capacity and community life where they operate in the Indo-Pacific &#8212; including through supporting gender equality and developing human capital.</p>
+<p>In Seoul, Under Secretary Fernandez will meet ROK government officials, including his counterpart, 2nd Vice Foreign Minister Lee Dohoon.  He will also meet with U.S. and Korean companies integral to U.S.-ROK economic cooperation and lead a roundtable on women in business with the American Chamber of Commerce.</p>
+<p>In Tokyo, Under Secretary Fernandez will participate in the fifth annual Indo-Pacific Business Forum (IPBF) as well as meetings with the American Chamber of Commerce in Japan, and the business community.  For further information, please visit the IPBF <a class="external-link" href="https://indopacificbusinessforum.com/" target="_BLANK" rel="noopener"><span class="external-link-title">website</span><span class="icon-external"> </span></a>.</p>
+<p>To stay updated, follow Under Secretary Fernandez on Twitter <a class="external-link" href="https://twitter.com/State_E" target="_BLANK" rel="noopener"><span class="external-link-title">@State_E</span><span class="icon-external"> </span></a>, Facebook <a class="external-link" href="https://twitter.com/State_E" target="_BLANK" rel="noopener"><span class="external-link-title">@StateDeptE</span><span class="icon-external"> </span></a>, and LinkedIn <a class="external-link" href="https://www.linkedin.com/company/state-e/" target="_BLANK" rel="noopener"><span class="external-link-title">@State-E</span><span class="icon-external"> </span></a>.</p>
+<p>For press inquiries, please contact: <a href="mailto:E_Communications@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="4">E_Communications@state.gov</a>.</p>
+<p><input type="hidden" data-filter="100000001100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+<p>Under Secretary of State for Economic Growth, Energy, and the Environment Jose W. Fernandez will travel to Seoul, the Republic of Korea (ROK), January 9-11, and to Tokyo, Japan, January 11-12.  During his visits, Under Secretary Fernandez will meet with senior government officials and other stakeholders to discuss cooperation on some of the most pressing global challenges, including supply chain resilience, the clean energy transition and climate change, and protecting and promoting critical and emerging technologies.  In both Seoul and Tokyo, the Under Secretary will advance cooperation on a positive economic agenda for the Indo-Pacific that increases prosperity for U.S., ROK, and Japanese citizens as well as for people across the region.  Under Secretary Fernandez will also highlight the role U.S., ROK, and Japanese companies play in building local capacity and community life where they operate in the Indo-Pacific &#8212; including through supporting gender equality and developing human capital.</p>
+<p>In Seoul, Under Secretary Fernandez will meet ROK government officials, including his counterpart, 2nd Vice Foreign Minister Lee Dohoon.  He will also meet with U.S. and Korean companies integral to U.S.-ROK economic cooperation and lead a roundtable on women in business with the American Chamber of Commerce.</p>
+<p>In Tokyo, Under Secretary Fernandez will participate in the fifth annual Indo-Pacific Business Forum (IPBF) as well as meetings with the American Chamber of Commerce in Japan, and the business community.  For further information, please visit the IPBF <a class="external-link" href="https://indopacificbusinessforum.com/" target="_BLANK" rel="noopener"><span class="external-link-title">website</span><span class="icon-external"> </span></a>.</p>
+<p>To stay updated, follow Under Secretary Fernandez on Twitter <a class="external-link" href="https://twitter.com/State_E" target="_BLANK" rel="noopener"><span class="external-link-title">@State_E</span><span class="icon-external"> </span></a>, Facebook <a class="external-link" href="https://twitter.com/State_E" target="_BLANK" rel="noopener"><span class="external-link-title">@StateDeptE</span><span class="icon-external"> </span></a>, and LinkedIn <a class="external-link" href="https://www.linkedin.com/company/state-e/" target="_BLANK" rel="noopener"><span class="external-link-title">@State-E</span><span class="icon-external"> </span></a>.</p>
+<p>For press inquiries, please contact: <a href="mailto:E_Communications@state.gov" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" data-linkindex="4">E_Communications@state.gov</a>.</p>
+<p><input type="hidden" data-filter="100000001100" /></p>
 ]]></content:encoded>
 					
 		
