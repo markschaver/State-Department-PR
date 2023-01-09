@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov/rss-feed/press-releases/</link>
 	<description></description>
-	<lastBuildDate>Mon, 09 Jan 2023 14:12:38 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Jan 2023 14:55:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -342,165 +342,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>This public-private partnership aligns with the United States’ National Strategy on Gender Equity and Equality and the U.S. Strategy on Global Women’s Economic Security by promoting women’s leadership and expanding education and economic development opportunities for underserved communities in southern Mexico and Brazil.</p>
 <p>Amazon’s partnership with the Department reflects its long-standing commitment to strengthen the sustainability of local communities and actively promote women’s leadership in the workplace, marketplace, and community.</p>
 <p>For more information, please contact the ECA-Press@state.gov. Follow <a href="https://twitter.com/ECAatState" target="_blank" rel="noopener">@ECAatState</a> on social media for updates and highlights of the programs.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Special Presidential Envoy for Climate Kerry’s Travel to Mexico</title>
-		<link>https://www.state.gov/special-presidential-envoy-for-climate-kerrys-travel-to-mexico-5/</link>
-		
-		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
-		<pubDate>Sun, 08 Jan 2023 19:09:32 +0000</pubDate>
-				<category><![CDATA[]]></category>
-		<guid isPermaLink="false">https://www.state.gov/?page_id=409223</guid>
-
-					<description><![CDATA[		<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-		<p>Office of the Spokesperson</p>
-<p align="left">Special Presidential Envoy for Climate John Kerry will travel to Mexico City, Mexico, January 9-10 to participate in the 10th North American Leaders’ Summit, where he will engage in trilateral conversations regarding climate and clean energy action and cooperation.</p>
-<p align="left">For media inquiries, please contact <a href="mailto:ClimateComms@state.gov" target="_blank" rel="noopener" shape="rect">ClimateComms@state.gov</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
-]]></description>
-					<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-				<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", function(event) {
-			jQuery(document).ready(function(){
-			if (jQuery('p .watermark').length > 0 ) {
-
-				jQuery('p .watermark').parent().addClass('watermarked');
-
-				jQuery('p .watermark').parent().each( function() {
-					jQuery(this).children('img').attr('style', 'margin: 0 !important');
-					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
-				});
-
-				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
-					if ( jQuery(this).hasClass('alignnone') ) {
-						jQuery(this).parent().addClass( 'alignnone' );
-					}
-					if ( jQuery(this).hasClass('alignleft') ) {
-						jQuery(this).parent().addClass( 'alignleft' );
-					}
-					if ( jQuery(this).hasClass('alignright') ) {
-						jQuery(this).parent().addClass( 'alignright' );
-					}
-					if ( jQuery(this).hasClass('size-medium') ) {
-						jQuery(this).parent().addClass( 'has-size-medium' );
-					}
-					if ( jQuery(this).hasClass('aligncenter') ) {
-						jQuery(this).parent().addClass( 'aligncenter' );
-						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
-					}
-				});
-			}
-		});
-		});
-		</script>
-									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p align="left">Special Presidential Envoy for Climate John Kerry will travel to Mexico City, Mexico, January 9-10 to participate in the 10th North American Leaders’ Summit, where he will engage in trilateral conversations regarding climate and clean energy action and cooperation.</p>
-<p align="left">For media inquiries, please contact <a href="mailto:ClimateComms@state.gov" target="_blank" rel="noopener" shape="rect">ClimateComms@state.gov</a>.</p>
-<p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
 		
@@ -1225,7 +1066,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Under Secretary of State for Civilian Security, Democracy, and Human Rights Uzra Zeya will lead a high-level interagency delegation to Honduras from January 9-12, 2023, to take part in the U.S.-Honduras Strategic and Human Rights Dialogues, to build on the countries’ shared bilateral agenda to support a prosperous, secure, thriving, and democratic Honduras.</p>
 <p>The Strategic Dialogue will address governance; anti-corruption; economic prosperity; development; safe, orderly, and humane migration; and security. The Human Rights Dialogue will focus on human rights defender protections, gender-based violence, and labor rights. Following the dialogues, members of the U.S. delegation will meet with Honduran President Xiomara Castro.</p>
 <p>Under Secretary Zeya will also meet with civil society groups and the business and diplomatic communities in Tegucigalpa and will travel to San Pedro Sula to meet with labor leaders in the Honduran textile industry on progress on labor rights and collective bargaining.</p>
-<p>The U.S. delegation will also include General Laura Richardson, Commander of U.S. Southern Command, and USAID Assistant Administrator for Latin America and the Caribbean Marcela Escobari. In addition, the delegation will include representatives from the Bureau of Western Hemisphere Affairs; the Bureau of International Narcotics and Law Enforcement Affairs; the Bureau of Population, Refugees, and Migration; the Bureau of Democracy, Human Right, and Labor; the Coordinator for Global Anti-Corruption; the Office of the Secretary of Defense; and the National Security Council.</p>
+<p>The U.S. delegation will also include General Laura Richardson, Commander of U.S. Southern Command, and USAID Assistant Administrator for Latin America and the Caribbean Marcela Escobari. In addition, the delegation will include representatives from the Bureau of Western Hemisphere Affairs; the Bureau of International Narcotics and Law Enforcement Affairs; the Bureau of Population, Refugees, and Migration; the Bureau of Democracy, Human Rights, and Labor; the Coordinator for Global Anti-Corruption; the Office of the Secretary of Defense; and the National Security Council.</p>
 <p>Vice President of the United States Kamala Harris and Honduran President Xiomara Castro jointly announced the launch of the U.S.-Honduras Strategic Dialogue at President Castro’s inauguration in January 2022. The first session of the dialogue took place in Washington, DC, in April 2022, solidifying the relationship between the two countries.</p>
 ]]></description>
 					<script type="text/javascript">
@@ -1300,7 +1141,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <p>Under Secretary of State for Civilian Security, Democracy, and Human Rights Uzra Zeya will lead a high-level interagency delegation to Honduras from January 9-12, 2023, to take part in the U.S.-Honduras Strategic and Human Rights Dialogues, to build on the countries’ shared bilateral agenda to support a prosperous, secure, thriving, and democratic Honduras.</p>
 <p>The Strategic Dialogue will address governance; anti-corruption; economic prosperity; development; safe, orderly, and humane migration; and security. The Human Rights Dialogue will focus on human rights defender protections, gender-based violence, and labor rights. Following the dialogues, members of the U.S. delegation will meet with Honduran President Xiomara Castro.</p>
 <p>Under Secretary Zeya will also meet with civil society groups and the business and diplomatic communities in Tegucigalpa and will travel to San Pedro Sula to meet with labor leaders in the Honduran textile industry on progress on labor rights and collective bargaining.</p>
-<p>The U.S. delegation will also include General Laura Richardson, Commander of U.S. Southern Command, and USAID Assistant Administrator for Latin America and the Caribbean Marcela Escobari. In addition, the delegation will include representatives from the Bureau of Western Hemisphere Affairs; the Bureau of International Narcotics and Law Enforcement Affairs; the Bureau of Population, Refugees, and Migration; the Bureau of Democracy, Human Right, and Labor; the Coordinator for Global Anti-Corruption; the Office of the Secretary of Defense; and the National Security Council.</p>
+<p>The U.S. delegation will also include General Laura Richardson, Commander of U.S. Southern Command, and USAID Assistant Administrator for Latin America and the Caribbean Marcela Escobari. In addition, the delegation will include representatives from the Bureau of Western Hemisphere Affairs; the Bureau of International Narcotics and Law Enforcement Affairs; the Bureau of Population, Refugees, and Migration; the Bureau of Democracy, Human Rights, and Labor; the Coordinator for Global Anti-Corruption; the Office of the Secretary of Defense; and the National Security Council.</p>
 <p>Vice President of the United States Kamala Harris and Honduran President Xiomara Castro jointly announced the launch of the U.S.-Honduras Strategic Dialogue at President Castro’s inauguration in January 2022. The first session of the dialogue took place in Washington, DC, in April 2022, solidifying the relationship between the two countries.</p>
 ]]></content:encoded>
 					
@@ -1593,6 +1434,171 @@ document.addEventListener("DOMContentLoaded", function(event) {
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
 <p>The following is attributable to Spokesperson Ned Price:</p>
 <p>Secretary of State Antony J. Blinken spoke yesterday with Canadian Foreign Minister Mélanie Joly.  Secretary Blinken and Foreign Minister Joly discussed continued support for Haiti and the upcoming North American Leaders’ Summit in Mexico City later this month.  The Secretary expressed his appreciation for Canada’s leadership and close coordination with the United States on sanctions and security assistance in Haiti.  The Secretary reaffirmed U.S. dedication to strengthening Haitian National Police capacity, delivering humanitarian assistance, and supporting a Haitian-led political accord. They also discussed other shared priorities and interests and noted that they looked forward to seeing each other in Mexico for the North American Leaders’ Summit.</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>New Sanctions Targeting Iran’s UAV and Ballistic Missile Industries</title>
+		<link>https://www.state.gov/new-sanctions-targeting-irans-uav-and-ballistic-missile-industries/</link>
+		
+		<dc:creator><![CDATA[Antony J. Blinken, Secretary of State]]></dc:creator>
+		<pubDate>Fri, 06 Jan 2023 16:01:08 +0000</pubDate>
+				<category><![CDATA[]]></category>
+		<guid isPermaLink="false">https://www.state.gov/?page_id=408901</guid>
+
+					<description><![CDATA[		<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+		<p>Antony J. Blinken, Secretary of State</p>
+<p>The United States has designated seven individuals in leadership positions with Qods Aviation Industries (QAI), an Iranian defense manufacturer responsible for the design and production of unmanned aerial vehicles (UAVs), and of Iran’s Aerospace Industries Organization (AIO), the main organization responsible for overseeing Iran’s ballistic missile programs.</p>
+<p>Today’s action is pursuant to E.O. 13382 and follows our designations in September and November of individuals and entities involved in the production and transfer of Iranian Shahed<s>&#8211;</s> and Mohajer- series UAVs, which Moscow continues to use in its brutal attacks against Ukraine, including its critical infrastructure.</p>
+<p>The Iranian regime’s military support to Russia not only fuels the conflict in Ukraine but has also resulted in violations of UN Security Council resolution 2231 through its provision of military UAVs without advance, case-by-case approval of the UN Security Council.  Iran has now become Russia’s top military backer.  Iran must cease its support for Russia’s unprovoked war of aggression in Ukraine, and we will continue to use every tool at our disposal to disrupt and delay these transfers and impose costs on actors engaged in this activity.</p>
+<p>For more information on today’s action, please see the <a class="external-link" href="https://home.treasury.gov/news/press-releases/jy1182" target="_BLANK" rel="noopener"><span class="external-link-title">Department of the Treasury’s press release.</span><span class="icon-external"> </span></a></p>
+<p>&nbsp;</p>
+<p><input type="hidden" data-filter="111000000100" /></p>
+]]></description>
+					<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+				<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+			jQuery(document).ready(function(){
+			if (jQuery('p .watermark').length > 0 ) {
+
+				jQuery('p .watermark').parent().addClass('watermarked');
+
+				jQuery('p .watermark').parent().each( function() {
+					jQuery(this).children('img').attr('style', 'margin: 0 !important');
+					jQuery(this).children().wrapAll('<div class="watermarked_image"></div>');
+				});
+
+				jQuery('.entry-content p.watermarked > div.watermarked_image > img').each( function() {
+					if ( jQuery(this).hasClass('alignnone') ) {
+						jQuery(this).parent().addClass( 'alignnone' );
+					}
+					if ( jQuery(this).hasClass('alignleft') ) {
+						jQuery(this).parent().addClass( 'alignleft' );
+					}
+					if ( jQuery(this).hasClass('alignright') ) {
+						jQuery(this).parent().addClass( 'alignright' );
+					}
+					if ( jQuery(this).hasClass('size-medium') ) {
+						jQuery(this).parent().addClass( 'has-size-medium' );
+					}
+					if ( jQuery(this).hasClass('aligncenter') ) {
+						jQuery(this).parent().addClass( 'aligncenter' );
+						jQuery(this).parent().children().wrapAll('<div class="wm_centered"></div>');
+					}
+				});
+			}
+		});
+		});
+		</script>
+									<content:encoded><![CDATA[<p>Antony J. Blinken, Secretary of State</p>
+<p>The United States has designated seven individuals in leadership positions with Qods Aviation Industries (QAI), an Iranian defense manufacturer responsible for the design and production of unmanned aerial vehicles (UAVs), and of Iran’s Aerospace Industries Organization (AIO), the main organization responsible for overseeing Iran’s ballistic missile programs.</p>
+<p>Today’s action is pursuant to E.O. 13382 and follows our designations in September and November of individuals and entities involved in the production and transfer of Iranian Shahed<s>&#8211;</s> and Mohajer- series UAVs, which Moscow continues to use in its brutal attacks against Ukraine, including its critical infrastructure.</p>
+<p>The Iranian regime’s military support to Russia not only fuels the conflict in Ukraine but has also resulted in violations of UN Security Council resolution 2231 through its provision of military UAVs without advance, case-by-case approval of the UN Security Council.  Iran has now become Russia’s top military backer.  Iran must cease its support for Russia’s unprovoked war of aggression in Ukraine, and we will continue to use every tool at our disposal to disrupt and delay these transfers and impose costs on actors engaged in this activity.</p>
+<p>For more information on today’s action, please see the <a class="external-link" href="https://home.treasury.gov/news/press-releases/jy1182" target="_BLANK" rel="noopener"><span class="external-link-title">Department of the Treasury’s press release.</span><span class="icon-external"> </span></a></p>
+<p>&nbsp;</p>
 <p><input type="hidden" data-filter="111000000100" /></p>
 ]]></content:encoded>
 					
