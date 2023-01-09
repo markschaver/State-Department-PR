@@ -10,7 +10,7 @@
 <channel>
 	<title>Press Releases &#8211; United States Department of State</title>
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.state.gov/rss-feed/press-releases/</link>
+	<link></link>
 	<description></description>
 	<lastBuildDate>Mon, 09 Jan 2023 21:28:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,12 +18,12 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
 	<url>https://www.state.gov/wp-content/uploads/2022/04/cropped-dos_seal-32x32.png</url>
 	<title>Press Releases &#8211; United States Department of State</title>
-	<link>https://www.state.gov/rss-feed/press-releases/</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
