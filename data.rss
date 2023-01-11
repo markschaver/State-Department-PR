@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Wed, 11 Jan 2023 02:55:02 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Jan 2023 13:07:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -1038,7 +1038,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		
 			</item>
 		<item>
-		<title>United States Will Host the 10th Conference of the States Parties to the UN Convention against Corruption in Atlanta, Georgia</title>
+		<title>United States will Host the 10th Conference of the States Parties to the UN Convention Against Corruption in Atlanta, Georgia</title>
 		<link>https://www.state.gov/united-states-will-host-the-10th-conference-of-the-states-parties-to-the-un-convention-against-corruption-in-atlanta-georgia/</link>
 		
 		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
