@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Fri, 13 Jan 2023 20:06:06 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Jan 2023 21:08:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -268,8 +268,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		});
 		</script>
 		<p>Office of the Spokesperson</p>
-<p><span style="font-family: times new roman,times; font-size: medium;">The below is attributable to Spokesperson Ned Price:</span></p>
-<p><span style="font-family: times new roman,times; font-size: medium;">Secretary of State Antony J. Blinken spoke today with Ukrainian Foreign Minister Dmytro Kuleba. The two focused on continuing robust security and economic assistance in the run-up to, and beyond, the first anniversary in February of Russia’s unprovoked full-scale invasion of Ukraine. The Secretary emphasized the United States’ enduring and unflinching support for Ukraine, as underscored by recent provisions of advanced air defense equipment and armored vehicles from U.S. stocks.</span></p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Ukrainian Foreign Minister Dmytro Kuleba. The two focused on continuing robust security and economic assistance in the run-up to, and beyond, the first anniversary in February of Russia’s unprovoked full-scale invasion of Ukraine. The Secretary emphasized the United States’ enduring and unflinching support for Ukraine, as underscored by recent provisions of advanced air defense equipment and armored vehicles from U.S. stocks.</p>
+<p><input type="hidden" data-filter="100000000100" /></p>
 ]]></description>
 					<script type="text/javascript">
 document.addEventListener("DOMContentLoaded", function(event) {
@@ -340,8 +341,9 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		});
 		</script>
 									<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
-<p><span style="font-family: times new roman,times; font-size: medium;">The below is attributable to Spokesperson Ned Price:</span></p>
-<p><span style="font-family: times new roman,times; font-size: medium;">Secretary of State Antony J. Blinken spoke today with Ukrainian Foreign Minister Dmytro Kuleba. The two focused on continuing robust security and economic assistance in the run-up to, and beyond, the first anniversary in February of Russia’s unprovoked full-scale invasion of Ukraine. The Secretary emphasized the United States’ enduring and unflinching support for Ukraine, as underscored by recent provisions of advanced air defense equipment and armored vehicles from U.S. stocks.</span></p>
+<p>The below is attributable to Spokesperson Ned Price:</p>
+<p>Secretary of State Antony J. Blinken spoke today with Ukrainian Foreign Minister Dmytro Kuleba. The two focused on continuing robust security and economic assistance in the run-up to, and beyond, the first anniversary in February of Russia’s unprovoked full-scale invasion of Ukraine. The Secretary emphasized the United States’ enduring and unflinching support for Ukraine, as underscored by recent provisions of advanced air defense equipment and armored vehicles from U.S. stocks.</p>
+<p><input type="hidden" data-filter="100000000100" /></p>
 ]]></content:encoded>
 					
 		
