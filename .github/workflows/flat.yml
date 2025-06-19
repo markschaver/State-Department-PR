@@ -4,7 +4,7 @@ on:
     paths:
       - .github/workflows/flat.yml
   schedule:
-    - cron: 0/15 * * * *
+    - cron: '*/15 * * * *'
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -16,7 +16,7 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
       - name: Fetch data
-        uses: githubocto/flat@v2
+        uses: githubocto/flat@v3
         with:
           http_url: https://www.state.gov/rss-feed/press-releases/feed/
           downloaded_filename: data.rss
