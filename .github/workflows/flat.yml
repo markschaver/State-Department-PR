@@ -1,3 +1,4 @@
+name: Fetch State Dept press releases RSS
 on:
   workflow_dispatch: {}
   push:
@@ -8,16 +9,39 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Setup deno
-        uses: denoland/setup-deno@main
-        with:
-          deno-version: v1.x
       - name: Check out repo
-        uses: actions/checkout@v2
-      - name: Fetch data
-        uses: githubocto/flat@v3
-        with:
-          http_url: https://www.state.gov/rss-feed/press-releases/feed/
-          downloaded_filename: data.rss
+        uses: actions/checkout@v4
 
+      - name: Fetch data
+        run: |
+          # state.gov bot-blocks requests without a browser User-Agent,
+          # returning a 200 "Technical Difficulties" HTML page instead of
+          # the RSS feed. Send a browser UA to get the real feed.
+          curl -sSL --fail \
+            -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" \
+            -H "Accept: application/rss+xml,application/xml;q=0.9,*/*;q=0.8" \
+            -o data.rss \
+            https://www.state.gov/rss-feed/press-releases/feed/
+
+      - name: Validate response is RSS
+        run: |
+          if ! head -c 200 data.rss | grep -qi "<rss"; then
+            echo "::error::Fetched file is not an RSS feed (likely blocked)."
+            head -c 500 data.rss
+            exit 1
+          fi
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data.rss; then
+            echo "No changes to data.rss"
+            exit 0
+          fi
+          git add data.rss
+          git commit -m "Latest data: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
