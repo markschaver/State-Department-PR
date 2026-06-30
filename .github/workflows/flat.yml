@@ -34,14 +34,22 @@ jobs:
             exit 1
           fi
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Archive new items
+        run: python3 scripts/ingest_rss.py
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- data.rss; then
-            echo "No changes to data.rss"
+          git add data.rss items
+          if git diff --cached --quiet; then
+            echo "No changes"
             exit 0
           fi
-          git add data.rss
           git commit -m "Latest data: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push
