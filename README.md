@@ -1,7 +1,7 @@
-# State Department Press Releases Archive
+# State Department Press Release Archive
 
 Archive of press releases published by the
-[U.S. Department of State](https://www.state.gov/press-releases/). Each press release is archived as a JSON file by month and year.
+[U.S. Department of State](https://www.state.gov/press-releases/). Each press release is archived as a JSON file by year and month.
 
 ## Files
 
@@ -9,7 +9,7 @@ Archive of press releases published by the
 | --- | --- |
 | [`data.rss`](data.rss) | The most recent snapshot of the raw RSS feed (overwritten each run). |
 | `items/` | The permanent archive — one JSON file per press release, organized by year and month. |
-| [`scripts/ingest_rss.py`](scripts/ingest_rss.py) | Parses `data.rss` and writes new items as JSON (Python standard library only). |
+| [`scripts/ingest_rss.py`](scripts/ingest_rss.py) | Parses `data.rss` and writes new items as JSONg. |
 | [`.github/workflows/flat.yml`](.github/workflows/flat.yml) | The scheduled GitHub Action that drives everything. |
 
 ## Archive
