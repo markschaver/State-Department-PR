@@ -1996,4 +1996,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6604 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1454957 metric#prefetches=280 metric#store-reads=37 metric#store-writes=6 metric#store-hits=288 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=648.81 metric#ms-cache=35.51 metric#ms-cache-avg=0.8456 metric#ms-cache-ratio=5.5 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6604 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1456471 metric#prefetches=280 metric#store-reads=37 metric#store-writes=8 metric#store-hits=288 metric#store-misses=2 metric#sql-queries=20 metric#ms-total=673.55 metric#ms-cache=38.01 metric#ms-cache-avg=0.8638 metric#ms-cache-ratio=5.6 -->
