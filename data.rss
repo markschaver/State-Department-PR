@@ -1930,4 +1930,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6713 metric#misses=114 metric#hit-ratio=98.3 metric#bytes=1433301 metric#prefetches=286 metric#store-reads=40 metric#store-writes=14 metric#store-hits=294 metric#store-misses=5 metric#sql-queries=26 metric#ms-total=718.58 metric#ms-cache=49.47 metric#ms-cache-avg=0.9333 metric#ms-cache-ratio=6.9 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6713 metric#misses=114 metric#hit-ratio=98.3 metric#bytes=1433294 metric#prefetches=286 metric#store-reads=40 metric#store-writes=7 metric#store-hits=294 metric#store-misses=5 metric#sql-queries=19 metric#ms-total=677.68 metric#ms-cache=43.80 metric#ms-cache-avg=0.9522 metric#ms-cache-ratio=6.5 -->
