@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Tue, 07 Jul 2026 17:58:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Jul 2026 18:27:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,16 +28,16 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Secretary of State Marco RubioWith Japanese Foreign Minister Motegi Toshimitsuand Republic of Korea Foreign Minister Cho Hyun at a Small Modular Reactor Memorandum of Cooperation Signing Ceremony</title>
+		<title>Secretary of State Marco Rubio with Japanese Foreign Minister Motegi Toshimitsu and Republic of Korea Foreign Minister Cho Hyun at a Small Modular Reactor Memorandum of Cooperation Signing Ceremony</title>
 		<link>https://www.state.gov/releases/office-of-the-spokesperson/2026/07/secretary-of-state-marco-rubiowith-japanese-foreign-minister-motegi-toshimitsuand-republic-of-korea-foreign-minister-cho-hyun-at-a-small-modular-reactor-memorandum-of-cooperation-signing-ceremony/</link>
 		
-		<dc:creator><![CDATA[Marco Rubio, Secretary of State, Japanese Foreign Minister Motegi Toshimitsu, Republic of Korea Foreign Minister Cho Hyun]]></dc:creator>
+		<dc:creator><![CDATA[Marco Rubio, Secretary of State, Motegi Toshimitsu, Japanese Foreign Minister, Cho Hyun, Republic of Korea Foreign Minister]]></dc:creator>
 		<pubDate>Tue, 07 Jul 2026 17:58:51 +0000</pubDate>
 				<guid isPermaLink="false">https://www.state.gov/releases/preview/692901/</guid>
 
 					<description><![CDATA[<p>Marco Rubio, Secretary of State</p>
-<p>Japanese Foreign Minister Motegi Toshimitsu</p>
-<p>Republic of Korea Foreign Minister Cho Hyun</p>
+<p>Motegi Toshimitsu, Japanese Foreign Minister</p>
+<p>Cho Hyun, Republic of Korea Foreign Minister</p>
 <p>Ankara, Türkiye</p>
 <p>NATO Summit</p>
 
@@ -60,7 +60,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						Secretary of State Marco RubioWith Japanese Foreign Minister Motegi Toshimitsuand Republic of Korea Foreign Minister Cho Hyun at a Small Modular Reactor Memorandum of Cooperation Signing Ceremony
+						Secretary of State Marco Rubio with Japanese Foreign Minister Motegi Toshimitsu and Republic of Korea Foreign Minister Cho Hyun at a Small Modular Reactor Memorandum of Cooperation Signing Ceremony
 					
 				</h1>
 
@@ -129,8 +129,8 @@
 
 ]]></description>
 										<content:encoded><![CDATA[<p>Marco Rubio, Secretary of State</p>
-<p>Japanese Foreign Minister Motegi Toshimitsu</p>
-<p>Republic of Korea Foreign Minister Cho Hyun</p>
+<p>Motegi Toshimitsu, Japanese Foreign Minister</p>
+<p>Cho Hyun, Republic of Korea Foreign Minister</p>
 <p>Ankara, Türkiye</p>
 <p>NATO Summit</p>
 
@@ -153,7 +153,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						Secretary of State Marco RubioWith Japanese Foreign Minister Motegi Toshimitsuand Republic of Korea Foreign Minister Cho Hyun at a Small Modular Reactor Memorandum of Cooperation Signing Ceremony
+						Secretary of State Marco Rubio with Japanese Foreign Minister Motegi Toshimitsu and Republic of Korea Foreign Minister Cho Hyun at a Small Modular Reactor Memorandum of Cooperation Signing Ceremony
 					
 				</h1>
 
@@ -1888,4 +1888,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6965 metric#misses=115 metric#hit-ratio=98.4 metric#bytes=1378961 metric#prefetches=283 metric#store-reads=41 metric#store-writes=10 metric#store-hits=292 metric#store-misses=6 metric#sql-queries=22 metric#ms-total=770.98 metric#ms-cache=28.54 metric#ms-cache-avg=0.5709 metric#ms-cache-ratio=3.7 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6966 metric#misses=114 metric#hit-ratio=98.4 metric#bytes=1378913 metric#prefetches=284 metric#store-reads=40 metric#store-writes=10 metric#store-hits=292 metric#store-misses=5 metric#sql-queries=22 metric#ms-total=687.00 metric#ms-cache=49.31 metric#ms-cache-avg=1.0062 metric#ms-cache-ratio=7.2 -->
