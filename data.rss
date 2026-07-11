@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Sat, 11 Jul 2026 23:02:07 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 11 Jul 2026 23:07:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -105,7 +105,7 @@
 
 
 <div class="classic-block-wrapper"><div class="wp-block-classic">
-<div align="left"><em>The text of the following statement was released by the Governments of the United States of America, Australia, Canada, Estonia, Japan, Latvia, Lithuania, New Zealand, the Republic of the Philippines, Romania, Slovenia, and the United Kingdom on the occasion of the tenth anniversary of the Philippines-China South China Sea Arbitral Tribunal Award.</em></div>
+<div align="left"><em>The text of the following statement was released by the Governments of the United States of America, Australia, Canada, Estonia, Germany, Italy, Japan, Latvia, Lithuania, New Zealand, the Republic of the Philippines, Romania, Slovenia, and the United Kingdom on the occasion of the tenth anniversary of the Philippines-China South China Sea Arbitral Tribunal Award.</em></div>
 <div align="left"> </div>
 <div align="left"><em>Begin Text</em></div>
 <div align="left"> </div>
@@ -200,7 +200,7 @@
 
 
 <div class="classic-block-wrapper"><div class="wp-block-classic">
-<div align="left"><em>The text of the following statement was released by the Governments of the United States of America, Australia, Canada, Estonia, Japan, Latvia, Lithuania, New Zealand, the Republic of the Philippines, Romania, Slovenia, and the United Kingdom on the occasion of the tenth anniversary of the Philippines-China South China Sea Arbitral Tribunal Award.</em></div>
+<div align="left"><em>The text of the following statement was released by the Governments of the United States of America, Australia, Canada, Estonia, Germany, Italy, Japan, Latvia, Lithuania, New Zealand, the Republic of the Philippines, Romania, Slovenia, and the United Kingdom on the occasion of the tenth anniversary of the Philippines-China South China Sea Arbitral Tribunal Award.</em></div>
 <div align="left"> </div>
 <div align="left"><em>Begin Text</em></div>
 <div align="left"> </div>
@@ -1870,4 +1870,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6607 metric#misses=110 metric#hit-ratio=98.4 metric#bytes=1453229 metric#prefetches=280 metric#store-reads=37 metric#store-writes=6 metric#store-hits=288 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=767.74 metric#ms-cache=42.19 metric#ms-cache-avg=1.0046 metric#ms-cache-ratio=5.5 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6607 metric#misses=110 metric#hit-ratio=98.4 metric#bytes=1453227 metric#prefetches=280 metric#store-reads=37 metric#store-writes=4 metric#store-hits=288 metric#store-misses=2 metric#sql-queries=14 metric#ms-total=265.85 metric#ms-cache=9.76 metric#ms-cache-avg=0.2439 metric#ms-cache-ratio=3.7 -->
