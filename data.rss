@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Wed, 15 Jul 2026 11:36:53 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Jul 2026 12:25:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -282,7 +282,7 @@
 
 <div class="classic-block-wrapper"><div class="wp-block-classic">
 <p>As part of the United States’ effort to increase pressure on the Iranian regime amid their unlawful attacks on commercial shipping in the Strait of Hormuz, the United States is acting to disrupt and degrade the illicit shipping and sanctions evasion network of U.S.-designated Mohammad Hossein Shamkhani, which serves as a major enabler behind Iran’s oil exports. Today, we are designating more than 50 individuals, entities, and vessels that enable Shamkhani and the Iranian regime to continue profiting while the Iranian people suffer.<br /><br />The Shamkhani network relies on a combination of Iranian and foreign nationals and firms to conduct sanctions‑evasion schemes. It also uses offshore shell companies, critical to the network’s ability, to trade sanctioned goods and recover the proceeds of those trades.<br /><br />The United States will use all the tools at our disposal to hold the regime accountable for its actions.</p>
-<p><em>Today’s action is being taken pursuant to Executive Order (E.O.) 13902, which provides authority to the Secretary of the Treasury, in consultation with the Secretary of State, to identify and impose sanctions on key sectors of Iran’s economy. For more information on today’s action, see the Department of the Treasury’s <a href="https://home.treasury.gov/news/press-releases/sb0562">press release</a>.</em></p>
+<p><em>Today’s action is being taken pursuant to Executive Order (E.O.) 13902, which provides authority to the Secretary of the Treasury, in consultation with the Secretary of State, to identify and impose sanctions on key sectors of Iran’s economy. For more information on today’s action, see the <a href="https://home.treasury.gov/news/press-releases/sb0562">Department of the Treasury’s press release</a><span class="icon-external" title="external link icon" role="img" aria-label="external link icon"></span>.</em></p>
 <p><input type="hidden" data-filter="111001000111" /></p>
 </div></div>
 
@@ -364,7 +364,7 @@
 
 <div class="classic-block-wrapper"><div class="wp-block-classic">
 <p>As part of the United States’ effort to increase pressure on the Iranian regime amid their unlawful attacks on commercial shipping in the Strait of Hormuz, the United States is acting to disrupt and degrade the illicit shipping and sanctions evasion network of U.S.-designated Mohammad Hossein Shamkhani, which serves as a major enabler behind Iran’s oil exports. Today, we are designating more than 50 individuals, entities, and vessels that enable Shamkhani and the Iranian regime to continue profiting while the Iranian people suffer.<br /><br />The Shamkhani network relies on a combination of Iranian and foreign nationals and firms to conduct sanctions‑evasion schemes. It also uses offshore shell companies, critical to the network’s ability, to trade sanctioned goods and recover the proceeds of those trades.<br /><br />The United States will use all the tools at our disposal to hold the regime accountable for its actions.</p>
-<p><em>Today’s action is being taken pursuant to Executive Order (E.O.) 13902, which provides authority to the Secretary of the Treasury, in consultation with the Secretary of State, to identify and impose sanctions on key sectors of Iran’s economy. For more information on today’s action, see the Department of the Treasury’s <a href="https://home.treasury.gov/news/press-releases/sb0562">press release</a>.</em></p>
+<p><em>Today’s action is being taken pursuant to Executive Order (E.O.) 13902, which provides authority to the Secretary of the Treasury, in consultation with the Secretary of State, to identify and impose sanctions on key sectors of Iran’s economy. For more information on today’s action, see the <a href="https://home.treasury.gov/news/press-releases/sb0562">Department of the Treasury’s press release</a><span class="icon-external" title="external link icon" role="img" aria-label="external link icon"></span>.</em></p>
 <p><input type="hidden" data-filter="111001000111" /></p>
 </div></div>
 
@@ -1902,4 +1902,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6557 metric#misses=110 metric#hit-ratio=98.4 metric#bytes=1547084 metric#prefetches=283 metric#store-reads=37 metric#store-writes=13 metric#store-hits=291 metric#store-misses=2 metric#sql-queries=25 metric#ms-total=687.59 metric#ms-cache=49.52 metric#ms-cache-avg=1.0107 metric#ms-cache-ratio=7.2 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6553 metric#misses=110 metric#hit-ratio=98.4 metric#bytes=1440379 metric#prefetches=281 metric#store-reads=37 metric#store-writes=4 metric#store-hits=289 metric#store-misses=2 metric#sql-queries=14 metric#ms-total=244.39 metric#ms-cache=21.27 metric#ms-cache-avg=0.5317 metric#ms-cache-ratio=8.7 -->
