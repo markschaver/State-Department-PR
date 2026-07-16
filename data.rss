@@ -1950,4 +1950,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6423 metric#misses=110 metric#hit-ratio=98.3 metric#bytes=1368199 metric#prefetches=279 metric#store-reads=37 metric#store-writes=8 metric#store-hits=287 metric#store-misses=2 metric#sql-queries=20 metric#ms-total=643.65 metric#ms-cache=12.45 metric#ms-cache-avg=0.2830 metric#ms-cache-ratio=1.9 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6423 metric#misses=110 metric#hit-ratio=98.3 metric#bytes=1368992 metric#prefetches=279 metric#store-reads=37 metric#store-writes=17 metric#store-hits=287 metric#store-misses=2 metric#sql-queries=29 metric#ms-total=1000.75 metric#ms-cache=104.15 metric#ms-cache-avg=1.9651 metric#ms-cache-ratio=10.4 -->
