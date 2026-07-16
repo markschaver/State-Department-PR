@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Thu, 16 Jul 2026 20:13:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Jul 2026 20:34:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -108,8 +108,8 @@
 <p>Far-left terrorist and aligned groups often use sophisticated, organized networks to perpetrate violence as a political tool – seeking to implement an extreme political vision through intimidation and coordinated campaigns of terror. It is a strategy that explicitly aims to undermine the political foundations of free and self-governing societies, utilizing bombings, assassinations, and other forms of terrorism to silence speech, limit political opposition, change policy outcomes, and sabotage political processes.</p>
 <p>Today, in support of National Security Presidential Memorandum-7 and ongoing U.S. Government efforts to disrupt networks fomenting political violence before they escalate to criminal action, the Department of State is announcing a new visa restriction policy that targets members of Far-Left Terrorist and other aligned groups who have supported or incited acts of terrorism; supported violent criminal activity; participated in economic sabotage; financed, recruited, or provided logistical support for violent or criminal actions committed by Far-Left Terrorist and other aligned groups; and/or facilitated the convergence of Far-Left Terrorist and other aligned networks for the purposes of violent action.</p>
 <p>This policy will safeguard the American homeland by restricting entry of foreign nationals who finance, recruit, incite, or otherwise enable terrorist, violent, and criminal Far-Left Terrorist networks – closing the visa pathways that Far-Left Terrorists and other aligned groups exploit to threaten American lives, undermine economic stability, and coordinate violent action on U.S. soil.</p>
-<p><em>These actions are being taken pursuant to Section 212(a)(3)(C) of the Immigration and Nationality Act.</em></p>
-<p><input type="hidden" data-filter="1001000111" /></p>
+<p>These actions are being taken pursuant to Section 212(a)(3)(C) of the Immigration and Nationality Act.</p>
+<p><input type="hidden" data-filter="111100011111" /></p>
 </div></div>
 
 
@@ -192,8 +192,8 @@
 <p>Far-left terrorist and aligned groups often use sophisticated, organized networks to perpetrate violence as a political tool – seeking to implement an extreme political vision through intimidation and coordinated campaigns of terror. It is a strategy that explicitly aims to undermine the political foundations of free and self-governing societies, utilizing bombings, assassinations, and other forms of terrorism to silence speech, limit political opposition, change policy outcomes, and sabotage political processes.</p>
 <p>Today, in support of National Security Presidential Memorandum-7 and ongoing U.S. Government efforts to disrupt networks fomenting political violence before they escalate to criminal action, the Department of State is announcing a new visa restriction policy that targets members of Far-Left Terrorist and other aligned groups who have supported or incited acts of terrorism; supported violent criminal activity; participated in economic sabotage; financed, recruited, or provided logistical support for violent or criminal actions committed by Far-Left Terrorist and other aligned groups; and/or facilitated the convergence of Far-Left Terrorist and other aligned networks for the purposes of violent action.</p>
 <p>This policy will safeguard the American homeland by restricting entry of foreign nationals who finance, recruit, incite, or otherwise enable terrorist, violent, and criminal Far-Left Terrorist networks – closing the visa pathways that Far-Left Terrorists and other aligned groups exploit to threaten American lives, undermine economic stability, and coordinate violent action on U.S. soil.</p>
-<p><em>These actions are being taken pursuant to Section 212(a)(3)(C) of the Immigration and Nationality Act.</em></p>
-<p><input type="hidden" data-filter="1001000111" /></p>
+<p>These actions are being taken pursuant to Section 212(a)(3)(C) of the Immigration and Nationality Act.</p>
+<p><input type="hidden" data-filter="111100011111" /></p>
 </div></div>
 
 
@@ -2080,4 +2080,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6796 metric#misses=114 metric#hit-ratio=98.4 metric#bytes=1591879 metric#prefetches=290 metric#store-reads=40 metric#store-writes=8 metric#store-hits=298 metric#store-misses=5 metric#sql-queries=20 metric#ms-total=803.52 metric#ms-cache=48.85 metric#ms-cache-avg=1.0393 metric#ms-cache-ratio=6.1 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6796 metric#misses=114 metric#hit-ratio=98.4 metric#bytes=1591316 metric#prefetches=290 metric#store-reads=40 metric#store-writes=13 metric#store-hits=298 metric#store-misses=5 metric#sql-queries=25 metric#ms-total=647.28 metric#ms-cache=17.46 metric#ms-cache-avg=0.3359 metric#ms-cache-ratio=2.7 -->
