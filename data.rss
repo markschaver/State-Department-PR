@@ -1908,4 +1908,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6671 metric#misses=110 metric#hit-ratio=98.4 metric#bytes=1608709 metric#prefetches=284 metric#store-reads=37 metric#store-writes=6 metric#store-hits=292 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=630.59 metric#ms-cache=18.81 metric#ms-cache-avg=0.4478 metric#ms-cache-ratio=3.0 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6671 metric#misses=110 metric#hit-ratio=98.4 metric#bytes=1607787 metric#prefetches=284 metric#store-reads=37 metric#store-writes=4 metric#store-hits=292 metric#store-misses=2 metric#sql-queries=14 metric#ms-total=231.65 metric#ms-cache=24.11 metric#ms-cache-avg=0.6028 metric#ms-cache-ratio=10.4 -->
