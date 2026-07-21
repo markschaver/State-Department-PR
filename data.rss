@@ -1966,4 +1966,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6778 metric#misses=114 metric#hit-ratio=98.4 metric#bytes=1577638 metric#prefetches=288 metric#store-reads=40 metric#store-writes=7 metric#store-hits=296 metric#store-misses=5 metric#sql-queries=19 metric#ms-total=733.36 metric#ms-cache=35.64 metric#ms-cache-avg=0.7747 metric#ms-cache-ratio=4.9 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6778 metric#misses=114 metric#hit-ratio=98.4 metric#bytes=1579050 metric#prefetches=288 metric#store-reads=40 metric#store-writes=11 metric#store-hits=296 metric#store-misses=5 metric#sql-queries=23 metric#ms-total=670.75 metric#ms-cache=15.58 metric#ms-cache-avg=0.3116 metric#ms-cache-ratio=2.3 -->
