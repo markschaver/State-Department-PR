@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0</generator>
+	<generator>https://wordpress.org/?v=7.0.2</generator>
 
 <image>
 	<url>https://www.state.gov/wp-content/uploads/2022/04/cropped-dos_seal-32x32.png</url>
@@ -2340,4 +2340,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6581 metric#misses=114 metric#hit-ratio=98.3 metric#bytes=1578423 metric#prefetches=288 metric#store-reads=40 metric#store-writes=16 metric#store-hits=296 metric#store-misses=5 metric#sql-queries=27 metric#ms-total=1121.85 metric#ms-cache=55.20 metric#ms-cache-avg=1.0037 metric#ms-cache-ratio=4.9 sample#redis-hits=15282497172 sample#redis-misses=37001728 sample#redis-hit-ratio=99.8 sample#redis-ops-per-sec=852 sample#redis-evicted-keys=3497452 sample#redis-used-memory=3837773272 sample#redis-used-memory-rss=3881381888 sample#redis-memory-fragmentation-ratio=1.0 sample#redis-connected-clients=11 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=677811 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6300 metric#misses=118 metric#hit-ratio=98.2 metric#bytes=2634945 metric#prefetches=0 metric#store-reads=130 metric#store-writes=10 metric#store-hits=295 metric#store-misses=9 metric#sql-queries=22 metric#ms-total=1059.28 metric#ms-cache=79.65 metric#ms-cache-avg=0.5730 metric#ms-cache-ratio=7.5 -->
