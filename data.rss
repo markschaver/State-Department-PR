@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Wed, 22 Jul 2026 15:28:01 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Jul 2026 15:52:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Advancing American Safety, Strength, and Prosperity in Southeast Asia </title>
+		<title>Advancing American Safety, Strength, and Prosperity in Southeast Asia </title>
 		<link>https://www.state.gov/releases/office-of-the-spokesperson/2026/07/advancing-american-safety-strength-and-prosperity-in-southeast-asia/</link>
 		
 		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
@@ -56,7 +56,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						Advancing American Safety, Strength, and Prosperity in Southeast Asia 
+						Advancing American Safety, Strength, and Prosperity in Southeast Asia 
 					
 				</h1>
 
@@ -176,7 +176,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						Advancing American Safety, Strength, and Prosperity in Southeast Asia 
+						Advancing American Safety, Strength, and Prosperity in Southeast Asia 
 					
 				</h1>
 
@@ -1922,4 +1922,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6398 metric#misses=110 metric#hit-ratio=98.3 metric#bytes=1360744 metric#prefetches=279 metric#store-reads=37 metric#store-writes=9 metric#store-hits=287 metric#store-misses=2 metric#sql-queries=21 metric#ms-total=849.96 metric#ms-cache=30.76 metric#ms-cache-avg=0.6835 metric#ms-cache-ratio=3.6 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6406 metric#misses=110 metric#hit-ratio=98.3 metric#bytes=1491475 metric#prefetches=283 metric#store-reads=37 metric#store-writes=12 metric#store-hits=291 metric#store-misses=2 metric#sql-queries=24 metric#ms-total=702.28 metric#ms-cache=50.56 metric#ms-cache-avg=1.0533 metric#ms-cache-ratio=7.2 -->
