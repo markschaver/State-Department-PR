@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Mon, 27 Jul 2026 01:30:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jul 2026 12:28:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -835,7 +835,7 @@
 </div>
 
 <div class="wp-block-paragraph">
-<p class="wp-block-paragraph"><em>Today’s action&nbsp;is being&nbsp;taken&nbsp;pursuant&nbsp;to&nbsp;Executive&nbsp;Order 13902,&nbsp;which targets Iran’s financial, petroleum, and petrochemical sectors to restrict revenue that could fund Iran’s nuclear, missile and terrorist activities.&nbsp;For more information on today’s action, please see the Department of the Treasury’s&nbsp;</em><em><a href="https://home.treasury.gov/news/press-releases">press release</a>.</em></p>
+<p class="wp-block-paragraph"><em>Today’s action is being taken pursuant to Executive Order 13902, which targets Iran’s financial, petroleum, and petrochemical sectors to restrict revenue that could fund Iran’s nuclear, missile and terrorist activities. For more information on today’s action, please see the Department of the Treasury’s <a href="https://home.treasury.gov/news/press-releases" target="_blank" rel="noopener" class="external-link">press release<span class="icon-external" title="external link icon" role="img" aria-label="external link icon"></span></a>.</em></p>
 </div>
 
 
@@ -923,7 +923,7 @@
 </div>
 
 <div class="wp-block-paragraph">
-<p class="wp-block-paragraph"><em>Today’s action&nbsp;is being&nbsp;taken&nbsp;pursuant&nbsp;to&nbsp;Executive&nbsp;Order 13902,&nbsp;which targets Iran’s financial, petroleum, and petrochemical sectors to restrict revenue that could fund Iran’s nuclear, missile and terrorist activities.&nbsp;For more information on today’s action, please see the Department of the Treasury’s&nbsp;</em><em><a href="https://home.treasury.gov/news/press-releases">press release</a>.</em></p>
+<p class="wp-block-paragraph"><em>Today’s action is being taken pursuant to Executive Order 13902, which targets Iran’s financial, petroleum, and petrochemical sectors to restrict revenue that could fund Iran’s nuclear, missile and terrorist activities. For more information on today’s action, please see the Department of the Treasury’s <a href="https://home.treasury.gov/news/press-releases" target="_blank" rel="noopener" class="external-link">press release<span class="icon-external" title="external link icon" role="img" aria-label="external link icon"></span></a>.</em></p>
 </div>
 
 
@@ -1920,4 +1920,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6707 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1521976 metric#prefetches=284 metric#store-reads=37 metric#store-writes=9 metric#store-hits=292 metric#store-misses=2 metric#sql-queries=21 metric#ms-total=680.85 metric#ms-cache=19.59 metric#ms-cache-avg=0.4353 metric#ms-cache-ratio=2.9 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6711 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1579125 metric#prefetches=286 metric#store-reads=37 metric#store-writes=6 metric#store-hits=294 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=680.40 metric#ms-cache=18.52 metric#ms-cache-avg=0.4410 metric#ms-cache-ratio=2.7 -->
