@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Tue, 28 Jul 2026 12:28:18 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jul 2026 18:12:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -106,7 +106,6 @@
 
 <div class="classic-block-wrapper"><div class="wp-block-classic">
 <p>Deputy Secretary Christopher Landau will lead the U.S. delegation to the July 28 inauguration of President-elect Keiko Fujimori in Lima, Peru.  During the visit, Deputy Secretary Landau will meet with President-elect Fujimori and other senior Peruvian officials to reaffirm our 200-year diplomatic partnership with Peru.  The meetings will focus on expanding cooperation on security, investment, and disaster preparedness – advancing shared prosperity and strengthening regional stability.</p>
-<p>   </p>
 <p>Members of the Presidential Delegation include:</p>
 <ul>
 <li>H. Christopher Landau, Deputy Secretary of State, U.S. Department of State</li>
@@ -197,7 +196,6 @@
 
 <div class="classic-block-wrapper"><div class="wp-block-classic">
 <p>Deputy Secretary Christopher Landau will lead the U.S. delegation to the July 28 inauguration of President-elect Keiko Fujimori in Lima, Peru.  During the visit, Deputy Secretary Landau will meet with President-elect Fujimori and other senior Peruvian officials to reaffirm our 200-year diplomatic partnership with Peru.  The meetings will focus on expanding cooperation on security, investment, and disaster preparedness – advancing shared prosperity and strengthening regional stability.</p>
-<p>   </p>
 <p>Members of the Presidential Delegation include:</p>
 <ul>
 <li>H. Christopher Landau, Deputy Secretary of State, U.S. Department of State</li>
@@ -1920,4 +1918,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6711 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1581757 metric#prefetches=286 metric#store-reads=37 metric#store-writes=6 metric#store-hits=294 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=711.71 metric#ms-cache=45.21 metric#ms-cache-avg=1.0765 metric#ms-cache-ratio=6.4 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6711 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1583019 metric#prefetches=286 metric#store-reads=37 metric#store-writes=4 metric#store-hits=294 metric#store-misses=2 metric#sql-queries=14 metric#ms-total=248.12 metric#ms-cache=40.23 metric#ms-cache-avg=1.0057 metric#ms-cache-ratio=16.2 -->
