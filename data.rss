@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Thu, 30 Jul 2026 11:21:31 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Jul 2026 13:02:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -2090,4 +2090,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=7014 metric#misses=109 metric#hit-ratio=98.5 metric#bytes=1506206 metric#prefetches=284 metric#store-reads=37 metric#store-writes=23 metric#store-hits=292 metric#store-misses=2 metric#sql-queries=35 metric#ms-total=734.82 metric#ms-cache=15.45 metric#ms-cache-avg=0.2619 metric#ms-cache-ratio=2.1 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=7014 metric#misses=109 metric#hit-ratio=98.5 metric#bytes=1508174 metric#prefetches=284 metric#store-reads=37 metric#store-writes=7 metric#store-hits=292 metric#store-misses=2 metric#sql-queries=19 metric#ms-total=703.39 metric#ms-cache=3.06 metric#ms-cache-avg=0.0712 metric#ms-cache-ratio=0.4 -->
