@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Thu, 30 Jul 2026 18:14:18 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Jul 2026 20:58:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -2098,4 +2098,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=7022 metric#misses=109 metric#hit-ratio=98.5 metric#bytes=1481176 metric#prefetches=282 metric#store-reads=37 metric#store-writes=9 metric#store-hits=290 metric#store-misses=2 metric#sql-queries=21 metric#ms-total=722.46 metric#ms-cache=3.22 metric#ms-cache-avg=0.0715 metric#ms-cache-ratio=0.5 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=7026 metric#misses=109 metric#hit-ratio=98.5 metric#bytes=1586376 metric#prefetches=284 metric#store-reads=37 metric#store-writes=9 metric#store-hits=292 metric#store-misses=2 metric#sql-queries=20 metric#ms-total=638.99 metric#ms-cache=2.93 metric#ms-cache-avg=0.0651 metric#ms-cache-ratio=0.5 sample#redis-hits=14530793129 sample#redis-misses=33894800 sample#redis-hit-ratio=99.8 sample#redis-ops-per-sec=510 sample#redis-evicted-keys=3252771 sample#redis-used-memory=3968611128 sample#redis-used-memory-rss=4020396032 sample#redis-memory-fragmentation-ratio=1.0 sample#redis-connected-clients=4 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=712866 -->
