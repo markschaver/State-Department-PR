@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Mon, 03 Aug 2026 16:28:23 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Aug 2026 18:24:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -105,7 +105,7 @@
 
 
 <div class="classic-block-wrapper"><div class="wp-block-classic">
-<p align="left">The U.S. welcomes yesterday’s statements from Venezuela’s 2015 National Assembly, led by Dinorah Figuera, and the interim government.</p>
+<p align="left">The U.S. welcomes the August 1 statements from Venezuela’s 2015 National Assembly, led by Dinorah Figuera, and the interim government.</p>
 <p align="left">We support the launching of Venezuelan‑led efforts to address the urgent needs of those affected by the June 24 earthquakes, strengthen democratic institutions, expand political freedoms, and advance a more stable and prosperous future for the Venezuelan people. This process contributes significantly to the three phase plan the United States supports to bring about stabilization, economic recovery and political reconciliation and a transition to democratic elections.</p>
 <p align="left">We are confident this work can deliver tangible results for Venezuelans.</p>
 <p><input type="hidden" data-filter="111001000111" /></p>
@@ -188,7 +188,7 @@
 
 
 <div class="classic-block-wrapper"><div class="wp-block-classic">
-<p align="left">The U.S. welcomes yesterday’s statements from Venezuela’s 2015 National Assembly, led by Dinorah Figuera, and the interim government.</p>
+<p align="left">The U.S. welcomes the August 1 statements from Venezuela’s 2015 National Assembly, led by Dinorah Figuera, and the interim government.</p>
 <p align="left">We support the launching of Venezuelan‑led efforts to address the urgent needs of those affected by the June 24 earthquakes, strengthen democratic institutions, expand political freedoms, and advance a more stable and prosperous future for the Venezuelan people. This process contributes significantly to the three phase plan the United States supports to bring about stabilization, economic recovery and political reconciliation and a transition to democratic elections.</p>
 <p align="left">We are confident this work can deliver tangible results for Venezuelans.</p>
 <p><input type="hidden" data-filter="111001000111" /></p>
@@ -2014,4 +2014,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6801 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1448181 metric#prefetches=280 metric#store-reads=37 metric#store-writes=6 metric#store-hits=288 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=740.52 metric#ms-cache=24.32 metric#ms-cache-avg=0.5790 metric#ms-cache-ratio=3.3 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6805 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1509450 metric#prefetches=282 metric#store-reads=37 metric#store-writes=19 metric#store-hits=290 metric#store-misses=2 metric#sql-queries=31 metric#ms-total=871.55 metric#ms-cache=35.64 metric#ms-cache-avg=0.6479 metric#ms-cache-ratio=4.1 -->
