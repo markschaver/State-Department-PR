@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Mon, 03 Aug 2026 12:03:11 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Aug 2026 14:25:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -148,7 +148,7 @@
 <p><strong>QUESTION:</strong>  The fact that so many of these Gulf Arab nations have all kind of aligned against Iran, that must be important.</p>
 <p><strong>SECRETARY RUBIO:  </strong>I would say two things about the Middle East and the Gulf – I mean, they’ve always understood who Iran was and the threat they posed.  That threat has now become reality.  They have now seen Iranian drones and Iranian missiles launched into their cities and against their energy infrastructure. </p>
 <p>The other thing that’s changed is I think you’re going to see more and more energy diversifying outside of the Straits of Hormuz, because from a geographic standpoint Iran will always be on the straits, whether they’re governed by this regime or a future government.  But that’s going to be two permanent features that are going to emerge from this:  You’re going to see the realignment in how energy flows, less reliant on the Straits of Hormuz; and you’re going to countries in the region that are no longer – now understand that Iran is no longer a theoretical threat.  As long as this clerical regime remains in place, they are a real threat and a direct threat to their – not just to their economic interests but their security interests.</p>
-<p><strong>QUESTION:  </strong>Well, President Trump says he is going to confront Valdimir Putin regarding reports that Russia helped Iran target U.S. bases.  How much does that relationship concern you?</p>
+<p><strong>QUESTION:  </strong>Well, President Trump says he is going to confront Vladimir Putin regarding reports that Russia helped Iran target U.S. bases.  How much does that relationship concern you?</p>
 <p><strong>SECRETARY RUBIO:  </strong>With Russia?</p>
 <p><strong>QUESTION:  </strong>Between Russia and Iran.</p>
 <p><strong>SECRETARY RUBIO:  </strong>Look, unfortunately, I think you’ll find in the world that there are countries, or at least companies within countries, that work with adversaries of ours.  And when we identify it, we raise it, and in some cases very successfully. </p>
@@ -305,7 +305,7 @@
 <p><strong>QUESTION:</strong>  The fact that so many of these Gulf Arab nations have all kind of aligned against Iran, that must be important.</p>
 <p><strong>SECRETARY RUBIO:  </strong>I would say two things about the Middle East and the Gulf – I mean, they’ve always understood who Iran was and the threat they posed.  That threat has now become reality.  They have now seen Iranian drones and Iranian missiles launched into their cities and against their energy infrastructure. </p>
 <p>The other thing that’s changed is I think you’re going to see more and more energy diversifying outside of the Straits of Hormuz, because from a geographic standpoint Iran will always be on the straits, whether they’re governed by this regime or a future government.  But that’s going to be two permanent features that are going to emerge from this:  You’re going to see the realignment in how energy flows, less reliant on the Straits of Hormuz; and you’re going to countries in the region that are no longer – now understand that Iran is no longer a theoretical threat.  As long as this clerical regime remains in place, they are a real threat and a direct threat to their – not just to their economic interests but their security interests.</p>
-<p><strong>QUESTION:  </strong>Well, President Trump says he is going to confront Valdimir Putin regarding reports that Russia helped Iran target U.S. bases.  How much does that relationship concern you?</p>
+<p><strong>QUESTION:  </strong>Well, President Trump says he is going to confront Vladimir Putin regarding reports that Russia helped Iran target U.S. bases.  How much does that relationship concern you?</p>
 <p><strong>SECRETARY RUBIO:  </strong>With Russia?</p>
 <p><strong>QUESTION:  </strong>Between Russia and Iran.</p>
 <p><strong>SECRETARY RUBIO:  </strong>Look, unfortunately, I think you’ll find in the world that there are countries, or at least companies within countries, that work with adversaries of ours.  And when we identify it, we raise it, and in some cases very successfully. </p>
@@ -2318,4 +2318,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=7318 metric#misses=109 metric#hit-ratio=98.5 metric#bytes=1456231 metric#prefetches=280 metric#store-reads=37 metric#store-writes=8 metric#store-hits=288 metric#store-misses=2 metric#sql-queries=20 metric#ms-total=725.87 metric#ms-cache=23.84 metric#ms-cache-avg=0.5417 metric#ms-cache-ratio=3.3 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=7318 metric#misses=109 metric#hit-ratio=98.5 metric#bytes=1462246 metric#prefetches=280 metric#store-reads=37 metric#store-writes=7 metric#store-hits=288 metric#store-misses=2 metric#sql-queries=19 metric#ms-total=816.93 metric#ms-cache=43.02 metric#ms-cache-avg=1.0004 metric#ms-cache-ratio=5.3 -->
