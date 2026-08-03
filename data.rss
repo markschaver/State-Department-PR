@@ -2014,4 +2014,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6805 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1509450 metric#prefetches=282 metric#store-reads=37 metric#store-writes=19 metric#store-hits=290 metric#store-misses=2 metric#sql-queries=31 metric#ms-total=871.55 metric#ms-cache=35.64 metric#ms-cache-avg=0.6479 metric#ms-cache-ratio=4.1 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6742 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1539944 metric#prefetches=219 metric#store-reads=91 metric#store-writes=17 metric#store-hits=290 metric#store-misses=2 metric#sql-queries=29 metric#ms-total=736.36 metric#ms-cache=60.75 metric#ms-cache-avg=0.5678 metric#ms-cache-ratio=8.3 -->
