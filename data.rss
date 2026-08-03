@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Sun, 02 Aug 2026 03:22:50 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Aug 2026 11:04:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -922,7 +922,7 @@
 		
 			</item>
 		<item>
-		<title>US Welcomes Italy into Pax Silica Initiative</title>
+		<title>U.S. Welcomes Italy into Pax Silica Initiative</title>
 		<link>https://www.state.gov/releases/office-of-the-spokesperson/2026/07/us-welcomes-italy-into-pax-silica-initiative/</link>
 		
 		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
@@ -950,7 +950,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						US Welcomes Italy into Pax Silica Initiative
+						U.S. Welcomes Italy into Pax Silica Initiative
 					
 				</h1>
 
@@ -1046,7 +1046,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						US Welcomes Italy into Pax Silica Initiative
+						U.S. Welcomes Italy into Pax Silica Initiative
 					
 				</h1>
 
@@ -1384,7 +1384,7 @@
 
 <div class="classic-block-wrapper"><div class="wp-block-classic">
 <p>The following is attributable to Spokesperson Tommy Pigott:</p>
-<p>Secretary of State Marco Rubio congratulated Peruvian President Keiko Fujimori on her inauguration during their June 30 call.  The Secretary reaffirmed our commitment to deepening ties in the years ahead to strengthen security cooperation against transnational crime, expand trade and investment, and enhance disaster preparedness.</p>
+<p>Secretary of State Marco Rubio congratulated Peruvian President Keiko Fujimori on her inauguration during their July 30 call.  The Secretary reaffirmed our commitment to deepening ties in the years ahead to strengthen security cooperation against transnational crime, expand trade and investment, and enhance disaster preparedness.</p>
 <p>Secretary Rubio noted President Fujimori’s inauguration brings much-needed political stability to Peru and that stable governance is essential to achieving the security and economic growth needed to improve the lives of the Peruvian people.</p>
 <p><input type="hidden" data-filter="111001000111" /></p>
 </div></div>
@@ -1467,7 +1467,7 @@
 
 <div class="classic-block-wrapper"><div class="wp-block-classic">
 <p>The following is attributable to Spokesperson Tommy Pigott:</p>
-<p>Secretary of State Marco Rubio congratulated Peruvian President Keiko Fujimori on her inauguration during their June 30 call.  The Secretary reaffirmed our commitment to deepening ties in the years ahead to strengthen security cooperation against transnational crime, expand trade and investment, and enhance disaster preparedness.</p>
+<p>Secretary of State Marco Rubio congratulated Peruvian President Keiko Fujimori on her inauguration during their July 30 call.  The Secretary reaffirmed our commitment to deepening ties in the years ahead to strengthen security cooperation against transnational crime, expand trade and investment, and enhance disaster preparedness.</p>
 <p>Secretary Rubio noted President Fujimori’s inauguration brings much-needed political stability to Peru and that stable governance is essential to achieving the security and economic growth needed to improve the lives of the Peruvian people.</p>
 <p><input type="hidden" data-filter="111001000111" /></p>
 </div></div>
@@ -2326,4 +2326,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=7346 metric#misses=109 metric#hit-ratio=98.5 metric#bytes=1495893 metric#prefetches=282 metric#store-reads=37 metric#store-writes=6 metric#store-hits=290 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=814.40 metric#ms-cache=25.06 metric#ms-cache-avg=0.5966 metric#ms-cache-ratio=3.1 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=7346 metric#misses=109 metric#hit-ratio=98.5 metric#bytes=1500461 metric#prefetches=282 metric#store-reads=37 metric#store-writes=6 metric#store-hits=290 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=667.32 metric#ms-cache=17.51 metric#ms-cache-avg=0.4169 metric#ms-cache-ratio=2.6 -->
