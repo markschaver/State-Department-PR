@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Tue, 04 Aug 2026 00:36:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Aug 2026 20:10:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -1458,7 +1458,7 @@
 		
 			</item>
 		<item>
-		<title>U.S. Welcomes Italy into Pax Silica Initiative</title>
+		<title>U.S. Welcomes Italy Into Pax Silica Initiative</title>
 		<link>https://www.state.gov/releases/office-of-the-spokesperson/2026/07/us-welcomes-italy-into-pax-silica-initiative/</link>
 		
 		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
@@ -1486,7 +1486,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						U.S. Welcomes Italy into Pax Silica Initiative
+						U.S. Welcomes Italy Into Pax Silica Initiative
 					
 				</h1>
 
@@ -1582,7 +1582,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						U.S. Welcomes Italy into Pax Silica Initiative
+						U.S. Welcomes Italy Into Pax Silica Initiative
 					
 				</h1>
 
@@ -2022,4 +2022,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6864 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1504103 metric#prefetches=282 metric#store-reads=37 metric#store-writes=8 metric#store-hits=290 metric#store-misses=2 metric#sql-queries=20 metric#ms-total=687.95 metric#ms-cache=12.70 metric#ms-cache-avg=0.2886 metric#ms-cache-ratio=1.9 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6864 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1510358 metric#prefetches=282 metric#store-reads=37 metric#store-writes=7 metric#store-hits=290 metric#store-misses=2 metric#sql-queries=19 metric#ms-total=720.21 metric#ms-cache=10.87 metric#ms-cache-avg=0.2527 metric#ms-cache-ratio=1.5 -->
