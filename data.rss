@@ -2022,4 +2022,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6864 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1506015 metric#prefetches=282 metric#store-reads=37 metric#store-writes=16 metric#store-hits=290 metric#store-misses=2 metric#sql-queries=28 metric#ms-total=668.01 metric#ms-cache=3.05 metric#ms-cache-avg=0.0587 metric#ms-cache-ratio=0.5 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6871 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=2573216 metric#prefetches=282 metric#store-reads=39 metric#store-writes=9 metric#store-hits=292 metric#store-misses=2 metric#sql-queries=21 metric#ms-total=744.44 metric#ms-cache=28.67 metric#ms-cache-avg=0.6100 metric#ms-cache-ratio=3.9 -->
