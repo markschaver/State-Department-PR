@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Wed, 05 Aug 2026 03:10:58 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Aug 2026 11:37:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Joint Statement on the U.S. &#8211; Pakistan Counterterrorism Dialogue</title>
+		<title>Joint Statement on the U.S.-Pakistan Counterterrorism Dialogue</title>
 		<link>https://www.state.gov/releases/office-of-the-spokesperson/2026/08/joint-statement-on-the-u-s-pakistan-counterterrorism-dialogue/</link>
 		
 		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
@@ -56,7 +56,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						Joint Statement on the U.S. &#8211; Pakistan Counterterrorism Dialogue
+						Joint Statement on the U.S.-Pakistan Counterterrorism Dialogue
 					
 				</h1>
 
@@ -142,7 +142,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						Joint Statement on the U.S. &#8211; Pakistan Counterterrorism Dialogue
+						Joint Statement on the U.S.-Pakistan Counterterrorism Dialogue
 					
 				</h1>
 
@@ -2028,4 +2028,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6817 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1604694 metric#prefetches=286 metric#store-reads=37 metric#store-writes=7 metric#store-hits=294 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=685.22 metric#ms-cache=10.96 metric#ms-cache-avg=0.2548 metric#ms-cache-ratio=1.6 sample#redis-hits=614221404 sample#redis-misses=2097409 sample#redis-hit-ratio=99.7 sample#redis-ops-per-sec=699 sample#redis-evicted-keys=0 sample#redis-used-memory=2499164120 sample#redis-used-memory-rss=2566447104 sample#redis-memory-fragmentation-ratio=1.0 sample#redis-connected-clients=4 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=587926 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6803 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1563269 metric#prefetches=284 metric#store-reads=37 metric#store-writes=6 metric#store-hits=292 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=794.62 metric#ms-cache=39.48 metric#ms-cache-avg=0.9399 metric#ms-cache-ratio=5.0 -->
