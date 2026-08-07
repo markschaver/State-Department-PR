@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Fri, 07 Aug 2026 20:25:45 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Aug 2026 21:10:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -104,6 +104,16 @@
 
 
 
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Secretary Rubio attends President Trump’s Roundtable on American Mining" width="640" height="360" src="https://www.youtube.com/embed/-68uemHNjxs?feature=oembed&#038;enablejsapi=1&#038;origin=https://www.state.gov" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+</div>
+</div>
 
 
 <div class="wp-block-paragraph">
@@ -210,6 +220,16 @@
 
 
 
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-embed alignwide is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Secretary Rubio attends President Trump’s Roundtable on American Mining" width="640" height="360" src="https://www.youtube.com/embed/-68uemHNjxs?feature=oembed&#038;enablejsapi=1&#038;origin=https://www.state.gov" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+</div>
+</div>
 
 
 <div class="wp-block-paragraph">
@@ -1906,4 +1926,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6934 metric#misses=109 metric#hit-ratio=98.5 metric#bytes=1558686 metric#prefetches=285 metric#store-reads=37 metric#store-writes=7 metric#store-hits=293 metric#store-misses=2 metric#sql-queries=19 metric#ms-total=830.78 metric#ms-cache=61.06 metric#ms-cache-avg=1.4201 metric#ms-cache-ratio=7.4 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=7042 metric#misses=113 metric#hit-ratio=98.4 metric#bytes=1570080 metric#prefetches=290 metric#store-reads=40 metric#store-writes=9 metric#store-hits=298 metric#store-misses=5 metric#sql-queries=21 metric#ms-total=707.54 metric#ms-cache=30.30 metric#ms-cache-avg=0.6312 metric#ms-cache-ratio=4.3 -->
