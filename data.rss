@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Thu, 06 Aug 2026 20:47:28 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Aug 2026 13:19:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -766,7 +766,7 @@
 		
 			</item>
 		<item>
-		<title>United States to Host Ministerial Launch Event for IAEA’s Maritime Nuclear Initiative in Washington </title>
+		<title>United States to Host Ministerial Launch Event for IAEA’s Maritime Nuclear Initiative in Washington</title>
 		<link>https://www.state.gov/releases/office-of-the-spokesperson/2026/08/united-states-to-host-ministerial-launch-event-for-iaeas-maritime-nuclear-initiative-in-washington/</link>
 		
 		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
@@ -794,7 +794,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						United States to Host Ministerial Launch Event for IAEA’s Maritime Nuclear Initiative in Washington 
+						United States to Host Ministerial Launch Event for IAEA’s Maritime Nuclear Initiative in Washington
 					
 				</h1>
 
@@ -878,7 +878,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						United States to Host Ministerial Launch Event for IAEA’s Maritime Nuclear Initiative in Washington 
+						United States to Host Ministerial Launch Event for IAEA’s Maritime Nuclear Initiative in Washington
 					
 				</h1>
 
@@ -1916,4 +1916,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6508 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1426167 metric#prefetches=281 metric#store-reads=37 metric#store-writes=8 metric#store-hits=289 metric#store-misses=2 metric#sql-queries=20 metric#ms-total=670.80 metric#ms-cache=36.47 metric#ms-cache-avg=0.8288 metric#ms-cache-ratio=5.4 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6508 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1425270 metric#prefetches=281 metric#store-reads=37 metric#store-writes=7 metric#store-hits=289 metric#store-misses=2 metric#sql-queries=19 metric#ms-total=648.77 metric#ms-cache=7.97 metric#ms-cache-avg=0.1853 metric#ms-cache-ratio=1.2 -->
