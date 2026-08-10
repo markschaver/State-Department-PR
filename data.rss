@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Mon, 10 Aug 2026 15:34:47 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Aug 2026 16:56:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -1738,7 +1738,7 @@
 <p>The Iranian regime launders billions of dollars by moving illicit funds through various channels, including digital assets exchanges. Today, the United States is imposing sanctions on six entities and one individual – two major digital asset exchanges the regime leverages to maintain international financial connectivity, the ringleader of a network of companies that supports illicit digital asset activities, and his firms in multiple jurisdictions.</p>
 <p>We are taking these actions following Iran’s attacks against commercial vessels in the Strait of Hormuz earlier this week. The United States will continue to deny the regime the resources it needs to threaten its neighbors and innocent vessels, support terrorism, and advance its nuclear ambitions.</p>
 <p>Additionally, the U.S. Department of State’s Rewards for Justice (RFJ) program is offering a reward of up to $15 million for information leading to the disruption of the financial mechanisms of Iran’s IRGC and its various branches.</p>
-<p>Today’s action is being taken pursuant to Executive Order (E.O.) 13902, which targets persons operating in Iran’s financial and petroleum sectors, as well as counterterrorism authority E.O. 13224. For more information on today’s action, see the <a class="external-link" href="https://home.treasury.gov/news/press-releases/sb0598" target="_blank" rel="noopener">Department of the Treasury’s press release<span class="icon-external" title="external link icon" role="img" aria-label="external link icon"></span></a> and <a class="external-link" href="https://rewardsforjustice.net/rewards/islamic-revolutionary-guard-corps/" target="_blank" rel="noopener">Rewards for Justice website<span class="icon-external" title="external link icon" role="img" aria-label="external link icon"></span></a>.</p>
+<p><em>Today’s action is being taken pursuant to Executive Order (E.O.) 13902, which targets persons operating in Iran’s financial and petroleum sectors, as well as counterterrorism authority E.O. 13224. For more information on today’s action, see the <a class="external-link" href="https://home.treasury.gov/news/press-releases/sb0598" target="_blank" rel="noopener">Department of the Treasury’s press release<span class="icon-external" title="external link icon" role="img" aria-label="external link icon"></span></a> and <a class="external-link" href="https://rewardsforjustice.net/rewards/islamic-revolutionary-guard-corps/" target="_blank" rel="noopener">Rewards for Justice website<span class="icon-external" title="external link icon" role="img" aria-label="external link icon"></span></a>.</em></p>
 <p><input type="hidden" data-filter="111001000111" /></p>
 </div></div>
 
@@ -1822,7 +1822,7 @@
 <p>The Iranian regime launders billions of dollars by moving illicit funds through various channels, including digital assets exchanges. Today, the United States is imposing sanctions on six entities and one individual – two major digital asset exchanges the regime leverages to maintain international financial connectivity, the ringleader of a network of companies that supports illicit digital asset activities, and his firms in multiple jurisdictions.</p>
 <p>We are taking these actions following Iran’s attacks against commercial vessels in the Strait of Hormuz earlier this week. The United States will continue to deny the regime the resources it needs to threaten its neighbors and innocent vessels, support terrorism, and advance its nuclear ambitions.</p>
 <p>Additionally, the U.S. Department of State’s Rewards for Justice (RFJ) program is offering a reward of up to $15 million for information leading to the disruption of the financial mechanisms of Iran’s IRGC and its various branches.</p>
-<p>Today’s action is being taken pursuant to Executive Order (E.O.) 13902, which targets persons operating in Iran’s financial and petroleum sectors, as well as counterterrorism authority E.O. 13224. For more information on today’s action, see the <a class="external-link" href="https://home.treasury.gov/news/press-releases/sb0598" target="_blank" rel="noopener">Department of the Treasury’s press release<span class="icon-external" title="external link icon" role="img" aria-label="external link icon"></span></a> and <a class="external-link" href="https://rewardsforjustice.net/rewards/islamic-revolutionary-guard-corps/" target="_blank" rel="noopener">Rewards for Justice website<span class="icon-external" title="external link icon" role="img" aria-label="external link icon"></span></a>.</p>
+<p><em>Today’s action is being taken pursuant to Executive Order (E.O.) 13902, which targets persons operating in Iran’s financial and petroleum sectors, as well as counterterrorism authority E.O. 13224. For more information on today’s action, see the <a class="external-link" href="https://home.treasury.gov/news/press-releases/sb0598" target="_blank" rel="noopener">Department of the Treasury’s press release<span class="icon-external" title="external link icon" role="img" aria-label="external link icon"></span></a> and <a class="external-link" href="https://rewardsforjustice.net/rewards/islamic-revolutionary-guard-corps/" target="_blank" rel="noopener">Rewards for Justice website<span class="icon-external" title="external link icon" role="img" aria-label="external link icon"></span></a>.</em></p>
 <p><input type="hidden" data-filter="111001000111" /></p>
 </div></div>
 
@@ -2036,4 +2036,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=7239 metric#misses=113 metric#hit-ratio=98.5 metric#bytes=1609376 metric#prefetches=293 metric#store-reads=40 metric#store-writes=9 metric#store-hits=301 metric#store-misses=5 metric#sql-queries=21 metric#ms-total=820.20 metric#ms-cache=47.47 metric#ms-cache-avg=0.9890 metric#ms-cache-ratio=5.8 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=7243 metric#misses=113 metric#hit-ratio=98.5 metric#bytes=1662869 metric#prefetches=295 metric#store-reads=40 metric#store-writes=14 metric#store-hits=303 metric#store-misses=5 metric#sql-queries=26 metric#ms-total=696.23 metric#ms-cache=3.97 metric#ms-cache-avg=0.0749 metric#ms-cache-ratio=0.6 -->
