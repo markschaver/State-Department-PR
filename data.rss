@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Tue, 11 Aug 2026 16:43:49 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Aug 2026 20:46:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -105,7 +105,7 @@
 
 
 <div class="classic-block-wrapper"><div class="wp-block-classic">
-<p>Today, after more than four years of detention in Russia, Robert Gilman is on his way home to be reunited with his family. Mr. Gilman joins over 100 Americans whom President Trump has freed during his second term in office. We thank Russia for working with Special Envoy Steve Witkoff to release Mr. Gilman and allowing him to receive the necessary medical treatment here in the United States. While we appreciate this positive step, we are still seeking the immediate return of all other unjustly detained Americans, including wrongful detainee Stephen Hubbard. The President will not stop until all unjustly detained Americans are home.</p>
+<p>Today, after more than four years of detention in Russia, Robert Gilman is on his way home to be reunited with his family. Mr. Gilman joins <a href="https://www.state.gov/bringing-americans-home">over 100 Americans</a> whom President Trump has freed during his second term in office. We thank Russia for working with Special Envoy Steve Witkoff to release Mr. Gilman and allowing him to receive the necessary medical treatment here in the United States. While we appreciate this positive step, we are still seeking the immediate return of all other unjustly detained Americans, including wrongful detainee Stephen Hubbard. The President will not stop until all unjustly detained Americans are home.</p>
 <p><input type="hidden" data-filter="111001000111" /></p>
 </div></div>
 
@@ -186,7 +186,7 @@
 
 
 <div class="classic-block-wrapper"><div class="wp-block-classic">
-<p>Today, after more than four years of detention in Russia, Robert Gilman is on his way home to be reunited with his family. Mr. Gilman joins over 100 Americans whom President Trump has freed during his second term in office. We thank Russia for working with Special Envoy Steve Witkoff to release Mr. Gilman and allowing him to receive the necessary medical treatment here in the United States. While we appreciate this positive step, we are still seeking the immediate return of all other unjustly detained Americans, including wrongful detainee Stephen Hubbard. The President will not stop until all unjustly detained Americans are home.</p>
+<p>Today, after more than four years of detention in Russia, Robert Gilman is on his way home to be reunited with his family. Mr. Gilman joins <a href="https://www.state.gov/bringing-americans-home">over 100 Americans</a> whom President Trump has freed during his second term in office. We thank Russia for working with Special Envoy Steve Witkoff to release Mr. Gilman and allowing him to receive the necessary medical treatment here in the United States. While we appreciate this positive step, we are still seeking the immediate return of all other unjustly detained Americans, including wrongful detainee Stephen Hubbard. The President will not stop until all unjustly detained Americans are home.</p>
 <p><input type="hidden" data-filter="111001000111" /></p>
 </div></div>
 
@@ -1968,4 +1968,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6738 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1490710 metric#prefetches=285 metric#store-reads=37 metric#store-writes=7 metric#store-hits=293 metric#store-misses=2 metric#sql-queries=19 metric#ms-total=832.15 metric#ms-cache=32.44 metric#ms-cache-avg=0.7544 metric#ms-cache-ratio=3.9 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6738 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1532669 metric#prefetches=285 metric#store-reads=37 metric#store-writes=6 metric#store-hits=293 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=667.36 metric#ms-cache=37.66 metric#ms-cache-avg=0.8968 metric#ms-cache-ratio=5.6 -->
