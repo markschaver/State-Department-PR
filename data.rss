@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Mon, 10 Aug 2026 20:45:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Aug 2026 12:00:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -499,11 +499,12 @@
 		<title>Diplomatic Security Leads Investigation Resulting in Guilty Plea for Threats Against Secretary of State Marco Rubio</title>
 		<link>https://www.state.gov/releases/office-of-the-spokesperson/2026/08/diplomatic-security-leads-investigation-resulting-in-guilty-plea-for-threats-against-secretary-of-state-marco-rubio/</link>
 		
-		<dc:creator><![CDATA[U.S. Department of State]]></dc:creator>
+		<dc:creator><![CDATA[Office of the Spokesperson]]></dc:creator>
 		<pubDate>Mon, 10 Aug 2026 18:09:15 +0000</pubDate>
 				<guid isPermaLink="false">https://www.state.gov/releases/preview/699335/</guid>
 
-					<description><![CDATA[
+					<description><![CDATA[<p>Office of the Spokesperson</p>
+
 <section class="wp-block-default-hero-container wp-block-default-hero-container--no-featured-content ">
 
 	<div class="wp-block-default-hero module featured-content page-header ">
@@ -584,7 +585,7 @@
 </div>
 
 <div class="wp-block-paragraph">
-<p class="wp-block-paragraph">For further information, please submit an inquiry through the <a href="https://iipstate.my.site.com/DOSMediaInquiries/s/￼">Media Inquiries form </a></p>
+<p class="wp-block-paragraph">For further information, please submit an inquiry through the <a href="https://iipstate.my.site.com/DOSMediaInquiries/s/%EF%BF%BC" target="_blank" rel="noopener" class="external-link">Media Inquiries form<span class="icon-external" title="external link icon" role="img" aria-label="external link icon"></span>.</a></p>
 </div>
 
 
@@ -594,7 +595,8 @@
 
 
 ]]></description>
-										<content:encoded><![CDATA[
+										<content:encoded><![CDATA[<p>Office of the Spokesperson</p>
+
 <section class="wp-block-default-hero-container wp-block-default-hero-container--no-featured-content ">
 
 	<div class="wp-block-default-hero module featured-content page-header ">
@@ -675,7 +677,7 @@
 </div>
 
 <div class="wp-block-paragraph">
-<p class="wp-block-paragraph">For further information, please submit an inquiry through the <a href="https://iipstate.my.site.com/DOSMediaInquiries/s/￼">Media Inquiries form </a></p>
+<p class="wp-block-paragraph">For further information, please submit an inquiry through the <a href="https://iipstate.my.site.com/DOSMediaInquiries/s/%EF%BF%BC" target="_blank" rel="noopener" class="external-link">Media Inquiries form<span class="icon-external" title="external link icon" role="img" aria-label="external link icon"></span>.</a></p>
 </div>
 
 
@@ -2094,4 +2096,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=7004 metric#misses=109 metric#hit-ratio=98.5 metric#bytes=1551997 metric#prefetches=287 metric#store-reads=37 metric#store-writes=6 metric#store-hits=295 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=992.97 metric#ms-cache=4.06 metric#ms-cache-avg=0.0966 metric#ms-cache-ratio=0.4 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=7076 metric#misses=112 metric#hit-ratio=98.4 metric#bytes=1610342 metric#prefetches=288 metric#store-reads=39 metric#store-writes=7 metric#store-hits=297 metric#store-misses=5 metric#sql-queries=19 metric#ms-total=826.68 metric#ms-cache=43.45 metric#ms-cache-avg=0.9655 metric#ms-cache-ratio=5.3 -->
