@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Wed, 12 Aug 2026 14:50:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Aug 2026 15:27:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,11 +31,12 @@
 		<title>Joint Statement by Secretary of Health and Human Services Robert F. Kennedy and Secretary of State Marco Rubio: United States to Serve as Secretariat of the Geneva Consensus Declaration </title>
 		<link>https://www.state.gov/releases/office-of-the-spokesperson/2026/08/joint-statement-by-secretary-of-health-and-human-services-robert-f-kennedy-and-secretary-of-state-marco-rubio-united-states-to-serve-as-secretariat-of-the-geneva-consensus-declaration/</link>
 		
-		<dc:creator><![CDATA[Marco Rubio, Secretary of State]]></dc:creator>
+		<dc:creator><![CDATA[Marco Rubio, Secretary of State, Robert F. Kennedy]]></dc:creator>
 		<pubDate>Wed, 12 Aug 2026 14:50:24 +0000</pubDate>
 				<guid isPermaLink="false">https://www.state.gov/releases/preview/699457/</guid>
 
 					<description><![CDATA[<p>Marco Rubio, Secretary of State</p>
+<p>Robert F. Kennedy</p>
 
 <section class="wp-block-default-hero-container wp-block-default-hero-container--no-featured-content ">
 
@@ -121,6 +122,7 @@
 
 ]]></description>
 										<content:encoded><![CDATA[<p>Marco Rubio, Secretary of State</p>
+<p>Robert F. Kennedy</p>
 
 <section class="wp-block-default-hero-container wp-block-default-hero-container--no-featured-content ">
 
@@ -3428,4 +3430,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6802 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1669637 metric#prefetches=284 metric#store-reads=37 metric#store-writes=6 metric#store-hits=292 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=716.98 metric#ms-cache=46.71 metric#ms-cache-avg=1.1121 metric#ms-cache-ratio=6.5 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6803 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1670563 metric#prefetches=284 metric#store-reads=37 metric#store-writes=4 metric#store-hits=292 metric#store-misses=2 metric#sql-queries=14 metric#ms-total=308.63 metric#ms-cache=31.39 metric#ms-cache-avg=0.7847 metric#ms-cache-ratio=10.2 -->
