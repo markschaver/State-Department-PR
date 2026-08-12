@@ -1978,4 +1978,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6742 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1644413 metric#prefetches=287 metric#store-reads=37 metric#store-writes=6 metric#store-hits=295 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=901.41 metric#ms-cache=43.28 metric#ms-cache-avg=1.0304 metric#ms-cache-ratio=4.8 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6742 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1643915 metric#prefetches=287 metric#store-reads=37 metric#store-writes=20 metric#store-hits=295 metric#store-misses=2 metric#sql-queries=32 metric#ms-total=914.47 metric#ms-cache=48.85 metric#ms-cache-avg=0.8722 metric#ms-cache-ratio=5.3 -->
