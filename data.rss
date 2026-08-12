@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Wed, 12 Aug 2026 02:23:16 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Aug 2026 12:00:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Secretary of State Marco RubioWith Katie Miller of The Katie Miller Podcast</title>
+		<title>Secretary of State Marco Rubio With Katie Miller of The Katie Miller Podcast</title>
 		<link>https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-of-state-marco-rubiowith-katie-miller-of-the-katie-miller-podcast/</link>
 		
 		<dc:creator><![CDATA[Marco Rubio, Secretary of State]]></dc:creator>
@@ -58,7 +58,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						Secretary of State Marco RubioWith Katie Miller of The Katie Miller Podcast
+						Secretary of State Marco Rubio With Katie Miller of The Katie Miller Podcast
 					
 				</h1>
 
@@ -864,7 +864,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						Secretary of State Marco RubioWith Katie Miller of The Katie Miller Podcast
+						Secretary of State Marco Rubio With Katie Miller of The Katie Miller Podcast
 					
 				</h1>
 
@@ -3424,4 +3424,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6810 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1751781 metric#prefetches=288 metric#store-reads=37 metric#store-writes=6 metric#store-hits=296 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=664.01 metric#ms-cache=2.58 metric#ms-cache-avg=0.0614 metric#ms-cache-ratio=0.4 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6806 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1696157 metric#prefetches=286 metric#store-reads=37 metric#store-writes=6 metric#store-hits=294 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=687.86 metric#ms-cache=16.98 metric#ms-cache-avg=0.4044 metric#ms-cache-ratio=2.5 -->
