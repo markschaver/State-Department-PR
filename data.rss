@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Sun, 16 Aug 2026 18:42:13 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Aug 2026 13:39:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -572,7 +572,7 @@
 		
 			</item>
 		<item>
-		<title>The Republic of the Congo National Day  </title>
+		<title>The Republic of the Congo National Day</title>
 		<link>https://www.state.gov/releases/office-of-the-spokesperson/2026/08/the-republic-of-the-congo-national-day-2/</link>
 		
 		<dc:creator><![CDATA[Marco Rubio, Secretary of State]]></dc:creator>
@@ -600,7 +600,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						The Republic of the Congo National Day  
+						The Republic of the Congo National Day
 					
 				</h1>
 
@@ -688,7 +688,7 @@
 				<h1 class="featured-content__headline stars-above">
 
 					
-						The Republic of the Congo National Day  
+						The Republic of the Congo National Day
 					
 				</h1>
 
@@ -1890,4 +1890,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6916 metric#misses=109 metric#hit-ratio=98.5 metric#bytes=1474355 metric#prefetches=280 metric#store-reads=37 metric#store-writes=12 metric#store-hits=288 metric#store-misses=2 metric#sql-queries=24 metric#ms-total=770.61 metric#ms-cache=23.40 metric#ms-cache-avg=0.4876 metric#ms-cache-ratio=3.0 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6912 metric#misses=109 metric#hit-ratio=98.5 metric#bytes=1440103 metric#prefetches=278 metric#store-reads=37 metric#store-writes=8 metric#store-hits=286 metric#store-misses=2 metric#sql-queries=20 metric#ms-total=673.62 metric#ms-cache=33.42 metric#ms-cache-avg=0.7595 metric#ms-cache-ratio=5.0 -->
