@@ -12,7 +12,7 @@
 	<atom:link href="https://www.state.gov/rss-feed/press-releases/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.state.gov</link>
 	<description></description>
-	<lastBuildDate>Wed, 19 Aug 2026 00:29:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Aug 2026 12:58:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -105,7 +105,7 @@
 
 
 <div class="classic-block-wrapper"><div class="wp-block-classic">
-<p>The below is attributable to Principal Deputy Spokesperson Tommy Pigott:</p>
+<p>The below is attributable to Spokesperson Tommy Pigott:</p>
 <p>Secretary of State Marco Rubio spoke today with UAE National Security Advisor Sheikh Tahnoon bin Zayed Al Nahyan. The two discussed a number of regional security issues, including Lebanon, as well as continued U.S.-UAE coordination to hold Iran and its terrorist proxies accountable for ongoing attacks. Secretary Rubio underscored the importance of freedom of navigation through the Strait of Hormuz.</p>
 <p><input type="hidden" data-filter="100001000100" /></p>
 </div></div>
@@ -187,7 +187,7 @@
 
 
 <div class="classic-block-wrapper"><div class="wp-block-classic">
-<p>The below is attributable to Principal Deputy Spokesperson Tommy Pigott:</p>
+<p>The below is attributable to Spokesperson Tommy Pigott:</p>
 <p>Secretary of State Marco Rubio spoke today with UAE National Security Advisor Sheikh Tahnoon bin Zayed Al Nahyan. The two discussed a number of regional security issues, including Lebanon, as well as continued U.S.-UAE coordination to hold Iran and its terrorist proxies accountable for ongoing attacks. Secretary Rubio underscored the importance of freedom of navigation through the Strait of Hormuz.</p>
 <p><input type="hidden" data-filter="100001000100" /></p>
 </div></div>
@@ -1842,4 +1842,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6762 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1528821 metric#prefetches=282 metric#store-reads=37 metric#store-writes=6 metric#store-hits=290 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=879.18 metric#ms-cache=34.55 metric#ms-cache-avg=0.8226 metric#ms-cache-ratio=3.9 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=6762 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1520157 metric#prefetches=282 metric#store-reads=37 metric#store-writes=6 metric#store-hits=290 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=661.98 metric#ms-cache=34.47 metric#ms-cache-avg=0.8207 metric#ms-cache-ratio=5.2 -->
