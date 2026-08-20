@@ -1840,4 +1840,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=6699 metric#misses=109 metric#hit-ratio=98.4 metric#bytes=1566621 metric#prefetches=282 metric#store-reads=37 metric#store-writes=6 metric#store-hits=290 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=828.55 metric#ms-cache=33.93 metric#ms-cache-avg=0.8079 metric#ms-cache-ratio=4.1 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=10987 metric#misses=109 metric#hit-ratio=99.0 metric#bytes=1199878 metric#prefetches=434 metric#store-reads=37 metric#store-writes=7 metric#store-hits=442 metric#store-misses=2 metric#sql-queries=19 metric#ms-total=677.17 metric#ms-cache=33.12 metric#ms-cache-avg=0.7702 metric#ms-cache-ratio=4.9 -->
