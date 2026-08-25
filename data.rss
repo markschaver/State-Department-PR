@@ -2440,4 +2440,4 @@
 	</channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=8200 metric#misses=109 metric#hit-ratio=98.7 metric#bytes=1632189 metric#prefetches=288 metric#store-reads=37 metric#store-writes=6 metric#store-hits=296 metric#store-misses=2 metric#sql-queries=18 metric#ms-total=818.74 metric#ms-cache=25.35 metric#ms-cache-avg=0.6037 metric#ms-cache-ratio=3.1 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=8200 metric#misses=109 metric#hit-ratio=98.7 metric#bytes=1632194 metric#prefetches=288 metric#store-reads=37 metric#store-writes=11 metric#store-hits=296 metric#store-misses=2 metric#sql-queries=23 metric#ms-total=1620.64 metric#ms-cache=28.11 metric#ms-cache-avg=0.5980 metric#ms-cache-ratio=1.7 -->
