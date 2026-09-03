@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.0.3</generator>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
 
 <image>
 	<url>https://www.state.gov/wp-content/uploads/2022/04/cropped-dos_seal-32x32.png</url>
@@ -2613,5 +2613,3 @@
 			</item>
 	</channel>
 </rss>
-
-<!-- plugin=object-cache-pro client=phpredis metric#hits=8366 metric#misses=109 metric#hit-ratio=98.7 metric#bytes=1540647 metric#prefetches=279 metric#store-reads=37 metric#store-writes=8 metric#store-hits=287 metric#store-misses=2 metric#sql-queries=20 metric#ms-total=993.64 metric#ms-cache=50.14 metric#ms-cache-avg=1.1395 metric#ms-cache-ratio=5.1 -->
